@@ -1,0 +1,2284 @@
+- DATA CENTERS AND THE CLOUD: IS THE GOVERNMENT OPTIMIZING NEW INFORMATION TECHNOLOGIES OPPORTUNITIES TO SAVE TAXPAYERS MONEY?
+
+[House Hearing, 113 Congress]
+[From the U.S. Government Publishing Office]
+
+DATA CENTERS AND THE CLOUD: IS THE GOVERNMENT OPTIMIZING NEW
+INFORMATION TECHNOLOGIES OPPORTUNITIES TO SAVE TAXPAYERS MONEY?
+
+=======================================================================
+
+HEARING
+
+before the
+
+SUBCOMMITTEE ON GOVERNMENT OPERATIONS
+
+of the
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED THIRTEETH CONGRESS
+
+FIRST SESSION
+
+__________
+
+MAY 14, 2013
+
+__________
+
+Serial No. 113-26
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+U.S. GOVERNMENT PRINTING OFFICE
+81-280                    WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail,
+[email protected]
+.
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+DARRELL E. ISSA, California, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, JR., Tennessee       CAROLYN B. MALONEY, New York
+PATRICK T. McHENRY, North Carolina   ELEANOR HOLMES NORTON, District of
+JIM JORDAN, Ohio                         Columbia
+JASON CHAFFETZ, Utah                 JOHN F. TIERNEY, Massachusetts
+TIM WALBERG, Michigan                WM. LACY CLAY, Missouri
+JAMES LANKFORD, Oklahoma             STEPHEN F. LYNCH, Massachusetts
+JUSTIN AMASH, Michigan               JIM COOPER, Tennessee
+PAUL A. GOSAR, Arizona               GERALD E. CONNOLLY, Virginia
+PATRICK MEEHAN, Pennsylvania         JACKIE SPEIER, California
+SCOTT DesJARLAIS, Tennessee          MATTHEW A. CARTWRIGHT,
+TREY GOWDY, South Carolina               Pennsylvania
+BLAKE FARENTHOLD, Texas              MARK POCAN, Wisconsin
+DOC HASTINGS, Washington             TAMMY DUCKWORTH, Illinois
+CYNTHIA M. LUMMIS, Wyoming           ROBIN L. KELLY, Illinois
+ROB WOODALL, Georgia                 DANNY K. DAVIS, Illinois
+THOMAS MASSIE, Kentucky              PETER WELCH, Vermont
+DOUG COLLINS, Georgia                TONY CARDENAS, California
+MARK MEADOWS, North Carolina         STEVEN A. HORSFORD, Nevada
+KERRY L. BENTIVOLIO, Michigan        MICHELLE LUJAN GRISHAM, New Mexico
+RON DeSANTIS, Florida
+
+Lawrence J. Brady, Staff Director
+John D. Cuaderes, Deputy Staff Director
+Stephen Castor, General Counsel
+Linda A. Good, Chief Clerk
+David Rapallo, Minority Staff Director
+
+Subcommittee on Government Operations
+
+JOHN L. MICA, Florida, Chairman
+TIM WALBERG, Michigan                GERALD E. CONNOLLY, Virginia
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JUSTIN AMASH, Michigan               JIM COOPER, Tennessee
+THOMAS MASSIE, Kentucky              MARK POCAN, Wisconsin
+MARK MEADOWS, North Carolina
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on MAY 14, 2013.....................................     1
+
+WITNESSES
+
+Mr. David A. Powner, Director, Information Technology Management
+Issues, U.S. Government Accountability Office
+Oral Statement...............................................     7
+Written Statement............................................     9
+Mr. Bernard Mazer, Chief Information Officer, U.S. Department of
+the Interior
+Oral Statement...............................................    33
+Written Statement............................................    35
+Mr. Steve O' Keefe, Founder, Meritalk
+Oral Statement...............................................    49
+Written Statement............................................    52
+Ms. Teresa Carlson, Vice President, World Wide Public Sector,
+Amazon Web Services
+Oral Statement...............................................    56
+Written Statement............................................    58
+Mr. Kenyon Wells, Vice President of U.S. Federal, CGI Federal
+Oral Statement...............................................    63
+Written Statement............................................    65
+
+APPENDIX
+
+Statement for the Record Submitted by Facebook, Inc..........    82
+The Government IT Network, The FDCCI Big Squeeze.............    86
+Data Center ``Statistics''...................................    90
+Statement for the Record of Thomas A. Schatz.................    91
+
+DATA CENTERS AND THE CLOUD: IS THE GOVERNMENT OPTIMIZING NEW
+INFORMATION TECHNOLOGIES OPPORTUNITIES TO SAVE TAXPAYERS MONEY?
+
+----------
+
+Tuesday, May 14, 2013
+
+House of Representatives,
+Subcommittee on Government Operations,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:49 p.m., in
+the Meese Conference Room in Mason Hall at George Mason
+University, 4379 Mason Pond Drive, Fairfax, Virginia, Hon. John
+Mica [chairman of the subcommittee] presiding.
+Present: Representatives Mica and Connolly.
+Staff Present: Alexia Ardolina, Assistant Clerk; Richard A.
+Beutel, Senior Counsel; and Mark D. Marin, Director of
+Oversight.
+Mr. Mica. Well, good afternoon. I am Congressman John Mica.
+I am pleased to chair one of the Oversight and Reform
+subcommittees, which is Government Operations, and have the
+opportunity to be here today.
+The Democrat leader of the subcommittee is the
+distinguished gentleman and Congressman from this district--I
+believe we are in his district----
+Mr. Connolly. Yes.
+Mr. Mica. --Mr. Connolly. So, with that partnership, we
+have the responsibility to conduct various oversight hearings
+and look at government operations.
+But today I call and convene the subcommittee hearing to
+order in this district. And the title of today's hearing is
+``Data Centers and the Cloud: Is the Government Optimizing New
+Information Technology Opportunities to Save Taxpayer
+Dollars?'' And that is the subject.
+And we are here, actually, at the request of the ranking
+member, Mr. Connolly. What we try to do is operate the panel in
+a bipartisan manner, and areas of interest or particular
+expertise, we like to highlight the priorities of Members. And
+Mr. Connolly has been very active and a leader in trying to
+consolidate some of the duplicative and costly data centers in
+the Federal Government. He has been on this issue before I got
+the opportunity to chair this subcommittee, so he has a long
+history. And it was one of his priority requests that we
+conduct the hearing. And, jointly, we decided that this would
+be a great place, Fairfax County, George Mason University, to
+have a field hearing here.
+I apologize for the delay. My plane was on time, but, as I
+told Mr. Connolly, the traffic in northern Virginia is
+horrendous. In spite of my efforts to help with the rail
+connection to Dulles and all, we still have a ways to go. But
+we are delighted to be here.
+The order of business--I will step out of order for just a
+second because we are here at a very distinguished university.
+If I could, maybe I could ask the ranking member to introduce
+the president of this university, and we could inject a few
+comments before we get to the business of the subcommittee.
+Again, we are delighted to be here. I think it is great to
+come to a university setting. I don't know if we have students,
+professors, or others here, but it's an awesome opportunity. I
+see some of us may, in fact, be recorded. And, again, it is an
+actual hearing of Congress and part of our realtime work. So we
+are pleased to be here.
+Would you do us the honors, Mr. Connolly?
+Mr. Connolly. I would. Thank you, Mr. Chairman. And thank
+you so much for being here. And we all apologize for our
+traffic, but when you were both the ranking member and the
+chairman of the Transportation and Infrastructure Committee,
+you were very sympathetic and supportive of our efforts to
+extend rail to Dulles Airport. And we want to thank you for
+your support, because you did get it, about how serious the
+congestion is here.
+It is my privilege to introduce the president of George
+Mason University, Angel Cabrera. We just actually celebrated
+the installation ceremony for our new president. He comes to us
+after many years of serving in the southwest part of the United
+States in other academic endeavors, and we are delighted to
+have him here.
+George Mason University is about a little over 40 years old
+now and in that 40-year time period has grown to become the
+largest single university in the Commonwealth of Virginia,
+which always surprises people at UVA, Mr. Jefferson's
+university, which is over 200 years old, and Virginia Tech,
+also a very large campus. So it just tells you a lot about what
+is going on in terms of academic programs here in northern
+Virginia. And it is a center of excellence, especially for the
+technology community, but for so many other things as well.
+So welcome, President Cabrera.
+Mr. Cabrera. Well, thank you so much.
+Thank you, Mr. Chairman.
+Mr. Mica. You might come over. I don't know, are these live
+right here?
+Mr. Cabrera. Yes. Thank you so much, Chairman Mica and
+Congressman Connolly, for moving the business of Congress
+across the river. And I hope the air of Fairfax will make the
+meeting very, very productive.
+I want to point out that even though we have a problem with
+physical transportation of vehicles, the transportation of bits
+through the Internet couldn't be any faster than it is in
+northern Virginia, which I think is one of the reasons why this
+is a perfect location to have this discussion.
+I would also point out that we are, of course, in one of
+the most educated and one of the wealthiest counties in
+America. Those two things go hand-in-hand. And one of the
+reasons why this area has become probably the world's hotbed
+for the Internet and for cloud computing and other information
+technologies is precisely because we have universities like
+George Mason that right now ranks in the top 200 of research
+universities in the world.
+So it is a privilege to have you here. I wish you a very
+productive meeting. And thank you so much for having chosen
+George Mason University to conduct your business. Thank you.
+Mr. Mica. Well, thank you. And, again, we are pleased to be
+here.
+And we will proceed. We are a little bit late in beginning
+the proceedings, but the order of business will be as follows:
+I will start with an opening statement. I will yield to Mr.
+Connolly. Then we have two panels of witnesses. I will
+introduce the two panels. One is primarily government; the
+second looks like primarily private sector. We will proceed
+with questions after we have heard from the witnesses, the
+first two on the first panel and then the second panel.
+So, with that, we will go ahead and proceed, and I will
+recognize myself to sort of set the stage and talk about the
+topic.
+Today's hearing, actually, again, is the result of some of
+the work of the Democrat leader of the committee. Some several
+years ago, the GAO began some work and looked at some of the
+data center consolidations. In fact, today, coinciding with
+this hearing, there is the release of this report, ``Data
+Center Consolidation: Strengthened Oversight Needed to Achieve
+Cost-Savings Goals.'' And the subject matter contained in this
+report will be discussed by the GAO representative.
+But some of the background here is that GAO reports, in
+fact, that in fiscal year 2011 the government funded 622
+separate human resources systems, costing $2.4 billion; some
+580 financial management systems, costing some $2.7 billion;
+777 supply chain management systems, costing some $3.3 billion;
+and so the list continues. Most of these systems perform,
+unbelievably, the same function.
+To address some of this wasteful duplication, and with much
+fanfare, the OMB, the Office of Management and Budget, rolled
+out a program in 2010 entitled the Federal Data Center
+Consolidation Initiative. Sometimes you will hear me refer to
+it as the FDCCI. But they trumpeted the fact that they thought
+that they could close 40 percent of the data centers by 2015
+and save taxpayers a welcome $3 billion. That would have meant
+that, in closing 1,253 of the 3,133 total Federal database
+centers, we could save that much money.
+To accomplish this savings, 24 of the CFO Act agencies were
+tasked by the OMB to do several things: first of all, to
+conduct an initial inventory of data center assets by April
+30th of 2010; and then, secondly, to develop a plan by June
+30th, 2010; and report quarterly on their closures and savings
+via an online portal called data.gov.
+Today, GAO has released the latest of its three reports,
+the one I referred to. In that report, we will find that the
+GAO uncovered the fact that the program was not being
+effectively implemented, unfortunately, and, also
+unfortunately, that taxpayers are not going to recognize or
+realize the projected savings that were anticipated.
+Specifically, OMB and the agencies, some of the findings--
+again, not mine, but theirs--were that the agencies were
+delinquent on finalizing their data consolidation, their
+migration plans. And, also, we have, I think, a chart up here
+that shows the cells in orange, and we see missing data in
+these cells, lots of question marks.
+So we also found in that report that we lacked a basic
+system to track cost savings so that progress toward that $300
+billion cost-savings goal could be measured. GAO states, and
+let me quote them, ``As of November 2012, the total savings to
+date had not been tracked but were believed to be,
+unfortunately, minimal.'' Again, their commentary.
+OMB recently announced its plan to roll up the FDCCI into
+its broader--a new process called PortfolioStat, potentially
+losing focus and motivation to carry out this much-behind
+consolidation of the original intended government data centers,
+again, consolidation.
+At a time of fiscal austerity and tight budgets, it has
+never been more important for the Federal Government to drive
+efficiencies and cost savings through effective management of
+its information technology systems. It is absolutely essential
+that IT assets should be optimized to maximize the return on
+investments, reduce operational risk, and provide responsive
+services to its citizens.
+We must, I believe, accelerate data center optimization by
+urging agencies to complete meaningful transition and
+consolidation plans for their data centers and, also,
+accurately track these savings.
+And another thing that we are going to have to do is
+support broader transition to the cloud solutions for Federal
+IT resources and hopefully drive broader efficiencies in the
+use and deployment of IT data centers. We are going to hear
+from some of the private sector in here a little bit about how
+we might achieve some of that in our second panel.
+So, with that sort of setting the stage for where we are in
+this hearing and, again, the review of what is taking place
+with this consolidation effort, let me now yield to the
+gentleman from Virginia, Mr. Connolly.
+Mr. Connolly. Thank you so much, Mr. Chairman. And thank
+you for your gracious willingness to have this field hearing
+here in the 11th District of Virginia at George Mason
+University. I have very much appreciated the spirit in which
+you and I have been able to work, beginning this year when this
+subcommittee was first formed. And my hat is off to you in
+terms of bipartisan cooperation and comity, and I thank you.
+We have something like 3,100 data centers in the Federal
+Government, and that is an astounding number. It is a stovepipe
+kind of operation, and it is expensive and inefficient.
+And what we are trying to do here is identify ways to
+optimize, you know, the purpose here, through private-sector
+cloud computing, through some remaining Federal data centers
+that may make sense, but to try to achieve efficiencies,
+especially right now when we are in budget contraction.
+It is imperative for agencies to be able to expand their
+scope and to be able to try to replace through better
+deployment of technology lost dollars in their bottom line in
+terms of the budget. If we don't do that, if we are not, you
+know, seized with a sense of urgency about that mission, then,
+you know, Federal agencies are going to have to do less with
+less. And that will not serve the American people very well.
+And so this, while for some a dry topic, is really at the
+cutting edge of, can we organize ourselves in the Federal
+Government to replicate what the private sector has done in
+terms of the utilization of technology, better investments in
+technology, smarter investments in technology?
+We have had hearings, as the chairman knows, on the
+Oversight and Government Reform Committee where it is estimated
+that, of the $81-billion-a-year Federal information technology
+budget, perhaps as much as $20 billion of it is spent in less-
+than-optimum ways, some of it maintaining very old legacy
+systems.
+Now, the good news about that, as was pointed out in one of
+our hearings, was that the Chinese don't know how to hack into
+those legacy systems. So maybe that's an upside. But in terms
+of efficiency for the future and making sure that we're ready
+to go for the future, I'm not sure it's the kind of investment
+we want to be maintaining forever.
+And so data center consolidation is one piece of a larger
+piece of Federal IT policy. And as the chairman indicated, I
+requested the GAO report--and we are going to hear about it
+today in testimony from Mr. Powner--on how are we doing. And
+you can see from this chart, as the chairman just pointed out,
+well, I wouldn't give us an A in terms of compliance with
+trying to consolidate and eliminate duplicative data centers.
+For some agencies, it may just be that it is not a
+priority. For others, maybe they don't share the goal. But we
+have got to reach the OMB goal of 40 percent reduction, or
+consolidation, and we want to actually go way beyond that,
+because that still leaves us with 1,100 or 1,200 data centers,
+and it's not at all clear that we need all of them.
+And so this is an important part of a larger picture. This
+bill that I introduced on data center consolidation is an
+entire title of what is known as the FITARA bill that Chairman
+Issa, Chairman Mica, myself, and Ranking Member Elijah Cummings
+have introduced in this Congress that would be the most
+comprehensive rewrite of Federal IT acquisition policy since--
+well, in 20 years. And so this is a vital piece of it, and
+that's what we're doing here today, to try to really focus on
+how can we do better at the Federal level. We need to do
+better.
+So thank you all for being here.
+And, again, Mr. Mica, thank you so much for having this
+hearing.
+Mr. Mica. Again, pleased to be here.
+And what we will do is, we have additional statements that
+Members may like to submit. And, also, if the public or anyone
+else is interested in submitting, it has to be done through a
+Member, so in this case it would be Mr. Connolly or another
+member of our subcommittee panel. But, without objection, the
+record will be left open for 7 days, with Mr. Connolly's
+concurrence.
+Mr. Mica. And I also see that Facebook has a written
+statement that they would like to be entered into the record.
+Mr. Connolly asked that that be permitted.
+Without objection, so ordered.
+Mr. Mica. Now we will turn to our first panel of witnesses.
+And we have two distinguished panelists: Mr. David A. Powner,
+and he is the director of information technology management
+issues with the U.S. Government Accountability Office. We refer
+to it commonly as GAO. Then we have Mr. Bernard Mazer, and he
+is the Chief Information Officer of the Department of the
+Interior.
+Now, I think we've got two more witness little plaques out
+there. And I'm not a happy camper, Mr. Connolly, that OMB and
+GSA have chosen not to provide us a witness this morning. And
+they are not going to squirm out of appearing before the panel,
+so we will schedule another hearing. It may not be here, but it
+will be in Washington. And we will call them in either
+voluntarily or however we have to do it, because we do--this is
+about saving taxpayers significant sums of money and achieving
+something that they set out to do. So we need answers, and we
+want it straight from those individuals involved.
+Mr. Connolly. Mr. Chairman?
+Mr. Mica. Yes, Mr. Connolly.
+Mr. Connolly. I concur in your sense of disappointment with
+OMB. I conveyed my disappointment to folks at the White House
+directly and to OMB directly for their nonparticipation today.
+None of that should, of course, detract from the fact that
+we are delighted to have the witnesses we do have.
+Mr. Mica. Yes, and we'll start it, and we'll start it here
+in Fairfax at George Mason, and we'll get to the bottom of it.
+Sometimes it takes more time.
+I understand last night, apparently in response to this
+hearing--and these hearings do actually make things happen,
+believe it or not--GSA, which is a no-show, updated their data
+posting from zero to 74 planned data centers closings on
+data.gov. So we sometimes can get some things moving along. And
+that's part of this process, is the constant oversight that
+we're responsible for in this important committee and
+subcommittee.
+So those are the two witnesses we have from GAO and the
+Department of the Interior.
+This is an investigative panel, and it is part of the
+procedures of the panel to swear in our witnesses. So I would
+ask you to stand, if you can, Mr. Powner and Mr. Mazer. Raise
+your right hand.
+Do you solemnly swear or affirm that the testimony you are
+about to give and provide this subcommittee of Congress is the
+whole truth and nothing but the truth?
+Mr. Mazer. Yes, I do.
+Mr. Powner. Yes, I do so solemnly swear.
+Mr. Mica. Let the record reflect that the witnesses
+answered and responded in the affirmative.
+So, with that, the way we proceed, for everyone's
+information, is first I will call on GAO's representative, Mr.
+Powner, and then Mr. Mazer, in that order.
+And we have a little bit of extra time. We try to hold it
+to 5 minutes. If you have prepared information or background
+data that you would like submitted to the record, just request
+it to the chair, and that will be accomplished.
+So, with that, we welcome you.
+And, Mr. Powner, first, you are recognized.
+
+STATEMENT OF DAVID A. POWNER
+
+Mr. Powner. Chairman Mica, Ranking Member Connolly, we
+appreciate the opportunity to testify on the Federal
+Government's efforts to consolidate its data centers and to
+save taxpayers billions of dollars.
+In a time when we hear too often about fraud, waste, and
+duplicative Federal programs, the Data Center Consolidation
+Initiative is an effort that is good government. Its goals are
+to reduce costs, increase current low-server utilization rates,
+and shift to more efficient computer platforms and
+technologies. The specific goals are very clear and aggressive:
+close 40 percent of the government's over 3,000 data centers
+and save the taxpayers $3 billion.
+This afternoon, we are releasing our third report on this
+initiative. The first two highlighted holes in agencies'
+inventories and plans and made recommendations to ensure that
+inventories were complete and that agency plans clearly had
+comprehensive schedules to close centers and associated cost
+savings.
+For example, last summer, we reported that only three
+agencies had complete inventories: SSA, HUD, and the National
+Science Foundation. And only one agency had a completed plan,
+that being the Department of Commerce.
+While incomplete, these plans still showed great
+opportunities for cost savings. For example, DOD claimed that
+it could save $2.2 billion. In its recent budget submission,
+DOD plans to save $575 million in fiscal year 2014 alone. And I
+think that is represented on your chart up there, fiscal year
+2014.
+This afternoon, I will provide a progress report on closure
+and cost-saving goals and recommendations to ensure progress
+continues. My comments will also address the importance of
+FITARA in this area.
+Data center closures to date and those planned are
+promising. Four hundred centers were closed by the end of
+December, and another 400 are planned to be closed by September
+of this year, as your chart shows up there. And the plan is to
+close well over 1,000 centers by December 2015.
+Despite impressive progress and visibility into the closure
+situation, this is not the case regarding progress and
+transparency toward the cost-savings goal of $3 billion. In
+fact, OMB is not tracking cost savings. This lack of such data
+raises questions about the government's ability to meet its
+overall goal.
+But let's be very clear on the cost savings issue: Closing
+over 800 centers should yield significant cost savings. The
+Department of Agriculture recently reported to the
+Appropriations Committee that it saved nearly $50 million in
+fiscal year 2013. DHS is reporting $20 million of savings in
+fiscal year 2013. And we've already discussed DODs plans to
+save $575 million in fiscal year 2014.
+Now is not the time to take our foot off the accelerator
+regarding associated cost savings, and FITARA would be
+extremely helpful since it requires the tracking and reporting
+of cost savings.
+OMB has recently integrated the data center effort with the
+broader PortfolioStat initiative and is in the process of
+revamping metrics in this area. OMB stated that its new goal is
+to close 40 percent of the non-core data centers and that
+additional metrics in areas like energy consumption are to be
+developed by the data center task force.
+Folding the data center effort under this initiative is
+fine as long as the right metrics are in place, including cost
+savings, and that it provides the appropriate level of
+transparency. Mr. Chairman, having the right metrics and
+transparency moving forward is currently a big question mark.
+Our recommendations are to track and annually report on key
+data center metrics, including cost savings to date, extend the
+time frame for achieving cost savings beyond the current 2015
+horizon because significant savings will occur beyond that
+date, given where agencies are at today.
+Regarding governance, we need better leadership out of OMB
+and the GSA program office if we expect the data center
+initiative to be successful. With OMB, this leadership starts
+with the Federal CIO. In addition, each CIO needs this to be
+one of their top priorities and at any point in time should be
+able to report on closures and cost savings to date and those
+planned for the next fiscal year. If these simple questions
+cannot be answered, we do not have adequate governance at the
+agency level.
+And, finally, codifying the data center optimization
+consolidation effort the way FITARA does will ensure cost
+savings are tracked and reported and that this initiative will
+span multiple administrations.
+I would also like to mention, Mr. Chairman, your comment
+about GSA's data changing, that really shows the importance of
+this committee's oversight. Your staff made a couple of key
+questions to GSA, and clearly we went from zero reported
+centers to 74 in a couple days. And having that reported is
+very important so that we can perform the appropriate oversight
+so, in fact, those 74 data centers do get closed, with their
+associated cost savings, and then we can think about optimizing
+the centers that remain open.
+So this concludes my statement, Mr. Chairman and Ranking
+Member Connolly. Thank you for your leadership on this topic,
+and I look forward to answering your questions.
+Mr. Mica. Thank you.
+[Prepared statement of Mr. Powner follows:]
+
+[GRAPHIC] [TIFF OMITTED] T1280.001
+
+[GRAPHIC] [TIFF OMITTED] T1280.002
+
+[GRAPHIC] [TIFF OMITTED] T1280.003
+
+[GRAPHIC] [TIFF OMITTED] T1280.004
+
+[GRAPHIC] [TIFF OMITTED] T1280.005
+
+[GRAPHIC] [TIFF OMITTED] T1280.006
+
+[GRAPHIC] [TIFF OMITTED] T1280.007
+
+[GRAPHIC] [TIFF OMITTED] T1280.008
+
+[GRAPHIC] [TIFF OMITTED] T1280.009
+
+[GRAPHIC] [TIFF OMITTED] T1280.010
+
+[GRAPHIC] [TIFF OMITTED] T1280.011
+
+[GRAPHIC] [TIFF OMITTED] T1280.012
+
+[GRAPHIC] [TIFF OMITTED] T1280.013
+
+[GRAPHIC] [TIFF OMITTED] T1280.014
+
+[GRAPHIC] [TIFF OMITTED] T1280.015
+
+[GRAPHIC] [TIFF OMITTED] T1280.016
+
+[GRAPHIC] [TIFF OMITTED] T1280.017
+
+[GRAPHIC] [TIFF OMITTED] T1280.018
+
+[GRAPHIC] [TIFF OMITTED] T1280.019
+
+[GRAPHIC] [TIFF OMITTED] T1280.020
+
+[GRAPHIC] [TIFF OMITTED] T1280.021
+
+[GRAPHIC] [TIFF OMITTED] T1280.022
+
+[GRAPHIC] [TIFF OMITTED] T1280.023
+
+[GRAPHIC] [TIFF OMITTED] T1280.024
+
+Mr. Mica. And we will hold the questions until we have
+heard from Mr. Mazer. And he is the Chief Information Officer
+at the Department of the Interior.
+Welcome, sir, and you are recognized.
+
+STATEMENT OF BERNARD MAZER
+
+Mr. Mazer. Good afternoon, Chairman Mica and Ranking
+Minority Member Connolly. I would like to summarize my
+testimony and submit the full testimony for the record.
+Mr. Mica. Without objection, we'll submit the additional
+data.
+Mr. Mazer. My name is Bernard Mazer. I currently serve as
+the Chief Information Officer for the Department of the
+Interior. As a representative of the Federal CIO Council, I
+also serve as an executive sponsor of the Federal Data Center
+Consolidation Task Force.
+Thank you for providing the opportunity to testify
+regarding cloud computing and optimization of data centers
+across the Federal Government.
+The Federal Government information technology
+infrastructure is a massive collection of networks. In the span
+of 11 years, from 1998 to 2009, the number of Federal data
+centers drastically increased from 432 to more than 1,100. The
+result was an inefficient Federal data center population with
+unnecessary operations and maintenance costs.
+To reverse this trend, OMB in February of 2010 launched the
+Federal Data Center Consolidation Initiative, referred to as
+FDCCI. A year later, in February 2011, the Federal Data Center
+Consolidation Task Force was chartered. The task force is
+comprised of agency representatives who are working together to
+share progress toward individual agency goals and the overall
+Federal goal of optimization and consolidation.
+Today, the task force has contributed to the FDCCI by
+advising on policy and implementation; sharing information,
+best practices, and lessons learned; and by working with
+agencies to assess the benefits and challenges of cloud
+computing.
+One of the critical roles of the task force has been to
+share best practices. For example, the Department of the
+Interior has launched an IT transformation initiative to
+consolidate IT infrastructure operations at the department
+level, including data center operations, in order to eliminate
+redundancy and speed the adoption of new technologies, such as
+the migration to cloud computing.
+Information provided by the task force has helped evolve
+the FDCCI. Under the March 13th OMB memorandum on
+PortfolioStat, the FDCCI was formally integrated into
+PortfolioStat and shifted the FDCCI focus from consolidation to
+both optimizing core data centers and consolidating non-core
+data centers. Through PortfolioStat, agencies have already
+realized $300 million in savings, some of which is attributed
+to data center consolidation.
+The expected benefits of moving to the cloud can be great
+and are driving the transition from existing hosting
+environments that focus on managing servers to modern cloud-
+based environments. These benefits include improving service
+delivery to customers, modernizing computing capabilities,
+enhancing collaboration, and replacing legacy information
+technology infrastructure. Moreover, as agencies refine their
+business processes during cloud migration, they can also
+realize significant cost savings.
+The deployment of cloud tech computing also presents
+challenges, including culture and change management, data
+interoperability and portability, and the lack of expertise or
+experience in implementation of migrating to cloud-computing
+technologies.
+Another challenge agencies have experienced is calculating
+cost savings related to optimization and consolidation. This
+requires calculation of a total cost of ownership which is much
+more comprehensive than just equipment or energy cost. That is
+why the task force, working with participating agencies and GSA
+and OMB, are developing a total-cost-of-ownership model. This
+model is now being used as a planning tool as agencies optimize
+and consolidate their data centers.
+Agencies are at different stages of moving IT applications
+to the cloud and, in doing so, can leverage offerings from the
+Federal Risk and Authorization Management Program, known as
+FedRAMP, that provide a standardized approach to security for
+cloud products and services.
+In conclusion, Federal agencies are continuing to make
+progress toward optimizing and consolidating data centers.
+Since launching the FDCCI, agencies have closed 484 data
+centers as of last week, with plans to close 855 by the end of
+the fiscal year 2013. The progress is being publicly tracked
+through data.gov.
+FDCCIs integration into PortfolioStat is expected to
+strengthen the focus on tracking cost savings, increase the
+number of tracked metrics, facilitate collaboration across
+agencies, expedite implementation of best practices, and should
+result in a consistent method for tracking costs. All of this
+is expected to result in a more accurate assessment of the
+benefits of this initiative.
+I am confident that cloud computing and data center
+consolidation has the potential to provide modernized IT at a
+significant cost savings. It is our job as chief information
+officers to provide the evidence of these benefits to the
+American people.
+Chairman Mica, Ranking Member Connolly, this concludes my
+prepared statement, and I would be happy to answer any
+questions that you may have at this time.
+[Prepared statement of Mr. Mazer follows:]
+
+[GRAPHIC] [TIFF OMITTED] T1280.025
+
+[GRAPHIC] [TIFF OMITTED] T1280.026
+
+[GRAPHIC] [TIFF OMITTED] T1280.027
+
+[GRAPHIC] [TIFF OMITTED] T1280.028
+
+[GRAPHIC] [TIFF OMITTED] T1280.029
+
+Mr. Mica. Well, we'll go ahead with some questions.
+And let me first ask our GAO representative, while one of
+the basic questions is that this whole project was projected to
+save $3 billion, and I think that was by 2015, I think I quoted
+the report as saying that the savings to date had not been
+tracked but were believed to be minimal.
+It seems pretty apparent now we're getting some data in as
+a result of this hearing. But do you think they're going to be
+able to approach the goal and meet the goal? Or what is your
+prediction now looking at----
+Mr. Powner. So a couple comments here.
+If you look at the projected cost savings--at one time we
+had plans that were being updated; now those plans are off the
+table since this is being merged under PortfolioStat. But at
+one time we had about $2.4 billion in very preliminary plans.
+Inventories weren't complete yet. $2.2 billion of that came
+from DOD.
+Now, there were some things where upfront costs needed to
+be considered. But if you look at this chart up here, the Ag
+and the DHS numbers, that comes from a report that goes to the
+appropriation committees. Those agencies are reporting already
+in fiscal year 2013 a savings.
+And if you just project--I mean, 800 closures in DOD alone,
+$575 million in fiscal year 2014 alone. Our thought is this: If
+you extend it beyond 2015 out to--and it's great to have these
+stretched goals near term, but I think $3 billion is very
+realistic. And when this initiative was started, there was a
+goal of $3 billion. At one time, OMB was talking about a $5
+billion cost savings, and they went back to $3 billion.
+So it's somewhere--who knows, really, where it is? But I
+think that's why you need good hard numbers on these closures.
+And if we have over 1,000 centers that we are closing, there
+has to be significant associated cost savings.
+Mr. Mica. Uh-huh. Well, what's interesting, now entering on
+the scene we have this PortfolioStat. I'm wondering if the
+consolidation efforts were to merge with this new thing, is
+this all going by the wayside? Or do you see them as
+compatible?
+Mr. Powner. They're clearly compatible. So if you look at
+the PortfolioStat initiative--and that's something we looked at
+very closely for the Congress--PortfolioStat----
+Mr. Mica. Tell me how that's going to work, how you see it
+working.
+Mr. Powner. Yeah, so what PortfolioStat is, that takes
+commodity IT, so you can think of it more as administrative
+systems, and it puts them in groupings, so HR systems,
+financial management systems, email systems?
+And OMB has an initiative, which we highly commend their
+efforts on that, where they went to each of the agencies, and
+they identified about 100 opportunities at 24 major departments
+and agencies to save $2.5 billion. Okay? And that was the first
+cut in PortfolioStat.
+Now, clearly, when you start looking at consolidating
+commodity IT and moving to the cloud, there is a lot of overlap
+with data center consolidation. So movement to the cloud-based
+center consolidation, PortfolioStat, their shared service
+approaches--all these different terms that they have. But the
+bottom line on all of this, Mr. Chairman, is you have
+significant effort, PortfolioStat and $2.5 billion in savings;
+data center consolidation, $3 billion in savings.
+They did some TechStat reviews looking at troubled
+projects. The committees looked at that. Chairman and Ranking
+Member Connolly, I know you've looked at a lot of the troubled
+projects. But there were $3 billion in savings.
+All of a sudden, you do the math real quickly, and there is
+$7 billion or $8 billion in savings that we could spend more
+appropriately on modernizing government IT operations and
+furthering our mission. So that's why these savings are very
+significant. If we do things much more efficiently and save a
+significant amount of money, it will be in the ballpark of, you
+know, $7 billion to $8 billion, $9 billion.
+Mr. Mica. Okay.
+Now, there are three components to making this
+consolidation effort work, as I understand. One is supposed to
+be OMB and sort of its oversight; GSA, and they have a program
+management office involved; and then we have the task force.
+Now, you said we need better leadership with sort of a
+general statement with the CIOs, but somehow some thing is
+lacking here. We don't even have OMB willing to come in today
+and testify.
+I mean, please be frank with us. Has OMB dropped part of
+the ball, an important part of the ball, that is making this
+not work?
+Mr. Powner. So our report is fairly balanced here, Mr.
+Chairman----
+Mr. Mica. No, no, just be honest. You don't have to be
+balanced.
+Mr. Powner. --OMB, GSA, and the task force, and they have
+done some things well.
+OMB has actually set the goals well. And we've got the ball
+rolling on----
+Mr. Mica. But they're not----
+Mr. Powner. --they're not driving it to closure.
+GSA, they have a program office responsible for plans and
+inventories. Our work over there shows the plans and the
+inventories have not been complete. Okay? We've got agencies
+like DOT where FAA wasn't reporting their air traffic control
+facilities.
+And then when you look at what Mr. Mazer is doing, I think
+he's done a great job with the task force and the like, but we
+pointed out the peer-review process was not where it needed to
+be.
+So all three organizations we felt needed to do more from a
+leadership perspective.
+Mr. Mica. Okay. And since we've got Mazer here, we'll pick
+on him a little. How can their effort be improved? And do you
+cite that here in the report?
+Mr. Powner. Yeah, we did cite that.
+That was a time--so the task force was put in place to
+perform peer reviews of the various agencies. And we clearly
+made a very clear point that we thought there could be more
+peer review going across the agencies to help each other out.
+And I commend Mr. Mazer for his efforts to date and for him
+being here and what he's done to date, but I also think that
+that task force can do better, similar to GSA and OMB.
+Mr. Mica. Well, with that being said, Mr. Mazer, and as
+chair of the task force, where do you see, again, us going from
+here in your particular role? You're an important part of the
+equation.
+Mr. Mazer. Chairman, where I see the role of the task force
+is--we appreciated GAO's examination of the overall FDCCI
+activities. In previous years, they were looking at the paucity
+of information populating what constitutes a data center.
+We are going to take into earnest the incorporation of the
+peer-to-peer reviews. We had those in the past. It will keep
+agencies on course in terms of their schedules and in terms
+filling out their inventory.
+The Federal Data Center Consolidation Initiative task
+force, as it's being integrated into PortfolioStat, it's really
+linked to the shared services activities that we're engaged
+upon, about looking at these duplicative business systems like
+HR and financial management systems. It's related to the
+TechStat activities that we're looking at.
+What the Federal Data Center Consolidation Initiative is
+going to do is identify criteria for examining what will become
+core data centers and what will become non-core data centers.
+Non-core data centers, we're going to encourage those data
+centers either to move to the core data center or to move out
+into the cloud.
+But we're following the approach of optimizing the
+portfolio, which includes applications----
+Mr. Mica. Can you define a little bit better the core and
+the non-core, just for the record?
+Mr. Mazer. Chairman Mica, core data centers are those that
+are capable of delivering enterprise or private-sector-like
+class services. They're reliable, they're secure, they're
+following green IT, and they have the capability to deliver a
+variety of services across an agency or across agencies.
+Non-core data centers are activities that might be specific
+to a location or they might be supporting a particular
+scientific or monitoring-type of system. Many of the non-core
+data centers are, in effect, really small data centers. You
+could sometimes characterize them as closets, so they're 500
+square feet or less, with a lot of cost inefficiencies about
+maintaining those.
+So we're going to encourage those to move to the core. Or
+if they have applications, then we're going to look at the
+promise of moving those out into the cloud.
+Mr. Mica. Okay.
+Well, finally--and I want to give Mr. Connolly plenty of
+time--is there--now, we are considering, again, some update in
+legislation and are working together on that. Have you looked
+at that? Is there anything that we are missing that would give
+us the tools to move forward, from what you have seen, either
+on an agency basis, on the whole consolidation?
+Maybe you've reviewed some of what we have proposed, but--
+and we want to pursue giving all the tools necessary to
+expedite this. And sometimes, you know, you have to have
+language that actually mandates certain actions because the
+agencies are so inclined to stay static and not take
+initiatives.
+But maybe you could both quickly comment on, or briefly
+comment on anything you see.
+Mr. Powner. Yeah, so on FITARA and the data center
+optimization section, a couple key things that we're very
+supportive of the bill is in the area of tracking and reporting
+key metrics.
+Not only do you want to track and report closures and cost
+savings--and that is very clear, because there are cost savings
+that need to be had--but you also have aspects of that bill
+that talk about optimization metrics, where you look at energy
+usage and those types of things, higher server utilization
+rates and that type of thing. So, obviously, you want both. You
+want the right metrics on closures and cost savings, but you
+want also the right metrics on optimizing what remains. And,
+clearly, I think that's something that the task force is
+charged to do going forward as part of the PortfolioStat.
+So I see your bill being very consistent with the direction
+that the administration is going. What it does is it mandates,
+codifies it in law, and it will ensure that it will span
+multiple administrations. Because, regardless of whether you
+want to look at this in 2015 or not, this is a long-term
+initiative that will go beyond 2015.
+Mr. Mica. Right.
+Mr. Mazer. Chairman Mica, the administration I don't
+believe has a position yet on the bill, but I have examined the
+bill from a data center perspective, metrics perspective. A lot
+of those cost-tracking metrics are what the Federal Data Center
+Consolidation Initiative is looking at.
+There are some things that we're looking at, about power
+usage effectiveness; we're looking at cost per operating system
+virtualization; we're looking at ratios of employees to the
+amount of servers; and we're also looking at facility and
+storage utilization.
+One of the activities that I feel good about the Federal
+Data Center Consolidation Initiative is, as we're looking at
+metrics, or we're attempting to look at metrics and all that
+that have meaning and salience and trying to comport ourselves
+into the 21st-century information technology.
+Mr. Mica. Great.
+I am a little bit more frosted as we go on and not seeing
+the two other witnesses. We'll have to definitely reschedule
+that, and we may have to have at least one of the witnesses
+back.
+Let me yield now to Mr. Connolly.
+Mr. Connolly. Thank you, Mr. Chairman.
+And I think the answer I just heard to your question of,
+did we get it right on the FITARA bill we introduced, I thought
+I heard both Mr. Powner and Mr. Mazer say we got it absolutely
+right and don't change a word, it's perfect.
+I want to thank our panel for being here.
+Mr. Powner, you've had a chance to look at the legislation,
+which stands for Federal Information Technology Acquisition
+Reform Act, which I referred to in my opening statement. And I
+heard your answers to the chairman's question, that it does
+encapsulate some of the reforms we're trying to make, including
+what the task force is doing, and going even back to the 25-
+point plan that Vivek Kundra put out when he was CTO.
+Can you elaborate just a little bit about what it might
+achieve and how, if that legislation could perhaps help us with
+better compliance and better metrics and data center
+consolidation?
+Mr. Powner. Well, I clearly think from a metrics point of
+view it will help significantly, because it makes it very clear
+that cost savings are significant and that has to be reported
+and tracked.
+The other part of the bill that I think will help is CIO
+authority. This is a CIO issue in every department and agency.
+And, clearly, you know, it varies in terms of the progress and
+the reported cost savings that CIOs are currently making. You
+know, we're all trying to get to a position where IT is more
+effectively managed at $80 billion, and we know that's
+understated based on some of the prior hearings that you've
+held. So I think in addition to the data center section, the
+CIO authority section also could play a significant role in
+moving the ball forward in this area.
+Mr. Connolly. At the moment, are you satisfied that OMB has
+consistent methods of evaluation to capture cost and cost
+savings with respect to data centers?
+Mr. Powner. No, I'm not--we're not. In fact, what OMB told
+us is that they were not tracking cost savings and that the
+savings were minimal. So if you're going to establish a goal of
+closures and cost savings, we need to then track that and
+ensure that we actually drive it to closure.
+We have a lot of good plans in D.C. at times in the IT
+area; what we don't do is implement them completely. And, also,
+folks aren't held accountable to implement them completely.
+This is a prime example.
+Mr. Connolly. Well, if they're not tracking cost savings,
+what do they think the consolidation effort is for?
+Mr. Powner. That's a very good question, Mr. Chairman.
+So we did not agree; that's why we made the recommendation
+in our report that cost savings needs to be front and center in
+terms of metrics. And we can talk about optimization goals and
+all this other stuff, but we're optimizing the stuff that
+remains. Okay?
+All those closures, and even if those are all small wiring
+closets, 800 of them, there's a lot of money to be had with
+those. And if we get to a point where we have 1,100 or 1,200
+centers, which would get to the 40 percent----
+Mr. Connolly. Can you refresh our memory, Mr. Powner, on
+how much these data centers expend, what it costs the taxpayers
+every year just on energy consumption?
+Mr. Powner. I don't have good numbers on that.
+Mr. Connolly. Would about $450 million roughly sound right
+to you?
+Mr. Powner. I would have to get back to you on that, but
+likely even higher, though, if you start adding all the
+departments and agencies. You look at DOD alone and you look at
+their centers----
+Mr. Connolly. Yeah.
+Mr. Powner. And, frankly, they're reporting some numbers
+there that they probably would have missed. They don't have a
+complete inventory yet.
+Mr. Connolly. It underscores your frustration, Mr.
+Chairman, which I share. We've got to have some consistent
+measurement by OMB. And, for goodness' sake, obviously cost
+savings are part of the goal here, not the only goal, but a
+pretty important part of the goal.
+And if they're not consistently measuring that or even
+seeing it as a significant factor in making the decision about
+to stay open, to close, to consolidate, then they're not with
+the program. And, certainly, they're not consistent with the
+legislation we've introduced.
+Would that be a fair statement, Mr. Powner?
+Mr. Powner. Yeah, so if you look at the IT budget--we spend
+$80 billion on IT in the Federal Government, and 70 percent of
+that is operations and maintenance, which includes data
+centers. And the challenge going forward is to take some of
+that O&M spend and move it into systems development and
+acquisition so we modernize the government and further the
+mission. But we spend a lot of money keeping the lights on, and
+if we can do it more efficiently in this example, or movement
+to the cloud, we need to do more of that.
+Mr. Connolly. Yeah. Absolutely.
+Mr. Mazer, you are a constituent. I cannot imagine a better
+spokesperson for this whole subject than yourself, hailing, as
+you do, from Annandale.
+But just a couple of questions. You chair the task force.
+What is the mandate of the task force?
+Mr. Mazer. The mandate of the task force, it was initially
+chartered to provide information sharing, examining best
+practices, to examine activities like power usage
+effectiveness, and to follow and optimize--or to follow working
+with the agencies on the schedules and all that for closure on
+activity.
+Mr. Connolly. Okay, but there is a goal, an end goal, which
+is to promote this consolidation.
+Mr. Mazer. It's to promote the consolidation. And it's also
+to promote--this task force, we had a year gap of the peer
+review. But when the peer reviews that we had going forth on
+all that was having one agency encouraging another agency to
+either follow the intention of the schedule or to follow
+intention with the scope or to look at the missing inventory
+elements that are a part of what a data center consists of.
+Mr. Connolly. What are some of--could you enumerate for us
+a little bit the process and the criteria used in the process
+for determining, or for helping to determine in that task force
+process, ``You know, that sounds like an inefficiency. Ought to
+close, ought to consolidate, or go entirely to the private
+sector?'' What are the criteria whereby you look at something
+going, ``That's great, don't change a thing,'' versus, ``That's
+not so great, and maybe it ought to be closed?''
+Mr. Mazer. Well, what we're looking at is, in terms of
+the--you know, initially the task force was chartered to
+reflect on best practices, and a reflection of noticing that we
+are having a problem coming to grips with what we have in our
+inventory. We started working on a series of metrics and all of
+that, in terms of criteria.
+So some of the metrics that we're looking at are how much
+virtualizing we've done of the boxes. And we're establishing a
+standard for the U.S. Government. We're looking at metrics in
+terms of how much floor space that we're using. We're looking
+at metrics in terms of the energy costs that we are looking at
+and establishing a baseline there for those activities. We also
+are looking at metrics in terms of what's the ratio of things
+that are out in the cloud as opposed to things that are
+actually to be put on premises.
+And right now the task force is engaged in establishing
+these metrics as a baseline which will serve as the basis for
+when the PortfolioStat sessions start in the summer so that
+agencies will have a good apples-to-apples comparison of what
+costs are and what we should strive to.
+Mr. Connolly. I assume utilization is one of the criteria?
+Mr. Mazer. Yes, sir. Utilization is a heavy criteria--one
+of the criteria. We've got about nine criteria. I'd be happy to
+submit for you a----
+Mr. Connolly. That would be very helpful, I think, to all
+of us here. Thank you.
+Mr. Connolly. Yeah, because I would think, in some ways,
+utilization alone could be a qualifier or disqualifier. I mean,
+if you find something grossly underutilized, it's a strong
+candidate for consolidation or elimination.
+Mr. Mazer. Yes. Many of our servers are at 5 percent or 10
+percent----
+Mr. Connolly. Yeah.
+Mr. Mazer. --utilization, which does fit the----
+Mr. Connolly. I think that--could you repeat that? Because
+I'm not sure that's fully appreciated. When we're looking at
+data consolidation, it isn't because we're obsessed with
+smaller numbers. It is because we're looking at how efficient
+it is.
+Mr. Mazer. Right. When the teams have gone out and done
+either using automated tools or on-site examination of the
+capacity of servers, many of them are woefully underutilized.
+There's more efficiency by putting multiple operating systems
+or applications on one particular server, particularly given
+the state of technology that it is today.
+Mr. Connolly. Right. Thank you.
+And a final question for now. You mentioned FedRAMP. Could
+you just remind us all what FedRAMP is and give us a status as
+to where it is?
+Mr. Mazer. The status I will defer to my colleagues from
+GSA, but I will tell you----
+Mr. Connolly. Yeah, but they're not here, Mr. Mazer.
+Mr. Mazer. FedRAMP--well, what FedRAMP is looking at is,
+you know, the security is a very important issue concerning the
+U.S. Government and how do we protect our data and our content.
+And what we have done over the past 10 years, with the advent
+of the FISMA laws and all that, is really establish a set of
+controls. And if agencies can subscribe to those particular
+controls, whether it's, like, access, availability, those types
+of activities, then they're saying, okay, they're reasonably
+protected given the categorization of that security.
+FedRAMP is a model where, if anyone can subscribe to these
+set of controls, then they can be delivering that particular
+service. So FedRAMP is a model that, let's say if a private-
+sector company says, ``I'd be able to do something for you, the
+U.S. Government,'' they will follow the standards as
+promulgated by FedRAMP, and you'll have an independent auditor
+or a validator come in and say, ``Yes, they're matching these
+controls.''
+And it actually establishes a common baseline, so rather
+than every agency doing its own set of, ``I think the security
+should be this,'' or, ``I think the security should be that,''
+it subscribes to a standard baseline by which all private-
+sector companies should subscribe to.
+Mr. Connolly. So another way of putting it would be, Mr.
+Mazer, that what FedRAMP is designed to do is to set some
+common standards that people, other agencies buy in to. And
+that helps us in terms of the acquisition process because the
+private sector now doesn't have to deal with 100 variations.
+Mr. Mazer. Right. The private sector doesn't have to divine
+the intentions of each individual agency.
+Mr. Connolly. And are we expected to finalize that process
+soon?
+Mr. Mazer. The FedRAMP process is ongoing. There are a
+couple of, they call them--there's an acronym; forgive me if I
+can't break it out--3PAOs, that they are that qualified to look
+at a private-sector company as they are offering cloud services
+to the U.S. Government.
+Mr. Connolly. So can we expect something soon?
+Mr. Mazer. There are three--as services, as agencies are
+migrating to the cloud, they will avail themselves of the
+FedRAMP. The private-sector companies will avail themselves of
+the FedRAMP.
+Mr. Connolly. But you are anticipating we will proceed with
+FedRAMP as planned?
+Mr. Mazer. Yes, sir.
+Mr. Connolly. Thank you.
+Thank you, Mr. Chairman.
+Mr. Mica. Just a final question, a follow-up question. In
+your review, who is getting it right? Examples to look toward?
+Mr. Powner. Agencies that are getting it right?
+Mr. Mica. Yeah.
+Mr. Powner. We can look at some of those agencies. You
+know, typically, DOD is the agency that we point a lot of flaws
+out when it comes to the IT management recently with the IT
+Dashboard. Obviously, there's a lot of opportunity there for
+them to get it right.
+I turn to Mr. Mazer's organization, Interior; they're at
+the top of the list. You know, GSA was a latecomer up there, as
+we mentioned. But you have a number--DHS is also a leader. I
+mean, they were planning on going from 43 to 2 at one time, and
+now their numbers are a little bit different. But DOD, DHS, and
+Interior are clearly leaders up there.
+Mr. Mica. Okay.
+Did you have anything else, Mr. Connolly?
+Mr. Connolly. Not at this time, Mr. Chairman.
+Mr. Mica. Well, what we're going to have to do is thank you
+for being with us. We'll probably submit some additional
+questions to you from the committee. I didn't get to all that I
+wanted answered.
+Mr. Mica. And this is kind of a meat-and-potato hearing, as
+you fellow geeks would love this one, but----
+Mr. Connolly. All the acronyms.
+Mr. Mica. Yes, exactly. Well, I have to sort through them.
+I kept going back to make certain I knew what they were talking
+about. And you've been doing this, focusing on this a lot more
+than I. But very important. I mean, we're talking saving
+billions and actually much more efficiently operating.
+Sometimes when I go back after we have done our hearings
+together, Gerry, we see the debt we're in and the situation
+we're in financially. If we could just start implementing these
+things on a fast track, we could----
+Mr. Connolly. Yeah.
+Mr. Mica. --take that column of losses and get us into a
+much better fiscal condition.
+Now, again, I thank you for coming.
+I want to--particularly, we're going to ask Mr. Powner to
+probably come back when we have the other two witnesses, and
+maybe again you, too, Mr. Mazer. You could see how we have to
+have some other answers from OMB and GSA, who are not with us
+today.
+So, at this time, again, I thank you. We'll excuse you, and
+I'll call up our second panel.
+Our second panel of witnesses I will introduce as they're
+taking their seats.
+We have Mr. Steve O'Keeffe, and he is the founder of
+MeriTalk. We have Ms. Teresa H. Carlson. She is the vice
+president, worldwide public sector, of Amazon Web Services. We
+have Mr. Kenyon Wells, vice president of U.S. Federal, CGI
+Federal.
+Those are our three industry panel witnesses. I think this
+will be an interesting panel. I always think it's great to hear
+from the government witnesses, and we had two key witnesses
+here today who provided us with their perspective. But I think
+those from the outside that are involved in IT and also data
+center consolidation that they undertake for the private sector
+and the public sector, to get their on-the-ground, firsthand
+evaluation and provide that to our subcommittee today.
+So, with that, I welcome again Mr. O'Keeffe, Ms. Carlson,
+and Mr. Wells.
+As I indicated before, this is an investigative panel of
+Congress, so if you haven't done so, we're going to do it now.
+We're going to ask you to stand and be sworn in.
+Do you swear that the testimony you are about to give
+before this subcommittee of Congress is the whole truth and
+nothing but the truth?
+Mr. O'Keeffe. Yes.
+Ms. Carlson. I do.
+Mr. Wells. Yes.
+RPTS MCCONNELL
+DCMN CRYSTAL
+Mr. Mica. The witnesses have all answered in the
+affirmative. Let the record reflect that.
+And again, welcome you. We are fairly informal today, but
+we're trying to make certain that--I read, pre-read some of
+your testimony. Some of it's pretty long, but if you can
+consolidate your points, and if you have additional
+information, certainly your whole testimony will be included in
+the record. And then we'll go through all three of you, and
+then we'll do the questions rather than after each witness
+testifies. So I'm looking forward to all three of your
+testimonies. I have read a little bit of Mr. O'Keeffe's, and
+welcome him at this time, and recognize him. And thank you
+again for participating.
+
+STATEMENT OF STEVE O'KEEFFE
+
+Mr. O'Keeffe. Thank you. Chairman Mica, Ranking Member
+Connolly, and members of the subcommittee, thank you for the
+opportunity to speak to you today. My name is Steve O'Keeffe
+and I am not the voice for the GEICO gecko, as has been asked
+before. I'm, in fact, the founder of MeriTalk, the Data Center
+and Cloud Computing Exchanges. These are public-private
+partnerships focused on delivering tangible increases in
+efficiency in government IT. I have spent more than 20 years
+listening to Federal IT leaders talk about their challenges,
+their opportunities, and their frustrations. You have already
+heard a lot of numbers here today, but I'd like to cut to
+what's really important: tangible savings. I'm afraid the
+Federal IT reform is like a bad reality TV show. There is no
+budget. The actors are powerless. The end is predictable. But
+somehow we still keep watching. We need to change the script.
+As you've noted, it is sad that OMB and GSA are not here.
+So when Vivek Kundra announced FDCCI in February of 2010, we
+talked about this, OMB said that taxpayers would save between
+$3 billion and $5 billion by 2015. That's a lot of hamburgers.
+And so as we set tangible goals we need to report against those
+goals, and I think that's what this is all about.
+Cloud, too, was billed as an IT budget crusher. Today we
+are 18 months from the FDCCI savings deadline, and we have no
+idea how much money we have saved the taxpayer, which is not
+right. I would argue we don't need to keep counting data
+centers. We need to understand how much we've saved, which
+agencies are doing it right, and what we need to do to
+accelerate savings. Let's get straight about this.
+To help surface some answers MeriTalk recently released a
+new study, and I'm Ross Perot-style going to use some charts to
+illustrate.
+Mr. O'Keeffe. The study is called ``FDCCI: The Big
+Squeeze,'' and it is based on a survey of the operators in the
+agencies. What we want to do is learn from people on the
+frontlines what's going on. So a couple of statistics.
+Fifty-six percent of data center leads give their agencies
+a C grade or below on FDCCI. I think earlier Congressman
+Connolly asked if we were getting an A. It seems we're getting
+a C or below. I wouldn't be very excited if my children brought
+that grade home.
+Only half of Feds believe their agency is on target to meet
+the FDCCI number of closures. Ironically in this case, one of
+the questions you asked earlier about electricity savings, Feds
+believe that power is a significant area where we're going to
+save a lot of money. But based on our meetings with Federal
+data center leads, we found that 1 in 20 data center executives
+have an understanding of what they pay for electricity. So
+that's a significant blind spot.
+What about top obstacles? What we see is the Fed site,
+budget constraints, mission-owner objections, and the inability
+to consolidate applications as the biggest obstacles to
+progress, which gives me the impression that the model for the
+data center leads should really be that beatings will continue
+until morale improves. They have no ability, they're not
+empowered to change the equation.
+So it's great to point out what the challenges are, but
+let's go on the positive side and look at what we should do in
+order to remedy the situation. We call this our five-point
+plan.
+And the points are, number one, don't hide. Our concern is
+that by merging FDCCI with PortfolioStat we are going to be
+gerrymandering the metrics. And so we are concerned about that.
+We need to set realistic goals in the open and publish real
+status on success and failures. And yes, failures if that's
+what transpired. OMB has a total cost of ownership model. I
+think Mr. Mazer referenced it. In this era of open government,
+why does OMB insist on keeping this a secret? Why not publish
+the TCO model so we can find out where the money is?
+Number two, there is no money. Recognize that there is no
+new money to fund data center optimization. And so with that,
+we need to empower the CIOs to rationalize applications and
+maybe trust new approaches because we know the old ones have
+failed.
+Number three, application rationalization. If you do not
+cut the number of applications, you will not cut the number of
+data centers. The Army is running over 100 operating systems
+because it has so many legacy platforms. I think GAO flagged
+this. Uncle Sam does not need 622 HR systems. I think we can
+all agree on that.
+Four, marry IT and facilities. Wouldn't it seem logical
+that the data center lead should understand and own the budget
+for the total data center environment? GSA owns most of the
+facilities and pays the electricity bills. Why not publish the
+energy bills for each data center so we'd have a better sense
+for how to proceed? There are a series of new energy contracts
+out there, the energy savings performance contracts, and we'd
+like to see those moving forward more aggressively.
+Five, public-private partnership, please. Why don't we
+recognize that government is not the only organization that
+operates data centers? We can learn a huge amount from
+industry. Organizations like NASDAQ have put forth data center
+consolidation optimization initiatives. Let's look at some of
+those metrics.
+Now to cloud. The onramp to Federal cloud, FedRAMP, is
+horribly congested. We talked about problems with traffic
+earlier. In fact, you can hear the honking on the digital
+highway right now as software companies line up trying to get
+through cloud certification.
+After almost a year in operation, GSA's FedRAMP team has
+only certified two cloud service providers. How are agencies
+supposed to move to cloud when there are only two applications?
+It's just not feasible. If the cost of FedRAMP certification
+and the delays outweigh the volume of business that solution
+providers receive from agencies, that industry will take
+another road. That said, cloud acquisition vehicles are sorely
+needed.
+In closing, it's time to get real about Federal IT
+modernization. Are the agency CIOs really in charge, and
+therefore accountable for results? This question has very real
+implications for FITARA. Richard Spires' recent experience at
+Department of Homeland Security makes all CIOs question whether
+they have authority or not.
+We are ready and willing to discuss our initiatives and
+recommendations. We look forward to working with you to deliver
+improved efficiency in Federal IT, and welcome any of your
+questions. Thank you for the opportunity to talk today.
+Mr. Mica. Well, thank you. Thank you for your testimony and
+your candor.
+[Prepared statement of Mr. O'Keeffe follows:]
+
+[GRAPHIC] [TIFF OMITTED] T1280.030
+
+[GRAPHIC] [TIFF OMITTED] T1280.031
+
+[GRAPHIC] [TIFF OMITTED] T1280.032
+
+[GRAPHIC] [TIFF OMITTED] T1280.033
+
+Mr. Mica. Let's turn next to Teresa Carlson, vice president
+for Amazon Web Services.
+Welcome, and you're recognized.
+
+STATEMENT OF TERESA CARLSON
+
+Ms. Carlson. Good afternoon, Chairman Mica and Ranking
+Member Connolly.
+Mr. Mica. She is not coming in very loud.
+Ms. Carlson. Good afternoon, Chairman Mica and Ranking
+Member Connolly. My name is Teresa Carlson, and I'm the vice
+president, Amazon Web Services World Wide. Thank you very much
+for inviting me to testify today on the Federal data center
+optimization and transition to cloud computing, and to discuss
+how the U.S. Federal agencies can do more with less and to save
+taxpayer dollars. I'd like to submit my written testimony for
+the record.
+Mr. Mica. Without objection, your entire statement will be
+part of the record.
+Ms. Carlson. Also, I wanted to thank the university for
+having us here today. I spent many, many Saturdays and Sundays
+here at swim meets with my sons, and it is in beautiful Fairfax
+County, and it is a beautiful day. So I really appreciate them
+having us here as well.
+Companies that leverage Amazon Web Services in the
+commercial sector range from large enterprises, such as
+Bristol-Myers Squibb, Shell, NASDAQ, to innovative startups
+like Pinterest and Dropbox. Throughout the U.S. Federal
+Government, agencies and departments are adopting AWS for a
+wide range of technology infrastructure services and
+applications, to include groups like the U.S. National
+Institutes of Health, NASA's Jet Propulsion Laboratory, and the
+U.S. Department of the Navy, Navy, and the U.S. Securities &
+Exchange Commission.
+AWS is passionately committed to sharing the benefits we
+can achieve as a cloud provider to Federal Government agencies,
+and our economies of scale have resulted in the rapid
+innovation of public cloud services and lowering the price for
+our customers. Specifically, we have lowered our cloud
+computing prices 31 times since 2006. Let me repeat, 31 times
+with no one pressuring us to lower those prices. We lowered
+those prices based on our savings and providing them back to
+the customer.
+Given the proven secure and game-changing efficiencies of
+cloud computing, we believe that the FDCCI should be directly
+linked to the Office of Management and Budget's ``Cloud First''
+policy in order to be truly successful in the data optimization
+model. While there is no doubt that since Federal Government
+workloads can continue to operate in government-owned data
+centers, there are a very large number of workloads that should
+be more suitable and efficiently managed in large-scale
+commercial cloud platforms. Therefore, the adoption of cloud
+computing services should be a central part of the Federal
+strategy.
+One way to think about cloud computing is that instead of
+buying and owning and maintaining their own data centers or
+servers, Federal agencies can acquire technology resources and
+compute power and storage on an as-needed basis and dispose of
+it when it's no longer needed. In fact, we have something
+called a Trusted Advisor service where we actively work with
+our customers to turn off servers when they're not being
+utilized, and they actually don't even have to worry about what
+their electric bill is because that's part of the service we
+provide and it's part of the pricing model, so they'll know
+that in real time. And users only pay for what they use by the
+compute hours, or storage-gigabyte, and they are not locked,
+they are not locked to any long-term contracts. They can choose
+long-term contracts, but they are not locked into anything like
+that.
+There's many, many examples of Federal agencies that have
+begun to embrace the cloud. A couple I'd like to highlight for
+you today is NASA's Jet Propulsion Lab. When the Mars Space
+Lab, also known as the Curiosity, successfully landed last
+year, public cloud computing infrastructure from AWS was
+utilized in support of various aspects of the mission,
+including the public outreach around the landing itself, so
+that everyone in the United States and the world could enjoy
+that landing, as well as the data and image pipeline--the
+pipeline management dealing with all the new data streaming
+that was actually coming down from Mars. Tom Soderstrom, the
+CTO of NASA JPL, described it this way: JPL has leveraged cloud
+services to dramatically reduce IT costs, and in the process
+increasing their agility and decreased the time to science
+while enabling JPL to have complete flexibility when using
+those computing resources. In fact, we worked with them in a
+very short period of time to get that set that up. It did not
+take much for them to procure and set that up.
+The U.S. Department of the Navy CIOs office recently
+initiated a pilot project to move unclassified data to the
+commercial cloud environment. The Secretary of the Navy's
+public-facing information portal is now on AWS, and they also
+have an initiative to work on a strategy to migrate all public-
+facing sites. And he's already said that--CIO Terry Halvorsen
+stated that the Department has achieved a 50 percent reduction
+in cost to operate this portal.
+Let's imagine for a moment, if that level of cost savings
+could be applied to all Federal IT spending, how much money
+could that actually be? And I believe it' a lot more than those
+$3 billion that were initially brought up.
+The reality is that cost savings is only part of the
+picture and that what we think is a fundamental and clearly a
+need to transition to cloud computing and this will be a big
+part of the optimization for the data center consolidation.
+There are many companies out there that have already taken full
+advantage of that in a commercial site like Netflix to move
+their entire infrastructure to the cloud.
+We think there is exciting opportunities out there to
+actually do a lot more with cloud services. We support what
+you've done already in both FITARA and FDCCI, and we appreciate
+having the opportunity today to speak to you and are prepared
+to answer any questions. Thank you again.
+Mr. Mica. Well, thank you also.
+[Prepared statement of Ms. Carlson follows:]
+
+[GRAPHIC] [TIFF OMITTED] T1280.034
+
+[GRAPHIC] [TIFF OMITTED] T1280.035
+
+[GRAPHIC] [TIFF OMITTED] T1280.036
+
+[GRAPHIC] [TIFF OMITTED] T1280.037
+
+[GRAPHIC] [TIFF OMITTED] T1280.038
+
+Mr. Mica. And we'll turn now to our final witness on this
+panel, Mr. Kenyon Wells, vice president of U.S. Federal, CGI
+Federal.
+Welcome, and you are recognized.
+
+STATEMENT OF KENYON WELLS
+
+Mr. Wells. Thank you. Thank you. Thank you, Chairman Mica,
+Congressman Connolly. Thank you very much for the opportunity
+to appear before you today. My name is Kenyon Wells, and I'm
+vice president at CGI Federal Incorporated, a global
+information technology and business process services firm. I'm
+honored to provide some thoughts today about ongoing efforts
+for Federal agencies to optimize their use of their data
+centers and move to greater use of cloud computing technology.
+CGI applauds the subcommittee not only for its continued
+efforts to eliminate wasteful IT spending, but also for its
+recognition that continued investments in IT will save money,
+improve efficiency, and provide better services to U.S.
+citizens and businesses. In particular, CGI thanks the
+leadership of this subcommittee, as well as Chairman Issa,
+Ranking Member Cummings, and the full Oversight and Government
+Reform Committee for bringing many important issues to light
+with the introduction of H.R. 1232, the Federal Information
+Technology Acquisition Reform Act, and for the open and
+transparent manner in which that legislation was drafted.
+In February of this year, CGI became just the second
+company to be granted a FedRAMP cloud security provisional
+authority to operate. CGI is now delivering more than $100
+million in secure cloud solutions to dozens of Federal
+programs, in addition to many other cloud implementations for
+State government and commercial clients. Based on these
+projects and discussions with other Federal agencies, CGI
+offers the following observations.
+First, there is significant progress, but more can be done.
+There are two major drivers that lead to immediate cost savings
+for agencies in adopting cloud computing. One of these is the
+speed with which new systems can transition to go live in the
+cloud. For example, CGI worked with GSA to bring 30 systems
+live in less than 90 days. As a result, that agency program
+reduced their overall server footprint by 50 to 70 percent.
+The other immediate cost-savings driver is that agencies
+only pay for the capacity they need. So instead of running data
+centers that continuously provide peak capacity that is always
+underutilized, CGI's cloud clients have significantly lowered
+day-to-day costs and pay only for added capacity when it's
+needed. These immediate savings are a great achievement, but
+longer term the consolidation of data centers and migration to
+the cloud are but a step in the journey towards Federal IT
+modernization and consolidation. These more holistic efforts
+will eventually deliver savings that dwarf the numbers we are
+talking about for FDCCI today.
+Second observation. Cost savings are often difficult to
+quantify. A lot of what we are talking about here today, we
+have seen some of the reality as to why agencies struggle with
+it. And as the GAO report indicates, many agencies do struggle
+to determine just how much they save under consolidation
+initiatives. The challenges here are exacerbated by the lack of
+baseline IT costs on an agency-by-agency basis. Additionally,
+there are some initial costs associated with moving the cloud
+computing or closing down data centers which can delay the
+initial cost savings even though an agency will save
+significantly in the long run.
+Third, significant acquisition challenges exist. In
+discussions with numerous agencies on this topic, CGI has seen
+many that have struggled to modify their procurement methods
+when purchasing cloud services. Cloud computing not only
+represents a fundamental change in how IT services are
+delivered, but also how they are procured. A focus on using
+readily available contract vehicles could significantly
+accelerate cloud migration. Additionally, Congress and the
+administration could provide agencies with more freedom to
+enter into innovative agreements with industry to allow
+government to significantly reduce its upfront costs on the
+public-private partnership we're talking about.
+Many of CGI's commercial and State government clients have
+entered into an agreement where CGI assumes the initial
+transition costs so those clients can start saving on day one.
+If the Federal Government wants to do more with less, then it
+should embrace new methods of contracting that shift that risk
+and upfront costs to industry partners.
+Finally, strong leadership and interdepartmental
+cooperation increase the results from cloud. CGI commends DOD,
+DHS, and GSA for their collaboration as members of the Joint
+Authorization Board overseeing the FedRAMP program, which
+represents a significant and necessary step forward as the
+Federal Government looks to implement the cloud. FedRAMP's
+common-risk framework for all agencies is a critical piece of
+the puzzle that eliminates the needs for highly customized
+solutions that often hold no real extra benefit and severely
+increase cost.
+Moving forward, FedRAMP's continuing monitoring process is
+more frequent and more detailed than those already in place at
+most Federal agencies, which will create more confidence in
+security around commercial providers who receive their P-ATO.
+This will be followed on by the new DHS-led efforts around
+continuous monitoring which will only help push this effort
+forward so that agencies and Congress know both what IT assets
+an agency has and how they're secured.
+Thank you once again for the opportunity to participate in
+this important hearing. Since I'm a few seconds under, I'll add
+two additional things. One, thank you very much for holding
+this hearing here in my alma mater, though this campus looks
+very different than when I was here a couple of decades ago.
+And finally, since it is a few days from Mother's Day, I want
+to thank my mother and brother who surprised me by attending
+today, and thank her for making me come to this school and
+therefore be here. So I would look forward to any questions.
+[Prepared statement of Mr. Wells follows:]
+
+[GRAPHIC] [TIFF OMITTED] T1280.039
+
+[GRAPHIC] [TIFF OMITTED] T1280.040
+
+[GRAPHIC] [TIFF OMITTED] T1280.041
+
+[GRAPHIC] [TIFF OMITTED] T1280.042
+
+[GRAPHIC] [TIFF OMITTED] T1280.043
+
+[GRAPHIC] [TIFF OMITTED] T1280.044
+
+Mr. Mica. Well, we have a lot of mothers to be thankful
+for. But it's nice to have some of your family with you, and a
+successful alumni return and be a witness today.
+Interesting perspective from the private sector. Mr.
+O'Keeffe, your first--or your five-point recommendation seemed
+to differ a little bit from what I got out of Mr. Powner. I
+asked about the compatibility of what was going on with
+PortfolioStat, and it was interesting. I guess under
+PortfolioStat agencies are no longer required to submit the
+previously required consolidation plan and the memorandum does
+not identify a cost-savings goal. And you, of course, in your
+first recommendation said that's not the way to go. So I guess
+you differ a little bit with the testimony we had from GAO.
+Mr. O'Keeffe. I think it's very important to be consistent.
+If we said we were going to save--if we said we were going to
+save $3 billion, or $5 billion, or however many billion dollars
+it is----
+Mr. Mica. Don't try to count.
+Mr. O'Keeffe. --don't keep changing the rules. So I think
+we just need to be consistent in terms of what we're doing. And
+I'm, again, also very interested to see this TCO model which
+Mr. Mazer talked about.
+Mr. Mica. The secret TCO model.
+Mr. O'Keeffe. Right. I don't see why that wouldn't--this is
+an era of open government. Why can't we see the way the
+agencies are measuring or OMB is measuring efficiency?
+Mr. Mica. We would have liked to ask that question to OMB
+today, but we will ask it at a future hearing.
+Mr. Connolly. In the spirit of open government they're not
+here.
+Mr. Mica. Oh, and I have to--first of all, I have to
+compliment this panel, Mr. Connolly. My experience has been
+that it's been like pulling teeth to get anybody from the
+private sector to come before any of our investigative or
+oversight hearings. I mean, they run like scalded dogs from us
+because they're so afraid of the agencies coming down on them
+for some reason or participating with us. So I thank you. I
+think you are providing a very valuable public service and
+insight, and I think it's important that we hear from people
+who are dealing with government on a day-to-day basis, see how
+things work and don't work, and then make recommendations to
+us. Again, I thought, Mr. O'Keeffe, excellent points here.
+Now, the other problem we have is, I think you highlighted
+in one of your recommendations--and GSA owns most of the
+facilities. I guess they pay the power bills and things like
+that. So there is not the accountability. There is no
+incentive. How do you change that now? And then we have pending
+legislation. I asked the question of the other panelists, do we
+need to do more to beef up the pending legislation?
+So first I will ask that, then I have another question.
+Have you read any of the proposed legislation? I think some of
+you actually participated. It's a fairly open process. Will it
+resolve some of these issues? I don't think it's going to
+resolve that one.
+Mr. O'Keeffe. If I might, I mean, I think that the language
+of FITARA was great. But the message in terms of empowering the
+CIO, which is critical in terms of the success of the program,
+runs contrary to what we have seen from an experience
+standpoint. I mentioned the experience with Richard Spires who
+recently was put on leave at Department of Homeland Security,
+and then resigned, very recently, and it just doesn't seem as
+though that there is real support for the CIOs to stand up
+against the components and the mission owners. And if that's
+the case, then, you know, given the experience with Richard
+Spires, I'm not sure other Federal CIOs are going to rush to
+stand up, because the support hasn't been there. So the
+language, I think, of FITARA is good, but I think we have to
+show that support.
+Mr. Mica. Should we beef up the language and empower the
+CIO more or----
+Mr. O'Keeffe. I think we absolutely should empower the CIO
+more. But again, language is one thing, you know, it's actions
+which are going to be more important.
+Mr. Mica. It's interesting, because actually some of my
+first work many years ago was looking at government
+organizations and restructuring governments, primarily local
+governments, and after some years of doing that, you know, we
+could write the best charter of government and guidelines and
+everything, and then you get lousy people, they couldn't
+implement. And sometimes you would have lacking legislative
+authority, or a charter, and you get people who are creative
+and innovative, and they could succeed.
+So sometimes it's hard to craft that. But we want to make
+certain that we give them the tools to be able to do the job.
+So there is a disconnect between the facilities, the energy,
+things of that sort, so maybe there could be some change there.
+That's a tougher one, Mr. Connolly. I kind of think of things
+again that would empower a CIO to move forward.
+The thing that drives you nuts with government, you've seen
+it, is people are making a decision, or then the lack with this
+FedRAMP and the certification of--well, for cloud
+participation. We are up to two, you say?
+Ms. Carlson. Yes, two.
+Mr. Mica. And how long has that taken?
+Mr. O'Keeffe. Almost a year.
+Mr. Mica. A year.
+Ms. Carlson. We've been going through the FedRAMP process.
+We are very close, but it's a very long process, and I do
+really appreciate what, you know, the FedRAMP office is doing,
+because security is obviously very important.
+The one thing is, once it's there, they need to be able to
+utilize it, because as you begin to set more and more controls,
+every agency can stack and put more controls on top of the
+FedRAMP process, and you really don't have a FedRAMP process.
+You just have a FedRAMP process plus, plus, plus.
+Mr. Mica. And it goes on and on.
+Ms. Carlson. And it goes on and on, and it never, you know,
+comes to fruition. And then I think the second thing is the
+``Cloud First'' policy. In order for this to really make sense,
+I do think they need measurements, respect to what Steve was
+saying, they need measurements in there to say, here is the
+real process we've made toward ``Cloud First,'' you know,
+around the application, consolidation effort as well, because
+you're only going to truly get there when you begin to take a
+look at what are those applications that you've done? How are
+you looking at the total picture as actually the consolidation
+effort?
+Mr. Mica. Does anybody know how many cloud certification
+requests are pending?
+Mr. Wells. There are over 80.
+Mr. Mica. Over 80?
+Mr. Wells. Yes, and many of those were just in the last
+couple of months.
+Mr. Mica. Okay.
+Mr. Wells. There were about 40 the beginning of December.
+Mr. Mica. Okay, so a huge number. So we need to get, first
+of all, some stability in the certification process, and people
+certified, then some motivation, and some empowerment of those
+charged with this responsibility to move forward, and again,
+some accountability in the system.
+Mr. Wells. Yes.
+Mr. Mica. I'm going down O'Keeffe's recommendations here. I
+thought it was a good summarization of some of the things that
+we needed. But do you not need 600 HR systems? That got me,
+because we started looking at Office of Personnel Management,
+and I think they have blown either a third of a billion or a
+half a billion dollars. And finally I was told--were any of you
+involved in that? No? Then they finally settled on a smaller
+contract after blowing lots of money and attempts, smaller
+contract, and then they discarded that.
+Now I understand they are going back to almost hand
+processing. That's the Office of Personnel Management for the
+Federal Government. And then we've 600 HR systems on top of
+that. So I can't even begin to imagine how much we spend in
+sort of a mundane process, not that there aren't variations for
+background checks and all kinds of information to be combined.
+The other thing is on retirement systems. That whole area,
+again, is just unbelievable money that's been spent, and I
+guess my comments were actually the hand processing for
+retirees is what they have gone back to, very costly. They just
+hired more and more personnel and abandoned IT as a solution.
+Is that----
+Ms. Carlson. The opportunity there, especially with cloud
+computing, is the ability to not have to spend millions of
+dollars to test out systems. So with the cloud computing model
+you can set up and design something in a very small way without
+spending a lot of money. And the minute that works you move it
+into the test adaptive environment, and then right from there
+you can move it into production and then scale it. So you don't
+have to build a system for complete scale and then try to
+deploy it.
+So again, that's another opportunity because your cost, if
+you fail, you can fail fast, use those failures as
+understandings, and then recover, and you don't even have to
+throw away all that code. It actually can be utilized for the
+success that you need.
+Mr. Wells. And then taking that one step further, that
+makes sense, complete sense for custom application. But getting
+back to the retirement systems and the HR systems and all the
+other common systems that every agency has to use, moving
+toward software as a service, where you actually have a handful
+of applications that have been precertified and FedRAMP
+certified, that then agencies don't have to start from scratch,
+they don't have to reinvent the wheel. They'll have a handful
+of those, so hopefully more than that, enough to make it a
+competitive market space, but something they know works so that
+at least we can streamline it.
+Mr. Mica. A final question, and actually motivated by Ms.
+Carlson, is she had cited those that she felt were getting it
+right, and she talked about Jet Propulsion Lab, NASA, Navy. Are
+there good examples? I think it's always good to see who is
+doing things well and what steps they've taken, how they got to
+that success and--go ahead.
+Mr. Wells. I can add an additional one: Department of
+Homeland Security.
+Mr. Mica. Which is stunning to me, because I think it's one
+of the loose cannons of Federal Government, but that's another
+matter.
+Mr. Wells. As was discussed earlier, has certain
+challenges, both based on the size and the politics involved,
+but there is some very good work being done there. And a couple
+of years ago they purposely went down their own data center
+consolidation into two large DC1, DC2 data centers, and more
+recently when they decided to embrace cloud, they decided to go
+two different routes. One, build a private cloud on site in
+government infrastructure, since so much of their stuff is so
+sensitive; and second, to conduct a procurement to select a
+government community cloud, an external provider who has all
+the appropriate certifications. We were lucky enough to win
+that contract.
+Mr. Mica. Well, I'll have to go back and look at that,
+because I think almost all of our terrorist incidents, even the
+Boston, we still can't connect the dots. Maybe Homeland is
+doing a good job, but they haven't connected to State, and--I
+mean, other agencies. And it's very sensitive information. I
+don't know, but you're just talking about the practical
+implementation standpoint.
+Mr. Wells. Right. So, for example, they started with a
+couple of very small Web sites. They got comfortable with it,
+started adding more. Now all of DHS' public sector----
+Mr. Mica. And it is a newer agency, so...
+Mr. Wells. Correct.
+Mr. Mica. Mr. O'Keeffe, any----
+Mr. O'Keeffe. NOAA has also done a very good job, the
+weather guys.
+Mr. Mica. NOAA.
+Mr. O'Keeffe. Have put forth, you know, excellent progress
+in terms of modernization
+Mr. Mica. Just their IT. We still have a lot of people.
+Mr. O'Keeffe. They've consolidated a lot of their data
+centers. They've built a $2.4 billion data center out in
+Martinsburg, West Virginia, and they are operating at
+tremendous levels in terms of energy efficiency and such.
+Mr. Mica. Well, I could go on. I have a whole bunch of
+questions I would like to get. Let me let Mr. Connolly have a
+shot here. I went well over my time.
+Mr. Connolly. Thank you, Mr. Chairman. It was actually a
+very interesting line of questioning.
+Ms. Carlson, in your prepared testimony, I would like to
+cite something you said, because, Mr. Chairman, I think it sort
+of encapsulates the whole challenge of cloud for the Federal
+Government. And you say, ``One way to think about cloud
+computing is that instead of buying, owning, and maintaining
+their own data centers and servers, Federal agencies can
+acquire technology resources such as computing power and
+storage on an as-needed basis and dispose of it when it no
+longer is needed. Many industry experts refer to this as a
+utility model of obtaining and using IT capability analogous to
+how the government obtains access to water, gas or electrical
+power. Users to only pay for what they use.''
+That's a pretty commonsense model. What's your
+understanding of how the government looks at that? And, for
+example, the task force, to the extent you're aware of their
+process, are they also looking at junk the whole thing and go
+private sector using this model?
+Ms. Carlson. I think it's a very good question. I think
+some are really evaluating that, as they begin to look at this
+different heavy lifting that they're trying to do when they can
+have what I call more mission for the money. You know, why not
+utilize your dollars for the true mission and not worry about
+building out infrastructure and these tools? And it's a very
+common model that you use now, and, you know, hundreds of
+thousands of customers and 190 countries, that for government,
+it is still an ``ah ha'' moment when we actually show them that
+they can provision virtual machines like that on a portal. They
+just can't believe it.
+And as Mr. Wells was saying, when that's configured in
+FedRAMP all they have to do is go provision it. They don't have
+to wait 6 months for the supply chain management. It's there
+and available. And it's very, I mean from a mission
+perspective, it's really a game changer for the U.S. Federal
+Government.
+Mr. Connolly. And I want to acknowledge that it may not
+always be appropriate, but it is an option that needs to be on
+the table.
+Ms. Carlson. That's correct. And we don't suggest that they
+just jump in. We suggest they take the opportunity to learn,
+because it is a big culture shift and we understand that. And
+the agencies that are getting there, it has taken them a little
+bit of time, but they're gradually moving more and more, and
+their really smart architects and engineers and research
+scientists now, are really--they enjoy the fact that they have
+capacity on demand as they need it and then they can shut it
+down. And they can see how much it costs. They can look at a
+portal and know immediately how much they're spending and the
+servers that aren't being utilized, and they can be turned off.
+And we help them with that. And that's really the key. We want
+them to be able to reduce costs so they can do more and to have
+all of the other components around security.
+Mr. Connolly. And I'm going to come back to that. Mr.
+Wells, you look like you wanted to talk to that point as well.
+Mr. Wells. We're in absolute agreement with this. And if
+you think about the overall Federal portfolio, what could go to
+the cloud, what can't, you know, under FISMA they have to
+categorize all of their applications low, moderate, or high.
+Low basically is, obviously, a system that, you know, doesn't
+have quite the same level of barriers as the others. FISMA
+moderate means normally there is Privacy Act data in it. PII,
+the kind of stuff we're worried about for identity theft, HIPAA
+data, confidential but unclassified, confidential business
+information, regulatory data, stuff that you really don't want
+to get out. And there are a number of controls put in place,
+defined by NIST, to do that. Low and moderate together is 88
+percent of the entire Federal portfolio; 12 percent is
+classified FISMA high. That 12 percent is normally national
+security or critical infrastructure protection, the stuff
+that----
+Mr. Connolly. I want to make sure we all understand what
+you just said. So what you're saying is that in data
+evaluation, 88 percent of the Federal market, in this market,
+would lend itself to private sector cloud computing.
+Mr. Wells. Correct. And that's for FISMA moderate. A
+FedRAMP FISMA moderate is a higher bar than a normal FISMA
+moderate. A normal FISMA moderate certification, as defined by
+NIST, has 252 controls. When the FedRAMP program sat down with
+all the different agencies to try to come up with what they
+would all accept, they ended up with 298 controls. And so it's
+a much higher bar, and they tried to get every agency to say,
+all right, what's the unique thing that you absolutely have to
+have. Fine, we'll incorporate that under the standard. But
+still many of those agencies will take that FedRAMP-certified
+infrastructure, or application, and they'll still want to do
+their own security checks on it again. That, I think, will be
+unnecessary as we go forward. Now, the FedRAMP process is still
+in the early stages.
+Mr. Connolly. Excuse me, but if they want to do that, for
+example, your services allow for that.
+Mr. Wells. Oh, absolutely, absolutely. That's a
+requirement.
+Ms. Carlson. In fact, we create a package and we make it
+very easy. And we sit down and they go through each and every
+control. And I actually might say that there's a lot of
+commercial companies that work and utilize that FISMA and
+FedRAMP process. We have many that say they go through the
+controls of the commercial company, because they think it is a
+Good Housekeeping seal of approval for security.
+Mr. Wells. It is the one area that I can say the Federal
+Government is probably ahead of the commercial sector from IT,
+and if the controls are followed and applied, it may not always
+be done in the most efficient method possible, but it is much
+more secure.
+Mr. Connolly. You mentioned, Ms. Carlson, JPL, and you said
+they achieved significant savings, dramatically saved IT costs,
+I think were your actual words.
+Ms. Carlson. Yes.
+Mr. Connolly. Could you just elaborate a little bit on
+that, because I think that's one of the things we're looking
+for--and I'm going to go back to Mr. O'Keeffe, if I may, Mr.
+Chairman--to talk about cost savings. But we need models.
+Ms. Carlson. Yes.
+Mr. Connolly. Where you can look at the reluctant players
+and say, don't be so afraid. It works. And you will be the
+better off for it. Tell us a little bit about JPL, your
+experience with JPL.
+Ms. Carlson. Yes. So one quick thing about JPL is they were
+seeing a trend where their engineers and researchers were
+trying to build their own OSs, their own operating systems, and
+it was highly inefficient. They were concerned about security.
+They knew that they were trying--they needed capacity when they
+needed it. So they started looking toward a cloud computing
+model to fulfill that. And then as a result, they gained a lot
+of knowledge over the last few years. But this one particular
+program that I talked about, and they can tell you the exact
+dollars better, but they said they paid 10 percent of the
+original cost by using a cloud computing model.
+They also have talked about another major Mars program that
+they ran. The program manager told me, if it hadn't been for
+the utilization of cloud computing, they would have had to shut
+the program down, because the original Mars Curiosity kept
+going, but they didn't think that the little buggy would go
+very long, like 2 months, and it was still running around
+taking pictures after 6 months, 7 months. And all of that
+amazing data being streamed from Mars, they wanted the ability
+to take advantage of that for educators, researchers, but they
+couldn't store it, they couldn't manage it, it was very costly.
+So as a result, that was another reason they looked to cloud.
+And I wanted to point out where we've seen the real push in
+cloud in the Federal Government is more on the program side,
+because the programs begin to say, I don't have enough money,
+like, I don't have enough money. So they look for options to
+keep their programs going, and then they begin to find that
+there are new realities out there of how they could deliver IT
+and really transform it. They think NASA JPL is a great
+example.
+And another one is Health and Human Services that's doing
+across the board, and many of their agencies are utilizing
+cloud now, especially for open and transparent programs like
+the 1000 Genomes, the oxygen database, BioSense. They're
+starting to look for ways that they can provide citizen
+services that are effective, that again reduce cost, and be
+able to scale when they need to scale things.
+Mr. Connolly. And, Mr. Wells, you actually have, you are
+one of the two companies certified so far for----
+Mr. Wells. Correct.
+Mr. Connolly. --this activity. Presumably in your
+experience with Federal clients, you have also been able to
+identify significant cost savings for the client.
+Mr. Wells. Correct, and I think a lot of it comes back to
+what Teresa was just describing as far as the elasticity and
+that sort of thing. For example, I was mentioning the DHS Web
+sites earlier. One of those is FEMA.gov, and Ready.gov, which
+is their disaster preparedness site. And moving that into the
+cloud, out of one of their data centers, used to be that they
+had to build the infrastructure in their data center to the
+peak capacity they would ever think they would need. But when
+it's not hurricane season or when there is not a major
+disaster, they need less than a tenth of the power for those
+Web sites that they do need when there is a disaster.
+So when Superstorm Sandy was coming ashore, the President
+held a press conference, and he said, go to Ready.gov, there is
+disaster preparedness information there, take a look at that.
+And that was up and running in our cloud and we instantly saw a
+huge spike, nearly a hundredfold increase in the amount of
+activity on that. And the elasticity of the cloud allowed us to
+spin up those services and spin them back down a few days later
+when they weren't necessary.
+Mr. Connolly. That's a great example. I would think
+particularly applicable to you, Mr. Mica, coming from Florida,
+in terms of the spiking in hurricane season and then coming
+down.
+Mr. Wells. And one other cautionary aspect of that tale
+which I will throw out there is that at the same time we saw
+all of this incredible spike and people flooding to the site,
+the spike in the number of attacks on those sites--denial of
+services attacks, attempts at hacking, et cetera--spiked as
+well. And the people in our security operation centers were
+watching it and were having to do some things to make sure that
+there was no interruption in service. But coming back to even a
+public-facing Web site that most of the year may not seem so
+critical, for a brief period is absolutely mission critical.
+And it's a sad testament, but it's the world we live in, that
+as soon as people started paying attention to it, people
+started attacking it, but that is the case.
+Mr. Connolly. Sure. Yeah. Well, that's another hearing for
+us, cybersecurity, because it's an incredible problem.
+Mr. O'Keeffe, I was really struck by your presentation,
+thank you. And I thought the point you made with Chairman Mica
+was an excellent one. It isn't, while hopefully we do have it
+right, I mean, the idea that we have 250-plus CIOs in 26
+agencies tells you what you need to know in terms of
+accountability.
+Mr. O'Keeffe. Right.
+Mr. Connolly. And decision making. We have to change that.
+But that alone, and maybe hopefully legislatively we've got
+that right. Enumerating the authorities of powers of that
+designated CIO, even that doesn't necessarily solve the
+problem, because what you're getting at is a culture, and
+changing a culture is always difficult. What are the
+attributes, if we were to have a successful cultural change, in
+the CIO you would look for, given private sector experience in
+the Federal Government.
+Mr. O'Keeffe. Well, I think metrics are very, very
+important. The CIO is not an IT person. They are not putting
+together wires. They are not provisioning systems. This is a
+business professional. And so what we need to do is establish
+some real metrics.
+I think that everybody is afraid of accountability, and so
+what we see is that people run away from coming up with any
+metrics at all. No metrics at all is better than any kind of
+metrics whatsoever because you are going to be held accountable
+for them. So I think we have to--let's look at the private
+sector. When we look at data center consolidation, whether it's
+NASDAQ, or Dow or whoever it may be, private sector
+organizations, they've done data center consolidations. And,
+you know, it's not a one-time operation. It's an ongoing
+operation. How long does it take to consolidate data centers or
+optimize data centers? How much does it cost? How much money do
+we have to put into the process in order to get something out
+of the process? Looking at things like PUE, it's another
+acronym, but it's a metric which shows the power efficiency of
+data centers.
+I think what we need to have is a practical framework in
+order to move the ball forward. And we need to make sure that
+when we commitments that we measure ourselves against those
+commitments. And sometimes we're going to fail, but let's be
+open about what's actually transpiring. So I think, you know,
+as far as the CIO role across agencies go, they need to have
+authority, and with authority, was it Spiderman said, with
+great power comes great responsibility.
+Mr. Connolly. Well, and one of the things I have heard from
+Mr. Spires and others who were CIOs, or are CIOs, from the
+private sector in the Federal Government, we need more
+flexibility and authority to award contracts, to make decisions
+about this system, not that system, close that, open that, you
+know, not dictatorial powers, but everything by committee means
+the path of least resistance, the least risky, but also the
+lowest payoff kind of outcome. And again, briefly, you might
+want to comment on that as well, in terms of the powers that we
+want to infuse CIOs with.
+Mr. O'Keeffe. I think you're exactly right. You know, a
+camel is a horse built by committee. And so in many
+circumstances what we see is a lot of different camels running
+around the Beltway. And so we need to be prepared to take, you
+know, to take some chances on new approaches, whether that's,
+you know, cloud computing or what you will. I think that the
+cholesterol that we see in programs like FedRAMP, the cure can
+be worse than the disease. So if we don't simplify what's going
+on, then we're never going to see any real progress.
+Mr. Connolly. And that's my final question, actually, about
+FedRAMP. By the way, I would say to you, Mr. Mica, that
+sometimes we're the problem. I mean, if you want to understand
+why we have a risk-averse culture in the Federal Government,
+Congress has to bear some responsibility here. The minute
+somebody makes a mistake, if somebody thinks there's political
+advantage in exploiting that mistake, we have a hearing and we
+haul you before Congress and we threaten you with subpoenas.
+Well, who the hell wants to take a risk and face all of that?
+And we know in the private sector, I spent 20 years in the IT
+world of the private sector, some things work and some things
+don't. And a lot of what is considered highly successful today
+started out failing. And it took a lot of, you know--and if
+private sector entities had not--if they had the tolerance for
+failure we've in the Federal Government, a lot of this would
+not have happened, I submit.
+But final question. FedRAMP. The idea that there are 80
+pending applications--and my guess is, by the way, there could
+have been more, people got discouraged.
+Mr. O'Keeffe. That's right.
+Mr. Connolly. Who wants to wait that long? And only two
+have been approved? What's your sense of the problem? What's
+the nature of the problem and what should we do to try to
+accelerate the certification process?
+Mr. O'Keeffe. I think perfection is the enemy of the good,
+and so we're trying to solve for every scenario, and that's
+just not practical. So we need to simplify the process. That's
+really it.
+Ms. Carlson. Yeah, I agree. I agree with that. I think it
+can evolve. I don't think it has to be perfect out of the gate.
+But I believe it's already, by the way, a very, very solid
+process. And they need to be confident in what they've
+developed already and get it out there and try it. It doesn't
+mean that you can't come back around and hold the companies
+accountable once they've gotten the FedRAMP. They need to be
+able, which we do, we have to show that we're patching and
+doing everything appropriately.
+But I believe they need to be confident in what they
+develop, and also the agencies probably need to get more
+involved because the FedRAMP office themselves is not going to
+be able to do everything, so the agencies are going to have to
+work with the FedRAMP office and the vendor to certify in an
+appropriate way, along with the three PAOs.
+Mr. Wells. I think the process is slowly getting better,
+just to say something positive out there. But it is important
+to remember that the FedRAMP requirement was in the end the
+result of something of a political process, again. The JAB
+wanted to make sure that this standard would be acceptable to
+all of the various agencies out there, so whenever someone
+would throw in a new barrier, they would add it to the list. So
+the bar is high. And the bar should be high. But if they had a
+little bit more authority, or there was agreement on, you know,
+amongst all the agencies that let's bring this down a couple of
+notches, it would streamline the process a great deal. But
+let's also recognize this is a brand new process with a brand
+new program that is, you know, trying to do something really
+groundbreaking across the entire Federal market space. So while
+I'd love for it to go better, I do want to give them some
+recognition that they're trying something very ambitious.
+Mr. Connolly. Very helpful. I want to join the chairman in
+thanking our panel. I think it's very thoughtful, very
+insightful.
+I will add, though, and I know Mr. Mica shares this, there
+is no way Congress is going to continue to allow this process
+to go forward without cost saving being a major criterion. The
+idea that it's sort of incidental to the process and sometimes
+not even impacted at all is a stunning thing to learn in the
+current environment, and by the way, takes an efficiency off
+the table.
+You know, you cited in your testimony, Ms. Carlson, that in
+some cases there could be 50 percent effectuated savings. Well,
+you know, in an $80 billion IT budget, let's just project and
+extrapolate that out: 50 percent saving across the board means
+we've taken $80 billion, not changed the appropriation one bit,
+but it's worth $120 billion, I mean, in terms of its buying
+power and so forth.
+But we're actually shrinking budgets, and so we've got to
+look for efficiencies, and I think the private sector is going
+to help us figure that out, because I don't know that left to
+our own devices we're going to do it.
+Mr. O'Keeffe. Just one point. As far as appropriations go,
+one of the challenges is exactly on the Hill, inasmuch as if
+you look to close data centers and they're closed in specific
+people's districts, that's not real popular. So that's, you
+know, that's definitely a factor in this equation, right? If
+you try to close--you know, the whole point in closing data
+centers is you have to shut them. And if that data center is in
+a specific district, that can be a problem, so it can be
+somewhat of a circular discussion.
+Mr. Connolly. Mr. Chairman, I thank you so much for your
+indulgence, and thank you so much for holding this hearing.
+Mr. Mica. Well, it is interesting, very educational for me.
+A couple of final points. I can't remember, I read several of
+these reports in some other background information, I guess one
+of the problems that was identified someplace, and maybe it
+was--I thought it was in GSA, they said that the quality of the
+people who are involved in evaluating some of these systems in
+all is not the level that they need, because some of these
+people, you know, they're buying paper clips and office
+supplies and stuff. And I know this is kind of touchy. Isn't
+GSA the one that's doing the certification, or responsible for
+it? Have you seen some of that or is that--anybody want to
+comment on it?
+Ms. Carlson. I mean, the individuals we have worked with, I
+don't agree with that. I think the individuals we've been
+working with in the FedRAMP process----
+Mr. Mica. They get it?
+Ms. Carlson. Yeah, they are very good. And they have the
+three PAOs and they have been--I mean, they have been very
+professional. And like Mr. Wells says, this is a really
+important process, and they haven't put anyone in there that I
+don't feel has been competent.
+Mr. Mica. The other thing too, Gerry, is we are asking
+people to dismantle sort of the standard operating safe
+procedure, buy a couple more hard drives, hire a few more
+people, as opposed to dismantling a lot of what they've got.
+And then of course Mr. O'Keeffe just said the politics of--I've
+tried FAA, I've tried some of the consolidation of the centers,
+like one in Florida, is like the, you know, every card in the
+world is pulled out to keep some things that are unnecessary in
+today's IT world, and computer and technology world. But it's
+very tough, so we end up being the problem.
+Well, again, I think we've gotten some good testimony. Just
+fascinated hearing--I guess if Amazon could get a little bit
+more experience under their belt, maybe they could get
+certified. For a mom-and-pops startup, I understand the
+difficulty you're incurring. But we should look a little bit
+more at that if we could get--yeah, and if 88 percent, you
+know, we could probably take it down a few more notches. We're
+not risking the national treasury or secrets. We could have a
+little bit more efficiency in this process.
+Well, again, I think it's most informative. I'm still
+disappointed we didn't have a couple of the key players here.
+We will convene another hearing, and we will talk to our
+leaders. If we have to bring them here voluntarily, we will; if
+we have to bring them involuntarily, we will. But we will have
+a follow-up hearing. I think it's very important.
+Mr. Connolly. Mr. Chairman, I also want to thank your
+staff. They have been very, very helpful and cooperative. We
+really appreciate it.
+Mr. Mica. The beatings will not continue?
+Mr. Connolly. No more beatings.
+Mr. Mica. The sequestration will be eliminated.
+So think you so much for joining us today and providing us
+with your testimony. Mr. Connolly, no further business? No
+further business before the Subcommittee on Government
+Operations. This hearing is adjourned.
+[Whereupon, at 4:46 p.m., the subcommittee was adjourned.]
+
+[GRAPHIC] [TIFF OMITTED] T1280.047
+
+[GRAPHIC] [TIFF OMITTED] T1280.048
+
+[GRAPHIC] [TIFF OMITTED] T1280.049
+
+[GRAPHIC] [TIFF OMITTED] T1280.050
+
+[GRAPHIC] [TIFF OMITTED] T1280.051
+
+[GRAPHIC] [TIFF OMITTED] T1280.052
+
+[GRAPHIC] [TIFF OMITTED] T1280.053
+
+[GRAPHIC] [TIFF OMITTED] T1280.054
+
+[GRAPHIC] [TIFF OMITTED] T1280.055
+
+[GRAPHIC] [TIFF OMITTED] T1280.056
+
+[GRAPHIC] [TIFF OMITTED] T1280.057
+
+[GRAPHIC] [TIFF OMITTED] T1280.058
+
+[GRAPHIC] [TIFF OMITTED] T1280.059
+
+[GRAPHIC] [TIFF OMITTED] T1280.060
+
+[GRAPHIC] [TIFF OMITTED] T1280.061
+
+[GRAPHIC] [TIFF OMITTED] T1280.062
+
+

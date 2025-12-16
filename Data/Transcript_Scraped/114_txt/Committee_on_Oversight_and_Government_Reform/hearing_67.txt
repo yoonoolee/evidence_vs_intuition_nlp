@@ -1,0 +1,1135 @@
+- EXAMINING LAW ENFORCEMENT USE OF CELL PHONE TRACKING DEVICES
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+EXAMINING LAW ENFORCEMENT USE OF CELL PHONE TRACKING DEVICES
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+OCTOBER 21, 2015
+
+__________
+
+Serial No. 114-69
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+21-433 PDF                     WASHINGTON : 2016
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800;
+DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC,
+Washington, DC 20402-0001
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK, MULVANEY, South Carolina       BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Sean McLaughlin, Staff Director
+David Rapallo, Minority Staff Director
+Troy D. Stock, IT Subcommittee Staff Director
+Sharon Casey, Deputy Chief Clerk
+Subcommittee on Information Technology
+
+WILL HURD, Texas, Chairman
+BLAKE FARENTHOLD, Texas, Vice Chair  ROBIN L. KELLY, Illinois, Ranking
+MARK WALKER, North Carolina              Member
+ROD BLUM, Iowa                       GERALD E. CONNOLLY, Virginia
+PAUL A. GOSAR, Arizona               TAMMY DUCKWORTH, Illinois
+TED LIEU, California
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on October 21, 2015.................................     1
+
+WITNESSES
+
+Ms. Elana Tyrangiel, Principal Deputy Assistant Attorney General,
+Office of Legal Policy, U.S. Department of Justice
+Oral Statement...............................................     4
+Written Statement............................................     7
+Mr. Seth Stodder, Assistant Secretary, Threat Prevention and
+Security Policy, U.S. Department of Homeland Security
+Oral Statement...............................................    12
+Written Statement............................................    14
+
+APPENDIX
+
+Questions for the Record.........................................    32
+
+EXAMINING LAW ENFORCEMENT USE OF CELL PHONE TRACKING DEVICES
+
+----------
+
+Wednesday, October 21, 2015
+
+House of Representatives,
+Subcommittee on Information Technology,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:52 p.m., in
+Room 2154, Rayburn House Office Building, Hon. Will Hurd
+[chairman of the subcommittee] presiding.
+Present: Representatives Hurd, Walker, Blum, Chaffetz,
+Connolly, and Lieu.
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order. Without objection, the chair is authorized to
+declare a recess at any time.
+Today's hearing has a narrow but very important focus,
+Federal law enforcement agencies' use of cell site simulator
+devices, otherwise known as IMSI-catchers or stingrays.
+Today's hearing also touches on fundamental questions of
+privacy that we have grappled with since the founding of this
+country. When and how, can or should the government use
+technology to locate people? What notice or information, if
+any, must people be given about the technology used to locate
+them? To what extent must the government take into account the
+rights of innocent people who may be swept into a law
+enforcement dragnet? And how can we protect our civil liberties
+and defend the homeland at the same time? These are essential
+questions.
+Today's hearing won't give us a definitive answer to all
+these questions, but I hope that representatives from DHS, and
+DOJ, will be able to shed light on some of them and that this
+conversation will begin to reveal answers on others.
+Tracking a person's movements for an extended period of
+time can reveal almost anything and everything about them. What
+establishments they frequent, whether or not they are church
+goers, who their friends are, and their day-to-day hobbies.
+Geolocation is more than a record of where you are or were,
+it's a window into who we are.
+The Founders considered the ability of average citizens to
+keep things private from the government of such importance,
+that they built it into the Constitution. Thanks to the Fourth
+Amendment, we have the right to be secure in our persons,
+houses, papers, and effects against unreasonable searches and
+seizures. Simply put, unless, and until law enforcement can
+convince a judge to issue a probable cause warrant, they don't
+get to disrupt that security.
+Cell site simulator devices work by impersonating a cell
+phone tower and forcing all mobile phones within range into
+connecting with the device. Once a stingray connects with a
+cellular phone, it is able to identify that cell phone's unique
+identifying number and to identify the approximate location of
+the phone.
+There are also collateral consequences for the owners of
+non-targeted phones in the area. While searching for the target
+phone, the device will also make contact with other non-target
+cell phones that happen to be within range of the simulator
+device, even if those phones' owners are not suspected of
+criminal wrongdoing.
+After considerable congressional, public, and media
+interest, both DOJ and DHS decided to create agency-wide
+policies governing the use of these devices. While there may be
+some lingering concerns about the substance of the policies,
+which we will discuss here today, in balance the policies are a
+big step forward for DOJ and DHS, and a win for transparency
+and privacy advocates everywhere, as well as this is a win for
+the American people. What does worry me, however, is that it
+took the extra scrutiny to convince DOJ and DHS to make these
+changes, and I remain troubled that Federal law enforcement is
+still not embracing transparency the way they need to in 2015.
+I know, and I think, better than most, the need for the
+government to keep certain things secret from the public.
+Secrets in the wrong hands get people killed, but secrecy is a
+double-edged sword. Right now only about one in four Americans
+trust the Federal Government. If you do not have the trust of
+the people you are fighting for and with, you have nothing.
+I commend DOJ and DHS for their efforts here, but this
+can't be the exception. Law enforcement must continually strive
+to appropriately balance privacy and security issues in the
+digital age and they must continue to be transparent with
+Congress, and the public, about the choices and trade-offs we
+face.
+I hope today's hearing is a small step in beginning to
+bridge the gulf that has developed between our Nation's
+policies and the citizens they are meant to protect.
+Our witnesses today are Elana Tyrangiel, the Principal
+Deputy Assistant Attorney General for Office of Legal Policy at
+the U.S. Department of Justice, and Seth Stodder, the Assistant
+Secretary of Threat Prevention and Security Policy at the U.S.
+Department of Homeland Security. I thank the witnesses for
+being here today and look forward to their testimony.
+And now it's a pleasure to recognize the gentleman from
+California, Mr. Lieu, for 5 minutes for your opening statement.
+Mr. Lieu. Thank you, Chairman Hurd, for holding today's
+hearing to examine law enforcement's use of cell phone tracking
+devices.
+In September of this year, the Department of Justice
+announced its new policy on cell site simulators, commonly
+known as stingrays, aimed at enhancing privacy protections and
+establishing a consistent legal standard for obtaining
+authority to use a simulator. Most Federal law enforcement will
+now be required to obtain a search warrant supported by
+probably cause, consistent with the protections of the Fourth
+Amendment.
+Earlier this week the Department of Homeland Security
+announced its Department-wide policy, which similarly
+establishes a higher and more consistent legal standard of a
+search warrant requirement. At the time of the DOJ
+announcement, I released a statement calling the policy change
+a welcome first step and suggested we need committee hearings
+on this issue, and I am pleased Chairman Hurd is holding this
+hearing today.
+As new technology empowered law enforcement with unique
+capabilities, stringent rules are needed to safeguard against
+abuse of our civil liberties. The search warrant requirement
+establishes a consistent legal standard for Federal authorities
+and will allow increased oversight of the use of cell site
+simulators. Even those limited circumstances when a warrant is
+not required for use of such a cell site simulator, there are
+controls in place that help ensure that the exceptions are not
+abused. I look forward to the witnesses today providing more
+details on what those exceptions are and the safeguards that
+are put in place.
+These further policies are needed to guard against abuse of
+individuals' privacy and civil liberties. Their data collection
+retention practices, and new policy are intended to enhance
+privacy protections, and hopefully they do so without
+undermining a law enforcement tool.
+I believe that these policy changes by DOJ and DHS, while a
+good step forward, could, and should go further. As the ACLU
+has noted, the policy guidance contains significant gaps,
+including overbroad exceptions to warrant requirement, lack of
+notice to individuals impacted by stingrays, and lack of
+transparency reporting. These agency policy changes also do not
+meaningfully restrict State and local officials who use
+stingrays and the majority of U.S. States that do not regulate
+them. I hope that State and local law enforcement agencies
+follow the lead of these Federal policies and implement
+stringent privacy protections and legal standards.
+In my home State of California, for example, Governor Jerry
+Brown recently signed into law the California Electronic
+Communications Privacy Act, joining nine other States with laws
+that require State law enforcement to get a warrant before
+using cell site simulators. The California law also requires a
+warrant before law enforcement can search metadata or other
+electronic communications.
+I also note that the Federal policy changes discussed today
+here are reversible, and they do not apply to all Federal
+agencies. As we have seen in the past, not all administrations
+or agencies have had respect for the Fourth Amendment or our
+civil liberties. We should follow the lead of multiple States,
+including my own, and enshrine these policies into law across
+all agencies to make clear that the Fourth Amendment needs to
+be respected and persons have the right to be free from
+unreasonable search and seizure by the government.
+I would like to commend Chairman Chaffetz, Ranking Member
+Cummings, Subcommittee Chair Hurd, and Ranking Member Kelly,
+for the oversight work related to cell site simulators. In
+April of this year, the committee sent letters to DOJ and DHS
+requesting information and briefings on policies surrounding
+cell site simulators, which increased the committee's
+visibility into the policies governing the use of this law
+enforcement tool.
+I also want to thank the agencies appearing today for
+taking the time to testify about these important policy
+changes, and thank the witnesses especially for being here.
+As with other policies regulating government use of
+technology for law enforcement and surveillance purposes, it is
+vital that we closely examine the rules to ensure we fully
+understand what is permitted. I look forward to reviewing
+policies related to the collection of geolocation and other
+electronic data to ensure that law enforcement tools are being
+employed consistently and with respect for privacy and civil
+liberties.
+And I yield back.
+Mr. Hurd. Thank you, Congressman Lieu.
+Mr. Hurd. And thank you and Ranking Member Kelly.
+Mr. Lieu. Sure.
+Mr. Hurd. I yield back.
+Mr. Lieu. One more thing before I conclude. I would like to
+enter the ACLU letter for the record, if that's okay.
+Mr. Hurd. So moved.
+Mr. Lieu. Great. Thank you.
+Mr. Hurd. I will hold the record open for 5 legislative
+days for any members who would like to submit a written
+statement.
+Mr. Hurd. And now we will recognize our panel of witnesses.
+I'm pleased to welcome Ms. Elana Tyrangiel, Principal Deputy
+Assistant Attorney General at the Office of Legal Policy at the
+Department of Justice. Thanks for being here. And, again, Mr.
+Seth Stodder, Assistant Secretary of Threat Prevention and
+Security Policy at the U.S. Department of Homeland Security.
+Welcome to you both.
+And pursuant to committee rules, all witnesses will be
+sworn in before they testify. So please rise and raise your
+right hands.
+Do you solemnly swear or affirm that the testimony you are
+about to give will be the truth, the whole truth, and nothing
+but the truth?
+Thank you. Please be seated.
+Let the record reflect that the witnesses answered in the
+affirmative.
+In order to allow time for discussion, please limit you
+all's testimony for 5 minutes, and your entire written
+statement will be made part of the record.
+Ms. Tyrangiel, we will start with you. You are recognized
+now for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF ELANA TYRANGIEL
+
+Ms. Tyrangiel. Chairman Hurd, Ranking Member Lieu, and
+members of the subcommittee, thank you for inviting me to
+testify on behalf of the Department of Justice regarding the
+Department's policy guidance on the use of cell site simulator
+technology. We appreciate the opportunity to engage with the
+subcommittee on this important topic.
+Cell site simulators are critical tools that play an
+essential role in the Department's law enforcement and public
+safety missions. The Department has deployed this technology,
+for example, in efforts to locate and recover kidnapping
+victims, in operations to apprehend dangerous and violent
+fugitives, and in complex drug trafficking investigations. The
+Department uses cell site simulators only in the fraction of
+cases in which the tool is the most effective means of
+achieving a particular public safety objective, and as with any
+law enforcement capability, Department personnel must use cell
+site simulators consistent with constitutional and statutory
+requirements.
+As you know, in September the Department announced a new
+policy governing its use of cell site simulators. The policy
+applies Department-wide, establishing common principles for the
+use of cell site simulators in support of criminal
+investigations in the United States. It applies when Department
+personnel are working in cooperation with State and local law
+enforcement and it makes clear that cell site simulators may
+not be used to collect the content of any communication.
+The policy seeks to accomplish four basic objectives:
+first, to improve training and supervision, second, to
+establish a higher and more consistent legal standard, third,
+to enhance transparency and accountability, and finally, to
+increase privacy protections. I'd like to briefly discuss each
+of these.
+First, the policy sets forth a number of measures to ensure
+that law enforcement officers using cell site simulators are
+trained and supervised appropriately. Each law enforcement
+agency must establish training protocols, which must include
+training on privacy and civil liberties. Each agency must also
+name an executive level point of contact, who will be
+responsible for ensuring implementation of, and compliance
+with, the policy in each jurisdiction. Finally, any use of a
+cell site simulator must be approved in advance by appropriate
+personnel. The required level of seniority for the approval
+depends on the type of use involved.
+Second, the policy generally requires law enforcement
+agents to obtain a search warrant supported by probable cause
+before using a cell site simulator. There are two limited
+exceptions to the warrant requirement. The first is an exigent
+circumstances, a well established exception under Fourth
+Amendment law, where the needs of law enforcement are so
+compelling that they render a warrantless search objectively
+reasonable. Even in these circumstances, agents still must
+comply with the Pen Register statute. The second limited
+exception is for cases in which the Fourth Amendment does not
+require a warrant, and circumstances make obtaining a search
+warrant impracticable. Again, in these circumstances agents
+still would need to comply with the Pen Register statute.
+Third, the policy enhances transparency to courts by
+requiring law enforcement agents to make clear in their warrant
+applications that a cell site simulator may be used. Finally,
+the policy protects individuals' privacy interests by
+establishing consistent practices for handling the data
+obtained by these devices.
+As I have noted, the policy prohibits the use of cell site
+simulators to obtain the contents of any communication, nor do
+the devices obtain subscriber information. Even so, the policy
+establishes deletion requirements for the types of information
+that they do collect. Auditing programs in each agency will
+ensure that these requirements are followed.
+In sum, cell site simulators offer critical support of the
+Department's public safety and law enforcement missions, but as
+with other capabilities, the Department is committed to using
+the technology in a manner that is consistent with the
+Constitution and all other legal authorities while respecting
+individuals' privacy and civil liberties. We hope and believe
+the policy properly accomplishes these objectives while
+clearing up any misperceptions.
+The Department of Justice appreciates the opportunity to
+discuss our policy with the committee, and I look forward to
+your questions here today.
+Mr. Hurd. Thank you.
+[Prepared statement of Ms. Tyrangiel follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Mr. Stodder, you are recognized for 5 minutes.
+
+STATEMENT OF SETH STODDER
+
+Mr. Stodder. Thank you. Chairman Hurd, Ranking Member Lieu,
+and distinguished members of the subcommittee, thank you for
+the opportunity to talk with you today about the Department of
+Homeland Security's policy for how our officers use cell site
+simulator technology in support of criminal investigations to
+protect the American public, and in some cases to locate and
+rescue victims of human trafficking, child exploitation, and
+kidnapping.
+In fact, in one recent case, ICE officers used the
+technology to rescue a 6-year-old girl who was held hostage by
+human smugglers in Arizona. And this technology is also used by
+the Secret Service to protect the President and other
+dignitaries under the service's protective umbrella.
+Needless to say, this is an important tool, but it's also a
+technology that must be used responsibly and consistent with
+our duty to protect the constitutional rights of the American
+people. In that spirit, DHS issued a new policy this week on
+the use of this technology by our officers. I believe the new
+DHS policy draws the right balance between enabling our
+officers to use this important tool and protecting the privacy
+and civil liberties of Americans.
+Cell site simulators allow DHS officers to identify and
+generally locate the mobile devices of the subjects and victims
+of active criminal investigations. They work by collecting
+signals from cellular devices within the cell site simulator's
+vicinity, usually within under 1,000 feet, and providing the
+operator the relative signal strength in the general direction
+of a subject's cellular device. A cell site simulator, though,
+is not a GPS locator. It does not provide precise geolocation.
+And a few other things worth highlighting here as well in
+terms of what cell site simulators can't do. They don't provide
+sending subscriber account information or any other personal
+information. And the cell site simulators used by DHS do not
+collect the content of any communications, no data, no emails,
+no text messages, no voice communications. No content.
+The new policy issued this week supports the continued use
+of cell site simulators by our officers, but it also
+strengthens management controls over the use of this
+technology. Let me highlight a few provisions that are similar
+to the DOJ policy.
+First, the new policy clarifies that before using cell site
+simulator technology, our officers generally must obtain a
+warrant from a court founded upon probable cause. There's no
+Supreme Court authority on this issue, but as a matter of DHS
+policy, we've concluded that requiring our officers to obtain a
+warrant, founded on probable cause, is the appropriate standard
+here. It draws the right balance between protecting the public
+and preserving the privacy and civil liberties of Americans.
+There are two narrow exceptions to this general rule.
+First, exigent circumstances, as my compatriot here
+discussed, the well-established exception under the Fourth
+Amendment in emergency cases. And, again, as with the DOJ
+policy, we require these circumstances, a showing of probable
+cause, but also the use of the Pen Register statute.
+Second, under the DHS policy, there is an exception for
+exceptional circumstances. It's another very specific
+exception, and in practice, really only applies to the Secret
+Service's protective mission. The Secret Service's duty is to
+investigate potential threats to the President or other
+protected persons, and often this involves very limited
+information in immediate timeframes. And sometimes the
+information's cryptic, it may not meet the probable cause
+standard that is required under exigent circumstances.
+But the threat is imminent, the President's nearby, the
+consequences of attack obviously are significant and high. In
+these circumstances, the Secret Service needs to locate an
+individual immediately in order to ensure the President's
+safety. This is a very limited and narrow exception to the
+general rule, and in these circumstances, DHS policy does not
+require probable cause or a warrant, but does require approval
+of both an executive within the Secret Service as well as the
+local U.S. attorney. The policy also requires a court order
+under the Pen Register statute or an emergency Pen Register.
+The policy also establishes several other key management
+controls that we believe also draw the right balance between
+protecting the public and protecting civil liberties and
+privacy rights. First, the DHS policy requires that
+applications for search warrants must include an affidavit
+explaining to the court what a cell site simulator is, how it
+works, why it will be used in a particular case, and the minor
+impact it might have on cellular devices in the area; no hiding
+the ball from the court.
+Second, the DHS policy draws a strong line on data
+retention. Bottom line, after a mission is done and the target
+is identified or located, the operator of a cell site simulator
+must delete all data from the device.
+Third, the DHS policy requires components to train and
+supervise their officers using the cell site simulators.
+In sum, we believe that the new DHS policy draws the right
+balance here between enabling our officers to use cell site
+simulator technology to keep dangerous criminals off the street
+and protect the public, and also making sure that we protect
+the civil liberties and privacy rights of the American people.
+Chairman Hurd, Ranking Member Lieu, and distinguished
+members of the subcommittee, thank you again for the
+opportunity to testify today. Look forward to answering any
+questions you might have.
+Mr. Hurd. Thank you for your opening remarks.
+[Prepared statement of Mr. Stodder follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. And now it's a pleasure to recognize my friend
+and colleague from the great State of North Carolina, Mr.
+Walker, for 5 minutes.
+Mr. Walker. Thank you, Mr. Chairman.
+Ms. Tyrangiel, Mr. Stodder, thank you for being here.
+Mr. Stodder. Thank you.
+Mr. Walker. I commend both your Departments for requiring
+warrants for the use of these cell site simulators.
+Ms. Tyrangiel, you mentioned that these are now only used
+on a fraction of cases. Numeric-wise, statistics, do you have
+any data, when you say fraction of cases, what percentage are
+we looking at?
+Ms. Tyrangiel. So as I mentioned, these are critical
+technologies that are deployed in things like kidnappings and
+complex narcotics investigations and fugitive apprehensions.
+Those things do occur every day. But, the fraction of those
+cases in which a cell site simulator is deployed is small. I
+don't have numbers for you today, but I'm happy to get back
+with you.
+Mr. Walker. If you would get those numbers to us, because a
+fraction, may be broad definitions there.
+Mr. Walker. Mr. Stodder, do you have anything to add to
+that?
+Mr. Stodder. I have a similar response, in the sense that,
+I mean, they are a very important tool that's used by both
+Homeland Security investigations within ICE, as well as the
+Secret Service, and they are used in a very small fraction of
+cases, but I don't have the numbers with me here, but we can
+get those.
+Mr. Walker. Fair enough.
+Mr. Walker. Several of you mentioned--both of you mentioned
+as far as new policy, Mr. Stodder, and some things that changed
+September the 1st. Before that timeline, were you allowed to
+retain, or ascertain communication before the new policy was
+instituted? Ms. Tyrangiel?
+Ms. Tyrangiel. This policy makes clear that devices must be
+configured not to collect content.
+Mr. Walker. Before September 1, did you collect other
+content?
+Ms. Tyrangiel. I will have to get back to you about what
+the policy said, but--I'll have to take that back.
+Mr. Walker. Okay. Mr. Stodder?
+Mr. Stodder. Well, this is the first overarching DHS policy
+on the use of cell site simulators, but the components before
+this policy certainly used cell site simulators but did not use
+them to collect content at all. I mean, literally the
+technology is not configured to collect content, at least the
+technology that DHS----
+Mr. Walker. Well, I'm glad to hear that we have new
+policies. I do have some trepidation about what we were
+collecting before then. I hope that we can get that information
+back as well.
+Mr. Stodder. Sure.
+Mr. Walker. It leads me to the question, would it be better
+to enact legislation to make sure these policies are clear,
+because my concern is if you have new agency department heads,
+who makes the standard, who makes the rules there? Ms.
+Tyrangiel, would you like to comment on that?
+Ms. Tyrangiel. Sure. Because we have just implemented these
+policies and because we are about to see how they are
+implemented and how they work, we would recommend that we
+evaluate how they are going in practice before anything is
+codified. On the other hand, anything you wish to work on, we
+would be happy to work on you with.
+Mr. Walker. Mr. Stodder, would you----
+Mr. Stodder. I'd have a similar response, in the sense
+that, I mean, we obviously just issued our policy this week. We
+feel very good about the policy and strong about the policy.
+Our operating components definitely believe that the policy
+draws the right balance between enabling the use of these
+important technologies and privacy, but certainly if this
+committee were to walk down the road of considering
+legislation, we would obviously work with the committee on it.
+Mr. Walker. If the warrant requirements for these cell site
+catchers, if you will, both the DOJ created--the DOJ created an
+exception for circumstances, okay, where the law does not
+require a search warrant and circumstances make obtaining a
+search warrant impracticable. Can you talk a little bit about
+what those impracticable circumstances--I mean, that's a kind
+of a broad definition. Would you mind expounding on that, Ms.
+Tyrangiel?
+Ms. Tyrangiel. Yeah. This exception is intended to be
+deployed very rarely, very rare circumstances. And, in fact,
+from the Department's perspective, this is more like a safety
+valve in the policy, in the event there are circumstances that
+we could not foresee when we went to a flat warrant
+requirement.
+So in order to use that exception even now, there would
+need to be no problem under the Fourth Amendment, and it would
+need to be impracticable to get a warrant, and there would need
+to be a series of high level sign-offs in order to use that
+exception, including a high level agency official, the U.S.
+attorney in a jurisdiction, and a deputy attorney general in
+the criminal division.
+And any exceptions that are granted under this provision
+will be tracked by the criminal division, so that if there is a
+set of circumstances that is emerging and the policy needs to
+be tweaked or adjusted, we can do that.
+Mr. Walker. Sure. So each one of those circumstances,
+you're telling me that there's a consistency there that all
+high levels sign off no matter what the situation might be?
+Ms. Tyrangiel. That's correct. In order to be able to use
+that exception, all of those people would need to sign off.
+Mr. Walker. I'm concerned about this exception and maybe
+the augmentation of it or the growth of it where--good
+intentions here, but I would assert if we are not able to put
+some teeth into this, that it could be a very broad definition.
+Mr. Stodder, I've got about 15 seconds. Did you want to add
+anything to that?
+Mr. Stodder. Well, I mean, the analogous exception of the
+DHS policy is the exceptional circumstances exception, which as
+I think I've discussed, it's--I mean, the main focus of that
+exception, at least within DHS, I mean, without putting any
+conceivable other option, is the Secret Service protective
+mission, in the sense of where it is an exceptional
+circumstance where probable cause may not necessarily make
+sense in that context, so the Pen Register applies.
+Mr. Walker. Okay. My time has expired. Thank you, Mr.
+Chairman. I yield back.
+Mr. Hurd. Thank you, Mr. Walker.
+I'd now like to recognize Ranking Member Lieu for 5
+minutes.
+Mr. Lieu. Thank you.
+I have a question about the capabilities of these
+stingrays, not how they can be configured. Just in terms of
+capability, can they collect content or they cannot?
+Ms. Tyrangiel. As I said, our policy requires that they be
+configured not to collect content. The kind of configuration
+we're talking about, and understanding that I am a lawyer, not
+a technologist, is the software configuration, not an on and
+off switch where someone could switch it on and off.
+Mr. Stodder. I'm similarly hampered by being a lawyer, not
+a technologist, but, I will say the DHS--I mean, the cell site
+simulators that DHS agencies use, both HSI as well as Secret
+Service, are absolutely configured by the vendor not to collect
+content. I mean, I couldn't tell you one way or the other as to
+whether they could be, theoretically could be configured to
+collect content, but I know for a fact that the cell site
+simulators that DHS uses do not collect content and cannot
+collect content.
+Mr. Lieu. Okay. If you could get an answer back as to
+whether they have the capability to----
+Mr. Stodder. Sure.
+Mr. Lieu. --not just----
+Mr. Stodder. We can get back to you on that in terms of
+whether there are cell site simulators on the market that
+could, but DHS does not as a matter of policy.
+Mr. Lieu. Okay. I share some of the same concerns of Mr.
+Walker regarding the exigent circumstances exception, but
+specifically I had one about the Secret Service.
+Mr. Stodder. Yep.
+Mr. Lieu. Is it a blanket exception for the entire Secret
+Service?
+Mr. Stodder. Well, no. I mean, it's an exception within the
+DHS policy that--I mean, and the key exception that we can
+envision is the Secret Service's protective mission. So it's
+not an exception for the Secret Service, but in certain
+circumstances where you could have an immediate threat to the
+President and you have cryptic information. Our conclusion in
+terms of drawing the right balance between security and privacy
+here, is to err on the side here of protection.
+Mr. Lieu. But why wouldn't they just fall under exigent
+circumstances?
+Mr. Stodder. Well, because you could have a circumstance
+where--because the issue with the exigent circumstances
+exception is that the exigent circumstances exception still
+requires probable cause. And so you could have a circumstance
+with the Secret Service where--I mean, I'm trying to think of a
+fact situation where it could arise, but where you might have a
+cryptic email or something like that, or something that
+indicates there's a threat to the President or to a
+distinguished person within the Secret Service protective
+umbrella where the Secret Service would not have the
+capability, or the time, or enough information to determine
+whether there's probable cause, but you need to locate that
+person before there's an attack on the President.
+Mr. Lieu. I see. So let's say it's dealing with the Secret
+Service in a counterfeiting case. That exception would not
+apply?
+Mr. Stodder. No, that would not apply. In a criminal
+investigative case, like a counterfeiting case, absolutely not,
+it would not apply. I mean, in a normal, I can't imagine a
+circumstance where this exception would apply in a
+counterfeiting case.
+Mr. Lieu. Now, it looks like there's also an exception for
+the Foreign Intelligence Surveillance Court, is that correct,
+in the policy?
+Ms. Tyrangiel. The Department's policy applies to the use
+of cell site simulators in furtherance of criminal
+investigations inside the United States. There is a note, a
+footnote in the policy that discusses national security
+investigations that says, when working under FISA, the
+Department will make probable cause-based showings and make
+appropriate disclosures to the court in a manner that is
+consistent with the policy.
+Mr. Lieu. Okay. What does that mean in terms of----
+Ms. Tyrangiel. Well, of course FISA and national security
+authorities are different than criminal authorities, but the
+policy does indicate via footnote that attorneys will make
+probable cause-based showings to the court and that they will
+make appropriate disclosures. And, of course, there is a whole
+section in the policy about transparency and the importance of
+transparency and letting the court know of the technology to be
+used. But because those authorities are different, different
+protocols, different structure, and statutes, they are not
+further defined.
+Mr. Lieu. Could the Department just apply it the same way
+with the FISA court? Why would it have to be applied
+differently?
+Ms. Tyrangiel. That is a function of a different court and
+a different procedural setup based on FISA and that authority
+particularly, and so it's not the same system or the same
+authorities, and therefore, they're just slightly differently
+oriented.
+Mr. Lieu. Okay. In non-FISA courts if there's a case that
+is brought, the ACLU letter references information where
+prosecutors will not disclose a stingray was used, in fact,
+they will say it was a confidential source. Do you have any
+thoughts on that or can your policy say that ought to be
+disclosed rather than using the, quote-unquote, confidential
+source phrase?
+Ms. Tyrangiel. I'm not familiar with the ACLU letter. I can
+tell you that the policy has a detailed section on transparency
+that the prosecutor must let the court know about the
+technology to be used, how it will be used, the disruption it
+might cause, to ensure that--should the court have questions or
+that the court knows in advance about this technology.
+Mr. Lieu. So I've entered the ACLU letter in the record.
+I'll also send it to you. If you don't mind, if you could
+respond to the issues they raised, that would be terrific.
+And then if I could take one more question. In terms of how
+you think this is going to be applied, how are you training
+your folks on this?
+Ms. Tyrangiel. Implementation is ongoing and the components
+are actively working on ensuring that all the pieces of this
+are falling into place.
+Mr. Lieu. And what about local and State law enforcement?
+Do you do any guidance, any training?
+Ms. Tyrangiel. So I can tell you that a couple of--
+anecdotally, that a couple of State and local agencies have
+asked about this policy. We are hopeful that it will serve as a
+model. Beyond that at this time, that's all the information
+that I have.
+Mr. Lieu. Great. Thank you. I yield back.
+Mr. Hurd. Thank you. I'll recognize myself for 5 minutes.
+Let's pick up on Congressman Lieu's line. So when local law
+enforcement, they can attain these devices without DOJ's
+permission? Is that correct?
+Ms. Tyrangiel. They can buy and operate this equipment on
+their own, yes.
+Mr. Hurd. Is DOJ planning to require State and local law
+enforcement agencies to adhere to DOJ's policy or have similar
+policies of their own?
+Ms. Tyrangiel. So this policy, the Department's policy,
+will apply to State and locals when we are working together and
+when we are assisting State and locals. It is complicated and
+difficult beyond that for us to oversee the State and locals,
+but as I said, we are really hopeful that this will serve as a
+model for State and locals as they think about their own
+policies.
+Mr. Hurd. Does DOJ provide any of these stingrays to local
+law enforcement?
+Ms. Tyrangiel. Not that I'm aware of, but I would want to
+double-check and get back to you.
+Mr. Hurd. Yeah. My question there is, if DOJ is providing
+the equipment to local law enforcement, then can they be bound
+by the rules of DOJ in the operation of this? That would be my
+question.
+Ms. Tyrangiel. I'd be happy to take it back.
+Mr. Hurd. Great.
+Mr. Hurd. And, Mr. Stodder, can people apply for this
+within DHS?
+Mr. Stodder. Well, I mean, you're asking in terms of the
+State and locals. I mean, similarly the DHS policy says that if
+DHS officers are working on a case with State and local
+governments, I mean, certainly the DHS policy applies in that
+circumstance to the DHS officers in that task force sort of
+environment.
+DHS does not actually give or loan this equipment to State
+and local law enforcement. DHS does not do that. And the State
+and local governments can purchase this equipment on their own
+using their State funds, and consistent with their own State
+laws and the Federal Constitution, under their own police
+powers under the Constitution.
+The issue here I think you're getting at perhaps is
+certainly State and local governments can apply for Federal
+grant funds from FEMA. And the Federal Government under FEMA,
+and I believe the Justice Department as well, I mean, we give
+grant monies to the States, and then the States, and then
+subgrantees to local governments can purchase equipment that is
+on an authorized equipment list, and certainly some States
+could conceivably purchase cell site simulator technology.
+And our position on that essentially is--I mean, our
+standard terms and conditions in grant funding to the States
+and local governments is essentially to--you know, they have to
+apply--they have to use the technologies that they buy
+consistent with the law and consistent with the Constitution,
+but we haven't imposed essentially our internal DHS policies in
+that context or other contexts on the State and local
+governments with regard to the grant dollar--with regard to the
+equipment that they buy using Federal grant dollars.
+Mr. Hurd. So, just so I'm clear, I'm a local law
+enforcement, let's say I'm a county sheriff----
+Mr. Stodder. Yep.
+Mr. Hurd. --I apply for Stonegarden funds, I get them, I
+buy an IMSI-catcher, and I would not be bound by DHS policy on
+the use of said IMSI-catchers?
+Mr. Stodder. Yeah, correct. You would not be bound by DHS
+policy with regard to the use of cell site simulators yourself.
+And essentially, that's correct.
+Mr. Hurd. So is there any effort on the way to have folks
+using Federal funds, using DHS funds or DOJ funds, to adhere to
+the rules and regulations? Because aren't there some
+significant nondisclosure agreements that are signed by local
+law enforcement? Is it with you all or with the companies when
+it comes to this issue?
+Mr. Stodder. Not with the Department of Homeland Security.
+We do not require those kinds of nondisclosure agreements when
+the State and local governments, say, were to use something
+like that. And the question of whether the Department of
+Homeland Security would essentially require the use--
+essentially State and local governments using of Federal funds
+to, you know, the City of Bakersfield or whatever else, to
+apply internal DHS policies, we have not sort of determined
+that that would be the right approach, for any number of
+reasons from federalism.
+But also from the perspective of you're talking about a
+$1.5 billion grant program with 56 grantees and thousands of
+subgrantees, and the ability to track the use of all these
+subgrantees of all this equipment, I mean, I think that would
+be--it would be a significant, you know, consideration to think
+about.
+Mr. Hurd. Thank you.
+Yes, ma'am.
+Ms. Tyrangiel. I'm sorry.
+Mr. Hurd. Yeah. The same question. I believe some local law
+enforcement in terms of NDAs with the FBI on some of the use of
+this technology. Is that correct, and how does that work?
+Ms. Tyrangiel. Yeah. So the nondisclosure agreements that
+you're referring to are agreements between the FBI and State
+and local law enforcement. Those agreements are intended to
+protect particularly sensitive information about the
+operations, the operation of the technology, the capabilities
+of the technology. They're not meant actually to preclude more
+transparency in terms of disclosing that they've been used in
+any particular case, and actually FBI is revising those
+agreements now. But as to the question about how they intersect
+with State and local use, traditionally they're not a means to
+oversee the actual use of the equipment, rather they're an
+agreement about the sensitivity of the information involved.
+Mr. Hurd. Okay. Thank you.
+I'm going to now recognize Mr. Lieu for an additional 5
+minutes.
+Mr. Lieu. Thank you.
+Let me follow up on Chairman Hurd's questions about the
+FBI. So I have a letter from April 13, 2015, written from the
+Federal Communications Commission to Senator Bill Nelson. My
+understanding, according to this letter, is that for these
+devices to be used by law enforcement, they have to be
+certified by the FCC, and the commission places two conditions
+on them: one is that these devices will be used in fact by law
+enforcement, and second, that State and local law enforcement
+agencies must coordinate in advance with the FBI the
+acquisition and use of the equipment.
+Is there any reason we couldn't, consistent with DOJ
+policy, ask the FBI to say, okay, if you're going to use this
+equipment, you need to use it consistent with our FBI
+standards, which are DOJ standards, which is you need to get a
+warrant before you use it?
+Ms. Tyrangiel. So as I was mentioning, these agreements
+that you referenced to are--with respect to the sensitivity of
+the information and agreements about how to manage that
+sensitivity, they may be more or less effective at managing and
+effecting oversight over the use of this technology, but it is
+something we're happy to look at.
+Mr. Lieu. Thank you.
+And then, Mr. Stodder, I forgot to ask you the first time.
+Mr. Stodder. Yeah.
+Mr. Lieu. We'll send you the ACLU letter as well----
+Mr. Stodder. Thank you.
+Mr. Lieu. --and if you could respond to some of the issues
+that they raised, that would be great as well.
+Mr. Stodder. Be happy to do that.
+Mr. Lieu. So I have a different line of questioning, which
+is, these policies don't apply to the NSA or CIA or other
+agencies other than your own, correct?
+Mr. Stodder. Correct.
+Mr. Lieu. What happens if the FBI is doing an operation
+with local law enforcement? Can they sort of say, hey, you
+local law enforcement, you go use the stingray and do what we
+can't do? Is there anything in policy that keeps them from
+doing that?
+Ms. Tyrangiel. If I'm understanding your question
+correctly, if the FBI is working with the locals and using a
+cell site simulator, this----
+Mr. Lieu. Well, the FBI is not using it, but the local----
+Ms. Tyrangiel. Oh.
+Mr. Lieu. --person is----
+Ms. Tyrangiel. As in--yeah, they get around this policy----
+Mr. Lieu. Correct.
+Ms. Tyrangiel. That is not permitted.
+Mr. Lieu. Okay. Thank you.
+In terms of these other agencies, what law enforcement
+other than--we'll take out the intelligence agencies, but what
+other law enforcement would not be covered by the two policies
+here today?
+Mr. Stodder. Well, it would be law enforcement that's not
+part of the Department of Homeland Security or the Department
+of Justice, so presumably the Park Police, or I'm informed of
+the--I guess the Government Printing Office potentially has a--
+--
+Mr. Lieu. Correct.
+Mr. Stodder. Yeah. So are there other law enforcement
+agencies that would not be covered?
+Ms. Tyrangiel. I'm not aware of which other law enforcement
+agencies would even have this capability.
+Mr. Stodder. Yeah.
+Ms. Tyrangiel. So----
+Mr. Lieu. And then you had mentioned earlier there's going
+to be tracking of the number of times that these devices are
+used, or only when they're used without a warrant?
+Ms. Tyrangiel. No. The policy requires a tracking of
+numbers annually of how many times they're used and how many
+times they're used in emergency circumstances in addition to
+the requirement under the exceptional circumstances exception
+to track any and all exceptions under that provision of the
+policy.
+Mr. Lieu. And that's both agencies?
+Mr. Stodder. Correct.
+Mr. Lieu. And who gets this information?
+Ms. Tyrangiel. The agencies are required to track and
+collect their use, and the criminal division tracks the number
+of exceptions granted.
+Mr. Lieu. Would this committee get that information or
+could this committee get that information? Is it public?
+Ms. Tyrangiel. We'd be happy to work with you on any
+requests you have for that information.
+Mr. Lieu. Okay. Great. Thank you.
+Mr. Stodder. Similarly with the DHS.
+Mr. Lieu. Thank you. I yield back.
+Mr. Hurd. I'd like to recognize the gentleman from Iowa,
+Mr. Blum, for 5 minutes.
+Mr. Blum. Thank you, Chairman Hurd.
+And thank you, Ms. Tyrangiel, is it?
+Ms. Tyrangiel. Tyrangiel.
+Mr. Blum. Tyrangiel, and Mr. Stodder for appearing here
+today. Appreciate it very much. I've got about 5 questions to
+each one of you, so if you can be quasi brief, we can get
+through this in 5 minutes.
+First question, does your agency take the position that it
+does not, does not need a warrant to use the device to track a
+known suspect, a known suspect, in public?
+Ms. Tyrangiel. Our agency has gone to a policy that
+requires a warrant with two narrow circumstances for
+exceptions. So, we are now using a warrant as a general matter
+except in two circumstances. And I----
+Mr. Blum. And those are?
+Ms. Tyrangiel. Exigent circumstances that would satisfy the
+Fourth Amendment warrant exception and exceptional
+circumstances where the Fourth Amendment is not implicated and
+getting a warrant is impracticable. So even if the Fourth
+Amendment isn't implicated, if it's not impracticable to get a
+warrant, agents must get a warrant.
+And if there are exceptional circumstances, that we expect
+to occur very rarely, then there would need to be sign-off from
+a high level agency official, the U.S. attorney, and a deputy
+assistant attorney general from the criminal division. And even
+in such circumstances----
+Mr. Blum. To not get a warrant?
+Ms. Tyrangiel. Exactly.
+Mr. Blum. What were those three individuals, a high level--
+--
+Ms. Tyrangiel. A high level agency official within the law
+enforcement agency, the U.S. attorney in the district, and the
+deputy assistant attorney general in the criminal division.
+Mr. Blum. Is it all three or any of those three?
+Ms. Tyrangiel. All three.
+Mr. Blum. All three to not get a warrant?
+Ms. Tyrangiel. That's right.
+Mr. Blum. Okay.
+Mr. Stodder?
+Mr. Stodder. As a matter of DHS policy, similarly to the
+DOJ policy, DHS policy, we have determined that before the use
+of cell site simulators, that we will require probable cause in
+a warrant in most cases, with two exceptions, similar
+exceptions to the Justice Department: one is exigent
+circumstances, so involving, you know, well-recognized Fourth
+Amendment exception if there's life and limb at issue, et
+cetera.
+And the second is exceptional circumstances, which in the
+DHS context is--the main example here would be the Secret
+Service protective mission with regard to protection of the
+President, which is not a criminal investigative mission, but
+it's where probable cause may not necessarily be the right
+standard in that context.
+And, again, we also have, you know, significant sign-off
+where the Secret Service believes that it needs to have a cell
+site simulator but does not have probable cause or won't get a
+warrant, but we would need sign-off from a senior level
+executive within the Secret Service as well as the local U.S.
+attorney. And even there, we would also apply the Pen Register
+statute essentially to obtain a court order to use the
+technology or in an emergency Pen Register under the Pen
+Register statute.
+Mr. Blum. So both of those signatures required or just one
+of the two?
+Mr. Stodder. Both.
+Mr. Blum. Both. Well, what about when the suspect is the
+subject of an arrest warrant? Is there any change there?
+Ms. Tyrangiel. No. A search warrant is still required under
+the policy, again, barring exigent circumstances that would
+satisfy the Fourth Amendment's warrant exception or the
+exceptional circumstances provision that I described to you
+that requires all that sign-off and fitting in with particular
+circumstances.
+Mr. Stodder. Same with DHS.
+Mr. Blum. Mr. Stodder. Tell me if this is correct or not. I
+believe I have it correct. Each agency's policy requires
+deletion of the data at least once every 30 days?
+Ms. Tyrangiel. So our policy----
+Mr. Blum. Is that correct?
+Ms. Tyrangiel. Yes. And it also requires deletion as soon
+as the mission is completed. So if it's before 30 days, in the
+circumstance where you're trying to identify an unknown phone,
+it gets deleted immediately. It doesn't wait until the 30 days.
+Mr. Stodder. And the same is true under the DHS policy. It
+requires deletion immediately after the mission.
+Mr. Blum. Right after the mission?
+Mr. Stodder. Yeah.
+Mr. Blum. Now, the government's great at making laws,
+setting rules and regulations. I'm from the private sector.
+Where we're weak is follow-through.
+So my question is what mechanism is there in place to
+ensure that what you just said actually happens?
+Ms. Tyrangiel. So there are a couple provisions in the
+policy that address this: one is there needs to be an auditing
+procedure put in place by each agency to make sure that the
+data is deleted consistent with the policy; and second, the
+policy requires each agency to designate an executive level
+point of contact in each jurisdiction to ensure that the
+policy's implemented and complied with.
+Mr. Blum. Mr. Stodder?
+Mr. Stodder. The DHS policy is identical in that respect.
+Mr. Blum. So is this currently in place or is this----
+Mr. Stodder. Yes.
+Ms. Tyrangiel. The policy is effective immediately and----
+Mr. Stodder. In place.
+Mr. Blum. And out of curiosity, what will the punishment be
+if this policy is not followed? Because I've sat in on enough
+of these hearings and have people sit in your chairs where
+things, you know, weren't followed through on, things were
+messed up, they were against the rules, the IG says they need
+to change, and they don't change, and they receive bonuses
+instead of being terminated. So what happens if the rules are
+not followed?
+Ms. Tyrangiel. As with any technology procedure within an
+agency, if individuals violate their agency's orders, they are
+accountable to their agencies and subject to discipline.
+Mr. Blum. Mr. Stodder?
+Mr. Stodder. And the same thing is true in DHS. I mean,
+each component will have a structure essentially to hold their
+employees accountable for not using technologies in a way
+that's authorized by DHS policy, and certainly DHS headquarters
+would have a similar sort of capability of management response.
+Mr. Blum. So you're saying it's the Department's policy?
+Mr. Stodder. Yes.
+Mr. Blum. Yeah. I hope you will tell us today at this
+hearing that if someone doesn't follow these policies and
+somebody's privacy rights are in question, that you're going to
+take the appropriate actions----
+Mr. Stodder. Yes.
+Mr. Hurd. --if it's----
+Mr. Stodder. Department----
+Mr. Blum. Go ahead.
+Mr. Stodder. At the Department of Homeland Security it
+certainly--you know, the component leaderships would take the--
+whatever appropriate action would make sense under the facts
+and circumstances of that case.
+Ms. Tyrangiel. Same here.
+Mr. Blum. Great. I think my time is up. I yield back, Mr.
+Chairman. Thank you very much.
+Mr. Hurd. I have a very basic question before we end. Is
+the private use of IMSI-catchers, is that illegal?
+Ms. Tyrangiel. I don't know the details of sort of how the
+manufacturers market themselves or to whom they can provide
+this, whether it is illegal. I can speak, you know, obviously
+to the government use and to these agreements between the State
+and locals and the FBIs, but not the private use.
+Mr. Stodder. Yeah. I'm similarly hampered by lack of
+knowledge on that in this sense, but we are happy to get back
+to you on that.
+Mr. Hurd. Great. Thank you.
+I apologize we started late today, but this is an important
+issue of being able to protect our civil liberties and ensure
+that law enforcement has the tools they need in order to do
+their jobs.
+I think the plans have come a long way over these past few
+months. And we look forward to the additional information that
+we requested and having further conversations on this, and
+looking forward on how we can have some legislative fixes to
+this across the Federal Government.
+I appreciate you all's time here today. And without--I
+thank you for taking your time to appear.
+And if there's no further business, without objection, the
+subcommittee stands adjourned.
+[Whereupon, at 3:43 p.m., the subcommittee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

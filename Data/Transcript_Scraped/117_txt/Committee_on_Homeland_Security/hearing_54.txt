@@ -1,0 +1,3271 @@
+- SECURING THE DOTGOV: EXAMINING EFFORTS TO STRENGTHEN FEDERAL NETWORK CYBERSECURITY
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+SECURING THE DOTGOV: EXAMINING EFFORTS
+TO STRENGTHEN FEDERAL NETWORK CYBERSE-
+CURITY
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+CYBERSECURITY, INFRASTRUCTURE
+PROTECTION, AND INNOVATION
+
+OF THE
+
+COMMITTEE ON HOMELAND SECURITY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+MAY 17, 2022
+
+__________
+
+Serial No. 117-55
+
+__________
+
+Printed for the use of the Committee on Homeland Security
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.govinfo.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+48-403 PDF                 WASHINGTON : 2022
+
+-----------------------------------------------------------------------------------
+
+COMMITTEE ON HOMELAND SECURITY
+
+Bennie G. Thompson, Mississippi, Chairman
+Sheila Jackson Lee, Texas            John Katko, New York
+James R. Langevin, Rhode Island      Michael T. McCaul, Texas
+Donald M. Payne, Jr., New Jersey     Clay Higgins, Louisiana
+J. Luis Correa, California           Michael Guest, Mississippi
+Elissa Slotkin, Michigan             Dan Bishop, North Carolina
+Emanuel Cleaver, Missouri            Jefferson Van Drew, New Jersey
+Al Green, Texas                      Ralph Norman, South Carolina
+Yvette D. Clarke, New York           Mariannette Miller-Meeks, Iowa
+Eric Swalwell, California            Diana Harshbarger, Tennessee
+Dina Titus, Nevada                   Andrew S. Clyde, Georgia
+Bonnie Watson Coleman, New Jersey    Carlos A. Gimenez, Florida
+Kathleen M. Rice, New York           Jake LaTurner, Kansas
+Val Butler Demings, Florida          Peter Meijer, Michigan
+Nanette Diaz Barragan, California    Kat Cammack, Florida
+Josh Gottheimer, New Jersey          August Pfluger, Texas
+Elaine G. Luria, Virginia            Andrew R. Garbarino, New York
+Tom Malinowski, New Jersey
+Ritchie Torres, New York
+Hope Goins, Staff Director
+Daniel Kroese, Minority Staff Director
+Natalie Nixon, Clerk
+
+------
+
+SUBCOMMITTEE ON CYBERSECURITY, INFRASTRUCTURE PROTECTION, AND
+INNOVATION
+
+Yvette D. Clarke, New York, Chairwoman
+Sheila Jackson Lee, Texas            Andrew R. Garbarino, New York,
+James R. Langevin, Rhode Island          Ranking Member
+Elissa Slotkin, Michigan             Ralph Norman, South Carolina
+Kathleen M. Rice, New York           Diana Harshbarger, Tennessee
+Ritchie Torres, New York             Andrew Clyde, Georgia
+Bennie G. Thompson, Mississippi (ex  Jake LaTurner, Kansas
+officio)                         John Katko, New York (ex officio)
+Moira Bergin, Subcommittee Staff Director
+Austin Agrella, Minority Subcommittee Staff Director
+Mariah Harding, Subcommittee Clerk
+
+C O N T E N T S
+
+----------
+Page
+
+Statements
+
+The Honorable Yvette D. Clarke, a Representative in Congress From
+the State of New York, and Chairwoman, Subcommittee on
+Cybersecurity, Infrastructure Protection, and Innovation:
+Oral Statement.................................................     1
+Prepared Statement.............................................     3
+The Honorable Andrew R. Garbarino, a Representative in Congress
+From the State of New York, and Ranking Member, Subcommittee on
+Cybersecurity, Infrastructure Protection, and Innovation:
+Oral Statement.................................................     4
+Prepared Statement.............................................     4
+The Honorable Sheila Jackson Lee, a Representative in Congress
+From the State of Texas:
+Prepared Statement.............................................     5
+
+Witnesses
+
+Mr. Christopher J. DeRusha, Federal Chief Information Security
+Officer, Office of Management and Budget, and Deputy National
+Cyber Director for Federal Cybersecurity, Office of the
+National Cyber Director:
+Oral Statement.................................................    11
+Prepared Statement.............................................    12
+Mr. Eric Goldstein, Executive Assistant Director for
+Cybersecurity, Cybersecurity and Infrastructure Security
+Agency:
+Oral Statement.................................................    15
+Prepared Statement.............................................    16
+Mr. Charles H. Romine, Director, Information Technology
+Laboratory, National Institute of Standards and Technology,
+U.S. Department of Commerce:
+Oral Statement.................................................    19
+Prepared Statement.............................................    20
+Mr. David Shive, Chief Information Officer, General Services
+Administration:
+Oral Statement.................................................    30
+Prepared Statement.............................................    32
+
+For the Record
+
+The Honorable Diana Harshbarger, a Representative in Congress
+From the State of Tennessee:
+Article........................................................    40
+
+Appendix
+
+Questions From Chairman Bennie G. Thompson for Christopher J.
+DeRusha........................................................    53
+Questions From Hon. Yvette D. Clarke for Christopher J. DeRusha..    53
+Questions From Chairman Bennie G. Thompson for Eric Goldstein....    54
+Question From Hon. Yvette D. Clarke for Eric Goldstein...........    54
+Questions From Chairman Bennie G. Thompson for Charles H. Romine.    54
+Question From Hon. Andrew Garbarino for David Shive..............    54
+
+SECURING THE DOTGOV: EXAMINING EFFORTS TO STRENGTHEN FEDERAL NETWORK
+CYBERSECURITY
+
+----------
+
+Tuesday, May 17, 2022
+
+U.S. House of Representatives,
+Committee on Homeland Security,
+Subcommittee on Cybersecurity,
+Infrastructure Protection,
+and Innovation,
+Washington, DC.
+The subcommittee met, pursuant to notice, at 2:19 p.m., in
+room 310, Cannon House Office Building, Hon. Yvette D. Clarke
+[Chairwoman of the subcommittee] presiding.
+Present: Representatives Clarke, Jackson Lee, Langevin,
+Rice, Torres, Garbarino, Harshbarger, Clyde, and LaTurner.
+Chairwoman Clarke. The Subcommittee on Cybersecurity,
+Infrastructure Protection, and Innovation will come to order.
+The subcommittee is meeting today to receive testimony on
+``Securing the DotGov: Examining Efforts to Strengthen Federal
+Network Cybersecurity.'' Without objection, the Chair is
+authorized to declare the committee in recess at any point.
+Before I begin with my opening remarks, I would like to
+take a moment to express my most profound and sincere
+condolences to the family and friends of those were so
+senselessly murdered in the mass shooting at a grocery store in
+Buffalo, New York over the weekend. For too long, hate-driven
+domestic terrorism has made the core of our communities,
+grocery stores, schools, places of worship unsafe. We cannot
+tolerate that any longer. I am pleased that both the Biden-
+Harris administration and this committee are confronting the
+threat posed by domestic extremists with such urgency and
+looking forward to those efforts.
+In December 2020, we learned that the Russian intelligence
+services has infiltrated the networks of multiple Federal
+agencies by inserting malware in a SolarWinds software update.
+The Russians remained on Federal networks undetected for
+months. This intrusion highlighted that the Federal
+Government's signature cybersecurity programs had failed to
+evolve--excuse me--and adapt to meet the threats our Nation
+faces today. Fortunately, over the past year-and-a-half, we
+have seen a renewed focus in Congress and the Executive branch
+on taking the necessary steps to bring our Federal network
+security to where it must be.
+Immediately upon taking office in January, President Biden
+assembled a top-notch cybersecurity team that has brought
+together leading cybersecurity experts with decades' experience
+in both the public and private sector. The administration
+worked expeditiously, but methodically, to put together
+Executive Order 14028, which President Biden signed just over 1
+year ago. This Executive Order represents a landmark effort to
+transform Federal cybersecurity by modernizing Federal agency
+cyber practices, strengthening supply chain security, and
+improving incident response and information sharing, among many
+other necessary enhancements. Security experts have hailed this
+Executive Order as a historic action to protect our Federal
+Government networks, while using the Federal Government's
+purchasing power to lift the cybersecurity baseline for the
+private sector. Now that the initial deadlines set by the
+Executive Order have largely passed the relevant agencies have
+had a year to implement its mandate.
+I look forward to the discussion today on what has been
+achieved so far and what the strategy is for the continued
+implementation going forward. High-profile cyber incidents and
+the concerns of Russian cyber activity associated with the on-
+going conflict in Ukraine has made the importance of
+cybersecurity a front-page story. But this isn't the first time
+cybersecurity issues have captured headlines. It isn't the
+first time Congress and the Executive branch have committed to
+prioritizing cybersecurity and modernizing security policy.
+Historically, however, Government focus has shifted after
+the headlines fade, and we have suffered the consequences. For
+example, in the aftermath of the 2015 OPM breach, Congress
+passed the Federal Cybersecurity Enhancement Act, which
+included mandates for agencies to implement multi-factor
+authentication and encryption. But not all agencies have--but
+not all agencies have complied. We must ensure that we do not
+lose focus and momentum this time. Fortunately, I am confident
+that the Biden administration shares my commitment to ensuring
+we continue to accelerate our efforts to protect the Federal
+networks.
+Today, I hope to hear more about how this subcommittee can
+partner with the administration to provide the necessary
+resources and authorities to continue the Executive Order's
+work. I also look forward to hearing more about how CISA has
+utilized the $650 million in funding Democrats in Congress
+included in the American Rescue Plan to strengthen our Federal
+cybersecurity.
+I know our witnesses agree that is a--that it is a down
+payment on much-needed sustained investment in Federal
+cybersecurity, and we must continue to build on it by ensuring
+CISA has the necessary resources to modernize its National
+Cybersecurity Protection System and continue to mature its
+Continuous Diagnostic and Mitigation Program. Cybersecurity
+must be a priority for every single agency, but the ones
+represented here today have the expertise that other agencies
+may lack.
+Continuing to build out CISA's role as the operational lead
+for Federal network security is a priority for me, and today's
+hearing will be an important opportunity to hear from the
+witnesses on how their agencies can better support the
+cybersecurity needs of the entire Federal enterprise.
+[The statement of Chairwoman Clarke follows:]
+Statement of Chairwoman Yvette D. Clarke
+May 17, 2022
+Before I begin with my opening remarks, I would like to take a
+moment to express my condolences to the family and friends of those who
+were so senselessly murdered in the mass shooting at a grocery store in
+Buffalo over the weekend.
+For too long, hate-driven domestic terrorism has made the core of
+our communities--grocery stores, schools, and places of worship--
+unsafe. We cannot tolerate that any longer.
+I am pleased that both the Biden-Harris administration and this
+committee are confronting the threat posed by domestic extremists with
+such urgency and look forward to continuing those efforts.
+In December 2020, we learned that the Russian intelligence services
+had infiltrated the networks of multiple Federal agencies by inserting
+malware in a SolarWinds software update.
+The Russians remained on Federal networks undetected for months.
+This intrusion highlighted that the Federal Government's signature
+cybersecurity programs had failed to evolve and adapt to meet the
+threats our Nation faces today.
+Fortunately, over the past year-and-a-half, we have seen a renewed
+focus in Congress and the Executive branch on taking the necessary
+steps to bring our Federal network security to where it must be.
+Immediately upon taking office in January, President Biden
+assembled a top-notch cybersecurity team that has brought together
+leading cybersecurity experts with decades of experience in both the
+public and private sector.
+The administration worked expeditiously, but methodically, to put
+together Executive Order 14028, which President Biden signed just over
+1 year ago.
+This Executive Order represents a landmark effort to transform
+Federal cybersecurity by modernizing Federal agency cyber practices,
+strengthening supply chain security, and improving incident response
+and information sharing, among many other necessary enhancements.
+Security experts have hailed this Executive Order as a historic
+action to protect our Federal Government networks, while using the
+Federal Government's purchasing power to lift the cybersecurity
+baseline for the private sector.
+Now that the initial deadlines set by the Executive Order have
+largely passed and the relevant agencies have had a year to implement
+its mandates, I look forward to the discussion today on what has been
+achieved so far and what the strategy is for continued implementation
+going forward.
+High-profile cyber incidents and the concerns about Russian cyber
+activity associated with the on-going conflict in Ukraine have made the
+importance of cybersecurity a front-page story.
+But this isn't the first time cybersecurity issues have captured
+headlines. It isn't the first time Congress and the Executive branch
+have committed to prioritizing cybersecurity and modernizing security
+policy.
+Historically, however, Government focus has shifted after the
+headlines fade, and we have suffered the consequences.
+For example, in the aftermath of the 2015 OPM breach, Congress
+passed the Federal Cybersecurity Enhancement Act, which included
+mandates for agencies to implement multi-factor authentication and
+encryption. But not all agencies have complied.
+We must ensure that we do not lose focus and momentum this time.
+Fortunately, I am confident that the Biden administration shares my
+commitment to ensuring we continue to accelerate our efforts to protect
+Federal networks.
+Today, I hope to hear more about how this subcommittee can partner
+with the administration to provide the necessary resources and
+authorities to continue the Executive Order's work.
+I also look forward to hearing more about how CISA has utilized the
+$650 million in funding Democrats in Congress included in the American
+Rescue Plan to strengthen our Federal cybersecurity.
+I know our witnesses agree that it is a down payment on much-needed
+sustained investment in Federal cybersecurity, and we must continue to
+build on it by ensuring CISA has the necessary resources to modernize
+its National Cybersecurity Protection System and continue to mature its
+Continuous Diagnostic and Mitigation Program.
+Cybersecurity must be a priority for every single agency, but the
+ones represented here today have the expertise that other agencies may
+lack.
+Continuing to build out CISA's role as the operational lead for
+Federal network security is a priority for me, and today's hearing will
+be an important opportunity to hear from the witnesses on how their
+agencies can better support the cybersecurity needs of the entire
+Federal enterprise.
+I thank our witnesses for joining us today, and I look forward to
+our discussion.
+
+Chairwoman Clarke. I thank our witnesses for joining us
+today and I look forward to our discussion. The Chair now
+recognizes the Ranking Member of the subcommittee, the
+gentleman from New York, Mr. Garbarino, for an opening
+statement.
+Mr. Garbarino. Thank you, Madam Chair, for holding this
+critical conversation regarding the security of Federal agency
+networks. I would like to thank our witnesses for being here
+today. I look forward to a constructive dialog.
+The SolarWinds breach of December 2020 was a wake-up call
+to the vulnerabilities that exist within the Federal
+enterprise. Since then, we have uncovered the impact it had on
+9 or more Federal agencies and hundreds of other companies. We
+simply must do more to adopt Government standards to not only
+meet but exceed adversarial capabilities like those of the
+Russian SolarWinds campaign.
+The Federal Government must also be a bold example for
+industry and set the bar high for enterprise network
+resilience. In order to secure Federal networks, we must
+continue the nonpartisan tradition of addressing cybersecurity
+risks. Executive Order on improving the Nation's cybersecurity
+provided timely guidance to Federal entities on the diligence
+required to secure their networks.
+I was pleased to see the expertise of CISA fully leveraged
+throughout the EO and as the lead Federal civilian cyber
+agency. CISA was importantly charged with developing a Federal
+cloud security strategy easing understanding of cyber incident
+reporting requirements and working with Federal partners like
+NIST to develop standards for critical software.
+I have long maintained that CISA is uniquely equipped to
+lead the Federal Government on cybersecurity measures, and I am
+pleased to see its potential recognized. The continued use of
+CISA's National Critical Functions as a guide will assist
+agencies in prioritizing assets and meeting the new security
+standards they are entrusted to maintain. I look forward to
+hearing from our witnesses on their continued efforts to
+execute on the EO.
+Further, I hope to hear more about what Congress can do to
+support efforts to secure the Nation's critical infrastructure
+at the Federal level and across the private sector. I
+specifically look forward to hearing from the CIO of GSA, an
+agency that has done well in meeting the requirements of the
+EO. I hope that Mr. Shive can provide a valuable perspective to
+assist other agencies in improving their own cyber posture.
+I, again, thank the Chairwoman for holding this important
+hearing and I yield back.
+[The statement of Ranking Member Garbarino follows:]
+Statement of Ranking Member Andrew Garbarino
+Thank you, Madam Chair, for holding this critical conversation
+regarding the security of Federal agency networks. I would like to
+thank our witnesses for being here today. I look forward to a
+constructive dialog.
+The SolarWinds breach of December 2020 was a wake-up call to the
+vulnerabilities that exist within the Federal enterprise. Since then,
+we've uncovered the impact it had on 9 or more Federal agencies and
+hundreds of other companies.
+We simply must do more to adapt Government standards to not only
+meet, but exceed, adversarial capabilities like those of the Russian
+SolarWinds campaign. The Federal Government must also be a bold example
+for industry and set the bar high for enterprise network resilience.
+In order to secure Federal networks, we must continue the
+nonpartisan tradition of addressing cybersecurity risk. The Executive
+Order (EO) on Improving the Nation's Cybersecurity provided timely
+guidance to Federal entities on the diligence required to secure their
+networks. I was pleased to see the expertise of CISA fully leveraged
+throughout the EO as the lead Federal civilian cyber agency.
+CISA was importantly charged with developing a Federal cloud
+security strategy, easing understanding of cyber incident reporting
+requirements, and working with Federal partners like NIST to develop
+standards for critical software. I have long maintained that CISA is
+uniquely equipped to lead the Federal Government on cybersecurity
+measures, and I am pleased to see its potential recognized. The
+continued use of CISA's National critical functions as a guide will
+assist agencies in prioritizing assets and meeting the new security
+standards they are entrusted to maintain.
+I look forward to hearing from our witnesses on their continued
+efforts to execute on the EO. Further, I hope to hear more about what
+Congress can do to support efforts to secure the Nation's critical
+infrastructure at the Federal level and across the private sector.
+I specifically look forward to hearing from the CIO of GSA, an
+agency that has done well in meeting the requirements of the EO. I hope
+Mr. Shive can provide a valuable perspective to assist other agencies
+in improving their own cyber posture.
+I again thank the Chairwoman for holding this important hearing
+today.
+
+Chairwoman Clarke. I thank the Ranking Member. Members are
+also reminded that the subcommittee will operate according to
+the guidelines laid out by the Chairman and Ranking Member in
+their February 3, 2021, colloquy regarding remote procedures.
+Additional Member statements may be submitted for the record.
+[The statement of Hon. Sheila Jackon Lee follows:]
+Statement of Honorable Sheila Jackson Lee
+May 17, 2022
+Chairwoman Clarke, and Ranking Member Garbarino, thank you for
+holding today's hearing on ``Securing the DotGov: Examining Efforts to
+Strengthen Federal Network Cybersecurity.''
+I look forward to the questions that will follow the testimony of:
+
+Mr. Christopher DeRusha, deputy national cyber director for
+Federal cybersecurity, Office of the National Cyber Director;
+Federal chief information security officer, Office of
+Management and Budget;
+
+Mr. Eric Goldstein, executive assistant director for
+cybersecurity, Cybersecurity and Infrastructure Security
+Agency;
+
+Dr. Charles Romine, director, Information Technology
+Laboratory, National Institute of Standards and Technology; and
+
+Mr. David Shive, chief information officer, General Services
+Administration (Republican witness).
+I welcome today's witnesses for their testimony before the House
+Homeland Security Committee.
+I thank each of you for your service to our Nation.
+This hearing will provide an opportunity for Members to hear from
+administration officials on the status of efforts to strengthen the
+cybersecurity of Federal networks.
+In light of the SolarWinds compromise discovered in December 2020,
+the Biden administration and Congress have prioritized enhanced Federal
+network security, including by providing $650 million to CISA in the
+American Rescue Plan Act and issuing Executive Order 14028, Improving
+the Nation's Cybersecurity.
+By hearing from officials from the key Federal agencies responsible
+for securing Federal networks, Members will learn more about the
+progress the Biden administration has made, the strategy going forward,
+and how Congress can continue to support these efforts.
+Cybersecurity is not something you can see or actively prove--it is
+established by each moment of each day that a network or computing
+device remains free of breaches by adversaries.
+The vulnerabilities in computing technology from the most complex
+systems to the smallest devices are often found in its software.
+This was true in the early 1990's when the first desktop computing
+technology was produced.
+Desktop computing devices were quickly adopted for business and
+Government use.
+The market and regulatory forces that should have forced security
+and safety improvements on computing technology never developed due to
+interference from Congress and the courts that excused or deflected
+culpability for known computing technology errors or omissions in
+product development or manufacturing that left systems open to attack.
+The last defense for computing technology and systems are the
+concrete steps that organization, companies, and agencies can take to
+secure their computing assets; and business continuity measures that
+can be in place to allow meaningful recovery of operations should a
+successful cyber attack occur.
+The Federal Government has invested billions in funding and
+resources to secure Government networks and devices from cyber attacks
+and threats, but in the case of SolarWinds it was FireEye a private
+company that detected the threat and alerted the Government and private
+sector.
+The SolarWinds compromise and the failure of Federal agencies to
+detect the intrusion in a timely manner demonstrated the inadequacy of
+Federal cybersecurity practices.
+On December 8, 2020, the cybersecurity company FireEye announced it
+had been compromised ``by a nation with top-tier abilities.''
+Five days later, initial reports surfaced that a sophisticated
+actor breached the U.S. Departments of Treasury and Commerce by
+inserting malicious code into the SolarWinds Orion platform, which
+agencies used to automate certain network monitoring activities.
+As the investigation into the malicious cyber campaign progressed,
+additional attack vectors unrelated to SolarWinds were identified.
+Ultimately, 9 Federal agencies and numerous private companies were
+impacted.
+The software update containing malicious code had become available
+for download in March 2020, meaning the intruder had access to certain
+networks for a period of several months.
+On January 5, 2021, a joint statement issued by the Cybersecurity
+and Infrastructure Security Agency (CISA), the Federal Bureau of
+Investigation (FBI), the Office of the Director of National
+Intelligence (ODNI), and the National Security Agency (NSA) indicated
+the campaign was ``likely'' carried out by a Russian Advanced
+Persistent Threat actor.
+On April 15, 2021, the Biden administration formally attributed the
+cyber campaign to Russia's Foreign Intelligence Service, the SVR.
+In response to this intrusion, Congress and the Biden
+administration began to take immediate steps to strengthen Federal
+network security.
+As part of the American Rescue Plan Act (ARPA) enacted in March
+2021, Congress provided CISA with $650 million for cybersecurity risk
+mitigation, which CISA dedicated to the deployment of detection sensors
+across Federal agencies, expanding capacity for incident response and
+threat hunting, improving the capacity to analyze cybersecurity
+information, and shifting to a Zero Trust Architecture.
+Additionally, ARPA included $1 million to the Technology
+Modernization Fund, which provides financing to Federal agencies to
+replace aging IT systems that are harder to secure.
+President Biden's Executive Order 14028 represented an ambitious
+approach that, if properly implemented and resourced, will elevate
+Federal network cybersecurity to the standards necessary to meet an
+evolving threat landscape.
+Democrats in Congress prioritized securing Federal networks by
+providing $650 million to CISA to support its efforts and $1 billion to
+the Technology Modernization Fund.
+President Biden's budget request for fiscal year 2023 requests an
+estimated $10.9 billion for civilian cybersecurity efforts, an 11
+percent increase over last year's request.
+Congress must ensure agencies get sufficient resources to implement
+improved cybersecurity practices.
+While all agencies must prioritize strengthening their own
+cybersecurity, there must be coordinated efforts to assist Federal
+agencies and provide them with the necessary expertise.
+Congress has provided CISA with additional authorities in recent
+years to enhance its ability to serve as the operational lead for
+cybersecurity across the Federal civilian Executive branch (FCEB), and
+Congress must continue to grow CISA's ability to assist other Federal
+agencies.
+The Committee on Homeland Security must provide effective oversight
+of the work of CISA to best determine the ability of the agency to
+respond to and effectively defend against cyber threats.
+If we wait until the cyber threat is present to learn whether the
+protections in place are effective, we have not done our jobs to
+protect the American people from cyber threats.
+I believe that a key component of protecting the public is to
+prepare for the possible disruption of computing services or access and
+to have mechanisms in place to establish and maintain continuity of
+government should computing networks come under distress due to a cyber
+attack.
+Business continuity refers to the capability of an organization to
+continue the delivery of products or services at acceptable levels
+following a disruptive incident, and business continuity planning or
+business continuity and resiliency planning is the process of creating
+systems of prevention and recovery to deal with potential threats to
+operations.
+To survive in the current high-risk computing landscape both
+Government and private-sector entities must engage in risk mitigation
+strategies that assess operations from top to bottom to identify
+potential cyber threats and risk vectors.
+This assessment should include both internal and external threats
+that could compromise business continuity or Government services.
+Some risks are firmly within an organization's ability to control,
+such as the measures they implement to secure data and systems.
+Continuity planning is also firmly under the control of
+organizations, and to not invest in proven strategies to survive a
+cyber attack, is not only irresponsible on the part of owners--but it
+creates unacceptable risks for their employees, customers, and
+investors.
+I introduced the Cybersecurity Vulnerability Remediation Act was
+introduced and passed the House during the 115th and 116th Congresses
+and has been updated again in the 111th Congress to meet the ever-
+evolving nature of cyber threats faced by Federal and private-sector
+information systems and our Nation's critical infrastructure.
+This bill goes significantly further than the first Cybersecurity
+Vulnerability bill that I introduced in the 115th Congress, to address
+the instance of Zero-Day Events that can lead to catastrophic
+cybersecurity failures of information and computing systems.
+The ANS to H.R. 2980 responds to the recent cyber attacks on
+America's private sector and establishes the Federal Government as
+having a major role in fighting cyber attacks that target Government
+agencies and the private-sector critical infrastructure.
+H.R. 2980, the Cybersecurity Vulnerability Remediation Act:
+
+Changes the Department of Homeland Security (DHS) definition
+of security vulnerability to include cybersecurity
+vulnerability,
+
+Provides the plan to fix known cybersecurity
+vulnerabilities,
+
+Gives the Department of Homeland Security the tools to know
+more about ransomware attacks and ransom payments, and
+
+Creates greater transparency on how DHS will defend against
+and mitigate cybersecurity vulnerabilities and lays the road
+map for preparing the private sector to better prepare for and
+mitigate cyber attacks.
+The bill requires a report that can include a Classified annex,
+which I strongly recommend to the Secretary of DHS so that it can be
+available should the agency elect to engage private-sector entities in
+a discussion on cyber attacks and breaches targeting critical
+infrastructure.
+This bill is needed because the Nation's dependence on networked
+computing makes us vulnerable to cyber threats.
+In 30 years the world has gone from one divided by oceans to one
+that is interconnected through the internet.
+An interconnected world has brought us closer together, created new
+opportunities for business, and citizen engagement, while at the same
+time given new tools to those who may wish to cause harm using cyber
+attacks.
+In cyber space an attack against one entity or device can devolve
+into an attack against many.
+The work that must be done to secure critical infrastructure from
+cybersecurity vulnerabilities that include oil and gas pipelines; the
+electric grid, water treatment facilities, and other privately-held
+infrastructure must occur with much more order and purposefulness.
+The consolidation of cybersecurity for both the .gov domain and for
+the private sector is now under the jurisdiction of the Committee on
+Homeland Security was is an important step to better coordinating
+domestic cybersecurity.
+We should be clear that it is not just the criminals that are the
+source and motivations for all ransomware attacks, a key factor is the
+nations that provide them with safe harbor.
+When nation-states engage in exfiltration of networks, they gather
+data on the networks, as well as the information that is housed there.
+Information on computing networks can be used by ransomware
+attackers to target victims and increase the likelihood of success.
+Late last year, SolarWinds revealed that that Russian actors
+compromised software updates of its Orion platform--and created
+backdoors into certain customer networks, including Federal networks.
+Within months, Microsoft disclosed that Chinese hackers exploited
+multiple zero-day vulnerabilities in Microsoft Exchange Servers to gain
+access to emails and maintain persistent access to the networks.
+In the spring, CISA announced that malicious actors exploited
+vulnerabilities in certain Ivanti Pulse Connect Secure products to gain
+access and persistence to victim networks.
+Meanwhile, ransomware attacks against critical infrastructure, from
+Colonial Pipeline to JBS, have increased in frequency, threatening to
+disrupt the economy.
+challenges to cyber defense of government and civilian networks
+The vulnerabilities in computing technology from the most complex
+systems to the smallest devices are often found in its software.
+This was true in the early 1990's when the first desktop computing
+technology was produced.
+Desktop computing devices were quickly adopted for business and
+Government use.
+evolution of computing and telecommunications
+Moore's Law is still relevant in the pace of computing capacity as
+the power and complexity of computing continues to expand.
+Moore's law is a term used to refer to the observation made by
+Gordon Moore in 1965 that the number of transistors in a dense
+integrated circuit (IC) doubles about every 2 years.
+The rollout of 5G wireless transmission speed and the mobile
+devices deigned to take advantage of this advance in telecommunications
+is placing additional burdens on cybersecurity measures already in
+place to protect systems for breach or compromise.
+In addition to this challenge are advances in quantum computing,
+which will increase computational speeds to beyond the point where
+cryptographic systems will no longer protect networks or the data, they
+contain from state-sponsored attacks.
+The Biden administration is aggressively pursuing ambitious
+cybersecurity policies to make up for 4 years of missed opportunities
+to improve the Nation's cybersecurity posture.
+The success of those efforts rests on effective interagency
+coordination and the provision of appropriate resources and
+authorities.
+The previous administration eliminated the White House
+Cybersecurity Coordinator and Federal cybersecurity policy suffered.
+Frustration from both sides of the aisle led Congress to establish
+the Office of the National Cyber Director.
+It is time that Congress to fund it.
+The NCD must articulate a clear vision for the Office and the
+unique value it will add to Federal cybersecurity efforts and NCD
+institutionalize its role among its counterparts at CISA and the
+National Security Council.
+private-sector forces impacts security of networks
+The market and regulatory forces that should have forced security
+and safety improvements on computing technology never developed due to
+interference from Congress and the courts that excused or deflected
+culpability for known computing technology errors or omissions in
+product development or manufacturing that left systems open to attack.
+The last defense for computing technology and systems are the
+concrete steps that Government agencies, organization, and companies
+can take to secure their computing assets; and business continuity
+measures that can be in place to allow meaningful recovery of
+operations should a successful cyber attack occur.
+Business continuity refers to the capability of an organization to
+continue the delivery of products or services at acceptable levels
+following a disruptive incident, and business continuity planning or
+business continuity and resiliency planning is the process of creating
+systems of prevention and recovery to deal with potential threats to
+operations.
+To survive in the current high-risk computing landscape both
+Government and private-sector entities must engage in risk mitigation
+strategies that assess operations from top to bottom to identify
+potential cyber threats and risk vectors.
+This assessment should include both internal and external threats
+that could compromise business continuity.
+Some risks are firmly within an organization's ability to control,
+such as the controls they implement to secure data and systems.
+Continuity planning is also firmly under the control of
+organizations, and to not invest in proven strategies to survive a
+cyber attack, is not only irresponsible on the part of owners--but it
+creates unacceptable risks for their employees, customers, and
+investors.
+In cyber space an attack against one entity or device can devolve
+into an attack against many.
+The work that must be done to secure critical infrastructure from
+cybersecurity vulnerabilities that include oil and gas pipelines; the
+electric grid, water treatment facilities, and other privately-held
+infrastructure must occur with much more order and purposefulness.
+The consolidation of cybersecurity for both the .gov domain and for
+the private sector is now under the jurisdiction of the Committee on
+Homeland Security was is an important step to better coordinating
+domestic cybersecurity.
+This is especially critical to the protection of large complex
+information systems that run on applications and hardware that may be
+decades old, which is the case with some supervisory control and data
+acquisition (SCADA) control system architectures that are pervasive in
+the provision of essential services provided critical infrastructure
+owner and operators.
+H.R. 2890 bolsters the efforts to engage critical infrastructure
+owners and operators in communicating cybersecurity threats; and lays
+the foundation for greater transparency on the real threats posed by
+cyber terrorist to private- and Government-sector critical
+infrastructure and information systems.
+The legislation allows the Science the Technology Directorate in
+consultation with CISA to establish an incentive-based program that
+allows industry, individuals, academia, and others to compete in
+identifying remediation solutions for cybersecurity vulnerabilities to
+information systems and industrial control systems including
+supervisory control and data acquisition systems.
+This bill when it becomes law would put our Nation's best minds to
+work on closing the vulnerabilities that cyber thieves and terrorists
+to use them to access, disrupt, corrupt, or take control of critical
+infrastructure and information systems.
+In addition to these changes, the bill requires a report to
+Congress that may contain a Classified annex.
+Today, our Nation is in a cybersecurity crisis.
+My concern regarding the security of information networks began in
+2015 when the Office of Personnel Management's data breach resulted in
+the theft of millions of sensitive personnel records on Federal
+employees.
+What few understood in 2015 was that the attack on the OPM may have
+actually begun in 2013 when cyber criminals breached the computer
+network and stole the operation manuals for the agency's information
+system.
+The on-going attacks against Federal, State, local, territorial,
+and Tribal governments, as well as threats posed to private information
+systems, and critical infrastructure systems makes this bill necessary.
+On May 13, 2021 it was reported that the DC Metropolitan Police
+Department had experienced the worst reported cyber attack against a
+police department in the United States.
+The gang, known as the Babuk group, released thousands of the
+Metropolitan Police Department's sensitive documents on the dark web.
+A review by The Associated Press found hundreds of police officer
+disciplinary files and intelligence reports that include feeds from
+other agencies, including the FBI and Secret Service.
+This type of attack has the potential to undermine trust within the
+ranks regarding the security of personal information in the
+Department's information network as well as reduce cooperation of other
+Federal law enforcement agencies with the DC Police Department out of
+cybersecurity concerns.
+These problems are not limited information related to Government
+employees.
+In February 2021, a cyber attack on an Oldsmar, Florida water
+treatment facility involved increasing the levels of sodium hydroxide
+from 100 parts per million to 11,100 parts per million in drinking
+water.
+This is just one example of how terrorists can attack critical
+infrastructure and cause threats to health, safety, and life.
+ransomware
+Ransomware is becoming the tool of choice for those seeking a
+payout because it can be carried out against anyone or any entity by
+perpetrators who are far from U.S. shores.
+The ill-gotten gain reaped from ransomware can be used to fuel
+terrorist networks, drug cartels, attacks against the homeland, human
+trafficking, or other efforts to undermine homeland security.
+The Colonial Pipeline incident is just one in a long line of
+successful attacks or infiltrations carried out against domestic
+information systems and critical infrastructure with increasing
+consequences for the life, health, safety, and economic security of our
+citizens.
+There is no way of knowing how many attacks resulted in payouts to
+criminals, who would use the funds to fuel additional attacks that
+target business, Government, or other entities in the United States.
+There are few concrete details on how the cyber attack took place,
+and it is likely that this will not change until Colonial Pipeline and
+the third-party company brought in to investigate have concluded their
+analysis of the incident.
+However, what did occur was a ransomware outbreak, linked to the
+DarkSide group, that struck Colonial Pipeline's networks.
+The initial attack entry point into Colonial Pipeline's network is
+not known, but it may have been an old, unpatched vulnerability in a
+system; an email that got passed its firewall to an employee who opened
+it unknowingly; the use of a legitimate employee's computer access
+credentials that were purchased or obtained by the thieves that were
+leaked previously, or any other number of tactics employed by cyber
+criminals to infiltrate a company's network.
+There would be no need for the Cybersecurity Vulnerability
+Remediation Act if owners and operators were succeeding in meeting the
+cybersecurity needs of critical infrastructure.
+I know that there is more that should and ought to be done to
+address the issue of cyber crime and I will be pursuing this avenue
+under the jurisdiction of the House Judiciary Committee, as the Chair
+of the Subcommittee on Crime, Terrorism, and Homeland Security.
+the role of the international community
+When nations of good will band together they have ended depletion
+of the ozone layer, ended piracy on the high seas, controlled the
+proliferation of nuclear weapons, eradicated smallpox, and ended global
+pandemics.
+Ending the threat of ransomware attacks is a worthy challenge and
+one that our allies can agree is in the interest of the global
+community of nations.
+The United States is in a position to lead this effort and I along
+with other Members of this committee stand ready to support an effort
+to find common ground and common purpose among like-minded nations.
+Thank you.
+
+I now welcome our panel of witnesses. First, we will hear
+from Mr. Christopher DeRusha who serves as both the Federal
+chief administration security officer at the Office of
+Management and Budget and as the deputy National cyber director
+for Federal cybersecurity within the Office of the National
+Cyber Director.
+I would also like to welcome Mr. Eric Goldstein back to the
+panel. Mr. Goldstein serves as the executive assistant director
+for cybersecurity at CISA, where he leads the cybersecurity
+division at CISA, which is responsible for carrying out CISA's
+programs to secure Federal networks.
+Next, we will hear from Dr. Charles Romine, the director of
+the Information Technology Laboratory at the National Institute
+of Standards and Technology, or NIST, which plays a vital role
+in developing the standards and security frameworks deployed
+across the Federal enterprise.
+Finally, I look forward to hearing from Mr. David Shive,
+the chief information officer for the General Services
+Administration, or GSA, which plays a key role in the services
+and technologies used throughout the Federal Government.
+Without objection, the witnesses' full statements will be
+inserted in the record. I now ask our witnesses to summarize
+their statements for 5 minutes, beginning with Mr. DeRusha.
+
+STATEMENT OF CHRISTOPHER J. DE RUSHA, FEDERAL CHIEF INFORMATION
+SECURITY OFFICER, OFFICE OF MANAGEMENT AND BUDGET, AND DEPUTY
+NATIONAL CYBER DIRECTOR FOR FEDERAL CYBERSECURITY, OFFICE OF
+THE NATIONAL CYBER DIRECTOR
+
+Mr. DeRusha. Chairwoman Clarke, Ranking Member Garbarino,
+and Members of the subcommittee, thank you for holding this
+important hearing today to highlight the 1-year anniversary of
+Executive Order 14028, Improving the Nation's Cybersecurity. I
+am pleased to testify before you today with my colleagues from
+CISA, NIST, and GSA to discuss how the EO represents a true
+paradigm shift for Federal cybersecurity. I will talk a little
+bit about why that shift is urgently needed and review some of
+the successes that we feel we have had over the first year.
+The bottom line here is we can no longer rely on the
+outdated perimeter-based approach, or digital walls, that we
+have used to keep sophisticated actors from gaining
+unauthorized access to our systems. We really need to
+aggressively invest in making our systems more defensible by
+employing zero trust principles to better detect and contain
+our adversaries, replace ineffective deterrents like passwords
+with multi-factor authentication and encryption, continuously
+identify and remediate vulnerabilities, and transform our
+workplace culture by adopting a secure aware mindset. This
+paradigm shift is really our best opportunity to change our
+adversaries' decision calculus and prevent harm.
+President Biden's Executive Order has set us on this path
+by aggressively and ambitiously shifting our cybersecurity
+strategy from an outdated mindset to one that is clear-eyed
+about our adversaries' capabilities and intent. The security of
+our Nation will be drastically improved when the goals of the
+EO have been met and we feel we have made tremendous progress
+over this first year.
+For the Office of Management and Budget and the Office of
+National Cyber Director, we have issued a series of policies
+that carry forward the vision and actions laid out in the EO.
+In January of this year, OMB issued the zero trust strategy,
+which directed agencies to invest in technology that is built
+and deployed with security at the forefront. This strategy sets
+out a common baseline of actions and investments to ensure
+consistent approach across Government, which will allow us to
+benchmark progress and share lessons among the agencies.
+Federal agencies have responded to this call of action and
+provided their zero trust implementation plans spanning through
+fiscal year 2024.
+Second, recognizing that all Government's vital services
+rely on software, as we learned in SolarWinds, OMB required
+agencies to comply with recent NIST guidance to protect
+critical software. Agencies are taking a phased approach to
+initially focus on stand-alone on-premise software that perform
+critical security functions. When this first phase is complete,
+we will ensure that Government services function not only as
+intended, but also in a manner that is secure by design.
+Third, while the aforementioned policies make our systems
+more defensible, we do recognize that incidents may still
+occur. By enabling a continuously monitored Government-wide
+endpoint detection and response system, we will improve our
+ability to quickly address malicious activity on Federal
+systems.
+Finally, last August, OMB issued the first log-in
+requirements for Federal agencies. This information provides
+the digital fingerprints, which are critical to our system
+defenders' ability to detect, investigate, and remediate cyber
+incidents. These measures represent an extremely important step
+in the shift toward defensible systems.
+The vast majority of the actions called for in the EO,
+including these four that I have just highlighted, are now
+established policies and are being implemented. This
+illustrates the commitment that has been made across the entire
+Federal enterprise to embracing the paradigm shift envisioned
+by the EO.
+Congress, and specifically this committee, have shown a
+very strong commitment to our Government's cybersecurity. We
+appreciate the recent investment that was made in critical
+technology funds like the $1 billion appropriation to the
+Technology Modernization Fund, or TMF, which has already
+expanded our opportunities to address cybersecurity challenges.
+But this is just the beginning. We recognize that large-scale
+transformation does not happen in a year by launching new
+programs. It requires a commitment to cultural change, tireless
+implementation, and continued investment.
+This team sitting before you here, along with the dedicated
+cyber and IT professionals across the Federal Government, is
+committed. Together we will tirelessly implement these
+initiatives. I look forward to partnering with you to
+demonstrate that in outcomes and the importance of sustained
+investment as we move forward together.
+So, I thank you for the opportunity to testify here today
+and I really look forward to your questions.
+[The prepared statement of Mr. DeRusha follows:]
+Prepared Statement of Christopher J. DeRusha
+May 17, 2022
+Chairwoman Clarke, Ranking Member Garbarino, and Members of the
+subcommittee, thank you for holding this important hearing to highlight
+the 1-year anniversary of Executive Order (EO) 14028, Improving the
+Nation's Cybersecurity. I am pleased to testify before you today with
+Eric Goldstein, Dr. Charles Romine, and David Shive. I would like to
+use this opportunity to discuss why EO 14028 represents a paradigm
+shift for Federal cybersecurity, why I believe that shift is important,
+as well as the successes we have had implementing EO 14028 over the
+first year.
+Foundationally, EO 14028 recognizes the hard truth: ``The United
+States faces persistent and increasingly sophisticated malicious cyber
+campaigns that threaten the public sector, the private sector, and
+ultimately the American people's security and privacy.'' Each section
+of the EO aggressively challenges the Federal Government to ``identify,
+deter, protect against, detect, and respond to these actions and
+actors.'' Many of the goals within the order are ambitious, but we are
+never going to improve our shared security if we are not ambitious. As
+chief information security officer and deputy national cyber director
+for Federal cybersecurity, my goal is to focus on Government-wide
+outcomes, and ensure that the Federal enterprise is taking a holistic
+approach to confronting evolving cyber threats. I welcome the
+aggressive and ambitious goals of EO 14028.
+The security of the Nation will be vastly improved when the goals
+of the EO are met and the programs I talk about today are fully
+implemented. Instead of accepting the inherent vulnerabilities of the
+weakest part of the system architecture, we will have robust zero trust
+principles deployed. Rather than accepting SolarWinds as the new
+normal, we will directly protect critical software through enhanced
+security measures. Firewalls will be augmented by a Government-wide,
+continuously-monitored endpoint detection and response (EDR) system. No
+longer will we be forced to relearn the same lessons from every attack,
+but instead we will systematically store and keep system logs to learn
+from past vulnerabilities and train the next generation of system
+defenders.
+The work toward building the secure future envisioned by the EO has
+begun, but it is far from done, and challenges remain. However, the
+agencies have made tangible security gains and will continue to do so
+as this administration implements the EO. My comments today will focus
+on the EO's intent to aggressively evolve the security strategy and
+culture across the Federal enterprise.
+the paradigm shift in the cybersecurity mindset
+EO 14028 makes a significant contribution toward modernizing
+cybersecurity defenses by protecting Federal systems, improving
+information sharing between the U.S. Government and the private sector
+on cyber issues, and strengthening the United States' ability to
+respond to incidents when they occur. It was the first of many
+ambitious steps the administration has taken to modernize National
+cyber defenses.
+The intent of the EO is to aggressively change the security
+strategy and culture across the Federal enterprise to center around
+leading practices in the cybersecurity community. The first step is
+eliminating the outdated mindset and related focus on investing in
+digital walls around networks in an attempt to keep sophisticated
+actors out. We need to invest in secure solutions to make our Federal
+systems defensible and then defend those systems such that we can
+change the decision calculus of the adversary. We will do this by
+applying multi-factor authentication, building in segmentation,
+eliminating the use of passwords, performing routine patching, and
+training our workforce.
+key successes this past year
+In January 2022, we released Moving the U.S. Government Toward Zero
+Trust Cybersecurity Principles (M-22-09) to direct agencies to invest
+in technology that is built and deployed with security foremost in mind
+and move toward a zero trust architecture that provides the vigilance
+to detect malicious behaviors and react quickly. Whether it is the next
+SolarWinds or supply chain compromise Log4j vulnerability, we need to
+be ready to rapidly identify malicious behavior and eliminate it before
+it can do harm. Our security will never be impermeable, but adopting a
+defensible approach will bring risks down to a level we can manage.
+Federal agencies have responded to this call to action and provided
+their zero trust implementation plans, thereby demonstrating a path to
+a new baseline for Government security that will be iterated and
+improved upon over time.
+The goal of the zero trust strategy and associated implementation
+plans is to demonstrate investment in secure solutions and people over
+time. The EO mandates encryption of data, and agencies have responded.
+They are implementing higher levels of encryption, using the best
+methods in the industry to verify legitimate users, and bringing in
+common toolsets that create constant vigilance within our networks.
+Additionally, the use of strong, industry-leading multi-factor
+authentication makes it harder for an adversary to move into and then
+laterally in a target environment.
+The vital services the Federal Government provides to the Nation
+are reliant on critical software. Events like SolarWinds demonstrate
+the fragility of those services when critical software is not secured.
+The EO recognizes that software security must be one of our top
+concerns. The practice of developing software through opaque processes
+lacking sufficient controls only hinders security; and more often,
+introduces vulnerabilities throughout the application. We must ensure
+that products and application function not only in the manner intended
+but also in a manner that is secure by design. We will do so by
+partnering with the private sector to develop processes that enhance
+the software supply chain security.
+The EO directed the National Institute of Standards and Technology
+(NIST) to develop guidance on core security measures to protect
+critical software and OMB to require agencies to comply with that
+guidance. Last July, NIST issued that guidance. The following month,
+OMB required agencies to adopt a phased approach to implement NIST's
+guidance. The memorandum on Protecting Critical Software Through
+Enhanced Security Measures (M-21-30) is intended to: (1) Protect
+critical software and critical software platforms from unauthorized
+access and usage; (2) protect the confidentiality, integrity, and
+availability of data used by these software and software platforms; and
+(3) allow agencies to quickly detect, respond to, and recover from
+threats and incidents involving critical software and critical software
+platforms.
+Given the magnitude of threats Federal agencies face, they must be
+prepared for a threat actor to compromise someone's account or device;
+this is why the EO-mandated deployment of a Government-wide endpoint
+detection and response (EDR) system that is being continuously
+monitored. This will improve our ability to detect malicious cyber
+activity on Federal networks. To achieve this, OMB issued
+implementation guidance to agencies as they accelerate the adoption of
+EDR solutions and work to improve visibility into and detection of
+cybersecurity vulnerabilities and threats to the Federal Government.
+The memorandum, Improving Detection of Cybersecurity Vulnerabilities
+and Incidents on Federal Government Systems through Endpoint Detection
+and Response (M-22-01) is intended to improve agency capabilities for
+early detection, response, and remediation of cybersecurity incidents
+on their networks through the use of advanced technologies and leading
+practices. At its core, cybersecurity is a risk reduction and
+management activity. We are countering our adversaries' tactics and
+improving the resiliency of our Nation.
+However, despite our best efforts to defend Federal systems,
+cybersecurity incidents may still occur. The EO recognized this and
+requires agencies to improve their investigative and remediation
+capabilities so they can be better prepared to respond. It is essential
+that agencies and their IT service providers collect and maintain
+information from networks and system logs on Federal information
+systems. Log information is crucial to diagnosing, investigating, and
+responding to cyber incidents. Without this information it can be
+nearly impossible to know when and how a victim was compromised or
+regain confidence in the integrity of affected systems. Further, the
+maintenance of these logs affords the Federal Government the
+opportunity to learn from attempts to breach system security.
+OMB issued Improving the Federal Government's Investigative and
+Remediation Capabilities Related to Cybersecurity Incidents (M-21-31)
+last August to establish requirements for logging, log retention, and
+log management across Federal civilian Executive branch agencies. The
+requirements established in the memorandum will ultimately increase
+information sharing enabling both accelerated incident response and
+more effective information system defense.
+We recognize there is much more work to be done and this first year
+has shined a light on the challenges and opportunities ahead. The
+framework created under the EO and subsequent OMB policies are nothing
+less than a paradigm shift for Federal agencies. Large-scale change as
+envisioned here does not happen in a year; it requires continued
+investments, resources, and cultural change derived from the visibility
+and support of leaders both within the Executive branch and here in
+Congress.
+Strong security requires time and investment, but the cost of
+neglecting security is far higher, whether measured in dollars, lost
+data, and PII, or impact to National security. The $1 billion
+investment in the Technology Modernization Fund in the American Rescue
+Plan Act of 2021 has already expanded our opportunities to address
+cybersecurity challenges. We encourage Congress to support the full
+fiscal year 2023 budget request for the Technology Modernization Fund
+at $300 million and continue to invest in the many other resources that
+support cybersecurity throughout the Federal enterprise.
+conclusion
+This administration made cybersecurity an immediate priority in
+Federal IT. Since January 2021, we have been extremely active in laying
+the strategic groundwork for the future of Federal cybersecurity. As we
+move forward, we will focus on helping agencies implement these
+priorities with the diligence this work requires and the speed the
+moment demands.
+None of us can do it alone. It is a partnership where collaboration
+is key--collaboration with my colleagues here today and, most
+importantly, collaboration with all of the cybersecurity personnel who
+support the Federal Government and work tirelessly to safeguard our
+Nation. I appreciate this committee's leadership, and I am confident
+that through partnership, mutual transparency, and frank discussions
+about where we need additional improvement, we will build a more secure
+and resilient Federal enterprise.
+Thank you for the opportunity to testify today, and I look forward
+to your questions.
+
+Chairwoman Clarke. We thank you for your testimony and I
+now recognize Mr. Goldstein to summarize his statement for 5
+minutes.
+
+STATEMENT OF ERIC GOLDSTEIN, EXECUTIVE ASSISTANT DIRECTOR FOR
+CYBERSECURITY, CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY
+
+Mr. Goldstein. Thank you. Chairman Clarke, Ranking Member
+Garbarino, Members of the subcommittee, it is a privilege to
+rejoin the group today and speak a bit about the role of the
+Cybersecurity Infrastructure Security Agency, or CISA, in
+driving essential progress across the Federal civilian
+Executive branch.
+As we pass the 1-year anniversary of President Biden's
+issuance of the Executive Order on Improving National
+Cybersecurity, it is an opportune time to step back and reflect
+on the progress that CISA and our partners across the 101
+Federal civilian Executive branch agencies have made in driving
+improvements in National cybersecurity and the urgent work that
+we are driving going forward. As the Nation's cyber defense
+agency and operational lead for civilian cybersecurity, CISA
+played an integral role in implementing the provisions of the
+Executive Order. We have done so in close collaboration with
+our partners reflected on this witness table, CIOs and CSOs
+across the Federal civilian Executive branch and our partners
+across the private sector and even the international community.
+I am proud to report that CISA met each of our assigned
+efforts under the EO by the deadlines enumerated therein. But
+deadlines matter less than outcomes and our focus needs to be
+on ensuring that the cybersecurity that we expect across
+Federal civilian agencies is present across every department,
+every agency, every time. Our goal is simple, to reduce the
+prevalence and impact of cybersecurity intrusions targeting
+Federal agencies, ensure that intrusions are detected more
+quickly, and that Federal agencies are using modern secure
+technology that reduce the likelihood of intrusions by design.
+To appreciate the progress we have made, it is useful to
+step back and reflect on where we came from. As the committee
+well knows, the supply chain compromise perpetrated by
+malicious Russian cyber actors targeting, in many cases,
+SolarWinds devices was a call to action for the Nation in
+cybersecurity and reflected a delta between the ability of our
+adversaries and our National cybersecurity posture. It also
+reflected, as my co-witness noted, the need for a new model.
+The Executive Order is based directly on what we learned from
+the SolarWinds intrusion and our improvement plan to get to a
+better state.
+I am looking forward during this hearing to talk a bit more
+about the urgent efforts that CISA is helping to drive to get
+us to this place where we will have less intrusions by design.
+This includes gaining centralized visibility across all Federal
+civilian agencies by deployment of endpoint detection and
+response technologies and by fully implementing our authorities
+to conduct persistent hunts across Federal networks. It
+includes helping agencies more rapidly adopt zero trust
+principles where networks are presumed to be untrusted. We
+focus on securing the most important assets, accounts, and data
+by design. I am proud that CISA's zero trust maturity model
+along with OMB's National zero trust strategy are key
+accelerants for this effort.
+We are focused on advancing transparency in management of
+third-party cybersecurity risks, including by driving adoption
+of automated and interoperable software bill of materials that
+will give us a much more granular view into third-party risks
+affecting Federal agencies and, indeed, across the Nation.
+Expanding our provision of shared services and direct support
+to Federal agencies to ensure that we reach a common baseline
+of maturity that we can reasonably expect to yield the
+cybersecurity outcomes that we expect.
+Our Nation's at a turning point in cybersecurity and the
+Executive Order helped us make that turn and took important
+steps toward driving the change that we need to seek, but we
+have a tremendous amount of more work to do. In order to get
+where we need to be, we need continued focus and continued
+investment in both cybersecurity and IT modernization across
+the entire Federal civilian Executive branch. We deeply
+appreciate the support of Congress in getting us to this point.
+The focus of the Biden-Harris administration in driving needed
+change to achieving our shared goal of an environment where the
+American people's sensitive information and essential
+Government services are rendered secure and resilient under all
+conditions.
+Thank you, again, for the chance to appear today. I am very
+much looking forward to your questions.
+[The prepared statement of Mr. Goldstein follows:]
+Prepared Statement of Eric Goldstein
+May 17, 2022
+Chairwoman Clarke, Ranking Member Garbarino, and Members of the
+subcommittee, thank you for the invitation to testify today on behalf
+of the Cybersecurity and Infrastructure Security Agency (CISA). As we
+recently passed the 1-year anniversary of President Biden's Executive
+Order on Improving the Nation's Cybersecurity, I appreciate the
+opportunity to highlight how CISA is driving improved cybersecurity
+across the 101 departments and agencies of the Federal civilian
+Executive branch (FCEB) in order to protect the Government services and
+sensitive information upon which the American people depend.
+As the operational lead for Federal civilian cybersecurity, CISA
+has served a central role in implementing the Executive Order and
+driving broad strategic change across the cybersecurity landscape. We
+have done so in close collaboration with my fellow witnesses from the
+Office of Management and Budget (OMB), Office of the National Cyber
+Director (ONCD), and the National Institute of Standards and Technology
+(NIST), in addition to our many public and private-sector partners. I
+am proud to report that CISA met each of the requirements in the Order
+by the relevant deadlines. More importantly, CISA and our partners have
+catalyzed adoption of new approaches that should yield material
+benefits in securing the Federal civilian enterprise going forward and
+driving systemic improvings in security and resilience of the broader
+technology ecosystem.
+Partnership and collaboration are critical to our success and at
+the heart of CISA's mission. Our goal is simple: Actively defend and
+strategically guide FCEB departments and agencies through best-in-class
+and cost-effective services, capabilities, and information as part of a
+deep partnership with OMB, ONCD, the National Security Council (NSC),
+and each agency's CIO and CISO. While we remain on a journey of
+improvement across the FCEB, the Executive Order and resources provided
+by Congress have dramatically accelerated progress over the past year.
+the solarwinds compromise: a call to action
+To understand the importance of the Executive Order, it's important
+to begin by reflecting on lessons leared from the SolarWinds intrusion
+campaign. In early December 2020, the Federal Government became aware
+of a cyber intrusion campaign that included compromises of U.S.
+Government agencies and private-sector organizations. This highly
+sophisticated campaign, attributed to the Russian Foreign Intelligence
+Service (SVR), involved a compromise of trusted software updates to
+inject malicious code into thousands of victim organizations. After
+gaining entry, the SVR used advanced techniques and tradecraft to
+remain hidden for an extended period.
+The SolarWinds supply chain compromise served as an important call
+to action for the Government, and the Nation as a whole, demonstrating
+the capabilities of our most sophisticated adversaries and the
+potential implications of persistent intrusions on our National
+security, economic prosperity, and public health and safety. The
+campaign highlighted a delta between our adversaries' capabilities and
+our National cyber defense posture, and reflected the need for a new
+model. CISA led the U.S. Government's response to the campaign,
+including by actively responding to intrusions, issuing an Emergency
+Directive requiring specific mitigation steps, and developing tools to
+help organizations drive remediation and eviction. As part of this
+role, CISA supported Federal CIOs to gain reasonable confidence into
+the integrity of their networks and eviction of the adversary. Each
+significant line of effort in the Executive Order is based upon our
+lessons learned during the SolarWinds campaign or other major
+intrusions.
+First, the campaign reinforced that traditional architectures that
+rely upon perimeter defenses will often fail to protect networks
+against malicious attacks, and, in some cases, facilitate our
+adversaries' ability to move freely within networks. The Executive
+Order tackles this issue by driving urgent adoption of Zero Trust
+Architectures with heightened focus on securing data and services that
+assume no implicit trust can be granted based on physical or network
+location. Zero Trust Architectures will require significant changes to
+Federal Government information technology environments and
+cybersecurity capabilities. As part of this effort, CISA published a
+Zero Trust Maturity Model that guides agencies' adoption of Zero Trust
+principles and illustrates how CISA's services, like Continuous
+Diagnostics and Mitigation (CDM), will evolve to enable agencies' Zero
+Trust implementations. Recognizing that secure migration to cloud
+environments is inherently related to progress toward Zero Trust, we
+published a Cloud Security Technical Reference Architecture and
+continue efforts to help Federal civilian agencies, and the broader
+community, utilize cloud resources with security as a priority. CISA
+published technical guidance outlining preferred approaches to
+enhancing the security of cloud business applications while enabling
+greater operational visibility of those environment.
+Second, CISA and individual agencies must continue to pursue
+enhanced visibility into potential adversary activity targeting Federal
+networks. The Executive Order has driven urgent steps to improve
+visibility into threats targeting the U.S. Government, including
+deployment of Endpoint Detection and Response (EDR) capabilities across
+FCEB networks. CISA developed a FCEB-wide EDR initiative to support
+host-level visibility, persistent threat hunting, containment and
+remediation, and incident response. To this point, we have provided
+leading commercial EDR capabilities to more than 15 agencies, published
+an EDR Concept of Operations to define how CISA and agencies will
+proactively and persistently hunt for threats, which will dramatically
+reduce our time to detect intrusions. This has allowed us to directly
+engage and support all agencies impacted by the SolarWinds event. We
+have also made urgent improvements into our CDM program to understand
+the state of cyber risk across the FCEB, including deploying a new
+dashboard that now provides information on asset status,
+vulnerabilities, configuration flaws, and other risk conditions across
+65 agencies, with more coming on-line each month.
+Third, we gained an understanding of the deep criticality of
+managing supply chain risks. To this end, CISA and our partner agencies
+have developed new contract clauses that will impose strong security
+and information-sharing requirements on Federal contractors. We also
+worked with our partners at NIST to develop an inventory of critical
+software, which will ensure that providers of such software are held
+accountable to rigorous development and security controls. As an
+additional critical step, CISA supports the effort to drive adoption of
+Software Bills of Material (SBOM), the equivalent of ``food labels'',
+throughout the software supply chain, enumerating the specific packages
+and libraries used to construct the software. CISA will help refine,
+operationalize, and scale SBOM, building on the community work begun by
+NTIA, NIST, and a very diverse set of industry leaders and experts.
+Widespread adoption of SBOM will provide essential transparency in
+understanding security risks affecting our Nation's critical
+technology.
+Fourth, we recognized that incident response, threat hunting, and
+security operations capabilities across the FCEB required further
+maturation. We developed and published cybersecurity incident response
+playbooks that will govern a standardized approach to incident response
+across the civilian government and provide a benchmark for the broader
+cyber community. Being prepared and formalizing a standardized plan for
+how the U.S. Government responds to cyber incidents will improve the
+speed and efficiency with which we can respond to, recover from, and
+minimize impact from cyber intrusion campaigns. We also recognized an
+urgent need to remove barriers to sharing threat information between
+the Government and private sector. Industry is often uniquely
+positioned to detect a compromise first, which is why it is imperative
+for us to continue to deepen operational collaboration with key
+industry partners. The actions set out in the Executive Order ensure
+that IT service providers are able to share information with the
+Government, and even requires them to share certain breach information.
+It is becoming increasingly clear that sophisticated actors don't care
+about the boundaries between individual agencies' networks and systems.
+We need to continue to focus on CISA being the recipient of threat,
+vulnerability, and incident information, even as we work to urgently
+and transparently implement requirements under the Cybersecurity
+Incident Reporting for Critical Infrastructure Act of 2022, so we can
+enrich that information and broadly share it to protect other potential
+victims.
+a vision for the future of federal civilian cybersecurity
+It is clear that status quo approaches to Federal civilian
+cybersecurity have been unsuccessful. A new approach is needed that is
+grounded in the foundational precept that the Federal enterprise must
+have unified visibility, capability, and trust of our partners to
+rapidly identify and drive mitigation of cybersecurity risks and
+accelerate progression toward secure technology environments. Our
+vision is an FCEB environment in which intrusions are swiftly detected
+and remediated, security weaknesses are identified and mitigated before
+intrusions occur, and outdated or insecure technologies are replaced by
+modern infrastructure leveraging Zero Trust principles.
+To achieve this vision, we must continue four urgent efforts.
+First, we must continue to gain visibility across FCEB agencies,
+including by accelerating our EDR initiative and advancing our
+visibility into threats targeting agency cloud environments--and using
+this visibility to more quickly notify agencies of potential intrusions
+and drive remediation. Second, we must expand our provision of shared
+services to FCEB agencies to provide scalable, cost-effective
+capabilities that drive down known security risks. Third, we must
+provide agencies with actionable guidance and hands-on support,
+including through our Federal Enterprise Improvement Teams, to help
+agencies accelerate progress toward implementing Zero Trust
+architectures and implement our directives. Finally, CISA will continue
+to lead our National effort to drive adoption of modern security
+practices, including Zero Trust principles and secure cloud
+implementations, that will make measurable progress in reducing
+cybersecurity risk at scale.
+conclusion
+Our Nation is at a turning point in cybersecurity. The Executive
+Order has provided us a roadmap to make that turn and take important
+steps toward this new direction. We must continue to work together, by
+deepening our operational collaboration and ensuring we have the plans
+and policies in place now, to defend against new and changing cyber
+threats going forward. Recent incidents and the on-going threat of
+malicious Russian cyber activity provide a stark reminder about the
+vulnerability of our Federal networks.
+The Executive Order catalyzed extraordinary action--but it was just
+the start. In order to get to where we need to be in terms of Federal
+cybersecurity, we need sustained and coordinated investment in
+cybersecurity and IT Modernization over time. Our approach will require
+multiple layers of protection, integrated technology, and continued
+investment from Congress. There is no silver bullet or single
+technology that will secure our systems. At CISA, alongside OMB, ONCD,
+NSC, and our partners across the Federal Government, we stand ready for
+the challenge ahead. And we deeply appreciate Congress' and this
+administration's commitment to achieving our shared end goal of
+safeguarding our most sensitive data and ensuring the availability of
+critical services on which our citizens depend.
+
+Chairwoman Clarke. Thank you for your testimony. I now
+recognize Dr. Romine to summarize his statement for 5 minutes.
+
+STATEMENT OF CHARLES H. ROMINE, DIRECTOR, INFORMATION
+TECHNOLOGY LABORATORY, NATIONAL INSTITUTE OF STANDARDS AND
+TECHNOLOGY, U.S. DEPARTMENT OF COMMERCE
+
+Mr. Romine. Chairwoman Clarke, Ranking Member Garbarino,
+and distinguished Members of the subcommittee, I am Charles
+Romine, the director of the Information Technology Laboratory
+at the National Institute of Standards and Technology, also
+known as NIST. Thank you for the opportunity to testify today
+on behalf of NIST on efforts to improve the cybersecurity of
+the Federal Government.
+This year, NIST is celebrating its 50th anniversary of its
+work in cybersecurity. NIST's role in addressing cybersecurity
+and privacy challenges includes conducting research and
+developing broad and foundational standards, guidelines, and
+tools for public and non-public organizations. The
+collaborative, transparent, and open processes that NIST uses
+to develop these resources results in more effective and usable
+resources that are widely trusted and, therefore, more widely
+used.
+Technology standards and the foundational research that
+enables their development and use are critical to advancing
+trust in digital products and services. They can provide
+increased assurance thus enabling more secure private and
+rights preserving technologies. With growing cybersecurity
+risks and rapid advances in technology, advancing trust in
+technology could not be more important.
+Federal agencies rely on NIST to provide unbiased,
+technically sound information that is both actionable and
+flexible to manage cybersecurity risks within their unique
+missions. NIST's standards and guidelines provide a baseline
+and how-to direction for Federal agencies in developing and
+managing their cybersecurity and privacy programs. NIST's work
+also informs OMB and CISA in their roles to help Federal
+agencies operationalize these strong cybersecurity measures. I
+am pleased to testify today with my fellow panelists from OMB,
+from CISA, and from GSA, all critical partners with NIST in
+enhancing Federal cybersecurity.
+The Executive Order, Improving the Nation's Cybersecurity
+was critically aimed at improving the cybersecurity of Federal
+Government and the Nation. Many recent incidents share
+commonalities including insufficient software and supply chain
+cybersecurity defenses that leave organizations vulnerable to
+incidents. In response to the EO, over the last year, NIST
+published groundbreaking work to enhance software supply chain
+security. The guidance developed by NIST is aimed at securing
+existing software already in use by Federal agencies, as well
+as adopting strong, secure software development and supply
+chain risk management principles to address the security of
+software procured by Federal agencies.
+NIST is committed to working within the Executive branch to
+assist OMB and agencies in implementing these practices. The
+Executive Order also directed Federal agencies to adopt zero
+trust architectures based off NIST guidelines moving toward a
+new paradigm for cybersecurity, as you have been told. As
+agencies work to implement the guidance under the Executive
+Order, it is important to continue to implement the full
+complement of our guidance to manage risks. Along these lines,
+NIST has kicked off a process to update the NIST cybersecurity
+framework, widely used across public and private sectors, to
+make it easier for organizations to manage growing
+cybersecurity risks.
+Emerging technologies, such as internet of things, quantum
+computing, and artificial intelligence will add additional
+challenges for Federal cybersecurity. More than ever, Federal
+agencies and other organizations must balance a rapidly-
+evolving threat landscape against the need to fulfill mission
+requirements. Cybersecurity must be considered alongside all
+other types of risks addressed by organizations and by
+leadership at the most senior level. NIST is committed to
+ensuring that organizations have the guidance and the tools
+they need to do so.
+Thank you for the opportunity to present on NIST activities
+to improve Federal network cybersecurity through implementation
+of Executive Order 14028, and I look forward to your questions.
+[The prepared statement of Mr. Romine follows:]
+Prepared Statement of Charles H. Romine
+May 17, 2022
+Chairwoman Clarke, Ranking Member Garbarino, and distinguished
+Members of the subcommittee, I am Dr. Charles Romine, the director of
+the Information Technology Laboratory (ITL) at the Department of
+Commerce's National Institute of Standards and Technology--known as
+NIST. Thank you for the opportunity to testify today on behalf of NIST
+on our efforts to improve the cybersecurity of the Federal Government.
+NIST is home to five Nobel Prize winners, with programs focused on
+National priorities such as artificial intelligence, advanced
+manufacturing, the digital economy, precision metrology, quantum
+information science, biosciences and, of course, cybersecurity. The
+mission of NIST is to promote U.S. innovation and industrial
+competitiveness by advancing measurement science, standards, and
+technology in ways that enhance economic security and improve our
+quality of life.
+In the NIST Information Technology Laboratory, we work to cultivate
+trust in information technology and metrology. Trust in the digital
+economy is built upon key principles like cybersecurity, privacy,
+interoperability, equity, and avoiding bias in the development and
+deployment of technology. NIST conducts fundamental and applied
+research, advances standards to understand and measure technology, and
+develops tools to evaluate such measurements. Technology standards--and
+the foundational research that enables their development and use--are
+critical to advancing trust in and promoting interoperability between
+digital products and services. Critically, they can provide increased
+assurance, thus enabling more secure, private, and rights-preserving
+technologies.
+nist's role in cybersecurity
+This year, NIST is celebrating the 50th anniversary of its work in
+cybersecurity. NIST's role in addressing cybersecurity and privacy
+challenges includes conducting research and developing broad and
+foundational standards, guidelines, and tools for public and non-public
+organizations. These efforts are focused on securing the technology
+used today, while also conducting ground-breaking research focused
+toward securing the technology of the future. Fifty years ago, NIST
+efforts began with the publication of the Data Encryption Standard,
+which enabled efficiencies with security, like the electronic banking
+that we all enjoy today. The NIST Advanced Encryption Standard has been
+estimated to provide more than $250 billion in economic value over a
+period of 20 years. Today, our efforts include everything from
+technical cryptography algorithms, establishing strong cybersecurity
+and privacy controls, and operational resources on managing
+cybersecurity and privacy risks, to cybersecurity education and
+training programs. In celebration of our 50th anniversary, we are
+hosting several events and resources to highlight some of the
+extraordinary advancements in cybersecurity at NIST over the years and
+encourage you to check it out on our website.
+As a non-regulatory agency, NIST prides itself on the strong
+partnerships we have developed with the Government and private sector.
+NIST seeks and relies on diverse stakeholder feedback amongst
+Government, industry, academia, and non-profit entities to develop and
+improve our cybersecurity resources. The collaborative, transparent,
+and open processes NIST uses to develop resources results in more
+effective and usable resources that are widely trusted, and therefore,
+more widely used by various organizations. Therefore, NIST resources
+are used not only by Federal agencies, but also private-sector
+organizations of all sizes, educational institutions, and State, local,
+and Tribal governments.
+Cybersecurity is critically important to accomplishing Federal
+missions and protecting Federal systems and information, as well as
+ensuring access to important programs and services relied on by
+Americans. I am pleased to testify today with Chris DeRusha from the
+Office of Management and Budget and the Office of the National Cyber
+Director and Eric Goldstein from the Cybersecurity and Infrastructure
+Security Agency, two critical partners with NIST in enhancing the
+cybersecurity of Federal agencies. Under the Federal Information
+Security Modernization Act (FISMA), NIST develops security standards
+and guidelines for non-National security Federal agency systems, which
+may be mandatory for Federal agencies. NIST standards and guidance
+provide a baseline and how-to direction for Federal agencies in
+developing and managing their cybersecurity and privacy programs for
+Federal systems. NIST's work also informs OMB and CISA in their roles
+to help Federal agencies operationalize these strong cybersecurity
+measures. Federal agencies rely on NIST to provide unbiased,
+technically sound information that is both actionable and flexible to
+meet their unique missions and business needs while managing
+cybersecurity and privacy risks. NIST's explicit role in developing
+security guidelines for Federal agencies was first established in the
+Brooks Automatic Data Processing Act in 1965 (Public Law 89-306). Its
+role was strengthened through the Computer Security Act of 1987 (Public
+Law 100-235), the Federal Information Security Management Act of 2002
+(FISMA) (Public Law 107-347),\1\ and reaffirmed in the Federal
+Information Security Modernization Act of 2014 (FISMA 2014) (Public Law
+113-283).
+---------------------------------------------------------------------------
+\1\ FISMA was enacted as Title III of the E-Government Act of 2002
+(Public Law 107-347).
+---------------------------------------------------------------------------
+executive order 14028 on improving the nation's cybersecurity
+On May 12, 2021, President Biden signed Executive Order,
+``Improving the Nation's Cybersecurity'' (EO 14028), which was
+critically aimed at improving the cybersecurity of the networks of the
+Federal Government and the Nation. Cybersecurity incidents such as
+SolarWinds, Microsoft Exchange, and the Colonial Pipeline incident are
+a sobering reminder that U.S. public and private-sector entities
+increasingly face sophisticated malicious cyber activity from both
+nation-state actors and cyber criminals. These incidents share
+commonalities, including insufficient software and supply chain
+cybersecurity defenses that leave public and private-sector entities
+vulnerable to incidents. It highlights the importance of both securing
+existing software already in use by Federal agencies, as well as
+adopting strong secure software development and supply chain risk
+management principles to address the security of software procured by
+Federal agencies.
+The Executive Order included several directives for the Secretary
+of Commerce, through NIST, aimed at enhancing software supply chain
+security. I am pleased to report that NIST has met all the deliverables
+under the EO, despite tight time lines. NIST carried out the EO
+directives in close cooperation with other Government agencies and
+private- and public-sector organizations and individuals through our
+open, transparent, and inclusive processes. This included hosting 7
+workshops over the past year to solicit input from stakeholders. The
+initial workshop, hosted June 2 and 3, 2021, 3 weeks after the EO was
+issued, garnered more than 1,400 participants and 150 position papers.
+In addition, NIST participated in two White House Summits, on
+Cybersecurity Supply Chain and on Open Source Software Security, that
+informed our efforts.
+enhancing software security and cybersecurity supply chain risk
+management
+In response to the EO, over the last year, NIST published ground-
+breaking work to identify and secure critical software, establish
+secure software development life-cycle best practices, establish
+minimum standards for vendor or developer verification of software,
+establish supply chain security guidance, and develop the technical
+criteria to inform initiation of pilot labeling programs to help
+consumers understand the cybersecurity of software products and
+internet of things devices. The NIST guidance developed under the EO
+provides effective measures to reduce risks to software supply chains
+while allowing for future innovation and economic growth within the
+secure software ecosystem. In the process, NIST has also assisted the
+Office of Management and Budget, Cybersecurity and Infrastructure
+Security Agency, the General Services Administration, and other
+agencies to meet their responsibilities under the EO. A full list of
+NIST's efforts and deliverables under EO 14028 can be found in the
+appendix, but I will expand on a few critical efforts in detail here.
+Defining and Securing Critical Software
+One of the goals of the EO is to assist in developing a security
+baseline for critical software products used across the Federal
+Government. The designation of software as EO-critical will then drive
+additional activities, including how the Federal Government purchases
+and manages deployed critical software. Under the EO, NIST defined EO-
+critical software as any software that has, or has direct software
+dependencies, upon one or more components with at least one of these
+attributes: Is designed to run with elevated privilege or manage
+privileges; has direct or privileged access to networking or computing
+resources; is designed to control access to data or operational
+technology; performs a function critical to trust; or, operates outside
+of normal trust boundaries with privileged access. The EO directs NIST
+to issue guidance on security measures for critical software, and
+further directs the Office of Management and Budget (OMB) to require
+Federal agencies to comply with that guidance. The guidance issued by
+NIST in July 2021 outlines core cybersecurity measures for the
+protection of critical software in use by Federal agencies. The
+guidance developed by NIST is intended to supplement, not supplant,
+other NIST security measures for securing software, including guidance
+on supply chain security and zero trust practices.
+Ensuring Secure Software Development
+The EO requires the Government to only purchase software that is
+developed securely and directs NIST to ``issue guidance identifying
+practices that enhance the security of the software supply chain.''
+Secure development practices will help ensure security is a
+consideration throughout the life cycle of a software product. Updated
+in February 2022 in response to EO 14028, the Secure Software
+Development Framework (SSDF) provides a set of fundamental and sound
+practices for secure software development. The SSDF was developed in
+partnership with organizations across the software industry. It is
+intended to help software producers reduce the number of
+vulnerabilities in released software, reduce the potential impact of
+the exploitation of undetected or unaddressed vulnerabilities, and
+address the root causes of vulnerabilities to prevent recurrences.
+Also, because the SSDF provides a common language for describing secure
+software development practices, software producers and acquirers can
+use it to foster their communications for procurement processes and
+other management activities.
+In addition, to meet the goals of the EO, NIST also released
+related Software Supply Chain Security Guidance to help Federal
+agencies as they acquire software or a product containing software on
+how to ensure conformity with the secure software development practices
+outlined in the SSDF. The guidelines recommend agencies should use the
+SSDF terminology to organize communications about secure software
+development requirements, require attestation to cover secure software
+development practices throughout the software life cycle, accept first-
+party attestation of conformity with SSDF practices unless a risk-based
+approach determines that a second- or third-party attestation is
+required, and when requesting artifacts of conformance, request high-
+level artifacts. It also recommends agencies implement the practices
+outlined in NIST's supply chain cybersecurity guidance, to increase
+visibility into, and mitigation of, supply chain cybersecurity risks.
+As directed by OMB in March, pursuant to the EO, Federal agencies
+are now required to implement the SSDF and associated security guidance
+from NIST. NIST is committed to working within the Executive branch to
+assist OMB and agencies in implementing this guidance. In the future,
+NIST will provide additional practical guidance to organizations on
+implementing the SSDF, as well as how to leverage the guidance to
+address open-source software security vulnerabilities.
+Cybersecurity Supply Chain Risk Management
+NIST has collaborated with public and private-sector stakeholders
+to research and develop Cybersecurity Supply Chain Risk Management (C-
+SCRM) tools and metrics, producing case studies and widely-used
+guidelines on mitigation strategies. These multiple sources reflect the
+complex global marketplace and assist Federal agencies, companies, and
+others to manage cybersecurity risks in supply chains. The SECURE
+Technology Act authorized a specific role to NIST in developing
+cybersecurity supply chain risk management guidelines. In response to
+EO 14028, NIST recently issued an update to its foundational guideline,
+Cybersecurity Supply Chain Risk Management Practices for Systems and
+Organizations (SP 800-161 Revision 1) to guide organizations in
+identifying, assessing, and responding to cybersecurity supply chain
+risks at all levels. NIST's guidance provides additional information on
+how to leverage emerging concepts like the software bill of materials
+(SBOM).
+Building from this foundational cybersecurity supply chain risk
+management guideline and deliverables issued in response to EO 14028,
+NIST recently announced the National Initiative for Improving
+Cybersecurity in Supply Chains (NIICS), a new public-private
+partnership to improve cybersecurity in supply chains. This initiative
+will emphasize tools, technologies, and guidance focused on the
+developers and providers of technology as well as help organizations to
+build, evaluate, and assess the cybersecurity of products and services
+in their supply chain. NIST issued a Request for Information in
+February 2022 to inform further development of NIICS and other NIST
+cybersecurity frameworks, standards, and guidelines.
+Advancing Zero Trust Architecture
+EO 14028 directs Federal agencies to develop plans to implement a
+Zero Trust Architecture in support of Federal cybersecurity
+modernization efforts. Agency migration plans needed to be consistent,
+where appropriate, with NIST standards and guidance on zero trust.
+NIST's technical guidance defines zero trust, identifies foundational
+zero trust tenets, and shares deployment models and use cases where
+zero trust could improve an enterprise's overall information technology
+security posture. NIST has also launched a collaborative project with
+industry to demonstrate practical, example approaches to implementing a
+zero trust architecture to aid agencies and other organizations in
+their implementations.
+other challenges faced by federal agencies
+Managing Cybersecurity and Privacy Risk
+More than ever, Federal agencies and other organizations must
+balance a rapidly-evolving cybersecurity and privacy threat landscape
+against the need to fulfill business requirements on an enterprise
+level. Risk management underlies everything that NIST does in
+cybersecurity and privacy and is part of its full suite of standards
+and guidelines. NIST equips organizations with an aligned and
+integrated portfolio of tools to understand, measure, manage, and
+communicate risk--specific to various risk domains, including
+cybersecurity, privacy, and supply chain--in the context of the
+enterprise.
+Among many risk management resources, the NIST Risk Management
+Framework (RMF) provides a comprehensive, flexible, repeatable, and
+measurable 7-step process to manage information security and privacy
+risk. The RMF links to a suite of NIST standards and guidelines to
+support implementation of risk management programs for Federal agencies
+to meet the requirements of FISMA. For example, the RMF provides a
+process in which to select and implement security and privacy controls
+(SP 800-53) and to assess if they are operating as intended and
+achieving the desired outcomes (SP 800-53A).
+Executive Order 13800 also provides direction to Federal agencies
+with respect to cybersecurity, and specifies that Federal agencies
+shall use NIST's Framework for Improving Critical Infrastructure
+Cybersecurity (Cybersecurity Framework). NIST continues to maintain the
+Cybersecurity Framework to help organizations--including Federal
+agencies--better identify, assess, and manage cybersecurity risks in
+the context of their missions and business objectives. The
+Cybersecurity Framework is used widely by private and public sector
+organizations in and outside of the United States and has been
+translated into multiple languages, speaking to its global success as a
+commonly-used resource. The Cybersecurity Framework was last updated in
+April 2018. Much has changed in the cybersecurity landscape in terms of
+threats, capabilities, technologies, education, and workforce, and the
+availability of resources to help organizations to better manage
+cybersecurity risk. NIST has begun the update process, beginning with a
+request for information to gather stakeholder input about evaluating
+and improving the Cybersecurity Framework.
+NIST believes privacy should be an equal consideration to other
+risks such as cybersecurity and safety that organizations manage in
+their risk portfolios. Privacy plays a critical role in safeguarding
+fundamental values such as human autonomy and dignity, as well as civil
+rights and civil liberties. NIST has prioritized measurement science
+research and the creation of frameworks, guidance, tools, and standards
+that protect privacy. Much of NIST's critical cybersecurity guidelines
+now includes privacy considerations. In addition, NIST maintains the
+NIST Privacy Framework, modeled on the NIST Cybersecurity Framework, to
+help organizations identify and manage privacy risks. NIST is also
+collaborating with the White House Office of Science and Technology
+Policy and the National Science Foundation to advance privacy-
+preserving data sharing and analytics through bilateral prize
+challenges with the United Kingdom this year.
+Vulnerability Management
+Protecting information technology is critical and NIST plays a key
+role in this area by maintaining the repository of all known and
+publicly reported information technology vulnerabilities, called the
+National Vulnerability Database (NVD). The NVD is an authoritative
+source for standardized information on security vulnerabilities that
+NIST updates regularly.
+The vulnerabilities catalogued in the NVD are weaknesses in coding
+found in software and hardware that, if exploited, can impact the
+confidentiality, integrity, or availability of information or
+information systems. The NVD tracks vulnerabilities over time and
+allows users to assess changes in vulnerability discovery rates within
+specific products or specific types of vulnerabilities. The NVD is the
+second-most frequently accessed website at NIST, after the NIST time
+service, and is used across the country by the IT and cybersecurity
+industry, by cybersecurity tools and scanners, by other nations and by
+computer emergency response teams around the world.
+emerging technologies
+Cryptography
+NIST has fostered the development of cryptographic techniques and
+technology for 50 years through an open process which brings together
+industry, Government, and academia to develop workable approaches to
+cryptographic protection that enable practical security. Our work in
+cryptography has continually evolved to meet the needs of the changing
+IT landscape. As our electronic networks grow increasingly open and
+interconnected, it is crucial to have strong, trusted cryptographic
+standards and guidelines, algorithms, and encryption methods that
+provide a foundation for e-commerce transactions, mobile device
+conversations, and other exchanges of data. NIST has several
+cryptography efforts, but one worth highlighting today, will be the
+difficult and long transition to ensure our systems and data remain
+encrypted when quantum computing becomes a reality. If large-scale
+quantum computers are ever built, they will be able to break many of
+the public-key cryptosystems currently in use. This would seriously
+compromise the confidentiality and integrity of digital communications
+on the internet and elsewhere. The goal of post-quantum cryptography
+(also called quantum-resistant cryptography) is to develop
+cryptographic systems that are secure against both quantum and
+classical computers, and can interoperate with existing communications
+protocols and networks.
+Motivated by these considerations, NIST is in the process of
+selecting public-key (quantum-resistant) cryptographic algorithms
+through a public, competition-like process. The intent is for new
+public-key cryptography standards to specify one or more additional un-
+Classified, publicly-disclosed digital signature, public-key
+encryption, and key-establishment algorithms that are available world-
+wide and capable of protecting sensitive Government information well
+into the foreseeable future, including after the advent of quantum
+computers.
+In parallel, NIST has launched a project in collaboration with
+industry and Government partners at its National Cybersecurity Center
+of Excellence (NCCoE) to develop practices to help agencies and other
+organizations prepare now for future cryptographic algorithm
+transitions. Established in 2012, the NCCoE is a collaborative hub
+where industry organizations, Government agencies, and academic
+institutions work together to address businesses' most pressing
+cybersecurity issues. This public-private partnership enables the
+creation of practical cybersecurity solutions for specific industries,
+as well as for broad, cross-sector technology challenges. This project
+will help agencies and other organizations prepare now for migration to
+post-quantum cryptographic algorithms and plan for the replacement of
+hardware, software, and services that use public-key algorithms now so
+that information is protected from future attacks.
+Cybersecurity for the Internet of Things (IoT)
+The rapid proliferation of internet-connected devices and rise of
+the IoT come with great anticipation. Connected devices bring the
+promise of enhanced business efficiencies and increased customer
+satisfaction. IoT devices could include wearable fitness trackers,
+``smart'' televisions, wireless infusion pumps, and cars--among many
+others. Internet-connected devices generally sense, collect, process,
+and transmit a wide array of data, ranging from consumer personally
+identifiable information to proprietary company data to infrastructure
+data used to make critical real-time decisions or to effect a change in
+the physical world. Just as there are a variety of new uses, the IoT
+ecosystem's nature brings new security considerations.
+NIST's Cybersecurity for IoT program conducts research and produces
+guidelines to help device manufacturers and users understand and manage
+risk of IoT devices in their operating environments. NIST provides
+guidance for manufacturers and their supporting third parties as they
+conceive, design, develop, test, sell, and support IoT devices across
+their spectrum of customers.
+The IoT Cybersecurity Improvement Act of 2020 requires NIST to
+provide guidance for Federal agencies on ``the appropriate use and
+management by agencies of [IoT] devices'' connected to information
+systems. NIST has issued IoT-specific guidance for Federal
+organizations in understanding and defining their IoT cybersecurity
+requirements, including the role of IoT devices as elements of Federal
+systems and provides guidance for addressing the unique risks such
+devices can present. This guidance includes a collection of technical
+and non-technical cybersecurity controls defining a broad range of IoT
+device capabilities and supporting non-technical actions that an agency
+can apply in documenting their IoT cybersecurity requirements.
+Artificial Intelligence
+Cross-cutting technologies like artificial intelligence (AI) that
+increasingly affect so many dimensions of our lives raise a number of
+new and unique cybersecurity challenges. With the advent of AI and
+machine learning, today's machines are engineered for complex decision
+making that historically only people could handle.
+Trust is key to realizing the full promise of artificial
+intelligence (AI) as a tool to enable innovation, enhance economic
+security, and improve our quality of life. To help build that trust,
+NIST is developing the AI Risk Management Framework to provide guidance
+on better managing risks to individuals, organizations, and society
+associated with AI. The framework adopts a ``rights-preserving
+approach'' to AI, putting the protection of individual rights at the
+forefront of AI development and use. NIST released the first draft of
+this framework for public comments in March. The AI RMF outlines a
+process to address traditional technical measures of accuracy,
+robustness, resilience, and reliability. It also acknowledges that
+sociotechnical characteristics of the system--characteristics such as
+privacy, interpretability, safety and bias, which are inextricably tied
+to human and social behavior--are equally important when evaluating the
+overall risk of a system.
+As a first step on a long road to responsible AI development, NIST
+has recently produced guidance to help identify and manage AI bias.
+This work underlines that a complete understanding of bias must take
+into account both human and systemic biases.
+NIST has a long history of devising appropriate metrics,
+measurement tools, and challenge problems to support technology
+development. These evaluations strengthen research communities,
+establish research methodology, and facilitate technology transfer.
+NIST is looking to bring these benefits of community evaluations to
+bear on the problem of constructing trustworthy AI systems. These
+evaluations will begin with community input to identify potential harms
+of selected AI technologies in context, and the data requirements for
+AI trust evaluations.
+conclusion
+Advancing cybersecurity research and standards that ensure a
+secure, private, and interoperable digital economy is a significant
+priority for NIST. Our economy is increasingly global, complex, and
+interconnected. It is characterized by rapid advances in technology.
+The timely availability of international cybersecurity standards and
+guidance is a dynamic and critical component to ensure the
+cybersecurity and resilience of such advances in technology. With
+robust collaboration with stakeholders across Government, industry,
+international bodies, and academia, NIST aims to cultivate trust and
+foster an environment that enables innovation on a global scale.
+Cybersecurity challenges, and the supply chain software security
+challenges discussed today, are a complex issue. Cybersecurity must be
+considered alongside all other types of risks addressed by
+organizations and by leadership at the most senior level. NIST is
+committed to ensuring that organizations have the guidance and tools to
+do so.
+My staff at NIST are some of the top cybersecurity and standards
+experts in the world. Working with our partners in other Federal
+agencies, such as OMB and CISA, the private sector, academia, and other
+allied countries, and with the support of Congress, we will work
+tirelessly to address current and future cybersecurity challenges.
+Thank you for the opportunity to present on NIST activities to
+improve Federal Network Cybersecurity through implementation of
+Executive Order 14028. I look forward to your questions.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairwoman Clarke. We thank you for your testimony here
+today. Finally, let me apologize, and recognize Mr. Shive to
+summarize his statement for 5 minutes.
+
+STATEMENT OF DAVID SHIVE, CHIEF INFORMATION OFFICER, GENERAL
+SERVICES ADMINISTRATION
+
+Mr. Shive. Thank you, Chairwoman Clarke, Ranking Member
+Garbarino, and Members of the subcommittee. My name is David
+Shive, and I am the chief information officer at the U.S.
+General Services Administration. I am pleased to be here today
+to discuss the important role and impact of Federal network
+security and the role that plays for GSA and the larger Federal
+Government. The Executive Order on Improving the Nation's
+Cybersecurity has laid out a clear vision for cybersecurity
+through a targeted focus on improving the Federal Government's
+ability to identify, deter, protect, detect, and respond. The
+Executive Order is wide-ranging and outlines the standards and
+requirements that Federal organizations will take to ensure
+cyber resiliency.
+Among the numerous key activities is the adoption of zero
+trust. At GSA, we have transformed our cybersecurity strategy
+to a zero trust strategy that aligns with the administration's
+goals. We have worked collaboratively in partnership with our
+colleagues at the Office of Management and Budget, the
+Cybersecurity and Infrastructure Security Agency, the Office of
+the National Cyber Director, and the National Institute of
+Standards and Technology, to leverage best practices and the
+sharing of information. Zero trust is not a panacea. It is not
+a singular solution either. Zero trust presents an opportunity
+for an important pivot that requires a multi-year approach and
+sustained financial investment that builds on the existing
+cybersecurity principles of least privilege and layered
+defense, made possible by advances in technology that make it
+more readily achievable today.
+For the past few years, GSA has been working to modernize
+technology to protect against cyber threats and deliver a
+better digital experience for the American people. We are
+committed to realizing the promise of these innovations in the
+most simple and secure way possible, balancing cybersecurity
+with customer experience. My organization has been working to
+enhance the security of our underlying systems, making
+available more secure authentication options, moving beyond
+simple user IDs and passwords, to uniquely log in to systems.
+We have implemented rigorous cybersecurity and privacy
+requirements, independent assessment and authorization, and on-
+going security monitoring. We have also focused on encryption
+to ensure our information is secure in transit from web
+browsers to sites, and in the back-end databases where our data
+is stored. We are evolving from the traditional perimeter-
+based, compliance-oriented model to a zero trust architecture
+that considers resources as fundamentally untrusted. With zero
+trust, we seek to verify everything and anything attempting
+access and verify that access continually.
+In 2021, GSA received $29.8 million investments from the
+Technology Modernization Fund to modernize legacy network
+systems and advance our zero trust architecture strategy. We
+are focusing that funding on three zero trust building blocks:
+Users and devices, networks, and enhanced security operations
+center capabilities, expanding it to also cover our Government-
+wide shared services like Data.gov, Cloud.gov, Login.gov, and
+Max.gov.
+We are also accelerating our adoption of secure cloud
+services, leveraging modern cloud services to improve
+cybersecurity and user experience. We continue to support the
+FedRAMP program, which provides a standardized approach to
+security authorizations for cloud authorizations.
+By implementing these modernization efforts, GSA will
+improve cybersecurity capabilities to continually verify the
+security of users, devices, applications, and data, as well as
+to achieve broad-based visibility across the GSA ecosystem with
+enhanced capabilities leveraging automation to manage and
+respond to threats in real time.
+GSA will also improve user experience through seamless
+connection to GSA-managed environments and applications while
+maintaining zero trust principles. The security of Federal
+systems is paramount. This is truer today than at any time
+before.
+We are at an age where increasingly connected and where the
+cybersecurity threat landscape is heightened. As a Nation, we
+face persistent and increasingly sophisticated malicious cyber
+campaigns that threaten all of us, the public sector, private
+sector, and the security and privacy of the American people.
+These threats have evolved from basic hacking and denial-
+of-service operations seeking to disrupt mission delivery, to
+more sophisticated nation-state sponsored threats targeting
+critical infrastructure that seek to use cyber as an asymmetric
+tool of broader warfare.
+All organizations can be vulnerable if they do not take
+appropriate steps to plan for and avoid cyber attack. We have
+no choice but to evolve.
+As the last few years have shown, traditional approaches to
+cyber and network defense are no longer commensurate with the
+threats we face as a Government. We need to raise the security
+bar, integrating zero trust concepts into everything we do in
+IT, security, and assurance levels, which also necessarily
+includes sustained funding.
+Thanks for the opportunity to appear before you today to
+discuss Federal information security and its important role in
+the Government. I look forward to answering any questions you
+have.
+[The prepared statement of Mr. Shive follows:]
+Prepared Statement of David Shive
+May 17, 2022
+Chairwoman Clarke, Ranking Member Garbarino, and Members of the
+committee, my name is David Shive, and I am the chief information
+officer at the U.S. General Services Administration (GSA). I am pleased
+to be here today to discuss the important role and impact that Federal
+Network Security plays for GSA and the larger Federal Government.
+executive order on improving the nation's cybersecurity
+The Executive Order on Improving the Nation's Cybersecurity has
+laid out a clear vision for cybersecurity through a targeted focus on
+improving the Federal Government's ability to identify, deter, protect,
+detect, and respond. The Executive Order is wide-ranging, and outlines
+standards and requirements that Federal organizations will take to
+ensure cyber resiliency. Among the numerous key activities is the
+adoption of zero trust. At GSA, we have transformed our cybersecurity
+strategy to a zero trust strategy that aligns with the administration's
+goals. We have worked collaboratively in partnership with our
+colleagues at the Office of Management and Budget, the Cybersecurity
+and Infrastructure Security Agency, the Office of the National Cyber
+Director, and the National Institute of Standards and Technology, to
+leverage best practices and sharing of information.
+Zero trust is not a panacea. It is not a singular solution either.
+Zero trust presents an opportunity for an important pivot and requires
+a multi-year approach and sustained financial investment that builds on
+the existing cybersecurity principles of least privilege and layered
+defense, made possible by advances in technology that make it more
+readily achievable today.
+advancing zero trust
+GSA's mission is to deliver the best value in real estate,
+acquisition, and technology services to the Government and the American
+people. Our priorities are to deliver superior service and savings,
+serve our customers, expand opportunities for small business, make
+Government more sustainable, and be a leader in innovation.
+For the past few years, GSA has been working to modernize
+technology to protect against cyber threats and deliver a better
+digital experience for the American people. We are committed to
+realizing the promise of these innovations in the most simple and
+secure way possible, balancing cybersecurity with customer experience.
+My organization has been working to enhance the security of our
+underlying systems, making available more secure authentication options
+to identify and authenticate people with Multi-Factor Authentication,
+moving beyond simple User ID and Passwords to uniquely log on to the
+systems. To ensure continued security and resiliency of the underlying
+information systems we depend on, we have implemented rigorous
+cybersecurity and privacy requirements, independent assessment and
+authorization, and on-going security monitoring. We have also focused
+on encryption to ensure our information is secure in transit from web
+browsers to sites, and in the back-end databases where our data is
+stored.
+We are evolving from the traditional perimeter-based, compliance-
+oriented model to a zero trust architecture that considers resources as
+fundamentally untrusted. With zero trust, we seek to verify everything
+and anything attempting access and verifying that access continually.
+technology modernization
+In 2021, GSA received a $29.8 million investment from the
+Technology Modernization Fund to modernize legacy network systems and
+advance our zero trust architecture strategy. We are focusing the
+funding on three zero trust building blocks: Users and devices,
+networks, and enhanced security operations center capabilities.
+To improve user and devices security, we are modernizing and
+redesigning our legacy directory service, and aligning to an identity,
+credential, and access management (ICAM) capability leveraging cloud-
+based solutions to ensure secure authentication and identity validation
+for GSA staff, customers, and public access.
+For networks, we are breaking down our traditional perimeter-based
+approach in favor of moving security directly to the users, devices,
+applications, and data. We have two key focus areas where we are
+working to achieve micro-segmentation:
+
+Deployment of a Secure Access Service Edge (SASE) technology
+solution that directly connects users everywhere--at home and
+in offices via broadband to a central security stack that then
+achieves secure authentication, validates identities, and
+negotiates access at the application level.
+
+We are also working to achieve micro-segmentation within our
+Building Security Network in 500 GSA Federally-owned buildings
+under GSA's jurisdiction, custody, and control that house
+operational technology and internet-of-things (OT/IOT) devices
+that support the running of our buildings. This is key to
+address the nascent state of security in this area and will
+further our efforts in combating challenges like ransomware
+that target this space.
+Last, we are focused on further modernizing our security operations
+center and expanding it to also cover our Government-wide shared
+services, like Data.gov, Cloud.gov, Login.gov, and Max.gov. Here we
+have invested heavily to achieve reciprocal security for workloads in
+the cloud to that which we have on-premise. To achieve this, we are
+investing in security automation, custom dashboarding, detection
+aligned to application workflows and business functions, and on-going
+curiosity hunting. While TMF funding was critical to allow GSA to begin
+this work, the long-term success of these efforts also requires year-
+over-year, consistent funding to carry out this work.
+By implementing these modernization efforts, GSA will improve
+cybersecurity capabilities to continually verify the security of users,
+devices, applications, and data as well as achieve broad-based
+visibility across the GSA ecosystem with enhanced capabilities
+leveraging automation to manage and respond to threats in real time.
+GSA will also improve user experience through seamless connection to
+GSA-managed environments and applications while maintaining zero trust
+principles.
+While I serve as GSA's CIO, GSA as a whole is committed to this
+work on a Government-wide scale as exemplified, to name just one, in
+GSA's fiscal year 2023 budget request, which includes $300 million for
+the Technology Modernization Fund that could be used by other Federal
+agencies to support their modernization efforts including their
+transition to zero trust.
+cybersecurity outcomes
+The security of Federal systems is paramount. This is truer today
+than at any time before. We are in an age where we are increasingly
+connected and where the cybersecurity threat landscape is heightened.
+As a Nation we face persistent and increasingly sophisticated malicious
+cyber campaigns that threaten all of us--the public sector, private
+sector, and the security and privacy of the American people. These
+threats have evolved from basic hacking and denial-of-service
+operations seeking to disrupt mission delivery, to more sophisticated
+nation-state sponsored threats targeting critical infrastructure that
+seek to use cyber as an asymmetric tool in broader warfare.
+All organizations can be vulnerable if they do not take the
+appropriate steps to plan for and avoid a cyber attack. We have no
+choice but to evolve. As the last few years have shown, traditional
+approaches to cybersecurity and network defense are no longer
+commensurate with the threats we face as a Government. We need to raise
+the security bar, integrating zero trust concepts into everything we do
+at the IT, security, and assurance levels, which also necessarily
+includes sustained funding.
+conclusion
+Thank you for the opportunity to appear before you today to discuss
+Federal Network Security and its important role in the Federal
+Government. I look forward to answering any questions you have.
+
+Chairwoman Clarke. I thank the witnesses for your testimony
+here today. I will remind the subcommittee that we will each
+have 5 minutes to question the panel. I will now recognize
+myself for questions.
+Russia's invasion of the Ukraine has highlighted the
+serious cyber threats we face. In particular, during this
+period of geopolitical conflict, interests from foreign
+adversaries in accessing our Federal agency networks is likely
+to be as high as ever. Mr. DeRusha and Mr. Goldstein, what
+actions has the administration taken to secure Federal agencies
+in response to the threat from Russia in recent months?
+Mr. DeRusha. Well, thank you, Chairwoman, for the question.
+We share a concern. That is why we have been convening Federal
+CIOs and CSOs for conversations around elevated threat levels
+and preparation measures since last November. It is something
+that we have really sustained over that period of time with
+regular communication. I give a lot of kudos to DHS both
+headquarters standing up a unified coordination group to really
+be proactively prepared for anything that could come our way
+and also just the measures that CISA's taking in their Shields
+Up effort. A lot of fantastic resources. Any time they see
+something occurring in Ukraine or elsewhere, they are sharing
+that information with the entire Federal CIO and CSO community
+ensuring that they have that thread of information at their
+fingertips, you know, to prevent any harm that could come our
+way.
+So, you know, it is something that we take seriously. We
+remain in an elevated state and I kind-of offer Eric for
+further comments on that.
+Mr. Goldstein. Certainly, thank you so much. As noted by my
+co-witness, this has been our paramount concern even well
+before Russia's tragic invasion of Ukraine in February. As the
+operational lead for Federal cybersecurity, our focus at CISA
+has been on taking any information that we can glean from our
+partners in the private sector, from our partners operating on
+the ground in Ukraine, computer emergency response teams in
+Eastern Europe, taking that information, distilling it down,
+and then sharing it as quickly as possible with our key
+partners here in the United States, including particularly,
+Federal civilian Executive branch agencies. We have done that
+work through our published advisories, all of which are
+available at our centralized website, CISIA.gov/shieldsup, as
+well as through our focused engagements with Federal agencies
+and partners like OMB and ONCD to ensure that even though we
+have not yet seen the damaging attacks on the homeland that we
+were so concerned about, we remain in this posture of
+heightened risk and focused on sharing information as quickly
+as possible so we can stay ready if those attacks begin to
+manifest.
+Chairwoman Clarke. Fully implanting Executive Order 14028,
+will take time and resources. But with other adversaries
+constantly working to breach Federal networks, it is necessary,
+it is essential that we make progress to shore up our defenses
+now.
+For all of the witnesses, now that it has been a year since
+the Executive Order was signed, how are Federal networks more
+secure today than they were 1 year ago? We will start with you,
+Mr. DeRusha.
+Mr. DeRusha. Absolutely. So, in the Executive Order, we
+took on both root cause issues, which would take longer to, you
+know, to fully address. Contract clauses are real kind-of
+deeper barriers. We also made significant progress on some
+security measures that have immediate impact like multi-factor
+authentication, encryption at rest and in transit. We picked a
+few of these measures that have most impact and have put the
+highest amount of priority you could have around them.
+Metricing them, having engagements with not just CIOs and CSOs,
+but senior agency leadership, multiple meetings with deputy
+secretaries, tracking and measuring progress. Learning about
+their barriers to success, how we can support and work through
+those.
+So, you know, and also just starting on the path of zero
+trust implementation. Agencies have, you know, have not been
+standing still on that. Far from it. They started moving right
+away, reprioritizing resources and investments. So, you know,
+we have got a lot of work ahead, but I really feel very, very
+good about the progress we are making and the path we put
+ourselves on.
+Chairwoman Clarke. Mr. Goldstein.
+Mr. Goldstein. Building on the points from my co-witness.
+If we look from the point of view of CISA as the operational
+lead on the big gaps that we try to address with the Executive
+Order, subsequent to the SolarWinds intrusion, we are making
+tremendous progress across each of them. We are gaining
+extraordinary, centralized visibility into threats and risks
+targeting Federal agencies through expansion of our endpoint
+detection and response capabilities, through maturation of our
+continuous diagnostics and CDM program, a mitigation program,
+or CDM, including by bringing on-line a new CDM dashboard that
+provides never before available visibility into agency risks.
+We are also rolling out new cybersecurity shared services,
+increasing our direct support to Federal agencies so they can
+more effectively meet CISA's directives and OMB guidance, and
+we are working as part of the broader interagency as we push
+this paradigm shift toward zero trust principles, including by
+providing not only guidance, but also hands-on support to help
+agencies make this transition. So, as my co-witness noted, you
+know, this is going to be a journey. We have significant work
+to do, but with support of Congress, we are certainly well on
+our way.
+Chairwoman Clarke. Gentleman, my time has expired but I am
+going to circle back to you. Keep that question in mind. Having
+said that, I now yield to the Ranking Member of the
+subcommittee, Mr. Garbarino.
+Mr. Garbarino. Thank you, Chairwoman. First, I want to
+start with Mr. Shive. In your testimony, you really talked
+about what GSA had done, you know, how it met the requirements
+under the EEO. Can you please share some of your lessons
+learned from meeting those requirements that could be shared
+with less cyber mature Federal agencies to help them catch up?
+Mr. Shive. Yes, thank you for the question. There are a few
+things that agencies can and should do. I will use GSA as the
+example. One, make sure that cybersecurity is baked into every
+business plan that you develop. Cybersecurity done in isolation
+typically yields pretty poor results. No. 2, make sure you are
+attracting topnotch talent. That is a difficult play here in
+the Federal Government, but an important play. Make sure you
+have the right cyber defenders. No. 3, make sure that deep and
+meaningful partnerships are in place so that you can gain the
+value of the larger cyber defense community. A cyber shop that
+tries to implement the tenets of the cyber Executive Order in
+isolation does so at their own peril. But if they leverage the
+value of the larger community, the expertise of the larger
+community, working with NIST, working with CISA, working with
+others they will be able to accelerate the adoption of the
+tenets within cybersecurity. Then the last thing is just get
+started. It doesn't matter if you have to repurpose funds, if
+you repurpose investment dollars, treat this with the
+importance that it deserves.
+Mr. Garbarino. I appreciate that answer and specifically
+since you talked about how both every Federal agency has a
+unique mission, but they all have--they all face similar
+challenges when it comes to cyber. You know, it doesn't just
+end at cyber, but also with limited resources allocated to
+defend against these unlimited cyber attacks. So, how have you
+managed, how has GSA managed to be successful with these
+constrained resources? How could the Federal Government be more
+successful in this regard?
+Mr. Shive. Right. So, the GSA experience, I should be
+clear, we started implanting the tenets of the cyber EO before
+the cyber EO was even a thing. When you look at the basic
+tenets of cyber EO, good encryption, and supply chain risk
+management, and stuff, these are just good cybersecurity
+practices. We, as an agency, recognized the value of many of
+these tenets before it was codified in an Executive Order. And
+started to move out in our pilots and MVPs to assess whether or
+not the theories that are baked into the EO were the things
+that we should be making investments in time and people.
+Another key enabler for the GSA experience is we have had a
+succession of front offices that have seen cybersecurity as a
+key enabler to 21st Century business, and especially 21st
+Century Government business. So, we had a early and head start
+on trying to tackle this big hairy problem.
+The third is we have invested tons of time and energy into
+attracting top-notch talent. We have a difficult challenge
+there. We don't pay the same that the private sector does, but
+we can appeal to public service because that is an important
+mission space and attracts top-notch cyber defenders into the
+organization.
+Mr. Garbarino. I appreciate that answer. I want to switch
+over to Mr. Goldstein, a specific question. Given the continued
+risks associated with the DotGov, how do you balance CISA's
+emphasis on supporting National Critical Functions through the
+private sector, with the work still to be done within the
+Federal agencies?
+Mr. Goldstein. Thank you for that question, sir. Actually,
+you framed it very well in your opening remarks. Across the
+breadth of our cybersecurity mission, we have to take a risk
+and consequence-based approach and also be driven by our
+understanding of the adversary. What are adversaries targeting?
+What are the impacts of a potential intrusion? The National
+Critical Functions, or NCF, provides us a model that
+generalizes across the private sector and Federal agencies. Of
+course, we know that Federal agencies provide essential
+services and store sensitive data that underpin many National
+Critical Functions really across the breadth of our Federal
+Government.
+Within the U.S. Government, we have a program focusing on
+high-value assets, which really is the application of the
+National Critical Functions principles to the services and
+systems managed by Federal agencies. So, at CISA, by taking
+this prioritization approach and applying it across our
+National stakeholder base, that allows us to direct resources,
+information, and guidance toward going to have the greatest
+effect in driving down the most important cybersecurity risks
+to the American people.
+Mr. Garbarino. I appreciate that answer. I had a follow-up,
+but I ran out of time. So, I will yield back to the Chairwoman.
+Chairwoman Clarke. The Chair will now recognize other
+Members for questions they may wish to ask the witnesses. In
+accordance with the guidelines laid out by the Chairman and
+Ranking Member in their February 3 colloquy, I will recognize
+Members in order of seniority alternating between Majority and
+Minority. Members are also reminded to unmute themselves when
+recognized for questioning.
+The Chair recognizes for 5 minutes, the gentleman from
+Rhode Island, Mr. Langevin.
+Mr. Langevin. Thank you, Madam Chair. Can you hear me OK?
+Chairwoman Clarke. Yes, I can.
+Mr. Langevin. Very good. Thank you, Madam Chair. I want to
+thank our witnesses for their testimony today and the
+outstanding work that you are doing to protect our Nation in
+cyber space. Let me begin with Mr. Goldstein, if I could. Mr.
+Goldstein, CISA is currently charged with implementing a
+centrally-located endpoint detection and response initiative
+across the Federal Government. This responsibility becomes
+increasingly important as the Federal Government migrates to a
+zero trust architecture and that the need for greater
+visibility and security of Federal devices and other endpoints
+become even more critical.
+So, in your testimony, you mentioned that more than 15
+agencies now have endpoint detection and response capabilities.
+Can you tell me what the hold-up is with the other agencies why
+they are not as mature or along the way in having this endpoint
+detection and response capabilities yet? What resources can
+Congress provide to accelerate CISA's work with the rest of the
+Federal civilian Executive branch to procure and implement
+endpoint detection and response solutions?
+Mr. Goldstein. Congressman, thank you for that question. As
+ever, thank you for your support on our National cybersecurity
+and CISA, in particular. You know, our program to deploy
+endpoint detection and response capabilities across the Federal
+Government is a great example of Congress and the
+administration working in consort toward a common end.
+Resources provided by Congress in the American Rescue Plan Act
+have been foundational in catalyzing deployment of these
+necessary tools across Federal agencies and President Biden's
+cybersecurity Executive Order took needed steps like for
+requiring agencies to update legal agreements that accelerated
+our access at CISA to necessary endpoint data.
+At this point, we are in the process of deploying these EDR
+tools across 26 Federal civilian agencies and expect to be
+under way at 53 agencies by the end of this fiscal year. Only a
+few short months away. Which means that, you know, not even a
+year-and-a-half after execution of the Executive Order, we will
+have EDR deployments in place or under way at over half of the
+Federal Government with more rolling out in the months to come.
+We have seen great uptake across Federal civilian agencies, but
+the work needs to continue. We look forward to working with
+Congress on annualizing investments under the American Rescue
+Plan Act as part of the fiscal year 2023 President's budget so
+we can ensure that this work continues in the months to come.
+Mr. Langevin. Thank you. So, to be clear, no specific ask
+of Congress right now to help accelerate things?
+Mr. Goldstein. That is correct, sir. The most important
+thing that we can do together is ensure that we have the
+resources as codified in the fiscal year 2023 President's
+budget so we can keep advancing these deployments into the next
+fiscal year.
+Mr. Langevin. Thank you. Then for both Mr. Goldstein or Mr.
+DeRusha, as I mentioned, increasing our visibility Federal
+endpoint is one component of the broader strategy for
+transition Federal agencies to a zero trust model of network
+security. OMB guidance issued earlier this year lays out
+numerous objectives that agencies must complete in that effort.
+Mr. DeRusha or Mr. Goldstein, what metrics will your agencies
+be using to document and track agency adoption of these
+objectives?
+Mr. DeRusha. Absolutely, Congressman. So, in the zero trust
+strategy, we really laid out an ambitious agenda. We followed
+CISA's capability and maturity model and put out actions and
+objectives across identity, devices, network, applications, and
+data. We set key specific targets, many of which we put
+specific deadlines on. So, we are going to be tracking those as
+one success metric. But we also asked agencies to provide us
+with specific tailored implementation plans. We have received
+those now. We are going through them with cross-agency review
+team, including CISA, ONCD, OMB to really make sure that they
+are solid plans. That they are achievable and they have the
+right investment requests behind them.
+So, that is how we are going to track progress. We are
+going to get specific----
+Mr. Langevin. OK.
+Mr. DeRusha [continuing]. With each of these agencies----
+Mr. Langevin. Thank you.
+Mr. DeRusha [continuing]. And hold them----
+Mr. Langevin. All right.
+Mr. DeRusha [continuing]. Accountable to those plans over
+multi-year.
+Mr. Langevin. Thank you. Before my time expires, Mr.
+Goldstein, last fall CISA issued Binding Operational Directive
+2201 creating new requirements for the Federal civilian
+agencies to patch known exploited vulnerabilities within a
+specified time line. How would you assess agency compliance
+with patching time lines as CISA had added new entries to the
+known exploited vulnerabilities database?
+Mr. Goldstein. Madam Chairwoman, may I answer? Thank you.
+Binding Operational Directive 2201, which for the first time
+directed Federal agencies to mitigate vulnerabilities that we
+know to be actively exploited by adversaries in the real world
+has been an extraordinary success story. I say that for two
+reasons. First of all, across the Federal civilian Executive
+branch, we are tracking mitigation of hundreds of thousands of
+vulnerable instances. These are individual pieces of software
+or products with vulnerabilities that we know are being
+exploited in the wild. We have seen extraordinary work to
+mitigate these vulnerabilities.
+At the same time, we have also identified that there is
+actually a small number of vulnerabilities that account for the
+preponderance of unmitigated vulnerabilities, what we call
+residual risk, across the Federal civilian Executive branch,
+therefore allowing agencies to prioritize their resources to
+most effect. But I will also add that this directive has sent
+an extraordinary signal across the broader country. We hear
+from companies big and small across sectors who use our catalog
+of these vulnerabilities to prioritize their own mitigation
+efforts thereby really reducing the attack surface that our
+adversaries are able to exploit not just in Government but
+across the country as a whole.
+Mr. Langevin. Very good. I thank the witnesses and thank
+you, Madam Chair, for the indulgence of the time. Thank you. I
+yield back.
+Chairwoman Clarke. Absolutely. The Chair now recognizes for
+5 minutes, the gentlewoman from Tennessee, Mrs. Harshbarger.
+Mrs. Harshbarger. Thank you, Madam Chair, and I want to
+thank all the witnesses for coming today to testify about
+protecting our Federal networks.
+You know, I read an article last month in Sempre. That is a
+technology company that reviews American infrastructure. They
+released a study finding that certain commercial smart phones
+could resist an electromagnetic pulse, or an EMP, caused by the
+detonation of a nuclear device. I guess this question is for
+Mr. Goldstein. It is three parts. How is CISA evaluating the
+emergence of commercial EMP survivability? The second part is
+how quickly is CISA able to scale commercial EMP survivability
+to harden and enable the National network against EMPs? The
+third part of the question is: What does CISA need to do to
+prepare for a potential response?
+Mr. Goldstein. Great. Thank you for that question, ma'am.
+At CISA, we are certainly concerned about a range of risks,
+natural or human-caused, that could degrade our critical
+infrastructure and National critical functions. Within CISA,
+our National Risk Management Center, or NRMC, is deeply focused
+on understanding how EMP risks could manifest to affect our
+National critical functions and then understanding how critical
+infrastructure can adopt measures in place to reduce the
+likelihood of those risks occurring.
+As part of that work, we work closely both with owners and
+operators of infrastructure that could be impacted, as well as
+with vendors of solutions that may provide technology that
+could be available as solutions. That work continues.
+Certainly, as the state-of-the-art to understand both the
+potential for and impact of EMP risks evolve, we will keep
+working with the broader technology community to ensure that
+the right safeguards are in place to mitigate that risk to
+critical infrastructure across the country.
+Mrs. Harshbarger. Well, Mr. Goldstein, were you aware that
+they had tested that particular technology and they found two
+different phone systems that could take an EMP strike?
+Mr. Goldstein. Ma'am, I am not aware of that particular
+report.
+Mrs. Harshbarger. OK. Without objection, I would like to
+submit the article into the record, Madam Chair.
+Chairwoman Clarke. Certainly, without objection.
+[The information follows:]
+Article Submitted by Hon. Diana Harshbarger
+sempre finds smartphones survive a nuclear emp
+News Provided By SEMPRE, April 6, 2022
+SEMPRE, the technology company created to secure America's critical
+infrastructure, today announced that in the course of testing its new
+secure private 5G and edge solution it discovered, in conjunction with
+Jaxon Engineering, that certain commercial-off-the-shelf smartphones
+were able to resist an electromagnetic pulse (EMP) that can be caused
+by the detonation of a nuclear device. Tested models include the Apple
+iPhone 12 and the Samsung Galaxy S21 Ultra 5G.
+``We know how to keep telecommunication survivable now,'' said
+SEMPRE CEO Brig. Gen. Robert Spalding (USAF ret). ``We've been using
+half the solution every day without realizing it; there's clearly no
+need to build a new smartphone. The other half of the solution is a
+secure EMP-hardened digital infrastructure that will keep our nation
+connected and communicating when it was previously thought
+impossible.''
+General Spalding is a nuclear operations expert and former B-2
+pilot, having served as the Operations Group Commander of the 509th
+Bomb Wing, Whiteman AFB, MO. General Spalding has held senior positions
+in strategy and diplomacy within the Defense and State Departments for
+more than 26 years.
+``Knowing that smartphones like the iPhone and Galaxy will survive
+an EMP opens a lot of possibilities for our military to plan around. Of
+course, it doesn't matter unless we have the telecommunications
+infrastructure that survives as well,'' added General Timothy Ray (USAF
+ret). General Ray is a retired four-star general who last served as
+Commander of Global Strike Command, where he was in charge of all
+nuclear forces. He recently joined SEMPRE as a Strategic Advisor.
+This discovery was made in Colorado Springs by Jaxon Engineering, a
+specialist in EMP shielding for the U.S. Department of Defense and
+other security-focused customers. The tests were being made on the
+latest military-grade data centers manufactured by SEMPRE. The Apple
+iPhone 12 was tested using iOS 14.7.1, while the Samsung Galaxy S21
+Ultra 5G had the Android 11 operating system.
+``We've seen some parts of the U.S. Government take steps to secure
+critical communications infrastructure, but we need our domestic
+commercial infrastructure to show the same military-grade resiliency,''
+said Scott White, CEO of Jaxon Engineering. ``We intend to continue
+testing to get a better understanding of what is and isn't possible for
+these mobile phones in the most extreme conditions.''
+SEMPRE's patent-pending technology is designed for mission-critical
+communications which meet stringent U.S. Government military standards
+(MIL-SPECS) for EMP hardening and resiliency. Designed for use in
+military applications, SEMPRE also ensures that U.S. critical
+infrastructure will survive the most challenging environments. The
+platform and its technology further enable a secure, end-to-end, truly
+private 5G experience, providing ultra-low latency AR and VR and
+superior processing speeds at the farthest reaches of the edge.
+Furthermore, SEMPRE's technology is optimized for advanced AI/ML to
+allow for enhanced military operation for the autonomous battlefield.
+About SEMPRE
+SEMPRE (Secure EMP-Resistant Edge) is a digital infrastructure
+company founded by Brigadier General Robert Spalding (USAF ret) and a
+team of national security and telecom pioneers. SEMPRE provides
+military-grade 5G and high-performance edge computing infrastructure
+for telecom operators, first responders, government and enterprise
+customers. For more information, find us on Twitter, LinkedIn, or visit
+www.sempre.ai.
+
+Mrs. Harshbarger. OK. OK. Well, there were two different
+phones that you don't have to reinvent the wheel. These phones
+were found to--the tested models include the Apple iPhone 12
+and the Samsung Galaxy S21 Ultra 5G. You know, the whole point
+is to keep these telecommunications survivable. If you already
+have a starting point, you don't have to go too far to figure
+out that you can start there and go forward with trying to find
+something and educate the public about this, not only the
+Government, but the public. But, you know, and that begs the
+second part of that question is how quickly can we scale this
+up to harden and enable the National network against EMPs and
+what do we need to do to prepare?
+I guess I have a follow-up question for the whole panel and
+anyone can jump in. Could you elaborate on any interagency
+collaboration you have had in preparation with the evolving EMP
+threat? That is for anybody to answer.
+Mr. Goldstein. Certainly, ma'am. I will offer the risk of
+EMPs remains a very active issue across the Federal Government
+relating both to our National communications systems and our
+Federal agencies. Certainly, this is an area where CISA in our
+role in safeguarding critical infrastructure has a role to
+play. But we certainly depend on the expertise of colleagues
+across the Federal Government and, indeed, the private sector
+to ensure that we are understanding the risk as it may evolve
+and solutions that maybe adoptable or scalable in the future.
+Mrs. Harshbarger. Anybody else want to elaborate on that?
+Well, we know that there was a commission created by Congress
+and it existed for a number of years and they produced many
+detailed reports. Maybe we need to go back and reread those EMP
+Commission reports going forward and put a little more emphasis
+on that particular entity as far as what is going on and what
+the U.S. Government can do to protect us from that. I guess
+with that, Madam Chair, I yield back.
+Chairwoman Clarke. The Chair now recognizes for 5 minutes,
+the gentlewoman from Texas, Ms. Sheila Jackson Lee.
+Ms. Jackson Lee. I thank the Chair. I thank you for this
+very important hearing and witnesses, as well.
+Let me begin quickly. The United States has a limited
+number of incident response and investigative teams capable of
+responding to an attack as sophisticated as SolarWinds. In the
+absence of investigators and incident responders, many
+organizers are flying blind--many organizations. Is the U.S.
+Government and CISA, in particular, able to triage support to
+the Nation's most vital regionally- or Nationally-significant
+assets, mainly such as airports or electric grids? Then,
+secondarily, how confident are you that the most significant
+assets and systems in the United States understand the exposure
+to threats arising from the SolarWinds campaign? Any witness
+can answer that.
+Mr. Goldstein. Certainly, thank you, ma'am. Both great
+questions. On the first, you know, we are deeply conscious of
+the potential for a wide-spread cybersecurity intrusion
+campaign that would stress the resources of CISA and the
+broader cybersecurity community--pardon me--to respond and
+recover. Congress was very thoughtful in anticipating this risk
+and passing the Cyber Response and Recovery Act, which included
+funding for the cyber response and recovery fund that allows
+CISA to fund, for example, private incident responders to
+support victims of intrusions where the U.S. Government's
+resources may be exhausted.
+Now, within the U.S. Government, CISA works closely across
+our partners, including the Defense Department and the U.S.
+Coast Guard, for example, to ensure that we have resources to
+respond when asked, but with resources like the Cyber Response
+and Recovery Fund, we are also able to leverage the resources
+of the private sector to meet demand if our resources are
+exceeded.
+On the second question, ma'am, you know, one of our most
+important efforts at CISA as part of the broader Government
+community, is make sure that we are communicating with
+organizations big and small about their exposure to cyber risks
+like the SolarWinds campaign. You know, many larger and more
+mature organizations certainly understand that risk, but we are
+conscious that, for example, small local governments, small and
+medium businesses, may still not understand that risk. That is
+why at CISA we have regional cybersecurity personnel deployed
+across every State in the country who everyday are knocking on
+doors, physical and virtual, to make sure that organizations
+understand their unique cybersecurity risk and take urgent
+actions in response.
+Ms. Jackson Lee. Let me pursue that and I have two
+questions that I have to get answered quickly. One of them is
+that we know that incident response teams were overwhelmed
+before the SolarWinds campaign by ransomware, business email
+compromises, and other traditional type of cyber attacks. Is
+there any way to get our hands around those traditional attack
+vectors like ransomware to free up our overall incident
+response capacity?
+Mr. Goldstein. Absolutely.
+Ms. Jackson Lee. Who wants to take that question?
+Mr. Goldstein. Yep, absolutely. You know, one of the ways
+that we need to achieve that goal, making sure that we have the
+capacity to respond and recover is, in part, by meeting the
+National cyber work force challenge. The more that we can train
+individuals and organizations, for example, individuals at
+municipal governments, individuals at small and medium
+businesses, to have, you know, some ability to do initial
+analysis and triage, and then help organizations understand
+what are the steps that they should take in the minutes after
+an intrusion occurs, that can have a real impact in minimizing
+the consequences of a cyber intrusion. So, at the end of the
+day, there is a capacity challenge here that we can work
+through, through funding and resources, but there is also an
+education and awareness challenge. Making sure that every
+entity in the country has the skilled and trained work force
+that they need and that reflect the diversity of this country
+to meet an incident if one occurs.
+Ms. Jackson Lee. Thank you.
+Chairwoman Clarke. Excuse me, Congresswoman, I think you
+went on mute. Unmute.
+Ms. Jackson Lee. Not intentionally, sorry. I don't know how
+that occurred. Let me quickly say to Mr. DeRusha, are you
+satisfied with the Federal Government's level of insight about
+the extent to which U.S. critical infrastructure have been
+infiltrated during this campaign? That is the SolarWinds. In
+your opinion, is there anything that could have been improved?
+If critical infrastructure entities were required to report
+major cybersecurity incidents, for instance to CISA, would that
+create better situational awareness? You can sort-of summarize
+those questions. Thank you.
+Mr. DeRusha. Thank you, ma'am.
+Ms. Jackson Lee. Mr. DeRusha.
+Mr. DeRusha. It is absolutely the case that more cyber
+incident reporting by CISA and our partners with essential
+information to help victims and help other potential victims
+before incidents happen. That is why we are so grateful for
+Congress in passing the Cyber Incident and Critical
+Infrastructure Reporting Act recently. We look forward to a
+transparent process to put those rules in effect that will
+require cyber incident reporting to CISA. That is information
+that will be foundational to gain visibility into National
+cybersecurity risks and drive urgent action to reduce those
+risks wherever they manifest.
+Chairwoman Clarke. The gentlelady's----
+Ms. Jackson Lee. Thank you. Do I have any----
+Chairwoman Clarke. The gentlelady's time has expired.
+Ms. Jackson Lee. I yield back.
+Chairwoman Clarke. The Chair recognizes for 5 minutes, the
+gentleman from Georgia, Mr. Clyde.
+Mr. Clyde. Thank you, Chairwoman Clarke and Ranking Member
+Garbarino for holding this important hearing focused on our
+Nation's cybersecurity. In the light of the increased number of
+cyber attacks in recent years and especially considering
+Russia's maligned cyber activities, I think it is more
+important than ever that the United States be proactive in
+advancing our Nation's cybersecurity. I would also like to
+thank each of you for being here. I am glad for work of your
+agencies to develop standardized responses, consistent
+terminology, and modernized approaches to strengthen our
+defenses and protect the United States from bad actors in cyber
+space.
+Last week, the House Committee of Oversight and Reform held
+a mark-up in which we reviewed legislation aimed at
+transitioning to a post-quantum computing cybersecurity system.
+While this particular legislation was brought up without
+knowing the associated cost, and I think associated cost is
+pretty important, I am interested to learn more about U.S.
+preparations for a post-quantum computing scenario. So, Dr.
+Romine, you briefly mentioned quantum computing in your
+testimony so, this question is coming your way, sir.
+From my understanding, NIST is currently developing post-
+quantum cryptography standards and selecting quantum-resistant
+cryptography algorithms. Can you briefly--can you please
+briefly explain the United States' current defensive posture,
+like where we are right now in the event of a large-scale
+quantum computer--if a large-scale quantum computer is built
+and employed against us by an adversary? Where do we stand,
+sir?
+Mr. Romine. Thank you, Congressman, for that question. I
+really appreciate it. NIST has been working for a number of
+years now with the private sector, with cryptographic experts
+around the world, to identify the algorithms that will be
+resistant----
+Mr. Clyde. Mm-hmm.
+Mr. Romine [continuing]. To quantum attack, but also
+resistant to classical attack. We can't forget that.
+Mr. Clyde. Right.
+Mr. Romine. We can't put our defenses down. So, we are
+excited that we are able to leverage, you know, hundreds and
+hundreds of cryptographers around the world and the talents
+associated, as well as those in our Federal work force,
+including those at NIST.
+The expectation is that a cryptographically-relevant
+quantum computer, which is one of a sufficient size----
+Mr. Clyde. Mm-hmm.
+Mr. Romine [continuing]. To crack our current--most of our
+current infrastructure, is still a number of years away. That
+is some solace, but we cannot be complacent. We have to move
+fast,----
+Mr. Clyde. Mm-hmm.
+Mr. Romine [continuing]. Which is why we started a number
+of years ago to do this analysis. I am excited to tell you that
+we are nearing the finish line for the identification of
+multiple algorithms that we judge to be sufficiently strong to
+withstand a cryptographic attack from a quantum computer.
+Mr. Clyde. Thank you. That is good to hear. I look forward
+to hearing more about that. I am going to transition to a
+different topic. I think this question is for you, Mr. DeRusha.
+Will CISA have any role with or--excuse me. Will your agency
+have any role with or relationship to the Homeland Security
+Disinformation Governance Board? This is a board that was
+created within DHS and it has caused great concern with respect
+to First Amendment rights, and I think rightfully so.
+Mr. DeRusha. Congressman, the Office of Management and
+Budget is not currently involved in that.
+Mr. Clyde. OK. All right. So, Mr. Goldstein, this one is
+for you. I would be remiss, as many times as we have seen each
+other, if I didn't ask you a similar question. So, will CISA
+have any role with or relationship to the Homeland Security
+Disinformation Governance Board?
+Mr. Goldstein. Thank you, sir. The board that you mention
+is a DHS body. Respectfully, sir, I will defer questions on the
+board back to the Department.
+Mr. Clyde. OK. The Disinformation Governance Board is a
+prime example, in my opinion, of big Government socialism
+overreach. So, you are saying that CISA will not have any
+connection to, whatsoever, with the Disinformation Governance
+Board?
+Mr. Goldstein. Sir, respectfully, I will defer questions
+back to the Department.
+Mr. Clyde. Well, I am asking about CISA.
+Mr. Goldstein. Sir, CISA shares this committee's concern
+about malicious foreign influence targeting----
+Mr. Clyde. Uh-huh.
+Mr. Goldstein [continuing]. Critical infrastructure,
+including U.S. elections. CISA's role in that particular space
+is to promote National resilience through collaboration and
+partnerships. I will defer questions on the referenced board
+back to our Department.
+Mr. Clyde. All right. I yield back.
+Chairwoman Clarke. The gentleman yields back. The Chair now
+recognizes for 5 minutes, the gentlelady from New York, Miss
+Rice.
+Miss Rice. Thank you, Madam Chair. Mr. Goldstein, as the
+Biden administration works to secure Federal networks and shift
+our cyber posture from reactive to proactive, it is focused on
+developing capabilities for continuously monitoring threats and
+providing real-time visibility into vulnerabilities. To that
+end, the administration has emphasized continuous diagnostic
+and mitigation capabilities to give threat hunters greater
+visibility into agency networks. The administration's Executive
+Order directed agencies to update their memorandum of agreement
+with CISA to ensure object-level data is shared with CISA.
+I would ask you, Mr. Goldstein, if agencies have updated
+their agreements with CISA and has CISA received data necessary
+to gain this critical visibility in Federal networks?
+Mr. Goldstein. Thank you, ma'am. It is a wonderful
+question. I am very glad to report that every agency has
+updated their relevant memorandum of agreement with CISA to
+provide us with, as you noted correctly, object-level data
+through our continuous diagnostic and mitigation dashboards. We
+are now able to access that necessary data, which is so
+critical for us to understand the prevalence of vulnerabilities
+and other risk conditions across Federal agencies and drive
+much more targeted and faster mitigation of risks that may
+emerge.
+Miss Rice. So, then you would also--so, you are confirming
+that, you know, you mentioned the CDM dashboard. To what extent
+are Federal agencies connected?
+Mr. Goldstein. We are in the process of a rather remarkable
+technology improvement across the Federal dashboard, which is
+giving us this object-level data. We are getting more agencies
+onboarded at this point every week. Nearly all large agencies,
+or what we call the CFO Act agencies, are now connected and we
+are getting the smaller and medium agencies connected up as
+each week goes by. This really is the first time that CISA and
+Federal agencies have had this level of visibility and we are
+really excited for how we can use it both operationally and
+also to one of the prior questions, to support our colleagues
+in OMB and the Office of the National Cyber Director in
+understanding and measuring Federal cybersecurity risks.
+Miss Rice. So, you haven't been met with any resistance, I
+would ask, right? It sounds like you have not.
+Mr. Goldstein. We have not. I think agencies really see the
+value in this visibility importantly here. Although CISA gets
+the visibility we need, Federal CIOs and CSOs, like my co-
+witness on this panel, also benefit from this same visibility
+and so, there are really enterprise gains to be had for
+agencies as well as for CISA in our cross-governmental role.
+Miss Rice. So, you know, as you know, Congress provided the
+CDM program with a significant funding increase in the fiscal
+year 2022 omnibus to address specifically the mobile device
+threat landscape across Federal civilian agencies. Mr.
+Goldstein, can you give us a sense of how CISA plans to put
+this fund into use to ramp up mobile device security?
+Mr. Goldstein. Absolutely. This is really a key evolution
+for the CDM program, which historically was really focused on
+the workstations and servers sitting at Federal agencies but,
+of course, we know in this new hybrid even remote first
+universe in which we are living in, a lot of Federal employees
+are really using their mobile devices for a significant volume
+of agency work and processing important information. So, we are
+in the process now of integrating new mobile asset management
+capabilities into the CDM program and expect to make
+significant progress on getting the breadth of Federal agencies
+onboarded to those key tools by the end of this fiscal year.
+Miss Rice. So, just to follow up on a question that Mr.
+Langevin had regarding the EDR technology, are you--is CISA
+focused on deployment, in deploying EDR technology on Federal
+workers' mobile devices or is that rollout still focused more
+on the traditional endpoints you mentioned like laptops,
+desktops, servers, and the like?
+Mr. Goldstein. Principally, our current deployment of EDR
+functions focuses on agency workstations and servers based upon
+our understanding of the adversary threat model. That is what
+is going to allow us to fully implement our authorities to
+conduct persistent hunts across Federal networks. If we look
+back into the SolarWinds intrusion, one of the lessons learned
+was the need to correlate, for example, threat activity that we
+might see at the perimeter of a Federal agency, to something
+happening at a workstation, to something happening in the
+cloud, this EDR visibility is really foundational to giving us
+our ability to connect those dots and detect intrusions far
+more quickly.
+Miss Rice. Thank you very much to all the witnesses and I
+yield back, Madam Chair.
+Chairwoman Clarke. The gentlelady yields back. The Chair
+recognizes for 5 minutes, the gentleman from Kansas, Mr.
+LaTurner.
+Mr. LaTurner. Thank you, Madam Chairwoman. My first
+question is for Mr. Romine. Mr. Romine, can you briefly discuss
+how you are involved in setting information technology
+standards to enable National priorities, especially related to
+cybersecurity?
+Mr. Romine. Thank you for the question, absolutely. By
+statute, NIST has the responsibility to develop guidelines and
+standards documents for the purpose of securing Federal
+networks. We provide those tools to operational entities across
+the Federal Government for their use in managing their own
+cybersecurity risk, cybersecurity and privacy risk. The way
+that we do that is through a engagement with the public and
+private sector. We do that through an open and transparent
+process that ultimately garners the best technical expertise in
+cybersecurity across all aspects of society and we bring that
+information together and ultimately evolve these documents,
+these tools, as a means of providing the necessary mechanisms
+for agencies to improve or establish cybersecurity and privacy
+programs.
+Mr. LaTurner. Do you think--you talked about the
+transparent process, do you think that you have the level of
+participation that you need?
+Mr. Romine. Thank you for the question. We do because NIST
+as a nonregulatory agency, we have cultivated the trust of the
+private sector, the public sector. We have no hidden agenda.
+Our goal is specifically to get the very best technical
+standards developed. For that reason, we get very active
+participation across many different sectors, across
+cybersecurity expertise, privacy experts, civil society. We get
+input from a very large set of stakeholders and for that
+reason, we feel that it is a very effective mechanism to
+develop standards and guidelines for cybersecurity.
+Mr. LaTurner. Thank you. Mr. Shive, can you speak to how
+you collaborate with other Federal agencies? How are you
+interacting with your CIO peers to improve everyone's
+understanding of the threat landscape?
+Mr. Shive. So, we have both formal and informal
+collaboration mechanisms. An example is the Federal CIO
+Council. We meet twice a month to talk about these specific
+issues. Cybersecurity, technology modernization, the plays
+necessary to transform technology use and secure technology in
+the Federal Government. There are also informal connections as
+well. The CIO community is a fraternity of people who are all
+trying to solve many of the same problems. They realize even
+though our business missions are quite different, many of the
+cybersecurity challenges are similar throughout the Federal
+Government. So, we spend a fair amount of time talking amongst
+each other about how we are solving specific and direct
+problems.
+I will give you an example. Dr. Romine's team sets
+standards for cybersecurity that the Federal Government
+follows. They have been very good over the last few years
+instead of only reaching out to industry and academia and
+research entities to help define and derive their standards
+that then the Federal Government employs, they have been very
+good about reaching out to the CIO community to take a look at
+the practical cybersecurity practice that is taking place in
+the field and allowing that to inform standards. So, standards
+are not just academic, they are based on what is actually being
+seen on the ground. Those type of informal collaborations
+derive as much value as those formal collaborations you see in
+places like the Federal CIO Council.
+Mr. LaTurner. I appreciate that. I will stick with you.
+What other areas should ONCD, CISA, and Congress focus on to
+continue to be successful and improve our Nation's
+cybersecurity posture in the face of ever-evolving increasingly
+sophisticated cyber threats?
+Mr. Shive. Great question. Thank you for asking that. Two
+main things jump to mind. The first is as you consider the
+business mission of the Federal Government, consider
+cybersecurity as an integral part of that. So, as you are
+making investment and appropriations decisions on how this
+Government should run, be thinking about cybersecurity
+implications to that.
+The other is the cybersecurity play is a multi-year play.
+The Government is not often funded in a multi-year strategy.
+But we as a community, the Legislative and Executive branch,
+need to analyze the risk on a multi-year strategy, make
+investments in time and people and money in a multi-year
+strategy. That would be a bit gamechanger for us.
+Mr. LaTurner. Thank you for your answer. Madam Chairwoman,
+I yield back.
+Chairwoman Clarke. The gentleman yields. The Chair now
+recognizes for 5 minutes the Vice Chair of the committee,
+gentleman from New York, Mr. Torres.
+Mr. Torres. Thank you, Madam Chair. In the wake of
+SolarWinds, President Biden issued Executive Order 14028
+requiring all agencies to either implement multi-factor
+authentication by November or provide a reason for failing to
+do so. In January, Chair Clarke and I sent a letter seeking an
+update on the full extent of agency compliance with the MFA
+mandate. Director Easterly replied, despite November deadline
+set by the President, only 13 Federal agencies and one CFO
+agency reported compliance with the MFA mandate. In the same
+letter, Director Easterly promised us that almost all agencies
+that could implement MFA would do so by mid-March. So, my first
+question to Mr. Goldstein, has that promise been kept?
+Mr. Goldstein. Thank you for that question, sir. The
+Executive Order, as you note, drove extraordinary progress in
+foundational security controls, including MFA and encryption.
+We have seen agencies invest significant amounts and make
+significant progress in deploying MFA wherever possible and
+encrypting data both in transit and at rest. Now, we know that
+given the significant breadth of legacy outdated IT
+infrastructure across Federal agencies, at times deploying
+modern security controls can be challenging----
+Mr. Torres. Sure, but I just want to interject. When
+Director Easterly replied to our letter, she certainly was
+aware of the obsolescence of technology. Even then, she said
+that almost all the agencies with the capacity to implement MFA
+would do so by mid-March. So, has that promise been kept? It is
+either yes or no.
+Mr. Goldstein. Yes, sir. So, I would say every agency with
+the capacity to deploy MFA and encryption has done so in almost
+all cases. I am very glad to take a question for the record and
+provide further data on the progress across agencies toward
+that goal.
+Mr. Torres. Do you have a number?
+Mr. Goldstein. I don't, sir.
+Mr. Torres. A number of agencies?
+Mr. Goldstein. I don't, sir.
+Mr. Torres. OK. The President's Executive Order founded the
+Cyber Safety Review Board for the purpose of conducting a
+review of the SolarWinds compromise. To Mr. Goldstein or Mr.
+DeRusha, has the Cyber Safety Review Board undertaken review of
+the SolarWinds breach?
+Mr. DeRusha. So, I will answer that as actually a board
+member. So, the board has taken on its first review and that is
+absolutely a piece of the focus in the board's review. However,
+we are also focused on the Log4j vulnerability event and
+ensuring that we are learning critical lessons from that event
+because of its drastic impact.
+Mr. Torres. So, you have conducted a review of SolarWinds.
+Mr. DeRusha. Sir, that is part of the Cyber Safety Review
+Board's first review.
+Mr. Torres. OK. So, and when is the--what is the time line
+for the completion of the review?
+Mr. DeRusha. So, the board's report is due to the Secretary
+of Homeland Security at the end of May. Then there is a 30-day
+period for review by the Secretary for submission to the
+President after that.
+Mr. Torres. The SolarWinds breach revealed the inadequacies
+of the Einstein program, which as I understand it lacks the
+capacity to detect anomalous network behaviors. Mr. Goldstein,
+what is the time line for modernizing Einstein and equipping it
+with the capacity to detect novel threats?
+Mr. Goldstein. Thank you for that question, sir.
+Modernization of Einstein is under way now. Our philosophy to
+secure the Federal civilian Executive branch and make dramatic
+progress toward detecting previously unknown or unseen threats
+is to move beyond the perimeter or network focus of the legacy
+Einstein system and focus really in three areas. First, getting
+visibility into the endpoint level, the servers and
+workstations where agencies do their work. As noted previously,
+that work is well under way with more than half of agencies to
+be progressing by the end of the year. Second, to gain
+visibility into cloud environments for the ability to hunt
+through and aggregate logs. Then third, to your question, sir,
+modernizing the perimeter defenses that we deploy, including by
+moving more toward commercial shared services. As one example
+of that we are now providing----
+Mr. Torres. My question was about the time line. So, what
+is the time line?
+Mr. Goldstein. Yes.
+Mr. Torres. Do we have a time line for--if you have none,
+then I can move on to my next question.
+Mr. Goldstein. The timing is happening now, sir. We are
+actively moving agencies to more modern shared services and
+that progression is going to occur throughout future fiscal
+years.
+Mr. Torres. In the House, I passed legislation requiring
+DHS to adopt a software bill of materials, SBOM. Should there
+be an SBOM mandate to which every agency is subject? What are
+your thoughts on that, Mr. Goldstein?
+Mr. Goldstein. Sir, at this point, there is urgent work to
+be done across the National and, indeed, global cybersecurity
+community to get to a point where we have an approach to
+software bill of materials that is automated and interoperable.
+That is work that CISA is helping to drive under the auspices
+of a broader effort focused on software security for the
+broader community. At this point, that foundational work is a
+prerequisite to a mandate being effective in achieving the
+change that we collectively want to advance.
+Mr. Torres. My time has expired, so.
+Chairwoman Clarke. I thank our Vice Chair for his
+questioning. I want to use the Chair's prerogative to circle
+back to Dr. Romine and Mr. Shive on a question I raised--I
+posed earlier. It is about fully implementing the Executive
+Order 14028. Then we know that it will time and resource, but
+with our adversaries constantly working to breach Federal
+networks, it is essential that we make progress to shore up our
+defenses now. So, my question to both of you, now that it has
+been a year since the Executive Order was signed, how are
+Federal networks more secure today than they were 1 year ago?
+Dr. Romine.
+Mr. Romine. Thank you for the question, ma'am. NIST is not
+an operational agency, and----
+Chairwoman Clarke. OK.
+Mr. Romine [continuing]. Therefore, we don't really have
+insight into the current stance of Federal networks at other
+Federal agencies other than in conversations with our peers.
+But I will say this, that because the Executive Order shined a
+spotlight, a critical spotlight on this issue and provided a
+set of actionable things that could be taken, steps that could
+be taken, and because as CISA pointed out, they have achieved
+all of their milestones in the first year, I am happy to report
+that NIST achieved all of our milestones. I think we had a
+dozen of them in the first year as well. Some of those were
+interdependent. We worked collaboratively to make sure that
+those things happened. I am confident that the hard work is now
+beginning on rolling out the effect of the Executive Order to
+the rest of the agencies and the improvement will continue over
+the next year.
+Chairwoman Clarke. Mr. Shive.
+Mr. Shive. I can talk about the GSA experience. The ways
+that we are more secure now than we were a year ago are we now
+have the ability to assess endpoints with granular visibility.
+That is not just laptops and servers. That is extensible out to
+cell phones and operational technology devices, otherwise known
+as the internet of things. We have expanded that ability to
+have granular visibility into the form function in action of
+those devices that we didn't have a year ago.
+We have increased our presence. We already had nearly
+ubiquitous multi-factor authentication running in the agency,
+but we have employed multi-factor authentication that has deep
+and meaningful user experience positive outcomes. So, it is
+easier for our users to use that. So, they are not inclined to
+try to find other ways to get into our systems.
+We have much deeper encryption throughout our enterprise.
+Everything out in the cloud, everything outside of the walls of
+GSA has been encrypted for years. But we have even encrypted
+most of our internal infrastructure. This is, and most
+importantly, we have visibility about not only the user
+actions, but the system actions running across our networks.
+That visibility is giving us the ability to take a look at how
+well things are patched and updated. How well people are using
+systems and we are giving people access to systems based on
+where they are at that moment and who they are and what they
+are trying to do in that moment. But also increasingly, we have
+the ability to extend that out to non-user-based devices, which
+represent a significant threat vector for nation-state
+adversaries.
+Chairwoman Clarke. Very well. I want to thank our witnesses
+for your valuable testimony and the Members of the committee,
+of the subcommittee for their questions. The Members of the
+subcommittee may have additional questions for each witness and
+we ask that you respond expeditiously in writing to those
+questions.
+The Chair reminds Members that the subcommittee record will
+remain open for 10 business days. Without objection, you are
+off the hotseat. The subcommittee stands adjourned.
+[Whereupon, at 3:45 p.m., the subcommittee was adjourned.]
+
+A P P E N D I X
+
+----------
+
+Questions From Chairman Bennie G. Thompson for Christopher J. DeRusha
+Question 1. Many small businesses serve as critical vendors for the
+Federal Government, but they may lack the cybersecurity expertise of
+larger companies. It is important that we improve our supply chain
+security while supporting small businesses as they implement new
+mandates.
+As the EO's new supply chain requirements are implemented, what are
+the administration's plans for supporting small business vendors as
+they seek to meet heightened standards?
+Answer. Response was not received at the time of publication.
+Question 2. During the Federal investigation into the SolarWinds
+intrusion, we learned that disparities in logging practices across
+agencies hindered the investigation and response. Accordingly, the
+Executive Order created new logging requirements for Federal agencies,
+and OMB released a new directive for agencies last summer.
+What is the status of agency compliance with the new logging
+requirements? What are the anticipated costs of improved logging,
+considering at times cloud service vendors have charged extra for
+certain event logging data?
+Answer. Response was not received at the time of publication.
+Question 3a. President Biden signed Executive Order 14028 in May of
+last year, before the Senate confirmed the first National Cyber
+Director, Chris Inglis. Accordingly, the EO does not specify the
+National Cyber Director's role in EO implementation, and instead gives
+the National Security Advisor a key role in implementing certain
+aspects of EO 14028. Additionally, it is my understanding that while
+the EO contemplated in Section 11(a) a possible modification of the EO
+to incorporate the National Cyber Director, no such modification has
+occurred.
+Considering the National Cyber Director's statutory
+responsibilities for coordinating cybersecurity strategy, how has the
+office been engaged in coordinating the EO's implementation?
+Answer. Response was not received at the time of publication.
+Question 3b. Is the administration considering any changes to EO
+14028 that would more clearly delineate ONCD's role, or are such
+modifications unnecessary?
+Answer. Response was not received at the time of publication.
+Questions From Hon. Yvette D. Clarke for Christopher J. DeRusha
+Question 1. In March, President Biden signed my legislation, the
+Cyber Incident Reporting for Critical Infrastructure Act, as part of
+the omnibus appropriations bill. This new law directs CISA to undergo a
+rulemaking process to impose new mandatory cyber incident reporting
+requirements on critical infrastructure owners and operators. The
+Executive Order similarly imposes incident reporting requirements on
+Federal contractors, which the FAR Council is working to implement.
+As you work to implement cyber incident reporting, how do you plan
+to ensure that new regulations are aligned with incident reporting
+rules for Federal contractors?
+Answer. Response was not received at the time of publication.
+Question 2. Executive Order 14028 established a new Cyber Safety
+Review Board (CSRB), a public-private panel of Federal officials and
+private-sector experts who would investigate significant cyber
+incidents, similar to the National Transportation Safety Board (NTSB).
+However, the Executive Order did not grant this new Board authority to,
+for instance, subpoena information from private-sector victims of cyber
+attacks or take other actions necessary for a fulsome investigation of
+cyber incidents on private networks.
+What additional authorities should Congress consider if it wants to
+strengthen the Board's investigative capacity?
+Answer. Response was not received at the time of publication.
+Questions From Chairman Bennie G. Thompson for Eric Goldstein
+Question 1a. The SolarWinds attack exposed the cybersecurity risk
+posed by unguarded network access management.
+How would you assess the effectiveness of the capabilities being
+rolled out by CISA to Federal agencies to address this critical gap?
+What steps are you taking or are going to take to increase their
+effectiveness?
+Answer. Response was not received at the time of publication.
+Question 1b. Are you adequately resourced with both staffing and
+funding to implement access management protection programs for Federal
+agencies?
+Answer. Response was not received at the time of publication.
+Question 2a. As the administration implements the Executive Order's
+enhanced supply chain requirements, agencies have been directed to
+adopt the Secure Software Development Framework (SSDF), which is
+organized around four practices.
+To what extent does the CISA's services to Federal civilian
+agencies support implementation of the four practices of the SSDF?
+Please explain how CISA's services align with each of the four
+practices.
+Answer. Response was not received at the time of publication.
+Question 2b. Some services such as scanning and on-site assessments
+mirror suggested Federal best practices. To what extent can a service
+such as Critical Product Evaluation be made mandatory either as a CISA-
+provided service or by a Federal agency following the processes? How
+portable are the processes and tools for use by others?
+Answer. Response was not received at the time of publication.
+Question From Hon. Yvette D. Clarke for Eric Goldstein
+Question. In March, President Biden signed my legislation, the
+Cyber Incident Reporting for Critical Infrastructure Act, as part of
+the omnibus appropriations bill. This new law directs CISA to undergo a
+rulemaking process to impose new mandatory cyber incident reporting
+requirements on critical infrastructure owners and operators. The
+Executive Order similarly imposes incident reporting requirements on
+Federal contractors, which the FAR Council is working to implement.
+As you work to implement cyber incident reporting, how do you plan
+to ensure that new regulations are aligned with incident reporting
+rules for Federal contractors?
+Answer. Response was not received at the time of publication.
+Questions From Chairman Bennie G. Thompson for Charles H. Romine
+Question 1. Many small businesses serve as critical vendors for the
+Federal Government, but they may lack the cybersecurity expertise of
+larger companies. It is important that we improve our supply chain
+security while supporting small businesses as they implement new
+mandates.
+As NIST has undertaken its work under the EO, how has it consulted
+with small businesses?
+Answer. Response was not received at the time of publication.
+Question 2a. As we work to strengthen the security of our software
+supply chain, it is critically important that we gain a better
+understanding of software components. Therefore, implementing software
+bills of materials (SBOM) is an essential part of this effort, which
+the Executive Order correctly recognizes.
+Based on NIST's work on SBOM, to what extent are agencies capable
+of leveraging these emerging cybersecurity practices?
+Answer. Response was not received at the time of publication.
+Question 2b. What factors should agencies consider as they seek to
+implement SBOM?
+Answer. Response was not received at the time of publication.
+Question From Hon. Andrew Garbarino for David Shive
+Question. We are all concerned about the risk of Chinese
+interference in our information and communications technology (ICT)
+supply chains. Several Government agencies have highlighted the cyber
+risk Chinese companies pose to our critical infrastructure. Yet, I
+believe some of these Chinese companies are still approved vendors to
+the Federal Government. I've now written twice to the Departments of
+Homeland Security (DHS) and Commerce inquiring why we continue to allow
+this known vulnerability into our supply chains, but I have not
+received a clear response.
+How is GSA working with DHS and Commerce to mitigate this known
+cyber vulnerability from our ICT supply chain, especially given the
+supply chain requirements in the EO?
+Answer. Response was not received at the time of publication.
+
+[all]

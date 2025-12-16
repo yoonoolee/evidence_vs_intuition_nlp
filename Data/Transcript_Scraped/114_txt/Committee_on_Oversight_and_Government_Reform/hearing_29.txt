@@ -1,0 +1,1697 @@
+- ENCRYPTION TECHNOLOGY AND POTENTIAL U.S. POLICY RESPONSES
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+ENCRYPTION TECHNOLOGY AND POTENTIAL U.S. POLICY RESPONSES
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+APRIL 29, 2015
+
+__________
+
+Serial No. 114-143
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+_________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+25-879 PDF             WASHINGTON : 2017
+____________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+Internet:bookstore.gpo.gov. Phone:toll free (866)512-1800;DC area (202)512-1800
+Fax:(202) 512-2104 Mail:Stop IDCC,Washington,DC 20402-001
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK, MULVANEY, South Carolina       BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Sean McLaughlin, Chief of Staff
+David Rapallo, Minority Chief of Staff
+Troy Stock, Staff Director, Subcommittee on Information Technology
+Sarah Vance, Staff Assistant
+
+------
+
+Subcommittee on Information Technology
+
+WILL HURD, Texas, Chairman
+BLAKE FARENTHOLD, Texas, Vice Chair  ROBIN L. KELLY, Illinois, Ranking
+MARK WALKER, North Carolina              Member
+ROD BLUM, Iowa                       GERALD E. CONNOLLY, Virginia
+PAUL A. GOSAR, Arizona               TAMMY DUCKWORTH, Illinois
+TED LIEU, California
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on April 29, 2015...................................     1
+
+WITNESSES
+
+Ms. Amy Hess, Executive Assistant Director, Federal Bureau of
+Investigation
+Oral Statement...............................................     4
+Written Statement............................................     7
+Mr. Daniel F. Conley, Suffolk County District Attorney,
+Massachusetts
+Oral Statement...............................................    16
+Written Statement............................................    18
+Mr. Kevin S. Bankston, Policy Director, New America's Open
+Technology Institute
+Oral Statement...............................................    25
+Written Statement............................................    27
+Mr. Jon Potter, President, Application Developers Alliance
+Oral Statement...............................................    43
+Written Statement............................................    45
+Dr. Matt Blaze, Associate Professor, Computer and Information
+Science, School of Engineering and Applied Science, University
+of Pennsylvania                                                    53
+
+ENCRYPTION TECHNOLOGY AND POTENTIAL U.S. POLICY RESPONSES
+
+----------
+
+Wednesday, April 29, 2015
+
+House of Representatives,
+Subcommittee on Information Technology
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:32 p.m., in
+Room 2154, Rayburn House Office Building, Hon. Blake Farenthold
+[chairman of the subcommittee] presiding.
+Present: Representatives Hurd, Farenthold, Walker, Blum,
+Chaffetz, Kelly, Connolly, and Lieu.
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order. Without objection, the chair is authorized to
+declare a recess at any time.
+Good afternoon, everyone. And thanks for attending today's
+hearing. And I appreciate your flexibility with time. Votes
+always come at the inopportune moment.
+In September of last year, Apple and Google, the largest
+mobile device manufacturers in the United States, announced
+that they would implement increased security measures on their
+products in an attempt to strengthen privacy and data security.
+These developments were met with concern from some law
+enforcement entities, such as the FBI, who were worried that
+this increased level of encryption would lead to an inability
+to access data on specific devices and that, despite obtaining
+a warrant, investigatory efforts could be hindered by this.
+As a former CIA officer, I understand and appreciate the
+need and desire for law enforcement to access digital
+information in a timely manner. However, I also understand the
+protections afforded to Americans provided by the Constitution,
+and I have taken an oath two times to protect and defend these
+rights.
+I firmly believe that law enforcement officials must gain
+the trust of the very people they are trying to protect in
+order to be successful, and I remain concerned that a
+government-mandated back or front door on U.S.-based mobile
+device manufacturers might undermine that trust.
+Today's hearing will involve testimony from a variety of
+experts and stakeholders and representatives on ways to balance
+law enforcement needs with privacy and security concerns. The
+hearing will also explore the impact of this debate on domestic
+privacy, American consumers, and U.S. technology manufacturers.
+As technology continues to evolve and encryption
+capabilities become a part of everyday life for all Americans,
+this debate will only grow larger. I believe we can find a way
+to protect the privacy of law-abiding citizens and ensure that
+law enforcement have the tools they need to catch the bad guys.
+I welcome the witnesses and look forward to today's
+discussion.
+Mr. Hurd. I would like to now recognize my friend and the
+ranking member of the subcommittee, Ms. Kelly of Illinois, for
+5 minutes for an opening statement.
+Ms. Kelly. Thank you, Mr. Chairman.
+And thank you to our witnesses for appearing on today's
+panel.
+Recently companies like Apple and Google have announced
+plans to incorporate automatic encryption for their mobile
+devices. Encryption will become the default privacy feature on
+their mobile devices, making their content unreadable and
+inaccessible without the user's selected pass code.
+As a society, we rely on mobile devices to manage and
+protect many aspects of our lives, personal, professional, and
+financial. Privacy on our smartphones is critically important.
+Hackers are concerned, as is unrestricted government
+surveillance.
+According to a May 2014 study on trends in U.S. smartphone
+industry, Android and Apple control 52.1 and 41.9 percent share
+of the market. Their move towards automatic encryption will
+have a significant effect on the industry standard for privacy
+protections.
+The move towards automatic encryption has been criticized
+as seriously hindering law enforcement operations. Criminals,
+like noncriminals, use mobile devices to manage the many
+aspects of their lives, some of which can provide evidence of a
+crime.
+Today many criminal cases have a digital component and law
+enforcement entities increasingly rely on the content of mobile
+devices to further an investigation or prosecution of serious
+crimes of national security threats. The FBI, local law
+enforcement departments, and prosecutors have all expressed
+concern with automatic encryption.
+They envision a number of scenarios in which the inability
+to assess data kept on mobile devices will seriously hinder a
+criminal investigation. They do not want to be in a position to
+tell a victim of a crime or the family of a victim that they
+cannot save someone or prosecute someone because they cannot
+access the content of a mobile device. There is a balance to be
+struck here.
+It is important that the Government's policies approach
+ensures privacy protections and it is important that law
+enforcement, under tightly controlled circumstances, have the
+ability to investigate and prosecute crimes. I look forward to
+today's hearing and your testimony.
+Thank you, Mr. Chairman. I look forward to continue working
+with you to examine policy issues related to advancement and
+information technology.
+I yield back.
+Mr. Hurd. Thank you.
+I am now pleased to recognize Mr. Chaffetz of Utah, the
+chairman of the full committee, for an opening statement.
+Mr. Chaffetz. I thank the chairman.
+And I appreciate your passion on this topic. It affects
+literally every American. It affects people all across the
+world.
+I think one of the great questions that needs to be posed
+to our society and certainly our country as a whole is how to
+find the right balance between personal privacy and national
+security. And I, for one, am not willing to give up every bit
+of privacy in the name of security. So how do we find that
+right balance? It is not easy to find.
+In response to recent moves by Apple and Google mentioned
+by Chairman Hurd, the FBI Director Comey recommended, quote,''a
+regulatory or legislative fix,'' end quote, which would force
+companies to manufacture their mobile devices in such a way
+that law enforcement can access the data on those devices
+without a warrant or court order.
+I have three general concerns about Director Comey's
+proposal:
+First, it is impossible to build just a back door for just
+the good guys, you know, just the good guys can get this. If
+somebody at the genius bar can figure it out, so can the
+nefarious folks in a van down by the river.
+As Alex Stamos, Yahoo's chief information security officer,
+recently explained, all of the best public cryptographers in
+the world would agree that you can't really build back doors in
+crypto. That is like drilling a hole in a windshield.''
+The Commerce Department's National Institute of Standards
+and Technology's chief cybersecurity adviser agreed, saying,
+quote, ``There is no way to do this where you don't have an
+unintentional vulnerability,'' end quote. And I worry about
+those unintentional vulnerabilities.
+We have a wide variety of experts on the panel today to
+help us examine some of the potential economic, privacy,
+security, and geopolitical consequences of introducing a
+vulnerability into the system.
+Second, we already live in what some experts have referred
+to as the, quote, ``golden age of surveillance,'' end quote,
+for law enforcement. Federal, State, and local law enforcement
+never had more tools at their disposal to help detect, prevent,
+and prosecute crime. It seems that we hear every day there is
+new, often-startling stories about the United States
+Government's ability to track its own citizens.
+I recognize technology can be a double-edged sword and many
+pose challenges for law enforcement as well, but we are
+certainly not going to go dark, and in many ways we have never
+been brighter.
+Third, strong encryption prevents crime and is a part of
+the economy. People keep their lives in their mobile phones. A
+typical mobile phone might hold a person's pictures, contacts,
+communications, finance schedule, and much more personal
+information, in addition to my Words with Friends, which is
+critical to my daily sanity.
+If your phone is lost or stolen, you want to know your
+information is protected, and encryption does that. There is a
+reason the world's largest technology companies are
+increasingly developing stronger and more frequently used
+encryption technology. It is not because they are anti-law
+enforcement. On the contrary. It is because sophisticated cyber
+hacks are nearly daily events.
+No one is immune from digital snooping, from the White
+House, to corporate America, to private citizens. The
+opportunity brought to us by the modern technologies are near
+limitless, but not if the system is compromised. Strong
+encryption helps ensure data is secure and allows companies and
+individuals to operate with confidence and trust.
+I look forward to hearing from our witnesses today. But we
+have choices to make. Do we allow the 99 percent of Americans
+who are good, honest, decent, hard-working, patriotic people to
+have encrypted phones or do we need to leave a back door open
+and create vulnerability for all of them?
+Because vulnerability is--it is all or none, folks. It is
+not just a little bit, not just for the good guys. And that is
+why we are having this hearing today. I appreciate Chairman
+Hurd and what he is doing. And I appreciate and thank you all
+for being here as witnesses today.
+I yield back.
+Mr. Hurd. Thank you.
+I am going to hold the record open for 5 legislative days
+for any members who would like to submit a written statement.
+We will now recognize our panel of witnesses.
+I am pleased to welcome Ms. Amy Hess, Executive Assistant
+Director of the Science and Technology Branch at the Federal
+Bureau of Investigation; Mr. Daniel Conley, District Attorney
+of Suffolk County, Massachusetts; Mr. Kevin Bankston, Policy
+Director at New America's Open Technology Institute; Mr. John
+Potter, President of the Application Developers Alliance; and
+Dr. Matthew Blaze, Associate Professor of Computer and
+Information Science of the School of Engineering and Applied
+Science at the University of Pennsylvania. Welcome to all.
+Pursuant to committee rules, all witnesses will be sworn in
+before they testify. So please rise and raise your right hands.
+Do you solemnly swear or affirm that the testimony you are
+about to give will be the truth, the whole truth, and nothing
+but the truth?
+Mr. Hurd. Let the record reflect that all witnesses
+answered in the affirmative. Thank you.
+In order to allow time for discussion, please limit your
+testimony to 5 minutes. Your entire written statement will be
+made part of the record.
+And, Ms. Hess, we will start with you. You are recognized
+for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF AMY S. HESS
+
+Ms. Hess. Thank you. Good afternoon, Chairman Chaffetz,
+Chairman Hurd, Ranking Member Kelly, and members of the
+subcommittee. Thank you for the opportunity to appear here
+today and for your continued support of the men and women of
+the FBI.
+The Bureau has undergone an unprecedented transformation in
+recent years to address and prevent threats to our national
+security and our public safety. But as those threats continue
+to evolve, the FBI must evolve as well. Today's FBI is a
+threat-focused, intelligence-driven organization, and we must
+continuously challenge ourselves to stay ahead of changing
+threats and changing circumstances.
+As you know, technology has forever changed the world we
+live in. Our phones and computers have become reflections of
+our personalities, interests, and our identities. And with that
+comes the need to protect our privacy and our data.
+But technology can be used by some very dangerous people,
+and the FBI has a sworn duty to keep every American safe from
+harm while simultaneously protecting their constitutional
+rights and preserving their civil liberties.
+Moreover, we recognize our national interests in promoting
+innovation and the competitiveness of U.S. companies in the
+global marketplace, as well as freedom of expression around the
+world.
+But the evolution of technology creates new challenges for
+law enforcement. It impacts our ability to access
+communications pursuant to court orders, which means those of
+us charged with protecting the American people aren't always
+able to access the information we need to prosecute criminals
+and prevent terrorism, even though we have the lawful authority
+to do so.
+To be clear, we obtain the proper legal authority to
+intercept and access communications and information, but we
+increasingly lack the technical ability to do so. This problem,
+which we refer to as ``going dark,'' is broader and more
+extensive than just encryption, but for the purposes of today's
+testimony, I will focus on the challenges of the evolving use
+of encryption.
+We encounter encryption in two overlapping contexts. The
+first is legally authorized realtime interception of what we
+call data in motion, such as phone calls, emails, and text
+messages in transit. The second concerns legally authorized
+access to data stored on our devices or what we call data at
+rest.
+First let me address court-ordered interception of data in
+motion. In the past, there were a limited number of
+communication carriers conducting electronic surveillance and
+it was more straightforward. We developed probable cause to
+believe a suspected criminal was using a target phone to commit
+a felony. We then obtained a court order for a wiretap on that
+phone. And under the supervision of a judge, we collected the
+evidence we needed for prosecution.
+Today there are countless providers, networks, and means of
+communicating. We have laptops, smartphones, and tablets. We
+use multiple networks and any number of apps. And so do those
+conspiring to harm us. They use the same devices, the same
+networks, and the same apps to make plans, target victims, and
+concoct alibis. Thousands of companies now provide some form of
+communication service, but most do not have the ability to
+isolate and deliver particular information when urged to do so
+by a court.
+Turning to court-ordered access to data at rest, we know
+that encryption of stored data is not new, but it has become
+increasingly prevalent and sophisticated. And the challenge to
+law enforcement and national security officials has been
+heightened with the advent of default encryption settings and
+stronger encryption standards.
+In the past, the consumer had to decide whether to encrypt
+data stored on his or her device and take action. But with
+today's new operating systems, a device and all of the user's
+information on the device can be encrypted by default. Further,
+companies have developed encryption technology which makes it
+impossible for them to decrypt data on devices they
+manufacture, even when lawfully ordered to do so.
+Although there are certainly good reasons to support these
+new uses of encryption, such decisions regarding system design
+have a tremendous impact on our ability to fight crime and
+bring perpetrators to justice. Like the general population,
+criminals are increasingly storing such information on
+electronic devices and, if these devices are encrypted, the
+information they contain may be unreadable to anyone other than
+the user. The process of obtaining a search warrant authorized
+by a court of law to seek evidence of a crime could be an
+exercise in futility.
+To be clear, we in the FBI support and encourage the use of
+secure networks and sophisticated encryption to prevent cyber
+threats. We know that adversaries will exploit any
+vulnerability they find, but we believe that security risks
+associated with the implementation of lawfully authorized
+access are better addressed by developing solutions during the
+design phase rather than resorting to a patchwork solution
+after the product or service has been deployed.
+Just as we have an obligation to address threats to
+national security and public safety, we likewise have an
+obligation to consider the potential impact of our
+investigations on civil liberties, including the right to
+privacy. We must always act within the confines of the rule of
+law and the safeguards guaranteed by the Constitution.
+We also believe that no one in this country should be
+beyond the law. The notion that a suspected criminal's closet
+could never be opened or his phone could never be unlocked,
+even with properly obtained legal authority, is troubling.
+We will, of course, use every lawfully authorized technique
+we have to protect the citizens we serve, but having to rely on
+those other tools could delay criminal investigations, preclude
+us from identifying victims and coconspirators, risk
+prematurely alerting suspects to our investigative interests,
+and potentially put lives in danger.
+Thank you again for this opportunity to discuss the FBI's
+priorities and the challenges of ``going dark.'' The work we do
+would not be possible without the support of Congress and the
+American people. I look forward to your questions.
+[Prepared statement of Ms. Hess follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Ms. Hess.
+Now we recognize Mr. Conley for 5 minutes.
+
+STATEMENT OF DANIEL F. CONLEY
+
+Mr. Conley. Chairman Hurd, Ranking Member Kelly, and
+members of the subcommittee, my name is Dan Conley, and I'm the
+District Attorney in Boston and a member of the National
+District Attorneys Association, the largest association of
+prosecutors in America. Thank you for the invitation to testify
+today here today on this critical issue.
+Last year, when Apple and Google announced their new
+operating system, they touted that the technology would not
+allow law enforcement, even with a court order, to access
+information on its mobile devices.
+In America, we often say that none of us is above the law.
+But when corporate interests place crucial evidence beyond the
+legitimate reach of our courts, they are, in fact, granting
+those who rape, defraud, assault, or even kill a profound legal
+advantage over victims in society. So I'm here today to ask
+Congress to intervene.
+As a prosecutor, my most important duty is to ensure that
+evidence we present in court is gathered fairly, ethically, and
+legally. If it's not, if a search is improper, a court will
+suppress that evidence and exclude it.
+We, as Americans, enjoy a presumptive right to privacy that
+may only be abridged under clearly defined circumstances, such
+as when there are specific articulable facts that would lead a
+judge to believe that the place to be searched will yield
+evidence of a crime. In decades past, these places were car
+trunks and safety deposit boxes. Today they are mobile devices.
+We undertake those searches to solve crimes. We don't
+wander to Web sites where people visit or aggregate data about
+people's personal health, wealth, or shopping habits. That,
+frankly, is the purview of companies like Apple and Google.
+Their nominal commitment to privacy rights would be far
+more credible if they were forbidding themselves access to
+their customers' interests, search terms, and consumer habits.
+But, as we all know, they are taking full advantage of their
+customers' private data for commercial purposes while building
+an impenetrable barrier around evidence in legitimate court-
+authorized investigations.
+For over 200 years of American jurisprudence, our courts
+have balanced the rights of individuals against society. But,
+in this case, in one fell swoop, Apple and Google have upended
+it. They have created hiding places not merely beyond the reach
+of law enforcement, but beyond the laws that define our Nation.
+Let me give you an idea of what this means in practical
+terms. In every big city, there's a mass transit system and a
+disgraceful practice of snapping photographs up women's skirts
+has taken place. If the offender's phone cannot be searched
+pursuant to a warrant, then the evidence won't be recovered and
+this practice will be an unchargeable crime. This isn't even
+the worst of it.
+Three years ago we were investigating a child pornography
+case. We just thought a teacher was trading child pornography.
+Turns out, after we got a warrant and examined his mobile
+devices, he was not only collecting photographs, he was
+actually abusing children. After a multijurisdictional
+investigation, he's serving 45 years in prison. If those
+devices were encrypted today, he would be free to continue what
+he's doing on our streets.
+Human trafficking and commercial sexual exploitation of
+children is also aided and abetted by the same technology with
+victims, including children, advertised for sale on Web sites
+accessed through handheld devices. With these operating
+systems, those devices would become warrant-proof and the
+evidence they contain unreachable by investigators.
+Now, I don't believe Apple or Google set out to design an
+encryption system to protect human traffickers, but this is the
+result. When we talk about warrant-proof encryption, it is the
+perpetrators of every violent sexual or financial crime in
+which handheld technology is used who benefit. This isn't
+rhetoric. This is reality.
+Like most Americans, I am a customer of these companies and
+I hold my privacy interest dear, and I understand and I
+strongly encourage the use of secure encryption technology to
+prevent hacking, theft, and fraud. And I think most people
+recognize that there must be a balance struck between
+individual's privacy rights and the legitimate interests of our
+society to bring dangerous criminals to account. Apple and
+Google need to recognize this as well.
+I will conclude today by pointing out that, for the past
+several weeks, in Boston and around the country, individuals
+have all been following the trial of one of the individuals who
+was a terrorist in Boston 2 years ago and, through his actions,
+left four people dead and hundreds more grievously injured.
+Cell phone evidence, much of it volunteered by people, but some
+of it obtained by warrant, was critical to understanding what
+happened, how it happened, and who did it.
+Were law enforcement blocked from obtaining that evidence,
+the apprehension of those responsible for the Boston Marathon
+bombings might have been very much in doubt. So, again, I don't
+think Apple or Google intended to create a safe space for
+terrorists to do their deeds. But make no mistake. This is the
+result and those are the stakes.
+I therefore respectfully urge Congress to help us find a
+reasonable, balanced solution that protects privacy while also
+ensuring that there are reasonable means to gain lawful access
+to crucial evidence. I thank you for your time and attention,
+and I look forward to your questions. Thank you.
+[Prepared statement of Mr. Conley follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Conley.
+Now I would like to recognize Mr. Bankston for 5 minutes.
+
+STATEMENT OF KEVIN S. BANKSTON
+
+Mr. Bankston. Thank you, Chairman, Ranking Member Kelly,
+members of the subcommittee.
+District Attorney Conley is absolutely right that
+encryption is one of the most critical law-and-order issues of
+our time. However--and with respect and thanks for his and the
+FBI's work to keep us all safer--he has got it exactly
+backward. Strong encryption is absolutely critical to the
+preservation of law and order in the digital age much more than
+it is a threat to it.
+Some have framed this debate as a choice between safety and
+privacy, but that is a false choice. The debate over whether to
+allow strong encryption without back doors is really a choice
+between safety and safety, a little more safety against some
+isolated crimes or much more safety for many more people
+against countless other concrete criminal and national security
+threats, be they street criminals looking to steal our phones
+and laptops, ID thieves and fraudsters and Russian hackers and
+corporate spies trying to steal our most valuable data, or
+foreign intelligence agencies trying to compromise our most
+sensitive national security secrets.
+The ultimate question isn't what will make law
+enforcement's job easier in some investigations. The ultimate
+question is what will prevent more crime, which will make law
+enforcement's job easier overall and will keep us all safer.
+The answer to that question is more strong encryption, not
+less.
+I won't deny that encrypted devices or end-to-end encrypted
+communications will, in some cases, inconvenience law
+enforcement. Notably, however, the Government has yet to
+provide a single specific example where such encryption has
+posed an insurmountable problem. That's likely because there
+are often a variety of other ways for law enforcement to get
+the evidence that it needs.
+The FBI is concerned that it's ``going dark.'' But, all in
+all, the digital revolution has been an enormous boon to law
+enforcement, what some have called a golden age of
+surveillance.
+More and more of our interactions with others and with the
+world are moving into the digital realm, being quantified and
+recorded, an unprecedented and exponentially growing cache of
+sensitive data about all of us, and most of it available to law
+enforcement.
+Think about the massive archives of private email and
+instant messages and text messages and photos and videos and
+the vast public records of our social network activities, most
+of which didn't exist or weren't available just 15 years ago,
+most of which are stored in the Internet cloud and are easily
+accessible to law enforcement, and much of which is backed up
+from the very same encrypted phones that the Government is
+concerned about.
+Think of all the new metadata revealing when and with whom
+all those messages were exchanged, where and when those photos
+and videos were taken. And think especially about all that new
+location data generated by our cell phones and by our mobile
+apps, creating extensive records of our movements regardless of
+whether those phones are encrypted or not.
+Think about all of that when law enforcement says it is
+going dark. I would counter that, by most measures, they are
+going bright. And in those few cases where they are in the dark
+and they truly need the data on an encrypted device, even then
+there are options.
+They can in many cases ask the Court to compel the owner to
+decrypt the device under threat of contempt or even remotely
+hack into the device over the Internet, a technique that is
+somewhat worrisomely being used more and more often.
+Admittedly, I have some serious constitutional concerns
+about both of those law enforcement techniques, but I am much
+more concerned that, in order to address those rare cases, law
+enforcement seems to want Congress to take steps that would
+undermine everyone's security rather than targeting an
+individual suspect.
+Make no mistake. Attempting to mandate encryption back
+doors will undermine everyone's security, as Professor Blaze
+will testify. That is the unanimous conclusion of every
+technical expert that has spoken publicly on this issue.
+And, as Mr. Potter will make clear, surveillance backdoor
+mandates would also undermine our economic security and prompt
+international customers and many American consumers and even
+many of the bad guys that we're trying to stop to turn away
+from the compromised products and services offered by U.S.
+companies.
+It's true now, just as it was true during the so-called
+crypto wars of the 1990s, weakening encryption is a bad idea.
+That is why a majority of the House of Representatives at the
+time, including four current members of this Oversight
+Committee, including Ranking Member Cummings, co-sponsored
+Chairman Goodlatte's Security and Freedom Through Encryption
+Act, which would have reaffirmed Americans' right to make, use,
+and distribute strong encryption products without back doors.
+That is why a majority of the House just last year voted
+for the Sensenbrenner-Massie-Lofgren Amendment that would have
+prohibited the NSA from demanding or even asking that companies
+weakenthe security of their products. And that is why this
+Congress should similarly reject any short-sighted backdoor
+proposals in favor of preserving our long-term national and
+economic security.
+Thank you very much. And I look forward to your questions,
+in particular, any questions about the 10 specific arguments
+laid out in my written testimony. Thank you.
+[Prepared statement of Mr. Bankston follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Bankston.
+Mr. Potter, 5 minutes.
+
+STATEMENT OF JON POTTER
+
+Mr. Potter. Thank you, Chairman Hurd, Ranking Member Kelly,
+members of the subcommittee.
+The 3-year-old App Developers Alliance includes more than
+200 companies and more than 35,000 individuals worldwide. Thank
+you for inviting me to speak today about the challenges app
+developers and our digital industry partners face if we are
+required to both protect privacy and provide Government with
+privacy-breaching back doors.
+First, it is important to highlight that protecting digital
+data through innovative security-based products is
+unquestionably good for businesses and consumers. In contrast,
+back doors make apps less secure and less trustworthy.
+Second, we must remember that data protection is not only
+about civil liberties and privacy. Encryption prevents
+cybercrime, which threatens fundamental economic interests that
+operate digitally, including health care, transportation,
+banking, and manufacturing. Encryption also prevents identity
+theft, which has been consumers' top complaint to the Federal
+Trade Commission for 15 consecutive years.
+Third, nearly every digital business wants to be global,
+but mandatory government back doors may spark a trade war and
+imprison businesses in their home country.
+Fourth, Government's conflicting messages about data
+protection create uncertainty about business expectations.
+Uncertainty creates risk, inhibits growth and job creation, and
+especially harms startups and small business. Handling customer
+data securely is an essential business commitment. Customers
+worldwide demand this.
+The media routinely report on data breaches and organized
+cybercrime. In response, and strongly encouraged by government
+agencies, including the FBI, developers have prioritized
+security.
+Given the magnitude of cybercrime and of government
+resources committed to fighting it, law enforcement criticism
+of encryption is perplexing. For several years law enforcement
+has routinely encouraged and even required encryption to
+protect sensitive data.
+Until recently, the FBI Web site recommended all
+organizations, quote, ``encrypt data so the hacker can't read
+it,'' end quote. Quizzically, that recommendation was deleted
+from the FBI Web site just a few weeks ago. In contrast, the
+Federal Trade Commission continues to advise that, quote,
+``encryption is the key to securing personal information
+online.''
+Government mixed messages about privacy and security, slow
+product development, inhibit investors, worry customers, and
+harm all companies, especially startups. Every digital business
+opportunity is global. So the worldwide impact of mandatory
+government back doors is important. Unauthorized U.S.
+Government collection of global communications has created
+international outrage and backlash that is already costing
+American companies billions of dollars.
+Mandating back doors that weaken encryption will exacerbate
+global distrust, and we should expect two reactions. First,
+international governments will demand their own security back
+doors. Second, U.S.-based apps will be deemed noncompliant with
+international privacy laws and be locked out of those markets.
+Developers will have to build many versions of apps to
+serve many markets with different law enforcement demands and
+privacy laws or risk being blocked from those markets. Building
+multiple versions of any product increases costs and runs
+contrary to every rule of digital business.
+Additionally, for good reason, some might be concerned if
+other countries or particular countries demand their own back
+doors. If markets become inaccessible to U.S. Apps because of
+mandatory back doors, then a digital trade war could break out.
+The App Developers Alliance membership is global because
+apps create jobs and deliver value globally. Closed markets may
+benefit some of our members in the short term, but the large
+majority of our members recognize that encryption and privacy
+trade war is substantially negative.
+Finally, the basics of technology, security, and privacy
+are critical. Any security opening creates vulnerability. You
+can't build a back door that only the good guys can walk
+through. Hackers know it. The FBI knows it. And increasingly
+customers know it.
+Forced insecurity harms consumers in all industries, but it
+especially harms startups and small innovators because building
+back doors that are only slightly ajar is technically
+challenging and very expensive.
+There are situations that justify law enforcement access to
+our cell phones, to our apps, to the cloud, but there are many
+legal methods to accomplish this with court approval. Congress
+must insist that law enforcement and national security agencies
+utilize these processes. This is fundamental to America's
+civilian government.
+In closing, please remember that encryption technologies
+are a market response to well-founded consumer, commercial, and
+government demand. When an app developer builds a thriving
+business model around security and consumer trust only to be
+told the FBI wants the product to be secure, but not too
+secure, this disrupts the marketplace. It is bad for
+innovation, for business, and for consumers. Thank you.
+[Prepared statement of Mr. Potter follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Potter.
+Dr. Blaze, 5 minutes to you.
+
+STATEMENT OF MATTHEW BLAZE, Ph.D.
+
+Mr. Blaze. Thank you, Mr. Chairman.
+As a technologist, I am finding myself in the very curious
+position of participating in a debate over the desirability of
+something that sounds wonderful, which is a security system
+that can be bypassed by the good guys, but that also reliably
+keeps the bad guys out.
+And we could certainly discuss that. But as a technologist,
+I can't ignore a stark reality, which is simply that it can't
+be done safely. And if we make wishful policies that assume and
+pretend that we can, there will be terrible consequences for
+our economy and for our national security.
+So it would be difficult to overstate today the importance
+of robust, reliable computing and communications to our
+personal, commercial, and national security. Modern computing
+and network technologies are obviously yielding great benefits
+to our society, and we are depending on them to be reliable and
+trustworthy in the same way that we depend on power and water
+and the rest of our critical infrastructure today.
+But, unfortunately, software-based systems, which is the
+foundation on which all of this modern communications
+technology is based, are also notoriously vulnerable to attack
+by criminals and by hostile nation-states.
+Large-scale data breaches, of course, are literally a daily
+occurrence, and this problem is getting worse rather than
+better as we build larger and more complex systems. And it's
+really not an exaggeration to characterize the state of
+software security as an emerging national crisis.
+And the sad truth behind this is that computer science, my
+field, simply does not know how to build complex large-scale
+software that has reliably correct behavior. This is not a new
+problem. It has nothing to do with encryption or modern
+technology.
+It has been the central focus of computing research since
+the dawn of the programmable computer. And as new technology
+allows us to build larger and more complex systems, the problem
+of ensuring their reliability becomes actually exponentially
+harder with more and more components interacting with each
+other.
+So as we integrate insecure, vulnerable systems into the
+fabric of our economy, the consequences of those systems
+failing become both more likely and increasingly serious.
+Unfortunately, there is no magic bullet for securing software-
+based systems. Large systems are fundamentally risky, and this
+is something that we can, at best, manage rather than fix
+outright.
+There are really only two known ways to manage the risk of
+unreliable and insecure software. One is the use of encryption,
+which allows us to process sensitive data over insecure media
+and insecure software systems to the extent that we can. And
+the other is to design our software systems to be as small and
+as simple as we possibly can to minimize the number of features
+that a malicious attacker might be able to find flaws to
+exploit.
+This is why proposals for law enforcement access features
+frighten me so much. Cryptographic systems are among the most
+fragile and subtle elements of modern software. We often
+discover devastating weaknesses in even very simple
+cryptographic systems years after they are designed and
+fielded.
+What third-party access requirements do is take even very
+simple problems that we don't really know how to solve and turn
+them into far more complex problems that we really have no
+chance of reliably solving.
+So backdoor cryptography of the kind advocated by the FBI
+might solve some problems if we could do it, but it's a
+notoriously and well-known difficult problem. We have found
+subtle flaws even in systems designed by the National Security
+Agency, such as the Clipper Chip two decades ago.
+And even if we could get the cryptography right, we'd be
+left with the problem of integrating access features into the
+software. Requiring designers to design around third-party
+access requirements will basically undermine our already
+tenuous ability to defend against attack.
+It's tempting to frame this debate as being between
+personal privacy and law enforcement. But, in fact, the stakes
+are higher than that. We just can't do what the FBI is asking
+without seriously weakening our infrastructure. The ultimate
+beneficiaries will be criminals and rival nation-states.
+Congress faces a crucial choice here: To effectively
+legislate mandatory insecurity in our critical infrastructure
+or to recognize the critical importance of robust security in
+preventing crime in our increasingly connected world. Thank you
+very much.
+[Prepared statement of Mr. Blaze follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Dr. Blaze.
+I would now like to recognize my fellow Texan, Blake
+Farenthold, for 5 minutes.
+Mr. Farenthold. Thank you very much, Mr. Chairman.
+Could we get the slide up?
+I think it was Mr. Potter that pointed out the FBI had some
+recommendations on their Web site about encryption that was
+recently taken down. I want to read the two that are
+highlighted.
+And, Ms. Hess, I want to get a couple questions for you on
+that.
+``Depending on the type of phone, the operating system may
+have encryption available. This can be used to protect the
+user's personal data in case of a loss or theft.''
+And it also says, ``Pass code-protect your mobile device.
+This is the first layer of physical security to protect the
+contents of this device.''
+These are now off of the FBI Web site. Why did the FBI take
+down this guidance?
+Ms. Hess. Yes, sir. Actually, we decided to provide a link
+to that information. That same information actually appears
+through the link to IC3.
+Mr. Farenthold. And you agree that that is probably good
+advice. You still advise people it is a good idea to encrypt
+their data?
+Ms. Hess. Yes, sir. We fully support encryption.
+Mr. Farenthold. All right. Now, Dr. Blaze, you talked about
+the good guys versus the bad guys. Who is a good guy today may
+not always be a good guy. I mean, that definition of good guy,
+bad guy--I mean, it is overly simplistic.
+Who are the good guys? Who are the bad guys? And who makes
+that decision?
+Mr. Blaze. That is certainly true. And I think, even if we
+can draw a line between who we want to have access and who we
+don't, which is, of course, an impossible task in practice,
+we'd still be left with the problem that we wouldn't be able to
+provide access.
+Mr. Farenthold. And, Mr. Bankston, let's talk a little bit
+about a golden key. That is one of the things that folks are
+looking at.
+Wouldn't that become the biggest hacker target in the world
+if it were known there were a golden key and what we have today
+that might be deemed secure as computing power increases might
+become a lot easier to break?
+Mr. Bankston. Yes, Congressman. That is absolutely the
+case. I think that, as Professor Blaze made clear, attempting
+to build such a system would add incredible levels of
+complexity to our system such that it would inevitably, as the
+cybersecurity coordinator at NIST said recently, lead to
+unanticipated vulnerabilities.
+And that doesn't even count the possibility of bad actors
+obtaining the keys. Even if you were to split those keys apart,
+as the NSA director has suggested, you have to put that key
+together somewhere, and wherever you do do that is going to be
+a critical target for anyone who wants to compromise our
+security.
+Mr. Farenthold. Yeah. I have got a very limited time. I
+don't mean to cut you off. I am just trying to get some broad
+general answers. We can get down to the weeds in another
+opportunity.
+Is there anybody on the panel who believes we can build a
+technically secure back door with a golden key? Raise your hand
+and I will recognize you if you think that can be done.
+All right. Let the record reflect no one on the panel
+thinks that that can be done.
+All right. Let's talk a little bit about if we were to go
+ahead and do it. The United States--let's assume they are a
+good guy and we agree to put in a back door for them. All of a
+sudden we want to sell this same product in another country. So
+China wants a back door. North Korea wants a back door.
+Basically, every country is going to want a back door. Does
+anybody disagree with that statement?
+I see no hands coming up for that one either.
+So we then are good. So do we put all of these back doors
+into every system, making it that much more difficult, or do we
+then say, ``All right. Well, this phone is sold in the United
+States. We are going to put a U.S. back door in''?
+Well, that doesn't help our intelligence community abroad.
+And if I wanted to avoid that, I would go to the Cayman
+Islands, which I would assume would have better privacy laws--I
+don't know--there would be some haven country--and buy my phone
+there. Would it then be seized by Customs?
+I mean, I don't see a practical way to implement this. I am
+now appointing you to the NSA. You are the head of the NSA.
+Anybody got a way we can do what we want to do? Raise your hand
+if you have got any suggestions that you think we can do it.
+Mr. Conley.
+Mr. Conley. Yeah. I am no expert. I am probably the least
+technologically savvy guy in this room, maybe. But there are a
+lot of great minds in the United States. I'm trying to figure
+out a way to balance the interests here. It is not an either-or
+situation.
+And Dr. Blaze said--you know, he's a computer scientist.
+I'm sure he's brilliant. But, jeez, I hate to hear talk like,
+``That cannot be done.'' I mean, think about if Jack Kennedy
+said, ``We can't go to the moon. That cannot be done.'' He said
+something else, ``We're going to get there in the next
+decade.''
+So I would say to the computer science community let's get
+the best minds in the United States together on this. We can
+balance the interests here.
+Mr. Farenthold. And I appreciate that because I am a proud
+American as well. But I think what we are saying today is--it
+would be the equivalent of President Kennedy saying, ``We will
+be able to get to the moon in 10 years and nobody else will
+ever be able to get there ever.'' I think that is the
+distinction I would like to draw there.
+It is not like we are saying we can't develop a secure
+system, but we are also saying that can we really develop a
+secure system that will be secure for any length of time that
+somebody smarter might not be able to hack 5 years down the
+road or so.
+Anyway, I see I am already out of time. I appreciate your
+indulgence, Mr. Chairman.
+Mr. Hurd. Thank you.
+Votes have been called on the House floor. And what we are
+going to do is go to Ranking Member Kelly for questions, and
+then we will recess and reconvene 10 minutes after votes.
+I would now like to recognize my good friend, Ms. Kelly
+from Illinois.
+Mr. Connolly. Would my friend Ms. Kelly yield just for a
+second? Because I may not be able to come back.
+I just want to welcome Mr. Potter, who is an old friend and
+colleague of mine. And I wish to welcome Mr. Conley, though I
+wish he would learn how to spell his name.
+Thank you very much.
+Ms. Kelly. Thank you, Mr. Chair.
+Mr. Bankston, a core component to what we are doing here
+today is examining what we can do to protect the privacy of
+consumer data and not serve as a barrier to law enforcement
+communities' ability to do work that keeps us safe. I know I
+have heard from a number of folks on both sides of the data
+privacy issue.
+And so my question is: Is there such a thing as creating a
+back door that is only for the good guys?
+Mr. Bankston. I am also not a technical expert. I am a
+policy expert. But based on what every expert in the field has
+said not only in the current debate, but also 20 years ago in a
+many-multi-year debate over exactly this issue, the answer is a
+clear no and, in fact, a unanimous no.
+Ms. Kelly. Also, could the existence of a back door created
+in the interest of public safety actually serve as a Trojan
+horse that cybercriminals exploit to their advantage?
+Mr. Bankston. Absolutely. Any back door is going to
+necessarily weaken the security of a system in a way that
+another actor, someone with worse interests than our own
+Government trying to protect us, could exploit.
+Ms. Kelly. Any other comments about that?
+Ms. Hess. Yes, ma'am. First off, when we are discussing
+solutions, what we found in the past is that, if solutions are
+developed on the front end of a design, they're ultimately more
+secure than something that is patched on to the back end of an
+existing solution, of an existing network, or an existing
+device.
+That we also found with respect to what Mr. Bankston refers
+to 20 years ago when a law was enacted that, essentially, most
+thought would decrease security of systems, and that turned out
+not to be the case. To the contrary. Companies actually
+developed more secure ways of being able to still conduct the
+surveillance that we were able to enact back 20 years ago.
+Mr. Bankston. If I may respond to that, I assume Assistant
+Director Hess is referring to CALEA, the Communications
+Assistance for Law Enforcement Act, which actually explicitly
+provided that the phone companies subject to its intercept
+capabilities were under no obligation to prevent or assist in
+the decryption of encryption that was done by their users or
+even encryption that they offered where they did not hold the
+keys. So protection for encryption and, in fact, end-to-end
+encryption was protected explicitly in CALEA.
+Ms. Kelly. Thank you.
+I yield back.
+Mr. Hurd. The gentlelady yields back.
+I would like to recognize the chairman of the committee,
+Chairman Chaffetz, for 5 minutes.
+Mr. Chaffetz. Thank you.
+And I again thank you all for being here.
+There are some important questions that face us.
+Ms. Hess, you have a very important role within the FBI,
+and we appreciate the work that you are doing. But it was said
+earlier--and I want to ask you and give you a chance to respond
+to it.
+But does encryption actually help prevent crime, in your
+opinion?
+Ms. Hess. Yes, sir, it does.
+Mr. Chaffetz. But the policies that the FBI is advocating,
+specifically the Director, don't necessarily fall in line with
+that, do they? I struggle with what the Director is asking for
+because--are you going to have encryption? Not encryption?
+Ms. Hess. Yes, sir. I think the distinction comes from the
+idea that we are not supportive or in favor of encryption, and
+that is not true. That is not accurate. We actually want
+encryption. It secures our networks. It obviously assists us in
+providing security and blocking the cyber threats.
+However, all we're asking for is a way for us to be able
+to, with a lawful order, be able to get information from the
+company so that the provider would be able to provide in
+readable form the potential evidence that we would need in an
+investigation.
+Mr. Chaffetz. So you want encryption, but a key. And
+doesn't that key by its very definition create a vulnerability?
+Ms. Hess. In today's world, sir, I think that there is no
+such thing as absolute security in either the physical or the
+digital world. What we are asking for is not to lower those
+standards by developing some type of lawful intercept or lawful
+access capability but, rather, to come up with a way that we
+may be able to implement perhaps multiple keys or some other
+way to be able to securely access the information--or,
+actually, rather, be able to be provided with the information.
+Mr. Chaffetz. And that is the concern, is that, if you
+create a key--let's pretend it is a key to your house. You can
+go down to Ace Hardware and make a copy of it. Right? Somebody
+is going to be able to figure it out. You can get a locksmith
+who can go and open up your front door.
+And the same principle--unless there is some new technology
+that we don't know about, that is the concern. And that is the
+disconnect from what we hear from the FBI and the reality of--
+do you create the hardest, strongest encryption possible, which
+means not having a key?
+And, again, I know we won't necessarily solve it all right
+here in this debate. But I have got to ask you something else
+before I run out of time.
+One of the keen concerns that I have--and I have sponsored
+a bill called the GPS Act--deals with geolocation. There is a
+debate and discussion about metadata versus content, for
+instance, in emails.
+If you and I are trading emails, you have heard the
+Department of Justice argue that the fact that I communicated
+with you is just the metadata. It is not the content of what we
+were talking about.
+Does the Department of Justice believe that your
+geolocation is content or do they just think that that is
+metadata?
+Ms. Hess. Well, sir, first off, for geolocation
+information, we do obtain a search warrant for that
+information.
+Mr. Chaffetz. Always?
+Ms. Hess. But I----
+Mr. Chaffetz. Always?
+Ms. Hess. I would have to ask that we maybe brief you about
+that in more detail at a later time.
+But at the same time, to address your issue about metadata
+and geolocation information, clearly those certainly are useful
+tools, usual techniques, for us to be able to paint the picture
+of what happened in an investigation, but they are not wholly
+inclusive of all the evidence we may need to be able to show
+intent, for example, with the content of the communication.
+Mr. Chaffetz. I understand the need. And I don't have a
+problem if you have probable cause or get a warrant or even
+articulable suspicion.
+What I have a problem with is you tracking geolocation at
+will. And I think Americans have a reasonable right to privacy.
+So post-Jones, what I still struggle to understand from the
+Department of Justice is: What is their guidance? What are
+their rules of the road?
+I mean, I would like to know if you all track my wife or
+not. Do you do that? I know you can. My question is: Do you do
+it?
+And you are giving me a, ``Well, I am not''--I mean,
+clarify that for us. It is not a yes or a no. That is the
+concern. I am not getting a yes or no from you.
+Ms. Hess. I would answer in response to that question that,
+certainly, to obtain any type of information, we would go
+through lawful process.
+Mr. Chaffetz. Is lawful process your ability to track
+geolocation without getting a warrant?
+Ms. Hess. Currently we do get a warrant, is my
+understanding.
+Mr. Chaffetz. And I amasking: Do you always get a warrant
+to track geolocation? The answer is no, isn't it?
+Ms. Hess. There's exigent circumstances. That is correct.
+Mr. Chaffetz. Okay. So describe those circumstances.
+At what level? What is the threshold? What is the guidance?
+Ms. Hess. So, first, I believe it would depend on the type
+of data that we are talking about----
+Mr. Chaffetz. Geolocation.
+Ms. Hess. --and the type of geolocation data, whether
+that's GPS data or whether that's some type of other
+geolocation type of data.
+I again would request that we could certainly brief you on
+this in more detail.
+Mr. Chaffetz. Yeah. I want you to brief the American
+people. This is why I am going to continue asking these
+questions.
+Mr. Chairman, I am out of time. And we have a vote on the
+floor. But this is one of the deep questions I have for the
+Department of Justice.
+Believe me, you are not the first person that can't clearly
+answer this, and I think people have the right to know what
+that answer is.
+Is the Government tracking their geolocation? And right now
+I think the answer unfortunately is, yes, they are. And
+certainly they are at times without a warrant and without
+articulable suspicion.
+With that, I yield back.
+Mr. Hurd. Votes have been called on the House floor. We
+will recess and reconvene 10 minutes after voting.
+[Recess.]
+Mr. Hurd. The Subcommittee on Information Technology will
+reconvene.
+I would like to now recognize my colleague from California
+and fellow recovering computer scientist, Ted Lieu, for 5
+minutes.
+Mr. Lieu. As a recovering computer and science major, it is
+clear to me that creating a pathway for decryption only for
+good guys is technologically stupid. You just can't do that.
+But I am more interested now in knowing, if this were to
+happen, what would the effect of this be on global companies
+and global app developers.
+And, Mr. Potter, in your testimony, you raise concerns that
+device pathway will introduce technological vulnerabilities to
+mobile application.
+What effect would the pathway have on the global
+application developers' market?
+Mr. Potter. Thank you for that question, Congressman Lieu.
+Today every app developer thinks that their marketplace is
+global, their opportunity is global. The Google Play Store is
+global. The Apple devices are global.
+The challenge is in Europe we have a very different privacy
+regime than we have in the United States. And Europe has
+already made--European leaders have already spoken quite
+bluntly that, if they strengthen their privacy laws, it will,
+in fact, harm U.S. companies and create business opportunities
+for European companies.
+So European leaders in the privacy area are very concerned
+about--and they've been pretty blunt about it--Facebook,
+Amazon, Google, collecting data and things like that and what
+do they do with the data. And they are extraordinarily
+distressed with the U.S. Government vacuuming up data
+throughout the world, including listening to phone calls of
+some of their leaders.
+The combination of that, of the political angst and the
+business stress, creates a very easy opportunity for them to
+simply say that any company that has a back door particularly
+to the U.S. Government, which at least in the minds of European
+leaders, does not have a great history of using those back
+doors with discipline, creates a vulnerability that is unlawful
+under European privacy law; and, therefore, you'd be banned
+from the European market.
+Mr. Lieu. Thank you. I appreciate that.
+I am going to reserve the balance of my time to make a
+statement. It is primarily directed at Mr. Conley. I respect
+your public service. I take great offense at your testimony
+today.
+You mention that unaccountable corporate interests such as
+Apple and Google are essentially protecting those who rape,
+defraud, assault, and kill. I think that is offensive. It is a
+fundamental misunderstanding of the problem.
+Why do you think Apple and Google are doing this? It is
+because the public is demanding it, people like me, privacy
+advocates, a public that doesn't want an out-of-control
+surveillance state. It is the public that is asking for this.
+Apple and Google didn't do this because they thought they would
+make less money. This is a private sector response to
+government overreach.
+Let me make another statement that somehow these technology
+companies are not credible because they also collect private
+data. Well, here is the difference. Apple and Google don't have
+coercive power. District attorneys do. The FBI does. NSA does.
+And, to me, it is very simple to draw out the privacy balance
+when it comes to law enforcement and privacy. Just follow the
+damn Constitution.
+And because the NSA didn't do that and other law
+enforcement agencies didn't do that, you are seeing a vast
+public reaction to this. Because of NSA, your colleagues have
+essentially violated the Fourth Amendment rights of every
+American citizen for years by seizing all of our phone records,
+by collecting our Internet traffic. That now is spilling over
+to other aspects of law enforcement.
+And if you want to get this fixed, I suggest you write to
+NSA and the FBI should tell the NSA ``Stop violating our
+rights'' and then maybe you would have the public much more on
+the side of supporting some of what law enforcement is asking
+for.
+And then let me just conclude by saying I do agree with law
+enforcement that we live in a dangerous world and that is why
+our Founders put in the Constitution of the United States of
+America--that is why they put in the Fourth Amendment, because
+they understand that an Orwellian, overreaching Federal
+Government is one of the most dangerous things that this world
+can have.
+I yield back.
+Mr. Conley. Do I get to respond to that?
+Mr. Hurd. The gentleman yields back.
+I would like to recognize my colleague, Mr. Blum from Iowa,
+for 5 minutes.
+Mr. Blum. Thank you, Chairman Hurd.
+I would like to welcome today the panelists. I appreciate
+your insights on this topic.
+And I also would like to acknowledge law enforcement. I
+know it is not easy what you do, and I am so appreciative of
+the amazing job that your departments do. And I love the Thin
+Blue Line. So thank you so much for what you do.
+Ms. Hess, my questions are probably addressed to you. I
+just want to make sure I understand this.
+Law enforcement wants to force the private sector to build
+a back door, if you will, or backdoor key into cell phones,
+into software, things such as that. Is that correct?
+Ms. Hess. Sir, I would actually phrase that from the sense
+that we are simply asking for information that we seek in
+response to a lawful order in a readable format. How that
+actually happens should be the decision of the provider.
+Mr. Blum. So you are not asking for a backdoor key into the
+encrypted software or cell phone?
+Ms. Hess. If we don't have the key, but, yet, the provider
+can get us that information by maintaining the key themselves,
+then that would be obviously a legitimate way to respond to our
+lawful order.
+Mr. Blum. Okay. And what you are asking for only would be
+used if a warrant is issued. Is that correct?
+Ms. Hess. Yes, sir. Everything we are discussing today.
+Yes, sir.
+Mr. Blum. And what we are discussing today would arguably
+make law enforcement's job quicker, easier to apprehend the bad
+guys, as we said. Is that correct?
+Ms. Hess. Yes, sir.
+Mr. Blum. I am a software developer myself, and I am also a
+homebuilder. So I would just like to give you an analogy as I
+understand this.
+Isn't this analogous to the Government asking or requiring
+homebuilders to put a video camera in every room of every new
+home that they build with the guarantee or the promise that the
+Government won't turn it on, ``Don't be concerned. The
+Government will not turn this camera on unless we get a
+warrant''? And that would make law enforcement's job easier,
+correct, and quicker if there is a crime in the home? Isn't
+this analogous to that? Because you are saying, ``Trust us. We
+will only do this if we need to do it.''
+Ms. Hess. Sir, I think the analogy may be better described
+as if we should need to know what is going on in that home.
+Then, as long as the company can respond quickly. Now, that may
+mean that they wire the home, but it certainly doesn't mean
+they necessarily have to have the cameras installed as long as
+they can do that quickly.
+On the other hand, if they can come up with a different way
+to tell us what is going on inside that home and do it quickly
+in a timely manner that is quickly available to us when needed,
+then whatever way they come up with would be acceptable.
+Mr. Blum. Because what troubles me is law enforcement tends
+to agree with--and I will paraphrase here--but that there is a
+reasonable standard of privacy, Fourth Amendment rights, when
+one is in their own home. I think most people in law
+enforcement would agree with that.
+But when it comes to our cell phone conversations, our
+emails, anything that is electronic and data, it seems like
+this reasonable right to privacy isn't there. The people in my
+district in Iowa feel the same way.
+Would you address that, please.
+Ms. Hess. Yes, sir. I would like to.
+I believe that is inaccurate. Certainly you do have a
+reasonable expectation of privacy, which is why what we are
+referring to today and discussing here today requires a
+warrant. Whether that is realtime communications or the data
+stored on that device, it still would require a warrant. And
+that is the threshold under the Constitution.
+Mr. Blum. Thank you.
+And this next question is for anyone on the panel. Does law
+enforcement have other ways, other ways, other than what you
+are asking for, to access the necessary data needed in, let's
+say, 99 percent of the criminal cases? Are there other ways of
+doing this?
+Because it seems like we are always given, as citizens, the
+dichotomy of liberty and giving up liberty and freedom for
+safety. And I believe in American exceptionalism. I believe we
+can have both.
+Aren't there other ways law enforcement can do this?
+Ms. Hess. Yes, sir. I would like to address that.
+I also believe that we can balance liberty and security and
+public safety. I would say that there are certainly--when law
+enforcement is stymied by a particular obstacle in an
+investigation, we will seek all other ways to get the
+information we need.
+But those other ways may delay us in getting that
+information. They may not be timely solutions. They may not be
+encompassing solutions to where we might be able to identify
+other victims or other coconspirators or the vast nature of the
+crime or the impact of the crime, and that is what concerns us,
+to be able to get that information quickly.
+Mr. Blum. And I am out of time. I yield back, Mr. Chairman.
+But, once again, I would like to thank law enforcement for
+the amazing job that you do. Thank you very much.
+Mr. Hurd. The gentleman yields back.
+I would like to recognize myself for 5 minutes for
+questions. I have got questions for everyone.
+So we will start with you, Dr. Blaze. Can you tell us a
+little bit about your background, quickly, your degrees, how
+long have you been involved as a computer scientist in
+cryptology.
+Mr. Blaze. I am computer scientist. My specialty is in
+computer security and cryptography and the applications of
+cryptography to building large-scale systems.
+As a particular focus of my research area, I have been
+concerned with surveillance technologies and some of the issues
+at the intersection of technology and public policy. In this
+issue, 20 years ago I discovered some flaws in the previous
+U.S. Government proposal, the Clipper Chip.
+Mr. Hurd. And you are at a university that the department
+is pretty well known worldwide when it comes to cryptology and
+computer science. Is that correct?
+Mr. Blaze. I would like to think so.
+Mr. Hurd. And I know you are a modest man. So I don't mean
+to ask an indelicate question.
+But you are considered an expert when it comes to
+cryptology and encryption?
+Mr. Blaze. I suppose so.
+Mr. Hurd. So in your expert understanding, is there any way
+to do a split-key approach to encryption?
+Mr. Blaze. There are things we can do, like splitting the
+key between multiple locations, that can reduce some aspects of
+some of the risks in a system like this.
+Mr. Hurd. But it does create additional vulnerabilities----
+Mr. Blaze. That is right.
+Mr. Hurd. --that anyone who has technical capability would
+be able to take advantage of?
+Mr. Blaze. That is right. We can move the risks around from
+one part of the system to another, but there are still
+fundamental problems that we don't know how to solve.
+Mr. Hurd. And this was ultimately part of the problem with
+the Clipper Chip from the 1990s?
+Mr. Blaze. That is right. There were a number of problems
+with the Clipper Chip proposal, but that was one of them.
+Mr. Hurd. Thank you, sir.
+Mr. Potter, as a politician, I am always told don't answer
+hypothetical questions, but I am going to pose a hypothetical
+question to you.
+If there were a back door or a front door put into
+applications or programs of U.S. businesses, how do you think--
+the impact that would have on businesses in China, Russia and
+Iran?
+Mr. Potter. I have to anticipate, sir, that those
+governments would ask for their own back door.
+Mr. Hurd. Thank you.
+Mr. Bankston, we are going to save you for last.
+Mr. Conley, if you have a properly issued warrant to go
+into someone's house and there is a safe in that house that is
+locked, what happens?
+Mr. Conley. The safe will be taken out and it would be
+broken into.
+Mr. Hurd. Okay. So in your testimony you mentioned that
+Google--and I believe we can infer Apple--stated that its new
+operating system would make its mobile devices inaccessible to
+law enforcement officials even with a warrant signed by a
+judge. Is that correct?
+Mr. Conley. That is correct.
+Mr. Hurd. So if you had a properly issued warrant, would
+you not be able to get that device?
+Mr. Conley. You could get the device. You couldn't get the
+information off the device if it is running iOS 8.
+Mr. Hurd. So iOS 8--the default setting is a five-digit
+PIN. Correct?
+Mr. Conley. Is it five? It is a pass code of some sort.
+Mr. Hurd. Dr. Blaze, I am a little rusty when it comes to--
+so that is 5 factorial over 5. Right? And it would take, what,
+13,000 possible iterations of a potential five-digit PIN?
+Actually, it is a four-digit PIN, I believe what it is, four-
+digit PIN.
+Mr. Blaze. Yes.
+Mr. Hurd. So that is 4 factorial over 4, which is even less
+than 13,000.
+Mr. Blaze. 10 to the 4th. So about 10,000.
+Mr. Hurd. For a brute-force method with today's technology,
+is that difficult?
+Mr. Blaze. That is well within the range of a brute-force
+attack.
+Mr. Hurd. And how long would that take, roughly?
+Mr. Blaze. On modern computing hardware, essentially no
+time at all.
+Mr. Hurd. So would you agree that that is the equivalent of
+taking a safe out of a home and using some safe-cracking
+skills? This would be the digital equivalent?
+Mr. Blaze. No. This would be much easier than that.
+Mr. Hurd. Because you are good. You know? I think my
+colleagues from Texas A&M would probably be able to do it, too.
+Now, my next question is to you, also, Mr. Conley, on the
+up-skirting example that you used, if you had surveillance on
+someone doing up-skirting, the fact that they are putting a
+camera to try to take pictures of someone, would that not be
+enough to arrest them?
+Mr. Conley. That would not be enough. In order to commit
+the crime, you have to have taken the photo, and there would be
+no way to prove it. There would be no way to prove that the
+actual photo was taken, what it was taken of. So we could not
+successfully prosecute that case without the photograph, in my
+opinion.
+Mr. Hurd. Excellent.
+I would like to yield to my colleague from California, Mr.
+Lieu.
+Mr. Lieu. Thank you, Mr. Chair.
+I do have some more questions along the lines of how easy
+it would be to defeat one of these pathways. So let's say we
+pass law that says: Okay. The Apple iPhone now has to have this
+pathway only for good guys.
+What is to keep a terrorist--and this is for Dr. Blaze--for
+example, from saying, ``Even though I like their multi-colored
+Apple iPhones, I am going to switch to Samsung phones?'' Is
+there anything stopping that from happening?
+Mr. Blaze. No. Fundamentally, the ease of loading
+application software and the wide variety of platforms that we
+have make it very simple for somebody who is determined to use
+unbreakable encryption to do so. It might not be as easy or as
+inexpensive as we would like it to be, but there are no
+fundamental barriers to it.
+Mr. Lieu. And currently, right now, there is nothing
+preventing two people anywhere in the world from downloading an
+encryption program to encrypt end to end those two
+communications that would make this pathway essentially
+meaningless. Is that correct?
+Mr. Blaze. That is right. Now, there may be vulnerabilities
+on the computers that run that software, and, in fact, there
+likely would be for the reasons that I discussed in my written
+testimony. But the encrypted messages themselves in transit
+would be effectively impossible in practice to decrypt.
+Mr. Lieu. And is it your understanding that sometimes
+terrorists now resort to something as simple as just writing
+something on a piece of paper so they are off the grid?
+Mr. Blaze. Well, I am not an expert on terrorists, but I
+would imagine that paper-and-pencil technology is well within
+their----
+Mr. Lieu. And we don't say that companies who make paper
+shredders are somehow protecting terrorists. Correct?
+Mr. Blaze. I have never heard that said.
+Mr. Lieu. So let's talk a little about computer code. It is
+true, isn't it, that computer code is neutral, that is, the
+code cannot tell if the person reading the code or accessing
+the code is Asian or the leader of Hamas or the FBI director or
+gay or a woman or a man? As long you have got the key to that
+encryption, you get in the system. Correct?
+Mr. Blaze. That is right.
+Mr. Lieu. The NSA, would you agree, has one of the most
+secure systems in the world?
+Mr. Blaze. I think they have enormous expertise.
+Mr. Lieu. Curious, isn't it, that we now know so many
+secrets about the NSA not because of technology, but because we
+have human beings?
+And so another aspect of all of this is you would be asking
+the American public to trust all the human beings in the
+Federal Government who could be looking at private data.
+And it turns out, right, that sometimes human beings do
+things you don't want them to do, such as this one person who
+now disclosed all these secrets of the NSA, even though that is
+one of the most secure systems in the world?
+Mr. Blaze. The operational aspects of maintaining any kind
+of large-scale secure system are enormously daunting, as I
+think the NSA discovered 2 years ago.
+Mr. Lieu. Thank you.
+And I yield back.
+Mr. Hurd. Thank you.
+I would like to recognize the ranking member, my good
+friend Ms. Kelly from Illinois, for 5 minutes.
+Ms. Kelly. Thank you.
+Ms. Hess and Mr. Conley, when you are not doing your job,
+you are citizens of our society. So how do you reconcile the
+need for this data with people's privacy interests in their
+data? Because you are a person, too, and then you are in law
+enforcement. So how do you reconcile this?
+Ms. Hess. Yes, ma'am. I will start.
+I certainly obviously value my privacy. I want to make sure
+that my system is as secure as possible. And I think that goes
+back to the points that certainly the FBI is trying to make,
+which is that we support encryption. We want secure networks.
+It is just this inability that, for example, if I was
+committing criminal activity, that that information would be
+completely inaccessible. So in the safe example, we would never
+be able to access what is inside that safe, and that, I think,
+is more to the point of the question because certainly we do
+value privacy and certainly the safeguards of the Constitution.
+Ms. Kelly. Thank you.
+Mr. Conley. As I mentioned in my remarks, too, I value my
+privacy as much as the next person. Just to give you an
+example, recently my computer at home was infiltrated by
+somebody. And so anytime I click onto a link, I get bombarded
+with all sorts of merchandising messages and so forth. Somewhat
+innocuous, but it is clear that my computer was infiltrated. So
+I went out and bought some security software and loaded it onto
+my computer. So I am certainly very cognizant of the need to
+protect my privacy. I do all my banking and so forth on this.
+My position has always been just very simple, that we ought
+to not be able to completely hide valuable evidence of a crime
+that is being committed or has been committed to hold
+individuals accountable for their actions. And that is what I
+am advocating for, some sort of balancing of the interests here
+so that everyone's right to privacy is acknowledged and
+glorified, really, but at the same time law enforcement is not
+completely kept in the dark about these sorts of things.
+Ms. Kelly. I appreciate all of your testimony. And,
+obviously, encryption of data, from what I am hearing, should
+be conducted in a way that respects both law enforcement and
+private consumers' interests.
+So, again, I want to thank the chairman for holding this
+very important hearing.
+Mr. Conley. Mr. Chairman, you had asked the question about
+the pass code and about brute force. And far be it from me, I
+suppose, to challenge Dr. Blaze on brute force.
+But my iPhone is owned by the Commonwealth of
+Massachusetts, and it has seven digits. My pass code is not
+four, but seven. So I suppose the exponential issue there is
+considerably larger, obviously, with seven digits. And I am
+told that, after 10 attempts to break into my--using my pass
+code, that is it. I am blocked out and there is some erasure
+that goes on.
+So at least up to this point in this hearing, I believed
+that there is no brute-force technology out there available
+that could allow law enforcement to break into somebody's
+handheld device.
+And I also ask this question: Can this issue be bifurcated
+in some way so that big corporate computer networks and so
+forth can remain encrypted without any sort of golden key, but
+devices like this, mobile devices, which are now the tools of
+terrorists and criminals, can be accessed on probable cause
+after a magistrate issues a warrant?
+Mr. Hurd. Thank you, Mr. Conley.
+And to answer that question, when I left the CIA, I spent
+about 5 years helping build a cybersecurity company. We did
+penetration testing, technical vulnerability assessments.
+And I would always offer my clients--a lot of times we
+worked with banks, and I would offer my clients the option of,
+``You pay our fee or we get to keep what we take.'' Nobody took
+us up on the last one because we never not got in.
+So the tools, the technical capabilities, are out there.
+That is something that--having a conversation about how do we
+get the right tools and expertise to law enforcement may be a
+conversation where that may be a positive thing that comes from
+this conversation.
+Mr. Conley, last question for you, sir, or sets of
+questions. In the up-skirting example, are there up-skirters in
+Boston that haven't been caught because they have used
+encryption?
+Mr. Conley. Well, this encryption technology is nearly
+brand new. So I am not aware of any cases yet. You know, when
+we caught an up-skirter in Massachusetts, we realized actually
+there was no statute that made it a crime. So the Massachusetts
+legislature quickly took up this issue and made it a crime,
+meteoric.
+Mr. Hurd. As it should be.
+Mr. Conley. As it should be.
+Mr. Hurd. As it should be.
+And, also, to you, I appreciate your work and what you do.
+You know, 9 years I was an undercover officer overseas
+collecting intelligence on threats to the homeland. I collected
+that intelligence to help law enforcement and help folks like
+you and your colleagues put these bad guys away. You do this at
+a threat to your own life. You do this at a threat to your
+family. And I thank you for that.
+But, also, you know, because of the role you play and the
+importance you play, I actually hold you all up to a higher
+standard as well, and I am always proud to stand side by side
+with you all.
+Ms. Hess, question for you. What is the FBI asking for?
+Ms. Hess. Yes, sir, Mr. Chairman.
+I would say that certainly what we are asking for, first
+and foremost, is exactly what we are doing here today and just
+the opportunity for the American public to consider these
+issues and to weigh the risks.
+Because clearly we recognize that there is no absolute
+security, again, in either the physical or the digital world.
+Everything may present a vulnerability. There may already be
+vulnerabilities in place.
+But for law enforcement to not have the ability to accept
+or to receive the information that we might need in order to
+hold those accountable who conduct heinous crimes or who will
+conduct terrorist attacks, that's the question that I think we
+need to balance in the American public. And just by having that
+conversation will help us, I think, to make better informed
+decisions.
+Mr. Hurd. Thank you.
+And, Ms. Hess, does the FBI have any information or data
+that suggests that the inherent vulnerabilities that have been
+discussed about dual encryption is that there is a way to do
+it?
+Ms. Hess. We certainly believe and share Mr. Conley's hope
+that there is some type of innovative solutions out there, that
+we might be able to see government and industry work together
+to come up with--certainly they won't be bulletproof, as has
+been said earlier, but certainly more secure ways of being able
+to get law enforcement what it needs, yet at the same time
+provide layers and layers and layers of security so that the
+providers can provide the customer what they need as well.
+Mr. Hurd. Thank you.
+Mr. Bankston, in your written testimony, you talked about
+the President's Review Group.
+Can you characterize quickly for me what the President's
+Review Group was.
+Mr. Bankston. The President's Review Group was a panel of
+experts picked by the President, five of them, to review the
+NSA's intelligence activities, including a former CIA director
+and a former anti-terrorism czar of the White House. They
+concluded that it should be the policy of the United States to
+promote rather than undermine the use of strong encryption.
+Mr. Hurd. And you highlighted Recommendation 29.
+Mr. Bankston. Number 29.
+Mr. Hurd. And I would like to read that. And I do
+appreciate all of you all's written testimony. But you had a
+lot of great information here.
+Mr. Bankston. Thank you.
+Mr. Hurd. And Recommendation 29 that President Obama's
+Review Group provided was that they recommend, regarding
+encryption, the U.S. Government should fully support and not
+undermine efforts to create encryption standards; number two,
+not in any way subvert, undermine, weaken, or make vulnerable
+generally available commercial software; and, number three,
+increase the use of encryption and urge U.S. companies to do so
+in order to better protect data in transit, at rest, in the
+cloud and other storage. I think that is a pretty good
+recommendation.
+And I would like to close my remarks with some of the
+quotes from Ms. Hess' written testimony: ``Following the rule
+of law and upholding civil liberties and civil rights are not
+burdens. They are what make all of us safer and stronger.'' I
+couldn't agree more with that.
+And, again, I started in the CIA in October of 2000. And on
+September 12, I was the fourth employee in the unit that
+prosecuted the war in Afghanistan and helped infiltrate
+Americans into Afghanistan to bring Al Qaeda and the Taliban to
+justice for their acts of terrorism on our shores.
+And if somebody would have told me on September 13 that it
+would be 14 years prior to an attack happening on our homeland
+again, I would have said you are absolutely crazy. And the
+reason nothing has happened these last 14 years is because our
+men and women in the intelligence community, in law
+enforcement, are acting as if it is September 12, 2001, every
+single day. The velocity that that requires, the dedication,
+the countless hours of sacrifice, is incredible, and I applaud
+everyone for that.
+But that is why I hold everyone in the law enforcement
+intelligence community to a higher standard and that upholding
+civil liberties and civil rights are not burdens. They are what
+make all of us safer and stronger.
+And this is a good conversation, but I would recommend or
+comment that any other future proposals or comments that are
+going to come before this body will be carefully scrutinized by
+this committee, by many of our colleagues, because we can
+protect our country and our civil liberties at the exact same
+time, and that is what we must do.
+So I want to thank all of you all for your time today and
+this conversation. I think it is always helpful. This has
+helped me better understand my opinions on this topic. And I
+would like to thank our witnesses for taking the time to appear
+before us today.
+If there is no further business, without objection, the
+subcommittee stands adjourned.
+[Whereupon, at 4:28 p.m., the subcommittee was adjourned.]

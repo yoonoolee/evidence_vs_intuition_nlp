@@ -1,0 +1,2210 @@
+- CYBERSECURITY OF VOTING MACHINES
+
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBERSECURITY OF VOTING MACHINES
+
+=======================================================================
+
+JOINT HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+AND THE
+SUBCOMMITTEE ON
+INTERGOVERNMENTAL AFFAIRS
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FIFTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+NOVEMBER 29, 2017
+
+__________
+
+Serial No. 115-64
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://oversight.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-295 PDF                  WASHINGTON : 2018
+
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+Committee on Oversight and Government Reform
+
+Trey Gowdy, South Carolina, Chairman
+John J. Duncan, Jr., Tennessee       Elijah E. Cummings, Maryland,
+Darrell E. Issa, California              Ranking Minority Member
+Jim Jordan, Ohio                     Carolyn B. Maloney, New York
+Mark Sanford, South Carolina         Eleanor Holmes Norton, District of
+Justin Amash, Michigan                   Columbia
+Paul A. Gosar, Arizona               Wm. Lacy Clay, Missouri
+Scott DesJarlais, Tennessee          Stephen F. Lynch, Massachusetts
+Blake Farenthold, Texas              Jim Cooper, Tennessee
+Virginia Foxx, North Carolina        Gerald E. Connolly, Virginia
+Thomas Massie, Kentucky              Robin L. Kelly, Illinois
+Mark Meadows, North Carolina         Brenda L. Lawrence, Michigan
+Ron DeSantis, Florida                Bonnie Watson Coleman, New Jersey
+Dennis A. Ross, Florida              Stacey E. Plaskett, Virgin Islands
+Mark Walker, North Carolina          Val Butler Demings, Florida
+Rod Blum, Iowa                       Raja Krishnamoorthi, Illinois
+Jody B. Hice, Georgia                Jamie Raskin, Maryland
+Steve Russell, Oklahoma              Peter Welch, Vermont
+Glenn Grothman, Wisconsin            Matt Cartwright, Pennsylvania
+Will Hurd, Texas                     Mark DeSaulnier, California
+Gary J. Palmer, Alabama              Jimmy Gomez, California
+James Comer, Kentucky
+Paul Mitchell, Michigan
+Greg Gianforte, Montana
+
+Sheria Clarke, Staff Director
+William McKenna, General Counsel
+Troy Stock, Information Technology Subcommittee Staff Director
+Sean Brebbia, Senior Counsel
+Kelsey Wall, Professional Staff Member
+Sharon Casey, Deputy Chief Clerk
+David Rapallo, Minority Staff Director
+Subcommittee on Information Technology
+
+Will Hurd, Texas, Chairman
+Paul Mitchell, Michigan, Vice Chair  Robin L. Kelly, Illinois, Ranking
+Darrell E. Issa, California              Minority Member
+Justin Amash, Michigan               Jamie Raskin, Maryland
+Blake Farenthold, Texas              Stephen F. Lynch, Massachusetts
+Steve Russell, Oklahoma              Gerald E. Connolly, Virginia
+Greg Gianforte, Montana              Raja Krishnamoorthi, Illinois
+
+------
+
+Subcommittee on Intergovernmental Affairs
+
+Gary Palmer, Alabama, Chairman
+Glenn Grothman, Wisconsin, Vice      Val Butler Demings, Florida,
+Chair                                Ranking Minority Member
+John J. Duncan, Jr., Tennessee       Mark DeSaulnier, California
+Virginia Foxx, North Carolina        Matt Cartwright, Pennsylvania
+Thomas Massie, Kentucky              Wm. Lacy Clay, Missouri
+Mark Walker, North Carolina          (Vacancy)
+Mark Sanford, South Carolina
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on November 29, 2017................................     1
+
+WITNESSES
+
+The Honorable Christopher C. Krebs, Senior Official Performing
+the Duties of the Under Secretary, National Protection and
+Programs Directorate, U.S. Department of Homeland Security
+Oral Statement...............................................     5
+Written Statement............................................     8
+The Honorable Tom Schedler, Secretary of State of Louisiana
+Oral Statement...............................................    13
+Written Statement............................................    15
+The Honorable Edgardo Cortes, Commissioner, Virginia Department
+of Elections
+Oral Statement...............................................    21
+Written Statement............................................    23
+Matthew Blaze, Ph.D., Associate Professor of Computer and
+Information Science, University of Pennsylvania
+Oral Statement...............................................    28
+Written Statement............................................    30
+Ms. Susan Klein Hennessey, Fellow in National Security,
+Governance Studies, Brookings Institution
+Oral Statement...............................................    48
+Written Statement............................................    50
+
+APPENDIX
+
+Representative Gerald E. Connolly Statement......................    84
+Letter of October 20, 2017, to the Department of Homeland
+Security submitted by Ms. Kelly................................    86
+December 18, 2016, Detroit Free Press, Wisely and Reindl,
+``Detroit's election woes: 782 more votes than voters''
+submitted by Mr. Mitchell......................................    88
+Response from Mr. Krebs, DHS, to Questions for the Record........    90
+
+CYBERSECURITY OF VOTING MACHINES
+
+----------
+
+Wednesday, November 29, 2017
+
+House of Representatives,
+Subcommittee on Information Technology, Joint with
+Subcommittee on Intergovernmental Affairs,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:29 p.m., in
+Room 2154, Rayburn House Office Building, Hon. Will Hurd
+[chairman of the Subcommittee on Information Technology]
+presiding.
+Present: Representatives Hurd, Palmer, Mitchell, Grothman,
+Duncan, Amash, Walker, Kelly, Demings, DeSaulnier, Lynch, Clay,
+and Krishnamoorthi.
+Also Present: Representative Gabbard.
+Mr. Hurd. The Subcommittee on Information Technology and
+the Subcommittee on Intergovernmental Affairs will come to
+order. And, without objection, the chair is authorized to
+declare a recess at any time.
+And now I am going to recognize myself for 5 minutes for my
+opening statement.
+Good afternoon. Thanks for being here. And it's been over
+240 years since our forefathers declared independence and our
+democratic experiment began. Throughout the entirety of our
+existence, our adversaries, both internal and external, have
+sought so suppress and destroy our democratic process.
+Voting is one of our fundamental democratic rights and is
+the cornerstone of American democracy. Our existence as a
+democracy depends on free, fair, and accurate elections. Today,
+we're here to talk about the best way to protect the integrity
+of our voting systems through the cybersecurity of our voting
+machines and election systems.
+There are over 10,000 election jurisdictions nationwide
+that administer elections, and even within States, counties use
+different systems and different technologies to conduct
+elections. A little over a year ago, last September. Ranking
+Member Kelly and I held a hearing in the IT Subcommittee
+entitled ``Cybersecurity: Ensuring the Integrity of the Ballot
+Box.'' We discussed potential cybersecurity issues with the
+upcoming election. It was an issue then and it remains an issue
+now.
+Former DHS Secretary Jeh Johnson has made clear that, to
+the best of his knowledge, the Russian Government did not,
+through any cyber intrusions, alter ballots, ballot counts, or
+reporting of election results. However, our adversaries have
+always sought to use our Nation's unique qualities to undermine
+our robust and resilient democracy.
+Just because Russia did not tamper with ballots or
+reporting of election results during the last election, it
+doesn't mean they or other adversaries won't try to do so in
+the next election or the election after that. Like anything
+else in this the digital age, electronic voting is vulnerable
+to hacking. Our voting systems are no exception.
+This past January, DHS designated the Nation's election
+systems as critical infrastructure, something that was being
+discussed at our hearing back in September of 2016. We are here
+today to follow up on what impact the designation has had on
+States. It is essential that States take appropriate steps to
+secure their voting infrastructure. It's also essential that
+States have the ability to audit their ballots for accuracy
+whenever any kind of manipulation is suspected.
+The State of Virginia, which held an election recently, has
+joined the growing list of States that went to a paper system.
+I'm curious to hear how that transition went and what our
+witnesses think about moving to paper-based voting systems.
+Additionally, what are the chances that a foreign entity could
+tamper with the ballot box? These are all questions and issues
+that I want to explore today.
+I'm very interested to hear what our witnesses have to say
+on this topic, and I thank the witnesses for being here today
+and for their efforts as fellow citizens to ensure that our
+country's elections are free and fair.
+It's now a pleasure, I recognize the ranking member of the
+Information Technology Subcommittee, my friend, Ms. Robin
+Kelly, for 5 minutes in her opening remarks.
+Ms. Kelly. Thank you, Mr. Chair. Welcome back. I hope you
+had a good Thanksgiving.
+Thank you, Chairman Hurd and Palmer, for holding this
+important hearing today. There is no doubt that Russia, at the
+direction of President Vladimir Putin, attempted to manipulate
+our election and has worked to manipulate those of our western
+allies. It was a broad and coordinated campaign to undermine
+faith in democratic elections.
+Earlier this year, the IT subcommittee explored the
+Kremlin's efforts to use social media to influence voters.
+Today, we are taking a look at another part of their effort to
+undermine our democracy by hacking our voting machines and
+election infrastructure.
+More than 1 year ago, we held a hearing entitled
+``Cybersecurity: Ensuring the Integrity of the Ballot Box.''
+During that hearing, we took a look at State and Federal
+preparations for any cyber attacks on our voting machines.
+Today, we have a clearer picture of what transpired, but we're
+still discovering new facts.
+In September of this year, DHS notified 21 States that
+hackers affiliated with the Russian Government breached or
+attempted to breach their election infrastructure. In my home
+State of Illinois, the hackers illegally downloaded the
+personal information of 90,000 voters and attempted to change
+and delete data. Fortunately, they were unsuccessful.
+While we continue learning about the full scope of Russia's
+election interference, one thing is clear: There will be
+another attempt to manipulate our elections, whether it be
+Russia, another nation state or a nonstate actor, even a
+terrorist organization. The threats to our election
+infrastructure are growing. So what are we going to do about
+it?
+Earlier this year, researchers at the DEFCON conference
+successfully hacked five different direct recording electronic
+voting machines, or DREs, in a day. The first vulnerabilities
+were discovered in just 90 minutes. Even voting machines not
+connected to the internet still contained physical
+vulnerabilities like USB ports that can be used to upload
+malware.
+Alarmingly, many DREs lack the ability to allow experts to
+determine that they have been hacked. Despite these flaws, DREs
+are still commonly used. In 2016, 42 States used them. They
+were more than a decade old, with some running outdated
+software that is no longer supported by the manufacturer.
+Updating our voting machines to audible, paper-based machines,
+such as optical scanners, is a step we need to take right now.
+Our election infrastructure is broad and contain numerous
+vulnerabilities. If we are going to withstand a coordinated
+attack, we need a coordinated defense. In January of this year,
+DHS designated election infrastructure as critical
+infrastructure. In this announcement, then DHS Secretary Jeh
+Johnson was clear that this designation was not to be a Federal
+takeover of State and local election infrastructure. Rather, it
+was a designation intended to ensure that current State and
+local officials have the resources necessary to secure their
+elections.
+Since then, former DHS Secretary and now White House Chief
+of Staff, General John Kelly, has supported this designation.
+This designation can help ensure that the cornerstone of our
+democracy, our elections, remain fair and secure. But if this
+designation is to be successful, we will all have to work
+together. DHS and our State election officials must do a better
+job of working together to detect and solve problems.
+Again, I want to thank you, Mr. Chairman, for holding this
+crucial hearing. Thank you to our witnesses for being here. I
+look forward to hearing from all of you about how we can
+continue protecting our democracy.
+I yield back.
+Mr. Hurd. It's always a pleasure to be with you,
+Representative Kelly.
+I'd like to thank my friend, Chairman Palmer, for the
+Intergovernmental Affairs Subcommittee's cooperation and work
+on this important issue. And now it's a pleasure to recognize
+the ranking member of the Intergovernmental Affairs
+Subcommittee, Mrs. Demings, for 5 minutes in her opening
+remarks.
+Mrs. Demings. Thank you so much, Chairman Hurd and Chairman
+Palmer, for convening this hearing today. I'd also like to
+thank Ranking Member Kelly for her leadership, and all of our
+witnesses for joining us for this very important hearing.
+I'm pleased that we're holding this hearing on a matter so
+essential to democracy. While there are many issues that divide
+us, the integrity of the voting process should not be in
+question. Regardless of race, gender, sexual identity, ZIP
+Code, income, every vote should count, every vote should count
+the same. I believe that voting is the last true equalizer.
+However, Russia's interference in the 2016 election and
+intrusions in at least 21 State voter registration databases,
+indisputable and confirmed by U.S. intelligence agencies that
+forced us to acknowledge voting system security, has not kept
+pace with the current and emerging threats from nations,
+organizations, or even a single individual determined to
+undermine our democracy.
+Recently, I joined the Congressional Task Force on Election
+Security. Just as we keep our homeland safe from physical harm,
+so too must we harden our soft targets against cyber attacks.
+The Task Force has heard from security professionals, academia,
+and State and local elections officials. Their message is
+clear: We must act now to protect our voting systems.
+In over 40 States elections are carried out using voting
+machines and voter registration databases created more than a
+decade ago. These technologies are more likely to suffer from
+known vulnerabilities that cannot be patched easily, if at all.
+As we saw in the voting village setup at this year's DEFCON
+hacking conference, even hackers with limited prior knowledge,
+tools, and resources are able to breach voting machines in a
+matter of minutes. We should not assume that State voting
+machines are secure enough to withstand a state-sponsored cyber
+attack. And there is no reason to believe that these attacks
+will subside.
+Congress must do its part--yes, we must--and help States
+fund and maintain security election systems. This means funding
+to purchase newer, more secure election systems and voting
+machines with voter-marked paper ballots, helping establish and
+certify baseline cybersecurity standards for those systems and
+the vendors that service them, and encourage States to conduct
+post-election risk limiting audits.
+Our democratic process relies on voters' faith that their
+vote does count. Election security is national security, and
+our election infrastructure is critical infrastructure. With
+just under a year until the 2018 midterm elections, it is
+critical that we understand the vulnerabilities of the past and
+secure our networks for the future.
+I thank our witnesses again for sharing their testimony
+today, and I look forward to this very important discussion.
+Thank you so much.
+With that, I yield back.
+Mr. Hurd. Thank you, Ranking Member Demings.
+And now I'm pleased to introduce our witnesses. First and
+foremost, the Honorable Christopher Krebs, the senior official
+performing the duties of the under secretary for National
+Protection and Programs Directorate at the U.S. Department of
+Homeland Security.
+We have the Honorable Tom Schedler, Secretary of State for
+Louisiana. Thank you for coming up here today.
+Commissioner Cortes, the commissioner on the Virginia
+Department of Elections. Sir, thank you for being here.
+Dr. Matthew Blaze--excuse me--Blaze, associate professor of
+computer and information science at the University of
+Pennsylvania.
+And Ms. Susan Klein Hennessey, a fellow in national
+security and governance studies at the Brookings Institute.
+Welcome to you all. And pursuant to committee rules, all
+witnesses will be sworn in before you testify, so please rise
+and raise your right hand.
+Do you solemnly swear or affirm the testimony you're about
+to give is the truth, the whole truth, and nothing but the
+truth?
+Thank you.
+Let the record reflect that all witnesses answered in the
+affirmative.
+In order to allow time for discussion, please limit your
+testimony to 4 minutes. Your entire written statement will be
+made part of the record, and I appreciate you all's written
+statements, especially all of you all had, you know, outlined a
+number of interesting solutions to these problems, as well as
+articulating the concerns that we have. So folks that are
+interested in this topic, many of--all of these written
+statements is valuable in understanding the state of where we
+are.
+As a reminder, also, the clock in front of you shows your
+remaining time. The light will turn yellow when you have 30
+seconds left. And when it starts flashing red, that means your
+time is up. So please also remember to push the button to turn
+your microphone on before speaking.
+And we'd like to start with Mr. Krebs. You are now
+recognized for 5 minutes--4 minutes, excuse me.
+
+WITNESS STATEMENTS
+
+STATEMENT OF HON. CHRISTOPHER C. KREBS
+
+Mr. Krebs. Chairman Hurd, Chairman Palmer, Ranking Member
+Kelly, and Ranking Member Demings, and the members of the
+subcommittee, thank you for this opportunity to discuss the
+Department of Homeland Security's ongoing efforts to enhance
+the security of our elections.
+In 2016, the United States saw malicious cyber operations
+directed against U.S. election infrastructure and political
+entities. Since January, we have reaffirmed the designation of
+election systems as critical infrastructure and the clear-eyed
+threats to our Nation's election systems remain an ongoing
+concern.
+The organization I lead, the National Protection and
+Programs Directorate at the Department of Homeland Security, is
+leading an interagency effort to provide voluntary assistance
+to State and local officials. This interagency assistance
+brings together the Election Assistance Commission, the FBI,
+the intelligence community, NIST, and other DHS partners, and
+is modeled on our work with other critical infrastructure
+sectors.
+Our Nation's election systems are managed by State and
+local governments in thousands of jurisdictions across the
+country. State and local officials have already been working
+individually and collectively to reduce risks and ensure the
+integrity of their elections. As threat actors become
+increasingly sophisticated, DHS stands up in--stands in
+partnership to support the efforts of election officials.
+DHS offers three primary types of assistance: assessments,
+information, and incident response. DHS typically offers two
+kinds of assessments to State and local officials. First, the
+cyber hygiene service for internet-facing systems provides a
+recurring report identifying vulnerabilities in internet-
+connected systems and mitigation recommendations. Second, our
+cybersecurity experts can go onsite to conduct risk and
+vulnerability assessments. These assessments are more thorough
+and result in a full report of vulnerabilities and
+recommendations allowing the testing. As we continue to
+understand the requirements from our stakeholders, we'll refine
+and diversify these voluntary offerings.
+In terms of information sharing, DHS continues to share
+actionable information on cyber threats and incidents through
+multiple means. For example, DHS published best practices for
+securing voter registration databases and addressing potential
+threats to election systems.
+We share cyber threat indicators and other analysis that
+network defenders can use to secure their systems. The National
+Cybersecurity and Communications Integration Center, the NCCIC,
+works with the Multi-State Information Sharing and Analysis
+Center to provide threat and vulnerability information to State
+and local officials.
+Election officials may also receive information and
+assistance directly from the NCCIC or through field-based
+cybersecurity advisors and protective security advisors.
+Notably, we're offering security clearances initially to senior
+election officials, and we're also exploring additional
+clearances to other State officials.
+In our third category, the DHS's NCCIC provides incident
+response assistance to help State and local officials identify
+and remediate any possible incidents. In the case of an
+attempted compromise affecting election infrastructure, the
+NCCIC shares anonymized information with other States to assist
+their ability to defend their own systems in a collective
+defense approach.
+It is important to note that these relationships are built
+and sustained on trust. Breaking that trust will have far-
+ranging consequences in our ability to collaboratively counter
+this growing threat.
+To formalize and coordinate efforts with our Federal
+partners and election officials, we have established the
+Government Coordinating Council. We are similarly working to
+formalize partnerships with private sector industry through a
+sector coordinating council. Within this environment of sharing
+critical threat information, risk management, best practices,
+and other vital information, DHS is leading Federal efforts to
+support and enhance security across the Nation.
+Securing the Nation's election systems is a complex
+challenge and a shared responsibility. There is no one size
+fits all solution. In conversations with election officials
+over the last year, in working with the EAC, NIST, DOJ, the
+Department has learned a great deal.
+First, as you'll hear from Louisiana and Virginia, election
+officials already do great work. But like many other
+institutions in government and the private sector, resources
+remain a challenge. Not only budget for modernizing legacy IT,
+but also workforce training and recruitment around these
+critical skills. As we work collectively to address these and
+other challenges, the Department will continue to work with
+Congress and industry experts to support our State and local
+partners.
+Thank you for this opportunity to testify, and I look
+forward to any questions.
+[Prepared statement of Mr. Krebs follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Krebs.
+And, Secretary Schedler, again, I want to thank you for
+being flexible. I know this has been rescheduled a few times,
+but your perspective and experience on this topic is important,
+and thank you for being here. And, sir, you're now recognized
+for 4 minutes.
+
+STATEMENT OF HON. TOM SCHEDLER
+
+Mr. Schedler. Thank you, Mr. Chairman, and thank you to
+this committee for the invitation to participate today.
+It's important for you to hear the perspective of those who
+oversee elections across the country. My perspective comes from
+serving as Louisiana's Secretary of State since 2010, and past
+president of the National Association of Secretaries of State,
+or NASS, which represents a majority of the Nation's chief
+election officials.
+Securing elections in the November 2018 and beyond is
+critical and important to all of us and our Nation's
+secretaries of state. We are not naive to the likelihood of
+future cyber attacks, but we also know the use of paper ballots
+can just as easily open up fraud vulnerabilities unless strong
+protocols are followed by election officials. That's why all 50
+States continue to prepare accordingly.
+First, I'd like to share with you the important
+developments taking place through NASS Election Cybersecurity
+Task Force, which was established in February of this year.
+This is a bipartisan body of the Nation's chief election
+officials. In addition to helping States share information and
+combat cyber threats, the task force assists in creating
+partnerships with public-private stakeholders, including the
+U.S. Department of Homeland Security and the U.S. Election
+Commission as well.
+NASS has been a key player in the development of new
+Election Infrastructure Coordinating Council. This council is
+required as a result of the new designation for elections as
+critical infrastructure. The Council is designated or designed
+to facilitate improved communications that, as you know, did
+not go extremely well in 2016. NASS opposed the critical
+infrastructure designation because our members were concerned
+about the possibility of Federal overreach and because the
+designation came without meaningful consultation with any
+election officials.
+My colleagues and I understood that we could continue to
+get the same support and services from DHS without critical
+infrastructure designation. So it seemed unnecessary. However,
+the designation is still with us today, and we have made good-
+faith efforts to work together with DHS. Part of that work
+includes chief election officials obtaining security
+clearances. We have often been told by DHS that they can't
+share information because it is clarified--classified, excuse
+me. Hopefully, these new clearances will address this problem.
+Ensuring the integrity of the voting process is central to
+the role of every chief elections officer, including myself.
+And as some examples, in Rhode Island, Secretary Nellie Gorbea,
+convened over 100 election and IT officials for a cybersecurity
+summit. In West Virginia, Secretary Mac Warner has added an Air
+National Guard cybersecurity specialist to his staff. Vermont
+Secretary of State Jim Condos solicited a third party risk
+assessment of data systems in 2015 that lead to his office to
+build a new firewall and began regular penetration testing.
+Colorado Secretary Wayne Williams' office provides end point
+protection software for counties to install on their computers
+to detect viruses and malware functions.
+And many States have or are developing disaster
+preparedness and recovery plans that include strategies on
+election systems and data are disrupted. In Louisiana, our
+hurricane season, we are one of those States for sure that is
+very expert in that field.
+In terms of voting machines security, you remember that
+with the passage of the Help America Vote Act in 2002, States
+were required to purchase at least one piece of accessible
+voting equipment for each polling place. The Election
+Assistance Commission and the National Institute on Standards
+and Technology began updating the existing voting system or
+guidelines to address new systems such as DREs.
+Last month, the EAC released their latest update to
+volunteer voting systems guidelines. The guidelines are set for
+manufacturing specifics that are certain standards of
+functionality, accessibility, accuracy, audibility, and
+security capabilities. And final approval by EAC is expected in
+the spring of 2018.
+In Louisiana, we take pride and go way beyond any current
+standards with our voting machines. We are a top down State.
+The State purchases, warehouses every voting machine in the
+State. Additionally, we have the most current software
+available in all of our voting machines, and we test each and
+every one before and after elections. Once the machines are
+tested, a tamper-proof seal is placed on them to protect
+against any intrusion.
+In Louisiana, because no one touches our voting machines
+except our staff, because they are never sent out to a
+manufacturer for repair, they are not handled by individuals or
+companies who program voting machines because they are readily
+tightly controlled by our office. We have the utmost of
+confidence in the system.
+We do need to prepare. Yes. We do need to continue to
+update our processes and procedures. Yes. We do need to be
+vigilant. Yes. As secretaries of state, at NASS, we are
+currently looking for better practices that we can solicit from
+various entities and groups. And most of all, we're looking for
+the remaining $396 million in Federal HAVA that we have never
+been appropriated to help us replace aging equipment purchased
+over 10 years ago.
+I'll certainly be available for any questions.
+[Prepared statement of Mr. Schedler follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+And, Commissioner Cortes, I'd like the record to reflect
+that you were prepared to come testify the day after your most
+recent elections, and I appreciate your willingness to address
+this body. And, sir, you're now recognized for 4 minutes.
+
+STATEMENT OF HON. EDGARDO CORTES
+
+Mr. Cortes. I'm Edgardo Cortes. I'm the Commissioner of
+Elections in Virginia. In this role, I serve as the chief
+election official for the Commonwealth, and I lead the Virginia
+Department of Elections.
+Virginia has 133 local election jurisdictions and over 5
+million active registered voters.
+So you have my written remarks, and today I'm going to
+focus on the recommendations that I provided in there.
+During my tenure, the Department has focused on using
+technology to create a better voting experience for eligible
+Virginians, and reduce the administrative workload for local
+election officials, while increasing security and
+accountability in our processes.
+As part of the McAuliffe administration's focus on
+cybersecurity, one aspect of the these wide-ranging efforts has
+been to strengthen the security and reliability of Virginia's
+voting equipment, including the voting machines and the
+electronic pollbooks used to administer elections in the
+Commonwealth.
+When I became commissioner in 2014, approximately 113 of
+Virginia's 133 localities used paperless DREs that were over a
+decade old and already past their expected end of life. I'm
+happy to say that all Virginians voted using a paper-based
+system in the November 2017 general election.
+Virginia has twice been put in the unfortunate position of
+having to decertify voting equipment and transition to new
+equipment in a condensed timeframe based on security concerns,
+previously used DREs. These steps, outlined in detail in my
+written testimony, were not taken lightly. They placed a
+financial and administrative stress on the electoral system.
+They were, however, essential to maintain the public's trust
+and the integrity of Virginia elections.
+The November 2017 general election was effectively
+administered without any reported voting equipment issues.
+Thanks to the ongoing partnership between the State, our
+hardworking local election officials, and our dedicated voting
+equipment vendors, the transition to paper-based voting systems
+on a truncated timeline was incredibly successful and
+significantly increased the security of the election.
+Although it's clearly possible to transition quickly, doing
+so is less than ideal. I request that you consider the
+following recommendations, which I believe will make these
+issues much easier to manage in the future.
+Number one, Congress needs to ensure sufficient Federal
+funding is available for States to procure and maintain secure
+voting equipment and increase security of all election systems.
+This is a critical need and must be addressed immediately if
+the funding is going to provide any assistance in time for the
+2018 midterm elections.
+Number two, the U.S. Election Assistance Commission has
+been critical to ensuring that a baseline set of standards for
+voting systems, adequate testing protocols, and certified test
+labs are available to States. Congress must ensure the EAC is
+fully funded so they can continue to be an exceptional resource
+to State and local officials.
+Number three, Congress should ensure the use of or--to
+ensure the use of secure voting equipment in the future,
+Congress should require Federal certification of all voting
+systems used in Federal elections. This is currently a
+voluntary process. Federal certification should also be
+required for electronic pollbooks, which currently are not
+subject to any Federal guidelines. Requiring Federal
+certification for both of these will ensure there is a security
+baseline for use across the country to ensure the integrity and
+security of our elections.
+And finally, Congress should establish some sort of
+accreditation system for election administrator training to
+ensure that the individuals responsible for this fundamental
+American right are equipped with the appropriate skill and
+knowledge set. Elections are an integral function of
+government, and we still have much more to do in Virginia and
+across the country to secure our election infrastructure from
+potential threats, especially with the midterm elections
+quickly approaching.
+While we're extremely appreciative of the work and
+assistance provided by the EAC and DHS to date, the Federal
+Government can and should do more to assist States in
+safeguarding this most fundamental American right.
+Thank you again for inviting me to join you today and your
+interest in hearing from election administrators about the work
+being done to secure the Nation's voting systems. We look
+forward to continuing to work with Congress to ensure
+sufficient Federal resources are available to State and local
+election officials to continue this important work. Thank you.
+[Prepared statement of Mr. Cortes follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+Dr. Blaze, great to have you here. And having participated
+and walked through the voting village at DEFCON, I saw up close
+and personal what the white hat hacker community and security
+research community does and the impact they have on public
+policy. And so thank you for your efforts there, and you're now
+recognized for 4 minutes.
+
+STATEMENT OF MATTHEW BLAZE, PH.D.
+
+Mr. Blaze. Thank you very much, Mr. Chairman, the ranking
+members, and all of the members who are here today.
+As a computer scientist who specializes in the security of
+large scale critical systems, I've had an interest in
+electronic voting technology since it was first introduced at
+large scale in the United States after the passage of the Help
+America Vote Act in 2002.
+In particular, I lead several of the teams commissioned in
+2007 by the secretaries of state of California and Ohio to
+evaluate the voting system products used in those States, as
+well as elsewhere in the Nation. I also helped organize the
+DEFCON voting machine hacking village that was held this
+summer, at which these systems were made available really to a
+larger community for the first time--for the first time ever.
+Virtually every aspect of our election process, from voter
+registration to ballot creation to casting ballots, and then to
+counting and reporting election results is, today, controlled
+in some way by software. And, unfortunately, software is
+notoriously difficult to secure, especially in large scale
+systems such as those used in voting.
+And the software used in elections is really no exception
+to this. It's difficult to overstate how vulnerable our voting
+infrastructure that's in use in many States today is,
+particularly the compromise by a determined and well-funded
+adversary. For example, in 2007, our teams discovered
+exploitable vulnerabilities in virtually every voting system
+component that we examined, including back-end election
+management software as well as, particularly, DRE voting
+terminals themselves.
+At this year's DEFCON event, we saw that many of the
+weaknesses discovered in 2007, and known since then, not only
+are still present in these systems, but can be exploited
+quickly and easily by nonspecialists who lack access to
+proprietary information such as source code. These
+vulnerabilities are serious, but ultimately unsurprising.
+The design of DRE systems makes them particularly dependent
+on the really Herculean task of securing all of the software
+components that they depend on. And this would be, under the
+best of circumstances, an extraordinarily difficult thing to
+do. So what we're seeing is both alarming as well as
+unsurprising.
+Worst, as we saw in 2016, we largely underestimated the
+nature of the threat to the extent these systems are intended
+even to be secure. That is, they're designed against a
+traditional adversary who wants to cheat in an election and
+alter the results. But there's actually an even more serious
+adversary, a nation state or a state actor who might seek to
+disrupt an election, cast doubt on the legitimacy of the
+outcome, and cause a threat to our confidence in legitimacy of
+our elected officials.
+I discuss all of these issues in detail in my written
+testimony, and I offer really three particular recommendations.
+The first is that paperless DRE voting machines should be
+immediately phased out from U.S. elections, in favor of systems
+such as precinct counted optical scan ballots that leave a
+direct artifact of the voters' choices.
+Secondly, statistical risk limiting audits should be used
+after every election to enable us to detect software failures
+in the back-end systems and recover the true election results
+if a problem is found.
+And then, finally, additional resources, infrastructure,
+and training should be made available to State and local voting
+officials to help them more effectively defend their systems
+against increasingly sophisticated adversaries.
+So thank you very much.
+[Prepared statement of Mr. Blaze follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+Ms. Hennessey, you're now recognized for 4 minutes.
+
+STATEMENT OF SUSAN HENNESSEY
+
+Ms. Hennessey. Thank you to Chairman Hurd, Ranking Member
+Kelly, to Chairman Palmer, and Ranking Member Butler Demings,
+and to the distinguished members for the opportunity to speak
+to you today.
+My name is Susan Hennessey. I am the executive editor of
+Lawfare and a fellow at the Brookings Institution where my
+research focuses on the law and policy governing cybersecurity
+and surveillance. Prior to Brookings, I served as an attorney
+for the National Security Agency, though my comments today
+reflect only my personal views, and not those of my current or
+prior employer.
+I'd like to begin by noting how extraordinary it is that a
+full year after the last presidential election, there is still
+enduring attention to the issue of election security. This
+moment really represents a remarkable opportunity to take long
+overdue steps towards securing Federal and State elections. In
+order to do so, however, it is necessary to carefully define
+the issues and to disentangle pure election security from
+broader information operations, or covert influence campaigns.
+Information operations certainly impacts the broader
+context in which elections occur, but they are distinct
+problems with distinct solutions.
+The matter currently before these committees is narrower,
+but no less pernicious: the threat to election infrastructure
+and voting systems related to the management and administration
+of elections. The election security threat is not limited
+exclusively to changing the vote counts. As other experts have
+testified here today, altering vote tallies is technically
+possible. However, it remains difficult to do so on the scale
+necessary to predictably change the outcome of the statewide or
+national election.
+The probable actors with both the incentives and technical
+capacity to carry out sophisticated attacks are foreign
+governments, which would need to avoid both forensic detection
+and that of the U.S. and allied intelligence communities.
+Unfortunately, U.S. adversaries have a far more achievable aim,
+to undermine the confidence of the American people in their
+government and their processes and institutions, and in the
+selection of their leaders. To do so, a malicious actor needs
+only to penetrate systems in a manner that introduces
+uncertainty. This landscape increases the importance of being
+cautious in how we discuss election security issues to avoid
+inadvertently undermining confidence ourselves.
+Congressionally driven solutions should account for
+international and domestic realities. Internationally, while
+most recent attention has been on Russia, any number of U.S.
+adversaries, including China, North Korea, and Iran, possess
+the capabilities and interest to be of genuine concern.
+Enduring solutions cannot be country-specific.
+Domestically, a strong tradition of Federalism and election
+administration ensures that despite clear constitutional
+authority, any perceived Federal overreach will meet strong
+resistance from States on political and policy grounds. Keeping
+those features and the nature of the threat in mind, I believe
+Congress should adopt the following broad solutions which are
+detailed more extensively in my statement for the record.
+First, to direct the development of a national strategy for
+securing elections aimed at protecting systems, deterring bad
+actors and bolstering public confidence. Second, provide
+Federal resources to States in the form of funding, support,
+and best practices. Third, regulate election technology
+vendors, which currently operate in limited and proprietary
+markets that leave States with insufficient power to dictate
+security standards. Fourth, lead the development of
+international norms against election interference.
+Finally, Congress, as our primary elective body, must renew
+and sustain political commitment to the issue of election
+security, and reestablish norms that have been broken in the
+way we discuss election integrity and outcomes.
+Thank you, again, for the opportunity to address you today.
+I look forward to taking questions on this important national
+security issue.
+[Prepared statement of Ms. Hennessey follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you.
+And to start off our first round of questions will be the
+distinguished gentleman from Alabama, Chairman Palmer. You're
+recognized for 5 minutes.
+Mr. Palmer. Thank you, Mr. Chairman.
+Dr. Blaze, what do you think is the biggest takeaway from
+the DEFCON report?
+Mr. Blaze. So I think the biggest takeaway is both alarming
+and yet unsurprising, and that is that vulnerabilities that we
+knew in principle were present are, in fact, exploitable in
+practice by nonspecialists.
+Mr. Palmer. Here's a question that I'm going to direct to
+you but some others may want to respond to it. I'm very
+concerned about foreign influence on our elections. But we--to
+the last year, particularly the last few years, we've had
+hundreds, if not thousands, of reports of domestic voter fraud,
+whether it's voter register, it's manipulation of ballots at
+the polling place. Is that not also a threat to our elections?
+Mr. Blaze. Well, certainly, you know, the potential threats
+to our election are very broad, and they include everything
+from the voter registration process through the reporting of
+election results. My concern as a computer scientist, and my
+expertise, is particularly on the technical vulnerabilities
+present in these systems as they're designed and built. And
+what, really, every expert who has looked at these systems has
+found is that the attack surface of these machines leaves us
+particularly vulnerable----
+Mr. Palmer. But not just to foreign----
+Mr. Blaze. --adversary----
+Mr. Palmer. But not just to foreign interference but
+domestic interference as well. Wouldn't you agree?
+Mr. Blaze. Absolutely. A determined domestic adversary----
+Mr. Palmer. So someone with a political agenda could--if
+they had the technical expertise, would be as much a threat as
+a foreign entity. Would that be a reasonable conclusion?
+Mr. Blaze. That's right. Particularly someone interested in
+disrupting an election, or casting doubt on the legitimacy. The
+way these systems are--particularly DRE-based systems are
+designed, it's very difficult to disprove that tampering has
+occurred. And, ultimately, that's a critical aspect of being
+able to have confidence in the result.
+Mr. Palmer. One of the things that particularly concerns me
+is, is that you can be disconnected from the internet, from
+WiFi, and still hack a machine because of the potential of
+parts within the machine, foreign-manufactured parts. Can you
+talk briefly about that?
+Mr. Blaze. That's right. The design of DRE systems makes
+their security dependent not just on the software in the
+systems, but the hardware's ability to run that software
+correctly and to protect against malicious software being
+loaded. So an unfortunate property of the design of DRE systems
+is that we have basically given them the hardest possible
+security task. Any flaw in a DRE machine's software or hardware
+can become an avenue of attack that potentially can be
+exploited. And this is a very difficult thing to protect.
+Mr. Palmer. Do we need to go to, even if we have some
+electronic components, to back it up with paper ballots?
+Because your fallback position is always to open the machine
+and count the ballots.
+Mr. Blaze. That's right. So print and counted optical scan
+systems also depend on software, but they have the particular
+safeguard that there is a paper artifact of the voter's true
+vote that can be used to determine the true election results.
+Paperless DRE systems don't have that property, so we're
+completely at the mercy of the software and hardware.
+Mr. Palmer. As inconvenient as it might seem, I mean, for
+years and years and years, we relied on paper ballots. It
+doesn't seem unreasonable that that would be a great safeguard.
+I want to ask Secretary Schedler and Cortes about this. In
+Alabama, it's a mixture of voting machines. Do you have that as
+well? I mean, do you have kind of an all over the roadmap?
+Mr. Schedler. Congressman Palmer, Louisiana is what we call
+a top-down system. We control, as I indicated in my opening
+comments, all of our own machines. We warehouse our own
+machines. You know, we do have a tape system of paper behind
+that that we can audit specifically with three different types
+of processes. It has never been unproven in a court of law. And
+the only thing I want to add to the DEFCON is that, look, I
+welcome anyone from the academic side to look at any system.
+But let's put it in contents. The contents is an unfettered
+access to a machine that's given to them in a laboratory. Let's
+talk about when you discover--and I'm certain the professor
+from University of Pennsylvania, or MIT, or anyone, if I gave
+them unfettered access to a machine can figure out how to
+tinker with that machine or disrupt it. That machine.
+In Louisiana, as most States, the machines are not linked
+together. Each one has a separate cartridge to itself. And I
+guess the implication is that at the point of programming, you
+could do something to that. I guess that's possible, and I
+wouldn't argue that point with someone much more learned on
+that subject than I.
+But, again, in a top-down system, that would mean someone
+in my office, on a computer that is cleaned and scrubbed before
+an election and after, would have to have access to that
+program and equipment in my office.
+The other thing that's never mentioned in any of the
+hacking of a machine is after you figure out what you're going
+to do, has anyone yet ever sat down and discussed--and I'll
+only give you Louisiana--in roughly a 36-hour period, after we
+go into the machine, put a metal clamp like you have an on your
+electrical box at your home, with a serial number, figure out
+they're going to get into 64 warehouses across my State, go
+into 10,200 machines, undetected under camera, no one saw you,
+unscrew the back of the panel, do what you're going to do, put
+the panel back on, and figure out how you're going to put that
+metal clamp back on.
+So the point I'm making is that a lot of these things that
+we talk about are certainly possible. But I would suggest to
+you the amount of people you'd have to put in play to commit
+this fraud, it would be easier to do a stump speech and
+basically convince them to vote your way, the legal way.
+Now, there is no such thing as a perfect election. None.
+There are issues that occur from electricity going out, to
+fires at a precinct--I could go on and on--flooding in
+Louisiana and the like. But, you know, one of the things that
+everybody has to understand is all of these conversations
+around this all deter voter participation, whether you believe
+it or not.
+Mr. Palmer. Let me just say this, Mr. Chairman. I
+appreciate your answer, Mr. Secretary. Is that a couple of
+things that I hope that we're sensitive to. One is that we
+don't want the Federal Government's involvement in this to
+infringe upon the State's authority to conduct elections. And
+then the other is, is that we don't want to just be so focused
+on foreign interference that we don't give due diligence to
+addressing the domestic threat as well.
+I yield back.
+Mr. Hurd. Ranking Member Kelly, you're now recognized.
+Ms. Kelly. Thank you, Mr. Chair.
+Mr. Krebs, I wanted to ask about your agency's efforts,
+DHS, to notify 21 States about Russian attacks on their State
+election systems. On October 20, Ranking Member Cummings and I
+sent a letter to DHS requesting copies of the notifications you
+sent to 21 States that were attacked before the last elections.
+And, Mr. Chairman, I ask for unanimous consent that this
+letter be made part of the official record for today's hearing.
+Mr. Hurd. So ordered.
+Ms. Kelly. In our letter, we also asked for other
+materials, including all documents, and I quote, ``relating to
+Russian Government-backed attempts to hack State election
+systems.'' Our letter asked for these documents by October 31,
+but we got nothing. So earlier this week, the Republican
+committee staff kindly agreed to help us make crystal clear to
+DHS that we wanted these documents before today's hearings so
+we could ask informed questions. DHS assured us that they would
+respond. Instead, late in the day yesterday DHS sent us only an
+email with a short script that DHS employees apparently read
+over the phone to State election officials.
+Mr. Krebs, I'm just asking, where are the rest of the
+documents that we requested?
+Mr. Krebs. Ma'am, I'm aware of the script that was
+provided. A lot of those notifications were over the phone.
+They were not via email. There may have been some follow-up
+conversations. As to the rest of the documents, if you'll
+permit me to go back, and I commit to you that we will have a
+more fulsome answer for you. But as to the specifics of each
+document, I would have to go back and check on that.
+Ms. Kelly. Okay. I'm counting on you----
+Mr. Krebs. Yes, ma'am.
+Ms. Kelly. --to deliver. Because the telephone script is
+literally only 13 sentences long. It does not refer to any
+specific State or any specific attack. It is just a generic
+script that provides no additional information at all.
+And, you know, just curious about where are all the
+supporting documents that we requested that set forth the
+details of the attack? And, with all due respect, the telephone
+script does not help us do our job, which will help you in
+turn.
+You have not provided us with any information about the
+tools the attackers used, or the tactics that they utilized, or
+any information on the results of your conversations with these
+States or the steps you took to follow up. So it's been more
+than a month since we asked for those documents, and the
+majority wants those documents also. Can you tell us what the
+holdup is?
+Mr. Krebs. Ma'am, I'm not aware of any particular holdup.
+What I will say is the nature of the conversations we've had
+over the last, frankly, year with the States--and I've had a
+number of conversations with Secretary Schedler, my team has
+regular conversations with Commissioner Cortes, and a range of
+other State election officials. When you characterize these
+things as attacks, I think that that is perhaps overstating
+what may have happened in the 21 States as was mentioned over
+the course of the summer.
+The majority of the activity was simple scanning. Scanning
+happens all the time. It's happening right now to a number of
+probably your websites. Scanning is a regular activity across
+the web. I would not characterize that as an attack. It's a
+preparatory step.
+In terms of those scripts, there are two scripts. One
+script was provided to States that wanted additional
+information if they were included in that batch of 21. And in
+the other script is for those States that were not in that
+batch of 21. So if that context was not provided, I apologize,
+and I'm happy to follow up and make sure that you get the
+information that you're looking for.
+Ms. Kelly. Okay. And I just want to make sure the chairman
+is willing to work with me today by directing DHS to provide
+all the documents actually within 1 week, and that I hope we
+can work together to get these documents as soon as possible,
+hopefully in 1 week. Because this hearing is supposed to be
+about cybersecurity of voting machines and our investigation
+should be bipartisan. Yet, DHS is withholding the very
+documents that would help us, on both sides of the aisle, help
+our committee understand how our State election systems were
+attacked by the Russians. So I look forward to your cooperation
+and working with my chairman.
+I yield back.
+Mr. Hurd. Would you yield to me?
+Ms. Kelly. Of course.
+Mr. Hurd. Mr. Krebs, was there anything other than scanning
+done at those 21 locations?
+Mr. Krebs. The vast majority of those 21 States were, in
+fact, scanning. There was a very small subset of those groups
+that there was a compromise on the voter registration side, but
+not within the tallying. And then there was some additional--a
+small group, also, that had some targeting. So we actually
+winnowed it down.
+Now, when we talk about that scanning, it was not, also,
+necessarily an election system that was scanned. That's
+additional context that we provided to our partners in the
+State election offices. What we saw in a lot of those cases
+was, frankly, drive-bys. It was--you know, you think about
+walking down the street, and you're looking for a house. You
+knock on the door. You don't know what's there. You may be
+looking to get into the neighbor's house, looking for a key. I
+apologize for the kind of mundane analogy. But that's simply
+what we saw was doing a drive-by, seeing what was there, seeing
+if the door was locked. In a lot of the cases, as Secretary
+Schedler pointed out, there was adequate protections involved.
+Mr. Russell. So, Mr. Krebs, you'll be able to provide us
+with the details of who was in addition to scanning and what
+the nature of that contact was?
+Mr. Krebs. In terms of the States that were targeted or
+scanned, that's a difficult conversation because the
+information is provided to us based on trust, just like all our
+other relationships with the critical infrastructure community.
+The fact that we don't have statutory authorities to compel, we
+are engaging on a trust-based relationship here. If I then turn
+around and share information that Tom provided to me outside of
+the scope of that confidential relationship, Tom will never
+share with me again.
+In fact, Edgardo will never share with me again. And this
+is going to jump out of this relationship. And the entire
+cybersecurity mission of the Department of Homeland Security,
+it is a voluntary mission. That entire mission will be
+jeopardized if we divulge confidential information.
+So I am happy to provide contextualized information on the
+nature of those 21 States. But in terms of the 21 States, I
+suggest you reach back to your--and I will help with you to
+reach back to your States--ma'am, you mentioned that your State
+may have been one. I will help you have that and facilitate
+that conversation. But today, while we're sitting here, I also
+encourage you to ask my counterparts here from the States.
+Mr. Hurd. Mr. Duncan, you're now recognized for 5 minutes.
+Mr. Duncan. Thank you very much, Mr. Chairman.
+I want to go back into this DEFCON conference from this
+past July. The article that I have said participants tested
+over 25 pieces of election equipment, and every piece was
+effectively breached in some manner. And it says in the DEFCON
+report on the voting machine hacking, the results were, quote,
+``By the end of the conference, every piece of equipment in the
+voting village was effectively breached in some manner.
+Participants with little prior knowledge and only limited tools
+and resources were quite capable of undermining the
+confidentiality, integrity, and availability of these systems.
+And back just a few months ago when they had the worldwide
+cyber attacks, I don't often quote a liberal--don't often quote
+liberal magazines in here, but Robert Kuttner, the editor of
+The American Prospect Magazine, he wrote this. This was written
+in The Huffington Post. He said, ``Last week's cyber attack to
+produce the wrong reasons''--``the wrong lessons.'' The
+immediate takeaway seems to be that large institutions need
+much better cybersecurity systems. But there's a much simpler
+and better solution. Vital systems that can't withstand the
+catastrophic risk of malicious hacking should just go offline.
+Hackers will always be able to find ways of getting into
+network systems. The fantasy of ever-better cybersecurity is
+delusional. We could spend half the GDP on network security and
+someone will still find a way to breach it.
+I know that we have addicted almost everyone in this
+country to the computers and the iPads and so forth. But I tell
+ya, I believe that cybersecurity is a multi-billion-dollar
+hoax. And I'm sure what we're going to do, we're going to spend
+untold billions trying to come up with these systems that, as
+Mr. Kuttner says, it's a fantasy.
+And I think the solution should be that we should go to the
+Canadian system. I read several years ago that they had much
+smaller precincts. They're usually on average of 500 people per
+precinct, and they use paper ballots. And I know that's old
+fashioned. But I think we're headed down the wrong path here.
+It's a path that I'm sure we're going to go on. But I think
+that--I agree with Mr. Kuttner and also the findings of this
+DEFCON report.
+Anybody want to say anything?
+Mr. Schedler. I'll just say Louisiana is not one of the 28
+States--21 States. Excuse me. So you can scratch one off.
+Mr. Hurd. Thank you.
+Mr. Duncan. All right. Well, I yield back, Mr. Chairman.
+Mr. Hurd. Ranking Member Demings, you are now recognized
+for 5 minutes.
+Mrs. Demings. Thank you so much, Mr. Chairman.
+You know, as we continue this discussion today, I cannot
+help but think about my own parents. My mother was a maid, and
+my father was a janitor. They didn't have a lot that other
+people had, but they did have their votes. And I cannot
+remember an election growing up where they did not cast that
+vote. They believed that it mattered. And I would hope that
+every witness here today and every member of our subcommittee,
+regardless of if you were a billionaire or a maid and a
+janitor, that we would all work to protect the integrity of our
+voting system in the greatest country in the world.
+So, Dr. Blaze, I want to go back to the DEFCON report that
+we've talked quite a bit about today. And I certainly listened
+to some of the comments my colleague, Mr. Duncan, made about
+how these systems were breached. But could you please talk a
+little bit more about the equipment that was used to breach the
+systems? Was it sophisticated equipment or not? And what kind
+of prior knowledge did the breachers have, if any at all?
+Mr. Blaze. So, first of all, I'd like to point out the
+DEFCON Voting Village was not intended to be a formal security
+assessment. It was an informal opportunity for people from a
+broader community, really for the first time, to get access to
+actual voting equipment.
+We got about five different models of voting machine and
+electronic poll book, made them available. We made available
+the reports that had been published about these equipments in
+some cases. And that was it. We opened the doors on Friday
+afternoon, and people came in and any tools and equipment that
+they brought to that, they were--they had to bring in
+themselves. There was no access to any proprietary information,
+no computer source code was available. Just the equipment and
+electricity.
+Mrs. Demings. And I know some or many have criticized or
+questioned the vulnerability of the ability to hack the systems
+because of the decentralized nature of the machines. Do you
+agree that the decentralized nature of our elections protects
+us from disruption or not so much?
+Mr. Blaze. You know, it's a double-edged sword. The fact
+that we have highly heterogeneous systems that are
+decentralized in their administration makes it difficult for
+somebody to do a single thing that will affect us on a national
+scale. And that is, in fact, an important safeguard. But it
+cuts both ways. There's, in fact, only a relatively limited
+number of different models of voting equipment used in the
+United States. And an adversary, particularly a foreign state
+actor interested in disrupting our election process, has the
+luxury of being able to pick the weakest systems and need only
+find the most poorly administered and the most vulnerable
+systems to do sufficient damage to suit their needs. So while
+it may make us more secure against somebody with one-stop
+shopping disrupting a national election, it actually increases
+our vulnerability to some disruption happening, perhaps
+sufficient disruption that we don't have confidence in the
+outcome.
+Mrs. Demings. We've heard a lot about the need for an
+audit. What type of audit do you believe would have to be
+performed on a paperless voting machine to verify the vote
+counts or verify that the vote counts had not been altered?
+Mr. Blaze. So paperless voting machines essentially are
+voting computers that are completely dependent on the software
+that was running on them at the time of the election. There is
+no fully reliable way to audit these kinds of systems. We may
+get lucky and detect some forensic evidence. But, ultimately,
+the design of these systems precludes our ability to do a
+conclusive audit of the voter's true intent. That's why
+paperless systems really need to be phased out in favor of
+things like optical scan paper ballots that are counted at the
+precinct but backed by an artifact of the voter's true intent.
+Mrs. Demings. Thank you, Dr. Blaze.
+And, with that, I yield back.
+Mr. Hurd. Mr. Mitchell, you're recognized for 5 minutes.
+Mr. Mitchell. Thank you, Mr. Chair.
+Mr. Krebs, could you help me with one thing? On June 21st,
+Secretary Johnson--and this is a quote--appeared before the
+House Permanent Select Committee on Intelligence. He said: ``To
+my current knowledge, the Russian Government did not, through
+any cyber intrusion, alter any ballots, ballot counts, or
+reporting of election results.'' Has anything changed since
+that point in time that you're aware of?
+Mr. Krebs. Not to my knowledge. No, sir.
+Mr. Mitchell. So you have received no information that the
+election results, either at the Federal level or the States you
+looked at, were altered in terms of counts or outcomes?
+Mr. Krebs. No, sir, I don't have any additional or contrary
+information to----
+Mr. Mitchell. Do you have any indication that any actor, be
+they foreign agency or domestic, actually attempted to
+influence the vote counts or ballot activity?
+Mr. Krebs. Sir, I believe that's a different question.
+Mr. Mitchell. Yes. You're correct.
+Mr. Krebs. My understanding, the intelligence assessment is
+that a foreign adversary--now, if I can back up. You said June.
+June of 2016?
+Mr. Mitchell. 2017. June 21, 2017.
+Mr. Krebs. So former Secretary Johnson.
+Mr. Mitchell. Former Secretary. I'm sorry, yes.
+Mr. Krebs. So since then, any opportunity to influence, is
+that your question?
+Mr. Mitchell. The question is, did you find any indication
+that there was any effort to, by domestic or foreign influence,
+to affect the ballot results since that point in time?
+Mr. Krebs. No, sir.
+Mr. Mitchell. Thank you.
+Let me ask the group as a whole. I think the consensus is
+that the integrity of our election is a national infrastructure
+issue. Anybody disagree about that? It's every bit as important
+as our roads, our ports, our waterways. You know, we don't
+invest any Federal money, never mind Federal standards or some
+guidelines on that. Is anybody opposed to the idea that we go
+forward with some form of a--we invest to support that program
+with some kind of guidelines the States can choose to whether
+they want to participate or not?
+Mr. Schedler. I think best practices would be a better word
+to use. I think that the States as a whole--and I speak in a
+nonpartisan fashion----
+Mr. Mitchell. Sure.
+Mr. Schedler. --would be adamantly against an intrusion of
+the Federal Government----
+Mr. Mitchell. Oh, I agree.
+Mr. Schedler. --of course we would do it, because it's in
+the Constitution. But certainly best practices. I think there
+are a lot of evidence of that with some of the entities that
+are out there today. We welcome additional ones. Certainly,
+we're not----
+Mr. Mitchell. Let me clarify for you, Secretary. I wasn't
+suggesting that we impose a system on the States, simply we
+have a grant program with a range of options, and States,
+particularly areas----
+Mr. Schedler. Usually, the grant programs have strings
+attached.
+Mr. Mitchell. Well, if the grant program said, do you want
+to update your equipment, and it meets certain sets of
+expectations and security, you can choose to do it or not.
+Mr. Schedler. Right.
+Mr. Mitchell. If you don't----
+Mr. Schedler. If it's voluntary and we can accept it, and
+we can accept whatever strings come with it, and you can turn
+it down, I have no problem.
+Mr. Mitchell. Commissioner Cortes, you have any feedback on
+that?
+Mr. Cortes. Yes, sir. I think resources for States to
+either purchase equipment, or for those that have already moved
+to equipment to do other things to strengthen the security of
+the election, whether it be electronic poll books or a
+registration system, would be greatly appreciated and something
+that we would certainly support.
+Mr. Mitchell. It just occurs to me, why don't we do that
+for our highways. We do that for our ports. But yet we expect
+magically the elections are going to happen with local
+resources, without, frankly, minimal support.
+Let me give you an example. Mr. Duncan talked about would
+we not be better off with paper ballots. You have any feedback
+on simply going to a full paper system or some system that's
+paper dependent?
+Mr. Schedler. And you're referring to a paper system at a
+poll location, not a mail paper ballot?
+Mr. Mitchell. Correct.
+Mr. Schedler. Okay. I'm not opposed to that. Matter of
+fact, the system that we're looking at--we're not out for bid
+yet--would be one that would produce--even though you would
+vote on an electronic machine, it would produce an actual paper
+ballot----
+Mr. Mitchell. My whole concern with that----
+Mr. Schedler. --and then a cast ballot only with that point
+when you put it into a secure box.
+Mr. Mitchell. My concern with that, and Dr. Blaze makes the
+point, is that if you produce a paper result after you put
+something into the machine, if, in fact, the machine is
+tampered with, you could, in fact, end up just confirming the
+tampered information.
+Mr. Schedler. Yes, sir. But we do have, currently, at least
+in the machines I use, a paper--I don't want to call it a cash
+register receipt, but for just the purposes of this meeting--
+that we can produce and audit back. So there's several audits
+even though I don't have a paper ballot of Mr. Mitchell, I can
+certainly use that in a court of law, and we have been very
+effective with that.
+Mr. Mitchell. Well, as Dr. Blaze states----
+Mr. Schedler. There's one thing I want to do mention. In
+this whole conversation is the segregation of the vulnerability
+side of the registration, or a poll book versus voting day. No
+State--no State--votes online in cyberspace.
+Mr. Mitchell. I know that.
+Mr. Schedler. So how do you attack something in cyberspace
+that's not in cyberspace?
+Mr. Mitchell. Right.
+Mr. Schedler. And there's one or two exceptions to that,
+Alabama with military voting, Alaska, in some remote areas. And
+I think there's one other State. But a minuscule amount of
+votes.
+Mr. Mitchell. Let me--time--deference, Mr. Hurd?
+Mr. Hurd. [Nonverbal response.]
+Mr. Mitchell. I understand, and I think Dr. Blaze's
+suggestion that an optical scan system allows you to have the
+original source document that says, you know, voter number 028
+voted this way. So that, in fact, you don't depend on the
+system to generate it. But that's something we can deal with.
+Question, you all are aware of what happened in Michigan in
+terms of the Federal election, that 60 percent of the precincts
+in the city of Detroit, they couldn't do a recount because the
+numbers didn't match?
+Mr. Schedler. No, sir, I'm not aware of that.
+Mr. Mitchell. There were more voters that voted--
+admittedly, only 728, nevertheless. There were more votes
+counted than there were voters, and there were 328 that were
+listed as voting but the ballots never showed in the count.
+That meant that 60 percent of the precincts in the city of
+Detroit weren't auditable.
+I guess my point is, is you couldn't do a recount. I think
+something we need to encourage the States to do is have an
+audit system where we raise these issues of why those
+disparities, and how we prevent them. Because that's--if, in
+fact, we need to do a recount, it was not possible to do within
+the city and several other jurisdictions.
+I'll submit for the record, Mr. Chair, the article--I'll
+have this submitted for the record--of what transpired in
+Detroit, which was a paper-then-scan system. They still managed
+to lose enough votes that they couldn't recount.
+Mr. Krebs. Yes, sir. And I brought that out in my comments.
+Even with a paper system, you still got to have some good
+protocols. It's not foolproof by any means.
+Mr. Mitchell. Agreed. Agreed.
+Thank you, Mr. Chair, for the deference, and I yield back.
+Mr. Hurd. The distinguished gentleman from the State of
+Missouri, Mr. Clay, you are now recognized for 5 minutes.
+Mr. Clay. Thank you, Mr. Chairman. And I want to thank the
+witnesses for your testimony today.
+Last June, the vice chair of the Presidential Advisory
+Commission on Election Integrity, Chris Kovach, made an
+extraordinary request of all State election directors to
+transmit to the White House the confidential information and
+voting history of all Americans living in their State. Mr.
+Kovach directed the State elections officials to provide the
+sensitive data to a government email address with no apparent
+means of securing that data.
+Dr. Blaze, please explain the data security issues with
+transmitting sensitive voter data over email.
+Mr. Blaze. Well, I'm not familiar with the precise nature
+of the request. But as you've described it, certainly sending
+that kind of information over an ordinary unencrypted email
+system would be fraught with many security and privacy issues.
+Mr. Clay. If confidential voter data were revealed due to
+insecure transmission, could that provide means to infiltrate
+State election systems?
+Mr. Blaze. Yes. That sort of information would--could
+potentially be quite valuable to an adversary interested in
+targeting particular polling places or individuals or areas. So
+information about historical voting patterns and about
+individual registered voters can be quite sensitive.
+Mr. Clay. I see.
+Secretary Schedler and Mr. Cortes, I understand your States
+did not comply with Mr. Kovach's request. Could you explain
+why?
+Mr. Cortes. Congressman, that's correct. Virginia did not
+provide any data that was requested from the Commission. We had
+significant concerns related to the sweeping nature of the
+request. And, you know, we spent a lot of effort and lot of
+resources protecting our voter data of Virginians. So to take
+that and turn it over to a Commission with no sense of what it
+was going to be utilized for, how it was going to be stored and
+maintained, raised significant concerns for us. And so we
+declined to provide anything whatsoever.
+Mr. Clay. Thank you for that.
+Mr. Schedler?
+Mr. Schedler. Mr. Congressman, we likewise refused that.
+But I do want to clarify one thing that has been lost in this
+whole debate. And why Mr. Kovach, my colleague, did not early-
+on clarify his position. I watched him for 4 days on national
+news networks. But if you go back and look at the original
+request, he truly didn't ask for that. What he asked for was
+what was available publicly under State law. And then, after
+that, instead of putting a period, he went on with Social
+Security number and other--why he did that, I don't know. He
+caused me a lot of heartburn in my State with thousands of
+emails and Facebook posts and the like.
+So to answer your question, no, I did not supply that to
+him. I told him for $5,000 and a credit card, we'd be glad to
+supply him the public informational data that you could get on
+anyone from Google, quite frankly more information. But you're
+correct, putting that out in the fashion it was.
+But I do want to say this: It wasn't just the Trump
+administration that asked for that. I was posed with that under
+three defiances to a Federal judge to produce that under
+President Obama's administration through a Department of
+Justice----
+Mr. Clay. I see.
+Mr. Schedler. --in a lawsuit from several entities. And I
+refused President Obama, and I refused President Trump. So I am
+consistent.
+Mr. Clay. Well, let me ask you. That brings me to another
+question for you and Mr. Cortes.
+Are you aware of any cases of voter impersonation in your
+State? Mr. Cortes, you can take it first.
+Mr. Cortes. Congressman, I'm not aware of any instances of
+voter impersonation taking place in Virginia. No.
+Mr. Clay. So no pending cases or anything like that?
+Mr. Cortes. Not that we're aware of, sir, no.
+Mr. Schedler. No, sir. We wouldn't in Louisiana. I mean, we
+have some issues. But let's put it this way: If we have had
+one, it's never been prosecuted or been able to be proven.
+Mr. Clay. Don't you think it's a little difficult to get
+enough voters to show up, let alone someone showing up and
+impersonating someone else?
+Mr. Schedler. Well, I think the real issue is--and, alluded
+again, we separate the distinctions in the election system. The
+registration side, list maintenance, some States do a better
+job than others. I know our current President has alluded to 3
+to 5 million voters. What he's referring to is 3 to 5 million
+potential voters on registration lists. The voter fraud would
+be one of those individuals who shouldn't be on there showing
+up at the poll and voting. It may be that. It may be more. It
+may be less. But----
+Mr. Clay. But you and I know people have the same names.
+Mr. Schedler. Yes, sir. Yes, sir.
+Mr. Clay. So that shouldn't disqualify them from being----
+Mr. Schedler. No, but that's why we have identifying
+information----
+Mr. Clay. --a qualified registered voter.
+Mr. Schedler. --like mother's maiden name, Social Security
+number, date of birth, that we can distinguish those
+differences.
+Mr. Clay. Sure. All right.
+Mr. Schedler. Like in the State of Louisiana, we have a
+bunch of Heberts and Thibodeauxs, but we can distinguish it by
+a birthday or mother's maiden name.
+Mr. Clay. Well, look, I thank you all for your engagement,
+and my time is up. Mr. Chairman, I yield back.
+Mr. Palmer. [Presiding.] I thank the gentleman.
+Just a point of clarification. You did have reports of
+illegal voting in both your States. In Virginia, you had over
+1800 illegals that apparently were reported voting. Is that
+correct, Commissioner Cortes?
+Mr. Clay. Mr. Chairman, I asked about voter impersonations,
+someone else showing up and saying that they are someone other
+than who they are.
+Mr. Palmer. Thank you.
+Mr. Clay. And you know that's what the photo ID laws are
+all about.
+Mr. Palmer. Right.
+Mr. Cortes. Congressman, I believe you asked about our
+reports regarding illegal voter. We don't agree with neither
+the findings of the report, or, frankly, how the analysis was
+done. There are a lot of problems in there that we have
+indicated publicly. You know, in terms of proving, or, you
+know, identifying individuals that are citizens or not on the
+voter rolls is exceptionally difficult. And the processes that
+we have in place in Virginia, I think, capture and prevent
+anybody from voting illegally or improperly. And so the report
+you're referring to, I think, was very faulty in its analysis
+and really took information and made sweeping general
+statements without taking into account the reality, despite our
+best efforts to communicate with the report authors about it.
+Mr. Palmer. Thank you.
+In Louisiana, it's either Hebert or Hebert. So I can
+understand the problem you have there.
+Mr. Schedler. Depending on what part of Louisiana.
+Mr. Palmer. The chair recognizes the gentleman, Mr.
+DeSaulnier, from California, for 5 minutes.
+Mr. DeSaulnier. Being from California, I wouldn't recognize
+either version.
+I just want to thank the chair, and I want to thank all of
+the people who are testifying in front of us today. And for the
+Secretary, I both agree with you, but maybe we have a small
+difference of opinion. The importance of the integrity of the
+voting process is obviously supreme for all of us sitting in
+this room. But raising legitimate concerns about the integrity
+of that, making sure that we are pursuing best practices in a
+world that's changing dramatically, I think, is what we're all
+concerned with. So in that regard, I'm hearing two sort of
+versions of things here from the panel.
+And, Ms. Hennessey, in your research--I got a quote from
+Michael Vickers, who used to be the Pentagon's top intelligence
+official, who said, quote, ``This attack is really the
+political equivalent of 9/11. It is deadly, deadly serious.''
+The attacks that we have seen both against the United States,
+in my view, but also against western democracy. And this goes
+to undermining democracy. So we want to make sure, I would
+think, in Congress, that we're doing everything to make sure
+that we're ahead of it and questioning our existing system.
+So you made a number of suggestions. First off, is there
+any doubt in your research that these hacks are attributable to
+Russia, these significant hacks?
+Ms. Hennessey. Certainly, the intelligence community--the
+intelligence community assessment of the 2016 election assesses
+that with high confidence that is supported by a large body of
+public data. And there is no public information that would
+counter or refute that conclusion.
+Mr. DeSaulnier. So keeping in mind that we're talking
+about, in this hearing, the title is Cybersecurity of Voting
+Machines, and we've got lots of other activity going out there
+that hopefully we'll discuss further in Congress, vis--vis the
+things we're learning about social media and data collection.
+But for this purpose, are we ahead of the game in your
+research? I read where the French and other western democracies
+are being much more aggressive, not knowing what their
+infrastructure is. But from your research, is the United States
+doing everything we can compared to other international
+democracies who are aware of the problem?
+Ms. Hennessey. I think the short answer is no. There are
+two categories in which we can think about the U.S. response.
+What we've been talking today can broadly be categorized as
+deterrence by denial. So imposing security standards that make
+it difficult or impossible for the adversary to achieve their
+goals. Dr. Blaze and the others, I think, have pretty well
+articulated the insufficiency of the U.S. response on that
+front, the need for more to be done in terms of Federal
+resourcing, and at the State level.
+There's also a broader concept of deterrence, right? So
+deterrence through setting international norms, response
+options. We are also not seeing sufficient buy-in, frankly,
+from the top at this point to push those efforts forward in
+order to get the international community both to agree on the
+seriousness of what occurred, and also to impose measures,
+including those passed by Congress, to ensure that it doesn't
+happen again.
+Mr. DeSaulnier. I appreciate that.
+Mr. Krebs, in that sort of vein, your response to Ms. Kelly
+is seen somewhere in-between. We know the uniqueness of the
+relationship as you have described it between State's rights
+and the ability for them not to feel like we're imposing on
+them. However, you've also talked about best practices. And it
+would strike me that you're in a position to be able to acquire
+those best practices, particularly in conversation with the
+intelligence community.
+Ms. Kelly asked you if you would give us those documents.
+It seems like you're equivocating. Something--basically, you
+said in order to have a relationship with the States, it's
+based on trust. But forgive me for inferring from that there's
+a lack of trust in giving those documents to Congress. In a
+Federal election, it strikes me that Congress and the Federal
+Government has a requirement to make sure that we are pursuing
+best practices in partnership with the States, not overruling
+them. But if Congress asks for documents, including the
+minority party, it strikes me that you should give that to us,
+to the whole committee, without edits, without comments.
+Mr. Krebs. Sir, if I may, I'd like to clarify to the
+ranking member, the information--ma'am, I'm glad you're here.
+The information that I would provide, no question best
+practices. I've got them right here. Best practices are just
+fine to share. What we're talking about is the trusted
+information that's shared on the nature of what may have been a
+scan or a compromise. That's the information.
+We have no question of the oversight interest of the
+committee, absolutely no question. The balance we have is the
+operational admission of the Department in partnership with our
+State and local partners in that--again, that overarching
+cybersecurity mission of the Department in working with our
+partners in a voluntary basis.
+Mr. DeSaulnier. I'll take that as we'll receive the
+documents soon. So thank you.
+Mr. Krebs. Yes, sir.
+Mr. DeSaulnier. Thank you, Mr. Chairman.
+Mr. Hurd. [Presiding.] Mr. Krishnamoorthi, you are now
+recognized for 5 minutes.
+Mr. Krishnamoorthi. Thank you, Chairman Hurd and Palmer,
+along with Ranking Members Kelly and Demings, for convening
+today's important hearing. The sanctity and security of our
+election systems are the bedrock of our republic. The American
+people need to know, not just believe, but they need to know
+for certain that their votes are counted fairly.
+My home State of Illinois was one of 21 States that the
+Department of Homeland Security informed us was targeted by
+hackers in June of 2016. The NSA reported that personal files
+for over 90,000 Illinois voters were illegally downloaded by
+Russian hackers. Mr. Krebs, do you have any reason to dispute
+the NSA's findings that Russian-affiliated entities were behind
+the recent election data breaches?
+Mr. Krebs. I'm, unfortunately, not able to comment on that
+specific disclosure. That, I would, unfortunately, have to
+defer to the NSA.
+Mr. Krishnamoorthi. But do you have any reason to believe
+they're incorrect about that?
+Mr. Krebs. I'm not certain to the nature of the report
+you're discussing. I, unfortunately, would have to, again,
+defer to the NSA to comment specifically----
+Mr. Krishnamoorthi. Right. You'd defer to the NSA because
+they are expert in this particular matter, and they have the
+intelligence and the ability to ascertain whether these data
+breaches occurred and who were the source of these data
+breaches, correct?
+Mr. Krebs. Again, I would defer to the NSA on any
+discussion here.
+Mr. Krishnamoorthi. Sure. While the implications--and
+you're correct to defer to them.
+While the implication of Russia's attack on one of our
+elections systems are concerning, what I find even more
+disturbing is that it was part of a broader international
+campaign to undermine western democracies such as the 2017
+elections in France and Germany, as well as recent elections in
+the U.K. and other NATO countries.
+Now, Mr. Krebs, again, I'd like to ask you a follow-up
+question. Can you assure me that DHS is working with our allies
+and the broader international community, the intelligence
+community, to develop a coordinated response to these
+incursions?
+Mr. Krebs. So what I can speak to is the nature of the
+Department of Homeland Security's engagements with our
+international partners. Immediately before the French election,
+we reached out to the CERT, the French CERT, which is the
+Computer Emergency Response Team, keeping in mind that my
+responsibilities in this space are, frankly, two things:
+information sharing and technical support on a voluntary basis.
+So information sharing with the State and locals and also
+information sharing with the French CERT.
+In terms of a broader strategy for pushing back, I'd have
+to defer to the interagency or the White House on that.
+Mr. Krishnamoorthi. Earlier this month, the President said
+that he took Vladimir Putin at his word that he did not
+interfere in Russia, and did not interfere in the 2016
+election. Quote, unquote, he said: ``Every time he sees me, he
+says, 'I didn't do that.' And I believe--I really believe that
+when he tells me that, he means it,'' quote, unquote.
+Mr. Krebs, just a few minutes ago you couldn't point to any
+reason or dispute, you have no reason to believe that the NSA's
+conclusions with regard to Russian hacking were inaccurate or
+incorrect. You defer to the NSA's conclusions. Are you saying
+that the President is somehow wrong to take Putin at his word,
+as opposed to deferring to the NSA's conclusions on this topic?
+Mr. Krebs. I'd like to clarify one thing real quick.
+I have said all along that I agree with the intelligence
+community's assessment that the Russians attempted to interfere
+with our election.
+Mr. Krishnamoorthi. Good.
+Mr. Krebs. What you spoke about earlier was some report
+attributed to the NSA about a specific State. That is what I
+defer to the NSA on. I am unable to comment on that. That is
+not within my agreement. I am focused on information sharing,
+technical assistance and support to the State and locals. We
+are in a support role.
+Now, to your other comment----
+Mr. Krishnamoorthi. Well, let me reclaim some of my time
+here. You answered the question correctly, in my view, which is
+that you agree that the Russians did interfere in our 2016
+election, or you at least agree with the intelligence
+community, which knows what it's talking about, that the
+Russians did interfere in our 2016 election. So are you saying
+that the President is wrong to disagree with that conclusion,
+and instead, take the word of Vladimir Putin that Russia did
+not interfere in our elections?
+Mr. Krebs. No, sir. I said I agree with the assessment of
+the intelligence community on what happened in 2016.
+Mr. Krishnamoorthi. Okay. Do you agree with the President
+that in his assessment, that Vladimir Putin did not actually
+interfere in our election?
+Mr. Krebs. Sir, I was not privy to that conversation. I--
+look, I'm focused on helping State and local governments for
+next year. Every one of us recognize that there is a threat,
+whether it's from Russia, China, North Korea, or Iran.
+Mr. Krishnamoorthi. You're not answering the question, sir.
+Mr. Krebs. Yes, sir.
+Mr. Krishnamoorthi. You don't have to be privy to that
+question. You don't have to be privy to that conversation to be
+able to answer the question. Do you agree with his assessment
+that Russia did not interfere in our elections?
+Mr. Krebs. Sir, I--again, I'll point back to last year's
+intelligence assessment.
+Mr. Krishnamoorthi. Okay. I'll take that as a nonanswer.
+Mr. Hurd. The chair notes the presence of our colleague,
+the gentlewoman from Hawaii, Ms. Gabbard, and I ask unanimous
+consent Ms. Gabbard be allowed to fully participate in today's
+hearing.
+Without objection, so ordered.
+Now it's a pleasure to recognize my friend, the gentlewoman
+from the great State of Hawaii, for 5 minutes for questions.
+Ms. Gabbard. I thank the chairman and Ranking Member Kelly
+for holding this important hearing, and for all of the
+witnesses for taking the time and coming and sharing your
+experiences and expertise here. I apologize for missing the
+first part of the hearing, but I'm sure a number of these
+topics have been discussed. But I think they all boil down to
+the immediate task at hand, which is seeing what actions can
+and should be taken to make sure that our elections are
+protected.
+For our democracy to work, the American people need to have
+faith and trust in our elections infrastructure that the vote
+that they cast will actually be counted. And this is why making
+sure that our elections infrastructure is impenetrable is
+essential. And that's the task before us here in Congress and
+before our elections officials.
+Mr. Cortes, I'd love to hear your insights regarding
+Virginia's decision to switch from direct recording electronic
+voting machines to paper ballots. What were any obstacles that
+you found in implementing that change? And did you see voter
+confidence rise once that change was made?
+Mr. Cortes. Congresswoman, in terms of our switch over to
+paper, I think the biggest obstacle that we faced was timing
+and the proximity to the election. We have statewide elections
+in Virginia every year. And so we always have very little time
+to implement changes. I think in this particular round of
+decertification, subsequent to the DEFCON reporting that came
+out, you know, the biggest challenges we faced were getting
+equipment to our State IT agency for them to test and provide
+us with their assessment.
+When it came down to the final decision about what to do
+with the equipment, our biggest consideration was if we had an
+issue--if there was some issue reported on election day, would
+we have the confidence to go out and tell our voters that the
+results from the machines were accurate, that we can confirm
+that? And I think ultimately, we determined, in consultation
+with our wonderful staff at the State IT agency, in their
+assessment, that we wouldn't be in a position to do that with
+the equipment we were using.
+Without that independent verification, the paper ballot,
+there would be no way for us to do that. And So I think that
+ultimately was the moment where, you know, decertification
+moved forward, and we decided to have paper ballots statewide
+for this past November.
+Our local election officials had less than 60 days before
+the election, frankly less than 2 weeks before the start of
+absentee voting, to deploy new equipment. They did a phenomenal
+job using the exceptionally limited resources that they have
+and working with--not only in partnership with us, but also in
+terms of the voting system vendors to get equipment deployed,
+get ballots printed, do training, do voter education, all
+within that window. They pulled it off successfully. And so
+it--you know, I give a lot of credit to our local election
+officials across the State for being able to do that.
+Ms. Gabbard. Thank you.
+Ms. Hennessey, I just came in here the last part of your
+previous statement about making sure that--I think you used the
+word ``impossible,'' making it so that our elections
+infrastructure is impossible to hack. Noting the DEFCON report
+that came out and the fact that it states by the end of DEFCON
+conference, every paperless electronic voting machine was
+effectively breached in some manner. Would the implementation
+of voting machines across the country with some form of an
+auditable paper record create that impossibility?
+Ms. Hennessey. So to clarify, I was referring to impossible
+to hack as a goal of sort of the deterrence by denial model. I
+don't know that that's achievable, although we shouldn't make
+perfect the enemy of the good. There's vast improvements that
+can be made.
+Certainly, we should want to move to a place in which
+systems are both auditable and also audited. And so not just to
+think about how do we ensure that, a built-in resiliency model.
+So in the event that there is some form of compromise, some
+reason to doubt the outcome, that we actually have the system
+in place to verify it and restore----
+Ms. Gabbard. A backup.
+Ms. Hennessey. Right. And then also, that we actually
+periodically undertake those checks, right? An auditable system
+is effectively meaningless if we actually don't undertake the
+audit.
+Ms. Gabbard. This is such an important point. And I think,
+Mr. Cortes, your testimony is critical to this in answering
+that question of how do we ensure, with confidence, that you
+can answer your voters, saying that the election results are
+accurate. I'm working on legislation that will essentially
+ensure that whatever the systems the States choose to use in
+their elections--obviously, that is the freedom of the States
+to do that--that there be some form of backup in place, a
+paper, voter-verified backup to ensure exactly that question,
+and that we can all answer with confidence to voters that the
+election results are as a result of the votes that they cast.
+So I thank you all for being here today.
+Thank you, Mr. Chairman.
+RPTR FORADORI
+EDTR ZAMORA
+[4:00 p.m.]
+Mr. Hurd. I'm going to now recognize myself for some time.
+First off, Dr. Blaze, correct me if I'm wrong. I think we
+may have set a record here today for the number of times DEFCON
+has been said in a positive way. So all my hacker buddies are
+going to be happy about that.
+In Dr. Blaze and Ms. Hennessey's statements, they've talked
+about what I would characterize as old school ballot stuffing
+is one threat. But what a nation-state actor or an intelligence
+service would try to do, discredit an election, is another
+threat.
+And, Mr. Schedler, Secretary Schedler, the first question
+to you as the Secretary of State for Louisiana, it's hard to
+manipulate the votes in an election in your State. Is that
+correct?
+Mr. Schedler. I would say so.
+Mr. Hurd. Commissioner Cortes, would you agree--not for
+Louisiana, but for Virginia.
+Mr. Cortes. Yes, Mr. Chairman.
+Mr. Hurd. And, Dr. Blaze and Ms. Hennessey, is it still
+hard to stuff the ballot electronically in many of these
+States?
+Mr. Blaze. I think it's very difficult. I think the
+difficulty that we have is that it's very difficult to prove
+that it hasn't happened.
+Mr. Hurd. Well, sure. Sure. It's a trust issue. But when it
+comes to physically, because of the decentralization, because
+many of the vote tabulation machines are not connected to the
+internet, are not connected to one another because of the
+physical security precautions that are taken around the
+physical machines that Secretary Schedler talked about at the
+front, and many of the best practices that Mr. Krebs and his
+organization has promoted, it makes it hard, right. But the use
+case that I'm worried about is the credibility of our
+elections, and not being able to prove something is one of
+those things.
+And for our two secretaries of state, would you agree that
+the undermining of trust in our voting--in our elections is a
+bad thing and something we should try to fight against, Mr.
+Schedler?
+Mr. Schedler. I would absolutely agree. I alluded to that
+in one of my----
+Mr. Hurd. Microphone, please, sir.
+Mr. Schedler. In all due respect, I mean, what has
+happened, and I think any secretary of state that would address
+you in all honesty is, is since the last Presidential election
+and all the rhetoric and all the committee reports and all the
+things that are going around this, if you don't think that has
+had a tremendously negative feeling to voters, we see it.
+I just got out of an election for the mayor of New Orleans,
+an open seat, that had a 32 percent voter turnout in Orleans
+Parish, and we had a statewide election special for State
+treasurer. When I look at the statewide overall voter turnout,
+12-1/2 percent. That is absurd in this country.
+And I'm not going to sit here--one of my most frequently
+asked question is, Why, Secretary Schedler? And I could give
+you a litany of 10 or 15 things. One of them I know you all
+wouldn't want to hear.
+But, for certain, the rhetoric that has gone around from
+this past election has tremendously deterred voter confidence.
+And it's a balancing act for a guy like me and Mr. Cortes
+because we're up here trying to defend the integrity of a
+system----
+Mr. Hurd. For sure.
+Mr. Schedler. --and yet it's being torn down as I speak.
+Mr. Hurd. Right. And that's one of the reasons to have this
+hearing----
+Mr. Schedler. Yes, I'm respectful of that.
+Mr. Hurd. --is to get smart folks in a dispassionate way
+talking about the realities. And then how can we identify
+certain things that we can do together in a way to ensure that
+that trust is there so that we get more than 12 percent?
+Now, I would also say that I was at a panel in South by
+Southwest with a bunch of YouTube stars, and I didn't know any
+of the YouTube stars, but when you added all their fans
+together, it was almost a billion. And the woman, Ms. Lardy,
+who does digital stuff with a rock, said, if a movie performs
+poorly at the box office, do you blame movie goers or do you
+blame the movie? And I think in this case, a lot of times we
+want to blame voters when we're not providing the voters
+something for them to come out and purchase by pulling a lever.
+So that is an aside.
+Mr. Cortes, was there any funny business in your elections
+in Virginia a couple of weeks ago?
+Mr. Cortes. Mr. Chairman, I think we had a----
+Mr. Hurd. That's a technical term too, by the way, ``funny
+business.''
+Mr. Cortes. I believe we had a very successful election in
+Virginia a couple weeks ago. We actually--I'm sorry to hear
+that you all had a lower turnout in your statewide. We had
+record turnout in our statewide race for Governor, Lieutenant
+Governor, Attorney General, as well as our House of Delegates,
+and it was a very successful--we did not receive any complaints
+related to voting equipment, which was a first in the time that
+I've been there. We had a very successful day across the
+Commonwealth. Very few issues. You know, you always get the
+occasional place where they have delivered equipment to the
+wrong place and they may open a couple minutes late, but we had
+no major systemic issues that took place.
+Mr. Hurd. Well, touche to Virginia.
+And, Mr. Krebs, some specific questions here. How many
+cyber hygiene services over the internet--for internet-facing
+systems can your organization do in a calendar year? And I
+realize that's a--you know, you can round number--you can
+ballpark it for us.
+Mr. Krebs. That's tough because, frankly, engineeringwise,
+it's--I don't want to say infinity, but it's--frankly, it's
+very, very scalable.
+Mr. Hurd. So you're not concerned about the over 10,000
+voting jurisdictions requesting that particular service that
+you feel like you'll be able to meet the need----
+Mr. Krebs. No, sir, I think the challenge there would be
+intake, would be signing up on the legal agreement side,
+figuring out the IP ranges and deploying.
+Mr. Hurd. Good copy. How many risk and vulnerability
+assessments can you do in a calendar year?
+Mr. Krebs. That is a different question. Risk and
+vulnerability assessments are time and manpower limited. In
+terms of the number on a given year, it'd be--let me put it
+this way: To do one risk vulnerability assessment it takes 2
+weeks.
+Mr. Hurd. Two weeks.
+Mr. Krebs. It's a week onsite and a week report drafting.
+What we're doing in the meantime, though----
+Mr. Hurd. And you have about 130 people that are able to do
+this function?
+Mr. Krebs. I'd have to get back to you on the specific
+numbers on the Hurd teams, but it's--you know, we are manpower
+limited there, but what we--and the reason for that, and you
+just made my job a little bit harder with the NGT Act, but this
+all comes out of the same pile of assessments as Federal IT,
+the high-value asset. And so if we're going to do some
+modernization activities, congratulations, but that's going to
+make my job a little bit tougher. That also is the critical
+infrastructure community. So it's all in one----
+What the critical infrastructure designation did for the
+election subsector is allowed me to reprioritize. So now I'm
+able to put any requests up at the top of the list. We just
+completed an RVA last week. I reviewed the product earlier this
+week, and it is an impressive document. I'd like to do more. We
+are going to continue to prioritize, upon request, these are
+voluntary products, but keeping in mind that a number of States
+have their own resources or private sector resources. So, you
+know, we're not looking to serve for every single State, but we
+are looking to reprioritize to address.
+Mr. Hurd. And this next question is for Secretary Schedler,
+Commissioner Cortes, and Mr. Krebs, and maybe Secretary
+Schedler, you take the first swing at this. And this is
+probably better--you know, this question I'm asking you of this
+as your former hat at NASS. And what role exactly does NIST and
+the HAVA Standards Board play? And maybe if--Mr. Krebs, if
+you're more appropriate to answer that question, you know, I'll
+leave it up to you all.
+Mr. Schedler. I mean, it certainly assists us in
+certification issues and some of those outlier issues that we
+have. But, I mean, I think it's more of a collective whole,
+NASS, whether it be with the Election Commission, NIST, or any
+of us, I mean, we collaboratively all work together. We share
+information through our executive director, Ms. Reynolds, here
+in Washington.
+So, I mean, I think it's a good thing. I wouldn't want to
+necessarily disband that, but I think it's more looking at it
+as a collective whole and our new partners in Homeland
+Security. I mean, I alluded that we were very much against
+critical infrastructure. We're in it. We're in a cooperative
+spirit. We're trying to get our security clearances done at
+this time and we're going to continue that.
+Mr. Hurd. So, Secretary, am I hearing DHS is not trying to
+take over?
+Mr. Schedler. No, sir, I don't think so. Not yet. I'll give
+you a call.
+Mr. Hurd. Please do. Please do. And are folks comfortable
+with the security clearance process? I know we're trying to get
+every secretary of state and I believe two additional----
+Mr. Schedler. Yes.
+Mr. Hurd. --folks. And your indication is that folks are
+happy with that process and how it's done?
+Mr. Schedler. Yes, sir, we are. That's the first good step
+that we can share some information.
+Mr. Hurd. Commissioner Cortes, do you have, you know, any
+information to disagree with that or----
+Mr. Cortes. Mr. Chairman, I think, you know, from our
+perspective in Virginia, having had a statewide election, we
+had an opportunity to work very closely with DHS throughout the
+year in preparation for that and really figuring out how to
+leverage the Federal resource offerings, along with what our
+State IT agency provides, as well as the Virginia National
+Guard. So we've worked very collaboratively with them. I think
+the creation of the coordinating council I think will be
+exceptionally helpful going forward.
+I think when it comes to the EAC and NIST, EAC's role in
+this has been--you know, hasn't been as highlighted as I think
+it should be. I think they've been really critical in opening
+up that dialogue between DHS and the elections community, as
+well as facilitating a lot of the meetings and interactions
+that have taken place. So they've been exceptionally helpful
+there.
+When it comes to NIST, I think for us, and I think going
+forward, you know, what we need to look at is the--you know,
+the NIST cybersecurity framework is something that our State IT
+standards are premised on and that we utilize for our voting
+equipment, security, and our electronic pollbook security. So
+those standards being there are very helpful to us and provide
+the level of expertise and, you know, things to look for and
+test against that we would not, you know, with our State
+resources be able to recreate on our own. So everybody's been
+exceptionally helpful.
+Mr. Hurd. That is very helpful feedback.
+And, Mr. Krebs, kudos to you for your leadership in that
+process.
+And maybe to anybody at this panel, why does EAC have $300
+million in unspent funds? Does anybody have any unknown--none
+of you all sit at EAC? Would anybody like to offer a question?
+Mr. Schedler. They must have some of those HAVA dollars
+that we need.
+Mr. Hurd. And that's what we're trying to get at is, is
+there an opportunity there to reprogram some of those funds to
+help some of the municipalities that need to upgrade some of
+their systems?
+Mr. Schedler. Yes. And that was a tongue-in-cheek comment,
+because I'm on the advisory--I truly don't know----
+Mr. Hurd. Can you hit the button?
+Mr. Schedler. I truly do not know what that balance is,
+and, I mean, I just--it's certainly something to look at. I
+think we got to look at any and all avenues of funding because
+we do need assistance in the State, I can assure you. Just like
+Federal Government, States are in budgetary issues. I know
+certainly Louisiana is. And at this critical point of trying to
+replace equipment because of some of the subject matter we're
+talking about here, you know, we're scrambling to try to find a
+way to do that, and I'm getting ready to go out on an RFP, so--
+--
+Mr. Hurd. Mr. Krebs, any comments?
+Mr. Krebs. I think what we're talking about now, and I do
+wish that Matt Masterson, the chairman of the EAC, was here. I
+met with his yesterday. I think he's in Iowa right now doing
+some training.
+EAC has been a critical partner. When DHS got into this
+game--it was before my time--but when we got into this game
+last year, it was kind of a brave new world, didn't have a
+relationship. EAC was critical in bridging the gap and
+developing relationships with Louisiana, Virginia, and the rest
+of the States.
+NIST is also a partner. I think Dr. Blaze would agree that
+NIST is probably reputationally unmatched in terms of
+cybersecurity and cryptography excellence. And they are a
+critical partner in standards development going forward.
+And then on the information sharing piece--one last thing.
+I do want to touch on the classified and the clearances piece.
+Clearances, as has been pointed out, clearances and the sharing
+of classified information is important, but we are, in the
+meantime, focusing on that declassification effort. It is
+critically important that we speed up that process to get it
+out, tear lines, all that good stuff. But in the meantime, when
+something truly sensitive comes in and someone doesn't have the
+clearance but needs to see a piece of information, I personally
+have the capability to authorize one-day read-ins.
+So we have a suite of services and tools and capabilities
+that we can--to make sure that our partners have the
+information they need.
+Mr. Hurd. Well, Mr. Krebs, that's why DHS is the
+bellybutton for information sharing with municipalities and the
+private sector, because I believe you're the only organization
+that can truly achieve need to share versus need to know, and
+continuing down that line is important.
+Dr. Blaze, when it comes to the kinds of systems, the
+actual vote tabulation machines, and you've talked a lot about
+the scan, you know, version, one of the concerns I have about
+some of the legislation that's being discussed is talking
+specifically about a type of machine versus an outcome. And is
+it fair to say that, based on your research and your activity,
+that you're saying there needs to be an artifact that can be
+checked in the case that a system is suspected of compromise?
+Mr. Blaze. That's correct. The two important properties
+are, first, that there be a paper artifact of the voter.
+Optical scan paper is an example of a system that does that.
+That's probably the best state-of-the-art technology that we
+have right now. The second property is that we have a mechanism
+for detecting compromise of the software that tabulates votes,
+and that's the risk limiting audit feature.
+Put together, those achieve or approach what we call strong
+software independence, which means that, even if the software
+is compromised, we still can learn the true outcome of the
+election.
+Mr. Hurd. Good copy.
+Ms. Hennessey, do you have anything to add to that or
+disagree with?
+Ms. Hennessey. No, I would agree with everything Dr. Blaze
+said.
+Mr. Hurd. Thank you.
+And my last question--and, Chairman Palmer and Ranking
+Member Kelly, thanks for the indulgence--is slightly outside of
+the bounds of the hearing topic today. But as we talk about the
+importance of protecting our voting systems and trying to fight
+this effort to erode trust in our national institutions,
+disinformation is the tool that hostile intelligence services
+are going to continue to use against us.
+And I would just welcome, and really, Secretary Schedler
+and Commissioner Cortes, what is the role of States in helping
+to combat disinformation, specifically when it comes around
+election time?
+And, Dr. Blaze and Ms. Hennessey, I'd welcome your
+thoughts.
+And then, Mr. Krebs, I'm going to give you 30 seconds to
+say whatever you want to say.
+Secretary Schedler.
+Mr. Schedler. Well, I mean, it's the old fashioned way. You
+get out there and you communicate with people and you get on
+the airwaves on radio and you get on TV and you get in the
+newspaper and you combat some of this. Because, I'll be honest
+with you, I had an individual just this morning that called
+me--or, excuse me, text me from the previous election, and he
+was convinced that our machines were connected to the school
+internet system, because I guess it was plugged into a plug. I
+don't know, but, I mean, it's those types of things in every
+real day of a secretary of state or an election official across
+the country that we combat. It's just part of the job. I will
+tell you, it has become on steroids in the last 24 months.
+Mr. Hurd. As a Member of Congress, I would say I understand
+those concerns. Thank you, sir.
+Commissioner Cortes.
+Mr. Cortes. Mr. Chairman, I think it's really about being
+open and transparent in the process and having, you know,
+processes in place and working as election officials to make
+sure voters are comfortable with the process and getting out
+there and combating any misinformation about how the process
+works. And I think our focus on transparency and doing things
+like post-election audits, having equipment that had some sort
+of verifiable backup, these are all things that we can do to
+provide voters assurance that they can actually see and observe
+and not just tell them everything's okay.
+We're I think at a stage with our election processes where
+people need to be able to understand what steps we're taking
+and how we're doing, you know, to make sure that things are
+okay, to make sure that their voting experience is a good one,
+and that their votes are counted accurately.
+Mr. Hurd. Good copy.
+Dr. Blaze.
+Mr. Blaze. So I think the most important thing, from a
+technology perspective, is that the voting technology allow us
+to refute those who say that the election was tampered with.
+And, unfortunately, many of the systems in use today, even if
+they haven't been tampered with, aren't designed in a way that
+allows us to do that.
+So I look forward to seeing a shift toward technologies
+that are more robust and that allow us to do meaningful
+recounts.
+Mr. Hurd. Ms. Hennessey.
+Ms. Hennessey. To bolster credible institutions now, and so
+to not--to sort of resist any temptations of partisanship so
+that in the event--so that there are those enduring credible
+voices. And the closer we get to elections, the actual election
+date, the higher the risk of politicization sort of infecting
+that process comes, which increases the importance of setting
+neutral standards now, both for the types of information that
+will be shared and also for response options.
+Mr. Hurd. Thank you.
+Final words, Mr. Krebs?
+Mr. Krebs. Yes, sir. I think my four co-panelists have said
+it quite well. A key tenet of countering information operations
+is shining a light on the activity. So what we have ahead of
+us, and we were just talking about it before the hearing today,
+is, we have some coordination work. We need to do some incident
+response planning, develop a playbook, so if something pops up
+on social media, Twitter, or whatever it is, we get the call,
+we can work to refute the information, and we can push it out
+through a clear trusted channel to the American people so they
+can retain confidence in our election systems.
+Mr. Hurd. Well, I want to thank all of you all for helping
+to shine a light on the activities that our States and the
+Federal Government is doing to ensure that the American people
+can have the trust in their elections. That's what makes this
+country great, is when we're faced with adversity, we all do
+pull together. And I appreciate you all appearing before us
+today and the flexibility in your travel schedules.
+The hearing record will remain open for 2 weeks for any
+member to submit a written opening statement or questions for
+the record.
+If there's no further business, without objection, the
+subcommittees stand adjourned.
+[Whereupon, at 4:20 p.m., the subcommittees adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

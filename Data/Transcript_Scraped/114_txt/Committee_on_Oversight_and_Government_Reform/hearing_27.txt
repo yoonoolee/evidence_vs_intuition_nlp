@@ -1,0 +1,1852 @@
+- ENHANCING CYBERSECURITY OF THIRD-PARTY CONTRACTORS AND VENDORS
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+ENHANCING CYBERSECURITY OF THIRD-PARTY
+CONTRACTORS AND VENDORS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+APRIL 22, 2015
+
+__________
+
+Serial No. 114-47
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+____________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+97-335 PDF                       WASHINGTON : 2015
+
+________________________________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK MULVANEY, South Carolina        BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Sean McLaughlin, Staff Director
+David Rapallo, Minority Staff Director
+Sarah Vance Clerk
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on April 22, 2015...................................     1
+
+WITNESSES
+
+Mr. Tony Scott, Chief Information Officer, Administrator, Office
+of Electronic Government and Information Technology, Office of
+Management and Budget
+Oral Statement...............................................     4
+Written Statement............................................     7
+Ms. Donna K. Seymour, Chief Information Officer, Office of
+Personnel Management
+Oral Statement...............................................    11
+Written Statement............................................    13
+Mr. Gregory C. Wilshusen, Director of Information Security
+Issues, Government Accountability Office
+Oral Statement...............................................    16
+Written Statement............................................    18
+Mr. Eric A. Fischer, Senior Specialist in Science and Technology,
+Congressional Research Service
+Oral Statement...............................................    38
+Written Statement............................................    40
+
+APPENDIX
+
+Questions and Responses to Ms. Seymour from Mr. Chaffetz, Mr.
+Cummings, and Mr. Connolly.....................................    78
+
+ENHANCING CYBERSECURITY OF THIRD-PARTY CONTRACTORS AND VENDORS
+
+----------
+
+Wednesday, April 22, 2015,
+
+House of Representatives,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The committee met, pursuant to call, at 9:35 a.m., in Room
+2247, Rayburn House Office Building, the Honorable Jason
+Chaffetz [chairman of the committee] presiding.
+Present: Representatives Chaffetz, Mica, Walberg, Amash,
+Massie, Meadows, DeSantis, Mulvaney, Buck, Walker, Hice,
+Russell, Carter, Grothman, Hurd, Palmer, Cummings, Maloney,
+Norton, Clay, Lynch, Connolly, Cartwright, Duckworth, Kelly,
+Lawrence, Lieu, Plaskett, DeSaulnier, and Lujan Grisham.
+Chairman Chaffetz. The Committee on Government Reform will
+come to order.
+Without objection, the chair is authorized to declare a
+recess at any time.
+One of the most serious national security challenges we
+currently face as a Nation is the security of our Country's
+information and communications infrastructure. I am encouraged
+this committee is leading a bipartisan effort to address our
+Government's cybersecurity, and I want to thank Ranking Member
+Cummings for bringing this issue to the committee's attention
+and for his tenacity in insisting that we address this in an
+aggressive way and, thus, we are here today.
+The stakes are high. Hackers are targeting extremely
+sensitive information related to our national security. Hackers
+recently hit the White House, State Department networks. They
+are accessing a range of sensitive information. But these are
+not isolated incidents. Cyber attacks against government assets
+are becoming more frequent and they are more sophisticated then
+ever. Over the past eight years, the number of information
+security incidents has risen by more than 1,000 percent, if not
+more, and they are happening at the private sector at an
+increasing and alarming rate.
+One of the members of our team that knows a lot about this
+we are proud to have as the subcommittee chairman on our IT
+Subcommittee is the general from Texas, Mr. Hurd. I would like
+to give him time at this point.
+Mr. Hurd. Thank you, Mr. Chairman. I join you in thanking
+Ranking Member Cummings for bringing this important issue to
+the committee's attention.
+This is not a new problem. The Government Accountability
+Office has identified the security of Federal information
+systems and critical infrastructure as a government-wide high-
+risk issue every year since 1997. Congress recently took action
+to address the cybersecurity threat. Last year we passed an
+update to the Federal Information Security Management Act, or
+FISMA, of 2014. This committee, and particularly the IT
+Subcommittee, which I chair, intends to closely monitor the
+implementation of FISMA 2014 because FISMA is the backbone of
+the Federal response to the cybersecurity threat.
+A key aspect of these reforms was increased accountability
+and transparency for OMB and DHS and all Federal agencies with
+regard to cybersecurity, and Federal agencies are now required
+to report to Congress when their networks are hacked. This
+increased transparency will allow Congress to better understand
+how our Government is protecting some of our most sensitive
+information.
+Concerns about cybersecurity are not limited to government
+networks. Hackers have successfully breached the networks of
+government contractors like USIS and KeyPoint. Their computer
+networks contain extremely sensitive information about
+thousands of Federal employees cleared to access classified
+information. In fact, almost one-third of all personnel who
+provide security services at the 24 major Federal agencies are
+contractors. So we have to make sure government contractors are
+protecting the information we entrust them to protect.
+After all, as the chairman said, if one of our Nation's
+most secure networks, the White House, is vulnerable and
+susceptible to these attacks, then how do we know to what
+extent other agencies and contractors are preparing themselves?
+Mr. Chairman, I look forward to working with you and the
+ranking members and members on both sides of the aisle in this
+process. I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We will now recognize the ranking member of the full
+committee, Mr. Cummings, for five minutes.
+Mr. Cummings. Thank you very much, Mr. Chairman. I thank
+you for agreeing to my request to hold today's hearing on the
+cybersecurity challenges posed by contractors and third-party
+vendors.
+Over the past several years we have seen an alarming
+increase in the number of major data breaches that originated
+with contractors and vendors. Just last year, Target and Home
+Depot were breached by hackers who gained access to the
+retailers' networks by using credentials stolen from the
+computer systems of vendors that did business with these
+companies.
+Federal agencies are not immune. The breach of the Postal
+Service last year originated from a phishing attack on a
+contractor for the agency. Last year, contractors with the
+Office of Personnel Management were subjected to a
+sophisticated cyber attack and tens of thousands of sensitive
+personnel records were compromised. One of those contractors
+was a company called USIS. At the time, it was the largest
+provider of background information investigative services to
+the Federal Government.
+USIS is currently at the center of a billion dollar civil
+fraud suit brought by the Justice Department for allegedly
+dumping incomplete background investigation reports to OPM over
+a four and a half year time period. According to the Justice
+Department, USIS deliberately took this action to increase
+profits. Apparently, the company's desire to increase profits
+also may have been to blame for its failure to make cyber
+investments necessary to secure the large amounts of sensitive
+personal information it should have been protecting on its
+networks.
+On September 3rd, 2014, committee staff received a briefing
+from security experts at the Department of Homeland Security,
+the Office of Director of National Intelligence, and OPM, all
+of whom analyzed the cyber attack against USIS. While much of
+that briefing was sensitive, one point may be discussed
+publicly. Press accounts had initially reported that the attack
+may have compromised the personal information of up to 27,000
+Federal employees.
+However, government cybersecurity experts believe this
+number is a floor and not a ceiling. The actual number of
+individuals affected by USIS's data breach is still not yet
+known, but these experts believe that the personal information
+of many more Federal employees may have been compromised.
+Unfortunately, investigating the USIS data breach has been
+particularly challenging. That is because neither USIS nor its
+parent company, Altegrity, have fully complied with this
+committee's request for answers.
+Today's hearing is a recognition that the Federal
+Government faces increased cyber risks from contractors. But as
+I mentioned earlier, this is a challenge the private sector
+faces as well.
+I have repeatedly pressed for more rigorous oversight of
+cybersecurity in both private and public sectors. Although we
+had little success in the previous Congress, I am encouraged by
+the bipartisan approach we have taken on this very critical
+issue and I hope it continues.
+So, Mr. Chairman, I want to thank you again for agreeing to
+hold today's hearing. In addition, I understand that our staffs
+are meeting tomorrow to discuss a possible follow-on hearing
+with some of these private sector entities. And I want to thank
+you for continuing to work with me.
+While our ranking member is not here yet, I would yield a
+minute to my colleague, Mr. Connolly, who has worked very hard
+on these issues over the years. He might have a brief
+statement.
+Mr. Connolly. I thank the ranking member for his
+generosity.
+Obviously, cybersecurity is a sophisticated and evolving
+national challenge. Meeting the daunting threat requires a
+broad whole-Government and industry approach that
+simultaneously enhances what I believe are the three pillars of
+an effective approach to cybersecurity: people, policy, and
+practices.
+No better demonstration of this importance of individuals
+in securing information systems than the truism that the number
+one cybersecurity threat or vulnerability facing any company is
+the behavior of its own employees. Indeed, the best
+cybersecurity policies in the world won't amount to a hill of
+beans if an organization's culture does not translate good
+policy into better practice.
+So I really look forward to hearing the testimony today. I
+look forward to working with you, Mr. Chairman, and you, Mr.
+Cummings, as we move forward with some legislative remedies to
+what I think is a vexing and growing problem that affects both
+the domestic and, frankly, defense and intelligence sides of
+the Federal Government. Thank you.
+Chairman Chaffetz. Thank you. The gentleman yields back.
+I will hold the record open for five legislative days for
+any members who would like to submit a written statement.
+We will now recognize our first panel of witnesses.
+Pleased to welcome Mr. Tony Scott, Chief Information
+Officer and Administrator of the Office of Electronic
+Government and Information Technology at the Office of
+Management and Budget. My understanding is, Mr. Scott, this is
+your first time testifying before Congress in your new role as
+the Federal CIO, and we appreciate you being here. It will be
+an interesting experience. You have done a lot of important
+work here. You have a very impressive resume and background,
+and we look forward to working with you in your new role, and
+appreciate you being here today.
+Ms. Donna Seymour is the Chief Information Officer at the
+Office of Personnel Management. Again, we welcome you.
+Mr. Gregory Wilshusen is the Director of Information
+Security Issues at the Government Accountability Office,
+otherwise known as the GAO.
+And Dr. Eric Fischer is the Senior Specialist in Science
+and Technology at the Congressional Research Service. We
+appreciate you, doctor, for being here today. We very much
+value what the CRS does for all members, both sides of the
+aisle, and we appreciate the organization and the good work
+that is done there. We rely heavily on it and we look forward
+to your testimony today.
+Pursuant to committee rules, all witnesses are to be sworn
+before they testify, so if you will please rise and raise your
+right hands.
+Do you solemnly swear or affirm that the testimony you are
+about to give will be the truth, the whole truth, and nothing
+but the truth?
+[Witnesses respond in the affirmative.]
+Chairman Chaffetz. Let the record reflect that all
+witnesses have answered in the affirmative.
+In order to allow time for discussion, we would appreciate
+it if you would hold your verbal comments to five minutes. We
+have a little generosity on that, but please be assured that
+your entire written statement will be entered into and made
+part of the record.
+So, with that, Mr. Scott, we will now recognize you for
+five minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF TONY SCOTT
+
+Mr. Scott. Thank you, Chairman Chaffetz and Ranking Member
+Cummings and members of the committee. Thank you for the
+opportunity to appear before you today.
+I started as the Federal Chief Information Officer just
+over two months ago, and I am excited for the opportunity to
+speak with you today about OMB's role in Federal cybersecurity.
+I am also pleased to join the panel, as everyone here has an
+important role to play in strengthening cybersecurity.
+Federal cybersecurity oversight is one of my
+responsibilities as Federal CIO and head of the OMB Office of
+E-Government and Information Technology. My office is
+responsible for two things: first, developing and overseeing
+the implementation of Federal IT policy and, second, through
+the United States Digital Service, providing onsite expertise
+to agencies with high impact facing IT programs. My team is
+also leading the government-wide implementation of the Federal
+Information Technology Acquisition Reform Act, known as FITARA,
+and the Federal Information Security Modernization Act of 2014,
+FISMA, both of which passed last year.
+Strengthening Federal cybersecurity is one of the
+Administration's top priorities and a duty that I take very
+seriously. Having recently left a private sector CIO role, I
+can attest to the fact that having a strong cybersecurity
+program is critical to ensuring mission success. This is no
+different in the Federal Government. Given the evolving threat
+landscape, it is imperative that we do everything we can and
+everything in our power to ensure the security of Government
+information and networks. In this interconnected world, we have
+to ensure that agencies, the contractors that support them, and
+the citizens we serve are all protected.
+I would like to start by providing an overview of OMB's
+role in Federal cybersecurity, discuss some recent incidents
+related to third-party contractors and vendors, and some of the
+steps OMB is taking to strengthen Federal cybersecurity
+practices.
+OMB and my office recently announced the creation of a
+dedicated unit called the E-Gov Cyber Unit. This unit will
+conduct oversight through initiatives, such as CyberStat
+reviews and will drive FISMA implementation. We will continue
+to work closely with DHS, who is our operational partner, and
+with agencies who directly lead their own cybersecurity
+efforts. These efforts are critical in confronting today's
+cyber threats and improving our ability to deal with threats in
+the future.
+In 2014 alone, several high-profile cyber incidents across
+our Nation made headlines for their scope, their scale, and
+their impact. The Federal Government and those acting on its
+behalf are not immune from this threat activity, as has been
+noted. Specifically and related to today's discussion, cyber
+incidents have involved vendors responsible for conducting
+background investigations on behalf of the Federal Government.
+In close partnership with DHS and other appropriate agencies,
+OMB responded quickly and oversaw the government-wide response
+to mitigate these incidents.
+DHS worked closely with vendors that conduct background
+investigations to mitigate this incident, and OMB, in its
+policy and oversight role, took immediate action to address
+identified challenges. First, through the President's
+Management Council, OMB conducted a review of agencies' cyber
+security programs to identify risks and implementation gaps.
+During this response to these incidents and our subsequent
+review, two things became clear: first, third-party contractors
+and vendors were inconsistently implementing protections over
+sensitive data and, second, Federal agencies did not have
+adequate contractual language and policy direction to guide how
+contractors and agencies should respond to incidents.
+Based on this review, agencies were directed to identify
+and review relevant contracts to ensure compliance with current
+laws and OMB guidance and, second, OMB directed an interagency
+effort to collect and disseminate contracting best practices
+relative to cybersecurity.
+In closing, I think it is obvious that securing our
+information is a great challenge, and this will remain a core
+focus of this Administration. We look forward to working with
+Congress on legislative actions that may further protect our
+Nation's critical networks and systems, and I thank the
+committee for holding this hearing and for your commitment to
+improving Federal cybersecurity. When it is time, I would be
+pleased to answer any questions you may have.
+[Prepared statement of Mr. Scott follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. [Presiding] Thank you, Mr. Scott.
+Ms. Seymour, you are now recognized for five minutes.
+
+STATEMENT OF DONNA K. SEYMOUR
+
+Ms. Seymour. Chairman Chaffetz, Ranking Member Cummings,
+and members of the committee, thank you for inviting me to
+participate in today's hearing to examine the cybersecurity of
+third-party contractors. I am happy to be here with you today
+to share OPM's experiences in the important area of
+cybersecurity.
+As the Chief Information Office of the Office of Personnel
+Management, I am responsible for the information technology
+that supports OPM's mission to recruit, retain, and honor a
+world-class workforce. Director Archuleta tasked me with
+conducting a thorough assessment of the state of IT at OPM,
+including cybersecurity. Director Archuleta's goal, as laid out
+in the OPM Strategic Plan, is to innovate IT infrastructure at
+OPM in a way that protects sensitive information entrusted to
+us by the Federal workforce and the American people.
+OPM and its contractors are under constant attack by
+advanced persistent threats and criminal actors. These
+adversaries are sophisticated, well funded, and focused. In an
+average month, OPM thwarts almost 2.5 billion confirmed
+attempts to hack its network. These attacks will not stop. If
+anything, they will increase.
+While we need to focus on how to prevent attacks, we know
+from the NIST cybersecurity framework it is equally important
+that we focus on how to detect, investigate, and mitigate
+attacks. In the past year, OPM and some of its contractors
+became the victims of cyber attacks. Throughout the process of
+analyzing the breaches, OPM worked closely with the US-CERT at
+DHS, the FBI, and other agencies. We also worked with the
+Office of Management and Budget, the CIO Council, and the
+Privacy Council. OPM followed OMB protocols, informing the
+agency response team investigating the incidents, and making
+notifications.
+We learned there were significant differences in our
+ability to understand and respond to these attacks because of
+the way sensitive information is exchanged, because of
+technical architecture, and because of the contractual
+relationship with the company.
+The way in which the Government shares sensitive
+information with the company is important to understand. In one
+case, company-owned laptops connected directly to the OPM
+network; in another case, company-owned laptops connected to
+the company's network and then to OPM network. If laptops
+connect directly to the Government network, it is easier to
+assess their security posture and limit the exposure of the
+sensitive information.
+The architecture of the network is important because it
+provides a framework for how sensitive information is stored,
+accessed, and exchanged, and it defines the boundaries for
+protecting the network. If the network is well defined and the
+data is segregated, it is easier to protect. A well architected
+network also makes it easier to investigate incidents. And, of
+course, network logs help us understand what might have
+happened during an incident.
+When the Government has a well-defined relationship with a
+contractor that specifically addresses information security and
+incident management, it is easier to work with the company to
+obtain information and plan remediation efforts. As a result of
+lessons learned this past year, the agencies have collaborated
+with the help of OMB and the Office of Federal Procurement
+Policy and the CIO Council to share lessons learned. This
+includes contracting clauses that strengthen our relationship
+with contractors.
+For example, at the onset of the contract, a security
+assessment serves as a method to review the security features
+in place to protect sensitive information. This assessment
+should be validated by an independent assessment organization.
+But this only provides a prospective of the security posture at
+a point in time. An information security continuous monitoring
+program is essential to enabling insight into the security
+posture of a system on a recurring basis.
+Director Archuleta recognizes cybersecurity as an agency
+priority. OPM's 2016 budget request included $21 million to
+complete the modernization of our IT infrastructure. This
+funding is critical to continue the progress we have made so
+far in protecting data from relentless adversaries. For
+example, OPM is implementing information security continuous
+monitoring both in our own network and systems, as well as our
+contractor systems.
+We look at security controls on a rotating, more frequent
+basis, identifying vulnerabilities in real time given the
+changing nature of threats. Plans of actions and milestones are
+created and tracked to remediate concerns. OPM has also grown
+its cybersecurity capability, which will allow us to do onsite
+technical inspections of contractor networks in the future.
+Thank you for this opportunity to testify today. I am happy
+to address any questions you may have.
+[Prepared statement of Ms. Seymour follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Ms. Seymour.
+Mr. Wilshusen, you are recognized for five minutes.
+
+STATEMENT OF GREGORY C. WILSHUSEN
+
+Mr. Wilshusen. Chairman Hurd, Ranking Member Cummings, and
+members of the committee, thank you for the opportunity to
+testify at today's hearing.
+As you know, Federal agencies and their contractors depend
+on interconnected networks and computer systems to carry out
+mission-related functions. The security of these networks and
+systems is vital to maintaining public confidence and
+preserving our Nation's security, prosperity, and well-being.
+Safeguarding Federal computer systems and information,
+however, is a continuing concern. The number of information
+security incidents, both cyber and non-cyber, reported by
+Federal agencies continues to rise, increasing from about 5,500
+in fiscal year 2006 to over 67,000 in fiscal year 2014.
+Similarly, the number of incidents involving personal
+information more than doubled in recent years, to over 27,600
+in 2014.
+As discussed with your staff, my testimony today will
+describe cyber threats affecting Federal and contractor
+systems, and the challenges in securing them.
+Before I begin, Mr. Chairman, if I may, I would like to
+recognize my esteemed colleagues who were instrumental in
+developing my written statement. With me today is Larry
+Crossland, an Assistant Director of Information Security, who
+led this issue. In addition, Rosanna Guerrero, Lee McCracken,
+Fatima Jahan, Chris Bazinsky, and Bill Cook, who are all back
+at the office, also made significant contributions.
+Mr. Chairman, the Federal Government and its contractors
+face an evolving array of cyber threats. These threats can be
+intentional or unintentional. Unintentional threats can be
+caused by defective computer equipment, careless or poorly
+trained employees, or natural disasters that inadvertently
+disrupt systems.
+Intentional threats can be both targeted and untargeted
+attacks from a variety of sources, including criminal groups,
+hackers, disgruntled insiders, nations, and terrorists. These
+sources vary in terms of their capabilities, willingness to
+act, and motives, which can include seeking monetary gain or
+pursing an economic, political, or military advantage. In
+particular, adversaries possessing sophisticated levels of
+expertise and abundant resources, sometimes referred to as
+advanced persistent threats, pose increasing risks.
+Cyber adversaries have a variety of tools and techniques to
+perpetuate and perpetrate attacks. These include malicious
+software, social engineering, phishing, denial of service, zero
+day exploits, and, in sophisticated attacks, may use a
+combination of these and other techniques.
+The number of cyber attacks vastly increases the reach and
+impact due to the fact that attackers do not need to be
+physically close to the victims and can more easily remain
+anonymous. The risks posed by cyber attacks is heightened by
+the vulnerabilities in Federal networks and systems.
+Specifically, weaknesses in security controls continue to
+threaten the confidentiality, integrity, and availability of
+the systems supporting Federal operations. Most major Federal
+agencies have deficient information security. For fiscal year
+2014, 19 of the 24 major agencies reported inadequate
+information system controls for financial reporting purposes,
+and inspectors general at 23 of these agencies cited it as a
+major management challenge.
+Federal agencies face several challenges in protecting
+their systems. These include designing and implementing risk-
+based information security systems and programs, addressing
+cybersecurity for building and access control systems,
+enhancing oversight of contractors providing IT services,
+improving security incident response activities, responding to
+breaches of personally identifiable information, and
+implementing security privacy programs at small agencies.
+Underscoring the importance of these matters, we once again
+designated Federal information security as a government-wide,
+high-risk area in this year's update to the high-risk report, a
+designation that has remained in place since 1997. This year we
+also expanded the area to include protecting the privacy of
+personally identifiable information.
+Until Federal agencies successfully address these
+challenges, including implementing the hundreds of outstanding
+recommendations made by GAO and agencies' inspectors general,
+Federal systems and information will remain at increased and
+unnecessary risk of unauthorized disclosure, modification, and
+loss.
+Mr. Chairman, Ranking Member Cummings, members of the
+committee, this concludes my statement. I would be happy to
+answer your questions.
+[Prepared statement of Mr. Wilshusen follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+Dr. Fischer, you are recognized for five minutes.
+
+STATEMENT OF ERIC A. FISCHER
+
+Mr. Fischer. Good afternoon, Chairman Hurd, Ranking Member
+Cummings, and distinguished members of the committee. On behalf
+of the Congressional Research Service, thank you for the
+opportunity to testify today.
+I will try to put what you have heard from prior witnesses
+in context with respect to both long-term challenges and near-
+term needs in cybersecurity and the Federal roles in addressing
+them.
+The technologies that process and communicate information
+have become ubiquitous and are increasingly integral to almost
+every facet of modern life. These technologies and the
+information they manage are collectively known as cyberspace,
+which may well be the most rapidly evolving technology space in
+human history. This growth refers to not only how big
+cyberspace is, but also to what it is: social media, mobile
+devices, cloud computing big data, and the Internet of things.
+These are all recent developments and all are increasingly
+important facets of cyberspace. It is difficult to predict how
+cyberspace will continue to evolve, but it is probably safe to
+expect the evolution to continue for many years.
+That is not to say that all of cyberspace has changed.
+Basic aspects of how the Internet works are decades old, and
+obsolete hardware and software may persist for many years.
+These characteristics of the cyberspace environment present a
+daunting challenge for cybersecurity, whether for Federal
+agencies, third-party contractors and vendors, or even the
+general public.
+But design incentives and consensus are also major long-
+term challenges for cybersecurity. Building security into the
+design of cyberspace has proven to be difficult. The incentive
+structure within cyberspace does not particularly favor
+cybersecurity, and significant barriers persist for developing
+consensus on what cybersecurity involves and how to implement
+it effectively.
+Furthermore, no matter how important those four challenges
+are, they do not diminish the need to secure cyberspace in the
+short-term. That includes reducing risk by removing threats,
+hardening vulnerabilities, and taking steps to lessen the
+impacts of cyber attacks. It also includes addressing needs
+such as reducing barriers to information sharing, building a
+capable cybersecurity workforce, and fighting cybercrime.
+Federal agencies play significant roles in addressing both
+near-term needs and long-term challenges. Under FISMA, all
+Federal agencies are responsible for securing their own
+systems. Private sector contractors acting on behalf of Federal
+agencies must also meet FISMA requirements. In fiscal year
+2014, Federal agencies spent $12.7 billion on those activities,
+equivalent to about 13 percent of agency information technology
+budgets.
+Now, Federal agencies also have responsibilities for other
+cybersecurity functions, as summarized in my written testimony.
+Research and development, along with education, are the two
+probably most focused on addressing long-term challenges.
+Others, such as technical standards and support, law
+enforcement, and regulation focus more on meeting immediate
+needs.
+The Department of Defense, as an example, is responsible
+for military operations and protection of its own systems, in
+addition to some other cybersecurity activities. DOD includes
+the National Security Agency, which is also a member of the
+intelligence community. DOD has the largest annual investment
+of any Federal agency both in information technology and in
+cybersecurity.
+The Department of Homeland Security fulfills several
+cybersecurity functions, developing, for example, new
+cybersecurity technologies and other tools. It coordinates the
+operational security of Federal systems under FISMA, including
+information sharing and technical support. It also plays a
+significant role in law enforcement related to cybercrime, with
+DOJ, of course, being the lead agency in that regard.
+But perhaps it is best known as coordinating Federal
+efforts to improve the security of critical infrastructure,
+most of which is controlled by the private sector. Those
+activities include information sharing incident response and
+technical support. Most private sector department activities
+are voluntary, but DHS also has some regulatory authority for
+the transportation and chemical sectors.
+Now, the role of Federal regulation in cybersecurity has
+been a significant source of controversy, along with how to
+remove barriers to information sharing while protecting
+proprietary and personal information, and the proper roles of
+different Federal agencies in various cybersecurity activities,
+including regulation.
+With respect to specifically the third-party vendors and
+contractors, it may be useful to note that a large proportion,
+roughly half, of recent Federal investment in information
+technology has been for procurement and acquisition of products
+and services. In addition, of course, vendors and contractors
+who provide other kinds of products and services increasingly
+rely on information technology in their businesses.
+Also, I should mention that NIST is in the process of
+developing guidance for agencies to apply to other non-Federal
+systems that contain or process controlled, but unclassified,
+Federal information.
+That concludes my testimony. Once again, thank you for
+asking me to appear before you today.
+[Prepared statement of Mr. Fischer follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Dr. Fischer, and thanks to everyone on
+the panel for your opening remarks.
+We will begin questioning with my colleague from Florida,
+Mr. Mica.
+Mr. Mica. Well, thank you, Mr. Chairman.
+Let me ask, first, a general question. It appears that
+there is a fairly significant increase. The information I have
+is just since 2014 a 15 percent increase in incidents of some
+of the security risks or incidences. Is that correct, Mr.
+Scott? So we are seeing a fairly significant increase? Maybe
+each one of you could tell me what we are seeing overall or
+what you anticipate we are facing. Is this something that was
+just the last year or are we now expecting this to continue to
+increase?
+Mr. Scott. First of all, I would say my experience in both
+the private sector and everything I have seen in the public
+sector would suggest that there has been a steady increase in
+attacks and incidents over a period of time.
+Mr. Mica. But this is fairly accurate, the 15 percent
+increase just in 2014?
+Mr. Scott. That sounds reasonable.
+Mr. Mica. Security incidents?
+Mr. Scott. Yes.
+Mr. Mica. Ms. Seymour, are you seeing the same thing?
+Ms. Seymour. We are seeing an increase, sir, and I would
+say some of that is due to the fact that we are moving from
+paper into IT, and as we do that, more of that sensitive
+information----
+Mr. Mica. You have more activity. So you expect more
+incidents.
+Mr. Wilshusen?
+Mr. Wilshusen. Yes, I would say that is probably reasonable
+to say 15 percent in fiscal year 2014. The numbers I have on
+incidents that were reported by Federal agencies to the US-CERT
+showed about a 10 percent increase.
+Mr. Mica. And that is up?
+Mr. Wilshusen. That is up, yes, for fiscal year 2014 over
+fiscal year 2013.
+Mr. Mica. And Ms. Seymour just said that some of it is
+because we are shifting from paper to computer and cloud and a
+whole host of other things.
+Mr. Wilshusen. Right. I would say over the last nine years
+or so it has increased over 1,100 percent. It is basically like
+a stairway, if you will.
+Mr. Mica. It is going up.
+Mr. Wilshusen. Going up and up. And I think there are
+several reasons for that, one of which might be just agencies
+are better in terms of detecting and reporting incidents. But I
+think it also reflects that there is a very active threat
+environment that is growing, as well as the continued
+vulnerabilities of Federal systems.
+Mr. Mica. And that is going to be the second part of my
+question, where the risk comes from. You are a little bit ahead
+of me.
+Dr. Fischer, you are also seeing the increase and the basis
+for the increase. Some they mentioned is that there is more
+activity, going again to the computer base----
+Mr. Fischer. I guess what I would like to add to what the
+other witnesses said is that there is certainly consensus that
+there is a general increase. Now, with respect to a specific,
+also, there is a lot of evidence that the rate of increase is
+actually accelerating; it is not just a certain number per
+year, but each year those numbers go up. And a number of
+different measures would reflect that. So basically we can
+expect continued increase.
+Mr. Mica. Continued increase.
+Okay, the other thing, too, is the risk, where is the risk
+coming from. Some risk is State-based. You know, these
+incidents are being initiated by other States, rogue or
+whatever, and then rogue, say, individuals who can penetrate
+the system. Where is the risk coming from that you all see?
+Let's just go down the line real quick. Mr. Scott?
+Mr. Scott. It comes from a number of different factors. You
+mentioned one, State-based.
+Mr. Mica. Is that most of it?
+Mr. Scott. It depends on who the target is.
+Mr. Mica. And then most of the risk that we should fear, is
+it from that, or should it be from rogue operators?
+Mr. Scott. There are people who want to get PII for
+monetary gain; there are people who are looking for
+intellectual property for industrial espionage. There is a wide
+variety of motivations for this.
+Mr. Mica. Again, what poses the biggest risk, the State or
+the rogue?
+Mr. Scott. It depends on your area of interest.
+Mr. Mica. National security and economy.
+Mr. Scott. Security and economy I think both industrial
+espionage and PII and government information are the high risk
+areas.
+Mr. Mica. And the other thing, too, is we are seeing more
+of the contracts for some of these services go to the private
+sector, as opposed to in-house Government. Does that pose more
+of a risk? And are we putting in place means to require that
+they have in place protections that are adequate when they
+contract this work out?
+Mr. Scott. I don't think it, out of necessity, increases
+the risk as long as good practice and procedures are followed;
+and that is true whether it is an in-house-run operation or
+something that is contracted out. So the answer is it will
+depend on the regime that is going it.
+Mr. Mica. Thank you, Mr. Chair.
+Mr. Hurd. Thank you, sir.
+I would like to now recognize Mr. Lynch from Massachusetts
+for five minutes.
+Mr. Lynch. Thank you, Mr. Chairman.
+I also want to just commend my colleague, Mr. Cummings, the
+gentleman from Maryland. I remember over the past couple of
+years we had the breaches at JPMorgan and Home Depot and
+Target, where the gentleman from Maryland asked to have a
+hearing like this in the face of that breach, and he was denied
+by the previous chairman.
+I know when we had the 800,000 workers that were affected
+in the U.S. Postal Service breach and the State Department
+breach, again the ranking member asked to have a hearing on the
+breaches and cybersecurity then and again we were denied by the
+previous chairman.
+I just want to say that it probably reflects the new
+leadership, the new chairman, the gentleman from Utah, Mr.
+Chaffetz, that we are finally addressing this problem, and I
+think it bodes well not just for the committee and the work we
+are doing, but also I think for the American people, the people
+that we are supposed to be protecting. But again I want to
+thank Mr. Cummings for his leadership on this issue.
+I happened to run across a report that was done by the New
+York State Department of Financial Services, and I would ask
+unanimous consent that we might enter this into the record, Mr.
+Chairman.
+Mr. Hurd. Without objection, so moved.
+Mr. Lynch. Thank you.
+[The information follows:]
+[This report can be found at: http://www.dfs.ny.gov/about/
+press2014/pr140505--cyber--security.pdf]
+Mr. Lynch. What they did is they went through and they
+looked at what the banks in New York were doing in the face of
+a lot of these breaches. This was obviously on the private
+sector side. And while I understand we are looking at the
+Federal side, I think that there are some lessons learned here.
+I think that the importance of a meaningful sort of public-
+private partnership on protecting cybersecurity is necessary
+because so many times the Government is actually relying on
+third parties in the private sector to protect their
+information. I think the President pointed out that we have to
+have a very tight collaboration between banks and financial
+services companies and third-party vendors.
+To this end, I was a little bit shocked by the report of
+the New York State Department of Financial Services. They
+examined 40 regulated banking organizations and the report
+reveals that the Wall Street efforts to mitigate security risks
+of outside firms leaves great room for improvement, to say the
+least. While 90 percent of the banking organizations surveyed
+reported that they have information security requirements in
+place, the requirements are across a broad spectrum. There were
+some banks that required data encryption that was in
+communication, but not data encryption when the information was
+at rest. So people could hack into the system and get the
+information that was not encrypted.
+Others had access controls, data classification, and
+disaster recovery plans. In addition, nearly all of the
+surveyed banking organizations report they have implemented
+policies that require both initial and periodic review of
+third-party vendors.
+However, less than half of those banks, and there is great
+reputational risk as well as financial risk for these firms to
+allow a breach, so they should be motivated, less than 50
+percent of these institutions conduct any type of onsite
+assessments like Ms. Seymour mentioned in her testimony and
+only 46 percent are required to conduct onsite assessments of
+so-called high-risk third-party vendors such as check payment
+processors and trading settlement operations and data
+processing companies. Only about a third of them are required
+to conduct periodic onsite assessments of high-risk third-party
+stakeholders during the life of their entire contract, and
+those respondents included 50 percent of large institutions
+reported that they use encryption, again, for data that is in
+communication, but not when it is at rest.
+I suspect that with the motivation that these banks have,
+they have a larger compliance rate than we do in the Federal
+Government, and I want to know from you collectively--and I
+appreciate that you all do great work. Mr. Fischer, CRS is one
+of our favorite groups; they help Congress enormously. But if
+the private sector is failing so miserably, what lessons are
+there for us and what are we doing to try to step up our game
+to protect the information that the Federal Government has
+within its custody?
+Mr. Scott. Thank you. Let me, for context, also describe a
+little bit of the fact that this is also a moving target. What
+was satisfactory even two or three years ago is no sort of
+table steaks in terms of, you know, where you just get started.
+So I think it is important to recognize that that will likely
+also continue to be the case.
+What we are doing in OMB is we are conducting CyberStat
+reviews with each of the agencies that asks them to report and,
+in consultation with us, look at their maturity level across a
+number of different dimensions, many of which you mentioned;
+and then we will ask each of the agencies to set goals and we
+will measure progress against those goals. And each of these
+have to be a risk-based assessment to start with. So some
+agencies have different kinds of risks than other ones do. So
+that is an important part of the work that our unit is doing.
+Then the second thing is, through our CIO Council and our
+CIO counsel, disseminating information and sharing best
+practices, as well as the guidance that we provide during the
+normal course of our work.
+Mr. Hurd. Thank you, Mr. Scott.
+I would now like to recognize Mr. Russell from Oklahoma for
+five minutes.
+Mr. Russell. Thank you, Mr. Chairman.
+Mr. Scott, in your role as FED CIO, you will have a great
+deal of influence over IT policies and practices that Federal
+agencies must implement. Given your role as a technologist and
+an IT specialist with years of private sector experience, can
+you give us a general sense of your impression of the State and
+Federal information security?
+Mr. Scott. Thank you for the question. So, nine weeks in,
+it is a little difficult for me to give you a sort of
+comprehensive answer to that, but what I have observed so far
+is that there is a range, and that range is dependent on the
+agency that we are talking about here. It is why we are doing
+the CyberStat reviews and why we are going through the
+processes that we are going through. So at the end of that
+process I hope to have a more comprehensive view across the
+Federal agency.
+That said, I would tell you there is no agency, even the
+ones that we have looked at so far, who we believe are doing a
+really good job who would say we are done or we have done
+enough and it is the end of job. Everyone believes there is
+more that we can and should do.
+Mr. Russell. Thank you for that.
+Mr. Wilshusen, the Partnership for Public Service released
+a report last week that concluded the Federal Government is not
+well positioned to recruit a capable cybersecurity workforce.
+How does recruitment and retention of cyber talent factor in
+the Government's operational ability to maintain effective
+cybersecurity?
+Mr. Wilshusen. Well, clearly, it is one of the underlying
+causes, to make sure that the Federal Government and Federal
+agencies have technically competent individuals that help to
+secure their systems. We did a report a couple years ago to
+talk to human capital cybersecurity challenges within the
+Federal Government. What many agencies indicated to us, at
+least the ones we reviewed, stated that identifying those
+individuals and retaining them that had the technical security
+competencies is one of their biggest challenges. They are able
+to fill many of the other information security type of
+activities and positions, but those that had the technical
+capabilities has been a challenge because they are competing
+against a number of different organizations outside of
+Government, and those individuals are in somewhat short supply.
+Mr. Russell. Ms. Seymour, the Sony hack featured an
+infrastructure attack, meaning hackers not only stole data, but
+they also destroyed the network itself. What do you think the
+motivations of this type of attack are, and do you see that
+there will be more of this in the future? And, if so, what can
+we do to protect against it?
+Ms. Seymour. Thank you for the question, sir. I think that
+as we look at the motivations of these adversaries, I think we
+have to keep in mind that there is a holistic state of
+protection that we have to put in place. Some of our
+adversaries are just interested in the data and, in fact, they
+don't want to destroy the network because they want to set
+themselves up a way to come back in and get data in the future.
+Some of them it is just malicious, not for financial gain on
+themselves, but for denying access and causing the company or
+the agency a great deal of expense.
+So we have to look at security from infrastructure
+perspective all the way through to our applications and we have
+to look at it from a user-based perspective as well as to the
+advanced persistent threats that we have.
+Mr. Russell. Thank you.
+Dr. Fischer, your knowledge and breadth of so many of these
+issues, where do you see the threat going as we try to put up
+these defenses? I mean, they are obviously going to anticipate
+that. What do you see is the attitude of the attacks and those
+that will perpetrate them? If we could think forward, where
+would that go so that we can get ahead of the curve instead of
+always reacting behind it?
+Mr. Fischer. Well, sir, part of that I think depends on the
+whole question of the incentive structure that I mentioned. So
+now often people will talk about, well, who are the threat
+actors? You have State actors, hacktivists, cyber criminals,
+maybe some terrorists and a few other sort of classic hackers
+involved. So they have different motivations and different
+incentives.
+So it seems that it depends, once again, on what the sector
+is specifically that is being attacked, or the particular
+agency or entity, what the motivation of the particular
+attacker is.
+I think that one way to think about this is to realize that
+once the public recognizes that cybersecurity is a critical
+part of the value proposition for anything they do, that is
+going to help greatly ameliorate the situation. And the other
+challenges I mentioned in my testimony are also important.
+Mr. Russell. Thank you for that.
+And thank you, Mr. Chairman.
+Mr. Hurd. Again, I would like to now yield five minutes to
+Mrs. Maloney, from New York.
+Mrs. Maloney. Thank you, Mr. Chairman and Ranking Member,
+and all of the panelists today for focusing on this important
+issue. As we speak, they are debating cybersecurity on the
+floor. It is one of the few areas where there is a joint cause,
+a joint goal, and joint cooperation because it is so serious,
+such a threat to the economy and to privacy and really to our
+technology and security of our Country.
+We, unfortunately, had in 2014 several high-profile data
+breaches of Federal agencies, breaches really that happened
+because of the contractors in the case of the Postal Service
+data breach, where over 800,000 current and former employees
+had their personal information compromised; and the loss of
+sensitive personal information of tens of thousands of Federal
+employees occurred because of data breaches of USIS and
+KeyPoint, two very large Federal contractors.
+So I would like to hear what lessons were learned from
+these experiences and how it plans to apply those lessons to
+minimize the risk of these breaches in the future, and we will
+start with you, Ms. Seymour, from OPM. What are the chief
+lessons that you learned and how are the contractors
+cooperating? And anyone else who would like to jump in and add
+to the chief lessons that we have learned from these
+unfortunate situations.
+Ms. Seymour. Thank you for the question, ma'am. What we
+learned from those breaches is it is important to have a
+contractual relationship that is well defined with those
+contractors. At OPM we had very well defined contract clauses
+in our contracts, and that helped us have a better conversation
+with the contractor when the breaches occurred.
+Mrs. Maloney. Well, did you make any changes after these
+two breaches to make them better with your contracts, with your
+requirements? Have you made any specific changes?
+Ms. Seymour. Yes, ma'am. We have done two things. One is we
+have reviewed our contract clauses to strengthen them, and the
+second thing that we are doing is we are reviewing all of our
+contracts to make sure that we have the appropriate clauses
+across the board in our OPM contracts.
+Mrs. Maloney. So what are the appropriate clauses? What do
+you have to get in there to protect the Government in your
+contracts?
+Ms. Seymour. Clauses that require segregation of data. One
+of the lessons that we learned is that if you have a network
+where all the data is commingled, then it is very difficult to
+protect the data, to segregate the data, understand what the
+adversaries are about and, therefore, protect that information.
+If the data is well architected and segregated, you have a
+better chance of understanding what the adversaries are after
+and putting better protections around it in a very quick
+manner.
+Mrs. Maloney. Now, who got this information? When USIS and
+KeyPoint deal, who were the hackers? What was the breakdown?
+Ms. Seymour. At OPM, ma'am, we don't assign attribution. So
+I would have to defer to other agencies who do that kind of
+work.
+Mrs. Maloney. Okay. But could it happen now? Could it
+happen again? Or have the changes you made protected
+information?
+Ms. Seymour. First of all, KeyPoint has made numerous
+changes in their network and we are assessing those changes.
+OPM, as well, has made tremendous strides in its security and
+changing the architect of its nature.
+Mrs. Maloney. So you have reduced the risk, right?
+Ms. Seymour. Yes, ma'am.
+Mrs. Maloney. But how did you do it? How did you reduce the
+risk? You separated data. What else did you do?
+Ms. Seymour. You put firewalls between your systems so that
+you can better separate and better protect the information so
+that when you understand what the adversaries are after, you
+can strengthen your controls. We also have worked very hard on
+training for our users. Regardless of the security controls
+that you have in your network, one phishing attempt and a user
+clicks on a bad link and contracts malware is very dangerous.
+Mrs. Maloney. Mr. Scott, in your written testimony you
+indicated that one of the lessons learned from the USIS and
+KeyPoint data breaches was third-party contractors and vendors
+were inconsistently implementing protections. Can you explain
+what cybersecurity protections contractors had been
+inconsistently implementing?
+Mr. Scott. It really falls into a couple of areas. One is
+what we require of the--and I am speaking broadly across a
+number of contracts across the Federal Government. So what we
+require in terms of initially our rights to look at and inspect
+their information security measures, number one.
+Also, what they are supposed to do in terms of responding
+to an incident, the time frames that we allow and who they are
+supposed to notify. We were inconsistent on some of those
+activities. And then, thirdly, sorry, I have to look at my
+notes here. And also who they notify. We were inconsistent on.
+So when and who they notify.
+Mrs. Maloney. Okay, thank you. Any additional information
+will have to be sent to me because I am well over my time.
+Thank you so much.
+I yield back.
+Mr. Hurd. Thank you.
+I would now like to recognize the gentleman from Georgia,
+Mr. Hice.
+Mr. Hice. Thank you, Mr. Chairman.
+Dr. Fischer, let me begin with you. Just from a general
+guess or estimation, how often are Federal agencies attacked by
+nation states?
+Mr. Fischer. Well, that is probably a question that could
+be more effectively answered by an agency such as NSA because,
+obviously, a lot of the attacks that happen are not going to be
+made public once they are discovered. But, obviously, attacks
+by nation states are considered a very serious concern,
+particularly for agencies involved in----
+Mr. Hice. Well, of course they are, but you wouldn't have
+any guess? Just generally speaking, I am curious what
+percentage are we looking at.
+Mr. Fischer. I wouldn't want to give you a number that was
+inaccurate, but we would be happy to get back to you with that.
+Mr. Hice. Okay, if you would, please get back with me on
+that. Would you have any idea which nation states have been
+most active in attacking Federal agencies?
+Mr. Fischer. Well, generally speaking, the ones that are
+identified publicly are nation states like China, and Russia to
+some extent, and also Iran. You know, the sort of usual players
+in that regard.
+Mr. Hice. Okay. Would those same nation states be
+responsible for attacking companies as well as Federal
+agencies?
+Mr. Fischer. Well, there is certainly some evidence to
+that, at least in some cases. It really depends on what the
+nation state's motivation is and what they are looking for. So
+in the case of China, for example, there is an interest in
+obtaining intellectual property, so there is some evidence that
+they have, in fact, attacked some private companies.
+Mr. Hice. Okay. Would you try to get some more information
+back to us on that?
+Mr. Fischer. Sure. I would be happy to do that.
+Mr. Hice. Mr. Wilshusen, what recommendations has GAO made
+to various agencies as it relates to management, oversight of
+contractors in regard to cybersecurity?
+Mr. Wilshusen. We issued a report last year that addressed
+this very same issue in terms of overseeing the security
+controls implemented by contractors of Federal agencies, and we
+noted that many of the agencies did not have adequate policies
+and procedures documented in order to provide that level of
+oversight that was needed and, consequently, particularly with
+respect of independently assessing the effectiveness of the
+security controls that are implemented by those contractors, so
+we made a number of recommendations to agencies that we
+reviewed to take such actions.
+Mr. Hice. Have they been responsive to those
+recommendations?
+Mr. Wilshusen. They generally agreed with our
+recommendations, and that is something that we do follow up on.
+Mr. Hice. You do follow up?
+Mr. Wilshusen. Yes, we do.
+Mr. Hice. Okay.
+Ms. Seymour, OPM was one of the agencies reviewed by GAO.
+What steps has OPM taken to improve?
+Ms. Seymour. Thank you for the question, sir. Again, we are
+doing a holistic review of our contracts to make sure we have
+the appropriate security clauses in them. We have also
+strengthened those clauses. We have also enhanced our technical
+capability to do onsite inspections with contractors, and that
+is a program that is evolving in OPM, and we plan to start that
+this year.
+Mr. Hice. All right, so it is evolving. But is there
+accountability? You are staying on top of that issue?
+Ms. Seymour. Yes, sir, there absolutely is. We have a very
+well articulated process that we are moving to for continuous
+monitoring, as opposed to taking an every three year look at
+security controls on both our Government networks, as well as
+the contractor networks.
+Mr. Hice. Okay, thank you.
+Mr. Scott, let me come to you. The report by GAO last year
+reported the need for these controls on contractors and
+oversight thereof, and it was mentioned a while ago you were
+answering the six Federal agencies were evaluated, five of the
+six came back being inconsistent in all of this. As a result,
+there evidently is some confusion, as was brought up. What is
+being done to resolve the confusion?
+Mr. Scott. So we will use our regular process to issue
+guidance for consistent application of the best practices that
+I talked about earlier. That is probably the main thing that we
+will do to clarify. And there are requirements even in FISMA
+that actually help us from a law perspective as well.
+Mr. Hice. When can we expect a timetable for implementing
+all of this?
+Mr. Scott. I think you should expect in the next few months
+would be the expectation there.
+Mr. Hice. Okay. Thank you.
+Thank you, Mr. Chairman.
+Mr. Hurd. Thank you.
+Now I would like to recognize Mr. Cartwright, from
+Pennsylvania, for five minutes.
+Mr. Cartwright. Thank you, Mr. Chairman.
+Over the last few years a number of high-profile network
+compromises have left the private personal information on
+literally millions of people exposed, often taken from
+supposedly secure private sector and Government computer
+networks. Some of the attacks appear to come from foreign
+governments, as Mr. Hice was just exploring; some of them
+simply from criminals.
+The highly publicized compromise of JPMorgan Chase's
+network let the personal information of 76 million households
+and 7 million small business customers flow out of company
+servers. Over the past eight years, the private records of
+nearly 30 million New Yorkers were exposed by data breaches.
+The USIS and KeyPoint compromises resulted in the theft of
+sensitive information from the background investigations of
+nearly 70,000 employees of the Federal Government.
+Now, in a lot of compromises like this, what mitigates some
+of the damage done is data encryption. While it is obviously
+unfortunate if a company or agency is hacked, employees or
+customers can take some solace in the fact that, if their data
+was encrypted, their personal information is not at risk, even
+though it was exposed. If you can't read it, you can't use it.
+Mr. Wilshusen, my question is for you. Over the years, GAO
+has conducted a number of assessments of cyber issues related
+to the Federal Government. When agencies do not have encryption
+policies in place, how does that affect what you are finding in
+your investigations?
+Mr. Wilshusen. We would certainly report on that because,
+indeed, encryption is one of those key controls to help protect
+the confidentiality and even the integrity of sensitive
+information. What we often find, too, is even when agencies may
+encrypt certain data like credentials and user IDs and that,
+they may use a lesser form or less secure form of encryption
+that can still be broken. Even though the information may be
+encrypted, the algorisms are such that they can be readily
+broken by competent individuals with the techniques and
+technologies to do that, so we also make recommendations for
+agencies to implement encryption in accordance with the current
+NIST standards.
+Mr. Cartwright. Very good. So it is the quality of the
+encryption that matters very much.
+Mr. Wilshusen. It is another factor; first, having
+encryption, and then making sure it is strong.
+Mr. Cartwright. But then also the consistency of using
+encryption all the time. My understanding is that private
+companies and even some Federal agencies are under no pressure
+to use encryption at all times, even when that data has been
+determined to be considered sensitive. My question is, again,
+Mr. Wilshusen, is that true? And what concerns does that
+create? And is it something Congress should be looking into
+further?
+Mr. Wilshusen. Well, it is maybe true with regard to like
+private sector companies. Unless they are regulated and are
+required to use encryption, like perhaps certain banks might be
+required to if they are regulated, but other companies, it
+would be generally up to their own determination whether or not
+and their business risk if they deem it appropriate. But they
+run the risk, as some of the recent incidents have shown, of
+having sensitive information being compromised and placed at
+risk.
+Mr. Cartwright. Well, it is not just a question of what is,
+but it is also what should be. What do you think, does Congress
+have a role in enforcing and requiring encryption?
+Mr. Wilshusen. I think Congress has a role in considering
+those issues and making the determination on whether that is in
+the best interest given all the potential implications of that.
+Certainly, it is your prerogative to make that determination
+and to consider it. Encrypting sensitive data is a basic
+fundamental security control, and I would certainly recommend
+that most companies use it to the extent that they have
+sensitive information that needs protection.
+Mr. Cartwright. How about you, Dr. Fischer? Weigh in on
+that for us.
+Mr. Fischer. Well, the only thing I would like to add in
+addition is that it is also important to consider the kind of
+costs associated with encryption, because why is it that we
+don't all use encryption at home? Because it can be difficult
+for us to implement. The same thing can apply in the context of
+a company or even a Federal agency.
+So if the use of encryption seems to basically, while it
+may help to meet the cybersecurity part of the mission,
+actually interferes with or perceives to interfere with the
+operational part of the mission, then often organizations may
+choose the operational part of the mission. So this raises the
+whole question about how does one make sure that security is
+usable. Because if security is not usable, basically people
+find a workaround.
+Mr. Cartwright. Well, this is a fascinating topic, but I am
+out of time, so thank you, gentlemen.
+I yield back.
+Mr. Hurd. Thank you.
+I would like to now recognize Mr. DeSantis, from Florida,
+for five minutes.
+Mr. DeSantis. Thank you, Mr. Chairman.
+Thank you to the witnesses.
+When we have victims of cyber attacks, one of the issues is
+attribution. Where did this come from? I know that they emanate
+in Eastern Europe, Russia, China, whatever. So how do the
+agencies work with Homeland Security, the FBI, and other law
+enforcement in order to trace attacks back to the source when
+they happen?
+Mr. Scott, do you want to give that a shot?
+Mr. Scott. Sure. So let me just go through the process. So
+when an agency discovers there is something going on that they
+are suspicious about, DHS becomes the agency for the Federal
+Government that is the first response and deals with that.
+Then, depending on what they find, they may call in other
+agencies if there are suspicious of, you know, backers outside
+the Country or criminals or whatever. So who is called then
+would depend on what is found after the initial call is made.
+Mr. DeSantis. So that would be the type of thing if it was
+an attack on someone's bank account, they would inform the
+Secret Service, let's say?
+Mr. Scott. Yes, potentially.
+Mr. DeSantis. How are the agencies managing mobile device
+security? I know that when I was active duty in the military
+and you put in your CAC card, there are all these encryption
+certificates, everything. But if someone just has a mobile
+device and they want to conduct business on that, how do you
+ensure that that is something that has integrity?
+Ms. Seymour. I can tell you from OPM's perspective, sir,
+what we have done is implemented security appliances so that we
+don't allow random mobile devices to connect to our network. So
+all of our mobile devices, my mobile device, is controlled, and
+there is encryption on the phone so that, if I lose it, my
+network operation center and security operation center can
+invalidate that device, wipe the data from it, and it is
+encrypted while it is on the phone. So those types of
+appliances and tool sets that we can install on our network are
+very important; they track every device that is on our network.
+Mr. DeSantis. And if that is not used, then there is more
+vulnerability to a cyber attack?
+Ms. Seymour. Yes, sir. It is very important to understand
+what is connected to your network, how it is connected to your
+network, and what the security controls are on those devices
+that are connected to your network.
+Mr. DeSantis. So there are policies? Are employees limited
+in what they can download onto the mobile device?
+Ms. Seymour. Yes, sir. That is one of the issues that we
+work through. If it is a Government-issued phone, then we have
+much more control over that. If it is a privately owned phone
+and bring-your-own-device type of environment, then we have to
+work through other issues about we may confiscate that phone or
+that mobile device for a security incident response, as a for
+instance.
+Mr. DeSantis. What about are employees are allowed to kind
+of just do their own email, apart from the Federal Government?
+Ms. Seymour. I don't know if I would couch it that way.
+There are controls that we put in our networks that prevent the
+bulk download of email, like to a private account. But clearly
+because of the way we communicate with the private sector and
+others, if I wanted to forward an email from my work account to
+my personal account, I may be able to do that in certain
+networks. But we also have ways of white-listing or black-
+listing certain addresses that you can't forward things to.
+Mr. DeSantis. Would an employee, if they just had their own
+email server, could they just use that, or would you make them
+use the Government system with the protections?
+Ms. Seymour. We would make them use the Government system,
+absolutely.
+Mr. DeSantis. Thanks.
+I yield back the balance of my time.
+Mr. Hurd. The gentleman yields back.
+I would like to now recognize the ranking member of the
+Information Technology Subcommittee, Ms. Kelly, from Illinois,
+for five minutes.
+Ms. Kelly. Thank you, Mr. Chair.
+Welcome. Some of the recent major data breaches at
+Government agencies and Government contractors have
+specifically targeted personally identifying information, or
+PII. For example, the U.S. Postal Service data breach, over
+800,000 of its current and former employees' personal
+information was compromised. USIS and KeyPoint contractors that
+perform background checks for the Federal Government suffered
+breaches last year also, potentially exposing tens of thousands
+of Federal employees' personal information.
+Mr. Wilshusen, what are some of the challenges agencies
+face in working with contractors?
+Mr. Wilshusen. I think there are several challenges. One
+is, of course, just making sure that contractors and the
+Federal agencies clearly delineate the roles and
+responsibilities of each party, one, with respect to
+implementing security, but also, two, with respect to detecting
+and reporting on incidents that may occur.
+Another challenge is just making sure that the security
+requirements that contractors are required to follow are in
+fact clearly communicated. One of the things that is important
+to know is that the contractors have full knowledge of what the
+type of security controls they are to implement to protect
+Federal information, and then, secondly, is to assure that
+Federal agencies have some assurance that the contractors are
+effectively implementing those security requirements either
+through an independent assessment or some sort of assessment
+that the agency does, because the agency is still responsible
+for the security of its information even though it may be
+operated or maintained by a third party.
+Ms. Kelly. Thank you.
+Mr. Scott, what guidance is provided to agencies on
+ensuring the security and privacy of personally identifiable
+information?
+Mr. Scott. Well, in our guidance, we would require agencies
+to make sure they are following FISMA, number one. We also, for
+example, are proposing an update to our Web policy requiring
+encrypted Web traffic, https, it is called, as an example, for
+Federal public-facing Web sites, and so on. So there are a
+variety of things that we would do over time, including what I
+shared earlier, which is best practices in terms of contract
+language and requirements in contracts to make sure that we
+have broadly disseminated that across the Federal Government.
+Ms. Kelly. Does OMB guidance provide flexibility to
+agencies depending on the risk assessment of the PII it
+maintains?
+Mr. Scott. I think that is a core principle that every
+agency has to go through, is where are there risks, and clearly
+that will differ from agency to agency.
+When it comes to core PII, though, I don't think there is a
+lot of difference among the agencies; PII is PII in most cases.
+Ms. Kelly. Do you think it is difficult for the Federal
+Government to recruit and retain qualified cybersecurity
+personnel?
+Mr. Scott. I think it is not just a problem for the Federal
+Government. In my last role, it took nearly six months to find
+the chief information security officer that we wanted. It was
+the most exhausting, time-consuming search I think I have done
+in my professional career. So I would say it is a challenge
+more broadly than just the Federal Government.
+Ms. Kelly. Well, is OMB doing anything special to help
+agencies find qualified candidates?
+Mr. Scott. Absolutely. So part of the Digital Services team
+that I talked about is recruiting people out of the private
+sector to come spend some time in the Federal Government and,
+in essence, serve their Country and help us solve some of these
+big challenges not just in security, but in modernizing our
+whole IT environment.
+Ms. Kelly. I yield back my time.
+Mr. Hurd. Votes have been called and the intention is to
+allow Ms. Norton to get through her questions, then we will in
+recess and pick up the questioning after votes. So, with that,
+I would like to recognize Ms. Norton, from the District of
+Columbia, for five minutes.
+Ms. Norton. Thank you very much, Mr. Chairman. I just have
+a few brief questions.
+I am trying to find an industry standard, if you will,
+because it seems as if both the public and private sector are
+having the same kinds of problems. Daily news. Both sectors
+have it. States have it. Everybody has it. In part it is
+because, whether we face it or not, this technology is
+relatively new and we still are working our way through it.
+I am wondering, don't we contract out most of this work,
+most of our work to contractors and vendors, as opposed to
+doing work in-house? I mean, I assume that NASA does work in-
+house, or maybe they even contract some out. But is most of
+this work contracted out?
+Mr. Scott. I think it will vary by agency to the degree to
+which the work is contracted out, but there are certain kinds
+of work that lend themselves to contracting out, where there is
+a broad need and private industry has figured out that they can
+offer a service that Government can consume.
+Ms. Norton. Now, we in the Federal Government always use
+competitive bidding, do we not, for this work, as with other
+work?
+Mr. Scott. I think that is generally the practice, yes.
+Ms. Norton. Is that the practice in the private sector as
+well?
+Mr. Scott. I would say, in my experience, yes, it is very
+similar to what the Federal Government does in terms of
+competing, yes.
+Ms. Norton. We often look to the private sector; we say
+there is real money there, there is real people here. Somebody
+keeps shareholders by real people, unfortunately. Is there an
+industry standard beginning to develop anywhere? Is there an
+industry standard in the private sector which could be useful
+to the public sector, or are both sectors simply feeling their
+way through these problems? Yes, sir.
+Mr. Wilshusen. You mean with respect to cybersecurity
+controls?
+Ms. Norton. Yes, of course.
+Mr. Wilshusen. There are several standard-setting
+organizations that do create standards for information
+security. One is ISO, International Standards Organization, I
+believe, or International Organization for Standards. In
+addition, of course, within the Federal Government, NIST, the
+National Institutes of Standards and Technology, out of the
+Department of Commerce, implements or develops and promulgates
+information security standards, information processing
+standards for the Federal Government, as well as guidelines
+that agencies should be following.
+Just recently, NIST developed a cybersecurity framework for
+improving cybersecurity within the critical infrastructure, and
+this framework identifies a number of different standards or
+sets of standards that are available to private sector owners
+and operators of critical infrastructure that they can use to
+secure their systems.
+Ms. Norton. We have always assumed that the Federal
+Government had the most secure level of assets and the rest of
+it have to make sure they are impenetrable. Can any of that
+cross over to other agencies and help them be more secure in
+their work?
+Mr. Wilshusen. Well, I think with regard to the NIST
+standards and guidelines that it publishes, it often has a
+public announcement period and it is coordinated with some of
+the other standards organizations, so there is, I believe,
+cross-pollination, if you will, among the different standards
+at some level.
+Ms. Norton. Finally, the Affordable Health Care Act had a
+lot of glitches, but I haven't heard a lot about a lot of
+hacking there. Has that been shored up so, kind of information
+that is there, that that is fairly secure?
+Mr. Wilshusen. Well, we issued a report last September on
+the security and privacy of the Healthcare.gov Federal
+facilitated marketplace and we identified a number of
+vulnerabilities within that particular system or module of that
+system. We presently have work ongoing looking at both the
+security and privacy of some of the State-based health
+insurance marketplaces, as well as looking at the incidents
+that have been identified for Healthcare.gov by CMS.
+Ms. Norton. Have they been fairly rare?
+Mr. Wilshusen. We are still in the process of trying to
+obtain and collect the information from CMS and review it. We
+just recently received a listing of the incidents that they
+have identified and reported to us, and we are in the process
+of analyzing that. We will be issuing a report later this year.
+Ms. Norton. Thank you.
+Mr. Hurd. Thank you. Votes have been called on the House
+floor. The committee will stand in recess to allow members to
+vote and come back. We anticipate reconvening at the end of the
+last vote, and we will advise member offices regarding the
+exact time.
+The committee will stand in recess.
+[Recess.]
+Mr. Hurd. I would like to thank you all for being patient.
+The committee will now reconvene and I would like to recognize
+the ranking member, Mr. Cummings, for five minutes.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+Ms. Seymour, I want to thank you for testifying today. I
+want to thank all of you for testifying.
+Every day Government agencies and contractors are the
+targets of cyber attacks. I wanted to ask you about an attack
+that happened in 2014. In March of last year, OPM's networks
+were attacked by a sophisticated cyber threat. At about the
+same time, USIS, a contractor for OPM that conducts background
+checks, was also attacked. As I understand it, the attack
+against OPM did not result in any breaches of personal
+information, but the attack against USIS did. Is that right?
+Ms. Seymour. Yes, sir, that is correct.
+Mr. Cummings. So the attack on OPM, the Government agency,
+was thwarted, but the attack on USIS, the contractor, resulted
+in the theft of thousands of personal records. Ms. Seymour, we
+want to learn from this. What protections did OPM have in place
+that USIS did not?
+Ms. Seymour. Thank you for the question, sir. Some of the
+protections had to do with the architecture that the Government
+is using versus the architecture that USIS was using. Most of
+the Government's data is in a mainframe, and in USIS they were
+in a distributed more modern environment. The adversaries in
+today's environment are typically use to more modern
+technologies, and so in this case, potentially, our antiquated
+technologies may have helped us a little bit.
+But I think also it comes down to culture and leadership,
+and one of the things that we were able to do immediately at
+OPM was to recognize the problem. We were able to react to it
+by partnering with DHS and our agencies, their partnering
+agencies to be able to put mitigations in place to better
+protect the information.
+Mr. Cummings. So those kinds of cyber protections that you
+had in place at OPM, they are expensive?
+Ms. Seymour. Yes, sir, some of them can be expensive. Some
+of the appliances that you put on a network, firewalls and
+different software to separate data and to protect it so that
+it recognizes good traffic in the network from potentially
+erroneous traffic in the network, those can be expensive. They
+are expensive sometimes to implement and then sometimes
+expensive to operate and maintain.
+Mr. Cummings. So USIS could have saved money by not
+investing in those cyber protections, is that right?
+Ms. Seymour. What I would offer, sir, is, yes, you can save
+money by not implementing security, but it is a temporary
+savings because these vulnerabilities and the breaches that we
+suffer are expensive to remediate.
+Mr. Cummings. Right. Right. So USIS is a subsidiary of a
+company called Altegrity, and Altegrity owns other subsidiaries
+that also do business with the Federal Government. On February
+11th, 2014, the committee held a hearing with the head of USIS.
+I asked him about whether Altegrity oversaw these subsidiaries
+and I also asked him about bonuses Altegrity paid to USIS
+executives during a four-and-a-half year period when USIS
+allegedly perpetrated a massive fraud against the Government.
+In response, he confirmed that Altegrity, in fact, oversaw
+these subsidiaries and that Altegrity determined those million
+dollar bonuses. Since then, neither USIS nor Altegrity has
+answered one single question we have asked them.
+So, Ms. Seymour, after you discovered the breach at USIS,
+was the company fully cooperative in responding to the
+Government's request for information about the cyber attack?
+Did they allow Federal cyber officials to investigate the
+breach of other Altegrity subsidiaries?
+Ms. Seymour. The Government was able to negotiate with USIS
+to allow US-CERT to scan their network and uncover some of the
+vulnerabilities and propose remediation steps for USIS. We were
+limited somewhat in our ability to scan the network, or US-CERT
+was limited in its ability to scan the network, again, because
+of the architecture of the USIS network, so US-CERT was given
+permission to scan two of the subnets of that network that they
+identified.
+Mr. Cummings. Chairman's indulgence. I just have one more
+question.
+Ms. Seymour, after the breach and the discovery of the
+alleged--let me go back to what you just said. Were you able to
+accomplish everything you wanted to accomplish with regard to
+USIS? I take it that you didn't get everything that you wanted.
+Ms. Seymour. It is difficult. Again, the way the network
+was architected. I can give you an example, if I might. If you
+ask me to physically secure an apartment building, but you only
+allow me to go into two apartments, I can't tell you what is in
+those other apartments. Clearly, they are part of the building
+that you have asked me to secure.
+Mr. Cummings. Yes, I got it.
+Ms. Seymour. Okay.
+Mr. Cummings. So, in answer to my question, you didn't get
+everything you wanted.
+Ms. Seymour. We were not able to go to the boundaries of
+the network, sir.
+Mr. Cummings. And, Ms. Seymour, after the breach and the
+discovery of the alleged fraud, OPM decided not to renew its
+contract with USIS. But I recently learned that the company may
+be planning legal action. Have you seen any signs that
+Altegrity or USIS might bring a lawsuit against OPM?
+Ms. Seymour. I am not privy to any of that information,
+sir. I have no knowledge.
+Mr. Cummings. So after failing to protect the personal data
+of tens of thousands of people, after not fully cooperating
+with the Government after the breach, after refusing to answer
+Congress's questions, now Altegrity may be planning to sue.
+There are serious questions about how Altegrity has been
+conducting business with over $2 billion in taxpayer funds it
+has received. I think we should pursue answers directly from
+Altegrity, and I will bring that up with the chairman.
+Mr. Chairman, thank you very much.
+Mr. Hurd. Thank you, Ranking Member Cummings.
+I would like to recognize myself for five minutes.
+The first question I have is to you, Mr. Scott. One, thank
+you for being here today. Like you, I think I have been here
+for four weeks longer than you have in this position, and
+having come out of the private sector most recently, trying to
+get our hands around what is really going on, and one of the
+interesting things that I find is that some very basic
+questions, the Federal Government, we haven't answered them.
+If North Korea launched a missile at San Francisco, we know
+how we would respond; the North Koreans know how we would
+respond. That is a physical-on-physical attack. A digital-on-
+physical attack, we have a little bit example of that, that
+Stuxnet from a couple years ago. But what is a digital-on-
+digital attack? What reaches the level of a digital act of war?
+Who is having these conversations? How are we going to go
+about answering some of these questions? I would really just
+like your insight on those issues and how we are going to come
+to some resolution as a whole of Government.
+Mr. Scott. Well, I think those kinds of questions actually
+are, frankly, outside the purview of OMB; they are really
+National Security questions and DOD kinds of questions, so in
+the few weeks that I have been here, I just haven't been
+engaged in sort of that conversation, although, like you, I am
+curious about the answers to those and I do think policy things
+are going to have to be worked out over some time. It is pretty
+clear to me that there are somewhat fuzzy lines in that space.
+Mr. Hurd. Thank you. One of the things that this committee
+as a whole and my Subcommittee on Information Technology
+specifically is going to be looking at the continued
+implementation of FISMA from 2014, and I am interested on your
+thoughts on where the guidance to all the agencies and
+departments on implementation of FISMA is and when can we
+expect some of that guidance.
+Mr. Scott. Thank you for that question. As you know, the
+FISMA law passed in the 2014 year and, since then, we have been
+taking the actual law and putting it through our OMB process in
+terms of figuring out what guidance we will issue to the
+various Federal agencies and so on. That work is well underway,
+so I think in the next several months you will see the specific
+guidance that we issue with regard to FISMA.
+Mr. Hurd. Thank you.
+Mr. Scott. And we tend to do annual updates of that, so you
+will see ongoing updates as time passed as well.
+Mr. Hurd. Excellent. Thank you.
+The next question is to you, Ms. Seymour, to follow up on
+some of the questions that Mr. Cummings had. You had mentioned
+that US-CERT was limited in their ability to scan the network
+of USIS. Why was that?
+Ms. Seymour. I can't answer that, sir, on behalf of USIS.
+Mr. Hurd. So in your role, and this is not you
+specifically, but you as the CIO of OPM, do you have enough
+authority to mandate something like that happen?
+Ms. Seymour. Within my own agency, sir?
+Mr. Hurd. Within your own agency.
+Ms. Seymour. Yes, I do. I have excellent leadership with
+Director Archuleta, and I do feel I have appropriate authority.
+Mr. Hurd. What about if it comes to a subcontractor that
+your agency is employing?
+Ms. Seymour. Again, I would defer to the contracting
+officer and I would work with the contracting officer to make
+sure that the appropriate clauses are in there, and that would
+guide the discussions that we would have with the contractor.
+Mr. Hurd. But as of right now, if you walked in and said I
+want to see this part of the network scanned, I want to do a
+vulnerability assessment of a certain part of the network that
+is being managed by a subcontractor, you would have the
+authority to be able to do that?
+Ms. Seymour. I think that there are a lot of questions
+there that we would probably engage with the contracting
+officer and legal counsel. I would like to take that question
+and get you a more complete response because I think there are
+a lot of factors there that play into that.
+Mr. Hurd. No, I appreciate that. One other issue. I know we
+are talking about FISMA here today, but at some point we will
+probably talk about FITARA. And I know this is something that
+was good legislation that was passed last year. I think it is
+pretty insane that the Federal CIO doesn't have complete
+jurisdiction over certain elements of the networks that you are
+tasked to protect, and that is unfortunate. So we will be
+looking at the implementation of that.
+I know Mr. Connolly, my colleague, is very interested in
+that, since he was part of the group that passed the
+legislation in the last cycle, so I appreciate you all being
+here.
+With that, I would like to recognize Mr. Connolly for five
+minutes.
+Mr. Connolly. I thank the chair and I thank him for his
+kind remarks.
+By the way, I would be glad to work with you. We tried to
+actually codify the role of CIO and CTO in the Federal
+Government along the lines originally proposed by the
+President. We were unsuccessful in that effort the first try,
+so I would be glad to work with you, because while some of this
+is by executive order, that does not necessarily survive a
+particular president. I do think we need to rationalize the
+hierarchy of responsibility in the Executive Branch, so
+hopefully we can work with the Executive Branch.
+This was early on and maybe didn't have the full attention
+of the Administration at the time, but, at any rate, I would be
+glad to work with the chairman, if he is interested in pursuing
+that legislatively. And I thank him again for his kind remarks.
+FITARA, although here at the Oversight and Government Reform
+Committee, we prefer to call it Issa-Connolly.
+So let me start. Mr. Scott, how would you assess plans for
+the implementation? There are a lot of elements of the reform
+bill and we, as you know, intended it not to be another pain in
+the neck overlay of responsibility that you have to report and
+do all that. We actually want it to be transformative. We want
+it to be a management tool for actually achieving efficiency,
+helping with the management structure, and looking at different
+ways to harness the power of technology to transform.
+Could you briefly just bring us up to date from your
+perspective, and you are new, how well organized are we and how
+sincere is the energy within OMB to, in fact, us it as such?
+Mr. Scott. Thank you for the question. I think the energy
+level is high, and it has certainly been the subject of a lot
+of work that my team in particular has been working on over the
+last several months. Through the process that we have used, we
+have also had a very high level of engagement with agency CIOs,
+former CIOs who have had experience in the Government, members
+of your team and others, who have all, I think, provided great
+perspective not only on the intent of FITARA, but some of the
+practical aspects of implementing. Among those are not every
+agency is the same, so there are cases where flexibility is
+going to be needed, while still retaining the absolute intent
+of the law, which is to have greater accountability and
+responsibility on the part of the CIO.
+We are about ready to enter a public comment period where
+we think we will get additional insight on that, so we look
+forward to, in a few weeks after the public comment period,
+closing it out and issuing our guidance. But, in summary, I
+would say I feel really good about where we are and where we
+are going, and I appreciate all the support that you and your
+team have provided for this.
+Mr. Connolly. And as I indicated to you in the break while
+we were voting on the floor, we would like to work with you,
+and with your office as well, Ms. Seymour, in particular, about
+implementation and how we are doing and looking at milestones,
+because we want to use oversight hearings to prod, but also to
+enhance and augment what you are doing.
+Ms. Seymour, there is a role, it seems to me, obviously,
+for OPM, especially in sort of helping to rationalize the
+current structure we have. Now, if you go to a major
+corporation and you ask, no matter how big, how many CIOs do
+you have, they look at you kind of strange and say, one.
+Believe me, I have done this in my district. It doesn't matter
+how big or small, the answer is always the same: one.
+Now, over 24 Federal agencies, we have 250 people with the
+title CIO, and we didn't, by fiat, say thou shalt only have
+one, but we created a series of incentives in the bill to give
+you the tool to help rationalize that system and make sure that
+there is one CIO vested with the authority, the responsibility,
+the accountability, the flexibility to help engineer these
+reforms.
+Could you comment on that? Because I have to tell you, from
+the private sector point of view, the Federal Government is not
+well organized, just that anecdote about how many CIOs we have,
+frankly, to effectuate the kind of management change we need to
+to be more efficient. What is OPM doing to try to take
+advantage of the new law in that respect?
+And I know my time has just expired, Mr. Chairman. I
+appreciate the indulgence just for a second. Thank you.
+Ms. Seymour. Thank you for the question, sir. We work very
+closely, I work very closely with Mr. Scott and the CIO
+Council. I think that that is an avenue where we can share
+ideas, share lessons learned, where we can, by any other title,
+whether it is CIO, Director of IT, any other title, where we
+need to come together and share and put in place policies that
+we can then implement throughout the Federal Government. I
+would say that the Federal Government is probably more complex
+and diversified than most private sector companies, so I think
+that we have to work together across these sectors.
+So in that construct we can, and we also need to make sure
+that we are not just working within the CIO Council, but that
+we work with the other councils as well, the Chief Acquisition
+Officer Council and the Chief Human Capital Officer Council.
+And when you get the proper C-suite folks together, you really
+get a lot of knowledge, expertise, and leadership to move our
+efforts forward.
+Mr. Connolly. I look forward to talking more to you about
+that.
+Would the chairman just allow either GAO or CRS, or both,
+just to comment? And I am done. But I didn't want to shut them
+out because I know they have views as well, and GAO has been
+very supportive of FITARA, otherwise known as Issa-Connolly.
+Mr. Wilshusen. Yes, sir. That work with FITARA was actually
+done by another director, but one thing I would like to comment
+on as far as a corollary, we are beginning to start an
+engagement that will be looking at the role of CISOs, Chief
+Information Security Officers, and their authorities, which,
+while of course not necessarily pertaining to FITARA in the
+role of the CIO, has some other interesting aspects to just
+what extent that the CISOs have authorities throughout their
+organizations and across the Federal Government.
+Mr. Hurd. Dr. Fischer?
+Mr. Fischer. I don't have any specific comments with
+respect to FITARA, but I would like to say we do have people
+who are sort of more specifically focused on this area, and we
+would be happy to follow up with you to answer any questions
+you may have.
+Mr. Hurd. Thank you.
+Mr. Connolly. Thank you, Mr. Chairman.
+Mr. Hurd. Thank you. And I do look forward to working with
+you over these next couple of weeks and months on FITARA and
+how we can make sure the Federal Government is doing the things
+that it is supposed to be doing.
+I want to thank the witnesses for your appearances here
+today. I appreciate you all being flexible. This is a
+conversation we could sit here for the next three days and just
+scratch the surface. I look forward to future conversations
+with you all and get a little bit more into the nitty-gritty on
+these issues. And I do think this is one of those areas where
+the House, the Senate, and the White House can work together to
+make sure that we are protecting the digital infrastructure of
+the Federal Government and doing everything we can to help the
+private sector protect themselves. So I look forward to working
+with you all.
+With that, if there is no further business, the committee
+stands adjourned.
+[Whereupon, at 5:12 p.m., the committee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

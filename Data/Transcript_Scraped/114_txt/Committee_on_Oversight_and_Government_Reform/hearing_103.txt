@@ -1,0 +1,1379 @@
+- VA CYBERSECURITY AND IT OVERSIGHT
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+VA CYBERSECURITY AND IT OVERSIGHT
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+MARCH 16, 2016
+
+__________
+
+Serial No. 114-133
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+25-503 PDF              WASHINGTON : 2017
+____________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+Internet:bookstore.gpo.gov. Phone:toll free (866)512-1800;DC area (202)512-1800
+Fax:(202) 512-2104 Mail:Stop IDCC,Washington,DC 20402-001
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK, MULVANEY, South Carolina       BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Jennifer Hemingway, Staff Director
+Troy Stock, IT Subcommittee Staff Director
+Michael Flynn, Counsel
+Sharon Casey, Deputy Chief Clerk
+David Rapallo, Minority Staff Director
+------
+
+Subcommittee on Information Technology
+
+WILL HURD, Texas, Chairman
+BLAKE FARENTHOLD, Texas, Vice Chair  ROBIN L. KELLY, Illinois, Ranking
+MARK WALKER, North Carolina              Member
+ROD BLUM, Iowa                       GERALD E. CONNOLLY, Virginia
+PAUL A. GOSAR, Arizona               TAMMY DUCKWORTH, Illinois
+TED LIEU, California
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on March 16, 2016...................................     1
+
+WITNESSES
+
+Ms. Laverne Council, Assistant Secretary for Information and
+Technology, Chief Information Officer, U.S. Department of
+Veterans Affairs, Accompanied by Brian Burns, Deputy Assistant
+Secretary for Information Security, Office of Information and
+Technology, U.S. Department of Veteran Affairs
+Oral Statement...............................................     4
+Written Statement............................................     7
+Mr. Brent Arronte, Deputy Assistant Inspector General for Audits
+and Evaluations, U.S. Department of Veterans Affairs,
+Accompanied by Michael Bowman, Director of Information
+Technology and Security Audits Division, Office of Inspector
+General, U.S. Department of Veterans Affairs
+Oral Statement...............................................    23
+Written Statement............................................    25
+
+APPENDIX
+
+Representative Connolly Statement for the Record.................    56
+Representative McMorris Rodgers Statement for the Record.........    58
+2016-03-16 Iraq and Afghanistan Statement for the Record.........    60
+
+VA CYBERSECURITY AND IT OVERSIGHT
+
+----------
+
+Wednesday, March 16, 2016
+
+House of Representatives,
+Subcommittee on Information Technology,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:00 p.m., in
+Room 2247, Rayburn House Office Building, Hon. William Hurd
+[chairman of the subcommittee] presiding.
+Present: Representatives Hurd, Farenthold, Kelly, and
+Connolly.
+Also Present: Representative Moulton.
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order. Without objection, the chair is authorized to
+declare a recess at any time.
+Last June, in the first hearing on the data breach of the
+Office of Personnel Management, I told agencies that we would
+be watching to make sure they are taking their cybersecurity
+obligations seriously. We discussed how CIOs, CISOs, and agency
+heads need to take a hard look at their IG audits and GAO
+reports, and make sure they address the findings to make sure
+their cyber posture is meeting FISMA standards. The same is
+true when addressing the federal IT acquisition reforms. That
+is why this committee, in a bipartisan fashion, developed a
+scorecard to grade agencies on their implementation of FITARA.
+This committee will continue to hold agency heads
+responsible for the state of their agency information
+technology and cybersecurity posture, but much of this work
+starts in the office of the CIO. We are here today to continue
+that work, and nearly no other department is of such importance
+to get right as the second largest Federal agency whose mission
+it is to care for our Nation's veterans. We cannot afford and
+should not allow IT lapses to occur.
+While we are focusing on the technical details today, I
+hope each of us will also take time to recognize that there are
+real-world consequences and impacts of these decisions, and
+that they fall upon those who have already given so much for
+their country. We cannot forget that.
+Ms. Council, I am pleased to have you here today. I know
+this is your sixth hearing, I think, in the last 10 days, so I
+appreciate it. I think it is because you are so charming and
+you know what you are doing, so it is great to have you here.
+Truthfully, I am very encouraged. I am encouraged that you
+have a strategy in place to eliminate material weaknesses,
+material weaknesses that, in some cases, go back 17 years.
+The VA exceeded the OMB's target on 30-day the
+cybersecurity sprint and expanded strong authentication
+practices to 100 percent of its privileged users and 80 percent
+of its unprivileged users. This was demonstrated progress in
+the area of cybersecurity and a positive indicator that the VA
+is making progress in this area. But concerns remain.
+The goal you and your chief information security officer
+have set to eliminate the material weaknesses is by the end of
+2017, 2 years to solve in some cases fairly basic cybersecurity
+best practices. We are talking about predictive scanning for
+vulnerabilities, implementing risk assessment, monitoring
+tools, and security training. Two years is too long, and I
+think we can do better.
+The VA received an overall grade on the committee's FITARA
+scorecard of a C. The agency received Fs in savings relating to
+data center consolidation and IT portfolio review. Again, I
+must highlight this is self-reported data.
+We will talk about that and the VA's plan to implement
+FITARA further.
+The modernization of the VA's legacy technology is a real
+concern that is affecting millions of veterans.
+Ms. Council, a few weeks ago, you testified before the
+House Appropriations Committee that you ``want to take a step
+back from the existing modernization plan of VistA. You cited
+changes in circumstances and issues such as women's health, the
+Internet of Things, and Care in the Community as instigating
+factors in taking a pause on the VistA Evolution plan developed
+in 2014.
+While I certainly appreciate big thinking, especially in
+government IT, I have to ask whether or not this is another
+example of the VA taking a U-turn on substantial IT investment.
+We have been down this road before with the effort to make
+electronic health records of the DOD and VA interoperable.
+Is VistA going to end up in a multiyear investment that
+never delivers the functionality that the VA's health care
+providers need? The meaningful exchange of health care data has
+been delayed for far too long.
+While the DOD and VA seem to have made progress recently
+with the Joint Legacy Viewer. I want to reiterate once again
+that the JLV is not true interoperability.
+The missed deadlines, cost overruns, and failures to
+deliver on expectations leave me with serious doubts about
+whether these two departments are able to work together toward
+effective, real-time sharing of veterans' health data.
+Turning to the issue of patient scheduling, what will a
+pause of VistA Evolution mean for the medical appointment
+scheduling system? Here again is a problem that needs an IT
+solution that has suffered repeated setbacks.
+This is not a new problem. The scheduling component of
+VistA dates back to 1984. With veterans coming home from the
+wars in Iraq and Afghanistan, this is a system that needs to be
+upgraded immediately. Fifty-thousand schedulers made 80 million
+appointments in fiscal year 2011 alone--80 million.
+The VA has recently put in place a 5-year contract to
+develop a new medical appointment scheduling system at the cost
+of $624 million. I have to ask the questions: Could this have
+been done cheaper with commercial off-the-shelf technology?
+Will the latest attempt work? Will this contract fix the
+scheduling problems at the VA?
+I have said it time and again, the problems the agencies
+face in IT and cybersecurity are not in the availability or
+accessibility of technology. The tools already exist. The
+challenge the Federal agencies face, and we have seen at OPM
+and the Department of Education, is having the leaders in
+place, leaders who have vision and a commitment to staying at
+their agency to see the vision through.
+And, Ms. Council, I am excited because I think you are the
+right person for the job.
+I thank the panel for attending today's hearing, and I look
+forward to today's discussion.
+Now it is my pleasure and honor to recognize the gentlelady
+from Illinois, my friend and ranking member of the
+subcommittee, Ms. Kelly, for her opening remarks.
+Ms. Kelly. Thank you, Mr. Chairman.
+Information technology is critical to improving the service
+and performance of the Federal Government, especially the
+Department of Veterans Affairs, one of the largest integrated
+health care systems in the United States, serving millions of
+veterans and families.
+Today's hearing provides the VA an opportunity to
+demonstrate their commitment to improving the delivery of
+health care and benefits to our veterans, while safeguarding
+the veteran information and VA data that exists within its
+environment.
+This committee plays an important oversight role that can
+increase transparency and accountability of agency efforts to
+implement important legislation such as the FITARA and FISMA.
+In response to various internal challenges and external
+pressures, VA rolled out a new strategy to transform the Office
+of Information and Technology into a world-class IT
+organization that supports the delivery of excellent health
+care and benefits to veterans. Transforming an IT organization
+of 8,000 employees with a budget of more than $4 billion is no
+simple task.
+The VA chief information officer, Ms. Council, joined VA in
+July 2015, inheriting an IT environment with thousands of
+outstanding security risks and failed or mismanaged IT
+projects. However, Ms. Council's written testimony to this
+subcommittee in October stated, and I quote, ``The opportunity
+is now, because we have the key components for success. We have
+executive-level support from the Secretary and Deputy
+Secretary, and the CIO role at VA is empowered with unique
+flexibility. I've been impressed to find that we have a hard-
+working, mission-oriented staff that cares deeply about
+creating a better experience for the veteran. Through
+congressional action, we have a centralized IT and sufficient
+resources. Finally, we have the ability to deliver for our
+business partners when they need us the most.''
+I look forward to hearing more on the progress at VA and
+recognizing the Office of Information and Technology to better
+manage the IT portfolio and enhance CIO authority and
+accountability as required by the FITARA.
+Given the recent breaches in both the public and private
+sector, we are all aware of the evolving nature of threats
+facing information systems. It is important that we ensure that
+the VA responds to these threats with efforts to fully address
+information security weaknesses and enhance its information
+security posture. These efforts to improve VA operations and
+information security are essential to regaining the trust and
+confidence of the American public that the VA is taking care of
+our Nation's vets.
+Thank you, Mr. Chairman.
+Mr. Hurd. Thank you.
+Now I will hold the record open for 5 legislative days for
+any members who would like to submit a written statement.
+Mr. Hurd. We will now recognize our panel of witnesses. I
+am pleased to welcome the Honorable LaVerne Council, Assistant
+Secretary for Information and Technology and chief information
+officer at the Office of Information and Technology of the U.S.
+Department of Veterans Affairs.
+Ms. Council is accompanied by Brian Burns, Deputy Assistant
+Secretary for Information Security at the Office of Information
+and Technology at the U.S. Department of Veterans Affairs,
+whose expertise may be needed during questioning.
+Next, I would like to welcome Brent Arronte, Deputy
+Assistant Inspector General for Audits and Evaluations with the
+Office of Inspector General at the U.S. Department of Veterans
+Affairs. Mr. Arronte is also accompanied by Mr. Michael Bowman,
+director of the Information Technology and Security Audits
+Division at the Office of the Inspector General, whose
+expertise may be needed during questioning as well.
+Welcome to you all. Pursuant to committee rules, all
+witnesses will be sworn in before they testify. We will also
+swear in Mr. Burns and Mr. Bowman.
+So please rise and raise your right hands.
+Do you solemnly swear or affirm the testimony you are about
+to give will be the truth, the whole truth, and nothing but the
+truth?
+Thank you. Please be seated.
+Let the record reflect that the witnesses answered in the
+affirmative.
+In order to allow time for discussion, please limit your
+testimony to 5 minutes. Your entire written statement will be
+made part of the record.
+Ms. Council, we will start with you, and you are recognized
+for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF LAVERNE COUNCIL
+
+Ms. Council. Thank you, Chairman Hurd, Ranking Member
+Kelly, and distinguished subcommittee members. Thank you for
+the opportunity to discuss the progress we are making towards
+serving our Nation's veterans.
+In October, I shared with you our plan to transform the
+Office of Information and Technology, or OI&T, into a world-
+class organization by implementing a new enterprise strategy.
+Our mission is to collaborate with our business partners to
+create the best experience for all veterans.
+We are becoming a principles-based organization, one
+centered on transparency, accountability, innovation, and
+teamwork.
+Our team is transforming. We are infusing a new
+perspectives and skills by hiring new talent. We have added
+five senior leaders and will add an additional 11 in the next
+90 days. This team will carry the torch for relentless
+execution.
+When our veterans interact with VA, they are making the
+choice to entrust us with their personal information. The
+delivery of VA's enterprise cybersecurity strategy in September
+2015 was the first reinforcement of our commitment to safeguard
+their information with tools, technology, and the people of the
+highest caliber.
+We have made significant progress in improving our
+cybersecurity posture. For the first time, our security efforts
+are fully funded and resourced at $370 million in fiscal years
+2016 and 2017. This investment will make the implementation of
+our plan a reality.
+OI&T can no longer be considered a material weakness for
+VA. We are addressing all key FISMA findings. By the end of
+2016, we will close 30 percent of the IG's recommendations, and
+we will close 100 percent by the end of 2017.
+We have reduced elevated privileges by 95 percent, and we
+will technically enforce personal identity verification, or
+PIV, to achieve our 80 percent goal by September.
+But the highest level of security does not rest with IT
+alone. We are providing comprehensive education to ensure that
+all VA employees remain vigilant. We have updated our national
+rules of behavior and our annual security training, and we are
+emphasizing continuous engagement with our employees.
+Information security poses constant challenges, and it is
+only through continuous reinforcement that our employees can
+support us in this battle.
+We have achieved several significant goals in
+implementation of our Enterprise Program Management Office, or
+EPMO. The EPMO began operating on February 1 and is now our
+control tower, mapping out an agile path for all IT efforts. We
+replaced the Program Management Accountability System, or PMAS,
+with our new Veteran-focused Integration Progress, or VIP. VIP
+reduced our overhead obligation by 88 percent.
+Our most important projects, including VistA Evolution or
+VistA 4, the Enterprise Health Management Platform, VBMS, and
+our interoperability processes are already transitioned to VIP.
+For the first time, OI&T will have an integrated 18-month
+portfolio, a single change and a single release calendar. We
+will also include a 90-day post-release warranty on all efforts
+to ensure the highest levels of performance.
+Access to accurate veteran information is one of our core
+responsibilities. We will jointly be certifying
+interoperability with DOD, as mandated by the 2014 NDAA, within
+the next month and ahead of the 2016 deadline. We are outpacing
+our projection for our interoperability tool, the Joint Legacy
+Viewer, which has over 44,000 users and grows by over 3,000
+weekly.
+But we must do more. We are evaluating our electronic
+health record modernization plans to ensure we have the right
+strategy in place for the next 25 years, well beyond what will
+be achieved in 2018 by VistA 4.
+This is not about the software. This is about supporting
+the veteran anytime, anywhere. We must strive for continuous
+innovation, not just for NEHR, but for a digital health
+platform. We owe it to our veterans to evaluate their needs and
+meet each veteran where she is.
+I am proud of our recent accomplishments. But
+transformation requires a relentless focus on outcome, outcomes
+that matter, outcomes that support the veterans who have
+supported us.
+Mr. Chairman, members of the subcommittee, thank you again
+for the opportunity to discuss our progress with you. I am
+happy to take your questions at this time.
+[Prepared statement of Ms. Council follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Ms. Council.
+Now I would like to recognize Mr. Arronte for 5 minutes.
+
+STATEMENT OF BRENT ARRONTE
+
+Mr. Arronte. Mr. Chairman and members of the subcommittee,
+thank you for the opportunity to discuss the Office of
+Inspector General's work regarding the VA's management of
+information technology and information security.
+As previously indicated, I am accompanied by Mr. Michael
+Bowman, OIG's director of Information Technology and Security
+Audit Division.
+VA continues to face challenges in developing IT systems it
+needs to support its current goals and overall mission. For 16
+consecutive years, information security has been reported as a
+material weakness in VA's consolidated financial statement
+audit. Our audits have shown that IT system development and
+management at VA is a longstanding, high-risk challenge.
+Despite some advances, our reports indicate VA IT programs
+are still often susceptible to cost overruns, schedule
+slippages, and performance problems.
+Over the past 3 years, the OIG has made 69 recommendations
+to improve IT systems management and security. As of February
+2016, 57 of those recommendations remain open. Of those 57, 17
+are repeat recommendations and 13 are modified repeat
+recommendations.
+For fiscal year 2016, the VA estimates a total IT
+investment of about $4.1 billion to fund information system
+security, system development initiatives, and systems operation
+and maintenance. If not properly planned and managed, these to
+IT investments can become costly, risky, and counterproductive.
+In March 2012, the VA instituted the Continuous Readiness
+and Information Security Program, also known as CRISP. The
+purpose of CRISP is to ensure continuous, year-round monitoring
+and to establish a team responsible for resolving IT material
+weaknesses. While VA implemented some standardized information
+security controls, these improvements require time to be fully
+implemented and to show if they are effective.
+Our limited review indicates the CRISP initiative has not
+been fully effective in addressing systemic weaknesses or
+eliminating material weaknesses found in VA's information
+security program for fiscal year 2015.
+Examples of some of these weaknesses are financial
+management systems using outdated technology, password
+standards not consistently implemented, and systems not
+securely configured to mitigate known and unknown information
+security vulnerabilities.
+In April 2015, our administrative investigative staff found
+that certain OI&T employees failed to follow VA information
+security policy and contract security requirements.
+Specifically, OI&T staff improperly approved VA contractors to
+work remotely and access VA's network from foreign countries
+such as China and India.
+We identified that one contractor used his personally owned
+laptop to access VA's network from China. This contractor had
+administrative rights as well. Upon completion of his work, he
+left the laptop in China. As of this date, the laptop has not
+been recovered.
+We also found that other VA contractor employees improperly
+connected to the VA's network from other foreign locations. We
+determined VA information security officials and the former
+executive in charge for OI&T failed to quickly and effectively
+respond to determine if there was a compromise as a result of
+VA contractors accessing VA networks internationally.
+VA is also challenged in developing IT systems needed to
+support mission goals. Recent OIG reports disclose that some
+progress has been made in timely deploying system functionality
+because of the agile system development method. Despite these
+advances, VA continues to struggle with cost overruns and
+performance shortfalls.
+VA's mechanism for overseeing IT program management has
+improved but has not been fully effective in controlling these
+IT investments. Our work has demonstrated that VA continues to
+struggle with its IT investments.
+Some improvements in information security have become
+evident with the inception of CRISP. However, more work remains
+to be done, and VA needs to remain focused on addressing OIG
+recommendations in the security and development of IT systems.
+Until a proven process is in place to ensure controls
+across the enterprise, the IT material weakness may stand and
+VA's mission-critical systems and sensitive veterans data may
+remain at risk of attack or compromise.
+Mr. Chairman, this concludes my statement. We would be
+happy to answer any questions you or other members of the
+subcommittee may have.
+[Prepared statement of Mr. Arronte follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+I now would like to recognize the gentleman from Texas, Mr.
+Farenthold, for 5 minutes for questioning.
+Mr. Farenthold. Thank you very much, Mr. Chairman.
+Ms. Council, you talked a little bit about upgrading your
+medical records system. If your electronic medical records
+system was in the private sector, would it be compliant with
+all the laws applicable to the private sector, HIPAA laws and
+all the other new requirements under the Affordable Care Act?
+Ms. Council. Not all the new laws. That is one of the
+reasons that we are developing a new strategy that we need to
+go forward with for the next 25 years. So, no, it would not,
+not all the ACA.
+Mr. Farenthold. And it is also my understanding that a lot
+of both your hardware and software is grossly out of date. I
+was down in the Rio Grande Valley and the Secretary of the VA
+mentioned to the group some of the financial systems are
+actually running computer language called COBOL, which was
+actually around probably before I was born, and I am in my 50s.
+Is it a problem to maintain and update this code and find
+employees to do that?
+Ms. Council. The current state of the financial systems is
+that we are looking for a shared platform with our financial
+organization. They are looking at Treasury as a Federal
+opportunity to engage a partner.
+So you are right, the systems are older. As a person in her
+50s as well, and COBOL being a language that I know quite well,
+it is old, and we do need to upgrade.
+Mr. Farenthold. What sort of effect is this out-of-date
+software having on delivering service to our veterans and
+making sure that the physicians who provide service either
+under the voucher system or Veterans Choice are paid in a
+timely fashion?
+Ms. Council. I think you have touched on the main issue as
+to why we are looking at a digital health platform, sir. The
+reality is when you are on old platforms, old hardware, old
+software, you cannot take advantage of the new opportunities to
+share data, as well as upgrade our information with those
+providers and pay them quicker.
+That is really our focus, to ensure that we are prepared
+for the future.
+Mr. Farenthold. And it is not just the software that is
+out-of-date or your custom software. It is even some of the
+stuff you buy off-the-shelf. It is my understanding you all
+have not yet completely migrated off Windows XP, which is no
+longer supported by Microsoft.
+Ms. Council. There are 834 custom applications within the
+VA. The most customs that I have ever seen in my career. We
+also do have XP in the environment, much of that leveraged by
+medical cyber and medical equipment.
+As part of our enterprise cybersecurity strategy, we have
+put in processes to eliminate and drive out that lifecycle
+problem.
+Mr. Farenthold. Are we also looking in the VA at moving
+away from the extraordinary number of custom systems? There is
+a lot of off-the-shelf stuff that you ought to be able to
+adopt. Is that not a reasonable question?
+Ms. Council. It is a very reasonable question, sir. There
+are five new functions we are adding as part of the strategy.
+One of those new functions is strategic sourcing, which is all
+about putting us in a situation where we buy versus build, so
+that we look for off-the-shelf software that can meet our needs
+first. We validate that there is not something that is already
+built that could meet our needs, and then we make those calls
+based on what best fits the process.
+Mr. Farenthold. I can understand that there is some legacy
+stuff that was designed to run on Windows XP and may not run on
+other stuff. Our research shows that you all are still on
+Exchange Server 2003 that had an end-of-life-support cycle in
+2014.
+Do you think the outdated software that is not getting
+current security patches might be a cybersecurity opening or
+vulnerability?
+Ms. Council. We actually use the same assessing process
+that the IG uses and patch aggressively against each of those
+issues, as well as taking those software out.
+One of the big opportunities that we have and we are
+deploying within the next month a contract to start moving much
+of this to the cloud using Email as a Service, moving much of
+that storage out into the cloud in a secure manner working with
+the IG. It gives us an opportunity to eliminate some of the
+hardware issues that we have, but also put ourselves in a new
+place, as far as transformation.
+Mr. Farenthold. I want to direct this final question to
+anybody on the panel that would like to answer. Is there
+anything that Congress is not doing that it should be doing to
+help you through this IT crisis and get you to where you can
+better deliver services to our veterans? Obviously, the answer
+is to give us more money, but maybe we can do a little better
+than just that.
+Ms. Council. I always say this because it still continues
+to be the issue. When you are hiring for information
+technology, the kinds of architects we need, the kinds of
+security people we need, we are competing against private
+resources. And it takes a while to get into the Federal
+Government, and the requirements are not those that those same
+resources and highly valued resources would face in private
+industry.
+We need those resources, and even as we get access and
+opportunities to meet those people to talk with them, we take a
+long time to get them in the door. So any help that can be
+given there will be the most important help you can give us.
+Mr. Farenthold. And if you can get us some specifics on
+that, we want you to be able to compete with Google for the
+good people.
+Ms. Council. I appreciate it. I have three or four resumes
+I will get to you.
+Mr. Farenthold. Did anyone else want to answer that?
+All right. I will yield back the remainder of my time.
+Mr. Hurd. Thank you, Mr. Farenthold.
+Now I would like to recognize the ranking member for her 5
+minutes of questioning.
+Ms. Kelly. Thank you again.
+Ms. Council, as chief information officer, you oversee the
+activities of VA's $4 billion IT budget and over 8,000 IT
+employees in support of the VA's mission. Information
+technology at the VA includes a wide variety of tools and
+systems that support VA's mission to care for our Nation's
+vets. Your testimony highlights the creation of the Enterprise
+Program Management Office, which will host VA's biggest IT
+programs and help VA meet FITARA requirements.
+When will of the EPMO be fully functional? And how will you
+ensure the office achieves its desired results?
+Ms. Council. The EPMO actually came on February 1, which
+means that we stood the team up. We are building the program
+management. We are talking to union about some of the new
+roles. All those things around people should be fully completed
+by April 1, as far as the union.
+But that means we have already started working. We have
+hired in, out of the Department of Commerce, the head for all
+of our pillars. As I mentioned, our top four projects are all
+under VIP. There are 12 core projects in which we are
+validating every step of the process.
+By the end of September, every single project will be
+working under VIP, which will move us to true agile
+development. The PMAS process, which people knew about, really
+was one that focused on waterfall. This will be true agile, and
+it will reduce our overhead by over 88 percent and increase our
+ability to deliver by only requiring seven core necessary
+documents and available to operate at the beginning of the
+process.
+All these things should move us into a situation where we
+deliver every quarter versus every 6 months.
+Ms. Kelly. Okay. Information security weaknesses have
+consistently been found at the VA for several years. FISMA
+compliance helps ensure Congress and the public that the VA is
+committed to safeguarding veterans' information and VA data.
+What are the some of the challenges to addressing weaknesses
+and improving VA's information security programs and practices
+to comply with FISMA?
+Ms. Council. One of the things, as was mentioned by Mr.
+Arronte, is the length of some of these repeatable issues. The
+fact is, we had to put a core process in place. We had to talk
+about the accountability. We wanted to make sure we were fully
+sourced, resourced, and that we were also fully funded.
+In addition to not only having a team that is out there
+remediating, we have put a process in place to ensure that
+these issues stay fixed. I think that is really important. You
+can't just have it fixed one time and then when auditors come
+in, they see the same issues.
+So what we have done, one of the other new areas that we
+have added is quality and compliance. Our quality and
+compliance includes our risk management. The risk management
+team will get out in front of all of these issues and actually
+evaluate have we addressed what we said we would address, do
+the remediation, be engaged with the IG, and make sure that we
+are hearing what we need to hear in opening, and that our teams
+are responding properly.
+At the end of an audit, we are now also coming back in
+after we get the audit findings and coming right back into that
+same organization.
+Leaders are being held accountable for any repeatable
+processes. And in addition, I meet weekly on all security
+issues with the security top-level pillars to ensure that we
+continue to make progress.
+Since my arrival, we have had five reports open. We had 21
+total recommendations. We have closed 95 percent of those
+already for the OIG. For GAO, we had six reports with 12 total
+recommendations. Fifty-eight percent of those recommendations
+are closed or requesting closure. Twenty-five percent of them
+are on target for closure.
+It is a different level of ownership. It is a different
+level of accountability. We have stressed that every employee
+is responsible for security. Since that was the key first thing
+that I committed to do when we arrived, we have set upon a new
+way of looking at how we do what we do and how we own it.
+So our field operations, our information security team, as
+well as our quality and compliance team, all engage in ensuring
+that we do not see these material processes continue.
+Ms. Kelly. Thank you. My colleague asked about building the
+work force and what you needed. Once you get them in, how hard
+is it to keep people because of the competition?
+Ms. Council. I've only been there for 8 months, but I
+haven't lost anybody. That's a good thing.
+I will tell you that there were a number of people that
+were leaving the organization and they stayed, and I
+appreciated that, because they really want to make this change.
+This is a mission-driven organization. It is all about the
+veteran. They know that I am here as an appointee because I
+want to get this right for the veteran. Fifty-six percent of
+our employees are vets. They get it. They know the value.
+So everyone wants to sort of roll their sleeves up and get
+it right. We just have to make sure we have all the key skills
+that we need to hold all of our contractors accountable as to
+what they are delivering.
+Ms. Kelly. Okay, thank you so much. My time is up.
+Mr. Hurd. I will recognize myself for a couple minutes.
+Ms. Council, questions to you. In 2009, again, I know this
+preceded you, the VA abandoned the scheduling improvements it
+had been working on since 2000 and started over. August 2015,
+the VA announced it contracted with two companies for a medical
+appointment scheduling system, the MASS system. And it appears
+this is like the third try in 15 years at addressing scheduling
+issues in the VA. Again, I recognize that of that 15 years, you
+have only been there for 8 months.
+What is the current status of the MASS project?
+Ms. Council. There were two parallel processes going on for
+scheduling. MASS was one, and then there was also a mobile
+product being developed called VAR, and also updates to VistA
+called VSE.
+VSE and VAR will start rolling out next month in April
+nationally. They have been piloted. They basically allow the
+ability to change our scheduling processes.
+The current scheduling system is something from--you
+mentioned COBOL. This is probably from the 1960s. If you could
+look at it, you will see that it shows the green screen and
+then also you'll see that it's an old dot-matrix screen that
+also doesn't allow people to really know what they are leading
+to. The VAR and the VSE addresses this.
+So far, 95 percent of the users like the new product. And
+the idea was that if these could not deliver, that we would
+have through MASS, which was an IDIQ contract, an ability to
+move forward.
+MASS has been put on hold until the Deputy Secretary looks
+at these new products. Right now, if these new products roll
+out fine, we will stay with those new products.
+The $624 million aligned with MASS. It was never to spend
+up to that level. Since it is an IDIQ, it is a task order kind
+of contract. So it was there to support, if these did not work.
+But we will be rolling out in April with both of those
+products, one mobile and one into the system.
+Mr. Hurd. So if VSE and VAR work, we are not going to MASS?
+Ms. Council. They are working today, and if they fully meet
+our needs--and I think there is also the misnomer on MASS. MASS
+also includes a workflow and a scheduling capability of room,
+so it was a much broader look. We wanted something for
+scheduling right away. And right now, VSE and VAR seem to meet
+the needs.
+Mr. Hurd. So are Epic and systems made simple? Are they
+involved in the VAR and VSE? Or were they to be involved in
+MASS?
+Ms. Council. They actually are part of the MASS contract.
+Mr. Hurd. So the folks that are implementing VSE and VAR,
+are any of them involved in the previous attempts by the VA to
+do scheduling?
+Ms. Council. Based on the information that we have, no,
+that would not be the case.
+Mr. Hurd. I find that a very good thing.
+If VSE and VAR are ultimately working, we are going to keep
+that and it is not potentially going to be grounded by any
+commercial off-the-shelf systems, correct?
+Ms. Council. Not at this time. That is part of the reason
+why we are looking for a digital health platform.
+The fact is, as you mentioned in your opening remarks, our
+need to really understand where we need to go for the next 25
+years means we really need to make a hard decision and start to
+think about what we have to do for Care in the Community, what
+we have to do for ACA, what we have to do for the number of
+women veterans and make it much more fluid.
+Dr. Shulkin, who heads up the VHA, and myself are really
+just not affecting what we're doing with VistA because VistA 4
+is scheduled and it is working, and it is going to roll out as
+planned into 2018. But to really say, what's the next level of
+platform? Who should we partner with? How do we make this
+happen?
+We are looking at the work with the DOD to see what they've
+learned and taking that information and also leveraging it. And
+we're meeting with industry experts to ensure that what we have
+in place, what we leave behind when we move on, the next set of
+leaders can take and move forward with.
+Mr. Hurd. My last question before we get to Mr. Connolly,
+how many clinics are currently in this test program using VSE
+and VAR, rough estimate?
+Ms. Council. This is my account manager at VHA, a new
+function.
+This is rolling out to 10 core as the pilot, and then based
+on those pilot feedback, it will be going out to the Nation.
+Mr. Hurd. I would love to know the 10 places it is going,
+because I would be interested in hearing how it is going from
+them.
+With that, I would like to recognize the distinguished
+gentleman from the great State of Virginia, Mr. Connolly, for
+his 5 minutes of questions.
+Mr. Connolly. I thank the chairman from the great State of
+Texas.
+Welcome to the panel.
+Ms. Council, the VA earned a C rating in the initial
+scorecard for compliance for FITARA, which actually was one of
+the higher grades. I would be interested in hearing from you
+why you think you got, relatively speaking, such a good grade
+as the baseline. But within that grade were other categories.
+In data center consolidation, for example, you got an F.
+So I wonder if you would, A, just talk a little bit about
+what your view being relatively new on compliance with FITARA
+and how FITARA is hopefully a benefit from your point of view,
+and then secondly, what are you doing about that F in data
+center consolidation?
+Ms. Council. The FITARA process, at this point, we have put
+in key processes with the EPMO that I mentioned to you as well
+as we are doing quality compliance, how we are going about many
+of the new abilities in data management, which will move us by
+the end of the year to close to 100 percent on the FITARA. We
+are excited about it.
+I use it as a guidepost. It allows us to really take
+ownership and hold ourselves accountable for the capabilities
+that have been put in our hands by having this legislation.
+The data center consolidation that you mentioned, we
+actually reviewed our plan yesterday that, by 2019, we will
+have eliminated 70 data centers. The other data centers will be
+eliminated through the use of the cloud, through consolidation
+of various data processes, and elimination of certain legacy
+systems. So that is in process.
+We are excited because if we can hit everything that we
+plan on in 2016, we will be the premier governmental agency in
+FITARA.
+Mr. Connolly. Wonderful.
+Your aide held up a chart a little while ago on scheduling
+appointments. Did I understand your answer to the chairman's
+question was that we are actually still using systems that go
+back to the 1960s to make scheduling appointments in the VA?
+Ms. Council. I think it is more the late 1970s.
+Mr. Connolly. Late 1970s. The Mary Tyler Moore era.
+Ms. Council. Yes.
+Mr. Connolly. All right. As opposed to the earlier Dick Van
+Dyke era.
+Ms. Council. Exactly.
+Mr. Connolly. Got it. How vulnerable are those systems to
+cyberattacks?
+Ms. Council. Last year, I think we blocked something like a
+160 million malware attacks in our department.
+Mr. Connolly. Wow, 160 million.
+Ms. Council. Yes, sir. We continue to have a defense in-
+depth capability that we now have reinforced. We are partnered
+with DHS in a number of key areas and have been very aggressive
+with moving into some new capabilities.
+One of the things that we are always concerned about are
+any kind of breaches or any concerns with that. What we find is
+that even in those cases, most of our situations are mailings,
+information that goes out that shouldn't have gone out to
+someone in the wrong way.
+We also report all of those into the IG. We are aggressive
+about that, and we will continue to be vigilant. You must be in
+this kind of space.
+Mr. Connolly. I was looking at my own opening statement for
+today's hearing. In just the last 3 years, the cost to operate
+and maintain your top four mission-critical legacy IT systems
+jumped by more than 100 percent for one system and 50 percent
+for the other three. Is that correct?
+Ms. Council. We will come back to you on that number. I
+don't know it exactly.
+Mr. Connolly. Anyone on the panel that can corroborate
+those? I'm obviously not Donald Trump. I didn't make that up.
+[Laughter.]
+Mr. Connolly. Oops. Sorry, Mr. Chairman.
+Okay, well, please corroborate. But the reason I cite it is
+it is indicative of the plight you all have. It is not just
+trying to maintain legacy systems. It is spending about 80
+percent of what we have doing that. It is that the costs get
+higher every year.
+And some of these systems cannot be encrypted and are
+extremely vulnerable. Now, some of them apparently are in the
+beyond-encryption period, and the Chinese don't know how to
+hack into them.
+I am told COBOL is one of those categories, Mr. Chairman.
+So it may have a redeeming unintended consequence.
+But the costs are very high. I assume that in your IT
+budget, most of it is probably spent not on new investments to
+upgrade services and move to the cloud while at the same time
+protecting yourself from cyberattacks, 160 million a year, but
+it is to maintain these legacy systems.
+Ms. Council. To your point, that is one of the reasons that
+we are looking to move much of the older legacy processes
+outside of the data center into a cloud process, as well as
+eliminate them. So the way you eliminate them is by having a
+real software development lifecycle and really going
+aggressively after getting those legacies out.
+We have in our budget about $18 million this year on
+getting some of these out. We are also putting in a CMDB. A
+CMDB is a configuration management database. When you can't see
+it, and you don't know who owns it, and you don't know how much
+of it you have, the conversations are very hard to have.
+This is going to allow the team to be able to have the
+conversations and say all of this redline can get out, we don't
+need it anymore, or we have another strategy on how we can
+aggressively address it.
+It is a great opportunity for the team. We are going after
+that, and we hope we will have the CMDB in place by the end of
+this year.
+Mr. Connolly. Mr. Chairman, my time is up, but something
+you and I talked about, which is we want to find, on a
+bipartisan basis, ways to incentivize agencies to be able to
+reinvest in themselves when they identify these savings, and I
+look forward to as a follow-up to this hearing and others to
+try to be able to do that. And, of course, Ranking Member Kelly
+as well. Thank you.
+Mr. Hurd. Thank you.
+The chair notes the presence today of Congressman Seth
+Moulton of Massachusetts. We appreciate your interest in this
+topic and welcome your participation.
+I ask unanimous consent that Congressman Moulton be
+permitted to fully participate in today's hearing.
+Without objection, so ordered.
+And now I recognize the gentleman from Massachusetts for 5
+minutes.
+Mr. Moulton. Thank you, Chairman Hurd, for inviting me to
+this important hearing. This is important because I think our
+veterans have earned the best health care in the world, and
+that should be the standard that we are trying to meet.
+I get my health care from the VA as a Member of Congress,
+and I can tell you that I have seen the good and the bad. I
+have gotten some fantastic doctors.
+I had to have surgery back in January and the
+anesthesiologist and the surgeon who took care of me were
+incredibly talented. They didn't have to be at the VA. They
+were there because they wanted to take care of veterans. I felt
+very comfortable in their care. And then the pharmacy sent me
+home without the right medications.
+There is a veteran in my office named Dennis who gets his
+care at the VA as well. And he was trying to make an
+appointment a few weeks ago and couldn't get through on the
+phone system. Someone else in my office said, you know, you
+should take a video of this, and the video went viral on
+Facebook.
+Here are some of the comments that we have received on my
+Facebook page about this video from veterans across the
+country.
+This one from Walcott, Arkansas: ``I can tell you this is
+for real. It happens every time I call. I usually give up and
+drive to the clinic 18 or 20 miles away so I can talk to a
+person face-to-face.''
+From El Paso, Texas: ``This is exactly what happens every
+time you try to call for an appointment or even general
+information about an existing appointment. This is exactly why
+lots of us vets end up giving up on the system.''
+From Colorado Springs: ``Finally, a video that shows the
+frustrations of this process.''
+And from Philadelphia, Pennsylvania: ``The longest I have
+been on hold with the VA was an hour and 45 minutes before I
+gave up.''
+Finally, from Faribault, Minnesota: ``I can't count the
+times this has happened to me. It's enough to make you want to
+throw the phone through the wall.''
+So while many have said that they get excellent care once
+they get into the system, as has been my experience as well,
+sometimes simply getting access to the system is a real
+problem.
+I know the VA is making progress. I met with the Secretary
+earlier this week, and I am inspired by his leadership, by the
+private sector innovation that he is bringing to the
+organization. But I don't think we have gone far enough.
+And it doesn't make sense to me that when people in the
+private health care system can have access to better scheduling
+applications, they are not available to veterans. If our
+standard is that veterans deserve the best health care in the
+world, because that is what they've earned, then they should
+have access to these systems as well.
+So that is why, Mr. Chairman, I have introduced the Faster
+Care for Veterans Act with my colleague and friend,
+Representative Cathy McMorris Rodgers of Washington.
+This bill would create a pilot program for the VA to try
+some of these private sector scheduling programs, currently
+available technology, and give access to that technology to
+veterans.
+That is the kind of care that I think all of us who use the
+VA system deserve. And while it seems that the VA is focused on
+developing their own solutions at great costs and taking
+enormous amounts of time, it is frustrating to us that we see
+our friends and colleagues in the private sector using these
+applications and systems available today.
+So with that, I would like to ask Chairman Hurd if I can
+submit a few questions for the record, and I thank you for
+inviting me here today.
+Mr. Hurd. I would like to now recognize Mr. Farenthold from
+Texas, again for 5 more minutes.
+Mr. Farenthold. Thank you very much.
+Mr. Moulton hits on an issue.
+Mr. Hurd. I'm sorry, Mr. Farenthold. Will you yield for one
+second? I would like to submit for the record two statements,
+one from the Iraq and Afghanistan Veterans of America, the
+other one from the American Legion, to illustrate some of the
+points that Mr. Moulton made.
+Without objection, I ask unanimous consent to introduce
+them into the record.
+Without objection, so ordered.
+Mr. Hurd. Thank you, sir.
+Mr. Farenthold. Thank you, Mr. chairman.
+Ms. Council, as CIO, the difference between a computer and
+telephone is basically vanishing today. Does the telephone
+system fall under your jurisdiction or your leadership as well?
+Ms. Council. Currently, we provide the network capability,
+but we do not manage the phone contact centers or the contracts
+of those contact centers.
+The issues that are mentioned there, however, we are
+aggressively working with the new leadership. We have a new
+leader who put the 311 process in Philadelphia together, who is
+now coming in. We are making sure that we have the best
+capability.
+I also know that in that particular circumstance that was
+raised, that vendor who had voicemail now has had the contract
+updated and there is no voicemail in that process any longer.
+So we support it. We are working with them directly. I
+actually meet with that contact center so that we can ensure
+that we have the best infrastructure to move us forward more
+aggressively.
+Mr. Farenthold. I understand. This is a call center issue.
+This is not rocket science. This is technology every company of
+any size has complete with the ability for overflow calls to
+potentially go to people's homes or cell phones. We talked
+about the case of scheduling appointments. There are also
+tragedies associated with calls being dropped or being sent to
+a voicemail system that some people didn't even know existed on
+a suicide prevention hotline.
+I would encourage you to work closely with those vendors
+because, again, I think the line between the IT system and the
+telephone system really isn't a line anymore, and we ought to
+be able to use the technology to make sure that no veteran
+calling for help with suicide has to wait on hold or have their
+call lost in voicemail.
+I'm going to shift gears a little bit. I spend a lot of
+time in casework. About 70 percent of the casework I do in the
+district offices that I have in Texas is VA related. Of all the
+entire government, 70 percent of our complaints and problems
+are with the VA.
+Some folks in the VA need to be kind of hanging their head
+in shame on that one, I think.
+We are spending a lot of time in our office trying to get
+doctors to work with the VA, see veteran patients under the
+voucher system or Veterans Choice, and we talked in the first
+round of questions questioning that you all are working at
+modernizing that payment system.
+But what can we do now? I mean, is there anything that can
+be done now to get the doctors paid quicker so they will see
+our veterans again?
+The local VA can say, here is help in filling out the
+forms. Here is how you fill them out right. If it takes too
+long, call us and we will try to push it through.
+But you shouldn't have to call a senior person in the VA or
+call my office to have my red tape cutter call the VA.
+First off, when will it be fixed? And until then, is there
+anything we can do to improve the situation?
+Ms. Council. I actually will be happy to get some
+information to you. One of the things about IT, if we really
+want to be good, we have to know what our business partners are
+doing. So I know that Dr. Shulkin and Dr. Bally are working
+very strongly to figure out ways that we can pre-pay for
+certain things, that we can expedite this process. It is all
+part of out access process that we need.
+We are also looking at proof of concepts around doing some
+things in the cloud with urgent care and telehealth with urgent
+care so we can see people the same day, in many cases.
+So I will be happy to get some information back to you
+exactly what they're doing. But I know we are aggressively
+making some decisions and prepaying in some cases, so that this
+is not the problem.
+Mr. Farenthold. We worked really hard in Congress to get
+the Veterans Choice program implemented and provide quick care
+for veterans. But if you guys can't deliver on paying the
+doctors, then they don't want to see them. Obviously, a lot of
+that is contracted out. You have different contractors, but we
+have to find a way to get this done because there is no point
+fixing these laws, if you guys can't execute them and do that.
+So I definitely encourage you to do that.
+Finally, we talked a little bit about some of the older
+systems, your email system, some Windows XP. Do you have a
+dollar figure on how much it is costing to contract for beyond-
+lifecycle support on that?
+Ms. Council. I do not, but I can get you that information.
+Mr. Farenthold. All right. It would be interesting to look
+at comparing how much we are paying for that extended support
+versus how much it would cost to have somebody come in and
+upgrade an off-the-shelf product that pretty much any decent
+system integrator in the country ought to be able to put in.
+So I see my time is up. I appreciate your commitment. I
+wish I saw the successes that I hear in your voice reflected at
+the local level. I am waiting expectantly for that to trickle
+down, so our veterans don't have to wait for the care that they
+need. Thank you.
+Mr. Hurd. Mr. Arronte, do you have any insight on that last
+question Mr. Farenthold asked about the percentage of how much
+it costs?
+Mr. Arronte. No, sir. We don't.
+Mr. Hurd. Okay, thank you.
+I would like to recognize Ms. Kelly for an additional 5
+minutes.
+Ms. Kelly. How do the projects and programs developed by
+18F USDS integrate with other VA systems?
+Ms. Council. The GSA 18F group is I think what you're
+referring to. We have a digital team that works with us. We
+actually have one that is doing vets.gov as well as our case
+appeals modernization.
+We are actually meeting with Assistant Secretary Duncan at
+the EPA and their digital service person to find out how they
+are using 18F to see if we also have some opportunities where
+we can leverage them as well.
+Ms. Kelly. What steps are taken to ensure that conflict of
+interest protocols are in place before work by 18F and USDS
+employees begin at the VA?
+Ms. Council. At this point, I will come back to you on
+that. Most of those people are hired as Schedule A on the
+digital services team. We do not have any 18F people at this
+point, but we do have digital service folks who come in on
+schedule A, which is about a 2-year, maybe 3, but mostly 2-year
+expectation. I will come back to you and let you know if there
+are any conflict of interest forms.
+Ms. Kelly. And how are the activities of 18F and USDS
+audited by the VA?
+Ms. Council. The digital service teams are part of the IT
+team. We manage their work just like any other employee. Their
+processes, their systems, they have to adhere to every single
+process that any other employee has to adhere to. They are not
+set separate.
+Ms. Kelly. Do you have any comments about that?
+Mr. Arronte. No, ma'am.
+Ms. Kelly. Okay.
+I yield back the balance of my time. Thank you.
+Mr. Hurd. Thank you. I am going to recognize myself for 5
+minutes.
+Mr. Arronte, what are your thoughts on the decision to
+pursue VAR and VSE and put MASS on hold?
+Mr. Arronte. I'm going to turn it over to the subject
+matter expert to discuss.
+Mr. Hurd. Mr. Bowman?
+Mr. Bowman. Obviously, VA has had some history of trouble
+with their scheduling systems, so changes need to be made.
+I think the question is whether or not they're worthwhile
+investments and whether or not they're going to have an
+immediate impact to help with the scheduling. So pursuing these
+makes a lot of sense, but whether or not you're going to see an
+immediate impact, that is really the question.
+Mr. Hurd. Ms. Council, what immediate impact do you think
+you are going to see with the deployment of VSE and VAR?
+Ms. Council. The usability of the systems is just so much
+better than what is currently available. We will make sure we
+send you the depiction. When you see what is currently
+available, you will get it right away. I think once I saw that,
+I understood the difficulty in having to move from screen to
+screen to check on things to schedule an appointment.
+Mr. Hurd. So I am still trying to wrap my head around all
+this. Why pursue this versus trying to get something off-the-
+shelf that you could possibly deploy a little sooner,
+especially if we had $624 million available for that? Am I not
+understanding this correctly?
+Ms. Council. I won't speak on behalf of the Deputy
+Secretary, but the way it was explained to me was they wanted
+to make sure that we were going to do something with
+scheduling, and we didn't want to necessarily believe that if
+we created it here, we couldn't leverage a piece of software--
+which by the way, MASS is Epic software.
+So the real question is, we were going to do one or the
+other, and I think what we found is that if we just needed pure
+scheduling and we needed a mobile capability, we were able to
+create that and integrate it into VistA very simply. But the
+team had to try it, make it work, and I think they had an heir
+and a spare and really wanted to make sure we did the right
+thing on behalf of the veteran in getting this access dealt
+with.
+But I do not want to put words in the mouth of the Deputy
+Secretary, but that is how it was explained.
+Mr. Hurd. So this was the decision by the Deputy Secretary
+to pursue VSE and VAR over MASS or some other commercial, off-
+the-shelf technology?
+Ms. Council. It was actually with, and then to run a pilot,
+and then based on the experiential relationship between that
+software and this one, which one was really best. But when Dr.
+Shulkin came in, when I came in, we really wanted to move fast.
+We wanted to get this access going, and we wanted to go with
+the fastest solution possible.
+As I mentioned, one of the key things that we have to
+really take a hard look at is the overall digital health
+platform, not just DHR, not just continuing to put more money
+into VistA, but really say we have VistA 4, it is delivering on
+the things it needs to, it is keeping us in the regulatory
+responsibility that we have, but what is the new new? What is
+the thing that we must do to enable the veteran anywhere at any
+time?
+That is probably a platform that is newer, a platform that
+is based on a COTS type of opportunity. But at this point, by
+June, Dr. Shulkin and his team would have assessed what we have
+laid out as a technical opportunity and come back when we have
+a solution.
+Mr. Hurd. So is Dr. Shulkin the one responsible for the
+policies and procedures and workflow and how they handle a call
+and handle an appointment?
+Ms. Council. Yes, sir.
+Mr. Hurd. Because ultimately, you are not responsible for
+scheduling. You are responsible for providing a platform in
+which other elements of the VA handle this, correct?
+Ms. Council. Yes, sir.
+Mr. Hurd. Because, again, I think part of the problem is
+the processes that are in place and you are delivering a
+system. And if it's not being used properly, we are going to
+have problems.
+Mr. Arronte, do you have any opinions on the implementation
+of this software and how the other elements of the VA would be
+able to put the processes in place to ensure they are using
+this new tool properly?
+Mr. Arronte. Sir, I think our concern right now is this is
+new, and so as some of this is still being piloted, we have not
+conducted any reviews. We plan to, and I'm going to have Mr.
+Bowman speak about some past experiences.
+But what is kind of long standing that we have seen with
+VA, with IT, they are trying to centralize at the headquarters
+level. I think the field is not always acceptable of that
+centralization. So sometimes what we see in some of our
+previous work is, there is a good plan and it looks good on
+paper, but getting out of the gate and getting it implemented
+seems to be some of the issues historically.
+Mr. Bowman. Anytime VA is involved with software
+development, it seems to be a high-risk venture. Some of the
+projects that we have looked at, VA tends to go over budget on
+cost. They seem to not deliver the intended functionality.
+So I think oversight of this project is essential,
+especially as it impacts veteran scheduling. VA just does not
+have a good history of delivering systems on time and within
+budget.
+Mr. Hurd. How long, Mr. Bowman, have you been part of the
+IG apparatus looking at the VA?
+Mr. Bowman. I have been with the IG for over 8 years.
+Mr. Hurd. So looking back at some of those failures, what
+would you say were some of the key reasons that those projects
+failed, with hindsight as a benefit?
+Mr. Bowman. A theme that comes through is ever-changing
+requirements. You have the business owners that can't quite
+decide on what the functionality should be. So there are a lot
+of changing system requirements, functionality requirements,
+and that impacts the development time. It encourages rework,
+systems under development.
+But until you stabilize those requirements, you are really
+unable to meet any milestones or stay within project cost
+constraints.
+Mr. Hurd. Mr. Arronte, do you have any opinion?
+Ms. Council, do you have an opinion on what was just
+stated?
+Ms. Council. Yes, sir. I think Mr. Bowman is correct when
+you talk about waterfall. As we moved to agile processing and
+using ITIL as our processes, you will see a marked difference
+in how we manage and work with our projects.
+So for instance, we have implemented what has been called a
+best practice within the VA around projects and visibility and
+transparency. All projects on the breakthrough 12, which you
+might've heard Secretary McDonald speak about, we actually have
+a governance committee that tracks against those, against
+resources, schedule, budget, as well as ATO or security.
+We see them every week. I see them every week. And we also,
+if an issue was open, be it a business issue or a resource that
+we have and it goes longer than 10 days, we call a tech stat,
+which means they come and I'm there, as well as the head of the
+application area, as well as our CFO, and we make a decision.
+We are no longer waiting until we get the right
+requirements and keeping these things going. If it is the kind
+of work that needs to get done, we have asked the businesses to
+be prepared to do it.
+With agile, it is a side-by-side, working real-time
+relationship in the development of the solution.
+We are looking for a new transformation, and I would not
+attest to anything that the gentleman mentioned in the past.
+What I will be excited about is what they see in the future.
+Mr. Hurd. Amen to that.
+Mr. Arronte, some of the FISMA violations dating back to
+2006: unsecured wireless networks in VA, lack of encryption on
+sensitive data. Are those two issues that you found that are
+still problematic?
+Mr. Arronte. Yes, sir. We have repeat findings and
+recommendations. Password protection or credentialing, for the
+last 3 years, they have clearly been repeat findings.
+VA's enterprise infrastructure is huge, but some of these
+recommendations, and I think Ms. Council has addressed that,
+some of them I think are fairly simple to fix.
+Mr. Hurd. Yes. For example, Ms. Council, unsecured wireless
+networks in VA sites, how do you go about fixing that and
+getting compliant with that in the next few months? Talk me
+through the process on why something like that takes a while to
+do.
+Ms. Council. I think at times it probably took longer than
+it should have. We now have the same assessing software that
+the IG has, so that we are looking at things in the same way.
+We make sure that we remediate early and often. We are tracking
+to those metrics, and we are actually going to grab all those
+metrics and make sure that we can also depict them out into the
+organization.
+One thing that was just mentioned was the field. In this
+transformation, we are also reorganizing for the first time
+what we do in the field. We are putting in a new help desk. We
+are reassessing and putting in service-level agreements with
+all of our customers. We also will have customer relationship
+managers out in the field that will actually go across all the
+businesses to understand, is IT doing what it needs to do, and
+do we have situations where our business partners might need
+some opportunity in helping them understand how to have a more
+secure environment?
+We are, in addition, laying out a very different way on how
+we look at how we do services and what people are held
+accountable for.
+In addition, every goal that relates to our strategy is
+being cascaded into the leader's goals and expectations for the
+year.
+So for us, we recognize exactly what we are hearing is not
+acceptable. We know now that 95 percent of the things that we
+used to be in what we call our tick are now covered. Those 5
+percent are more linkages between the VA and maybe university
+and third partners, but even that we need to provide some
+solutions to. And Brian and his team are doing that.
+Mr. Hurd. So I think this is my final question.
+Moving the Email as a Service, why hasn't that been done
+before?
+I ask that question really to leverage your experience and
+vision as a tool to work with some of your peers in other
+departments. It seems so simple. It seems so basic. Why hasn't
+it been done before?
+Ms. Council. I appreciate the question, because my new
+Principal Deputy, Ron Thompson, who came from HHS is actually
+spearheading that new contract. Email as a Service will be our
+first move, and that should happen in the next 60 days or so,
+the finalization of that.
+We are working with GSA and really trying to get in the
+FedRAMP kind of environment. We feel that if VBA can
+participate, we can actually make it good for everyone because
+of our size, but also leveraging the solutions that are already
+out there.
+So we are looking at those vehicles and moving into them,
+and the first one is Email as a Service.
+Mr. Hurd. Great. You mentioned earlier enterprise
+cybersecurity strategy. We would like love to have a copy of
+that, if possible.
+Ms. Council. No problem.
+Mr. Hurd. The committee would love to have that.
+As Congressman Farenthold mentioned, all of us in Congress
+are dealing with veterans' issues and the lack of service and
+their frustrations. I think you recognize the importance of
+your role, because you and your team and OI&T can really be the
+units that transform how the VA delivers a service.
+I appreciate your vision. I hope we have you around long
+enough in order to see that vision come through.
+And know, on the employees and making sure you can hire and
+retain good employees, we are trying to work on ways to make
+that more flexible. We are trying to work on ways on how IT
+procurement can be streamlined so you can move quicker.
+My friend Colonel McSally, Congresswoman McSally, always
+says the bad guys are moving at the speed of light, and we are
+moving at the speed of bureaucracy. If we can fix that, it will
+go a long way in order to serve those folks that have been
+willing to put themselves in harm's way in order to keep us
+safe at night.
+So I want to thank you all for being here today. I would
+also like to thank the ranking member for always indulging my
+going over time and for her willingness to work together on
+such an important issue.
+And thank you for taking the time to appear before us
+today.
+If there is no further business, without objection, the
+subcommittee stands adjourned.
+[Whereupon, at 3:14 p.m., the subcommittee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

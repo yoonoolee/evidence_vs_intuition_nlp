@@ -1,0 +1,3125 @@
+- IS MY DATA ON HEALTHCARE.GOV SECURE?
+
+[House Hearing, 113 Congress]
+[From the U.S. Government Publishing Office]
+
+IS MY DATA ON
+HEALTHCARE.GOV SECURE?
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED THIRTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+NOVEMBER 19, 2013
+
+__________
+
+Serial No. 113-55
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+_____
+
+U.S. GOVERNMENT PRINTING OFFICE
+
+86-893PDF                      WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800
+DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC,
+Washington, DC 20402-0001
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. LAMAR S. SMITH, Texas, Chair
+DANA ROHRABACHER, California         EDDIE BERNICE JOHNSON, Texas
+RALPH M. HALL, Texas                 ZOE LOFGREN, California
+F. JAMES SENSENBRENNER, JR.,         DANIEL LIPINSKI, Illinois
+Wisconsin                        DONNA F. EDWARDS, Maryland
+FRANK D. LUCAS, Oklahoma             FREDERICA S. WILSON, Florida
+RANDY NEUGEBAUER, Texas              SUZANNE BONAMICI, Oregon
+MICHAEL T. McCAUL, Texas             ERIC SWALWELL, California
+PAUL C. BROUN, Georgia               DAN MAFFEI, New York
+STEVEN M. PALAZZO, Mississippi       ALAN GRAYSON, Florida
+MO BROOKS, Alabama                   JOSEPH KENNEDY III, Massachusetts
+RANDY HULTGREN, Illinois             SCOTT PETERS, California
+LARRY BUCSHON, Indiana               DEREK KILMER, Washington
+STEVE STOCKMAN, Texas                AMI BERA, California
+BILL POSEY, Florida                  ELIZABETH ESTY, Connecticut
+CYNTHIA LUMMIS, Wyoming              MARC VEASEY, Texas
+DAVID SCHWEIKERT, Arizona            JULIA BROWNLEY, California
+THOMAS MASSIE, Kentucky              MARK TAKANO, California
+KEVIN CRAMER, North Dakota           ROBIN KELLY, Illinois
+JIM BRIDENSTINE, Oklahoma
+RANDY WEBER, Texas
+CHRIS STEWART, Utah
+CHRIS COLLINS, New York
+
+C O N T E N T S
+
+November 19, 2013
+
+Page
+Witness List.....................................................     2
+
+Hearing Charter..................................................     3
+
+Opening Statements
+
+Statement by Representative Lamar S. Smith, Chairman, Committee
+on Science, Space, and Technology, U.S. House of
+Representatives................................................     6
+Written Statement............................................     7
+
+Statement by Representative Eddie Bernice Johnson, Ranking
+Minority Member, Committee on Science, Space, and Technology,
+U.S. House of Representatives..................................     8
+Written Statement............................................     9
+
+Witnesses:
+
+Mr. Morgan Wright, Chief Executive Officer, Crowd Sourced
+Investigations, LLC
+Oral Statement...............................................    11
+Written Statement............................................    14
+
+Dr. Fred Chang, Bobby B. Lyle Centennial Distinguished Chair in
+Cyber Security, Southern Methodist University
+Oral Statement...............................................    25
+Written Statement............................................    27
+
+Dr. Avi Rubin, Director, Health and Medical Security Laboratory
+Technical Director, Information Security Institute, Johns
+Hopkins University (JHU)
+Oral Statement...............................................    35
+Written Statement............................................    37
+
+Mr. David Kennedy, Chief Executive Officer, TrustedSEC, LLC
+Oral Statement...............................................    41
+Written Statement............................................    44
+
+Discussion.......................................................    65
+
+Appendix I: Answers to Post-Hearing Questions
+
+Mr. Morgan Wright, Chief Executive Officer, Crowd Sourced
+Investigations, LLC............................................   104
+
+Dr. Fred Chang, Bobby B. Lyle Centennial Distinguished Chair in
+Cyber Security, Southern Methodist University..................   112
+
+Dr. Avi Rubin, Director, Health and Medical Security Laboratory
+Technical Director, Information Security Institute, Johns
+Hopkins University (JHU).......................................   120
+
+Mr. David Kennedy, Chief Executive Officer, TrustedSEC, LLC......   124
+
+Appendix II: Additional Material for the Record
+
+Letter from the Identify Theft Resource Center submitted for the
+record by Representative Lamar S. Smith, Chairman, Committee on
+Science, Space, and Technology.................................   132
+
+Centers for Medicare & Medicaid Services memorandum submitted for
+the record by Representative Larry Bucshon, Committee on
+Science, Space, and Technology.................................   135
+
+IS MY DATA ON HEALTHCARE.GOV SECURE?
+
+----------
+
+TUESDAY, NOVEMBER 19, 2013
+
+House of Representatives,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Committee met, pursuant to call, at 10:04 a.m., in Room
+2318 of the Rayburn House Office Building, Hon. Lamar Smith
+[Chairman of the Committee] presiding.
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. The Committee on Science, Space, and
+Technology will come to order. Good morning to everyone. Our
+hearing today is on the subject of the security of data on the
+HealthCare.gov website. I am going to recognize myself for an
+opening statement and then the Ranking Member.
+Many Americans are beginning to experience the ill effects
+of Obamacare. That is because the President's broken promises
+are piling up. He promised that if you like your health care
+plan you can keep it. But for millions of Americans, that is
+not true. He said that the law would make health insurance more
+affordable. But across the country, Americans are seeing their
+premiums go up, not down. And when launching HealthCare.gov,
+the Obama Administration said that the website was safe, secure
+and open for business. We now know that isn't true either.
+The data obtained by HealthCare.gov is one of the largest
+collections of personal information ever assembled. It links
+information between seven different Federal agencies and state
+agencies and government contractors. The website requires users
+to provide personal information like birth dates, Social
+Security numbers and household incomes in order to obtain
+information about potential health coverage. But security
+experts have expressed concern about flaws in the site that put
+this personal data at risk and subject users to the threat of
+identity theft.
+The Science Committee oversees the agencies responsible for
+setting privacy and security policies and standards for the
+rest of the federal government, the White House Office of
+Science and Technology Policy and the National Institute for
+Standards and Technology. The Obama Administration has a
+responsibility to ensure that the personal and financial data
+collected by the government is secure. Unfortunately, in their
+haste to launch the HealthCare.gov website, it appears the
+Administration cut corners that leaves the site open to hackers
+and other online criminals. So the question for today's hearing
+is: Can Americans trust the federal government with their
+personal information on the HealthCare.gov website?
+Today, we are going to hear from witnesses from outside the
+government who are experts in cybersecurity and hacking
+websites. Our witnesses will provide their professional
+assessment of the vulnerabilities that underlie HealthCare.gov.
+Several vulnerabilities have already been identified, and we
+know of at least 16 attempts to hack into the system. And I
+heard this morning that there were another 50. But we can
+assume that many more security breaches have not been reported.
+Here are some real-life examples. Mr. Thomas Dougall of
+South Carolina received a surprise phone call from a stranger
+one Friday evening explaining that he had just downloaded a
+letter off the HealthCare.gov website containing Dougall's
+personal information. And when Lisa Martinson of Missouri
+called HealthCare.gov's customer service after forgetting her
+password, she was told three different people were given access
+to her account, address and Social Security number.
+Also, it turns out that Federal employees called navigators
+who help users apply for insurance on the HealthCare.gov
+website have not received background checks yet they are able
+to access the personal information of thousands of people.
+Many Americans have been the victims of identity theft by
+computer hackers. Identity theft jeopardizes credit ratings and
+personal finances. The massive amount of personal information
+collected by the HealthCare.gov website creates a tempting
+target for scam artists. These threats to Americans' well-being
+and financial security should make us question the future of
+Obamacare. Perhaps it is time to take Obamacare off of life
+support.
+Americans deserve a healthcare system that works and that
+they can trust. Obamacare is no cure.
+[The prepared statement of Mr. Smith follows:]
+Prepared Statement of Chairman Lamar S. Smith
+
+Many Americans are beginning to experience the ill effects of
+Obamacare. That's because the President's broken promises are piling
+up. He promised that if you like your health care plan you can keep it.
+But for millions of Americans, that's not true.
+He said that the law would make health insurance more affordable.
+But across the country, Americans are seeing their premiums go up, not
+down. And when launching HealthCare.gov, the Obama administration said
+that the website was safe, secure and open for business. We now know
+that isn't true either.
+The data obtained by HealthCare.gov is one of the largest
+collections of personal information ever assembled. It links
+information between seven different federal agencies and state agencies
+and government contractors.
+The website requires users to provide personal information like
+birth dates, social security numbers and household incomes in order to
+obtain information about potential health coverage. But security
+experts have expressed concern about flaws in the site that put this
+personal data at risk and subject users to the threat of identity
+theft.
+The Science Committee oversees the agencies responsible for setting
+privacy and security policies and standards for the rest of the federal
+government--the White House Office of Science and Technology Policy and
+the National Institute for Standards and Technology.
+The Obama administration has a responsibility to ensure that the
+personal and financial data collected by the government is secure.
+Unfortunately, in their haste to launch the HealthCare.gov website, it
+appears the administration cut corners that leaves the site open to
+hackers and other online criminals.
+So the question for today's hearing is: Can Americans trust the
+federal government with their personal information on the
+HealthCare.gov website?
+Today, we're going to hear from witnesses from outside the
+government who are experts in cybersecurity and hacking websites. Our
+witnesses will provide their professional assessment of the
+vulnerabilities that underlie HealthCare.gov.
+Several vulnerabilities have already been identified, and we know
+of at least 16 attempts to hack into the system. And I heard this
+morning that there were another 50. But we can assume that many more
+security breaches have not been reported.
+Here are some real-life examples. Mr. Thomas Dougall of South
+Carolina received a surprise phone call from a stranger one Friday
+evening explaining that he had just downloaded a letter off the
+HealthCare.gov website containing Dougall's personal information.
+And when Lisa Martinson of Missouri called HealthCare.gov's
+customer service after forgetting her password, she was told three
+different people were given access to her account, address and social
+security number.
+Also, it turns out that federal employees--called navigators--who
+help users apply for insurance on the HealthCare.gov website have not
+received background checks. Yet they are able to access the personal
+information of thousands of people.
+Many Americans have been the victims of identity theft by computer
+hackers. Identity theft jeopardizes credit ratings and personal
+finances. The massive amount of personal information collected by the
+HealthCare.gov website creates a tempting target for scam artists.
+These threats to Americans' well-being and financial security
+should make us question the future of Obamacare. Perhaps it is time to
+take Obamacare off of life-support.
+Americans deserve a healthcare system that works and that they can
+trust. Obamacare is no cure.
+
+Chairman Smith. I now recognize the Ranking Member, the
+gentlewoman from Texas, Ms. Johnson, for her opening statement.
+Ms. Johnson. Good morning, and thank you very much, Mr.
+Chairman. Let me welcome our witnesses. I look forward to your
+testimony today.
+In light of the startup problems that have been reported
+with the HealthCare.gov website, problems that need to get
+fixed as quickly as possible, some Americans may be concerned
+about the security of their personal information on the
+website. I can understand such concerns, because anytime any of
+us go to the internet, we are vulnerable to those who would
+attack public and private databases to get access to our
+information. That said, we have not heard much about security
+failures at HealthCare.gov. There is one recorded instance
+where an individual was mistakenly given access to the records
+of another person. There were initially security issues with
+the password reset function. The site has also been attacked by
+hackers in a denial-of-service attack. However, my
+understanding is that these issues were quickly fixed and the
+cyber attack was successfully prevented.
+The reality is that HealthCare.gov is subject to the same
+attacks as every other website and every other internet-
+accessible database. Every Member of this Committee knows that
+computer vulnerabilities are exploited every day at companies
+and government offices across the world, leading to the
+compromise of a wide range of personally sensitive information.
+I would like to draw your attention to a graphic that tries
+to illustrate major security failures of computer systems
+resulting in personal information being compromised. It is on
+the screens. As you can see, some of the biggest and most
+experienced internet firms have suffered attacks, and often the
+personal information that is accessed goes well beyond
+identifying information to include credit card and sensitive
+financial information. Governmental institutions have also seen
+materials stolen.
+Last year, Symantec's annual 2012 Cybercrime Report found
+that 556 million individuals in 24 countries, including the
+United States, were victims of one sort of consumer cyber crime
+or another. This equates to 1.5 million victims every day.
+One might conclude that the only way to avoid being
+vulnerable to such attacks is to not be connected to the
+internet at all. However, in the 21st century, that is not a
+reasonable option for most government agencies, businesses or
+individuals. So, I think we have to be realistic about the
+ability of any internet-connected database to be completely
+invulnerable to being compromised. I also think we have to be
+honest about what information actually will be available to a
+cyber attacker through HealthCare.gov. In my work as a
+psychiatric nurse, I saw how patients' medical records were
+routinely accessed by large numbers of people every day.
+Several years ago my own electronic medical records were
+breached, and I received a letter from the UT Southwestern
+Medical School Hospital in Dallas telling me that.
+So how vulnerable are medical records on HealthCare.gov?
+Some including two of the witnesses invited to testify today
+have made public claims that the website will have all kinds of
+sensitive personal medical records in its database. That is
+simply not true. HealthCare.gov will not have patient or health
+care case information about anyone. HealthCare.gov will have
+the name, date of birth, Social Security number and address of
+participants, but that information is also potentially
+available through every insurance company, bank, credit card
+company and government agency that anyone deals with, and I
+have already pointed out the data breaches that have occurred
+and are occurring in these sectors of our economy.
+So while there can be legitimate concerns about the privacy
+in the health care field, HealthCare.gov should not be the case
+of any exceptional fears in that regard. By saying that, I am
+not excusing the startup failures to implement the Affordable
+Care Act website in an effective way nor am I saying security
+failures are acceptable; they are not. I expect HHS will take
+every measure available to them to make the site secure and to
+maintain a high level of security going forward. However, I
+want everyone to keep the issues of security in perspective,
+and I hope that none of us will use this hearing to engage in
+fear-mongering in an effort to destroy participation in the
+Affordable Care Act. That would be irresponsible and, frankly,
+cruel. The Americans who most need the Affordable Care Act to
+work are those that are among the most vulnerable members of
+our society. Their personal medical data is not at risk on
+HealthCare.gov. In fact, it can be argued that this Committee's
+efforts to force sensitive information out of the EPA and
+Harvard and the American Cancer Society are a bigger threat to
+patients' privacy than HealthCare.gov.
+In closing, I hope that today's hearing will not become a
+soapbox for growing fear and confusion. Let us stay focused on
+the facts.
+With that, I again want to thank our witnesses and yield
+back the balance of my time. Thank you.
+[The prepared statement of Ms. Johnson follows:]
+
+Prepared Statement of Ranking Member Eddie Bernice Johnson
+
+Good morning, and welcome to our witnesses. I look forward to your
+testimony.
+In light of the startup problems that have been reported with the
+HealthCare.gov website--problems that need to get fixed as quickly as
+possible--some Americans may be concerned about the security of their
+personal information on the website. I can understand such concerns,
+because anytime any of us go on the internet, we are vulnerable to
+those who would attack public and private databases to get access to
+our information.
+That said, we have not heard much about security failures at
+HealthCare.gov. There is one recorded instance where an individual was
+mistakenly given access to the records of another person. There were
+initially security issues with the password reset function. The site
+has also been attacked by hackers in a ``denial of service'' attack.
+However, my understanding is that these issues were quickly fixed and
+the cyber-attack was successfully prevented.
+The reality is that HealthCare.gov is subject to the same attacks
+as every other website and every other internet-accessible data base.
+Every Member of this Committee knows that computer vulnerabilities are
+exploited every day at companies and government offices across the
+world, leading to the compromise of a wide range of personally
+sensitive information.
+I would like to draw your attention to a graphic that tries to
+illustrate major security failures of computer systems resulting in
+personal information being compromised.
+As you can see, some of the biggest and most experienced internet
+firms have suffered attacks--and often the personal information that is
+accessed goes well beyond identifying information to include credit
+card and sensitive financial information. Governmental institutions
+have also seen materials stolen.
+Last year, Symantec's annual 2012 Cybercrime Report, found that 556
+million individuals in 24 countries, including the United States, were
+victims of one sort of consumer cybercrime or another. This equates to
+1.5 million victims every day.
+One might conclude that the only way to avoid being vulnerable to
+such attacks is to not be connected to the internet at all. However, in
+the 21st century that is not a reasonable option for most government
+agencies, businesses or individuals. So, I think we have to be
+realistic about the ability of any internet-connected database to be
+completely invulnerable to being compromised.
+I also think we have to be honest about what information actually
+will be available to a cyber-attacker through HealthCare.gov. In my
+work as a psychiatric nurse I saw how patients' medical records were
+routinely accessed by large numbers of people every day. Several years
+ago my own electronic medical records were breached and I received a
+letter informing me about this from the hospital in Dallas.
+So how vulnerable are our medical records on HealthCare.gov? Some,
+including two of the witnesses invited to testify today, have made
+public claims that the website will have all kinds of sensitive
+personal medical records in its database. That is simply not true.
+HealthCare.gov will not have patient or healthcare case information
+about anyone. HealthCare.gov will have the name, date of birth, social
+security number and address of participants, but that information is
+also potentially available through every insurance company, bank,
+credit card company and government agency that anyone deals with, and
+I've already pointed out the data breaches that have occurred and are
+occurring in those sectors of our economy.
+So while there can be legitimate concerns about privacy in the
+health care field, HealthCare.gov should not be the cause of any
+exceptional fears in that regard. By saying that, I am not excusing the
+startup failures to implement the ACA website in an effective way, nor
+am I saying security failures are acceptable. They are not. I expect
+HHS will take every measure available to them to make the site secure
+and to maintain a high level of security going forward. However, I want
+everyone to keep the issues of security in perspective, and I hope that
+none of us will use this hearing to engage in fear-mongering in an
+effort to destroy participation in the ACA. That would be irresponsible
+and, frankly, cruel. The Americans who most need the ACA to work are
+those that are among the most vulnerable members of our society.
+Their personal medical data is not at risk on HealthCare.gov. In
+fact, it can be argued that this Committee's efforts to force sensitive
+information out of EPA, Harvard, and the American Cancer Society are a
+bigger threat to patient privacy than is HealthCare.gov.
+In closing, I hope that today's hearing will not become a soap box
+for sowing fear and confusion. Let's stay focused on the facts.
+With that, I again want to welcome our witnesses, and I yield back
+the balance of my time.
+
+Chairman Smith. Thank you.
+Our first witness, Mr. Morgan Wright, is the Chief
+Executive Officer of Crowd Sourced Investigations, LLC. Mr.
+Wright is a former Kansas State Trooper, officer and detective
+with almost 18 years of service. He has also worked for the
+Department of Justice, the intelligence community, the
+Department of Homeland Security, and State Department. Mr.
+Wright has taught behavioral analysis interviewing at the
+National Security Agency. He holds degrees in human resource
+management and computer information systems from Friends
+University and is a 2011 graduate of the Executive Leadership
+and Management program at the University of Notre Dame.
+Our second witness, Dr. Fred Chang, is the Bobby B. Lyle
+Endowed Centennial Distinguished Chair in Cybersecurity and
+Professor in the Department of Computer Science and Engineering
+at Southern Methodist University in Dallas, Texas. Dr. Chang
+brings us today over 30 years of public and private sector
+cybersecurity knowledge, serving as the Director of Research at
+the National Security Agency and then in an executive role at
+the SBC Communications. Dr. Chang is also a member of the Texas
+Cybersecurity Education and Economic Development Council, and
+he has taught at both the University of Texas in San Antonio
+and the University of Texas in Austin. Dr. Chang received his
+Bachelor's degree from the University of California-San Diego
+and his Master's and Ph.D. degrees from the University of
+Oregon.
+Our third witness, Dr. Avi Rubin, is a Professor of
+Computer Science at Johns Hopkins University and is the
+Technical Director of their Information Security Institute. He
+is also President and Co-founder of Independent Security
+Evaluators, a computer security consulting company. Prior to
+joining the faculty at Johns Hopkins, Dr. Rubin worked in the
+Secure Systems Research Department at AT&T Labs Research. Dr.
+Rubin received his bachelor's, Master's and Ph.D. degrees from
+the University of Michigan.
+Our final witness, Mr. David Kennedy, is the President and
+CEO of TrustedSEC, LLC. Previously Mr. Kennedy was a Chief
+Security Officer for a Fortune 1000 company located in over 77
+countries with over 18,000 employees. Mr. Kennedy is considered
+a leader in the security field. He has spoken at many
+conferences worldwide including Blackhat, Defcon, INFOSEC
+World, and the Information Security Summit, among others. Mr.
+Kennedy is the creator of several widely popular open source
+tools and has coauthored a book on internet security that was
+number one on Amazon.gov for over six months. Prior to moving
+to the private sector, Mr. Kennedy worked for the National
+Security Agency and the United States Marines in cyber warfare
+and forensics analysis. Mr. Kennedy received his Bachelor's
+degree from Malone University.
+We welcome you all, and Mr. Wright, if you will begin?
+
+TESTIMONY OF MR. MORGAN WRIGHT,
+
+CHIEF EXECUTIVE OFFICER,
+
+CROWD SOURCED INVESTIGATIONS, LLC
+
+Mr. Wright. Thank you, Chairman Smith, Ranking Member
+Johnson and Members of the Committee, I am pleased to be here
+today. Thank you for allowing me to testify. Again, I am Morgan
+Wright.
+During my testimony, I just want to cover four major areas
+that we want to provide a high-level overview to: end-to-end
+security testing, user account creation and registration, cyber
+squatting and domain name confusion, and the insider threat.
+Just to set the stage, because we were talking about the
+size and scope of HealthCare.gov, it has been reported to have
+over 500 million lines of code. At the same time, Facebook, who
+has addressed similar privacy threats and issues, has less than
+20 million lines of code running, 772 million daily active
+users, and 1.2 billion monthly users. So, when we start looking
+at this, we start looking at the complexities and
+interdependencies of the current government sites and the
+potential for disruption, compromise of security of
+identifiable information, frauds and scams, and I think one of
+the larger issues is the insider threat. This vast amount of
+code also means that it becomes very challenging from an
+industry standpoint and best practices standpoint to give a
+certification and assurance that the site is secure, especially
+as it relates to FISMA.
+So, in the end-to-end security testing, I think one of the
+first major issues is the lack and the inability to conduct a
+complete end-to-end security assessment. Even when the
+contractors were here and testifying, they said it would take
+two months to complete this. It is essential when you are
+dealing with information that you have a top-down view, and in
+a system this complex, and having worked on major intelligence
+systems and the number of places we have to go out and touch
+data, you have to have that top-down view of security. It has
+to be something that is embedded in everything you do. There
+are five major types of data: voice, video, data, mobility, and
+then you apply security around that. That has to be put into it
+at the beginning.
+A recent news article, in fact, on October 30th in the
+Washington Post stated that--and Ranking Member Johnson, I
+believe, brought this out--the security flaw with user name and
+password. The issue that it was not identified and rectified
+until three weeks after the site was launched is an indication
+of the lack of comprehensive security controls and awareness of
+one of the basic functions HealthCare.gov is designed to
+create, which is that experience, that user account, and the
+way you secure that is with your password.
+There is a document here I would like to have put into the
+record a little bit later, but it came from Troy Trenkle, who
+was the CIO at that time of CMS. In the authorization to
+operate, one of the things he highlighted is that the Federal
+Facilitated Marketplace has an open high finding in terms of a
+security issue, but in the finding description, it says the
+threat and risk potential is limitless. These were the words
+from the authorization to operate, and the fix date, it is due
+May 31, 2014, is when this is required to be fixed. And then on
+the next page, on page 3, there is another finding, and it says
+it is a high finding but there is no finding description, it
+has all been redacted out, with a fix date of February 26,
+2015. So just from an industry perspective, being on both the
+public side and the private sector side, there has to be some
+accountability from a security standpoint, if you go out and
+you say that the threat and risk potential is limitless. There
+is a lot of accountability in the private sector from
+shareholder lawsuits, civil litigation if information like that
+is found out. And from an industry perspective, it is
+contravention of what would be considered best practices from a
+security standpoint.
+So the user account creation and registration, this was the
+second major issue because this is how people access the
+marketplace. I think one of the issues that caused some of the
+security concerns was the decision to move the submission of
+personally identifiable information before you could access the
+health care information, which meant that a user had to give,
+as was stated, name, date of birth, Social Security number,
+address and some other information in order to be able to see
+the plans. That creates an issue to where now--and I know David
+will talk about this a little bit later--is that when you start
+telling people the norm is to give your personally identifiable
+information, things that identify you before you are allowed to
+see the marketplace, it would be the equivalent of saying you
+can't go in and see a car on the car lot and kick the tires
+until you fill out a credit app and you are approved. This is
+not the way consumers do business but it creates the potential
+for fraud because now you have established a norm for
+fraudulent sites and deceptive sites to say it is a norm that
+you give us your personally identifiable information first
+before we give you access to the rest of the information.
+The third issue is about cyber squatting and domain name
+confusion, and why would this be an issue? As a former law
+enforcement officer, I can tell you it was tough enough as we
+started getting into technology to defend one site or do an
+investigation into one site. One of the articles that came out
+from the Washington Examiner quoted another cybersecurity
+expert who said that HealthCare.gov had 221 sites that were
+attempting to exploit it, and on the state exchanges, there
+were 499 sites. So from a purely law enforcement standpoint,
+you have given a lot of ground for people to use and establish
+the norm that you have to give your personally identifiable
+information first before you can access it.
+And then the very last thing is the insider threat. If you
+were to assume that HealthCare.gov had reasonable security, it
+ran reasonably well and it was within acceptable limits, the
+fact that people who access this information and access the
+information from the consumers do not undergo at least a
+background check from a position of public trust, which is
+already established by OMB standard form 85-P--it is a limited
+background check to identify people with felonies or certain
+convictions that would prohibit you from having positions
+within the government. At least a similar background check like
+that would expose deficiencies and then you apply rigorous
+auditing and accounting to that to make sure that you learn
+from those lessons and prevent future issues. So when dealing
+with the insider threat, you have to remember, trust is not a
+control and hope is not a strategy. If anything, Edward Snowden
+has taught us that no matter how much trust you give somebody,
+things can still happen.
+Thank you, Mr. Chairman.
+[The prepared statement of Mr. Wright follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Mr. Wright. You got a lot into
+five minutes there.
+Dr. Chang.
+
+TESTIMONY OF DR. FRED CHANG,
+
+BOBBY B. LYLE CENTENNIAL
+
+DISTINGUISHED CHAIR IN CYBER SECURITY,
+
+SOUTHERN METHODIST UNIVERSITY
+
+Dr. Chang. Chairman Smith, Ranking Member Johnson and
+Members of the Committee, thank you for the opportunity to
+testify before you today. As Chairman Smith mentioned, my name
+is Frederick R. Chang. I am the Bobby B. Lyle Centennial
+Distinguished Chair in Cybersecurity, Professor in the Computer
+Science and Engineering Department, and Senior Fellow in the
+Tower Center for Political Studies at SMU in Dallas, Texas.
+On the backdrop of the 25th anniversary of the internet
+worm of 1988, which caused a major disruption on the internet
+in its day, let me start by saying that when considering the
+volume and sensitive data associated with HealthCare.gov, it
+would be unwise to underestimate the motivation, patience and
+creativity of today's cyber adversaries. They will find seams
+in the system. They will change the rules. They will attack you
+in ways that you won't expect, and I will return to this theme
+at the end of my oral comments.
+In my written testimony, I pointed out three types of risk
+that I see, and I will describe these briefly now. In the near
+term, I think there is a large risk from bogus websites because
+there is not one single website for people to use, there will
+be confusion, and adversaries will take advantage of this
+confusion. I believe there will be people who will launch a
+search from a search engine and they will see many choices. I
+would invite you to try that, by the way. It is pretty
+instructive. Additionally, people will make typos when entering
+a web address, and this will lead them to the wrong site or
+they will receive spam emails taking advantage of the launch of
+the new Affordable Care Act. I read one report indicating that
+over 700 fake websites had been set within the first few weeks
+of the October 1st launch. If you combine that volume with the
+fact that people may be more likely than normal to enter
+sensitive information over the web because it has to do with
+health insurance coverage, you get especially concerned about
+the potential for loss of sensitive information. It is
+difficult to know how much traffic these bogus websites will
+siphon off from authentic websites, but I saw one estimate that
+was disturbingly high.
+The second risk concerns the inherent risk in delivering
+applications over the web. There are a plethora of security
+risks facing any organization, public or private, as they
+contemplate delivery of an application over the web. The web
+was originally designed for the delivery of static read-only
+pages. Today, of course, we perform a wide array of interactive
+services over the web from buying books, videos and pet food to
+checking in for our airline flights and so much more. The
+convenience and business benefits are clear. It is really hard
+to imagine not using the web this way. Unfortunately, the
+convenience and benefits come at a price, and that price is
+security. The security risks constantly change and the top
+risks have been well chronicled in the field. I did not do any
+form of security analysis myself personally on HealthCare.gov
+but I did read some posts where people had done some
+unobtrusive passive analysis, and concerns were raised, and I
+think David is going to have some more to say about that
+shortly.
+The final risk that I mention in my written testimony was
+the risk from complexity. Many in the security field have noted
+that complexity is the enemy of security. As we ask for more
+and more functionality and capability from our software
+applications, the technologists and software developers are
+only happy to oblige. The result is more complexity including
+more defects and seams, and the attackers will try to exploit
+these. I am not an expert in health insurance exchanges but as
+I looked at the many sensitive back-end databases that are
+being accessed as a result of HealthCare.gov and thought about
+the many interactions, increased traffic load, the increased
+accesses, I believe that one can rightfully be concerned about
+the possibility of increased malevolent activity.
+My wife asked me this weekend why haven't the hackers
+already launched the big one on HealthCare.gov. She thought
+that now might be the perfect time as the website was in
+startup mode. There was a hearing by the Homeland Security
+Committee chaired by Congressman McCaul in which it was
+reported that about 16 cyber attacks had been detected against
+HealthCare.gov. I don't have any detail on those attacks, but
+regarding my wife's question about the big one, I answered it
+the same way I mentioned in my opening remarks. It would be
+unwise to underestimate our adversaries in cyberspace. They are
+smart, they are creative. They will look for seams to exploit.
+They will change the rules, and importantly, they will be
+patient.
+Thank you for your attention, and I look forward to your
+questions.
+[The prepared statement of Dr. Chang follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Dr. Chang.
+Dr. Rubin.
+
+TESTIMONY OF DR. AVI RUBIN,
+
+DIRECTOR, HEALTH AND MEDICAL SECURITY
+
+LABORATORY TECHNICAL DIRECTOR,
+
+INFORMATION SECURITY INSTITUTE,
+
+JOHNS HOPKINS UNIVERSITY (JHU)
+
+Dr. Rubin. Chairman Smith, Ranking Member Johnson and
+Members of the Committee, good morning, and thank you for the
+opportunity to speak to you today. My name is Avi Rubin, and I
+am a Computer Science Professor at Johns Hopkins University. I
+am the Technical Director of the Johns Hopkins Information
+Security Institute, and I direct the Health and Medical
+Security Lab at Johns Hopkins.
+I was asked to comment to you today on general security
+issues for large web installations and specifically about
+security issues that could affect a site such as
+HealthCare.gov. As we all know from reading the press,
+HealthCare.gov got off to a rocky start, and as a software
+engineer, it is not surprising to me that this happened. When
+we think about large systems and rolling out a large software
+system, the way this is typically done by companies such as
+Google and Amazon and other companies that roll out large
+software services, they roll it out in a small way to some
+controlled number of users. They identify bugs and problems
+with the system. They fix those. They get the system stable,
+and then they scale it up to a larger number of users. Once
+again they discover that now there are all kinds of new
+problems based on the bigger scale. Why would that be? Because
+of increased communication requirements, storage and what we
+might call race conditions that happen when you have a lot more
+users than you had before. And so then someone rolling out a
+large software package will roll it out to more users, get it
+stable and keep rolling it out. It is not very common to roll
+out a huge system with a ton of users on one day, and so it
+wasn't surprising to me that there were a lot of problems when
+this was initially rolled out.
+Another thing is that when a project gets--a software
+project gets behind schedule, it is not very easy to recover
+from that. You might think well, just add more developers to
+it, but in software engineering, it is well understood that
+when you add additional programmers to a late software project,
+you often make it later. In HealthCare.gov, there are many
+interoperating components and links to many different systems
+including the IRS, the Social Security Administration,
+Department of Homeland Security, Experian, state exchanges and
+many more, and we know, as was stated earlier, that the more
+complex a system, the more vulnerabilities there will be, the
+more interfaces there are the greater likelihood of problems.
+We also know, and it has been stated, that there are great
+risks to high-profile websites. We hear breaches reported in
+the major media all the time, and the attackers are growing in
+their creativity, sophistication, talent and resources. In
+fact, just last week there was a report of a denial-of-service
+attack against HealthCare.gov.
+Maintaining a secure website is not easy, especially if it
+manages sensitive information, if it requires ongoing
+maintenance, keeping up with vendor patches, requiring highly
+skilled administrators, reporting mechanisms for reporting
+incidents, contingency plans, and the list goes on. I provided
+a list, a longer list in my written testimony. And all of that
+said, the industry--the computer industry has many success
+stores. There are large, complex websites that have no major
+breaches that I know of. Examples of these are the airline
+reservation system, which manages a very complex array of
+interdependencies, and even other sites like Orbitz and
+Travelocity, which have to tap into those airline reservation
+systems. Large social sites--Facebook and LinkedIn--they got
+attacked all of the time and yet there hasn't been, to my
+knowledge, a major compromise of these top sites that in a
+wholesale manner exposed all the private information of the
+users. We have Amazon.com, a shopping site. And while no system
+is perfect, there are best practices in the industry that work
+well for the most part. In my written testimony, I provided a
+list of best practices and recommendations for the
+HealthCare.gov website. I don't have time in my oral testimony
+to go into them but to summarize what they are about, I suggest
+a few of the security annually by outside experts, focusing on
+the interfaces among the components and across systems,
+reviewing authentication mechanisms, checking for known
+standard vulnerabilities such as SQL injection attacks,
+sanitization of user inputs, cross-site scripting, and we have
+a long list of technical things to look for.
+Data at rest should be encrypted, and the keys should be
+managed carefully just like all of those sites that I mentioned
+do. There should be mandatory incident reporting and
+contingency plans in place for every possible conceivable
+scenario. The list of recommendations that I have submitted is
+partial, but I believe that with the proper administration and
+the proper expertise, a website such as HealthCare.gov can be
+deployed in a practical manner.
+Thank you for the opportunity to speak with you today, and
+I look forward to addressing your questions in the Q&A.
+[The prepared statement of Dr. Rubin follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Dr. Rubin.
+Mr. Kennedy.
+
+TESTIMONY OF MR. DAVID KENNEDY,
+
+CHIEF EXECUTIVE OFFICER,
+
+TRUSTEDSEC, LLC
+
+Mr. Kennedy. Thank you, Mr. Chairman and Members of the
+Committee. I appreciate your time today.
+Just to give you a brief background of my history, because
+I think it will parlay into the security issues that we
+identified with HealthCare.gov. We work with customers, large
+and small, everything from Fortune 10 to Fortune 500 or Fortune
+1000 companies all the time, and we do security assessments
+where we basically break into computer sites all the time as
+hackers. So I am a hacker on the good side, a white-hat hacker,
+in those terms. So we break into websites all the time to
+identify risks and exposure. We do it for government sites, we
+do it for private sector sites all the time. And if you look at
+the security industry, it has evolved significantly over the
+past ten years. We didn't have dedicated security conferences,
+folks that are dedicated to protecting infrastructure and
+security. Technology has advanced so far and so fast that we
+are really trying to still grasp our hands around how to
+actually do it the right way, but there are things in place to
+do it the right way and to make it right, and so there are
+companies that have successfully deployed websites without any
+major security exposures. There are websites out there that
+aren't necessarily unhackable but they are very difficult to
+break into, and we are hackers who break into them all the time
+and it becomes very difficult for us. And the purpose of
+security isn't to say hey, we are 100 percent unpenetrable all
+the time but can we detect the hackers in the very early stages
+of their lifecycle of the attack, monitor that and prevent the
+attacks from happening, and none of those are clearly being
+done on the HealthCare.gov websites and all of its sub-websites
+themselves.
+What we did--and again, this is purely from a
+reconnaissance perspective. We did not hack into the site in
+any way, shape or form. We are not authorized to hack into the
+website in any way, shape or form. But just by looking at the
+website, we can see that there is just fundamental security
+principles that are not being followed, things that are basic
+in nature that any security tester like my myself or anybody
+that we hire to test these sites would actually test for prior
+to it being released, and these are things that could actually
+compromise sensitive information for people that have
+registered for the website and actually compromise the entire
+site itself and everything around it.
+One thing to also mention is that not only is there Social
+Security numbers and information in there that was mentioned
+but also there is tight integration into state exchanges, the
+IRS, DHS and third parties like Experian. So the infrastructure
+itself has trust factors to multiple different areas that it
+pulls and feeds information from, so not only is HealthCare.gov
+at risk but you also have the infrastructure that it was built
+off of that is at risk as well, which happens to be a lot of
+those different areas.
+And so if you read the written testimony that I placed into
+there, I think we identified around 17 different direct
+exposures. A lot of those have been addressed. We reported
+them, and they have been addressed. Some of them have not been,
+and they have not been included in the report. We are very keen
+on what is called responsible disclosure and not putting
+anything at harm when we do these type of things, but there are
+critical flaws, there are critical exposures right now that are
+currently on the website that hackers could use to extract
+sensitive information. I am actually going to demonstrate one
+that has already been addressed and fixed and one that I cannot
+demonstrate because it would release sensitive information for
+U.S. citizens.
+So I would like to flip to the actual screen here, and you
+can actually see the actual attack itself, and this attack and
+this actual demonstration I am going to show was actually shown
+from an independent researcher named Gillis Jones, who
+identified this exposure on finder.HealthCare.gov. I want to
+show you different things. There is multiple sites that support
+the infrastructure. You have chat.HealthCare.gov,
+data.HealthCare.gov, finder.HealthCare.gov. These are all
+components that make up everything that is HealthCare.gov. It
+pulls from different areas, different functionality, different
+features. They all make up what we consider HealthCare.gov. In
+this case here, if you notice on the right-hand side, and it is
+a little hard to see, but what we do here is, if we can send an
+email to anybody that is registered for the website and we can
+actually extract a lot of that information. As soon as they
+click this link, and you will see here, as soon as they click
+this link, it will automatically redirect them back to a
+malicious website where they actually hack the computer, and
+this website itself is legitimate. It is finder.HealthCare.gov.
+It is the website that folks go to. It looks legitimate. It is
+registered by the government. It is a federal government site.
+And as soon as somebody goes to this website and clicks on it,
+you notice here, we are going to go to that website and we are
+going to log in to it, and as soon as you log in to it, a
+banner pops up that looks just like HealthCare.gov. We get a
+little warning here that says HealthCare.gov enrollment. Now,
+for folks that have actually been on the website, you know that
+this isn't legitimate. This doesn't necessarily happen when it
+pops up like this. The individuals going to the website
+wouldn't know this. And as soon as they click ``run,'' it
+actually hacks their entire computer. It escapes antivirus
+preventative technologies. It doesn't get detected by anything.
+And from there we can actually enable their web cam, monitor
+their web cam, listen to their microphone, steal passwords.
+Anything that they do on their computer, we now have full
+access to. And here I am on the hacker computer, and you can
+actually see--I can see the person's display here. You can see
+everything that is on it. You can actually monitor everything
+that person is doing, all the communications, and you can do
+this on a large scale because the information is readily
+available and the direct exposures that are actually on the
+website.
+And one other thing I want to show you, and this is a
+sanitized version of this, which is, there was an exposure that
+we identified at TrustedSEC, and I am not going to say which
+website is involved in it, but basically allows us to extract
+personal information of over 100,000 individuals including
+first name, last name, email addresses, their user account
+information as well as a lot of other additional information
+that we can fully extract from the website itself. I just want
+to show you an example, and this information has been sanitized
+as to not actually show individual people that have been
+exposed to this, but you notice here, you can see it up here.
+What we are going to do is we are going to track one record for
+someone that has actually registered for the site. Notice here,
+the first record that we pull back is actually an administrator
+for the website itself, so notice here, permission or
+administrator. Now I am going to extract the next 10 records in
+there. Now we have three admins, and then sanitized information
+of individuals that have registered for the website. So we can
+see here that we can extract over 100,000 individuals'
+information from the website itself.
+And one last thing--I know I am running low on time here--
+is the talk that this attack has only happened 16 times and
+that the website has only been attacked 16 times is not
+possible. The attacks that happen on the internet are so
+frequently used and so frequently done that that means that
+there is not much detection capabilities on HealthCare.gov. And
+just as an example, this was recently posted yesterday. If I
+throw a semicolon into the search field, you can actually see
+the top results for the websites for semicolons, and those are
+all what we call SQL injection attacks, which means that
+hackers are continuously trying to find vulnerabilities in
+this, and the training program results on the website are
+actual attacks happening on the website itself. So the attacks
+that are happening are much larger scale right now. They are
+trying to infiltrate the website. They are trying to break into
+it, and there is definitely data on the website itself that is
+indicative of that.
+I appreciate your time. Thank you very much.
+[The prepared statement of Mr. Kennedy follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Mr. Kennedy. I will recognize
+myself for five minutes to ask questions, and Mr. Wright, let
+me direct my first couple of questions to you.
+Mr. Wright. Yes, sir.
+Chairman Smith. The first is this. Does any other
+government website collect so much personal information as does
+HealthCare.gov?
+Mr. Wright. When you look at all the interdependencies like
+David laid out, when we looked around and obviously we are
+limited to what is in the open source, but there doesn't appear
+to be anything else that collects information and then uses
+that information then to check associated records in multiple
+other databases. So this becomes a central point of attack that
+if you can compromise one area, you can get into others.
+Chairman Smith. Okay. Next question is this. Is the fact
+that other websites can be hacked any justification for the
+lack of security with HealthCare.gov?
+Mr. Wright. What we would hope is that by learning from the
+known vulnerabilities out there and the other attacks that
+happen is that you would have guarded against this in the
+initial design to say we know this is going to happen, we know
+this is going to happen. The password issues and the issues
+David just showed are things that are so common, they should
+have been prevented against before the site was even launched.
+Chairman Smith. Okay. And on HealthCare.gov, do you think
+as a practical measure it can be fixed, or should we start over
+again?
+Mr. Wright. You know one of my examples, my neighbor helped
+build the Russian Embassy. I told him shame on you, the one
+that had all the bugs in it. It was easier and much safer to
+tear down the Embassy and start over again than it was to spend
+untold number of years and man-hours to remediate the problem,
+and that is just one issue. I mean, that is--you know, I am not
+a political person, we are not here to talk politics, but if
+you are asking from a technology standpoint, it would be easier
+to start over again, lay a foundation of security and start
+from the beginning because security has to be the foundation of
+this site, period.
+Chairman Smith. Thank you, Mr. Wright.
+Mr. Kennedy, let me go to your last point, and I know you
+cannot confess to having hacked HealthCare.gov yourself, that
+would be illegal, so let me just ask you if you are confident
+that HealthCare.gov has been hacked and can be hacked?
+Mr. Kennedy. Mr. Chairman, I am very confident on the
+security ramifications that we can see, basic attacks that you
+could do at the website, that it is very susceptible to attack
+and that hackers could break into it. And just as an example, I
+got an email, a random email from somebody that I have never
+met before that had about 14 to 30 different exposures on the
+HealthCare.gov website that they were posting to me personally
+on my email saying that they had contacted individuals and that
+they hadn't had any responses back for these security
+exposures, and some of them are very critical in nature. So
+these are definitely happening. Hackers are definitely after
+it. If I had to guess based on what I can see, and again, this
+is purely from a reconnaissance perspective, I don't have any
+understanding of the back-end infrastructure, but I would say
+that the website is either hacked already or will be soon.
+Chairman Smith. Okay. Thank you, Mr. Kennedy.
+Let me address my last question to Mr. Kennedy, Dr. Chang
+and Mr. Wright, and it is this: what dangers do Americans face
+if there is a security breach with HealthCare.gov? In other
+words, if HealthCare.gov is hacked, what are the real-life
+threats, dangers to the American people who have provided that
+personal information? Mr. Kennedy?
+Mr. Kennedy. Well, if you look at the type of information
+that is stored, it is not only, you know, Social Security
+numbers and data, it is everything that integrates into the
+state exchanges, the IRS, DHS, multiple other areas. There are
+some large exposures for personal information being done,
+fraudulent-type activities being performed, but I think, you
+know, if you look at what this actually is, it is one of the
+largest collections of U.S.-based data, Social Security numbers
+and everything else, that we have ever seen in history. So for
+attackers, I would go after that personally if I was a bad guy
+to try to get that information for fraudulent activity, of if
+you have ever heard the term state-sponsored or other
+government agencies going after information based on U.S.-based
+citizens, and while there is no medical records specifically in
+the website itself, the integration into all the other sites
+that they have access to, you know, we use that as a trusted
+connection in term of hacking so getting access to that trusted
+infrastructure, that the sites trust themselves, allows us to
+access into that type of information.
+Chairman Smith. Okay. Thank you, Mr. Kennedy.
+Dr. Chang?
+Dr. Chang. It is the general risk from identity theft. I
+don't know if you have talked to people who have had identity
+theft, it ends up being a major pain in the rear end to kind of
+get yourself out of that. So, extreme inconvenience and
+difficulty.
+I would also mention that from the perspective of the U.S.
+government, once identity theft happens, a bunch of other bad
+things can happen. So if you look--I mention in my testimony
+about the loss from fraudulent tax returns so as people end up
+stealing identities, they start--they end up, you know, kind of
+doing fraudulent tax returns. In 2012, I think the number was
+something like in excess of $3 billion loss in fraudulent tax
+returns, so it is just sort of an implication if identity
+theft.
+Chairman Smith. Okay. Thank you, Dr. Chang.
+And Mr. Wright.
+Mr. Wright. This becomes the largest collection of
+personally identifiable information, and as a taxpayer and a
+consumer, I don't want my government becoming the unwitting
+accomplice in the largest disclosure of personally identifiable
+information. David's point is right, and Ranking Member
+Johnson, you expressed concerns about some of the medical
+records. It is not so much the medical records, it is the fact
+that once I can obtain your identity and I can now--medical
+insurance fraud is actually a very large growing area. I can
+actually go in and receive services. My issue as a consumer is
+that if my medical records get conflated with somebody else's
+and that I am now given a diagnosis or information that says I
+have something I don't have or I don't have something I do
+have, that is one of my biggest concerns, and I think the
+threat--it is the threat of the unknown.
+Chairman Smith. Thank you, Mr. Wright, and thank you all,
+and the gentlewoman from Texas is recognized for her questions.
+Ms. Johnson. Thank you very much, Mr. Chairman, and thank
+all of you for being here.
+Mr. Kennedy, you mentioned that you were able to get
+100,000 user names from a website but you did not mention which
+site that was. Was this the HealthCare.gov?
+Mr. Kennedy. It is part of the same infrastructure. Without
+disclosing----
+Ms. Johnson. Excuse me. Was it a part of the
+HealthCare.gov?
+Mr. Kennedy. Yes.
+Ms. Johnson. So you were able to get that information from
+HealthCare.gov?
+Mr. Kennedy. It is from the infrastructure from
+HealthCare.gov. It is from--if you look at what makes up
+HealthCare.gov, if you go to www.HealthCare.gov, that is one
+site and server. But what makes up HealthCare.gov is
+chat.HealthCare.gov, finder.HealthCare.gov,
+data.HealthCare.gov. There are multiple things that feed
+information into the main website. So you have all of these
+different working parts that feed into what makes up
+HealthCare.gov and that entire infrastructure, and that is what
+we found the exposure on.
+Ms. Johnson. HealthCare.gov?
+Mr. Kennedy. On the infrastructure, on one of the sub-sites
+for HealthCare.gov.
+Ms. Johnson. But not the site of HealthCare.gov?
+Mr. Kennedy. That is correct.
+Ms. Johnson. Thank you.
+Dr. Rubin, before--I mentioned earlier before I came to
+Congress I was a nurse, and in fact, I graduated from St.
+Mary's at the University of Notre Dame over 50 years ago, and
+my master's from SMU over 30 years ago. I went there because
+there was no school of first class in Texas that I could attend
+in nursing at that time. So that tells you how old I am, which
+I am very proud of.
+But Dr. Rubin, what is your impression of the security in
+the health care industry? I have worked in the health care
+industry, and I have not found anybody seeking health care
+information to make a profit. Most of the time it is some
+scheme for people seeking information that they want to do
+that. In the Affordable Care Act, the preexisting conditions is
+no longer a factor, and so while I am not trying to make a
+judgment on the information, I am trying to understand why is
+there such an outcry at this point when medical records have
+been so available in any institution that I have worked in.
+Anyone who has any kind of hospital identification, whether it
+is a janitor or the nutritionist, a physician, a nurse can
+access a patient's chart that has everything on there that is
+going to happen or is happening to that patient while they are
+in the hospital, and that is something I know from personal
+experience. So I am trying to understand, is the health care
+industry lagging in these security measures or why--what is it
+about this non-security in the past is going to impact where we
+are now?
+Dr. Rubin. So to answer your question about where the
+health care industry stands with respect to security, I have
+done consulting in many different vertical industries--
+financial, all commercial--and in the last few years I have
+been working in the health care industry doing tours of
+hospitals and doctors' offices to assess their security, and I
+have found it is actually perhaps the most far behind in terms
+of the security at hospitals, even things in the emergency room
+that surprised me and the operating room. And so to your
+question, I think that the health care IT industry needs to
+learn a lot from some of the other industries in order to bring
+its security up to par.
+Ms. Johnson. Thank you. Thank you, Mr. Chairman.
+Chairman Smith. Thank you, Ms. Johnson.
+I would like to ask unanimous consent to put into the
+record a letter from the Identify Theft Resource Center, and
+they make the point, medical identity theft is one of the worst
+forms of identity theft for many reasons. For one, it is
+extremely attractive for identity thieves and hackers because
+the sale of medical identities is so lucrative. Second, medical
+identity theft is extremely difficult to mitigate, and lastly,
+medical identity theft is extremely dangerous. Without
+objection.
+[The information appears in Appendix II]
+Chairman Smith. And then the gentleman from California, Mr.
+Rohrabacher, is recognized for his----
+Ms. Johnson. Mr. Chairman, before you go to the gentleman--
+--
+Chairman Smith. Before the gentleman from California is
+recognized, the gentleman from Texas, Ms. Johnson.
+Ms. Johnson. Woman. I just wanted some clarification. Do
+they talk about the profitability sources in that letter?
+Chairman Smith. If you are asking about the letter that we
+just put in the record, I will give you a copy right there.
+Ms. Johnson. Okay, because I am trying to figure out the
+value to anyone to access medical records, and I think this--
+did you say it spoke to it?
+Chairman Smith. Yes. The gentleman from California.
+Mr. Rohrabacher. Thank you very much, Mr. Chairman.
+This has been a little bit overwhelming. Are you gentlemen
+saying that basically the American people are being put at risk
+by this incredible effort that our government is making in
+order to set up a health care system that will serve the
+people, that instead we are ending up putting them at risk?
+Mr. Wright. Let me take the first pass at that, sir. Back
+in February 7th of 2000, I was leading the computer emergency
+response team for SCIC, and we had financial services client,
+government clients. That date is significant because that was
+the first distributed denial-of-service attack ever launched
+nationwide. It took down Amazon, Yahoo, CNN. And one of the
+things we saw is, things don't happen on the first day. You
+have to build up the critical mass. The issue with
+HealthCare.gov is, you will not see the attacks in the first
+day as a detective. Nobody ever robbed a bank while it was
+being built. They wait until it was built, it had the money in
+there. What I am saying here is that yes, I mean, you are
+looking at the first 30, 45 days. That is not the issue. I am
+more concerned six months out at this information comes----
+Mr. Rohrabacher. We are predicting that the American
+people, unless there is a dramatic change in the way things are
+being put together, that families throughout this country will
+face huge problems, their bank accounts will be hacked into or
+maybe there will be false information put into their health
+care so if they go to the hospital, they won't get the right
+kind of medicine. Is this what we are talking about?
+Mr. Kennedy. I can kind of speak to that. From a security
+perspective, there are things that we can see that are patterns
+of inconsistencies around security, and if you could see those
+patterns and you look at those patterns, you can see that there
+is not a lot of security built into this site, at least from
+what we can see from a 10,000-foot view, again, without
+actually attacking the site itself. And there are things that
+we can do to prevent those, and if you look at how a website is
+supposed to be developed, it is supposed to be developed from
+the ground up with security integrated and being an integral
+part of that portion so you can protect sensitive data, U.S.
+citizen-based data, and it does not appear to be done, from
+what we can see and what we are finding as far as independent
+researchers and the information that is ready available out
+there.
+Mr. Rohrabacher. So when we are talking about hackers and
+you say you are a hacker, and we are talking about the American
+people being vulnerable, are we making the American people
+vulnerable to people, hackers from Russia or China or overseas?
+Mr. Kennedy. Absolutely. There is, you know, really
+different types if criteria of hackers. You have your hacker
+that you picture, you know, probably me 20 years ago in my
+basement, right, you know, hacking away or whatever. Then you
+have the criteria of more of organized crime, which is more on
+the monetary fraud perspective of just purely financial-type
+gain. And then you have obviously the state-sponsored element,
+which is more of like the folks that you see from governments
+of other areas, and they are looking for things like high-
+impact vulnerabilities so they can actually exploit a system,
+get access to the data behind it and use that information
+against us.
+Mr. Rohrabacher. But we are facilitating some of the worst
+scum in the world, not even in our own country, which we have
+enough problems of criminals in our own country, but the worst
+type of elements throughout the world to actually now get at
+our citizens?
+Mr. Kennedy. Objectively, we should have had a lot of
+defensive capabilities put into this site well ahead of it
+being released. There is technologies, there is detection
+capabilities, there is coding that we can do to make the site
+secure.
+Mr. Rohrabacher. And it should have happened before we----
+Mr. Wright. It should have happened well before it was ever
+released, and that is what you see in commercial areas.
+Mr. Rohrabacher. Let me--I only have one minute left.
+Someone said, one of you testified, it would be better right
+now, considering there is so much vulnerability that we now are
+putting our people in that it would be better to start all over
+again and just restructure the system from zero rather than
+trying to correct the problems that are in the system now
+because it was done wrong. Do you all agree with that? Is that
+something that we have come to agreement here? Is there someone
+who disagrees with that?
+Dr. Rubin. Well, I can personally say that I haven't looked
+at the system carefully enough to make that judgment. I do
+think that we know as a computer industry how to build websites
+like this that can be more secure and meet the best practices,
+and I think that what would be necessary would be a security
+review of the system to establish whether there is a deep
+infrastructural problem with it or whether it is just----
+Mr. Rohrabacher. Okay. So you are not sure about that. The
+other witnesses would suggest that it would be better for us to
+start over with security in mind rather than trying to correct
+the problems in the current system. Is that correct?
+Mr. Kennedy. If you build a house, a foundation off of
+something that is flawed from the beginning, the foundation
+doesn't work, you know, the foundation sinks, it is crumbling,
+you can put a metal door on, you can bolt different things to
+make the house better but the foundation is still bad.
+Mr. Rohrabacher. So if we don't, Mr. Chairman, we are
+putting average American citizens, we are making them
+vulnerable to the worst godawful people in the whole world who
+are malevolent human beings who now don't have that access to
+our people. This is mind-boggling. Thank you very much, Mr.
+Chairman, for holding this hearing.
+Chairman Smith. Thank you, Mr. Rohrabacher.
+The gentlewoman from Oregon, Ms. Bonamici.
+Ms. Bonamici. Thank you very much, Mr. Chairman and Ranking
+Member, for holding this hearing, and thank you so much to our
+witnesses for participating in the hearing.
+Certainly since HealthCare.gov came on line, many of us
+have spoken with constituents who have had trouble navigating
+the site and some have expressed concerns of course about
+privacy on the site and further, I don't think there is a
+single Mmember who isn't somewhat frustrated about the problems
+that have plagued the rollout of the website and also the
+websites in some of our states. But frankly, the Affordable
+Care Act isn't about a website. I know I am not the only one
+who has spoken with just as many constituents whose biggest
+concern isn't the functioning of the website, it is the fact
+that they haven't been able to get health insurance or access
+health insurance or access health care, and in fact, right now
+they can go to get health insurance by calling or applying in
+person or by mail. The Affordable Care Act is designed to help
+these people who haven't had access to health care, and we
+should make that process as simple as possible, especially with
+regard to the website and make sure their personal information
+is protected.
+I want to point out that right now in the United States,
+about 83-1/2 percent of Americans e-file their taxes. Do you
+all e-file your taxes? Yes, do you e-file your taxes? So you
+all e-file your taxes? You are among the 83-1/2 percent?
+Mr. Wright. I am sorry. That is--no offense, but what we do
+and how we do it only gives information to let people--we can
+neither confirm nor deny, and there is a reason the
+intelligence community says that because they don't want to
+tell people----
+Ms. Bonamici. Understood.
+Mr. Wright. --the threat vector that you can attack me on.
+Ms. Bonamici. Well, I understand, but I just want to
+clarify that a lot of people e-file their taxes.
+So I want to also talk about the sort of conflation of
+electronic health records, which has been discussed here this
+morning, and certain detractors are suggesting that
+HealthCare.gov is sort of a clearinghouse that includes access
+to electronic medical records. So I want to get this from--let
+us start with Dr. Rubin. Does HealthCare.gov collect or store
+electronic medical records?
+Dr. Rubin. It is my understanding that it does not.
+Ms. Bonamici. Okay. And so let us talk a little bit about
+the Data Hub, because we have been talking about how through
+HealthCare.gov there is certain enrollment information that
+gets verified through Data Hub, so it is my understanding, and
+I would like, Dr. Rubin, confirmation of this, the Data Hub is
+not a database, it does not store information. Is that your
+understanding?
+Dr. Rubin. My understanding of what the Data Hub is, is
+that it is a queue of requests that are supposed to go out to
+different entities for information and so once a request gets
+processed, it is taken off of the queue and it is not stored.
+Ms. Bonamici. So the data is not stored. I just want to
+clarify that. It is used to verify information but not stored,
+it is not a database. It is also my understanding that it is
+not necessary to actually--consumers can still shop on the
+website without creating an account. It is my understanding
+that that was originally the case but now consumers can shop
+and look for plans and compare plans without creating an
+account first. Can somebody clarify that for me? Is that--has
+that been changed so that you do not have to--consumers do not
+have to set up an account?
+Mr. Wright. In my written testimony, one of the security
+issues was, is that they required you to give you personally
+identifiable information upfront and go through the
+registration process before you were given access to that
+information. However, a website called healthsherpa.com created
+by three gentlemen in two weeks did exactly what you were
+talking about, which should have been done is just puts in your
+age, your zip code and your sex and then you would be able to
+shop for plans based upon a range of options. But when I went
+through and started going through the process, it required you
+to, and to this day it requires you to give your information
+upfront.
+Ms. Bonamici. Okay. Well, we will clarify that.
+I wanted to ask Dr. Chang a question and also because I
+want to give you an opportunity to say ``Go ducks'' like your
+colleague said. In the lead-up to this hearing, we have heard
+the reports about the attacks on the website, the distributed
+denial-of-service attacks. So how would you describe those
+attacks, and how might they compromise the functionality of
+HealthCare.gov?
+Dr. Chang. Go Ducks.
+Ms. Bonamici. Thank you.
+Dr. Chang. In the case of denial-of-service attacks, what
+that would amount to is that it would essentially be an attack
+on availability; people couldn't access the site, they couldn't
+gain access to it and do the business they want to perform. I
+guess I would mention sort of more generally as we talk about
+the fact that the web is sort of this extremely powerful place,
+it is also sort of a dangerous place. I got some statistics out
+of 2012, and it basically talks about how 86 percent of
+websites have at least one serious vulnerability. The average
+website had 56 serious flaws. The organization only fixed 61
+percent of these, and it took an average of 193 days. I mean,
+so basically we have this powerful capability in which we can
+launch all these sort of wonderful things but the downside is
+that this power results in some danger.
+Ms. Bonamici. And my time is expired, but I want to thank
+you for your expertise, all of you for being here today. It
+seems like there is a lot of places where people put in their
+Social Security number and it doesn't--yes, we need to fix
+things but that happens in a lot of places now. I yield back.
+Thank you, Mr. Chairman.
+Chairman Smith. Thank you, and the former Chairman of the
+Committee, the gentleman from Texas, Mr. Hall, is recognized.
+Mr. Hall. I thank you, Mr. Chairman. I thank you for having
+such a capable Committee here, a group here, and I am really
+amazed as I read your backgrounds here, and I might ask Mr.
+Wright, when you were doing security work in Kansas, were you
+working under Governor Sebelius at that time?
+Mr. Wright. No, I was working under Governor John Carlin
+and then Governor Mike Hayden, who became, I think, a secretary
+of one of the agencies out here.
+Mr. Hall. And Dr. Chang, I am going to have some questions
+to ask you in just a minute because I am a little closer to
+you. I am in Rockwall there, not too far from--come and get
+more information from you if you don't tell me what I want to
+hear from you. I graduated from there in law school years ago.
+Both my sons graduated from law school there, and I am amazed
+at SMU now, and I can't believe that Dave Kennedy being the CEO
+of all those places is a hacker light, I would call him
+something pretty capable. And might as well touch on Dr. Rubin
+too. When you say Johns Hopkins University, you are going to
+expect some class testimony. So Mr. Chairman, you and Eddie
+Bernice got together a good group for us here, and I think
+there is a lot of information there that we can look to. You
+have already talked pretty much about the house with no
+foundation, and I think you doubt that it can be patched up,
+and I thank you all for your testimony.
+As we examine the security of the website, HealthCare.gov,
+or as we are finding out, the lack of security of this website
+is in its current form, would you agree that if a system is not
+only functioning--and that is my understanding from you. I
+think that was your testimony, was it not, that you have a bad
+basic for it. You have to go out and come in again, and that it
+is not functioning, and that is another thing wrong with the
+thrust of the health care that has been offered to the people.
+So Dr. Chang, would you agree that if a system is not only
+not functioning properly, that it is also not secure from
+possible breaches and other cyber attacks, does that give you
+some anxiety?
+Dr. Chang. Yeah, it would. You know, in medical ethics,
+they use this term ``do no harm.''
+Mr. Hall. Right.
+Dr. Chang. The exploit that David talked about is quite
+literally the website attacking the user. I mean, that is sort
+of the way to think about it. And you know, as others have
+mentioned, it is really critical that security get built in
+from the very beginning. If you are trying to add lines of code
+to a software program on a sort of fundamentally unsound base,
+that is not good. So I think you are hearing some agreement
+among the folks around the table that security needs to be
+built in from the very beginning, and to the extent it is not,
+then that is----
+Mr. Hall. Okay. How long do you think it would take to fix
+these problems and assure public confidence in the website?
+Dr. Chang. Pretty difficult to speculate. Maybe some of the
+other panelists--I would say it is maybe sort of a matter of
+months. I would be happy to----
+Mr. Wright. I think Donald Rumsfeld said it best when he
+talked about the levels of knowns. This is an unknown unknown.
+I mean, we don't know because there is no transparency. We have
+no information on the extent of the flaws. The information that
+is documented on the FISMA requirements in the authorization to
+operate have redacted information, so as practitioners, we
+actually are hamstrung to be able to give you our best advice
+because we don't have enough information to tell you we can
+give you a best guess but a best guess can't translate into a
+project plan in exact dollars.
+Mr. Hall. And when you can't believe the information a
+President of the United States gives you, you don't want to say
+which time was he lying. I would rather say which time was he
+not telling the truth, and I think that is where we are going
+to come up with all these things that are breaking down now,
+and I regret that we are trying to give them opportunities to
+correct a bad bill, a bad health bill, with additional
+information. Ought to kill it and start all over again and fix
+the foundation.
+Administrative officials have indicated that testing was
+performed on pieces of the website, just on pieces of it, but
+the entire website was not tested, and then how important, Dr.
+Chang, is testing prior to launching a website of this
+magnitude?
+Dr. Chang. Extremely important. As you heard from the
+others, this is what, you know, a professional website would
+do. They would do testing before, during and after. In fact, I
+am aware of one company in the private sector that conducts
+quarterly unscheduled penetration tests after the site has gone
+operational.
+Mr. Hall. Do you think three years provides sufficient
+time? Just yes or no.
+Dr. Chang. What, for testing?
+Mr. Hall. Yes.
+Dr. Chang. It seems reasonable.
+Mr. Kennedy. Sir, on the actual testing piece, you know, it
+is not a matter of testing it, you know, stopping the code,
+testing it, stopping the code, testing it. It should be built
+into the process. So the process itself continuously tests the
+security throughout the entire what we call the software
+development lifecycle, and then through there you have the
+security issues that are remediated prior to it. It doesn't
+hinder or stop any type of production, and a three year time
+period definitely should have been adequate enough to do the
+security testing to make sure that prior to any type of
+release, all those issues were vetted, and then from there you
+do what is called penetration testing or hacking into the site
+to make sure that you didn't miss anything important.
+Mr. Hall. I thank you. My time is up. I may want to inquire
+by mail to the four of you on some of these things. Thank you,
+Mr. Chairman.
+Chairman Smith. Thank you, Mr. Hall. The gentleman from
+Massachusetts, Mr. Kennedy, is recognized for his questions.
+Mr. Kennedy of Massachusetts. Thank you, Mr. Chairman. I
+want to thank the Ranking Member as well for holding the
+hearing, and thank each of our witnesses for your testimony.
+Just want to echo my colleague's comments and say from
+somebody from Massachusetts, obviously where we--coming from a
+state that has gone through some of these challenges but a
+state that now has nearly 100 percent of all adults covered--or
+excuse me, 100 percent of all children covered, 98 percent of
+all adults covered, where our rate of cost increase for the
+overall health care system is right in line with our gross
+state product, that for the risk pools for individuals and for
+small businesses is about 1.8 percent, at least current data
+for the year upcoming. Contrast that to about ten percent what
+it was a decade ago. I think that Massachusetts has proudly
+evidenced that if there is a collective will to get health
+care, meaningful health care reform bill passed and to continue
+to work on it, to continue to tweak it to make sure it works
+together, it can be successful. And to the extent that I am
+hearing from my colleagues today a new refrain of rather than
+just repeal but actually repeal and replace, I think we are
+finally actually getting somewhere. So thank you.
+With regards to the actual website itself, and
+unquestionably needs for improvement, and I want to thank the
+witnesses for highlighting some of them, I did have a couple of
+basic questions. First off, is it--Mr. Wright, is it clear that
+you can actually get estimates about how much you are going to
+pay for health insurance without having to put in any sort of
+personal identifying information?
+Mr. Wright. On the healthsherpa.com site, which has taken
+it directly from the government site, yes, but when I went
+through and tried it myself to get to the point to see how much
+information it would require, I couldn't get to that point
+without disclosing all of my information first.
+Mr. Kennedy of Massachusetts. So would it surprise you to
+know that in the past 5 minutes, I could log on to the
+HealthCare.gov website, put in an exchange, put in a county,
+put in no other identifying information other than age bracket
+for me and whether I wanted coverage for myself or my spouse
+and click through and get an estimate of various costs?
+Mr. Wright. No, it wouldn't surprise me. In fact, I am glad
+that they did it because it means that they learned from the
+gentleman who created healthsherpa.com.
+Mr. Kennedy of Massachusetts. Do you actually know who they
+learned from?
+Mr. Wright. No. That is the ones who originally did it,
+that showed that model how it should be done.
+Mr. Kennedy of Massachusetts. Okay. So----
+Mr. Wright. But I am glad that they did it.
+Mr. Kennedy of Massachusetts. Well, me too. Now, sir, your
+testimony--and I take it from the chairman that the focus of
+the testimony today in the hearing was, can Americans trust
+government with the information on the HealthCare.gov website,
+and Mr. Wright, the testimony that you offered basically broke
+it down into four categories: the end-to-end security testing,
+the user account creation and registration, the cyber squatting
+domain name confusion, and insider threat. Is that right, those
+four broad categories?
+Mr. Wright. Yes.
+Mr. Kennedy of Massachusetts. And so the end-to-end
+security testing, those were the overall basic security issues
+that we have--that many of the people on the panel and you
+yourself talked about today, that every major website or most
+major websites come under attack for cybersecurity threats. Is
+that right?
+Mr. Wright. Well, the need for end-to-end testing, yes, and
+every site is--you must assume every site is under attack.
+Mr. Kennedy of Massachusetts. Yes. Fair enough. That user
+account creation and registration, if my understanding of your
+testimony is correct is that your concern there is that it
+creates a new norm that could be exploited by other websites
+not pertaining to HealthCare.gov.
+Mr. Wright. When it was originally done and they required
+you to give you personally identifiable information upfront,
+that created a new norm that people would use then to exploit
+to say you must--this is the way we do it.
+Mr. Kennedy of Massachusetts. Because so many people are
+accessing health care and have signed up for HealthCare.gov
+that that many people has now created a new norm?
+Mr. Wright. I am not sure exactly your point.
+Mr. Kennedy of Massachusetts. Well, how do you create the
+new norm by----
+Mr. Wright. You establish the new normal by saying this is
+the way we do it. I mean, it could be one people that have
+registered or 50 but at some point if the government says the
+speed limit is now 65, that doesn't mean everybody starts
+traveling 65, but that starts becoming the new norm that you
+start enforcing against.
+Mr. Kennedy of Massachusetts. Okay. And we have see that
+proliferate across--you have seen that now proliferate across
+other websites and other domains, other user forums? If it is a
+new norm, that norm is something that now spreads, right?
+Mr. Wright. Well, if it is a new norm, what you do is,
+people who create deceptive websites, or what David was
+showing, is because you are used to doing that because it has
+been said that you do that on HealthCare.gov--.
+Mr. Kennedy of Massachusetts. Have you seen that yet, sir?
+Mr. Wright. Yeah, actually what David just showed.
+Mr. Kennedy of Massachusetts. Now, have you seen that
+spread across--if it is a norm, that becomes the norm, right?
+Have we seen that?
+Mr. Wright. I think we are probably getting into semantics,
+and I apologize, sir. I didn't mean to do that. When I said it
+starts becoming the new norm is, you start setting a standard
+and people start doing it. Everything starts out with a low
+level of adoption, then you get critical mass, and if they
+change it and they do that, you can actually prevent the fraud,
+which is a good thing, because you reestablish what the norm
+should be, not that you should give personally identifiable
+information upfront.
+Mr. Kennedy of Massachusetts. And I am just going to -- I
+know I am running close over time. Thank you for clarifying,
+sir.
+The last piece that I just want to touch on, I don't know
+if any of you--and I don't want to put anybody on the sot here
+but applications for a passport where you have to submit--or it
+asks for information including identifying information, proof
+of citizenship, proof of identity off a website. We haven't had
+any hearings based on the confidentiality or security of those
+issues. Is that--have any of you investigated other government
+website about the use of and the safety of classified--or of
+confidential material?
+Mr. Kennedy. And I can talk to that. One of the examples
+earlier was around the e-filing system. I have actually done
+security testing around the e-filing application part, and they
+have had security embedded into that at a very different type
+of level. There is actually state laws around the protection
+around what you have to do around Social Security numbers, and
+in the private sector there is what is called HIPAA around
+protecting against, you know, patient health care information.
+So there are laws and regulations around the protections of
+those, and I have done actual security testing on those in the
+past and they have done pretty well.
+Mr. Kennedy of Massachusetts. And you think HIPAA--but we
+heard a lot of concerns about confidential patient information
+and the mix-up of electronical medical records--or electronic
+medical records, HIPAA.
+Mr. Kennedy. So there is a difference between compliance
+and what we call proactive security. Compliance doesn't mean
+security in any way shape or form but what HIPAA was designed
+to do was to put protections in place around patient health
+care information, or PHI, and while that is not necessarily
+successful across 100 percent of the board, I have run into
+some outstanding medical institutions that have very good
+security to protect patient health care information and take it
+very seriously, just a matter of negligence versus folks that
+go on the proactive side to actually fix the issues that they
+identify.
+Chairman Smith. Thank you, Mr. Kennedy.
+Mr. Kennedy. Mr. Chairman, thank you for the extra time.
+Chairman Smith. The gentleman from Texas, Mr. Neugebauer.
+Mr. Neugebauer. Thank you, Mr. Chairman.
+I think we need to make sure we are clear here because even
+when people call in to HealthCare.gov, they are talking to
+individuals, but they are putting that data into the very same
+system that the web page is putting that and so basically all
+of that data is going into a central repository, and a number
+of these people that are helping put this data into the system
+are referred to as, I believe, navigators, and I think Ms.
+Sebelius stated in a recent hearing that these people do not
+undergo a federal background check, and Dr. Chang, as someone
+that was once the Director of Research at NSA, what are some of
+the risks of allowing people that have not had background
+checks run on them to have access to this kind of data?
+Dr. Chang. Yeah, so you would basically be worried about
+the issues of identity theft. I once went to a restaurant and
+gave the server my credit card. They wrote down my credit card
+and racked up some charges. So the worry would be to the extent
+that these folks that haven't had background checks--and
+honestly, I don't know how severe the backgrounds might be but
+if they haven't had background checks, who knows what they
+could do with the information. It is valuable information,
+there is a lot of it, and, you know, maybe they could do
+malevolent things.
+Mr. Neugebauer. Mr. Wright, do you want to comment on that?
+Mr. Wright. Yes, sir. I actually conducted behavior
+analysis training at the National Security Agency. We had the
+damage assessments agents in from significant espionage cases
+like Earl Edwin Pitts from the FBI, Aldridge Ames and Nicholson
+from the CIA, and one thing over and over again was, you can do
+a background check, you can give a high level of trust, and it
+still doesn't mean, as we know from Robert Hanson, for example,
+people still don't turn bad, but from my experience and
+training and when we have gone and looked at the fact that you
+don't do at least a cursory background check and eliminate the
+obvious threats from the beginning means that convicted felons,
+people with other--you would no more want a convicted felon
+than somebody with a conviction for child pornography having
+access to certain government systems. There is the SF-85-P from
+OMB establishes at least a baseline of information you can use
+to weed out candidates who should be disqualified from holding
+a position of public trust. The question is, would you define a
+navigator from a policy standpoint as a position of public
+trust, and if you do, the procedures are already in place to
+assess those backgrounds.
+Mr. Neugebauer. Mr. Wright, when I was reading your
+testimony, and I think you alluded to in your oral testimony,
+about the fact that the HealthCare.gov has over five million
+lines of code----
+Mr. Wright. Five hundred million.
+Mr. Neugebauer. Five hundred million? Yeah, it's even worse
+than stated. And that the Windows has 50 or 80 million lines of
+code, I think one of the questions that I have is also about
+security, but the American taxpayers, I think are going to pay
+like $680 million for the system, or that is what is reported.
+So the question is, you know, we have got a lot of e-commerce
+sites out there that have been in place for a very long period
+of time, why would the government choose to try to build
+something from scratch that already is pretty readily available
+out there? Is there something about the way that HealthCare.gov
+operates that is different from the rest of the world operates
+or should be different from the rest of the world?
+Mr. Wright. Yes, there is, and it is the issue of
+accountability. If you are in the private sector and you have
+shareholders and you screw up, you are gone. I mean, there is
+accountability. There is also exposure to civil litigation. I
+can tell you, I worked at Cisco for six years, great company.
+We worked with a lot of countries and places. But the legal
+ramifications of doing something wrong went up and down the
+chain of command. Here you don't have the same. The government
+has a lot of immunity from liability. It should have gone out
+to the private sector to do this because what you have done --
+my example was, can you imagine if the government put out a
+request for proposal to build Facebook, what that would look
+like. Facebook was built with 20 million lines of code and
+serves 1.2 billion people. This has 500 million lines of code
+and it has been challenged to provide the security and the
+functionality that you need. So yes, looking from the private
+sector, this actually would require a reinvention in terms of
+how you go out for proposals as opposed to an IDIQ contract,
+which this was done under. It is actually to go out and say,
+give us your best shot, we have a statement of objectives, here
+is what we would like to achieve, now innovate and build
+towards that. Your costs would have gone down. The complexity
+of the code would have gone down, that Dr. Chang talked about.
+Mr. Neugebauer. Thank you.
+Mr. Kennedy, so the complexity of this program means that
+some of the proven techniques that have been used out there in
+the private sector that have run through these security checks
+might not have been incorporated into this code and so
+basically when you have this much new code, does that increase
+the vulnerability of the system?
+Mr. Kennedy. It does significantly and if you look at
+Microsoft, everybody here has heard of Microsoft before,
+Windows, Microsoft Windows. You know, you hit the 50- to 80-
+million mark for lines of code. Microsoft still continues to
+this day to have security flaws and exposures, albeit
+significantly less because they have done formal testing. They
+have a great security program that actually looks at a lot of
+these. But in its very early stages, it was definitely one of
+the most hacked operating systems that there was out there with
+hackers basically breaching with what call zero days or
+exploits every single day. And so when you have 500 million
+lines of code, which is six times greater than the code of
+Microsoft, you have significant problems with manageability of
+code, the complexity of the code and the introduction of
+exposures that are out there as far as exploits and attackers.
+So it is very difficult to manage something like that. It is
+very difficult to fix something like that as well as even be
+able to address some of the security concerns you have in a
+short period of time.
+Mr. Neugebauer. Thank you, Mr. Chairman.
+Chairman Smith. Thank you, Mr. Neugebauer. The gentleman
+from California, Dr. Bera, is recognized.
+Mr. Bera. Thank you, Mr. Chairman. Thank you, witnesses,
+for being here.
+We never let politics get in the way of addressing health
+care, addressing getting access to care. This body never would
+let that happen. So since we are going to work together as
+Democrats and Republicans to make sure we are able to get a
+system up and running, my goal is not to defend the
+HealthCare.gov website. Obviously this was a botched rollout.
+It is to take advantage of the fact that we have some security
+experts here, to take advantage of the fact that we have got to
+fix and make this better. My colleague from Massachusetts, Mr.
+Kennedy, already identified one way that we have made this fix
+and made it better in terms of the sequencing, right? So when I
+have gone to my home state exchange, Covered California, it
+doesn't ask for any personal information. It allows me to just
+put basic information in, zip code, basic income level and then
+it gives me an estimate. It sounds like HealthCare.gov fixed
+that. That is a good thing. It makes it more secure, right?
+Everyone would agree with that?
+Dr. Chang, you mentioned that 86 percent of all websites
+have at least one vulnerability. We are not here suggesting
+that we shut down 86 percent of the internet. What we are
+suggesting is we should be vigilant and address those
+vulnerabilities and we should do everything we can to the
+extent possible to make things secure. Again, I think we all
+agree on that.
+Mr. Wright has mentioned four things. We just talked about
+sequencing. So this change in sequencing makes us better. Cyber
+squatting, domain name threats. I know in my state last week,
+the Attorney General shut down, I believe, 10 websites that
+were posing as Covered California look-alikes. We should be
+able to address that as well if we are vigilant about that. I
+would say we should just have someone looking at websites every
+day saying hey, these are fake website, let us go after them,
+let us shut them down. That is something we should be able to
+address, wouldn't you agree?
+Mr. Kennedy. I think you can definitely address a lot of
+those issues from identifying what sites are trying to
+impersonate as the website itself. There is definitely
+proactive steps you can take to minimize the risk to the
+website itself, absolutely.
+Mr. Bera. So all of you would recommend that that is
+something worth doing?
+Mr. Kennedy. Absolutely.
+Mr. Bera. So we should make that recommendation and get on
+that right away and make sure that no one is going to a fake
+website that looks like HealthCare.gov and putting information
+in. So that is a recommendation I think we can make as a
+Committee to immediately get on and it is something that should
+be done today, if in fact it is not being done.
+Mr. Wright. Dr. Bera, in fact, on the front page of the
+site, one of the things I suggest is exactly that. It would be
+nice for people to know what is an authentic account. Like when
+you get your banks, they say we will not ask for your password,
+we will not do this, just getting information like that from
+the government itself saying these are things we do and these
+are things we do not do and these are not authorized site, or
+here is the only sites that count would actually go a long way
+to preventing that fraud.
+Mr. Bera. So we could certainly make that recommendation.
+In my State of California, it is my understanding that all
+the navigators have to go through a background check, so I
+would ask the Committee to verify which states are making
+navigators go through background checks and which ones aren't.
+It is my understanding that because of the government shutdown,
+part of our challenge in California is that there is a backlog
+of navigators at the Justice Department going through the
+background checks. So that is an easy recommendation that we
+could make broadly as well, that at a minimum, the navigators
+should go through at least a basic background check. I would
+ask the Committee to verify which states are not doing
+navigator background checks versus which ones are. I don't
+think we can make a blanket statement that says navigators
+aren't going through background checks because, again, my
+understanding is that my home State of California, they are
+going through background checks. So again, easy recommendation,
+easy fix, an easy way for us to make sure that we are not
+compromising security.
+And then the more complicated one--I am not a computer
+programmer, I did hear Dr. Rubin suggest that writing more
+lines of code doesn't always make a system more secure, in
+fact, it may make a system less secure. So, what I would
+encourage all of you, as well as all of the folks in the
+security industry, is to get out there as patriotic Americans,
+we want to make sure our country is secure. I would start
+making those recommendations to the federal government and I
+would ask the Administration to be open to inviting folks in to
+come in and make those suggestions because there is a lot of
+knowledge out there. You know, again, Dr. Chang suggested there
+are lots of vulnerabilities out there, so my message to the
+Administration would be, instead of being insular, let us
+actually invite folks in, Democrats and Republicans, to look at
+this website and make sure it is secure, and with that, I will
+yield back.
+Chairman Smith. Okay. Thank you, Dr. Bera. The gentleman
+from Alabama, Mr. Brooks, is recognized.
+Mr. Brooks. Thank you, Mr. Chairman.
+I am not a computer security expert but I can read the
+words of those who are. The Science, Space, and Technology
+Committee staff prepared for Members' use a document called
+Hearing Charter, and according to our hearing charter, in order
+to use HealthCare.gov, American citizens will be asked to input
+or verify this type of information: birth and Social Security
+numbers for all family members, household salary, debt
+information, home mortgage information, credit card
+information, place of employment, previous addresses and the
+like. So when I see that, that causes me to pause. It causes me
+to have concern because that is a lot of personal information.
+I am sure that some criminal identity theft type of individual
+would consider that a dream, a wealth of information to get
+their hands on. Which brings me to the benefit of some of your
+written testimony, which of course is more extensive than your
+oral testimony, and if the Committee will bear with me, I am
+going to read from some of the written testimony that we
+received before we heard the oral testimony. ``The vast amount
+of code also means applying industry standard security
+practices is a task that can have no real chance of success at
+present.'' No real chance of success at present. ``The first
+major issue is the lack of an inability to conduct an end-to-
+end security test on the production system.'' Obamacare ``also
+creates massive opportunity for fraud, scams, deceptive trade
+practices, identity theft and more.'' Another one: ``The lack
+of effective security controls has created the conditions for
+massive fraud and hacking.'' Yet another one: ``The most
+troubling insider threat aspect would be the lack of a
+personnel policy that requires background checks for
+individuals with access to PII''--personal information--``or
+sensitive information systems.''
+During testimony November 6, 2013, Secretary Sebelius
+admitted that convicted felons could be hired as navigators and
+that no federal policy existed to require background checks. So
+we have got the insider threat. Another one: ``There are clear
+indicators that even basic security was not built into the
+HealthCare.gov website.'' Another one: ``There are systemic and
+serious concerns with the HealthCare.gov website. Based on our
+experience in large web applications such as this, there are a
+few options available in order to address the security concerns
+with the website,'' and the list just goes on and on and on.
+It seems to me that the Obamacare website is the mother
+lode for identity theft, internet fraud and other criminal
+activity. It is quite frankly frightening and outrageous that
+the White House so callously and cavalierly exposes so many
+Americans to risk of debilitating financial damage, and all of
+this brings me to my questions. If HealthCare.gov identity
+theft occurs, an American citizen is financially damaged. What
+recourse does that citizen have under Obamacare against the
+federal government for compensation for financial losses
+occurred because we American citizens use the website we were
+told to use under Obamacare? Can any of you all describe to me
+what remedies, what recourse, what compensation can a citizen
+receive from the federal government for use of the website we
+are mandated to use that results in identity theft or other
+adverse effects?
+Mr. Wright. My very quick answer is, what form do I fill
+out to get my identity back because there is no way to do that.
+You can give me a credit card, you can fix my card, but once my
+identity is taken how do I get that back. That is probably one
+of the key things that has concerned me just from a technology
+standpoint is the protection from an identity theft standpoint.
+We can fix a lot of other stuff but your identity is what makes
+you who you are.
+Mr. Brooks. Dr. Chang, do you have any compensation that a
+citizen who has been wronged can get from the government for
+use of Obamacare's website?
+Dr. Chang. I think I would just maybe respond sort of
+generally. There is this notion kind of in credit card fraud
+that you basically hold the consumers harmless. This is very
+complex. They talk about 500 million lines of code, all this
+kind of scripting and stuff. It is very complex, and to expect
+users to have any sort of deep understanding of it, you might
+say gee, it is sort of like a credit card. You kind of hold
+them harmless.
+Mr. Brooks. I have only got 30 seconds left, so I am going
+to conclude with one quick question. Given HealthCare.gov's
+security issues and assuming for the moment that you would be
+personally responsible for all damages incurred, if any, from
+your advice, would any of you advise an American citizen to use
+this website as the security issues now exist? Yes or no.
+Mr. Kennedy. No, sir, not at this time.
+Mr. Wright. Same answer.
+Dr. Chang. Same answer.
+Dr. Rubin. Yeah, I wouldn't yet.
+Dr. Brooks. So it is a unanimous no, don't use the web site
+because of the security risks?
+Dr. Rubin. I would say that the security would have to be
+studied a lot more carefully before I would agree to that.
+Mr. Kennedy. And disclosed.
+Mr. Brooks. Thank you for your insight. I hope the American
+people are listening. With that, Mr. Chairman, thank you for
+the time.
+Chairman Smith. Thank you, Mr. Brooks. You elicited a
+unanimous response on that question.
+The gentleman from California, Mr. Takano, is recognized.
+Mr. Takano. Thank you, Mr. Chairman. I am disappointed that
+the Committee is spending its time this morning adding to the
+political drama around the Affordable Care Act. There have
+already been over 40 hearings this year on the Affordable Care
+Act by House committees, 15 of those since open enrollment
+began on October 1. And now we can add the Science Committee to
+that list.
+While there certainly have been issues with the rollout of
+the website, the stories of how the Affordable Care Act is
+already helping millions of people are drowned out by the scare
+tactics used by my colleagues on the other side of the aisle. I
+have here the Republican playbook for undermining the ACA. It
+is filled with examples of how to scare constituents away from
+Obamacare. It is in the American people's best interest to
+encourage participation in the exchanges to help bring down
+premiums for everyone. But for my colleagues, it seems it is
+not about the American people winning, it is about them
+winning.
+This hearing is just another attempt to undermine the
+President's signature law and follow their playbook.
+Mr. Rohrabacher. Mr. Speaker, Mr. Chairman----
+Mr. Takano. Well, I would like to----
+Mr. Rohrabacher. Mr. Chairman, I----
+Mr. Takano. While I would like to balance the record and
+share----
+Mr. Rohrabacher. Mr. Chairman, might I ask----
+Mr. Takano. Mr. Chairman, I do not yield. I reclaim my
+time.
+Mr. Rohrabacher. I am not asking you to yield. I am asking
+the Chairman to make a decision as to whether or not what you
+just did was impugning the integrity of those who are
+disagreeing with you on this side of the aisle which is----
+Chairman Smith. Yeah, I would say the gentleman from
+California----
+Mr. Rohrabacher. --inconsistent with the rules of this
+Committee.
+Chairman Smith. I appreciate the gentleman from California
+bringing that issue up, but in the Chair's judgment, the
+accusation was general enough and not specifically addressed
+towards any individual. So I am sure the gentleman will not
+repeat it. But I would not say at this point it was out of
+order.
+Mr. Rohrabacher. Thank you very much.
+Mr. Takano. Thank you, Mr. Chairman. I would like to
+balance the record and share a bit about how the ACA is helping
+my constituents. Twenty-four percent of my constituents are
+uninsured. That is 175,000 people in my district alone. The
+Affordable Care Act will get them covered so they don't have to
+worry about going bankrupt or being unable to get care if they
+become sick. Just yesterday I heard from a constituent who lost
+her insurance when her husband became sick with Parkinson's
+disease at the age of 50. Now through Covered California, she
+and her sons are able to get robust coverage, and they are
+saving more than $600 a year.
+Yes, the federal rollout has been complicated, and yes, we
+should be sure the website is protected from attack and
+Americans' personal information is secure. The law is about
+more than the website. It is about peace of mind for millions
+of Americans who need and deserve affordable coverage.
+Now, I have seen a lot of--I am an English teacher, and I
+have seen a lot of rhetorical, a lot of red herring, rhetorical
+confusion sort of statements and testimony being made, and I
+just want to clarify something with you, Mr. Kennedy. I have--
+you were asking, responding to--excuse me. Before the hearing,
+you met with staff to discuss the vulnerability you found on
+the Data.HealthCare.gov site. In that meeting you said that you
+could not know what the architecture of Data.HealthCare.gov,
+what it was or how it was connected at the systemic level with
+HealthCare.gov. These are two separate websites.
+Now you are saying that they share an infrastructure. I am
+not sure what you mean by that, but it implies that they are
+one in the same site. Now, let me ask you a simple question.
+You could see the account information for Data.HealthCare.gov,
+a site that is not designed for consumers but for researchers
+who look at national aggregations of data on health plans. Is
+an account at Data.HealthCare.gov also an account at
+HealthCare.gov? Are they the same?
+Mr. Kennedy. There are two questions there. The first is,
+is the account the same.
+Mr. Takano. Are they the same? That is my question.
+Mr. Kennedy. They are not the same.
+Mr. Takano. Okay. Thank you. Dr. Rubin, based on what you
+were able to learn preparing for this hearing, what are the
+vulnerabilities at HealthCare.gov implicit in Mr. Kennedy's
+discovery about the data website managed by CMS?
+Dr. Rubin. It is really not clear to me. The
+Data.HealthCare.gov, I went to it and looked at it, and it is a
+different kind of a site. And I am not sure. I would need to
+study the linkage between, if there is any, the accounts on
+HealthCare.gov and the accounts on Data.HealthCare.gov.
+Mr. Takano. Okay. So Mr. Kennedy, do you believe there is
+any connection?
+Mr. Kennedy. I do. I do believe that there is significant
+connection. If you think HealthCare.gov, it is not just
+www.HealthCare.gov. Think of a house where you have a door
+which may be the entryway into it. There are things that
+support that website that pull data feeds in, and there are
+direct data feeds that get pulled in from Data.HealthCare.gov
+that are directly represented on HealthCare.gov. Information
+consists----
+Mr. Takano. But are consumers going to be going to that
+site?
+Mr. Kennedy. Not necessarily. I don't know enough about the
+infrastructure to say whether or not consumers----
+Mr. Takano. So you don't know anything about the
+infrastructure?
+Mr. Kennedy. I don't know enough about the infrastructure--
+--
+Mr. Takano. Yet, in your testimony there is an implication
+that people could draw that there is one.
+Mr. Kennedy. Well, there are over 100,000 individuals
+registered for that website. It would be indicative that it is.
+Mr. Takano. Well, I think this is kind of an example of the
+confusionous sort of testimony, a red herring to make the
+American people--to scare the American people.
+Mr. Kennedy. I would say that extracting 100,000
+individuals' email addresses----
+Mr. Takano. Again, you don't know the infrastructure.
+Chairman Smith. Mr. Takano, would you mind letting the
+witness answer one of those questions?
+Mr. Takano. Thank you. My time is up, Mr. Chairman.
+Chairman Smith. Okay.
+Mr. Wright. Mr. Chairman, could I actually add something? I
+wanted to clarify something. I just talked with your staff.
+I just went through to create an account because the
+implication was made is that they have changed it. I am
+actually here right now with an account asking me to verify my
+home mortgage, Social Security number and stuff. So in terms of
+my testimony, I just wanted to make sure to be factual is that
+it still requires me to verify and provide personally
+identifiable information, Social Security number, credit
+information before I can create an account.
+Chairman Smith. Thank you for that clarification. The
+gentleman from Utah, Mr. Stewart, is recognized for his
+questions.
+Mr. Stewart. Mr. Chairman, could I beg to defer my question
+for several and come back?
+Chairman Smith. Absolutely. We will return to you in just a
+minute. We will go to the gentleman from New York, Mr. Collins.
+Mr. Collins. Thank you, Mr. Chairman. I think it is
+probably appropriate after that give and take, I am just going
+to ask six yes/no questions. How is that? We will start with
+Mr. Wright, go down the line, and there are six of them.
+Number one, would any of you have launched HealthCare.gov,
+recommended the launch, given the factual, known status of the
+website on October 1?
+Mr. Wright. No.
+Dr. Chang. No.
+Dr. Rubin. No.
+Mr. Kennedy. No.
+Mr. Collins. Number two, would any of you have signed off
+as experts on the front-end requirement to enter personal data
+to be able to go get pricing and other information?
+Mr. Wright. No.
+Dr. Chang. No.
+Dr. Rubin. No.
+Mr. Kennedy. No.
+Mr. Collins. Do any of you today think today that the site
+is secure?
+Mr. Wright. No.
+Dr. Chang. No.
+Dr. Rubin. No.
+Mr. Kennedy. No.
+Mr. Collins. While this is a hypothetical, in your opinion
+do any of you think the site will be secure on November 30?
+Mr. Wright. No.
+Dr. Chang. No.
+Dr. Rubin. No.
+Mr. Kennedy. No.
+Mr. Collins. In your opinion, how long do you think it will
+be before the site could be secure? Just give me an estimate of
+months.
+Mr. Wright. Unknown.
+Dr. Chang. Hard to estimate.
+Dr. Rubin. I don't have enough information.
+Mr. Kennedy. A long time.
+Mr. Collins. And finally, last question. This will be a
+record, Mr. Chairman, in a five minute questioning session.
+Would you recommend today that this site be shut down until it
+is verified to be secure?
+Mr. Wright. Yes.
+Dr. Chang. Yes.
+Dr. Rubin. I would need more information.
+Mr. Kennedy. Yes.
+Mr. Collins. Thank you, gentlemen.
+Chairman Smith. Thank you, Mr. Collins. You would be a
+dangerous lawyer. The gentleman from Texas, Mr. Veasey, is
+recognized for his questions.
+Mr. Veasey. Thank you, Mr. Chairman. I wanted to
+specifically ask you about a couple of events that have been in
+the press here lately. One was a large bank, financial
+institution that had their information compromised. CitiGroup
+had an attack of about 146,000 people that had their Social
+Security numbers, their date of births and other information
+that was compromised, and there was also a large defense
+contractor that also had over 70,000 individuals that had their
+names, Social Security numbers, date of birth, blood type,
+other contact info. Can you explain how individuals are at
+greater risk of identity theft under HealthCare.gov than any of
+these other sites that I have just named?
+Mr. Kennedy. I can take that, and I appreciate your
+question there. There is no doubt that the hacking community
+and what is going on right now with technology is a great
+threat. I mean, it is happening all the time. There are attacks
+happening all over the world from different locations on
+different companies as well as government agencies.
+And so what we need to do and what we need to bring
+awareness to, and this is why we are here as experts on the
+security side, is bring awareness to what you can do to prevent
+these type of attacks from happening because they are
+preventable. You can do secure coding. You can do things that
+prevent hackers from breaking in. You can stop them in the very
+early stages of an actual attack. And these companies that
+experience these type of breaches fundamentally had flaws in
+their security program that allowed these type of exposures to
+happen. There is a lot of success stories that have happened, a
+lot of companies that haven't experienced breaches. And those
+are the companies that I think hold true to proper secure
+coding practices, proper testing and ensuring that they have
+security injected into their software development lifecycle to
+prevent these type of exposures in the meantime.
+Mr. Veasey. Dr. Rubin, I would be interested to hear what
+you have to say.
+Dr. Rubin. I mean, he was echoing my thoughts exactly----
+Mr. Veasey. Okay.
+Dr. Rubin. --that there are known practices that if they
+are followed with proper personnel and proper training and
+proper security practices and encryption and the right software
+and the right software life cycle. You can't ever make a system
+that any security professional would claim is entirely secure,
+but you can make something that should stand up to the attacks
+that we are seeing today.
+And so the sites that have been compromised, if you dig
+deep, and I have had experience and opportunity to dig deep in
+some of the sites that have been compromised, you often find
+that they either weren't vigilant enough, were running the
+wrong software or weren't following some well-known best
+practice that would have prevented the problem.
+Mr. Veasey. Have any of you, particularly because of the
+question that you just answered from the previous
+Congressperson on the dais on the Republican side, have any of
+you done a security assessment of HealthCare.gov? Because I
+mean, for you to be able to say that, no, you think that it
+should be shut down, I am assuming that you have done a
+security assessment.
+Mr. Kennedy. To answer that question, what we can see is
+indicators of security flaws, things that would be basic for an
+attacker to go after that should be addressed, even by the most
+simplistic scans or ways of detecting exposures. So to answer
+your question, I have not performed a security assessment on
+HealthCare.gov because I am not authorized to. However, based
+on using public information and information that is readily
+available, there are clear indicators that there are major
+security concerns on the website based off of what we can
+identify without actually attacking the site itself.
+Mr. Veasey. I would like for everybody to answer that one.
+Mr. Wright. Yeah, and what he is getting at, too, it is
+just the example I was talking about when the original denial
+of service attacks happened. They didn't happen right away.
+They built up until they got critical mass over a period of six
+months. The Chinese People's Liberation Army, the Mandient
+report, advance persistent threat one did this for years. You
+will not see the massive attack in the first 30 to 60 days, but
+what you have are the precursors and the indicators and in a
+sense warnings is that all the conditions are there, the
+vulnerabilities are there, the lack of an end-to-end security
+test is there which will create the condition in the future,
+just like a forest fire. It is a recipe for disaster at some
+point in the future if it is not remediated.
+Dr. Chang. Yeah, I guess I would echo what some of the
+others have based on information that seems to be publically
+available, based on the testimony of David, and just this
+general idea that I mentioned before that the web is basically
+a pretty dangerous place, and some of these precautions haven't
+been inserted is cause for concern.
+Dr. Rubin. I think that the attacks that have been
+published so far and that I have seen have all been ones that
+are easily fixable, and the ones that have been around for a
+little while have been fixed. And before I would recommend
+shutting something down, I would have to know that there was
+some inherent security problem or architectural flaw that
+necessitated that as opposed to some small superficial type
+risks that can be easily fixed. I don't want to minimize them,
+but if they can be fixed, that is better than shutting it down.
+Mr. Veasey. And to clarify the exchange that you had with
+Mr. Kennedy a little bit earlier, you talked about the HIPPA
+protocols, I just want to clarify something for everybody that
+may be watching this. HIPPA applies to medical records which
+are not stored in HealthCare.gov, is that correct?
+Dr. Rubin. That is my understanding.
+Mr. Veasey. Okay. All right. Mr. Chairman, thank you.
+Chairman Smith. Thank you, Mr. Veasey. The gentleman from
+Arizona, Mr. Schweikert is recognized for his questions.
+Mr. Schweikert. And thank you, Mr. Chairman, and to a
+couple of my fellow Members, thank you for letting me skip
+ahead. I have another appointment in a moment. I need to
+disclose, I am sort of a junior-level SQL programmer which
+makes me just dangerous enough to think I know what is going
+on. Not that I wouldn't know about any of these blogs, but
+while sitting here I went on a couple of the hacker blogs that
+I have some familiarity with. Some of them, you all know,
+because I am sure when you are hunting for public information--
+that is why I have been a little surprised at some of the
+dialogue back and forth here saying let's have sort of a
+technical discussion instead of a political one that seems to
+be coming from the other side.
+Outside of the, what is it, a DDoS type attacks, which are
+easy conceptually, mechanically, I found one whole discussion
+group talking about SQL injections. I would think that would
+have been just a junior-level thing to have avoided and tested
+for. So Mr. Wright, should I have a level of concern that just
+in sitting here in 40 minutes I was able to find a number of
+blogs talking about here is a script you might try?
+Mr. Wright. I am shocked it took you that long because it
+is out there. You look at the common vulnerability expressions,
+basically a common vulnerability database. One of the things
+you can do that is a very easy check is to check your site
+against the top 20 things that are out there and see how you
+rank against that. That is public information. The FBI does
+that. I think it is the San Francisco Field Office in concert
+with the security administrator networks. It is called SANS, I
+think, and then MITRE has that. There is stuff out there you
+can already test it again.
+Mr. Schweikert. It is an automated script. You can just
+load it in and test your----
+Mr. Wright. And you can do--there is a lot of automated
+testing. But again, to David's point, there is no authorization
+from our side to conduct that and nobody wants to run afoul of
+the law. So you can only do things that are passively or
+recognizance. You can't do anything active against the site.
+Mr. Schweikert. Dr. Chang?
+Dr. Chang. So I guess I would relate back to this idea that
+hackers will be patient. So David talked about, you know, kind
+of probes and scans. They are basically going to sort of check
+things out, try to understand if they will recognizance. They
+will, you know, press and probe. They will be patient.
+Mr. Schweikert. Dr. Rubin?
+Dr. Rubin. Yeah. I mean, I think that the sequel injection
+attacks are one of the better-known types of attacks, and they
+can easily be prevented up front. From the demonstration that
+Mr. Kennedy did, it shows that people are actively trying out
+to see if there are sequel injection vulnerabilities.
+Mr. Schweikert. Mr. Kennedy, I was going to actually go to
+something else because it is come up now I think two or three
+times in the discussion. HealthCare.gov, we should think of it
+as a portal that is reaching out and touching a number of
+different databases, and those different databases all, you
+know, most likely have also entries into those. So it is a
+connected web. And there has been some of the absurdity of some
+of the argument coming here is, well, you know, is it
+HealthCare.gov? If there is lots of ways to get into the hub,
+you will have lots of different paths of vulnerability. And I
+mean, I am trying to describe it as simply as possible. Am I
+doing okay?
+Mr. Kennedy. You are perfect. It is entirely accurate. If
+you look at what was mentioned, the data hub and the different
+sites that make up HealthCare.gov, HealthCare.gov is what we
+call the end-user experience, the user interface, the UI. That
+is when people browse and kind of view and things like that.
+But data that comes in from there comes from different areas.
+It comes from state exchanges, it comes from
+Data.HealthCare.gov. If you want to click on the live chat
+button on the bottom right, it takes you to
+Chat.HealthCare.gov. So there are different sites that make up
+what you see in your browser.
+Mr. Schweikert. And that is often the vulnerability. It
+could be over here just a discussion group that actually has
+access in and that is my path in the line of code.
+Mr. Kennedy. In fact, right before this all started, I got
+an email from an individual that had sent me basically about 14
+different exposures that they identified, and one of them was
+basically how to manipulate data that could be directly
+portrayed on the HealthCare.gov website because it pulls in
+from these different areas.
+So, to put this conceptually and easy, it hooks into IRS,
+it hooks into DHS, it hooks into Experion which is a third
+party. You have all these trusted connections. You have all
+these things that make up the site itself. But the pieces that
+actually make up www.HealthCare.gov are multiple areas.
+Mr. Schweikert. Yeah, I just need everyone to sort of
+understand that because there seems to be a misunderstanding of
+thinking it was a siloed website, and it is just the opposite.
+You know, think of it sort of as the spider web.
+In my 20 remaining seconds, we have half-a-billion lines of
+code. Market value or market pricing right now for really
+beautiful, high-end code is what, 45 bucks a line? 50?
+Mr. Kennedy. It averages and depends based on what type of
+programming language and infrastructure, but sure.
+Mr. Schweikert. And so that is where I have been trying to
+get my head around saying if just half-a-billion lines of code,
+particularly when you are reaching out and pulling in out of
+other databases and then standardizing it, does something seem
+almost absurd?
+Mr. Wright. Well, there is also another paradigm, to, that
+if it costs you $1 to fix it before you launch, it will cost
+you up to $100 to fix it after you launch.
+Mr. Schweikert. You beat me to the punch line.
+Mr. Wright. Oh, sorry about that.
+Mr. Schweikert. No, it is okay. Mr. Chairman, thank you for
+tolerance, and thank you everybody.
+Chairman Smith. Thank you, Mr. Schweikert. The gentleman
+from Illinois, Mr. Lipinski, is recognized for his questions.
+Mr. Lipinski. Thank you, Mr. Chairman. As Mr. Veasey had
+said and others have said, I think it is important enough to
+make the point again for those watching as I have been in my
+office up until now, HealthCare.gov does not store any
+personal, medical information or other information. So a hacker
+could get access to sensitive information, the hacker could not
+simply access all a person's life and medical history. I think
+it is important that we make clear that to the American people.
+You know, it should be said that also cyber security
+threats are not unique to HealthCare.gov, and I have some
+concerns that we are just focusing on the security of
+HealthCare.gov but not other potentially vulnerable systems.
+Just yesterday, for example, the Treasury Inspector General for
+Tax Administration issued a report which found the security
+configuration settings on IRS servers were not set in
+accordance with IRS policy. The report stressed that if these
+servers were accessed by unauthorized persons, they might be
+able to access large amounts of sensitive information.
+So I think that there are other things we should be looking
+at. It is easy right now to beat up on HealthCare.gov, but I
+think we should make sure we are doing our job in looking at
+all of the potential vulnerabilities in cyberspace, with cyber
+security, with government systems. But everyone would have to
+admit that the HealthCare.gov website rollout has been an
+unmitigated disaster. My personal experience with DC Health
+Link so far has not been very good, either, but I don't think--
+we are not talking about that right now.
+Apart from the obvious issues of the lack of usability of
+the website, there have been security flaws present at the time
+of the launch which would have compromised the data that people
+entered into the site as has been mentioned. The fact the
+information is not stored on the website would be cold comfort
+to anyone who had their Social Security number and other
+sensitive info stolen as it was submitted to the website. I
+never want to downplay that importance.
+In a memo on September 27, the CMS Administrator, Marilyn
+Tavenner, revealed that a contractor had not had access to all
+the security controls to test the system. The memo went on to
+say that, ``From a security perspective, the aspects of the
+systems that were not tested expose a level of uncertainty that
+can be deemed a high risk.''
+So we certainly have examples of problems with
+HealthCare.gov. We have talked about those. I have long been
+concerned about cyber security issues in general, which is why
+in the last three Congresses I have cosponsored the Cyber
+Security Enhancement Act with Congressman McCaul. This
+legislation would improve federal research and workforce
+development in the field of cyber security. I am glad that we
+have moved that here in this Congress.
+I have also sponsored several bills which would make
+necessary changes to the Affordable Care Act including one to
+delay the individual mandate unless HHS's IG was able to
+certify that the website was working by November 30. I did not
+vote for the Affordable Care Act, but I think that we owe it to
+the American people to put partisanship aside and make
+necessary changes to the Affordable Care Act when they are
+required. I have certainly stepped forward to try to do that.
+So with that long introduction, my question for the panel--
+hope you had some time to rest there--is whether a similar
+approach in some ways is needed for HealthCare.gov. So I want
+to ask, would it be helpful to have the--and this is for
+everybody. Would it be helpful to have HHS's IG certify that
+all known security issues have been dealt with and that a
+process was in place to proactively identify and address major
+security issues as they arise? Do you feel that an adequate
+process is currently in place. That is we talked a lot about
+issues here. Do we need to have a system maybe, like I said,
+HHS's IG or someone else who is looking at this and making sure
+that the processes are in place as these things are found? We
+never know for certain every single possible weakness. But
+would you think that would be helpful to help moving security
+along on this system?
+Dr. Chang. I wrote down some questions that are kind of
+along those lines. Maybe I will read them now. They might be
+useful. I think I would ask questions like how resilient is
+HealthCare.gov to a hacking attempt? What is your evidence?
+When there is a breach, how will we respond? What is our
+process for monitoring the security of HealthCare.gov? When a
+vulnerability is found, how quickly is it remediated? Are we
+taking all reasonable steps to protect the sensitive data on
+HealthCare.gov? What is the evidence?
+Mr. Wright. And to your point, it would be helpful because
+then we are dealing with a known. Now we have a report, and it
+may be is that the report would ameliorate a lot of the
+uncertainty that is out there. But on the other hand, you have
+to be prepared for the fact is that the report would identify
+the structural deficiencies that cannot go on and still allow
+the site to operate. But at any point, a knowledge base as Dr.
+Rubin was talking about would be helpful to make the proper
+assessment by experts and trusted people in the field to give
+you an idea, they, yeah, this can be fixed or no, it can't be
+fixed.
+Dr. Rubin. I think it is important to do what you are
+suggesting and to have reviews both at the high level because
+the questions that Dr. Chang was asking were high-level
+questions but as well as the low-level questions, a technical
+checklist of particularly known problems and making sure that
+all of those are addressed.
+Mr. Kennedy. I think the fundamental differences that we
+have here is there's no question that there is no security
+vulnerabilities with the website or that there are security
+issues that we know about right now with the website itself. So
+we know that there are vulnerabilities. We know that there are
+security concerns.
+So having a process in place to actually address those in a
+very quick manner is a very good process to have and ensuring
+that they get remediated in a very timely, effective manner.
+Now, the question I would pose back is it is so complex that
+introducing changes to what we call a production site or
+something that is live and running becomes extremely critical
+and very hard to do because of the working code that is behind
+it.
+So meeting those timeframes and meeting the ability to
+actually fix those issues may become more difficult to do in
+the current working environment that you have right now.
+Mr. Lipinski. Thank you.
+Chairman Smith. Thank you, Mr. Lipinski. The gentleman from
+Utah, Mr. Stewart, is recognized.
+Mr. Stewart. Thank you, Mr. Chairman. Thanks for holding
+the hearing, and to the witnesses, thanks for your service.
+Thanks for being here today.
+You know, I am just a guy. I am not a genius, but I got to
+tell you, you don't have to be a genius to listen to your
+testimony today and to be scared to death. If I were in my
+living room or home doing dishes, listening to you as you have
+testified today, I would be scared to death. Americans should
+be scared to death.
+I would like to come back to my friend, Mr. Collins, and
+his series of questions. I am not going to ask you to repeat or
+answer these questions again but just to review them for you
+and your response. Would any of you have launched
+HealthCare.gov? Unanimously, the answer was no. Would any of
+you have signed off on the front-end personal data requirement?
+Again, unanimously the answer was no. Is the site secure now?
+Once again, no. Will the site be secure on December 1? Once
+again, the answer is no, that you provided.
+I would add one more, and I would ask your response on
+that. Is it possible to know how many attacks have occurred
+against HealthCare.gov and its associated sites? Are you aware
+of any? And let me kind of frame it in this question. If you
+were a Chinese cyber terrorist, wouldn't you consider this just
+a target-rich environment?
+Mr. Wright. So sir, to that point, you can only manage what
+you can measure, and if you are incapable of measuring the
+attacks and you don't have the capacity, you won't even be
+aware that those attacks have occurred.
+So the point where they say they have only had so many
+attacks, that is based on what they know. Again, I go back to
+what Donald Rumsfeld said, you know what you know, you know
+what you don't know. What we are dealing with----
+Mr. Stewart. Sure.
+Mr. Wright. --here is we don't know what we don't know, and
+until you have a comprehensive review of the site and you
+really understand your security posture and then put the
+defense in-depth strategies in place you have absolutely no
+idea about how many attacks.
+Mr. Stewart. But there is no reason for us to be optimistic
+about the number of attacks or the vulnerabilities of this
+site, wouldn't you agree?
+Mr. Wright. I would say the number of attacks vastly
+understate the actual threat.
+Mr. Stewart. Yeah, absolutely.
+Dr. Chang. Yes, I would happen to agree. We are very early
+on in the start-up of this website. My concern would be that
+they are spending now time basically kind of, you know,
+investigating, analyzing, kind of preparing. So this is the
+prep phase.
+Mr. Stewart. Okay. Anyone else, if you have something to
+add? Okay. Let me kind of make this point then. If you were a
+federal official who had the authority and this was a private
+company and you were examining this company and saw the issues
+that you do with HealthCare.gov, and again, if you had the
+authority, would you shut that site down?
+Mr. Wright. Yes, and I will tell you what we suffered from.
+If you think of the Challenger disaster and the Apollo
+missions, people had go fever. This was going to happen on
+October 1 no matter what. No matter what risk finding you had
+and regardless of how serious it was, go fever said that we
+were going to launch on October 1. That is not the way to run a
+business.
+Mr. Stewart. Okay. Anyone else want to----
+Dr. Rubin. Sure. I agree that it is pretty bad to have a
+particular date in mind that you are going to go no matter
+what. I think that the shutting down again will require a
+review to ascertain whether there are fundamental security
+problems or kind of scratching the surface security problems
+that can be easily fixed.
+Mr. Stewart. Yeah. You know, I just think the irony isn't
+lost on people when they say the government, one of the
+responsibilities they have is to help set up processes to
+protect my personal information. And yet we have exactly the
+opposite here where not only are they not protecting them but
+they are requiring them and allowing the government to move
+forward with the program that is going to do exactly the
+opposite which then, if I could make my final point and
+question to you, what would you say to your constituents if you
+were me? What should I tell the people that I represent, the
+American people? I mean, how could I in good conscience go back
+and encourage them to participate in this program when we know
+that they are exposing themselves if they do? Can you help me
+with that? I mean, I would appreciate any advice you got on
+that.
+Mr. Wright. That is the advantage on being on this side of
+the table is I don't have to.
+Mr. Stewart. Okay.
+Mr. Wright. No, you are in a very tough--and it is very
+tough. But at some point, people intuitively know. You have to
+tell them the truth. They have to make their own decisions.
+Still, the consumer needs to be aware. Educate them, tell them
+what the risks are, and if they choose to do it, it is still a
+consumer issue. But what we are dealing with here is a lack of
+awareness, education and people really understanding what the
+risk is. If they choose to take the risk, that is their issue
+at that point. But without knowing it, it is very hard to make
+that decision.
+Mr. Stewart. Anyone else want to counsel us on that? Thank
+you. Mr. Wright, I think you hit on the key to that is all we
+can do is tell the truth, and I think that is the purpose of
+this hearing here is to help people understand what is the
+truth, what is actually happening here. And that is why I think
+this has been valuable.
+So Mr. Chairman, with that I yield back my remaining two
+seconds.
+Chairman Smith. Thank you, Mr. Stewart. Dr. Chang, I know
+you have to leave at noon. We are now a couple minutes past
+that in order to catch your flight. So thank you for being here
+today and thank you for your testimony.
+Dr. Chang. Okay. Thank you.
+Chairman Smith. Thank you. And we'll go to the gentleman
+from Oklahoma, Mr. Bridenstine, for his questions.
+Mr. Bridenstine. Thank you, Mr. Chairman. I just wanted to
+ask the panel--first of all, thank you so much for being here,
+and thank you for your service. There has been a lot of
+accusations from the other side of the room. I just wanted to
+ask the panel, did any of you guys come here because you wanted
+to scare the American people in an effort to bring down this
+law? Was that the intention of anybody on the panel?
+Mr. Kennedy. The purpose for us coming here is to explain
+what issues we identify. We are agnostic when it comes to the
+politics side. We are security researchers. We are folks that
+understand security, and our whole purpose here is to educate
+around what security concerns that we can see. I mean, I don't
+understand how you do your day-to-day jobs and how you work the
+government in every single side of the House. But I understand
+security. I understand how security works, and these things can
+definitely be fixed ahead of time. And it is not to instill
+fear at all. It is just to get the awareness out there, to get
+the information out there to help better educate and fix the
+issues that are apparent with the site.
+Mr. Bridenstine. Thank you.
+Mr. Wright. I think it was Harry Truman who said it best.
+We don't give them hell, we just tell the truth. They think it
+is hell. No, there is no R or D or I in computer codes. It is
+ones and zeros. The computer is agnostic about what it does. We
+had discussions--everybody here, we are not here to talk about
+the political issue, should it be up or down. We are saying if
+you are asking us, based on our background and experience and
+put our reputation on the line to say should we do this, it is
+about the technology. That is why, Congressman Stewart, I am
+glad we are on this side because you deal with the politics, we
+deal with the technology which sometimes is far easier than
+what you deal with. But no, the purpose coming here today is
+educate, awareness, give you our opinions. But we don't control
+those levers of power. What we do, as David said and Dr. Rubin
+says, we are here to give you our unbiased opinion what we
+think.
+Mr. Bridenstine. Dr. Rubin?
+Dr. Rubin. Yes, I agree with both of them.
+Mr. Bridenstine. Okay. Speaking of it, you mentioned the
+code, the code is non-partisan, there are 500 million lines of
+code. What is the risk? When you talk about 500 million lines,
+can you give me some comparisons and share with me what does
+that mean as far as risk?
+Mr. Kennedy. Whenever you introduce this amount of
+complexity, you introduce a significant amount of risk,
+especially from what we are understanding around the security
+testing, which was rushed out the door and not all components
+actually tested. So it is very much a critical risk from the
+lines of code that were developed, and to be honest with you, I
+have not seen--and I have worked for Fortune 10, Fortune 50,
+Fortune 100, Fortune 1000 companies as well as on the
+government side, I have not seen an application that pales in
+comparison to 500 million lines of code, including some of the
+largest applications you would ever see in the history of man.
+Mr. Wright. Just to put it in perspective, the website
+should be similar to a game of checkers. It should be that easy
+to understand. Instead, we are trying to find a chess master
+who can play 20 games of 3-D chess at the same time. That is
+the difference in the complexity of code because when you have
+two pieces of data, there's just not one possibility. There are
+actually four possibilities. There is no data, one piece, the
+other piece and then both pieces together. So when you add 500
+million lines, then you are talking do the old checkerboard
+thing, put a penny and keep doubling it until you get to the 64
+square, that is the complexity we are talking about.
+Mr. Bridenstine. So when you talk about this complexity,
+Mr. Wright, I think you are hitting on a critical component
+that it is hard for people who aren't computer programmers to
+wrap our brains around which is if you fix one piece of that
+500 million lines of code, what are the--I mean, there's got to
+be some side-effects that result from that, is that correct?
+And how does that work?
+Mr. Wright. Side-effects is a good term. Yeah, you create
+an unintended series of cascading events that you have no
+control over because you don't have a grasp of what the code is
+actually doing. And to David's point, and he can actually show
+you these vulnerabilities, you think you have changed one
+thing, by doing that you have opened up a Pandora's box of
+vulnerabilities on the other side because you could not account
+for the path, the 72 places it had to go to before it finally
+got there. It is so complex, you can't manage that.
+Mr. Kennedy. And just taking it from the functionality
+side, when you introduce a piece of code that fixes a flaw, you
+could break the functionality piece that users see on a regular
+basis, too, because again it is so complex. So you fix one, you
+break another. It doesn't necessarily mean you fixed the
+security issue. You may not be able to actually browse a site
+or visit what you intended to actually use.
+Mr. Bridenstine. Just out of curiosity, if you had to
+assess the length of time it would take even to assess the
+security risk, how long of a period of time are we talking?
+Mr. Kennedy. To look at 500 million lines of code, there is
+a process we call source code analysis where you actually look
+at the code itself. And that is going to be your most
+comprehensive way of looking at the actual exposures.
+And then you have what is called dynamic testing which is
+on top of it to look at the live running sites. So you marry
+those two together to perform kind of a holistic approach to
+looking at the overall security around the site itself. Five
+hundred million lines of code? I would say to do it properly
+would probably take about six months or so just to do the
+review cycle of it.
+Mr. Bridenstine. And then after that you would have to do
+the fixes to secure it. How much longer would that take?
+Mr. Kennedy. And that is the problem. So in my written
+testimony, I gave three different options for recommendations
+on how to actually address the concerns with this because if
+you look at it then, let's just say that 20 percent of the code
+needs to be rewritten based on the exposures that are
+identified. If you introduce 20 percent new code into a running
+website that is up there right now, you are absolutely going to
+have some major systemic issues with the stability of the site
+as well as introducing new exposures to it.
+So the first recommendation was to rebuild it in a sense of
+kind of like a version 2.0 which incorporates all of these
+changes or is rewritten from scratch to really kind of address
+it.
+The second option was shutting down the site itself, making
+the changes and putting it back up after you've addressed
+those.
+The third option was basically letting the website run and
+introducing new code into that environment which would
+obviously create stability concerns.
+Each one of those has different links and times. If you do
+a version 2.0, based on the knowledge you already have with how
+to integrate into the already-running state exchanges, that
+would probably take six months to develop a new site that would
+be operational. The three folks that built it in two weeks are
+definitely a testament, but to do a fully production instance I
+think would take about six months. To shut it down, to actually
+shut it down and recode would probably take four to six months
+to get the critical concerns out of the way to at least get it
+back up and running an stable.
+The portion around keeping it stable or keeping it up and
+running while introducing it could take years.
+Mr. Bridenstine. Mr. Chairman, I yield back.
+Chairman Smith. Thank you, Mr. Bridenstine. The gentleman
+from Texas, Mr. Weber, is recognized.
+Mr. Weber. Thank you, Mr. Chairman. Have any of you all
+assessed on a scale of one to ten the cost of this website with
+the volume of stores, the interaction, the cost per
+participant? In other words, you are going to have--I forget. I
+think they have said 100-something thousand had been on there,
+whatever it is, but versus private industry. From your
+knowledge about those websites and how they have been created
+and produced, on a scale of one to ten, ten being the most
+efficient bang for the buck, what would you give this? We will
+start with Mr. Wright.
+Mr. Wright. Back-of-a-napkin calculation, I mean, it is got
+to be somewhere around a two. Your average cost per user is
+significantly high because you have got few users and you have
+got a lot of money in it.
+Mr. Weber. Right. Got you.
+Dr. Rubin. I haven't had that data to perform a cost
+analysis.
+Mr. Weber. Okay.
+Mr. Kennedy. When you look at the website the
+infrastructure supported, I believe there was a statistic that
+came out that they could handle 600 users per second on the
+site during registration process. So if you look at that
+infrastructure, you look at the amount of money that was spent
+on this, and it was in excess of I believe $600 million? Is
+that correct?
+Mr. Weber. That is huge. Yes.
+Mr. Kennedy. I would give this a one as far as operational
+efficiency and the type of money that was spent on it.
+Mr. Weber. All right. Thank you. And my second--we are
+going to talk projected costs going forward because if it so
+expensive to maintain this thing and they can't hire the right
+people, then Americans' security is going to be at risk.
+So going forward, if there was going to be a maintenance
+contract on maintaining this thing, which I am assuming there
+is, you are going to have to have personnel that are doing
+that. Now, my colleague form Utah said this would be a great
+vulnerability for Chinese cyber terrorists was the word he
+used. But I would submit that there might be some Edward
+Snowdens. They don't have to be in China.
+From what you know, is that system available to disallow
+something like that happening where somebody inside could walk
+out with just tons of information? Yes or no.
+Mr. Wright. Based on what we know, no. Or at least what I
+know.
+Mr. Weber. Right.
+Dr. Rubin. I don't have enough information again about how
+the system is architected to answer that.
+Mr. Weber. Okay.
+Mr. Kennedy. And I don't have enough information on the
+back-end process for that, but it is my understanding no.
+Mr. Weber. I got you. What I wanted to is guarantee a
+platform, but that couldn't happen. So let's go back now. We
+ranked the efficiency on the dollar, but how about on a
+security scale? I think I am going to know this answer, one to
+ten, ten being the most secure, you have got to give this
+abysmal ratings, right?
+Mr. Wright. Based on what we previously said that we would
+not allow it to go. It would have to be a zero.
+Mr. Weber. Absolutely, has to be--okay. Go ahead.
+Dr. Rubin. So I think we have seen a bunch of security
+problems that were easily fixed, and a deeper dive is necessary
+in order to determine where we are on that scale of one to ten.
+Mr. Weber. But versus what you know about the private
+industry----
+Dr. Rubin. There is no doubt that compared to a private
+system that goes live, this system has more problems than you
+would expect to see.
+Mr. Weber. Well, I don't know that that is accurate because
+this is the federal government. We expect a lot of problems.
+And then finally, Mr. Henry Chao I guess is how you say
+that, the Chief Information Officer for the CMS, said that the
+site was no problem. He would recommend it to his sister. I
+don't know, you all probably didn't read that. It is in our
+notes. So I guess this question is for Mr. Kennedy. You are the
+hacker. How long do you think it would take you to get his
+sister's information or do you already have it?
+Mr. Kennedy. I am not going to confirm that second one, but
+no.
+Mr. Weber. Okay.
+Mr. Kennedy. No, I do not have any type of public
+information. But you know, confidently I would say, and this is
+being very generous, I would say within a day to two days.
+Mr. Weber. One to two days you could go in and hack the
+site based on the platform that is there now, which is not
+guaranteeing zero or one level of security, if that is even----
+Mr. Kennedy. Yes, sir, and that is just understanding the
+amount of time it takes to understand an application is where
+the bulk of the one to two days comes in. It is just
+understanding how the infrastructure works, being able to start
+to kind of probe it a bit. It would take about a day or so. I
+could probably, you know--to be honest with you, it would
+probably take a few hours, but I am giving myself two days.
+Mr. Weber. All right. That is great. I mean, that is good
+news and bad news. It is bad news what you are saying it could
+be done, but it is good news is the American public is going to
+know this. So once you learn that system and get into it, then
+you can hack anybody's information really quickly.
+Mr. Kennedy. That is correct. Yes, sir.
+Mr. Weber. Makes me feel more secure.
+Mr. Wright. And sir, I think the biggest danger, too, is
+everybody keeps talking about the data hub. But what concerns
+me about the data hub is it operates as a trusted broker. In
+other words, all these other systems trust the data hub to say
+the transaction is authenticated, it is trustworthy. If that is
+not the case, you have just unintentionally done it similar to
+a Donnie Brasco, introduce somebody in that everybody trusts
+because of the introduction, not because it is actually
+trustworthy.
+Mr. Weber. So not only do we have politicians saying trust
+me, I am from the federal government, now we have computers
+saying it.
+Mr. Wright. Essentially yes. I mean, there's a certain
+level of trust that comes from the data hub.
+Mr. Weber. Mr. Chairman, I yield back.
+Chairman Smith. Thank you, Mr. Weber. The gentleman from
+Indiana, Mr. Bucshon, is recognized.
+Mr. Bucshon. Thank you, Mr. Chairman. First of all, I am a
+medical doctor, I was, before coming to Congress, and I want to
+briefly comment on some of the comments that were made about
+personal health information and whether that is profitable or
+not profitable, and I would ask the question would anyone in
+this room want to let everyone in this room know all their
+personal medical information? And I would say that the answer
+to that is no because it is personal. This is about people.
+This is not about profit on medical information.
+Let me give you an example. When you ask people to direct
+donate blood, for example. Say someone is having surgery and
+their family members want to donate blood. Actually
+statistically, the blood from the regular pool is safer than
+having your family donate blood for you. Why is that? The
+reason is is because you don't know what all kinds of health
+problems that your family members have had because they haven't
+told you. And so I would argue this is a personal privacy
+issue, and if there's any chance that people's medical
+information can get out there based on a government website, it
+is not correct.
+The other thing I would like to say is quickly, and then I
+will have a question, is just because other websites of the
+federal government or in the private sector have problems
+doesn't justify this website having problems. I have heard that
+here today, too. Well, this website has been breached and this
+private sector has given up information. That doesn't matter.
+We are not talking about that. We are talking about this
+website, and it doesn't justify failures of this website.
+So with that said, on September 3, 2013, a memo signed by
+the Chief Information Officer, there were at least two open
+high findings for the federally facilitated marketplace, the
+Federal exchanges. The first high finding, although
+substantially redacted, indicates that the threat and risk
+potential is limitless. It indicates corrective action must be
+taken by May 31, 2014. And information on the second high
+finding is completely redacted. It indicates that due date for
+corrective action is February 26, 2015. I think we have
+mentioned that before.
+As cyber security experts, based on these findings, would
+anyone recommend that the federally facilitated marketplace,
+the Federal exchanges, be made publically available?
+Mr. Wright. Yes, sir. That is exactly the same memo I
+referenced earlier, and when the phrase is said the threat and
+risk potential is limitless, I don't know how you accept risk
+based on the fact as you can't quantify the risk.
+Mr. Kennedy. To also address that situation, in the private
+sector, those type of exposures are what we call showstoppers,
+things that would not allow the website to be put into
+production until they actually were remediated, and that would
+be especially ones that never heard the term limitless before
+which would mean that basically access to everything and
+everything that would be part of that infrastructure would be
+my guess. You would not put that into any type of production
+environment or go live with it in any way.
+Mr. Bucshon. Mr. Chairman, if this hasn't been introduced
+in the record--I can't remember if Mr. Wright did that--I would
+like unanimous consent to introduce the memo from CMS into the
+record.
+Chairman Smith. Okay. Without objection, it'll be made a
+part of the record.
+[The information appears in Appendix II]
+Mr. Wright. And if I could add one more point in
+clarification, too, the difference in the private sector versus
+the government is that, gain, it goes back to liability,
+shareholder lawsuits. If a memo like this came out in
+litigation, you would find the firm facing financial ruin
+basically because they knew, they knew they shouldn't have done
+it and they did it anyway. And that is the basis for company
+killing litigation.
+Mr. Bucshon. Dr. Rubin, at this point, could you recommend,
+based on the fact we don't know what the redacted information
+is but that there was a high finding, would you recommend
+opening these up to the public at this point? I think it is a
+similar question that has been asked before about the website.
+But this is specifically related to the exchanges.
+Dr. Rubin. Yeah, I mean before I would answer that
+question, I would want to see the details, the technical
+details of what the problems really are.
+Dr. Bucshon. It is my point these are redacted and not
+publically available, and that is an issue because outside
+people can't assess what the threat is because we have redacted
+information. And maybe since they have released this, they have
+made it public, but I don't think that is the case.
+Mr. Kennedy, is it common--would anyone out there launch a
+website with these types of warnings before corrective action
+is completed? I mean, anybody out there? I mean, would it be
+prudent to do that?
+Mr. Kennedy. I come from very much a programming
+background, one that works with organizations on developing
+software for life cycles and building applications that are
+large like this.
+So what I can say is that it depends on the risk of the
+organization and what they are able to accept. Based off of
+what we have seen and the information that is been publically
+available, I would not know of a company that would release a
+site like this with the functionality and security concerns
+that there were ahead of time.
+Mr. Bucshon. So it would be important for the public to
+know what the concerns were and then you could make a better
+assessment?
+Mr. Kennedy. Absolutely.
+Mr. Bucshon. That is what you are saying? I think that is
+what Dr. Rubin has said also.
+Dr. Rubin. Yeah, I agree. I am sorry. I agree. I think that
+the public should know what the concerns were.
+Mr. Bucshon. Okay.
+Mr. Wright. And just to add one point, sir, a final thing.
+When they establish the advanced encryption standard which
+became the basis for our encryption, that math, those
+algorithms were in the public. They were in the public domain.
+People got to view those, and to this day you can look at all
+the people who submitted things. Bruce Shneer submitted I think
+it was called ``Two Fish.'' You have got the AES. The math is
+public. It was subject to peer review, and if there was any
+issues, it would have been exposed. And that is really--
+sunlight is the best thing when you are looking at remediating
+security problems. Expose it, let it be shown and let the
+people weigh in on it who've got the expertise. You will find
+people will crowd source and help you solve the problem.
+Mr. Bucshon. Thank you, Mr. Chairman. I yield back.
+Chairman Smith. Thank you, Dr. Bucshon. The gentlewoman
+from Wyoming, Ms. Lummis, is recognized for her questions.
+Mrs. Lummis. Thank you, Mr. Chairman. Mr. Kennedy, in a
+recent article by Fox News you were quoted as saying if I was
+allowed to attack the website by myself and I had approval to
+go and do it, it would be very simple for me to break into it,
+steal all the information that is in the database, including
+all of your personal information that you use to register for
+those sites, Social Security numbers, everything like that,
+basically that is what you were saying to one of the previous
+Members who was talking about Mr. Chao's sister. You mentioned
+that you'd like to have two days to get in to access her
+information.
+We have also learned today that these systems are
+integrated, that they are talking back and forth, that there's
+integration between HealthCare.gov and the IRS website and
+Homeland Security and others. Would you be able to get into
+HealthCare.gov and then use it to get into the IRS website?
+Mr. Kennedy. Without knowing enough about the
+infrastructure behind it, I can't say yes or no. However, what
+I can say is that as attackers and as hackers break into
+infrastructure, they usually use a conduit, a website, to use a
+trusted connection back to other infrastructure to gain access
+to that back end.
+So without understanding infrastructure, I can't say yes,
+100 percent. But based on the information that we know, you can
+look at the privacy policy on the website itself, it shows who
+it actually interacts with and the type of information it
+sends. If you look at that, it is pretty indicative that you
+could, you know, use that HealthCare.gov as a leaping point and
+kind of a back door into the other agencies, other Federal
+portions of government, like the IRS or DHS. And again, I can't
+say without certainty but it is definitely a common technique
+that a hacker would use to do it. It is called what we call,
+you know, pivoting and further attacking into the
+infrastructure.
+Mrs. Lummis. And gentlemen, based on that information,
+would you have recommended that HealthCare.gov be walled off
+from other federal government databases that have very
+sensitive information?
+Dr. Rubin. Let me address your first question, and then
+I'll address the second question. First, just one
+clarification, that is it is not the IRS website. It is a back-
+end database of the IRS that is being accessed. And the way the
+data is being accessed is through this hub where requests are
+being sent. And so if the site were designed with proper
+security, with good security practices and principles, there
+would be a very, very limited interfaced between HealthCare.gov
+and the IRS where the IRS's database responses would be very
+limited in their nature. They could only answer certain queries
+to answer eligibility questions. If the site were designed very
+poorly and the interface was designed poorly, then I think that
+could be open. I don't know what kind of design they use, but
+in my written testimony I talked about focusing on those
+interfaces, keeping them very simple and very basic and using
+the hub simply to query those back-end databases at these other
+sites and get the responses back.
+Mrs. Lummis. Mr. Wright?
+Mr. Wright. I think one of the challenges--and this is why
+I went back and confirmed after Congressman Kennedy said that--
+is that you still have to provide this information up front. So
+part of the issue you can get to make the site more secure and
+make it function better is to not put all this overhead on the
+initial transaction because the closer you are to the
+presentation layer to where the user is actually interfacing
+with it means it is easier to get that information to your
+point, not necessarily walled off and playing off what Dr.
+Rubin said, but I would like to push that kind of transaction
+back farther to where I can maintain better security. My
+security perimeter gets smaller. I can defend against things
+better. As opposed to the Great Wall of China, we are trying to
+secure the great fence of China, and instead what I want to do
+is have a smaller, tighter core that I can defend against and
+have that data hub, and those types of transactions happen in a
+smaller, confined area. You can't wall it off because it still
+has to interface, but you can reduce the risk and the threats
+by reducing the amount of waste and the places that to David's
+point an attacker can come in because they will do that. They
+will come in and they will use the same methodologies, the same
+seven-stage terrorism planning cycle that is in the traditional
+world is also used in cyber terrorism.
+Mrs. Lummis. Well, we do know that there are countries that
+hire hackers, governments that hire hackers that attempt to
+hack into information in the United States all the time, and we
+know that some of those government-hired hackers hack for their
+government by day and they hack for hire by night. And so there
+are mercenary hackers out there that will hack for money.
+Mr. Kennedy, are there vulnerabilities that you've not
+identified publically out of fear that the consequences are so
+exploitable that it would be like telling a criminal where you
+hide the spare key to your house?
+Mr. Kennedy. Yes, there is. There are exposures that I have
+identified that are not public.
+Mrs. Lummis. Have you identified them to someone who can
+use them to plug those holes?
+Mr. Kennedy. Yes, I have. Any time that I discover an
+exposure or criticality, it is sent to the appropriate people
+to get addressed and fixed. That is where we come in from the
+responsible disclosure side of doing the right thing.
+Mrs. Lummis. Gentlemen, I really thank you for your
+expertise and your presence here today. Mr. Chairman, I yield
+back.
+Chairman Smith. Thank you, Mrs. Lummis. I would like to
+thank our witnesses today for being here and helping us better
+understand the many privacy and security concerns that have
+been voiced concerning HealthCare.gov. Unfortunately, the
+personal information that has already been entered into
+HealthCare.gov is vulnerable to online criminals and identity
+thieves. This security flaw endangers a large number of
+Americans who already have used the website. President Obama
+has a responsibility to ensure that the personal and financial
+data collected as part of Obamacare is secure. It is clear this
+is not the case.
+There is only one reasonable course of action. Mr.
+President, take down this website.
+That concludes our hearing, and thank you again for
+testifying and we stand adjourned.
+Mr. Wright. Thank you.
+[Whereupon, at 12:35 p.m., the Committee was adjourned.]
+
+Appendix I
+
+----------
+
+Answers to Post-Hearing Questions
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Appendix II
+
+----------
+
+Additional Material for the Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+[all]
+

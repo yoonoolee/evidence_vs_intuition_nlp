@@ -1,0 +1,1690 @@
+- EXPOSURE NOTIFICATION AND CONTACT TRACING: HOW AI HELPS LOCALITIES REOPEN SAFELY AND RESEARCHERS FIND A CURE
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+EXPOSURE NOTIFICATION AND CONTACT
+
+TRACING: HOW AI HELPS LOCALITIES REOPEN
+
+SAFELY AND RESEARCHERS FIND A CURE
+
+=======================================================================
+
+VIRTUAL HEARING
+
+BEFORE THE
+
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+OF THE
+
+COMMITTEE ON FINANCIAL SERVICES
+
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SIXTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+JULY 8, 2020
+
+__________
+
+Printed for the use of the Committee on Financial Services
+
+Serial No. 116-101
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+43-194 PDF              WASHINGTON : 2021
+
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+MAXINE WATERS, California, Chairwoman
+
+CAROLYN B. MALONEY, New York         PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York             Ranking Member
+BRAD SHERMAN, California             ANN WAGNER, Missouri
+GREGORY W. MEEKS, New York           FRANK D. LUCAS, Oklahoma
+WM. LACY CLAY, Missouri              BILL POSEY, Florida
+DAVID SCOTT, Georgia                 BLAINE LUETKEMEYER, Missouri
+AL GREEN, Texas                      BILL HUIZENGA, Michigan
+EMANUEL CLEAVER, Missouri            SEAN P. DUFFY, Wisconsin
+ED PERLMUTTER, Colorado              STEVE STIVERS, Ohio
+JIM A. HIMES, Connecticut            ANDY BARR, Kentucky
+BILL FOSTER, Illinois                SCOTT TIPTON, Colorado
+JOYCE BEATTY, Ohio                   ROGER WILLIAMS, Texas
+DENNY HECK, Washington               FRENCH HILL, Arkansas
+JUAN VARGAS, California              TOM EMMER, Minnesota
+JOSH GOTTHEIMER, New Jersey          LEE M. ZELDIN, New York
+VICENTE GONZALEZ, Texas              BARRY LOUDERMILK, Georgia
+AL LAWSON, Florida                   ALEXANDER X. MOONEY, West Virginia
+MICHAEL SAN NICOLAS, Guam            WARREN DAVIDSON, Ohio
+RASHIDA TLAIB, Michigan              TED BUDD, North Carolina
+KATIE PORTER, California             DAVID KUSTOFF, Tennessee
+CINDY AXNE, Iowa                     TREY HOLLINGSWORTH, Indiana
+SEAN CASTEN, Illinois                ANTHONY GONZALEZ, Ohio
+AYANNA PRESSLEY, Massachusetts       JOHN ROSE, Tennessee
+BEN McADAMS, Utah                    BRYAN STEIL, Wisconsin
+ALEXANDRIA OCASIO-CORTEZ, New York   LANCE GOODEN, Texas
+JENNIFER WEXTON, Virginia            DENVER RIGGLEMAN, Virginia
+STEPHEN F. LYNCH, Massachusetts      WILLIAM TIMMONS, South Carolina
+TULSI GABBARD, Hawaii                VAN TAYLOR, Texas
+ALMA ADAMS, North Carolina
+MADELEINE DEAN, Pennsylvania
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+DEAN PHILLIPS, Minnesota
+
+Charla Ouertatani, Staff Director
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+BILL FOSTER, Illinois, Chairman
+
+EMANUEL CLEAVER, Missouri            BARRY LOUDERMILK, Georgia, Ranking
+KATIE PORTER, California                 Member
+SEAN CASTEN, Illinois                TED BUDD, North Carolina
+ALMA ADAMS, North Carolina           TREY HOLLINGSWORTH, Indiana
+SYLVIA GARCIA, Texas                 DENVER RIGGLEMAN, Virginia
+DEAN PHILLIPS, Minnesota             VAN TAYLOR, Texas
+ANTHONY GONZALEZ, Ohio
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on:
+July 8, 2020.................................................     1
+Appendix:
+July 8, 2020.................................................    29
+
+WITNESSES
+Wednesday, July 8, 2020
+
+Kuppalli, Krutika, Infectious Diseases and Global Health
+Physician......................................................     7
+McClendon, Brian, CEO, CVKey Project.............................     5
+Perry, Andre M., Fellow, Metropolitan Policy Program, the
+Brookings Institution..........................................     8
+Raskar, Ramesh, Associate Professor, MIT, and Founder and Chief
+Scientist, PathCheck Foundation................................    10
+
+APPENDIX
+
+Prepared statements:
+Kuppalli, Krutika............................................    30
+McClendon, Brian.............................................    49
+Perry, Andre M...............................................    53
+Raskar, Ramesh...............................................    61
+
+EXPOSURE NOTIFICATION AND
+
+CONTACT TRACING: HOW AI
+
+HELPS LOCALITIES REOPEN
+
+SAFELY AND RESEARCHERS
+
+FIND A CURE
+
+----------
+
+Wednesday, July 8, 2020
+
+U.S. House of Representatives,
+Task Force on Artificial Intelligence,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 12 p.m., via
+Webex, Hon. Bill Foster [chairman of the task force] presiding.
+Members present: Representatives Foster, Porter, Casten,
+Adams, Garcia of Texas; Loudermilk, Budd, Hollingsworth,
+Taylor, and Gonzalez of Ohio.
+Ex officio present: Representative Waters.
+Also present: Representative Himes.
+Chairman Foster. The Task Force on Artificial Intelligence
+will now come to order. Without objection, the Chair is
+authorized to declare a recess of the task force at any time.
+Also, without objection, members of the full Financial
+Services Committee who are not members of this task force are
+authorized to participate in today's hearing.
+Members are reminded to keep their video function on at all
+times, even when they are not being recognized by the Chair.
+Members are also responsible for muting and unmuting
+themselves, and for muting themselves after they have finished
+speaking.
+Consistent with regulations accompanying H. Res 965, staff
+will only mute members and witnesses as appropriate when not
+being recognized by the Chair to avoid inadvertent background
+noise. Also, all House Rules related to order and decorum apply
+to this remote hearing.
+Today's hearing is entitled, ``Exposure Notification and
+Contact Tracing: How AI Helps Localities Reopen Safely and
+Researchers Find a Cure.''
+I will now recognize myself for 4 minutes to give an
+opening statement.
+Good morning. Today's hearing will focus on the essential
+tradeoff incumbent upon us to make between life, liberty,
+privacy, and the pursuit of happiness. And the role that
+technology, financial transaction data, contact tracing apps,
+and artificial intelligence, in particular, may be able to play
+to improve that essential tradeoff. And there will be a
+tradeoff.
+Americans have come to see privacy as an essential part of
+liberty, and the tradeoffs between privacy and State interests
+are something that we struggle with continually on the
+Financial Services Committee. If one's only concern were life
+and the pursuit of happiness, and crushing the COVID-19 virus
+as quickly as possible, one can imagine setting up a dystopian
+surveillance state where every credit card purchase, every web
+search query, and the exact locations of every cell phone were
+continuously monitored, and where AI-powered facial recognition
+cameras would record one's every move, and not only when you
+are buying groceries at Whole Foods, but everywhere you went.
+This would be an epidemiologist's dream and would likely
+allow whatever country implemented that to very rapidly crush
+the coronavirus pandemic. Whenever someone tested positive,
+their credit card purchases, their cell phone data, all of
+their financial data, and other data would be immediately
+analyzed. And, in fact, some press reports indicate that Korea,
+an otherwise apparently free country, finds credit card data to
+be a key component in effective contact tracing.
+This aggressive approach would allow for faster scientific
+understanding of the spreading mechanisms as well. AI learning
+algorithms might rapidly learn that you are, for example, much
+more likely to spread the disease if you happen to buy three
+beers at the bar than if you bought only one. And cell phone
+location data would indicate to whom you were likely to have
+spread it. Such an AI-enabled pandemic surveillance state would
+correctly identify in real-time, for example, that
+superspreader individuals almost never wore masks in public.
+And that churches and sports events were especially dangerous
+places to congregate. But a surveillance state like that would
+automatically warn Black Lives Matter protesters to disburse,
+and there are a huge number of worries along those lines.
+And this is not science fiction. It is essentially the same
+technology that has protesters in Hong Kong fighting for their
+liberty. Such surveillance societies might well save lives and
+maximize life, and arguably, even part of the pursuit of
+happiness, and perhaps it would even maximize economic liberty
+by opening our economy sooner, but this would come at a
+tremendous cost to individual privacy and liberty.
+The tradeoffs that we make responding to COVID-19 have real
+financial and economic impacts. A recent study by Goldman Sachs
+quantified the tradeoff between mandatory masking policies,
+which are unquestionably an infringement on personal liberty,
+and economic growth. They found, unsurprisingly to scientists,
+that mandatory masking policies have a negative impact on the
+spread of COVID-19 but a positive impact on economic growth.
+This allowed countries with mandatory masking policies to
+reopen their economies sooner, while maintaining acceptable
+COVID-19 infection rates, thereby successfully, in that case,
+trading off the loss of liberty for mandatory masking for an
+increase in economic liberty from early reopening of their
+retail economy.
+Contact tracing apps together with back-end AI that
+combines the raw data from cell phone tracking in various forms
+with other data sources, including financial data that COVID-
+positive patients might opt into on a voluntary basis, has the
+potential to capture some of the health and economic benefits
+of much more intrusive [inaudible] Privacy for those who opt
+in.
+At this hearing, we have expert practitioners experienced
+in the development of privacy-preserving contact tracing
+software in real-life tracing in pandemic situations and
+reducing discrimination in technology.
+So, I look forward to hearing from our witnesses, and I now
+recognize the ranking member of the subcommittee, Mr.
+Loudermilk, for 5 minutes.
+Mr. Loudermilk. Thank you, Mr. Chairman. And a special
+thank you to our witnesses for being part of this hearing
+today.
+Today, we will discuss how local, State, and Federal
+Governments, as well as businesses, schools, and other
+organizations can take advantage of modern technology to help
+[inaudible] Technology could be useful is in contact tracing.
+The manual method of contact tracing involves public health
+officials speaking with individuals who have the virus to
+identify people with whom they had close contact during the
+time they have been infectious, notifying those people of their
+exposure and referring them for testing.
+In a nation with about 330 million people, it is difficult
+to do manual contact tracing on a mass scale. However, there
+are encouraging technologies that can enable contact tracing to
+be done with smartphones, including Bluetooth or other location
+data to track peoples' movements and match them to the
+movements of others who have been exposed to the virus.
+In order for digital contact tracing to work, it must have
+strong participation from citizens. Experts estimate that 40 to
+60 percent of the population in a given area would need to
+participate in a contact tracing system for it to be effective.
+This means in the United States, where participation and
+contact tracing is voluntary, and should be, and is handled
+primarily by State and local public health officials, citizens
+will need to trust the apps that they are using and feel
+confident their privacy will not be violated.
+In order to have that trust, it is critical that citizens
+understand what data will be collected, who will have access to
+the data, and how the data will be used. [inaudible] For
+digital contact tracing have been low in the United States and
+in other parts of the world. Recent polling indicates that
+about two-thirds of Americans would not trust a contact tracing
+app developed by a Big Tech company or the Federal Government.
+And in some European countries where their federal government
+has released a contact tracing app, less than 3 percent of the
+population is using the app.
+Some authoritarian countries, like China, have increased
+participation by making contact tracing apps mandatory and have
+used digital payments and social media platforms to track
+citizens' movements. Needless to say, that will not and should
+not happen in the United States.
+Given that privacy will be paramount, a major limiting
+factor in our ability to implement nationwide digital contact
+tracing is that we do not have a Federal consumer data privacy
+law, nor do we have a national data security and breach
+notification standard. Contact tracing is operating under a
+patchwork of State laws, and the circumstances we are dealing
+with today only increase the need for a national standard.
+Committee Republicans have been working diligently to
+develop a consumer data privacy proposal without a national
+consumer data privacy protection law. This issue is best left
+up to the States. Another limiting factor is that the accuracy
+of digital contact tracing apps has been questionable and could
+result in false positives or false negatives.
+The CDC stated in its guidelines that more data is needed
+to assess the true public health value of digital contact
+tracing. Criminals have also been posing as contact tracers to
+ask consumers to share their Social Security numbers or bank
+account numbers, which can subject consumers to fraud and
+further reduce the public's trust in contact tracing.
+Another challenge is that low-income and homeless
+individuals who have been disproportionately affected by the
+virus often do not have a smartphone, which limits the
+effectiveness of digital contact tracing in those populations.
+While these are important topics to address, they generally are
+not Financial Services Committee issues. It is best to have the
+appropriate committee address them, and the Energy and Commerce
+Committee will have a hearing on some of these issues tomorrow.
+I look forward to hearing from our witnesses, and I yield
+back.
+Chairman Foster. Thank you. The Chair will now recognize
+the Chair of the Full Committee, Chairwoman Waters.
+Chairwoman Waters. Thank you very much, Chairman Foster. I
+thank you for holding this hearing. Containing and preventing
+the further spread of the coronavirus is essential to
+protecting our economy.
+While last week's employment figures demonstrated a slight
+rebound, the number of coronavirus cases is sharply increasing,
+and State reopenings have halted or reversed. Contact tracing
+and limiting the period of the coronavirus is critical for all
+aspects of our economy, including financial institutions that
+may bring workers back to the workplace.
+I look forward to hearing our expert panel discuss how
+artificial intelligence and other technologies can be used in
+an inclusive manner to help contain the coronavirus, and
+ultimately, keep people safe.
+I want to thank you, and I yield back the balance of my
+time.
+Chairman Foster. Thank you.
+Today, we welcome the testimony of, first, Brian McClendon,
+the CEO and co-founder of the CVKey project, which is building
+a suite of privacy-first open-source applications to help
+communities reopen responsibly without compromising privacy.
+Previously, he was vice president and co-founder of Google
+Earth and Street View and vice president of mapping at Uber.
+Second, Dr. Krutika Kuppalli, an infectious diseases
+physician, who has previously worked on the front lines of
+various humanitarian responses, including the 2014 West Africa
+Ebola outbreak and the current DRC Ebola outbreak and novel
+coronavirus outbreak.
+Third, Andre M. Perry, a fellow at the Metropolitan Policy
+Program of the Brookings Institution, whose research is focused
+on race, structural inequality, education, economic inclusion,
+and, since the onset of the COVID-19 pandemic, the underlying
+causes of the outsized number of coronavirus-related deaths in
+Black communities.
+And finally, Ramesh Raskar, a professor at MIT Media Lab,
+where he focuses on machine learning and imaging for health and
+sustainability. He is also the founder of the PathCheck
+Foundation, a global nonprofit, building open-source software
+and standards for digital contact tracing and exposure
+notification to stop COVID-19.
+Witnesses are reminded that your oral testimony will be
+limited to 5 minutes. A chime will go off at the end of your
+time, and I ask that you respect the Members' and other
+witnesses' time by wrapping up your oral testimony as
+scheduled.
+And without objection, your written statements will be made
+a part of the record.
+Mr. McClendon, you are now recognized for 5 minutes to give
+an oral presentation of your testimony.
+
+STATEMENT OF BRIAN MCCLENDON, CEO, CVKEY PROJECT
+
+Mr. McClendon. Chairman Foster, Ranking Member Loudermilk,
+and members of the task force, my name is Brian McClendon, and
+I am the CEO of CVKey Project, and also a research professor at
+the University of Kansas. Previously, I spent 10 years leading
+the teams that built Google Maps and Google Earth, Street View,
+and many other georelated services. Thank you for giving me the
+chance to speak before the task force today.
+In my testimony I will describe how privacy, disclosure,
+and opt-in data collection impact our ability to identify,
+locate, and isolate those who have been exposed to or infected
+by COVID-19.
+CVKey Project is a 501(c)(3) focused on helping America
+reopen responsibly given the ongoing pandemic. Together with my
+team of world-class engineers and product developers, we built
+that user data privacy into a key app called CVKey, and we are
+focused on getting that adopted around the country today.
+It focuses on individual symptom checking, policy
+communications across communities, and access control into
+venues such as universities, workplaces, and schools. As we
+have recently seen in the media, there is a significant need to
+improve communication of policies if we hope to operate at
+anywhere near close to normal for the next 18 months.
+Artificial intelligence and machine learning require large
+amounts of data collection for training purposes. This ground
+truth data helps algorithms figure out how to make better
+predictions. The most valuable data to combat COVID-19 can
+actually be found in the contact tracing interviews of infected
+and exposed people. Early detection, reporting, and testing
+leads to quick self-isolation and quarantine, and can shut down
+the spread of the virus faster than any other method, but only
+if it is resourced sufficiently and executed well.
+The phone calls that contact tracers make are often not
+answered because most people don't pick up from unknown numbers
+these days. When the contact tracer does reach a potential
+case, they have to make a decision about whether to ask the
+person to quarantine based on what they learn [inaudible]
+Information from the infected or exposed, the virus is quietly
+spreading.
+What exposure notification apps provide is a way to use
+cell phone data to detect after the fact whether you are near
+someone who later tests positive for COVID-19 by notifying you
+and informing you of next steps, which are usually to contact
+the contact tracing team or get tested or quarantined.
+These new apps offer a way to help contact tracing scale
+with less effort, more accuracy, and more coverage than is
+otherwise possible. There are two ways, at least, to do this.
+The first is using GPS information logs to compare where the
+infected person was relative to everyone else.
+The first problem with this is that GPS locations are not
+accurate enough [inaudible] For 10 minutes. The other, more
+serious problem with location data is it contains personally
+identifiable information that can be impossible to
+algorithmically remove. If I can guess where someone works and
+lives, I can easily figure out who that person is, usually by
+pulling additional data from commercially available data
+sources like Equifax.
+Naive implementations of this method were deployed in the
+U.K., North Dakota, and Utah, and did not meet with success for
+multiple reasons. The biggest one was fear that either Big Gov
+or Big Tech was tracking anyone who installed it. Next, always-
+on GPS location has a material impact on phone battery life, so
+folks turned it off or uninstalled it.
+Finally, early implementations did upload everyone's
+location to the government, and without sufficient protections,
+that data can then be exposed/stolen by others even if it
+wasn't misused by their government. A better solution is to use
+low-energy Bluetooth signals to allow phones to record when
+they are near other phones. A naive implementation can still
+allow tracking, but luckily Apple and Google have come to
+agreement on a privacy-protecting method called the Google/
+Apple Exposure Notification method, and it was developed to
+work on both Android and IOS.
+They have asked countries' health agencies to build and
+release apps using this tech. In the United States, they
+weren't delusional enough to assume that a single Federal
+institution could be adopted, so, they are working with one
+group per State.
+Like Dr. Raskar's Safepaths group, my team is building the
+app using this tech, and we believe that it preserves privacy
+better and works better than GPS solutions. The goal would be
+to get as many people as possible in the State to download this
+app, but the challenge, of course, is that even if we could
+only get 40 percent installed uniform across the group, we will
+only have 16 percent of exposures detected, so we need to find
+better ways to market the app.
+The privacy is much better than GPS because the data that
+eventually gets uploaded in a rare case where you have been
+infected is a set of random numbers that have no personally
+identifiable information. And then, when the other phones
+download this random number set, they notify their users
+without doing any cloud work at all and tell the user that they
+have been exposed and recommend that they call the contact
+tracing team.
+I believe that privacy is critical to marketing these apps
+to Americans, because I think they are very worried about what
+these apps could do, and we need to get and install a base for
+these apps.
+[The prepared statement of Mr. McClendon can be found on
+page 49 of the appendix.]
+Chairman Foster. Thank you.
+Dr. Kuppalli, you are now recognized for 5 minutes.
+
+STATEMENT OF KRUTIKA KUPPALLI, INFECTIOUS DISEASES AND GLOBAL
+HEALTH PHYSICIAN
+
+Dr. Kuppalli. Thank you, Chairman Foster, Ranking Member
+Loudermilk, and distinguished members of the task force for the
+opportunity to testify before you today.
+I am extremely grateful for your interest and commitment
+towards helping the support of the novel coronavirus disease
+efforts in the United States as we attempt to control the
+deadly pandemic.
+I am an infectious disease physician by training and have
+extensive experience in global health and health security. My
+clinical and research interests focus on health systems
+strengthening in resource-limited settings, outbreak
+preparedness and response, research and clinical care of
+emerging infections, and healthcare policy.
+As the COVID-19 pandemic continues to spread across the
+United States, I hope to give you a greater understanding of
+the threat this has to the global and economic security of the
+United States. I will discuss challenges facing public health
+experts and researchers leading COVID-19 efforts domestically,
+and will explain how we may better leverage available resources
+and tools to improve our response capacity and provide examples
+of other countries who have successfully implemented policies
+to control COVID-19.
+During this unprecedented time, it is vital for the United
+States to collaborate with the global community so we can learn
+from each other and develop best practices to ensure that
+science informs policy.
+In early 2020, as the world watched COVID-19 sweep over
+Wuhan, and spread through China, other countries recognized
+that COVID-19 posed an unprecedented risk to the physical and
+economic health of their countries and activated pandemic
+preparedness plans. The three most common components of
+successful plans are: one, the development of a comprehensive
+national plan led by science; two, rapid scaling up of testing
+capacity; and three, prioritization and implementation of
+contact tracing.
+The United States accounts for approximately 4 percent of
+the global population, but 25 percent of COVID-19 cases and
+fatalities globally. More concerning is that, as lockdowns have
+been lifted over the past month, there has been a record
+increase of COVID-19 cases, with over 45,000 cases per day
+since July 1st, and a record 60,000 cases in the last 24 hours,
+leading to the halting or reversal of business openings across
+the country.
+With coronavirus cases surging across the United States, it
+is imperative we adopt essential elements of an outbreak
+response, which should include a national cohesive plan led by
+science. The cornerstone of such a plan should be to test,
+isolate, and contact trace cases so we can contain this
+pandemic.
+Contact tracing, often called the linchpin of an outbreak
+response, is critical to identifying those who have potentially
+been exposed. The hiring of contact tracers, and additional
+Federal resources, infrastructure, and training will be
+required to ensure that we have a sufficient and well-
+coordinated workforce to provide this vital task.
+Based on current population and data, experts estimate each
+case requires 10 to 25 contacts to be traced. That is requiring
+at least 300,000 contact tracers. Another vital component of
+successful contact tracing is leveraging new and innovative
+technologies to promote efficient and broad implementation
+strategies.
+Although technologies are increasingly used, it is
+important to remember the ethics of public health information:
+data protection and data privacy when using any of these
+technologies. South Korea is an example of a country that has
+successfully contained COVID-19 and used technology to assist
+in their contact tracing efforts.
+In the aftermath of the 2015 MERS outbreak, South Korea
+invested resources in training healthcare personnel, and
+developing response systems, infrastructure, and laboratory
+capacity for future infectious disease outbreaks. When the 2019
+outbreak took off in South Korea, in addition to using standard
+methods of contact tracing, they also used medical records, GPS
+systems, credit card transactions, and closed circuit
+transactions to utilize a more robust contact tracing system.
+It was thought that this information provided more accurate
+information on individuals' location, duration [inaudible]
+Exposure might not be able to call or confirm. Considerations
+and protocols for privacy were taken into account to ensure
+only information related to infectious diseases is [inaudible]
+This social, health, and economic threat of our generation, and
+how we choose to manage it will be our legacy. Until we have a
+vaccine, control will rely on using surveillance, testing,
+contact tracing, and isolation to prevent transmission.
+Given the United States' prominent global role in
+technology, it can leverage this expertise as an opportunity to
+take a leadership role in developing a world-class contact
+tracing system to contain this outbreak, using information
+technologies to develop integrated systems to enhance our
+ability to prevent, detect, and respond to future outbreaks
+before they become national or global epidemics.
+Thank you, again, for the opportunity to testify before
+you, and I look forward to your questions.
+[The prepared statement of Dr. Kuppalli can be found on
+page 30 of the appendix.]
+Chairman Foster. Mr. Perry, you are now recognized for 5
+minutes.
+
+STATEMENT OF ANDRE M. PERRY, FELLOW, METROPOLITAN POLICY
+PROGRAM, THE BROOKINGS INSTITUTION
+
+Mr. Perry. Chairman Foster, Ranking Member Loudermilk, and
+members of the task force, thank you for inviting me to testify
+today on this extremely important issue affecting millions of
+people across the country.
+The COVID-19 pandemic will continue to take significantly
+more lives than the approximately 130,000 it has already
+claimed if the United States Government does not invest in
+tools that are proven to combat the spread of the virus,
+including strategies that aim to dismantle structural racism.
+According to an analysis published July 5th by the New York
+Times, Latino or Black or Hispanic and Black residents in the
+U.S. are 3 times as likely to become infected as their White
+neighbors. Higher COVID-19 mortality rates among Black and
+Brown communities reflect the historic devaluation and
+disenfranchisement of their lives, properties, and communities.
+Structural racism is the preexisting condition that must be
+accounted for in our battle with the coronavirus. It is hard to
+calculate the damage that the lack of coordinated comprehensive
+Federal response has caused families in terms of lives, jobs,
+and businesses. Those losses will even be more severe if there
+is not sizeable investment in infection testing, social
+distancing, extended paid leave, supplemental employment
+insurance, hazard pay, and contact tracing.
+However, the universal application of these preventive
+tools won't eradicate the substandard housing, poverty, limited
+job opportunities, and other conditions of structural racism
+that underlie the racial health inequities. My written
+testimony presents three general concerns regarding artificial
+intelligence in contact tracing as it pertains to structural
+racism and racial bias.
+First, contact tracing and exposure notification are not
+necessarily remedies for structural racism. Contact tracing and
+other public health tools are not neutral. They can exacerbate
+or mitigate the impacts of structural racism.
+A second concern taken up by my testimony revolves around
+representation. Contact tracing systems should include the
+people from the communities that have historically been
+excluded from other systems that generate better health and
+economic outcome. From the tech tools that are developed to the
+contact [inaudible] Be included in any effort to expand contact
+tracing. Manual contact tracers rely on the skills of
+interpersonal communication and empathy in order to build trust
+and receive and interpret information.
+If we hire an army of White tracers to track the spread of
+the virus, we should expect unequal or even negative results in
+Black communities. In addition, if we do not hire local Black
+and Brown people to serve those neighborhoods, we exacerbate
+the racial wealth gap which also serves as a barrier of
+protection against infection. Hiring Black and Brown manual
+tracers offers an opportunity to add jobs to the neighborhoods
+that are experiencing higher levels of unemployment.
+Third, AI tools in health pose the same risk that they do
+in other fields. AI is only as good as [inaudible] And their
+biases can ultimately lead to flaws in the technology and
+amplify biases in the real world. Our expedition into digital
+tools must demand greater recruitment and investment in Black
+and Brown tech firms, rigorous reviews and testing for racial
+biases, and more engagement and involvement from local
+communities before we deploy AI technology to communities en
+masse.
+Systemic racism and discrimination are already embedded in
+our health, housing, and educational systems. Developers must
+intentionally build AI systems through a lens of racial equity
+if the technology is not going to generate outcomes that
+reflect the biases of the developers.
+As more Black and Brown people are exposed to these racial
+inequities, more will die from COVID. The proliferation of the
+coronavirus forces us to see our inherent connections in a way
+that our public policy has not always recognized. Individual
+recovery is contingent upon how much we collectively live by
+the principle of all being in this together.
+If undocumented residents are sick, the country's citizens
+will be as well. If Black and Latino or Hispanic people suffer
+from COVID-19's effects, so will Asian American and White
+people. But being aware of our vulnerability is not the main
+problem. The trap of racism and structural inequality is.
+Thank you.
+[The prepared statement of Mr. Perry can be found on page
+53 of the appendix.]
+Chairman Foster. Thank you.
+And, Mr. Raskar, you are now recognized for 5 minutes.
+
+STATEMENT OF RAMESH RASKAR, ASSOCIATE PROFESSOR, MIT, AND
+FOUNDER AND CHIEF SCIENTIST, PATHCHECK FOUNDATION
+
+Mr. Raskar. Thank you, Chairman Foster and Ranking Member
+Loudermilk, and to the members of the task force and the Full
+Committee for the opportunity to testify today. It is an honor
+and a privilege to be here today.
+Let us compare how we use AI and technology for weather
+forecasting versus a pandemic. The National Weather Service can
+analyze and predict by collecting data every day. However,
+responding to the dynamics of a hurricane is different from
+responding to a pandemic, as pandemics are about people being
+at risk because of other innocent people.
+We need real-time participation from people, and that is
+why smartphone apps can play a big role. Given this is a social
+problem, I want to emphasize three things: first, how to
+augment top-down manual contact tracing with bottom-up apps
+used by people; second, how to make sure that apps are
+trustworthy by obviously preserving inclusive and built by open
+source and nonprofits; and third, how we may create a
+[inaudible] National weather--we have this national AI platform
+that leverages this privacy-preserving apps.
+I come to this question having spent much of my last decade
+working at MIT in AI digital health and algorithms for privacy.
+We built privacy-preserving global AI, a distributed machine
+learning method called split learning that can build AI without
+accessing any raw, identifiable data from individuals. And
+other teams have built wonderful techniques, such as federated
+learning and differential privacy that is going to be used in
+the U.S. Census 2020.
+In March, our team at MIT created one of the first privacy-
+preserving smartphone apps, which led to the creation of
+PathCheck Foundation, a charitable nonprofit organization
+dedicated to building free, open-source and industry standards
+that assist U.S. States, nations, and private sector
+organizations.
+And our nonprofit is already building exposure notification
+and case management apps back in servers and dashboards for
+various U.S. States and nations. And, frankly, it has been a
+humbling experience to work on this complex challenge over the
+last few months. And based on our learning so far, let me
+address concerns and also present some recommendations.
+First, Congress should require that public health
+authorities augment their manual contact tracing solution with
+digital apps for solutions, and this should be privacy first,
+because assuring trust is key to public acceptance, and public
+acceptance of these digital apps will let the country solve the
+tracing problem cheaply, quickly, and at scale. At PathCheck
+Foundations, we are working very actively on this hybrid
+approach by combining exposure notification, personal guidance,
+and case management, and we hope such apps can augment and
+simplify manual contact tracing.
+Second, Congress should set out a series of requirements to
+ensure that contact tracing apps are built transparently as
+open source, ideally by nonprofits, and just like other public
+utilities, are open for scrutiny by the public.
+And, obviously, this app should be inclusive across
+socioeconomic disparity, and not exclude those who don't have
+the latest technology.
+So, while at PathCheck Foundation, we are very proud to
+deploy Google, Apple Bluetooth API, we also want to support
+local solutions, such as QR codes, WiFi, and so on, and we
+continue to work with communities and employers and schools to
+improve the inclusion and innovation.
+And then, finally, the National Pandemic Response Service,
+based on a smartphone app. We need a national pandemic response
+that will allow us to take micro and macro aggregation of
+analyses and predictions. Instead of creating a surveillance
+state and a top-down system, let's build a bottom-up
+smartphone-based solution. We need a new AI that relies on the
+information stored on peoples' phones, and what we have learned
+through our work at MIT privacy-preserving AI is that we can
+truly create this decentralized AI and orchestrate the
+socioeconomic interactions between governments, businesses,
+individuals, and even vulnerable communities without creating a
+surveillance state.
+Our analysis shows that a modest budget of $100 million to
+$150 million that creates a public-private partnership can
+provide a data-ready national service for a national pandemic
+response. At the same time, this national service can help us
+be ready for a nasty flu season in the future, boost data
+solutions for public health, and be prepared for the next
+pandemic.
+To conclude, the need of the hour is augmentation of
+[inaudible] Apps inclusive, open source, and trustworthy, and
+[inaudible] Built on aggregation of data from these privacy-
+preserving apps.
+Thank you.
+[The prepared statement of Mr. Raskar can be found on page
+61 of the appendix.]
+Chairman Foster. Thank you.
+And I will now recognize myself for 5 minutes for
+questions.
+Mr. McClendon, you mentioned the necessity of maximizing
+adoption of contact tracing apps in order to maximize their
+effectiveness. Businesses may well have a role here. According
+to a PricewaterhouseCoopers' survey conducted in April, 32
+percent of businesses use contact tracing to help protect their
+workforce. This raises a number of questions as financial
+services and other companies continue to bring back workers to
+offices over the next few months. How can contact tracing
+effectively fit into their plans? Are there problems in making
+the use of contact tracing apps a condition of employment?
+And, in particular, does contact tracing offer benefits
+over, for example, performing frequent COVID tests and
+temperature checks?
+Mr. McClendon. I don't know if I can speak about whether
+frequent checks will do better or worse, but I do believe that
+digital contact tracing, deployed widely, will help.
+So, I was speaking about the coverage problem: 40 percent
+of uniform population jobs, only 16 percent of exposures are
+notified. So, we need a bigger percentage. We need 60, 70
+percent adoption. And one of the best ways to do that is to
+work with employers, universities, schools, and populations
+that feel a sense of community and want to protect each other
+by installing this app. It is really a marketing challenge, and
+similar to how the Waze app was deployed in cities, and how
+Uber installed its app and got sufficient penetration to be
+interesting.
+If there isn't enough penetration in a community, these
+apps will not be successful. So having employers do it, I
+think, is a valid way to increase the penetration, but it
+should not be mandatory. It just should be strongly
+recommended, and you should use the fact that if we don't get
+these exposures detected, a company might then become a hot
+spot, have an outbreak, and it might have to shut down again.
+And I think that everybody is now very aware of what
+happens during a shutdown, and so preventing the shutdown by
+keeping your community safe is a pretty strong motivation.
+Chairman Foster. Dr. Kuppalli, do you have any thoughts
+from your perspective on this?
+Dr. Kuppalli. Yes, thank you. Going to your question about
+temperature checks versus testing, I would say that one of the
+challenges with doing things like temperature checks is that we
+know that up to, at least right now, 40 percent of
+transmissions occur in the asymptomatic or pre-symptomatic
+state, so transmissions occur when patients don't even know
+that they are infected.
+Relying on things like that is really challenging in this
+particular infection in terms of trying to understand, maybe
+who you have been in contact with, or who might be infected.
+And I think that is something we need to think about as we are
+thinking about employing these types of applications.
+Chairman Foster. Thank you.
+Mr. Raskar, you note in your testimony that you have been
+working on how to create machine learning methods that can
+build AI without accessing the raw data. This sounds a lot like
+the homomorphic encryption that we had a previous hearing on,
+which is, to me, just a fascinating technology, but I had a
+simple question of how this can work when the number of
+contacts is small.
+For example, if you are by yourself all day for a whole
+week, and then you go out and you meet one person and then get
+notified that you have been exposed, you pretty much know which
+one person that is. So, what are the limits to these privacy-
+preserving techniques that may be important for people to know
+about?
+Mr. Raskar. Congressman, given your background in physics,
+I would love to have a discussion about encryption with you,
+but to the question of privacy, we ought to, first of all,
+think about how data production has different layers. Those
+three things are very different.
+In a public health scenario, actually today we only care
+about confidentiality, not as much anonymity or privacy,
+because eventually, you do have to meet a doctor. It is not
+like a cryptocurrency where [inaudible]. The challenge that if
+you met only one person and you got an exposure notification,
+you would know where that person is, is a classic example that
+our goal here is to serve the public health purpose as well.
+So, in that sense, although exposure notification based on
+Bluetooth serves some purpose, which is whether you got an
+exposure notification or not, a bigger challenge here for
+public health is understanding the context of that encounter.
+And for the context--
+Chairman Foster. I will attempt to treat myself fairly and
+gavel myself quiet here, and recognize the ranking member for 5
+minutes for questions.
+Mr. Raskar. Sure.
+Mr. Loudermilk. Thank you, Mr. Chairman. The information
+that we have received so far has been very interesting.
+My first question is going to be to Mr. McClendon.
+I do appreciate your focus on data privacy and security
+when it comes to the contact tracing, and coming from an IT
+background using the Bluetooth technology and your cooperation
+with different businesses is, I think, a unique approach and
+may have some validity there, but if we were to implement a
+Federal contact tracing system, how would you be able to
+reassure the citizens that they are able to know exactly what
+data is going to be used or collected and who has access to
+that data and how that data is going to be used?
+I think those are three critical areas that if you are
+going to get buy-in by the general public and get their
+confidence in this, that they do need to know those three
+things: one, exactly what data is going to be collected; two,
+who is going to have access to that data; and three, how it is
+going to be used?
+Mr. McClendon. Right. As I said, I feel like it is a
+marketing challenge. It is communicating how things work and
+explaining it to users. And so, for the data that is being
+collected in the Bluetooth Apple/Google gain solution, that
+data is random and completely stored on the phone until the
+user who is infected opts in to uploading those random numbers
+to the server.
+It requires a second opt-in. So, from a control
+perspective, you are putting your control in the hands of the
+user. Their data is never going to be pulled out from under
+them. It is always going to be in their control, and I think
+that is a very strong message for folks.
+As far as what happens when you get an exposure
+notification, the other innovation in this technology is that
+the notification determination is made entirely on the phone
+and then the communication of what message is sent to the user
+is provided by the State or, in some cases, the country.
+And so you have the opportunity to communicate to an
+exposed user, ``Here are the things you should do,'' but we
+don't know who that user is until, again, they opt-in by
+calling in to the manual contact tracing team. And these
+inbound phone calls are going to be much easier to handle
+because the contact tracing team won't spend a ton of time
+making dead phone calls.
+These will be inbound, and they will be users who are
+interested in learning more about what this exposure means.
+Mr. Loudermilk. Let me make sure I understand the
+situation. So, for instance, I may have tested positive. I have
+this app. I go to a store. I am wearing my mask, doing
+everything. So, if someone else gets near me, my phone, through
+the app, captures their number, and then I choose whether to
+upload that? Is that the scenario? Or does it automatically
+notify the person that, ``Hey, you just got in contact or in
+close proximity to somebody who has it?''
+Mr. McClendon. The general system is that, after you test
+positive, you are staying at home, let's hope. The goal,
+though, is that prior to you testing, for 2 weeks of data,
+prior to you testing positive, your phone has been broadcasting
+these random numbers and has been collecting the data on your
+own phone of who else you have seen. And on the day that you
+test positive, the contact tracing team calls you up on the
+phone to talk about your positive test because they were
+notified, and this is all part of the standard process. They
+ask you to upload your data, and give you a unique one-time
+password to upload that data into the cloud, but the data that
+is uploaded is random numbers, no identifying information at
+all.
+And at that time, all of the other phones download the
+data, and see if in the last 2 weeks, they were near you. And
+if they were, they get an exposure notification, but it is only
+that they were exposed and they have to call the manual contact
+tracing team to learn more.
+Mr. Loudermilk. So the only numbers that are uploaded are
+numbers of people who are using the app, or all numbers?
+Mr. McClendon. The only numbers that are uploaded are of
+the infected person if they were using the app during the last
+2 weeks.
+Mr. Loudermilk. Does that create a problem where the person
+with the app is then determining if the information--let's say,
+if I was around someone who had been infected and got tested,
+then that person is determining if my phone number is going to
+be uploaded or not?
+Mr. McClendon. No. The data that you upload, uploads only
+those random numbers that they receive out, not receive in.
+Mr. Loudermilk. Okay.
+Mr. McClendon. So, literally, only your information.
+Everybody else compares whether they ever saw your number in
+the phone. And so, again, it is only if each of the parties is
+participating in the app.
+If somebody's app is not--if somebody's phone does not have
+the app installed, then they are not part of this situation at
+all. They won't get notified. And if they are infected, there
+is nothing for them to upload.
+Mr. Loudermilk. Okay. Thank you.
+I yield back.
+Chairman Foster. Thank you for that, Mr. Ranking Member.
+And I would now like to recognize the gentlewoman from
+California, the Chair of the Full Committee, Chairwoman Waters.
+Chairwoman Waters. Thank you very much. I want to first
+turn to Mr. Perry. You have reminded us through your research
+that historically, Black and Brown people have already been
+socially distanced through segregated housing policy, systemic
+racism, limited and inadequate and unsafe living areas, more
+polluted neighborhoods, and fewer job opportunities. So, in
+addition to strengthening our response to the pandemic,
+policymakers must make sure that our response does not
+perpetuate these structural inequalities.
+Mr. Perry, what consideration should a digital contract
+tracing program take to ensure that minority communities are
+served well by these app-based solutions? Do you have other
+suggestions on how technology can be utilized in the
+coronavirus crisis response to ensure that communities of color
+are not further disadvantaged?
+Mr. Perry. I have a couple of responses to that. One,
+whenever we have a crisis, it presents an opportunity to build
+capacity in areas that we currently don't have. One of the
+weaknesses of many AI-enabled technologies is that they have
+not been tested, vetted, or created by founders of color,
+leading to all kinds of gaps and lapses, but it is clear that
+we do need, in Black communities, levels of a technology
+because we are disproportionately impacted.
+The problem is that Black people, in particular, and Brown
+people, are caught between a rock and a hard place. When they
+do find out that they may have been exposed, they are
+disproportionately in jobs and in occupations where they can't
+take off 2 weeks from work, and they are unable to socially
+distance for periods of time.
+As I indicated in my written testimony, we see how
+intergenerational housing concentrations in Cities like New
+Orleans, Detroit, Birmingham, and all of these places where
+Black people are concentrated, we know that there will be
+exposure because of the underlying conditions that lead to the
+rapid spread of the virus.
+And so, for me, I am looking at this from a structural
+perspective. Yes, we still need to maximize manual tracing and
+use technological tools to help them along, but manual tracing
+also relies on the quality of the tracing mechanisms; there is
+a lot to be gained from still leaning on the manual tracing.
+But I have to emphasize that when we are ultimately investing
+in tech companies, firms, innovations, we need to use this as
+an opportunity to build wealth, because that is the reason why
+or the lack thereof of those things are the reason that we see
+rapid spread in Black communities.
+So, for me, it is not to say that it is too late to deploy
+technology in a way that makes sense for Black communities, but
+it is to say that if we don't advance manual tracing and if we
+don't build capacity, then in the next inevitable crisis, we
+will be right back in the same situation we are in today where
+we can't respond to technology in a way that the alerts want us
+to, and we won't build capacity in areas where we need it
+built.
+Chairwoman Waters. Thank you very much.
+I yield back.
+Chairman Foster. Thank you.
+The gentleman from North Carolina, Mr. Budd, is recognized
+for 5 minutes.
+Mr. Budd. This hearing is fascinating, and very timely.
+Professor Raskar, this question is for you.
+We have now seen several countries use contact tracing as a
+means to combat the spread of COVID-19. Is there any credible
+evidence to show that these methods have had a practical impact
+on mitigating the spread of the disease?
+Mr. Raskar. Yes. We understand this is still very early
+data, inventing this whole field of digital contact tracing. We
+do know that manual contact tracing works for small outbreaks,
+but for an outbreak of this scale, many experts have shown that
+manual contact tracing simply doesn't scale. In fact, it
+disproportionately affects people who are vulnerable because
+they cannot be reached.
+Digital solutions has some hope that they can get--I think
+in some countries, we have seen an option of 10 to 15 percent
+in just a matter of weeks, which is good news, and as Brian
+McClendon explained very beautifully, that if these
+technologies are truly deployed by tech players as tools and
+APIs, in fact, they could be out there in many ways.
+So my assumption is that, if we use a bottom-up as well as
+a top-down solution--a top-down solution that will be like how
+we respond to hurricanes. So, manual contact tracing would be
+like a top-down solution. We tried to do the best we can, but
+this storm is really about people interacting with people, so
+we need a bottom-up solution as well where the participants, in
+this case, people who are innocent, but could be spreading
+diseases to others are participating in the system, and if the
+infected and exposed individuals are willing to participate in
+the system, then we can, in fact, combine this top-down and
+bottom-up approach.
+And right now in the U.S., we have 70 percent smartphone
+penetration in the age group of 18 to 64. If 90 percent cell-
+phone penetration [inaudible] Estimates up to 70 percent of the
+world [inaudible] Manual contact tracing could be off-loaded to
+the people who have smartphones.
+Mr. Budd. Thank you. Continuing on with you, Professor,
+these contact tracing apps pose an interesting dilemma. Digital
+contact tracing involves a level of surveillance that can make
+a lot of people uncomfortable, especially given the involvement
+of large technology companies with spotty records on privacy.
+What steps are developers taking to ensure these privacy
+concerns are being addressed? I think some of you mentioned
+earlier the low-energy Bluetooth, the Apple/Google protocols
+and standards. I just wanted to see what is being done to
+address these privacy concerns?
+Mr. Raskar. That is a very good question. I think it is a
+fantastic development, and I am glad the technology company
+knows they should not be in the business of creating solutions
+that could interfere with their for-profit business. So, as
+great as that Apple/Google protocol is, if another technology
+company tries to provide a solution which is already for-
+profit, even if the exposure notification is not-for-profit,
+simply the IP address of the same user can be used by the for-
+profit company in multiple ways.
+That comes into conflict with the original intention that
+Apple and Google and PathCheck Foundation have. So we believe
+that to make it trustworthy and inclusive, it should definitely
+be open source available for everybody to scrutinize and also
+collaborate. And ideally, it should be built by companies that
+are nonprofit or have no other related for-profit businesses.
+I think if we do that and create a national grid of this
+app because we are going to see a mushrooming of these apps,
+but at PathCheck Foundation we believe that we can all work
+together in creation of a national grid, and that will also be
+part of this National Pandemic Response System.
+Mr. Budd. Thank you.
+Just following up, I have been supportive of a robust
+Federal data privacy standard to replace the confusing
+patchwork of States' regulations and laws. Would the
+implementation of a national standard be beneficial for the
+States and for the consumers alike, who are trying to protect
+their own data privacy?
+Mr. Raskar. Definitely. I think that is necessary, but just
+to be sure, we have to go well beyond GDPR or CCPU, one level
+above that for privacy, which means that even the app company
+doesn't know anything about the user.
+Mr. Budd. Very good.
+And I have a few seconds left, but I will yield back to the
+Chair.
+Thank you.
+Chairman Foster. Thank you.
+And the Chair will now recognize the gentleman from
+Illinois, Mr. Casten, for 5 minutes.
+Mr. Casten. Thank you, Mr. Chairman. And thank you so much
+to all of our witnesses.
+Really building on Mr. Budd's comments. I would love to
+hear from Dr. Kuppalli. We have, globally, such a wide range of
+how contact tracing is being done. Is it being done by cities?
+Is it being done by counties? Is it being done by States? Is it
+being done by countries? People, of course, move across
+borders, but there is a logistical challenge with scaling this
+up at the highest level.
+Dr. Kuppalli, purely from an epidemiological perspective,
+where do you think is the ideal level in government to
+coordinate a contact tracing strategy?
+Dr. Kuppalli. That is a wonderful question. Thank you very
+much. So, as I said in both my written testimony and in my oral
+testimony, I really think that we need a national plan to help
+coordinate this entire response, and the linchpin of that is
+contact tracing.
+And when it comes to contact tracing, I think the important
+thing would be to be have some sort of Federal plan for that,
+that is then farmed down to the State and local governments.
+And as we have all talked about, and especially in an
+epidemic like this where the transmissibility of the disease is
+so much and, like I said, for every contact, there are about 10
+to 25 contacts that need to be traced, and that is just not
+something a manual contact tracer can do, it is important that
+we rely on our technologies to be able to augment what manual
+contact tracers are doing. And I think that it is important
+that it is a coordinated effort between our local and State and
+Federal Governments, while leveraging our technology.
+Mr. Casten. Thank you,
+Shifting to Mr. McClendon, if I am following right, all of
+the apps that we are talking about developing are essentially
+backwards-looking. We are going to know who you were in contact
+with. If we find out you had a positive test, we are going to
+go back, and we are going to look through this historical
+record.
+But in the context of artificial intelligence, so many of
+the really cool things we do with AI right now are predictive,
+whether it is Waze predicting where the traffic is going to be
+at 4:00 today as I tried to get to downtown Chicago, or the
+stuff that we spend a lot of time with on this committee of
+algorithmic trading, predicting what stock is going to be
+surging or where there is going to be a short sale next week.
+Is anybody thinking about what could be done on a
+predictive level if you had these contact tracing tools? Could
+you start predicting that this is a high-risk place to go,
+where we should be going? Is anybody thinking there, or are
+these purely backwards-looking apps at this point in the scope
+of people's ambition?
+Mr. McClendon. I think the challenge right now is that the
+only way to really predict the future is to understand the past
+pretty well. And so, manual contact tracing interviews, where
+the contact tracing team interviews the infected or exposed
+person, where that person has been, what they have done, that
+is the kind of data that would be great to send into a machine
+learning algorithm to then predict where hot spots might be in
+the future.
+But right now that data is obviously siloed due to privacy
+issues, siloed due to county tools and State tools that are not
+compatible with each other, and it is also not normalized.
+To Dr. Kuppalli's comment, I think that there does need to
+be a Federal guidance on how we should do things. I don't think
+the Federal Government should own this problem, but I think
+there should be clear leadership about, here are the tools and
+processes that we recommend that States do and that counties do
+and that contact tracing teams do to collect data effectively,
+and then using data analysis that retains privacy and
+differential privacy, we can start to generate these predictive
+models.
+Large-scale data collection is being used for predictive
+things. If you look at the University of Washington's Institute
+for Health Metrics and Evaluation (IHME) models, they are using
+a large collection of data, including things like mobility
+reports and when different States and counties have implemented
+mask rules or lockdown or some of the other aspects.
+They are able to see the effect of different policies and
+are now predicting that if a State implements a mask
+requirement today, they can save this many lives. For example,
+in Kansas, if we all follow a mask mandate, we will save 250
+lives by November 1st. That is the projection, and that
+projection is made using data that has been collected over the
+last several months.
+Mr. Casten. Thank you. I have a lot more questions, but I
+see I am out of time, so I yield back. Thank you so much for
+your time.
+Chairman Foster. Thank you. And I now recognize the
+gentleman from Indiana, Mr. Hollingsworth, for 5 minutes.
+Mr. Hollingsworth. Good afternoon, everybody. I am really
+excited about the discussion that we have had already on this
+panel, and I look forward to talking more about it and hearing
+more about it.
+My questions are for Dr. Kuppalli. Just more on the
+biological, epidemiological level, here is what I want to know:
+Given where we are today, what does a realistic success,
+achievable success look like in the United States pre-vaccine?
+And then I am going to ask you what it looks like post-vaccine.
+What is achievable for where we are, given the number of
+infections that we have today?
+Dr. Kuppalli. That is a great question. Thank you for that.
+Given where we are right now, we are not in a great place,
+right? As I said, yesterday, we had 60,000 new infections in
+the United States.
+And I think one of the things that has been challenging
+with this particular infection in the United States is that we
+have what we like to call a patchwork type of system. Every
+State, every local municipality is doing its own thing, and
+that is making things very challenging in terms of trying to
+contain this outbreak.
+Additionally, we are still having challenges with things
+that we were having challenges with 5 months ago. Testing is
+still a problem. Contact tracing is still a problem. Isolation
+and quarantine is still a problem. If we don't get those things
+fixed, we are not going to get this outbreak under control. So,
+we need to fix those things.
+In terms of where we are today and where we are going, we
+need to work on fixing those things. We need to work on really
+advocating for the public health interventions for which we
+have been advocating.
+Mr. Hollingsworth. To be more specific, sorry, are we to
+the point, given the number of infections that we have had,
+where we are basically managing down the number of infections
+and the rate of infections to the hospital capacity system
+until we get to the point of a vaccine, or is there a realistic
+hope, even given where we are, that we can bring infections to
+a grinding, very slow, very small number?
+That is what I am trying to understand. I read a lot of
+epidemiological studies that say, given where we are today, the
+best we can hope for is managing infections down, managing
+hospital capacity, until we get to a vaccine, not trying to
+stop an outbreak in and of itself.
+Dr. Kuppalli. I think, again, it is going to depend on how
+well we uptake these public health interventions. We know these
+public health interventions, what we call the nonpharmaceutical
+interventions, we know they work. It depends on how well we can
+get communities to buy into them in terms of how well the
+outbreak is going to be contained.
+And then, even going forward, once we have a vaccine, it is
+going to not just depend on the efficacy of the vaccine, it is
+also going to depend on how well we can get people to uptake
+the vaccine. Studies I have been involved with have shown that
+there is a lot of work to be done in trying to convince people
+to take the vaccine. So, we can't say we are going to have the
+vaccine, and this will be over.
+Mr. Hollingsworth. I agree. I think that is right. And I
+think that, frankly, at least in Indiana--I am not sure what is
+happening elsewhere--people's desire to take significant steps
+based on COVID-19 is declining, not increasing, given the fear
+that they felt in March and April. And at least, we haven't
+seen a significant resurgence, so there is a less palpable
+fear.
+I wanted to get to two other quick questions. I only have a
+minute-and-a-half left. One, there is an obsession with kind of
+the total number of infections since January 20th, this 2
+million infections number. That to me seems strange, Dr.
+Kuppalli, because I think what we care about are current
+symptomatic or communicable infections at the present point,
+right?
+What matters is how many people have this today, either
+know about it or don't know about it, either are symptomatic or
+asymptomatic, but can transmit the disease to others, not those
+who got it on January 20th and recovered February 15th and no
+longer transmit the disease.
+Are we tracking the right number in thinking about total
+number of cases since genesis, or should we be thinking more
+about, as you articulated, the number of infections per day and
+the number of recoveries per day, to better understand the
+evolution at present?
+Dr. Kuppalli. I think all of those numbers are important. I
+think we need to understand the total number of infections that
+we see in our society, but we definitely need to understand
+what is going on, on a day-to-day basis, right?
+And so now particularly, we are not just seeing the numbers
+go up, but we are seeing the percent positivity in the number
+of cases going up. And that is really important, and also
+looking at what is going on in the hospitals and the hospitals
+being at capacity.
+Mr. Hollingsworth. Perfect. Can you clearly tell me, what
+is the clinical definition of ``recovered'' in this infection
+with COVID-19? Is it the lack of communicability? Is it not
+showing symptoms? What does ``recovered'' mean, explicitly?
+Dr. Kuppalli. According to the current guidelines and
+criteria, ``recovered'' means that you no longer have symptoms.
+Mr. Hollingsworth. Okay. Thank you so much.
+Dr. Kuppalli. Thank you.
+Chairman Foster. Thank you.
+The gentlewoman from North Carolina, Ms. Adams, is
+recognized for 5 minutes.
+Ms. Adams. Thank you, Mr. Chairman. And thank you to our
+witnesses today.
+According to a 2019 Pew Research study, 81 percent of
+Americans owned a smartphone, up significantly from just 35
+percent in 2011. The same study found that while Whites,
+Blacks, and Hispanics own smartphones at roughly the same rate
+overall, smartphone ownership rates are significantly lower for
+older and low-income Americans. These communities of color have
+also been disproportionately impacted by the pandemic, and they
+are at greater risk of contracting COVID-19 and have a much
+higher likelihood of being unable to recover.
+So, Mr. McClendon, what is the benefit of a voluntary app-
+based digital contact tracing system when the most vulnerable
+at-risk populations are also the least likely to be able to
+engage with the technology?
+Mr. McClendon. That is a very fair question. With some of
+the apps in question, you have a non-tech participation
+capability, but this digital contact detection is one where you
+really do need a phone, preferably a smartphone, to
+participate.
+And I think the only argument that can be made is that if
+we deploy these widely, the infection rate overall will go
+down, and there will be much less opportunity for anyone to get
+infected.
+To the question about--we are in the second wave right now,
+and contact tracing is going to be very hard to solve the
+problems that we are seeing as in many States it ramps up quite
+high. But if we can get the disease down to a slow enough
+level, we can actually drive it down so, effectively, there is
+little to no exposure for anyone, and digital contact tracing
+can really help with that.
+And I think it is important to understand that, to the
+prior question, wearing a mask can greatly reduce the
+transmission. And by itself, a single app can, I think, reduce
+the R-factor from well above one to below one and eventually
+negate the disease. Masks are something that everybody can
+participate in, and I am a strong believer that we should be
+promoting masks more effectively.
+Ms. Adams. With the amount of data being collected and
+potentially analyzed by AI, what type of privacy and exposure
+notification and contact notification is there?
+Mr. McClendon. In the case of this specific Google/Apple
+implementation, it is extremely private. There is no
+information exposed at all unless you are infected and unless
+you choose then to provide data to a service. And even then,
+that is not part of the analysis.
+The only interesting data to analyze is who then talks to
+the contact tracers, what that interview yields as far as
+number of contacts they have made, what kind of symptoms are
+they showing, what is the progress of their disease, and
+monitoring those people.
+So, the manual contact tracing team has a lot of work to
+do. And just to reiterate what everybody else has said, we need
+more and better staffing and we need people in the local
+community to work, because it is an empathetic, communicative
+experience, and we need the best data we can collect, and for
+that we need people of the community.
+Ms. Adams. Okay. Thank you.
+Mr. Perry, do you foresee any risk for misuse of the mass
+collection of health data on low-income people of color in the
+future, and how important is it for us to limit data
+collection, if you think that?
+Mr. Perry. Oh, yes, we should be prepared for racial bias
+that will negatively impact Black and Brown communities. We
+have already seen the risk of use-biased algorithms in
+healthcare. United Health, using a medical algorithm, steered
+Black patients away from getting higher-quality care. And
+criminal justice software used to forecast the risk of
+reoffending incorrectly marks Black defendants as future
+criminals at twice the rate of White defendants.
+So, again, what I said early in my verbal testimony was
+that the AI for contact tracing runs the same risk if we do not
+thoroughly vet these products that are going out. And so we
+don't know necessarily, but the way I hedge that not knowing is
+through inclusion.
+We have to bring in, one, contact tracers, as was
+mentioned, from the community, because if you don't establish
+trust, these products will not work well. But more importantly,
+we have to invest in Black and Brown firms, because they are
+just more sensitive to the algorithms and functions that often
+lead to a bad outcome.
+Ms. Adams. Thank you.
+Dr. Kuppalli, what does meeting the mitigation rate versus
+meeting the suppression goal rate for testing mean in terms of
+empowering States, municipalities, and localities to safely
+reopen? What does meeting those rates mean in terms of opening?
+Dr. Kuppalli. That is a great question. Meeting the
+mitigation rates--
+Chairman Foster. Go quickly, please. We are at the time
+limit.
+Dr. Kuppalli. Okay. So, basically, there are different
+rates that we look at for when we are in different phases of
+the epidemic, and we need to scale up testing quite a bit to
+meet those rates.
+Ms. Adams. I yield back, Mr. Chairman.
+Chairman Foster. Thank you.
+The gentleman from the Lone Star State, Mr. Taylor, is
+recognized for 5 minutes.
+Mr. Taylor. Thank you, Mr. Chairman. I appreciate that. I
+appreciate being here with all of you. I think this is an
+important conversation. And I think this epidemic has certainly
+brought up to me the importance of having consistency in our
+vital statistics accounting. We have had--I see some heads
+nodding.
+I served in the State legislature for 8 years before I came
+to Congress, and we came into problems around counting data. We
+would have different counties counting flu deaths at different
+rates. And when we kind of dug down and started figuring it
+out, we realized, well, one JP was doing it one way; another JP
+was doing it another way. And so, we started working on trying
+to come up with a State standard.
+If you can believe it, in 2020, there is not a Federal
+national standard for collecting vital statistics. And that, in
+turn, is leading to disparate answers in terms of the way
+localities and then, in turn, States are reporting.
+And then we, as Federal policymakers, are trying to figure
+out, how do I deploy assets? Where are my problems? And because
+the data is being collected differently, you might not realize
+you have a problem somewhere where you do have a problem. You
+might think you have a problem somewhere that you don't have a
+problem.
+And so I am working, on a bipartisan basis, with
+Congresswoman Shalala, my colleague from Florida, to work on
+the beginnings of a study--an appropriations bill, so we will
+see this, members, hopefully later this month--to start to
+study a national standard for vital statistics collection.
+And I will just share one issue that I will just take it
+home to Collin County, where I live. We were not counting--we
+were actually originally counting people who were serologically
+positive as a COVID case, and then we were told, don't count
+that as a COVID case when you report your accounting.
+Mr. Perry, I see you nodding and smiling, so maybe you have
+a reaction to what I am talking about or maybe you have seen
+this in the field yourself.
+Mr. Perry. No. I will just say, as a person who works at a
+think tank, we need consistent, reliable data, and that often
+is not had because there is a lack of standards.
+So I would fully support any kind of legislation that led
+to standardizing these vital records because, without it, we
+really don't have the information to address the problem well.
+I can't really add much more, but we need consistent reporting
+on these issues.
+Mr. Raskar. If I could add to that, Mr. Taylor, I think
+data is so important, as Andre said. At the same time, data is
+valuable only if it can be triangulated from multiple sources
+so that it is really valid.
+Like you said, if you just do the collection in a top-down
+manner, you don't know if it is going in the right way. So, if
+it is also bottom-up, citizens are participating, counties are
+participating, communities are participating in it in some
+other way, then the data becomes more valuable and more
+accurate.
+Mr. Taylor. Sure. Another example: At home, we originally,
+if we had a husband and wife and the husband tested positive
+and the wife had symptoms, we would assume that they were COVID
+positive, but we wouldn't report them as COVID-positive because
+we didn't want to use a test on them unnecessarily unless they
+needed hospitalization.
+The County was then told by the State of Texas, actually,
+start counting that person as a COVID-positive, report that as
+a positive case. So, my County then showed a spike in cases
+because they took a bunch of people who had previously not been
+reported as positive and then reported them as positive.
+But, again, this was a County decision that was then
+overridden by a State decision. And what I would like to see is
+a consistency in the reporting of data.
+And I am glad to see so many people nodding as a sign that
+it is--when I talked to Congresswoman Shalala, Secretary of
+Health and Human Services, she immediately understood that,
+wow, I need consistent vital statistics. We need to have a
+national standard so that my county is not guessing on what to
+do; every county knows what to do, and it is a standard.
+Anybody else want to comment on that?
+Mr. Raskar. The point you are making about a national
+standard is useful not just for hindsight, what has happened in
+the past, but also for insight, what is going on right now, and
+to the point made earlier about the prediction, about the
+foresight as well. And again, for that, we need a triangulation
+of data.
+Because if we do have the development of a national weather
+service here, it will look at not just the past hurricanes,
+what is going on today, but use models to start predicting them
+going forward.
+For this virus, now we have heard that different mutations
+are virulent in different ways. And responding to them in old-
+fashioned ways, like the mechanisms we used a week ago or a
+month ago are not as useful as what we would see them a month
+or even 6 months from now.
+So, whether it applies to the common cold or other public
+health challenges or dealing with this pandemic, I totally
+agree that a national standard of that kind would be extremely
+valuable.
+Mr. Perry. May I just add one very brief--Ramesh is
+absolutely correct. This is an opportunity for us to really
+rally behind the data. If you really want to get people
+involved in a very mass way, you have them participate in the
+collection. And so this is just an opportunity to really
+exercise that principle that we are all in this together.
+Mr. Taylor. Sure.
+Thank you, Mr. Chairman. I yield back.
+Chairman Foster. Thank you.
+And I will abuse my chairman's prerogative to point out
+that also in the upcoming appropriations will be to once again
+have the House hopefully vote to repeal the ban on a unique
+patient identifier. This is simply a database key that would
+allow you to uniquely identify medical records, which is a very
+important issue. And I was very proud we got a strong
+bipartisan vote to repeal that ban in the House. And, of
+course, the Senate did what the Senate does, which is nothing.
+But I will just flag that for Members. It is an important
+thing, really, the starting point in getting consistent
+national records is to just be able to identify who this person
+was.
+And now, the Chair will recognize Representative Garcia of
+Texas for 5 minutes.
+Ms. Garcia. Also, from the Lone Star State, Mr. Chairman.
+Chairman Foster. Also from--I am sorry to have missed that.
+Well, you don't have the flag behind you, right?
+Ms. Garcia of Texas. I guess I have that set up downstairs
+when I do videos, not when I am here on calls.
+But thank you for this very important hearing at such a
+critical time because, as some people have noted, it is really
+not just about what we need to do today, but in terms of
+standards and requirements or guidance, depending on which we
+choose to operate under. It is about future pandemics, future
+events, so that we can be better prepared. So, thank you very
+much.
+And I want to start with Mr. McClendon. I just want to make
+sure I understood when you were responding to the ranking
+member on his question about who uses the app and what
+information is picked up, everybody else has to be using the
+app for anything to talk to from your app, correct?
+Mr. McClendon. Yes, that is correct. Only data from
+participants who have installed the app and opted in will have
+their data recorded within the phones or, in the case of an
+infected person, uploaded. If they don't have the app
+installed, they are completely outside the system.
+Ms. Garcia of Texas. So, for this to really work, sort of
+like masks, everybody has to wear a mask, everybody has to use
+the app, correct?
+Mr. McClendon. I would like for that to happen, and I will
+endeavor very hard to market that message to convince
+communities and States to do that.
+Ms. Garcia of Texas. I just wanted to make sure that I was
+clear on that because now I want to switch to the good doctor.
+Dr. Kuppalli, it has just been so hard to get everybody to
+wear a mask. I have some of my own colleagues on one of my
+committees who all refuse to wear a mask, except two who are
+now wearing them. It has become politicized.
+How are we going to convince people to sign up to an app
+when we have not been able to convince them to wear a mask?
+That really is the reality.
+Dr. Kuppalli. I think that is a great question. I think
+that, first off, we need to stop politicizing this pandemic,
+and we really need to let the science lead the way. We are
+talking about human lives.
+Second, I think that we need to really be clear about the
+privacy safety that we are going to have when it comes to using
+these apps. I think that is really important. And I think that,
+as we have seen in other places that have been able to
+successfully contain COVID, one of those things is also people
+having good trust with not just the people who are doing the
+work, but also in terms of the governments and the people who
+are working on this work.
+I think that is all really important. One of the things
+that is extremely important that we need to continue to work on
+is also engagement, right? And so, engagement is going to be
+important. Trust is going to be important, and making sure we
+protect people's privacy is going to be important in getting
+people to uptake these types of things.
+Ms. Garcia of Texas. Mr. Raskar, I wanted to ask you a
+question related to that. I have been struck that you have used
+the word several times that it should be a ``nonprofit'' or
+that it should--and also, it should be available inclusively to
+all communities.
+Tell me about that. Why would you suggest that it needs to
+be an app that would be distributed through a nonprofit rather
+than a for-profit?
+Mr. Raskar. I think that we have great companies, Big
+Technology companies doing great work. I worked at Facebook for
+2 years. I was on an Apple privacy team last year. And all of
+these companies have great intentions, but derivative companies
+out of that use the metadata in nefarious ways. You may not
+realize that every time you go to--
+Ms. Garcia of Texas. No, I realize that. I just want to
+hear you say it for the rest of the world to hear it.
+Mr. Raskar. Exactly.
+Ms. Garcia of Texas. But I just want to focus on this
+particular app. Do you think it is critical that it be done
+through distribution of sorts through a nonprofit?
+Mr. Raskar. Yes, exactly.
+Ms. Garcia of Texas. Make sure everybody can get it?
+Mr. Raskar. Yes. It should be done by a nonprofit. It
+should be open source. And just like public utilities, it
+should be audited any time in a trustworthy manner. And make
+sure it is inclusive.
+And the challenge is that if it is not done by a nonprofit,
+if it is done by a for-profit, they can use the metadata. Even
+with the Google/Apple exposure notification app, they can use
+the metadata from that app on their servers and they could be
+tempted to use that in other ways.
+So, if the same company has two apps, one app that is used
+for contact tracing, which is supposedly private, and another
+app that is doing something else, those two apps collectively
+can create a much bigger picture of the user. And that is why
+we think a nonprofit, which is committed to the mission,
+committed to being open source, committed to collaboration,
+committed to being audited, should be the only ones deploying
+such solutions.
+Ms. Garcia of Texas. And it has to be just to augment the
+use of community people, or in my community, people who are
+used to doing the community health work neighborhood by
+neighborhood.
+Mr. Raskar. Exactly. And the important part of that is the
+development of the app, not just how the app works right now.
+It should also be driven by the mission, which is, as Brian
+McClendon said, getting the exposure notification is just the
+beginning.
+The case management, the interviews, the monitoring, the
+support is what we do at PathCheck Foundation. That is why we
+don't use a hybrid approach where we can offload a lot of the
+work for manual contact tracing through the app that is 70
+percent of the population, but then the rest of the process
+still requires manual contact tracing operations.
+Ms. Garcia of Texas. Great. Mr. Chairman, I see that I have
+run out of time. I did have a question for Mr. Perry, but I
+will submit it in writing. Thank you so much. I yield back.
+Chairman Foster. Thank you.
+The Chair now recognizes the gentleman from the Buckeye
+State, Mr. Gonzalez, for 5 minutes.
+Mr. Gonzalez of Ohio. Thank you, Mr. Chairman. And thank
+you for recognizing the great Buckeye State. And thanks for
+this important hearing, on a very interesting topic certainly,
+and one that I think we are all still trying to wrestle with,
+frankly.
+I want to start my questions with Mr. McClendon. You have
+stated--and I agree--that it is a marketing challenge, but I
+would argue that it is an enormous marketing challenge, asking
+sort of everyday Americans to trust two entities, Big Tech and
+Government, that naturally we don't trust, and I think for good
+reason, unfortunately.
+My first question is, and you have sort of alluded to it,
+but what is the minimum amount of adoption you could get and
+still have an impact, knowing I don't believe you can get
+anywhere near perfect. You are not going to get 100 percent.
+People are just not going to opt in.
+So, tell me a little bit about that, please.
+Mr. McClendon. Right. So, if it was perfect, according to
+the statistic I just heard, 18- to 65-year-olds have 90 percent
+penetration. So, in that category, even if it were perfect, we
+would only discover 81 percent of exposures, because both
+parties have to have it installed.
+The square problem is a big deal. So, 40 percent only gets
+you 16 percent of exposures. I am hoping for 50 to 60 percent
+where we discover 25 to 36 percent of exposures, and those
+become those inbound phone calls.
+And, as far as how to do that, I think we really need to
+get communities' buy-in. Whether it is the State that is the
+official agency that publishes the app, we need every town and
+university and church and synagogue to convince their members
+to participate in this process, because if you get densities of
+installed base, that works, right?
+If you could get 80 percent of a university community to
+install this app, then that works within the community. All of
+the exposures that occur within the university will be
+discovered much more quickly, and the ones that happen in the
+rest of the town, maybe not so much.
+But I think there is an opportunity for individual
+communities to bring their members in and convince them to
+install the app. We really need this to be--like wearing masks,
+it should be a community response.
+Mr. Gonzalez of Ohio. I think you are right, it is going to
+be community by community. I can just tell you for a fact that
+my most rural counties are not in. They are not going to go for
+contact tracing, signing up for the app. And I don't blame
+them, frankly. So, I think a different strategy would probably
+make sense for them.
+Mr. Perry, I want to shift to you. You mentioned something
+that I think is really important, which is, look, we talk about
+who is most vulnerable here. My fear from the beginning with
+this virus is that it would accentuate our biggest
+inequalities, and I think it has. It has shined a light on the
+fact that those who are most vulnerable are having the worst
+outcomes with the virus, I think.
+And when I think of how we can get ahead of that as the
+outbreak continues, I think of sort of how do we protect our
+low-income wage workers, our minority populations, those who
+can't socially distance, either at work or in the home.
+I am Hispanic. My family was born in Cuba. This beautiful
+lady here over my shoulder was my grandmother, who lived with
+us basically until she passed away. So, multigenerational
+households don't distance as well, just by nature of the living
+conditions.
+With that in mind, one thing that I have started working on
+that we are going to drop here soon would be a grant program
+which would allow hotels, on a voluntary basis, to convert to
+sort of COVID housing places, so that if you then get the virus
+and you can't distance at home, you have an option of checking
+into a hotel, which would be picked up by the government.
+Just as a general concept, I would love to just get your
+thoughts on that as a way to help our communities who can't
+distance for a variety of reasons, giving them an option if
+they pick up the virus to self-quarantine in a way that is safe
+and won't affect the whole family.
+Mr. Perry. As was mentioned, contact tracing must be paired
+with other social supports. And if they are not, you are really
+minimizing the impact of them.
+And so, I agree that there are a couple of areas that are
+critical. We need a housing response, and we need an employer
+response.
+Mr. Gonzalez of Ohio. Yes.
+Mr. Perry. And if we are not talking about unemployment
+insurance, if we are not talking about some type of workforce
+housing, housing for the sick, housing for the vulnerable, then
+the contact tracing mechanisms really will be limited in scope.
+Mr. Gonzalez of Ohio. Thank you, and I yield back.
+Chairman Foster. Thank you.
+And I would like to thank all of our witnesses for their
+testimony today.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+This hearing is now adjourned.
+[Whereupon, at 1:27 p.m., the hearing was adjourned.]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

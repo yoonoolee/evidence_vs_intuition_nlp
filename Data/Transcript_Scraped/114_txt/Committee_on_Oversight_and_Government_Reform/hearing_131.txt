@@ -1,0 +1,2475 @@
+- FEDERAL AGENCIES' RELIANCE ON OUTDATED AND UNSUPPORTED INFORMATION TECHNOLOGY: A TICKING TIME BOMB
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+FEDERAL AGENCIES' RELIANCE ON OUTDATED AND UNSUPPORTED INFORMATION
+
+TECHNOLOGY: A TICKING TIME BOMB
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+MAY 25, 2016
+
+__________
+
+Serial No. 114-120
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+23-644 PDF                 WASHINGTON : 2017
+____________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+Internet:bookstore.gpo.gov. Phone:toll free (866)512-1800;DC area (202)512-1800
+Fax:(202) 512-2104 Mail:Stop IDCC,Washington,DC 20402-001
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK MULVANEY, South Carolina        BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Jennifer Hemingway, Staff Director
+David Rapallo, Minority Staff Director
+Troy Stock, Staff Director, Subcommittee on Transportation and Public
+Assets
+Julie Dunne, Counsel
+Willie Marx, Clerk
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on May 25, 2016.....................................     1
+
+WITNESSES
+
+Mr. Dave Powner, Director, IT Management Issues, Government
+Accountability Office
+Oral Statement...............................................     6
+Written Statement............................................     8
+Mr. Terry Milholland, Chief Technology Officer, Internal Revenue
+Service
+Oral Statement...............................................    35
+Written Statement............................................    37
+Mr. Terry Halvorsen, Chief Information Officer, Department of
+Defense
+Oral Statement...............................................    43
+Written Statement............................................    45
+Ms. Beth Killoran, Acting Deputy Assistant Secretary for
+Information Technology and Chief Information Officer,
+Department of Health and Human Services
+Oral Statement...............................................    49
+Written Statement............................................    51
+Hon. Tony Scott, Federal Chief Information Officer, Office of
+Management and Budget
+Oral Statement...............................................    57
+Written Statement............................................    59
+
+APPENDIX
+
+GAO summary of Major Information Technology Acquisition
+Failures, Entered by Chairman Chaffetz.........................    90
+GAO Report titled, ``Federal Agencies Need to Address Aging
+Legacy Systems,'' Entered by Representative Stephen Lynch......    91
+Verizon Report titled, ``2016 Data Breach Investigations
+Report'', Entered by Representative Stephen Lynch..............   178
+May 16, 2016 letter from IRS Commissioner John Koskinen to
+Chairman Chaffetz and Ranking Member Cummings, Entered by
+Chairman Chaffetz..............................................   263
+
+FEDERAL AGENCIES' RELIANCE ON OUTDATED AND UNSUPPORTED INFORMATION
+TECHNOLOGY: A TICKING TIME BOMB
+
+----------
+
+Wednesday, May 25, 2016
+
+House of Representatives,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The committee met, pursuant to call, at 9:02 a.m., in Room
+2154, Rayburn House Office Building, Hon. Jason Chaffetz
+[chairman of the committee] presiding.
+Present: Representatives Chaffetz, Mica, Farenthold,
+Meadows, Mulvaney, Hurd, Cummings, Lynch, Connolly, Kelly, and
+Lieu.
+Chairman Chaffetz. The Committee on Oversight and
+Government Reform will come to order. I appreciate those in
+attendance today. We are having a hearing about Federal
+agencies' reliance on outdated and unsupported information
+technology, a ticking time bomb.
+The Federal Government is spending more than $80 billion--
+$80 billion--annually on IT, and it largely doesn't work. With
+the majority of the spending focused on maintaining and
+operating legacy systems, this is obviously a major concern for
+the United States Congress and the operation of the Federal
+Government.
+Such spending on legacy IT results in higher costs and
+security vulnerabilities where old software and operating
+systems are no longer supported by vendors. The Federal
+Government is years and, in some cases, decades behind the
+private sector. We cannot have Federal agencies buying spare
+parts on eBay for IT systems, such as the case at the
+Department of Labor.
+The Federal Government also cannot rely on 930 million
+lines of code using more than 70 legacy programming languages.
+This is the best estimate that we have on the numbers, based on
+the surveys that we did with the various agencies.
+That includes over 155 million lines of COBOL and 135
+million lines of Fortran, coding language that was first used
+in the 1960s. In fact, 50 years ago--50 years ago--Dartmouth
+described Fortran as ``old-fashioned.'' So 50 years ago, they
+thought it was old-fashioned, and it is still in use today.
+This does not even include the Departments of Defense or
+Labor, because they could not tell us how many lines of code,
+so you can imagine at DOD how many millions upon millions of
+lines of code that are still out there in those agencies.
+Some agencies still use Windows 3.1, which came on the
+market in the early 1990s, or Windows XP, which came on the
+market in the early 2000s.
+I read a document recently from the Department of Justice,
+and it was a WordPerfect document. I love WordPerfect. They are
+from Utah, and they still sell that product and update it. They
+had an update in the last 60 days. But my guess is if they
+tried to send you a WordPerfect document, you might have a
+difficult time opening it.
+The Federal CIO Tony Scott is one of our witnesses today.
+He has stated the need to update IT legacy systems is a crisis
+bigger than Y2K.
+I will note, personally, I am so pleased that Mr. Scott has
+joined the Federal Government. He has quite a background and
+reputation. He is the kind of talent that I think our Federal
+Government needs. To have somebody of his caliber helping to
+tackle these issues, answering the call to service for our
+Nation, is really an important step forward, and I applaud the
+Obama administration for encouraging him and getting him to
+participate here. I think he is part of the solution and not
+part of the problem.
+Let me give you some examples of our deep concern here.
+The Department of Defense Strategic Automated Command and
+Control System is 50 years old and runs on a 1970s IBM Series 1
+computer that uses an 8-inch floppy disk.
+This is an 8-inch floppy disk. It takes 3.2 million of
+these to equal one flash drive. So you can go get a flash drive
+down at Best Buy or you can get 3.2 million of these to get the
+same amount of data stored. And this is still what the
+Department of Defense is using.
+I want to show a couple pictures here. These are from the
+brochure. This is what the Department of Defense in many ways
+is still using, nice 1970s, first-class brochures there. Those
+styles, that is styling. That is literally the kind of
+technology that we are using and up against.
+DOD is only now, by the end of fiscal year 2017, finally
+scheduled to update parts of this system. It is good, but it is
+decades overdue.
+The system reminds me, do you remember the movie WarGames,
+the WOPR, the War Operations Plan Response, from the 1983
+movie? It is still like that, unfortunately.
+The IRS Individual Master Files, sometimes called the IMF,
+which is the authoritative data source for individual taxpayer
+information, is also more than 50 years old. It is written in
+low-level computer code that is difficult to write and
+maintain.
+The IRS has general plans to modernize and has made some
+progress, but provided no specific date on which the IMF will
+be turned off and the new system turned on. I hope that changes
+here today. Goals must have deadlines. Otherwise, they are just
+dreams, and we need specifics.
+The really scary part about all this is that DOD and the
+IRS are not alone among the Federal agencies relying on legacy
+IT systems and unsupported software and operating systems.
+So how do we fix this situation? How do we protect the
+Nation against the vulnerabilities that are inevitably there
+with such outdated technology?
+We are going to hear a lot today about a proposal to
+establish a $3 billion IT modernization fund to help agencies
+move off of these legacy systems. There are three issues that I
+would like to mention proactively about this proposal. I think
+it is a serious proposal based on a lot of good work done in
+the private sector.
+First, the GAO reported last week, at a joint IT-Government
+Operations Subcommittees hearing, there are millions of
+dollars' worth of savings still on the table from data center
+consolidation. To date, agencies have closed more than 3,000 of
+10,500 data centers and achieved $2.8 billion in cost savings.
+Most of these savings are attributed to just four agencies, the
+Department of Commerce, the Department of Defense, the
+Department of Homeland Security, and Treasury. So there is much
+available in terms of savings still on the table.
+I think I am much more inclined to allow CIOs who are
+achieving savings and have the foresight and plan to move
+forward to use those savings to upgrade legacy systems rather
+than simply writing a blank check for all CIOs, regardless of
+how well they are currently managing their resources.
+Second, the committee wants to see progress on its FITARA
+implementation scorecard before giving CIOs additional
+resources. Under FITARA, CIOs now have a proper seat at the
+table.
+To the men and women in the CIO positions, they must be
+qualified, motivated, and empowered to make decisions within
+their agencies, and they must be held accountable. The pattern
+of Fs moving to Ds, and Ds moving to Cs, and so forth, will go
+a long way to convincing the committee that CIOs will
+appropriately utilize additional resources allocated to
+modernizing legacy systems.
+Third, I note that Mr. Milholland appears today under a
+subpoena. IRS Commissioner John Koskinen declined to allow Mr.
+Milholland to testify voluntarily and stated to the committee,
+and I quote, this comes from the letter, ``Spending time
+preparing for a hearing would take Mr. Milholland away from his
+important role in leading IT development and operation, and
+would be disruptive to the IRS.''
+That is wholly and totally unacceptable. This is part of
+the solution, not part of the problem, and the accountability
+before Congress is part of this issue.
+Preparing for, testifying at a hearing on IT issues in
+front of this committee does not take away from the important
+role. It is a key part of your important role.
+The committee hopes IRS attitude and position is not
+widespread across the Federal Government. It is a change in
+attitude from the IRS Commissioner.
+The IRS Commissioner insisted that he personally be here to
+testify, but we want to have the people who are actually
+responsible day-to-day and spend 100 percent of their day
+working on this issue. It is very frustrating.
+Taxpayers deserve a government that leverages technology to
+serve them, rather than one that deploys unsecured, decades-old
+technology that places their sensitive and personal information
+at risk. We have a long way to go to get from COBOL to the
+cloud, but I am committed to helping us get there.
+I know other members of the committee are working on this
+as well. I want to duly note Ranking Member Cummings, Chairman
+Hurd, Ranking Member Kelly, Chairman Meadows, and Ranking
+Member Connolly among those who are spending a significant
+amount of time trying to help tackle and solve the problem. I
+appreciate their insight and their participation.
+This is not a partisan issue. We all need to come together
+on this, on both sides of the aisle. It is the right thing to
+do, and it is a vital part of the infrastructure that we need
+in order to have a fully functional government.
+So we will have a good hearing today. I appreciate the
+witnesses being here.
+I will now recognize the ranking member, Mr. Cummings, for
+his comments.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+There has been an increasing number of sophisticated
+cyberattacks against Federal agencies like the Office of
+Personnel Management as well as private sector companies like
+Anthem, Primera, and Sony Pictures. These devastating
+cyberattacks highlight the challenges faced by public agencies
+and the private sector in keeping their systems secure from
+determined, sophisticated cyber spies.
+They also highlight the need for strong congressional
+action to help agencies strengthen their security and modernize
+their information technology systems.
+The problem, however, is that Republicans in Congress have
+spent the last several years making massive cuts to Federal
+agency budgets, making it harder for these agencies to upgrade
+their information systems, let alone maintain the systems they
+have.
+The Internal Revenue Service is a prime example.
+Republicans slashed the IRS budget by almost 17 percent over
+the past 5 years, cutting it from $12.2 billion in 2010 to
+$11.2 billion in 2016. They cannot pretend that budget cuts of
+this magnitude have no effect.
+Obviously, these massive cuts reduce the amount of funding
+the IRS could devote to system upgrades. These cuts also impair
+the ability of the IRS to hire and retain staff needed to
+modernize and replace outdated information systems.
+As a result of these massive cuts, the IRS IT staff has
+dropped from 7,385 employees in 2011 to 6,730 employees today.
+I completely agree that Federal agencies desperately need
+to upgrade their information technology systems. But if we want
+to talk about a ticking time bomb, let's talk about it. The
+ticking time bomb here is that Republicans keep slashing agency
+budgets year after year, and pretending that these actions have
+no negative repercussions.
+Just yesterday, Republicans on the House Appropriations
+Committee released their fiscal year 2017 budget. It would
+slash another $236 million from the IRS budget.
+We cannot expect Federal agencies to modernize, replace,
+and strengthen their information systems against determined,
+sophisticated cyber attackers without giving them the resources
+and tools they need to do so.
+This is why I am proud to cosponsor the Information
+Technology Modernization Act that was recently proposed by the
+Obama administration and introduced in the House by my
+colleague from the State of Maryland, Congressman Steny Hoyer.
+Our fellow committee members Representatives Connolly, Lieu,
+Kelly, and Duckworth are also cosponsoring this bill.
+The bill would improve cybersecurity by establishing a
+dedicated $3.1 billion information technology modernization
+fund to help agencies replace their outdated information
+systems with more modern, adaptive, and secure systems. The
+bill would take some of the best practices from the private
+sector by establishing a revolving loan fund that would be
+dedicated for the purpose of funding wholesale upgrades and
+replacing outdated information technology infrastructure. The
+fund would be self-sustaining because agencies that receive
+money for modernization projects would be required to repay it
+over time.
+By doing this, the bill would ensure that the fund can
+continue to support modernization projects into the future.
+The bill also would create an independent review board with
+experts in acquisition and cybersecurity to oversee the fund
+and review proposals from agencies to upgrade their systems.
+The board would provide technical support to agencies in
+implementing modernization plans, and it would provide regular
+monitoring to ensure that every project that receives funding
+would be subject to centralized oversight and expertise.
+As the Government Accountability Office's newly released
+report on Federal agency IT systems found, Federal agencies
+spend almost 75 percent of their budgets on maintaining current
+computer systems--75 percent--which leaves little for funding
+the development of more modern but costly technologies that are
+more secure.
+We hope to have the support of our chairman for this
+landmark legislation. And the chairman is absolutely right,
+this is not something that should be done on a partisan basis.
+This is, indeed, a bipartisan problem that must have bipartisan
+solutions.
+So I want to thank you, Mr. Chairman, for calling this
+important hearing, and I look forward to the testimony of our
+witnesses today. And with that, I yield back.
+Chairman Chaffetz. I thank the gentleman.
+I would like to ask unanimous consent to enter into the
+record two documents. The first is a spreadsheet demonstrating
+that, since President Obama took office until now, there is $6
+billion in annual funding increases since the President took
+office. Despite the comments earlier, there are billions of
+dollars on an annual basis more being spent on IT.
+I would also ask unanimous consent to enter into the record
+the GAO summary of major information technology acquisition
+failures. The total about $8 billion, things that have been
+started and scuttled, everything from NOAA to the Department of
+Defense to Veterans Affairs to Homeland Security. I ask
+unanimous consent to enter that into the record as well.
+Without objection, so ordered.
+Chairman Chaffetz. I want to hold the record open for 5
+legislative days for any members who would like to submit a
+written statement.
+It is now time to recognize our witnesses.
+I am pleased to welcome Mr. Dave Powner, director of IT
+management issues at the Government Accountability Office. I
+appreciate your expertise. You have testified before, and we
+are glad to have you here.
+Mr. Terry Milholland, chief technology officer at the
+Internal Revenue Service at the Department of the Treasury,
+thanks for being with us again.
+Mr. Terry Halvorsen, chief information officer at the
+Department of Defense. Again, we welcome you, Mr. Halvorsen,
+and your presence again before this committee.
+Ms. Beth Killoran--did I pronounce it properly?
+Ms. Killoran. Killoran.
+Chairman Chaffetz. Killoran. I believe this is your first
+time testifying in front of Congress, and we welcome you here
+today.
+She is the acting Deputy Assistant Secretary for
+information technology and chief information officer at the
+Department of Health and Human Services.
+Thank you for being here.
+And the Honorable Tony Scott, the Federal chief information
+officer at the Office of Management and Budget.
+Welcome and thank you all for being here.
+Pursuant to committee rules, witnesses are to be sworn
+before they testify.
+If you will please rise and raise your right hand?
+Do you solemnly swear or affirm that the testimony you are
+about to give will be the truth, the whole truth, and nothing
+but the truth?
+Thank you. Let the record reflect that all witnesses
+answered in the affirmative.
+We would appreciate you limiting your verbal comments to 5
+minutes. Your entire written statement will be entered into the
+record. We will give you a little latitude, but if it gets to
+be too long, we will cut you off, so we can ask some pertinent
+questions.
+But, again, we appreciate you being here.
+Mr. Powner, you are now recognized for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF DAVE POWNER
+
+Mr. Powner. Chairman Chaffetz, Ranking Member Cummings,
+members of the committee, thank you for holding this hearing
+that highlights a significant issue for our Nation. We have too
+many old legacy systems that are not serving citizens well,
+cost too much to maintain, are at risk of failing, and pose
+significant security vulnerabilities.
+This morning, I will summarize some of these systems and
+why we got into the situation, the dire security situation
+these systems pose, and what needs to occur to fix this issue.
+I would like to start by highlighting the fact that the
+Federal Government spends roughly 75 percent of its IT dollars
+on operations and maintenance and only 25 percent on
+modernizing or new development. So last year, roughly $60
+billion was spent on legacy, and $20 billion went to new
+development. Some of this legacy goes toward duplicative
+systems and inefficient data centers. In your committee hearing
+last week, you administered FITARA implementation grades that
+directly address this, could move savings from the legacy
+bucket to development, and greatly help the situation.
+At that hearing, Commerce CIO Steve Cooper illustrated this
+best when he discussed significant savings resulting from
+consolidating data centers and how these funds can be moved
+toward new modernization efforts.
+Within that $60 billion spent are many old legacy systems,
+some of which have components over 50 years old. Our report
+being released today highlights numerous systems that are still
+being run with outdated languages, like Assembly, COBOL, and
+Fortran; have old parts that are obsolete and difficult to
+find; and contain hardware and software that is no longer
+supported by vendors.
+A key point here is that many of these systems are tied to
+mission-critical functions, not just administrative or
+financial management systems, not to downplay the importance of
+those systems. But our report highlights these aging systems
+that process our tax returns, coordinate operational functions
+for nuclear forces, determine Social Security eligibility and
+amounts. In addition, these aging systems maintain information
+on hazardous materials important to the Department of
+Transportation. They also serve as a key communications hub for
+our Nation's weather warnings.
+A couple key reasons why we have this situation is CIO
+tenure and poor governance over IT spending. The average CIO
+tenure is roughly only 2 years, and most CIOs are not tackling
+these large modernization efforts that typically involve
+massive application and data conversions.
+Also, agency IT governance over legacy spending is
+typically either lacking or poor at best. Not only are these
+old systems difficult and expensive to maintain because
+agencies have to rehire retired programmers or pay a premium to
+vendors for such services, but they also pose significant
+security risks.
+Having all this unsupported hardware and software is a
+recipe for security breaches. In fact, during our review, we
+asked for and took pictures of these older systems, and four
+agencies told us that they could not provide us with these
+pictures because that alone created significant security
+concerns.
+This is a difficult yet fixable problem. To address this
+situation, agencies need to first identify and prioritize their
+old legacy systems in need of replacement. Tony Scott's draft
+guidance does just this, and this committee's inquiries also
+help agencies to complete this first step.
+Next, agencies need to develop replacement plans with clear
+milestones for their replacement efforts. Our report highlights
+far too many instances where these plans are not in place.
+Finally, these plans need to be implemented effectively by
+tackling these efforts incrementally and having aggressive
+governance that monitors progress that should include clear
+transparency on the IT dashboard.
+Again, your FITARA implementation grades that stress
+incremental development and accurate CIO ratings could be
+extremely helpful in fixing the government's aging legacy
+system problem.
+Mr. Chairman, thank you for your leadership on this
+important issue, and I look forward to your questions.
+[Prepared statement of Mr. Powner follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you. I appreciate it.
+Mr. Milholland, you are now recognized for 5 minutes.
+
+STATEMENT OF TERRY MILHOLLAND
+
+Mr. Milholland. Chairman Chaffetz, Ranking Member Cummings,
+and members of the committee, thank you for the opportunity to
+testify here today.
+The IRS recognizes the need to continue work to modernize
+our information technology. We make every effort to stay
+current and efficient in our data centers and our processing
+platforms while remaining vigilant about the security of our
+systems and the taxpayer data entrusted to us.
+We operate a number of legacy systems vital to our tax
+administration mission. Our goal is to retire all of these
+legacy systems as quickly as possible. We consider them to be
+legacy because their programming languages and data structures
+were generally designed and built decades ago when computer
+infrastructure was extremely expensive and technology
+capabilities were limited.
+Over time, the underlying hardware and operating
+infrastructures of the legacy systems have been modernized.
+Together with the movement to electronic filing technology, and
+despite the restrictions of the programming language and data
+structures, this modernization has made it possible for the IRS
+to deliver smooth filing seasons year after year.
+To give the committee an idea of what our submission
+systems can handle, over this last filing season, we received
+4.4 million tax returns on our peak day. At that peak, our
+systems accepted more than 800,000 filings in a single hour,
+which equates to more than 225 filings per second.
+But the main challenge posed by our legacy systems is that
+their data structures stored on computer tapes make it very
+difficult to use that data in our downstream service and
+compliance systems to better serve taxpayers.
+So we have been working for many years within the
+constraints of our budget to transition our legacy systems'
+programming languages and data structures so that we can make
+that data more available for more modern, Web-based
+applications and data analytics that we use in other key
+mission functions, like enforcement and compliance.
+Our most visible effort in this regard has been the
+development of a centralized relational database for all
+individual taxpayer accounts called the Customer Account Data
+Engine, CADE2. When fully implemented, it will replace the
+legacy Individual Master File, or IMF, which historically has
+been the primary data source for individual taxpayer accounts.
+We think that will happen in three major steps, or what we
+call transition states. The first step of this transition state
+in implementing CADE2 was the launch in January 2002 of that
+relational database. Up to this point, we had been performing
+core account processing on a weekly basis. Launching this phase
+of CADE2 meant that the IRS can now process updates to accounts
+on a daily basis. This has fundamentally changed the way the
+IRS provides information and services to taxpayers, and has
+delivered significant and lasting benefits to our tax system.
+For example, taxpayers can now receive their refunds
+faster, and IRS customer service representatives have much more
+up-to-date customer account information.
+This, however, is a complex, multistep process, not a
+single switch to be thrown. It is not an easily accomplished
+action because connections for these legacy systems are
+intertwined throughout the IRS for both system and data
+repositories.
+There is a lot more work to be done on CADE2, but the steps
+we have taken so far have improved our ability to interact with
+taxpayers efficiently and effectively.
+I also want to mention that GAO has acknowledged the
+importance of the IRS work in this area. In 2013, GAO removed
+our business system modernization program from its high-risk
+list, singling out delivery of the initial phase of CADE2 as
+the main reason for determining that business system
+modernization was no longer high risk.
+I also should point out that all new development work over
+the past 7 years has been using state-of-the-art programming
+languages and database technologies so that the problems of
+older legacy systems will not be repeated.
+In working to transition our legacy systems to more modern
+ones, we have a number of challenges. None is more critical
+than the budget situation. IRS funding was cut each year for 5
+years from 2011 to 2015, and our budget is currently about $900
+million below what it was in 2010. Making progress at a faster
+pace on transitioning our legacy systems will require
+significant, sustained, additional resources in the IT area.
+Another way Congress can help is by reauthorizing
+streamlined critical pay authority. The loss of this authority
+has made it very difficult and time-consuming to recruit and
+retain employees with expertise in highly technical areas in
+IT, such as legacy system modernization, cybersecurity,
+architecture, engineering, and operations.
+Chairman Chaffetz, Ranking Member Cummings, and members of
+the committee, this concludes my statement, and I am happy to
+take your questions.
+[Prepared statement of Mr. Milholland follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you.
+Mr. Halvorsen, you are now recognized for 5 minutes.
+
+STATEMENT OF TERRY HALVORSEN
+
+Mr. Halvorsen. Good morning, Mr. Chairman, Ranking Member,
+and distinguished members of the committee. Thank you for this
+opportunity to testify before you on the Department of Defense
+legacy information technology spending plans for modernization
+and the implications of IT acquisition reform and security.
+As the department CIO, I am the principal adviser to the
+Secretary of Defense for information management, IT,
+cybersecurity, communications, positioning, navigation and
+timing, spectrum management, and senior leadership and Nuclear
+Command and Control and Communications matters. My written
+testimony provides more detailed information on these matters,
+but I want to highlight some of the department's activities in
+this area.
+All of the services have modernization plans that align
+with DOD and service priorities. The DOD and the services have
+recognized some critical areas to which funds have been added
+for modernization. NC3, PNT, the Joint Regional Security Stacks
+are some examples. All of the services are committed to moving
+to Windows 10, and we are working on moving toward a common
+private cloud supported by various hybrid and public clouds.
+The department and services are committed to modernization
+as it relates to improved cybersecurity. For example, within
+the services, the Army is moving forward with upgrading its
+camp, post, station, and base communications IT infrastructure.
+The Air Force is implementing Communications Squadron Next. The
+Navy is moving forward with shipboard modernization with
+programs such as CANES. And the USMC has focused its efforts to
+modernize IT at the edge by creating a seamless Marine Corps
+enterprise network.
+I believe we are correctly balancing between mission
+priorities, legacy systems, and modernization within current
+budget constraints. Today, about 25 percent of our budget goes
+to modernization. That doesn't mean that we don't have
+challenges or that there are enough resources.
+OPTEMPO also has a major impact on IT equipment and
+modernization. DOD has been busy, and we continue to have high
+demand for our services.
+Our priority for investments are C2 systems and direct
+combat support systems. We aren't modernizing business systems
+as fast as we would like, but we have prioritized DOD resources
+to ensure overall mission success.
+The DOD is ``Fortune Zero.'' It is the largest IT operation
+in the world.
+I think it is important to note that DOD is not out of
+balance with large enterprise IT in the private sector. We are
+not out of balance in investment, use of cloud, percentage
+using older languages. I think we should note that COBOL runs
+70 percent to 80 percent of all business transactions in the
+world.
+IT modernization competes for dollars with other DOD
+modernization efforts, like aviation platforms, ship weapons,
+combat vehicles, et cetera. Again, I think we've got the
+priorities right, given the budget constraints. The budget,
+however, is constrained, and that affects all modernization
+efforts, to include IT.
+While I am the CIO, DOD must look at the entirety of the
+department's modernization efforts, not just IT, and prioritize
+accordingly.
+Thank you for the time. I look forward to your questions
+today.
+[Prepared statement of Mr. Halvorsen follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you.
+Ms. Killoran? Did I get it better that time?
+Ms. Killoran. Yes, thank you. Good morning.
+Chairman Chaffetz. You are now recognized for 5 minutes.
+Thank you.
+
+STATEMENT OF BETH KILLORAN
+
+Ms. Killoran. Good morning, Chairman Chaffetz, and Ranking
+Member Cummings, and members of the committee. Thank you for
+giving me the opportunity to discuss our legacy Federal IT
+technology at HHS.
+As the chief information officer acting for the Department
+of Health and Human Services, my testimony today will describe
+how we have been able to decrease some of our end-of-life
+systems through both a risk mitigation approach as well as our
+plans moving forward.
+HHS is the U.S. Government's principal agency for
+protecting the health of all Americans and providing essential
+human services, especially for those who are least able to help
+themselves. Information technology is critical to enabling HHS
+to achieve its mission by fostering advances in medicine,
+public health, and social services. HHS currently spends
+approximately $5 billion annually on our internal IT and over
+$7 billion in IT grants that are primarily given to States and
+local agencies to facilitate our programs.
+In managing our IT programs, one of the key risks
+associated with operational systems is our ability to secure
+them. Last year, HHS did make measurable progress in our
+increase of Federal Information Security Modernization Act
+score, or FISMA. But our work there isn't done.
+HHS is currently working to implement the next phase of
+Einstein, and we are working to improve our trusted Internet
+connection and deploy different tools under DHS's continuous
+diagnostics and mitigation program.
+All of this work will not only strengthen our systems, but
+will build on HHS Cyber Sprint success that we had and
+strengthen our overall cyber infrastructure resiliency.
+When our agency decides to replace a legacy system, cloud
+offerings can help our agency reduce time to develop those
+products and services. Cloud solutions have helped already HHS
+reduce program risk and development time.
+Our most successful cloud implementation to date is our HHS
+financial systems upgrade of our core backbone, which occurred
+last year. This ambitious program modernized our IT
+infrastructure by using cloud capabilities to improve our
+systems over all. and through a shared technology, we were able
+to add cutting-edge technology in a shorter period of time.
+Given the importance of our IT mission, I worked diligently
+over the last year to also improve our IT portfolio review
+process. Through this, I have launched a number of initiatives
+in collaboration with our operating divisions to address the
+most common systematic issues, improve transparency, and
+enhance governance. Our HHS Federal information technology
+reform act implementation plan helps support that path moving
+forward.
+One initiative that I have done is to enhance our program
+evaluation model to make sure that we are looking at enterprise
+risk overall, and implemented changes to how we look at and
+score our programs for the IT Federal dashboard last October.
+This new model incorporates new risks, operational performance
+objectives, and factors both from scoring and risk factors that
+OMB has established in GAO.
+This data is used to closely monitor our IT programs and
+risks, and identify those that are at risk. And if something is
+at high risk for a certain period of time, we do conduct
+TechStats, of which we actually conducted 10 within the last
+year, including both the programs cited in the recent GAO
+report.
+We will continue to work on mitigating risks as we look at
+our legacy systems and work to improve.
+By working one-on-one with our program managers, we can
+increase the probability of success. We have found that
+investing in those individuals is critical to our success. We
+have trained 300 people over the last year, and we have an HHS
+human capital pilot to increase our cybersecurity work force
+and competencies over the next year.
+HHS does spend significantly more on operations, 71
+percent, than on our development at 29 percent. HHS recognizes
+the need for greater development spending, but challenges
+exist.
+Some of our challenges include lack of authority, uncertain
+grantee systems, the ability to make sure that we are
+accomplishing Federal mandates, the interdependencies of our
+systems, and funding by smaller organizations.
+As we move forward with some of these capabilities, we will
+make sure that we look at our inventory and make sure that our
+FITARA plan establishes how we will evaluate those and look at
+our modernization moving forward.
+One way that we know that we can address a funding
+challenge is by Congress passing the IT modernization fund.
+This model can help agencies with upgrading their systems, and
+the business case we have is our nonrecurring expense fund.
+This is provided to use unobligated balances to allow us to
+make changes to our critical systems, and we have succeeded in
+enhancing our DME significantly from 2012 and 2013 to current
+standards.
+Simply put, doing nothing is not doing nothing. As systems
+age, the risk to security, reliability, and availability have
+to be addressed. To reduce exploitation and system
+vulnerabilities' associated risk, we need to look at those
+systems and make sure that we are looking at business and
+security risks to make our priorities.
+Thank you for your time, and I will yield to any questions
+you might have.
+[Prepared statement of Ms. Killoran follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you.
+Mr. Scott, you are now recognized for 5 minutes.
+
+STATEMENT OF TONY SCOTT
+
+Mr. Scott. Thank you, Chairman Chaffetz, Ranking Member
+Cummings, members of the committee. I appreciate the invitation
+to appear before you today.
+As has been noted, Federal agencies spend nearly three-
+quarters of their IT budgets maintaining legacy systems. They
+are particularly vulnerable to malicious cyber activity, and
+they are often unable to utilize current cybersecurity best
+practices, such as data encryption, multifactor authentication,
+and other techniques.
+But in addition to posing security vulnerabilities, these
+systems are often very inefficient and subject to rising costs
+over time, and the inability to meet mission requirements. To
+address these challenges, the administration has proposed the
+creation of an information technology modernization fund to
+facilitate the transition of Federal systems to more secure,
+cost-effective, and more modern infrastructure, such as cloud
+platforms.
+The ITMF would address these challenges associated with
+legacy IT by better aligning with the following private sector
+best practices.
+First, a board of experts acting independently of any one
+agency will review agency proposals and select the highest
+priority projects across the government, ensuring that the
+Federal Government's most pressing and highest risk systems are
+targeted for replacement.
+Second, the ITMF will require agencies to pay back the
+funds as projects complete. Doing so will ensure that projects
+receive significant buy-in and attention from agency
+leadership, and that, over time, the ITMF is self-sustaining
+and continues to support future modernization projects. We
+estimate that the $3.1 billion in one-time seed funding could
+address at least $12 billion in modernization projects over the
+first 10 years and would continue to remain available in the
+future.
+Third, experts in IT acquisition and development will
+provide expertise to agencies in implementing their
+modernization plans. To increase the probability of success,
+every project that receives funding will have access to
+centralized expertise, including a public-facing dashboard that
+tracks key milestones and financial expenditure data.
+Fourth, the ITMF will have the ability to provide funding
+in smaller increments tied to real-world delivery of working
+products. This agile approach ensures that agencies employ
+modern development techniques and that these funds support
+successful projects.
+Finally, by requiring agencies to apply and compete for
+incremental funding, the ITMF will provide strong incentives
+for agency leadership to develop and implement comprehensive,
+high-quality, and cost-effective modernization plans.
+Retiring or modernizing vulnerable and inefficient legacy
+IT systems will not only make the government more secure, it
+will also save us money. As a means of acting on this necessary
+next step, we look forward to working with Congress on enacting
+the ITMF, which will enhance agencies' ability to protect
+sensitive data, reduce costs, and deliver world-class digital
+services to the American people.
+I thank the committee for holding this hearing, and I would
+be pleased to answer any questions that you might have.
+[Prepared statement of Mr. Scott follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you. Thank you all.
+I will now recognize myself for 5 minutes, but I will yield
+my time to the chairman of the Subcommittee on IT, Mr. Hurd of
+Texas.
+Mr. Hurd. Thank you, Mr. Chairman. Thank you and the
+ranking member for the leadership on this issue.
+I always say that nobody is going to hold a rally for IT
+procurement, but when I am back home, everybody asks about this
+question because they recognize that $80 billion is being spent
+on IT procurement and 80 percent of it is on legacy systems. It
+is about using American taxpayer dollars wisely. It is about
+making sure we have an efficient government that is providing
+services to our citizens. And it is making sure that we are
+using technology that is keeping us safe and protecting our
+digital infrastructure.
+My first question is to Mr. Halvorsen. When did you come
+into the position as CIO?
+Mr. Halvorsen. I have been in this position about 2.5
+years.
+Mr. Hurd. Are you familiar with the Expeditionary Combat
+Support System?
+Mr. Halvorsen. I am.
+Mr. Hurd. And that is a system that was canceled in 2012,
+after spending more than $1 billion and failing to deploy
+within 5 years of initially obligating funds. Is that accurate?
+Mr. Halvorsen. It is.
+Mr. Hurd. One of the things that we are looking at in the
+FITARA scorecard is incremental development. It's major
+development investments and are they achieving measurable goals
+every 6 months? DOD is listed as an F when it comes to
+delivering this. As of May 2016, only 41 percent of those
+projects are being delivered.
+In asking for a modernization fund and additional funds,
+what is going to be done differently in the Department of
+Defense to ensure that, if you do have more money for
+investments on updating legacy IT systems, that you are going
+to actually hit the mark on time?
+Mr. Halvorsen. I would say a couple things.
+One, we are a little out of sync with the grading criteria
+in that we have a 6- to 12-month, not a zero- to 6-month grade
+within DOD. We are moving that more forward, so we leveled that
+time to 6 to 12. It was higher before.
+I think if you look at the things we have done recently,
+you will see that we are doing things in modernization. The
+move to Windows 10 is the single biggest move to a single
+operating system ever undertaken by any organization. We are
+getting that done. We have a 1-year time frame. We are on track
+to do that. We will hit 80 percent of DOD in a year.
+We have done more modernization with the commercial sector.
+I think that is the important piece that we need to recognize
+here. Our modernization needs to be done much more in
+conjunction and partnership with the commercial sector.
+Mr. Hurd. So, Mr. Halvorsen, are you saying buy, not build?
+Mr. Halvorsen. I am saying buy mostly, not build.
+Mr. Hurd. Excellent.
+My next question is for Mr. Milholland. What is Treasury's
+strategy to manage unsupported technologies, such as the
+mainframe capabilities where it states the Treasury will assume
+the risk of the expired support technology? We sent a letter
+out to every agency asking for old programming language that is
+being used, systems that are no longer supported by vendors. In
+some of these systems that are no longer supported by vendors,
+Treasury is saying that they are assuming the risk for that
+expired technology.
+What is the strategy to manage these unsupported
+technologies?
+Mr. Milholland. I am not the Treasury CIO, so I cannot
+answer that completely, but we are a large part of that
+organization.
+Mr. Hurd. In some of these, the response was saying that
+the IRS will be assuming the responsibility for managing that.
+Mr. Milholland. Yes. We believe that all of the
+technologies we have today are, in fact, supported. For
+example, when we were completing the drive to get to Windows 7,
+we worked out a special support deed with Microsoft to cover
+the Windows XP environments while we were completing the job,
+for example.
+The rest of the environments, like what you call the
+mainframes, which is a Systems z, is, in fact, fully supported
+by the supplier, IBM. It is a very modern operating system. We
+are running Linux on the z. In fact, our main migration path
+for all new development is to build these applications with
+Java and run it on the z, or wherever best. It could be on an
+Intel processor.
+We are also using the dollars to stay current whether it is
+the BIOS, whether it is operating systems, whether it is the
+middleware, whether the tools you are using, or the cross
+product, be more no more than n or n-1 versions behind.
+Mr. Hurd. I copy, Mr. Milholland, and I only have 10
+seconds left.
+Do you have a modernization roadmap that creates a common
+modern platform for mission delivery?
+Mr. Milholland. Absolutely. In fact, we have shared it with
+this committee. We call it the technology roadmap, part of
+delivering of what we call the future state for the IRS.
+Mr. Hurd. Where are you in implementation?
+Mr. Milholland. We are just at the very beginning for that,
+for the migration to be the digital enterprise. But part of
+that is the modernization of all the legacy systems, which
+includes replacing that assembly language code with Java. That
+is in part driven by the CADE2 project that is underway.
+Mr. Hurd. Thank you, Mr. Chairman. I yield back.
+Chairman Chaffetz. We will now recognize the gentleman from
+Virginia, Mr. Connolly, for 5 minutes.
+Mr. Connolly. Thank you, Mr. Chairman, and I thank the
+ranking member for his ongoing support that has allowed us to
+elevate this issue in this committee and actually created
+enormous common ground.
+Thank you, Mr. Cummings, especially.
+Welcome to the panel.
+Mr. Scott, we are talking about legacy systems, but has
+there been a comprehensive audit of Federal agencies, so we
+actually know the full universe we are talking about?
+Mr. Scott. There is a data collection effort underway
+currently where we hope to gain better insight into actually
+what it is. I would say that some of this is problematic in the
+sense that much of the data isn't automated in the sense that
+you can just push a button and get a digital report in the as-
+is environment. So we don't have a comprehensive ----
+Mr. Connolly. But the fact of the matter is --anecdotally,
+right?--we've had, maybe we still have, Federal agencies with
+multiple email systems ----
+Mr. Scott. Correct.
+Mr. Connolly.--not all of which are compatible; multiple HR
+systems, not all of which are compatible; huge numbers of data
+centers that proliferated, and God only knows what coordination
+exists among the thousands of data centers we are trying to
+consolidate; and legacy systems. And on top of legacy systems,
+isn't it also true we have widely distributed software products
+that also need updating or patching?
+Mr. Scott. This is correct. One of the techniques we have
+used to estimate the level of legacy systems is I recently went
+to some of our key suppliers of network storage computer
+equipment and asked them to provide us data in terms of what
+they know about the Federal Government.
+One of the interesting things coming back was, in many
+cases, we pay for support contracts for hardware, software that
+they have sold the Federal Government.
+I asked them to look at what is either expired or will
+expire in the next 3 years, to try to get some handle on what
+that might look like, just from their own records.
+These are systems that we are paying today for support
+contracts on.
+In just the next 3 years, we will have over $3 billion
+worth of hardware, software, and services that will go out of
+support, meaning no spare parts, no patches, no upgrades, no
+security.
+Mr. Connolly. Isn't it also true--I am running out of time,
+so forgive me for interrupting--that we have had to hire 3,427
+IT professionals just to maintain legacy systems?
+Mr. Scott. That sounds about right, yes.
+Mr. Connolly. Wow. Any idea what the estimated cost is to
+replace all the legacy systems in the Federal Government?
+Mr. Scott. We don't have an accurate estimate of that.
+We've tried to triangulate it in a number of different ways.
+That's why we ended up with the $3 billion proposal. We think
+that is at the low end of what would be required to make a
+meaningful start to this.
+But I think the more important concept we should all
+embrace is, given the rapid advance of technology, we really
+need to get into a continuous upgrade mode, not a ``wait until
+it breaks'' mode.
+Mr. Connolly. Right. And I want to deal with something,
+because the chairman has on several occasions cited the fact
+that you have $82 billion a year you spend on procurement. He
+cited in his opening statement the fact that this
+administration, over its lifespan, has increased that. That
+total amount represents an increase of about $6 billion.
+Why isn't that sufficient? Why do you need more money? Why
+do you need this modernization fund, when you have such a
+substantial amount of money we are spending every year, and
+even that amount might be understated, in terms of not
+capturing other expenses within the Federal family?
+Mr. Scott. I agree with the wide observation that there is
+an opportunity to save money. The challenge is, as was already
+said, a lot of that money is spent on just keeping the lights
+on the current old stuff.
+Unfortunately, we cannot shut that off until we have a
+replacement in place, so you cannot actually capture the
+savings until after you have done something to replace it. That
+is why this concept is important.
+Mr. Connolly. Sort of dovetailing with, I think, one the
+chairman's points, I do think the burden is going to be on the
+Federal Government, the executive branch.
+Okay, let's say, we authorize the modernization fund,
+buying the argument that we are going to have to make an
+initial outlay to achieve savings. There is going to have to be
+a codified savings and efficiency plan that shows we can make
+IRS, DOD, and HHS, and every other Federal agency, this much
+more efficient, and either keep a budget stable or, in fact,
+effectuate net savings because we have replaced those legacy
+systems.
+I think the chairman has expressed that it is
+counterintuitive that we would actually need to add more money.
+I think you can sell that, the argument you just made, Mr.
+Scott, if you can demonstrate, ``And here will be the payoff.
+Here is the return on that investment.''
+I think we have to spend some real time with Congress in
+making that case.
+I yield back.
+Chairman Chaffetz. I thank the gentleman, because those
+last comments, I do agree with. I think that is the seminal
+question we have to get out and agree that is the question that
+we need to analyze on that particular piece of legislation.
+I now recognize the gentleman from Florida, Mr. Mica, for 5
+minutes.
+Mr. Mica. Thank you, Mr. Chairman. And thank you for
+holding this, it's kind of a meat-and-potato hearing. It is not
+flashy like some we do.
+I had the privilege to serve with a very capable ranking
+member, Mr. Connolly, with Government Operations. He is very
+knowledgeable, in fact, more knowledgeable than I was when I
+assumed that position and learned a lot from him.
+Our objective was to look at the total amount of money we
+were spending at the time, which at that time was $80 billion.
+Now I see with your report that was released today, they are
+spending $89 billion.
+The estimate when Mr. Connolly and I were doing our review
+was that about 50 percent of this money is wasted either on
+outdated technology, on duplicate data centers.
+Would GAO or OMB, would you say that about 50 percent is
+not properly spent, is wasted? Is that still about where we
+are?
+Mr. Scott. Yes, I think it would make sense to say, if you
+missed multiple generations of the opportunity to improve your
+computing environment, you are wasting money. It is very clear.
+Mr. Mica. What do you think, GAO?
+Mr. Powner. I do not know if it is 50. I will say this, I
+don't know that I have a precise number, but there is a lot of
+money spent on inefficient operations, data centers, and there
+are a lot of failed acquisitions. So clearly, there are
+billions wasted.
+Mr. Mica. Your report says Federal legacy IT investments
+are becoming increasingly obsolete. Many use outdated software
+languages and hardware parts that are unsupported. Agencies
+reported using systems that have components that are in some
+cases at least 50 years old.
+This is your finding.
+Mr. Powner. Correct.
+Mr. Mica. Well, we won't even go half, if we just go $40
+billion in waste.
+When Mr. Connolly and I started this exercise, we asked you
+all how many data centers there were. I think, first, we got
+800 or something. Then we got 1,200. Then we got, oh my God, we
+were in the thousands.
+I was interested to see in your report here how many
+thousand data centers we have.
+What is that current number?
+Mr. Powner. It is about 10,500.
+Mr. Mica. Ten thousand five hundred. What would you
+guesstimate we could reduce that to?
+Mr. Powner. Well, we have closed 3,100 to date and saved
+$2.8 billion. We can close another 2,000 and save $5.4 billion.
+I think that $5.4 billion is greatly understated because many
+agencies ----
+Mr. Mica. So we can actually spend less and get better
+technology, better results, and improved systems. Is that
+correct?
+Mr. Powner. Yes, we need to definitely get more modern.
+Mr. Mica. So the opening salvo from the other side was that
+Republicans are slashing the money. But actually, we have
+actually saved money by going to the cloud. Is that correct,
+sir?
+Mr. Powner. Yes, there have been savings.
+Mr. Mica. And there are certain concerns about security. We
+do have the cyberthreat.
+A great deal of the data in the Federal Government is not
+classified or necessarily high-security risk, is it, Mr.
+Powner?
+Mr. Powner. It varies. It clearly varies.
+Mr. Mica. But again, your report points out there can be
+very substantial savings consolidating these data centers,
+10,000--we have done some--and then moving to the cloud and
+other--now the question came from Mr. Hurd a little bit about
+buy or build, and the answer was build. What about buy or
+lease? Can somebody say we should be leasing?
+The problem is that the Federal Government buys equipment,
+and the equipment, I will take you back here, we have it even
+in our offices, is outdated. Maybe Mr. Davis bought some of it,
+but now Mr. Chaffetz has inherited it. That is the way agencies
+work, the same way.
+So buy or lease, anyone want to respond? Mr. Scott? Mr.
+Powner?
+Mr. Scott. Well, I think our guidance as proposed would
+rate projects that use cloud, use these more modern techniques,
+the buy-by-the-drink kind of thing, versus build it yourself.
+That is a high-scoring criteria for those projects.
+Mr. Mica. But where are you going to get equipment in an
+office, buy or lease?
+Mr. Scott. You have to have a replacement strategy and
+often that means leasing.
+Mr. Powner. Yes, so I think, clearly, we want to build less
+in the Federal Government. There is less risk with that.
+Mr. Mica. Thank you. I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We will now recognize the ranking member of the
+Subcommittee in IT, Ms. Kelly of Illinois, for 5 minutes.
+Ms. Kelly. Thank you, Mr. Chair.
+As ranking member of the IT Subcommittee, I have been
+working with Chairman Hurd on the very issue of legacy systems.
+One of the topics consistently discussed is moving to the
+cloud.
+The CIO.gov Web site says the government's current
+information technology environment is characterized by, and I
+quote, ``low-asset utilization, a fragmented demand for
+resources, duplicative systems, environments that are difficult
+to manage, and long procurement times.'' It goes on to say, and
+I quote, ``Cloud computing has a potential to play a major part
+in addressing these inefficiencies.''
+Mr. Scott, can you briefly explain what is cloud computing?
+Mr. Scott. Generally, it is an environment that leverages
+the power of virtualization, of compute, of storage, of
+networking, as though it were one operating system that allows
+individual programs to scale up or scale down and get better
+asset utilization in aggregate than would be the case in the
+alternative, which is to have a bunch of individual servers.
+It is often surrounded by sets of utilities and other
+mechanisms that allow for the provisioning and de-provisioning
+of computer environments very quickly, which also saves time
+and makes IT more efficient.
+Ms. Kelly. So you started explaining what an important role
+it can play in helping agencies modernize their IT systems. Can
+you expand on that?
+Mr. Scott. One of the benefits of the cloud is the agility
+factor, and then just the scale that most cloud environments
+exist in.
+So I used to talk about the double-double rule as the
+primary way by which system engineers create and compute. If
+you are in the old days an engineer and you are configuring a
+server, you would figure out what it was going to take to
+support that application. You would double it, and then you
+would double it again. That was just an unwritten rule about
+how engineers would configure systems.
+So it was no wonder that when you went into the data
+center, you would find things running at 15 percent or 20
+percent of their capacity.
+What cloud does is aggregate all of that together. Then you
+can run the whole plant at 70 percent, 80 percent, or 90
+percent efficiency instead of 15 percent. That saves money.
+Ms. Kelly. Can you tell us what, if anything, the Office of
+Management and Budget has been doing to encourage agencies to
+move toward cloud computing solutions?
+Mr. Scott. As we have talked with agencies about their
+plans, we have highlighted the opportunity to do that and ask
+questions. We are requiring them to show us what their
+modernization plans are and highly favoring both cloud but also
+virtualization and other modern development techniques. We are
+encouraging the buying of services rather than developing them
+themselves. We are also encouraging the use of shared services.
+So one of the challenges is, in the old world, every agency
+thought it had to do everything top to bottom by itself. As was
+mentioned in the case of email or shared networks or payroll
+systems or financial systems, there is a great opportunity to
+use more shared services and not have every agency do
+everything top to bottom on its own.
+Ms. Kelly. I'm glad to hear that, because I wondered in
+another hearing, but didn't get a chance to ask the question,
+about how often do we share.
+Back in July 2010, David McClure, then associate
+administrator of the General Services Administration, testified
+before this committee that cloud computing would, and I quote,
+``increase the overall IT security posture of the government.''
+Can you explain how cloud computing can improve the Federal
+Government's overall IT security?
+Mr. Scott. We have a FedRAMP standard that takes all of the
+best practices of security and puts together a template and a
+process that providers can certify against that includes
+background checks and other things like that on the people that
+are actually operating the systems, and, taken altogether, is
+much more comprehensive than what we would typically find in a
+sampling of individual agencies or individual environments.
+These are businesses that depend on high security for their
+reputation and future business models, so they often take it
+far more seriously and can put the resources toward it that
+maybe a small organization might not be able to.
+Ms. Kelly. Thank you.
+Thank you, Mr. Chair. I yield back.
+Mr. Mulvaney. [Presiding] I thank the lady.
+The gentleman from Texas, Mr. Farenthold, is now recognized
+for 5 minutes.
+Mr. Farenthold. Thank you, Mr. Chairman.
+Mr. Milholland, you and I think several other members of
+the panel testified that one of the things holding you back
+from getting rid of these legacy systems and upgrading was
+budget concerns. I have to tell you, one of the things I
+consistently hear from everybody who comes into my office,
+whether they are advocating for education or increased medical
+research is, ``Give me more money today, and I will give you
+savings tomorrow.''
+Now, this is, I think, part of our Federal Government
+budgeting mentality, that we do not think enough like the
+private sector. You look at what is happening in the private
+sector right now, when I started practicing law, we were on IBM
+Selectrics. We moved to a mini-computer and moved to a PC
+network. And we went from one assistant for every lawyer now to
+one assistant for every four or five lawyers through the
+technology.
+You look at what the IRS has done. You have millions of
+people e-filing your taxes. You now don't need people in data
+centers keying that into the computer.
+So the savings are coming naturally. So I have a kind of
+two-part question here. One, can you quantify, ``If you give me
+X billion dollars today, I will save you Y billion dollars over
+the next,'' and we will take a lifespan of the computer, 5 to 7
+years? Can that be quantified?
+Second of all, isn't there a way within your budget to pay
+for this incrementally with the savings you are going to get?
+Mr. Milholland. I will try to answer that two-part
+question.
+With respect to the IRS and investment in IRS, people have
+said returns for about every dollar are $4 in revenue to the
+U.S. Often, a lot of that occurs because of the investment in
+the underlying IT infrastructure.
+Where we have suffered is that the budget has been
+reducing, not staying flat. I have been told that we are ----
+Mr. Farenthold. Isn't that what we are trying to do? I am
+going to give you a dollar and then, over the next 10 years,
+I'm going to reduce your budget by $4, and we are going to be
+in the same place by your figures.
+Mr. Milholland. But, sir, you also increased the tasks that
+we have. For example, far more people now are, in fact, filing
+income taxes.
+Mr. Farenthold. I would be much happier if you guys weren't
+having to fool with Obamacare, I will tell you that.
+Mr. Milholland. Well, there are a number of unfunded
+mandates like that that we have had to absorb, whether it has
+been Obamacare, FATCA, there is HCTC, the ABLE Act ----
+Mr. Farenthold. I do not have much time, so let me go to
+Mr. Scott.
+Can you talk about that on a broader scale?
+Mr. Scott. Yes, in fact, if we can show the chart that I
+brought, I don't know if they can put that up.
+What we did is we studied--we took a sample out of our
+database of projects across the Federal Government, this is
+across hundreds and hundreds and hundreds of investments, where
+there was an injection of modernization money prior to 2013.
+Then we looked and we compared that against projects where
+there was no injection, and what happened to the maintenance
+costs of those investments over time.
+What you see is a very clear trend. Where there was no
+injection of money to go fix things, costs continued to rise at
+a rate of around 6 percent.
+Mr. Farenthold. This number doesn't even take in reduced
+personnel costs. I'm assuming that as we modernize technology,
+as we see in law firms or banks with ATMs instead of tellers,
+we ought to see an even bigger cost decrease as people are able
+to work more efficiently. So we ought to be able to save money
+and deliver better service to the hardworking American
+taxpayers who are our customers.
+Mr. Scott. I think we would see, if we factored all those
+factors in, an even sharper drop. In cases, as shown in the
+chart there, where there was an investment, costs would
+continue to go down at a much faster rate. So they went down at
+least 5 percent a year on average, where there was an ----
+Mr. Farenthold. I would love to see an agency come in here
+and say, ``All right, give me this much money to modernize my
+IT, and you can cut my budget by this much.''
+Mr. Scott. Well, this is actual data over an at least 4-
+year period, based on actual experience in the government, so I
+think it proves the case.
+Mr. Farenthold. All right, if I am able to get back for a
+second round of questions, I do want to address the DOD
+hackathon and the success that had.
+But my time has expired, and I will yield back.
+Mr. Mulvaney. I thank the gentleman.
+I now recognize the gentleman from California for 5
+minutes, Mr. Lieu.
+Mr. Lieu. Thank you, Mr. Chairman.
+Let me first say I've read the biographies of the witnesses
+today, and all of you could be making a lot more money in the
+private sector, so thank you for your public service.
+I do have a question for Mr. Halvorsen. The GAO identified
+a 53-year-old legacy system in the Department of Defense known
+as the Strategic Automated Command and Control System. This
+system coordinates operational functions of the United States
+of nuclear forces, such as intercontinental ballistic missiles
+and nuclear bombers. Is that correct?
+Mr. Halvorsen. Not exactly.
+Mr. Lieu. All right, what does the system do?
+Mr. Halvorsen. It is a tertiary--I can only go into the
+system a little bit. It is a tertiary system that is
+responsible for delivering two small, very important messages
+as a third backup. That is what that system does today. It is a
+tertiary system.
+And we are actually investing in the NC3 system to change
+the way we deliver that whole product.
+Mr. Lieu. The reason you cannot talk more is because the
+rest is classified?
+Mr. Halvorsen. That is correct.
+Mr. Lieu. Okay. This system is still running on IBM Series
+1 computer, which is in 1970s computing system, according to
+the GAO, and written in Assembly language code. The GAO also
+reports that the system currently uses 8-inch floppy disks,
+which are a 1970s-era storage device. Is that accurate, sir?
+Mr. Halvorsen. That is correct.
+Mr. Lieu. Okay. So this system also, as I think you noted,
+sends and receives emergency action messages to nuclear forces.
+Is that correct?
+Mr. Halvorsen. A tertiary system for doing that, yes, sir.
+Mr. Lieu. I got that, but it does send and receive
+emergency action messages to nuclear forces.
+You would agree that our nuclear forces are pretty darn
+important?
+Mr. Halvorsen. I would.
+Mr. Lieu. Okay. You had in your testimony earlier today
+said that the Department of Defense is not of balance with
+other private sector companies, and that your priorities are
+right. Are you aware of any other successful private sector
+company that uses 8-inch floppy disks?
+Mr. Halvorsen. I am not, but I am aware of other private
+companies that use similar technology. No one is saying that we
+should continue to use the 8-inch discs much longer, but I
+would point out a couple things. The reliability factor on that
+system is where I need it to be, which is five 9s, 99.999
+percent. It is completely secure because it is a closed system.
+So while I want to fix it, all I am saying is that in the
+priority of things that I need to fix, that will be in probably
+year 3 of my next 5-year plan. It is not in the top priority of
+things I think either I want to fix or you would want me to
+fix, in terms of priority.
+Mr. Lieu. Why are you fixing it at all, if it is not as
+important as you say it is, if it is just this classified
+system you cannot even really talk about for nuclear forces?
+Mr. Halvorsen. I didn't say it wasn't important. I said it
+was a tertiary system. And what I am fixing is the entire way
+that we are going to deliver that whole process.
+I won't actually replace this system. The system is going
+to go away and be replaced by a different method of delivery.
+Mr. Lieu. And it'll be done by year 3?
+Mr. Halvorsen. It will.
+Mr. Lieu. Okay, thank you, sir.
+So, Ms. Killoran, I have a question for you about another
+system the GAO identified. It is the Health and Human Services
+Medicare appeals system. Can you explain what that is?
+Ms. Killoran. Yes. That system is a system that we actually
+have that plaintiffs can file appeals to claims that they have.
+It is actually a business process flow and goes through three
+of the five levels of appeals.
+Mr. Lieu. And a fair number of Americans have Medicare
+appeals, and the system helps them?
+Ms. Killoran. Yes. It allows them to get not only
+notifications and status, but it also sends out letters.
+Mr. Lieu. And the system also helps respond to
+congressional inquiries, correct?
+Ms. Killoran. Correct.
+Mr. Lieu. Do you have any plans to update that legacy
+system?
+Ms. Killoran. So that legacy system is 10 years old. We
+actually do have--the system has been updated to make sure that
+the software is current and the hardware is current. One of the
+things that we slightly disagree with on the audit is just
+because something has a particular age doesn't necessarily mean
+that it is end-of-life.
+As Mr. Scott had talked about, all of the operating system,
+the software and the hardware for this particular system, is
+completely up-to-date and supported by the vendor at this time.
+So we don't have a plan to replace, but we are going to keep
+updating it and making sure that it is current.
+Mr. Lieu. So your view is the system is working currently,
+and there is no need to upgrade it?
+Ms. Killoran. So we have been doing continual upgrades as
+we have different mandates and there have been requirements for
+operating system changes and software to keep it current, yes.
+Mr. Lieu. Thank you.
+Let me conclude by thanking Ranking Member Cummings and
+Chairman Chaffetz for holding this hearing, and I want to thank
+the ranking member for his support of the IT modernization
+bill, which I'm a co-author of as well, and hopefully we can
+get that through.
+With that, I yield back.
+Chairman Chaffetz. [Presiding] I thank the gentleman.
+We will now recognize the gentleman from South Carolina,
+Mr. Mulvaney, for 5 minutes.
+Mr. Mulvaney. I thank the chairman. I'm over here in the
+corner.
+I guess my questions are, Mr. Connolly was here, and I'm
+always frightened when I agree with him, but I agree with him
+more and more when we do these oversight hearings. I want to
+focus a little bit on how we got here.
+I heard the ranking member talk about the draconian budget
+cuts. Mr. Milholland, I heard you mention draconian budget
+cuts. Certainly, at the IRS, I apologize, I don't have the HHS
+numbers or DOD, so I don't want to appear to be picking on the
+IRS, but they are the numbers I could get in the last 5
+minutes. Certainly, your budget has been cut in the last couple
+years, 3 percent this year. It was up 0.8 percent the year
+before that. Down 5 percent the year before that. Down 2.5
+percent the year before that.
+But I think we would all agree that when you are still
+using technology and computer systems from the 1970s and 1980s,
+this is not a problem that started in 2012, okay?
+I see that Mr. Milholland is nodding his head.
+I go back to 2000, Mr. Milholland, when the Republicans
+were in charge, actually, and your budget went up almost 6
+percent, the next year 8.5 percent, the next year almost 4
+percent, then 4 percent, 4 percent after that. The Democrats
+take over in 2007, your budget is up 4.73 percent, 3.8 percent,
+5.4 percent.
+How can you really sit there and tell us this is money? I
+mean, you got bigger increases than everybody else in the
+country in 2008. I can assure you there were private industries
+and businesses and households that didn't see a 5.4 percent
+increase in their budgets during the recession.
+I mean, how can you sit there with a straight face and say
+it is money? While that is convenient today and ties into what
+the ranking member was saying, haven't you been mismanaging the
+money since the 1970s and 1980s? Isn't that the only way you
+end up in this problem?
+Mr. Milholland. I think there is a different way to
+characterize it than management. I can't speak for my
+predecessors at all, but decisions made back in the 1970s and
+continued into the 1980s and 1990s and the first decade of this
+century basically said, ``Let's build a set of systems that
+automate the paper processing set of systems.'' So the way
+taxes were handled in the 1940s and 1950s and 1960s became
+automated in the way that computer systems were designed.
+That means that when you file your taxes even
+electronically today, they are actually batched up
+electronically in a set of files that then need to be passed
+from system to system. There are lots and lots of
+interconnections that make that possible.
+The program was written in Assembly language. By the way,
+it is written very elegantly. It is incredibly well-engineered
+for the time it was designed and built. The underlying
+infrastructure is very much state-of-the-art. That is why we
+can process returns so fast.
+But we are constrained by those past decisions and the
+ability to share that data with I will just say new programs
+that we want to provide, so we are--I'm sorry, go ahead.
+Mr. Mulvaney. Does anybody that you know, anybody on the
+whole panel, does anybody in the private sector do it the way
+the government does it? Are there any private companies out
+there using 8-inch floppy disks and expired languages and
+machines they cannot get pieces for? Is there anybody out there
+who does this?
+Mr. Milholland. There are certainly companies that use old
+programming languages like Assembly language and COBOL and
+Fortran and others. Most are converting themselves like we are
+to a modern programming language, all new development beginning
+with Java, for example, or other modern programming languages.
+They use modern development techniques, so that you start
+with building a data model for your enterprise rather than have
+it as an afterthought with security built in.
+I think the current practices, we would not have done it
+that way, if we had the knowledge we have today.
+Mr. Mulvaney. Mr. Milholland, you mentioned something about
+your predecessor, and someone mentioned something in the
+previous testimony. How long have you been in this position at
+the IRS?
+Mr. Milholland. I have been here not quite 8 years.
+Mr. Mulvaney. What is the average tenure? This may be to
+the OMB or GAO. What is the average tenure of a CIO at our
+major agencies?
+Mr. Powner. Two years.
+Mr. Mulvaney. Is that a problem?
+Mr. Powner. It is a huge problem.
+Mr. Mulvaney. Why?
+Mr. Powner. Well, in regards to legacy systems, what CIO
+wants to come in over a 2-year period and undertake one of
+these massive conversion efforts? They pick the low-hanging
+fruit and get quick wins, and they don't tackle the difficult
+stuff often enough.
+Mr. Mulvaney. Who controls the tenure of a CIO at a major
+agency or department? Does Congress? Anybody?
+Mr. Scott. It depends. Some are Senate confirmed. Most are
+appointed politically.
+Mr. Mulvaney. Right, but if we are going to say that Mr.
+Halvorsen is going to be CIO at DOD, and we leave him there 2
+years, whose call is that? Is it ours or somebody else's?
+Mr. Halvorsen. Depending on when the 2 years started, it
+would generally be the Secretary of Defense's call. But I am
+politically appointed, so I will change out with the
+administration.
+Mr. Mulvaney. It is an executive decision. It was sort of a
+rhetorical question. Congress doesn't say that you have a 2-
+year term at DOD, or a 2-year term at HHS, or at any agency. It
+is an executive decision under both administrations.
+Mr. Powner, I take it your data goes back to Republican
+administrations as well.
+Mr. Powner. Yes, it goes back a long way. We have done
+multiple studies dating back for years on this.
+Mr. Mulvaney. Thank you, Mr. Chairman.
+Chairman Chaffetz. I thank the gentleman.
+We will now recognize the gentleman from Massachusetts, Mr.
+Lynch, for 5 minutes.
+Mr. Lynch. Thank you, Mr. Chairman and the ranking member,
+for holding this hearing. It's very important.
+I would like to ask unanimous consent to enter into the
+record the GAO report to congressional requesters entitled,
+``Federal Agencies: The Need to Address Aging Legacy Systems.''
+We have been referring to that during our questions. I just
+wanted to get on the record.
+Chairman Chaffetz. Without objection, so ordered.
+Mr. Lynch. Thank you, Mr. Chairman.
+I also have another report here that was generated with a
+bunch of folks, including the Department of Homeland Security,
+Intel, EMC, a whole bunch of people. And it is entitled, ``2016
+Data Breach Investigations Report.''
+Chairman Chaffetz. Without objection, so ordered.
+Mr. Lynch. Thank you.
+The trend that the data are indicating from these reports
+are that the time frame for breaches and infiltration is going
+down, so it is measured now in days or, in many cases, minutes,
+yet our time for detecting breaches and infiltrations and the
+detection of fraud and response is weeks and months. So the
+numbers are going against us. Time is not on our side, as some
+have said.
+At a previous hearing, we had OPM up here. They did not
+even encrypt the Social Security numbers for 21.5 million
+Federal employees. So while I hear a lot of this positive talk,
+I am concerned about factually what is going on.
+Mr. Powner, the GAO did a great report, by the way. Thank
+you very much. I appreciate that. But one of the GAO's key
+findings is, and I quote, ``While Federal agencies had specific
+plans to retire or modernize some of these legacy investments,
+most of those legacy investments did not have specific plans
+with time frames, with activities to be performed, or functions
+to be replaced or enhanced.'' Is that correct?
+Mr. Powner. That is correct.
+Mr. Lynch. So all this talk here is happy talk, and it
+worries me, especially as Mr. Lieu's line of questioning.
+With respect to the Internal Revenue Service Individual
+Master File, GAO stated, and I quote, ``The agency has general
+plans to update the system, but there is no time frame
+established for this transition.'' Would you agree with that
+statement?
+I want to ask you next, Mr. Milholland.
+Mr. Powner. Yes, that is true.
+I will add, though, there has been a lot of good work done
+to get the ball rolling that ----
+Mr. Lynch. Yes, that's not what I'm asking.
+Mr. Powner.--Mr. Milholland started. I will say his tenure
+over 6 years, he has done a lot.
+Mr. Lynch. I know.
+Mr. Powner. Hopefully, he can stick around a little bit
+longer and get IMF decommissioned.
+Mr. Lynch. Yes, that is not what I want to hear, but as Mr.
+Mulvaney said, this problem didn't happen yesterday. You are
+not to blame for the existence of this problem, but we have to
+do better, a lot better.
+So, Mr. Milholland, do you want to defend yourself? Go
+ahead.
+Mr. Milholland. We, in fact, do have ----
+Mr. Lynch. And thank you for your service, by the way.
+We just have a problem here, and we have to fix it.
+Mr. Milholland. Yes, sir.
+Mr. Lynch. So a little criticism ----
+Mr. Milholland. I described the replacement of the
+Individual Master File. We are doing it in three phases. The
+second phase will end in 2019, at the latest 2020, again,
+depending on funding.
+The principal issue there is now to convert the mainline
+code from Assembly language to Java. We have, in fact, have
+tackled the hardest, knottiest, most gruntiest part of this
+code, which is critical for processing taxpayer returns, to
+convert it to Java.
+Mr. Lynch. Okay.
+Mr. Milholland. We, in fact, think, literally, we have
+found a breakthrough that we can do this. We think we can apply
+for three patents for this that will allow, once we are done,
+next March ----
+Mr. Lynch. Okay, sounds good.
+Let me ask you, the master file there, so is our health
+care information on that now with Obamacare, because you are
+the repository for our health care information. How are you
+protecting that? Is that in the same file?
+Mr. Milholland. It is not in the same file, but there are
+links to it. It is actually in a relational database that we
+built separate from the Individual Master File. But the systems
+are interconnected with appropriate data calls and ----
+Mr. Lynch. All right, let me jump to the GAO here.
+The same GAO report found that HHS Medicare appeals system
+says, this is the report, ``Agency officials state that they do
+not have any plans to address the gaps that were found by GAO
+and that doing so was contingent on funding.''
+So let's go right to Ms. Killoran on that one.
+Ms. Killoran. So, as I mentioned, for the Medicare appeals
+system, we actually have been making sure that that system is
+up-to-date, both with patches and software, and on a platform
+that is actually supported by the vendors.
+So as a total system, we don't have plans to replace, but
+we are keeping it current and making sure that it is able to be
+supported.
+Mr. Lynch. Okay, my time is expired. Maybe we will do
+another round. Thank you.
+Chairman Chaffetz. We will soon. Thank you.
+Mr. Meadows of North Carolina is now recognized for 5
+minutes.
+Mr. Meadows. Thank you, Mr. Chairman.
+Ms. Killoran, let me come to you. I think earlier in your
+testimony, you were talking about the fact that the FISMA
+reporting, you have submitted that. Is that correct?
+Ms. Killoran. Yes, sir.
+Mr. Meadows. So you have submitted that. Who do you submit
+that to?
+Ms. Killoran. So we submit that to all of our FISMA
+committees, and we did that through our legislative channels.
+Mr. Meadows. Okay. So who is responsible for that
+oversight? Is that Mr. Scott at OMB? Is he charged with making
+sure that those are all submitted properly? Do you submit it to
+OMB?
+Ms. Killoran. So if you could clarify the question, are you
+talking about the report or ----
+Mr. Meadows. Let me ask Mr. Scott. Mr. Scott, as the chief
+financial officer, is it your responsibility, I guess, for the
+executive branch, for the implementation of FISMA?
+Mr. Scott. Yes, and we collect--I am the chief information
+officer, not the chief financial officer, but it is our ----
+Mr. Meadows. Excuse me. You are the CIO for the Federal
+Government.
+So essentially, it all comes to you, so they are required
+to submit that to you and to Congress, is that correct?
+Mr. Scott. Correct. We aggregate and then submit to
+Congress.
+Mr. Meadows. All right. So as it is submitted in those
+FISMA reports, as we look at that, each agency is required to
+do that. Is that correct, Mr. Scott?
+Mr. Scott. Right.
+Mr. Meadows. So let me ask you this. It appears that the
+Executive Office of the President, basically the White House,
+including OMB and the National Security Council, hasn't
+submitted the required FISMA. Is that correct?
+Mr. Scott. I don't know off the top my head. I would have
+to check and get back to you. I don't know ----
+Mr. Meadows. Well, we have done some checking, and we have
+been looking. Can you name a single year where the Executive
+Office of the President and OMB and the National Security
+Council have submitted a FISMA report?
+Mr. Scott. We submit to Congress what has been submitted to
+us.
+Mr. Meadows. I am talking about you. I understand they are
+doing it, but you are the one that has the charge. So has OMB,
+the White House, submitted it?
+Mr. Scott. Oh, I see.
+Mr. Meadows. Because we couldn't find yours.
+Mr. Scott. Yes, we are not required by the law ----
+Mr. Meadows. Well, but that's not correct.
+Mr. Scott. That is our ----
+Mr. Meadows. Is that what you're saying?
+Mr. Scott. Our legal counsel has given us that ----
+Mr. Meadows. Well, your legal counsel doesn't make the law.
+So, Mr. Scott, let me remind you, Congress was very clear,
+extremely clear, that, indeed, the White House, and, indeed,
+OMB, is required to submit that. Yet we can't find where you've
+done it, and we specifically in the legislation mention the
+White House.
+So you are saying your legal counsel has told you that?
+Mr. Scott. That is the opinion we have gotten.
+Mr. Meadows. When did you get that?
+Mr. Scott. I have asked multiple times.
+Mr. Meadows. Okay, I would suggest that you go back, check
+the law, and report back to this. Do you not think that if you
+are required by law to do it, and all these other folks are
+doing it, that it sets a bad example for you not to do that?
+Would that set a bad example, if you are required to do
+that?
+Mr. Scott. If we are required to, I think it sets a bad
+example, correct.
+Mr. Meadows. All right. So you have counsel behind you. Are
+they saying that you are not required to by law?
+Mr. Scott. I will go back and check and report back to you.
+Mr. Meadows. Okay. And we would like to know some of the
+correspondence and actually where you've gotten that opinion
+from. Are you willing to give that to this committee as well?
+Mr. Scott. That is not my call, sir.
+Mr. Meadows. Okay, well, obviously, you are saying that you
+were told that, that you checked on it, and this is a conscious
+decision not to give a FISMA report on behalf of OMB and the
+office of the executive branch. Is that correct? That was a
+conscious decision?
+Mr. Scott. It was a discussion and that was the conclusion
+that we came to.
+Mr. Meadows. So what rationale would you really embark on
+embracing that would suggest that it is not a good idea to give
+information that you are requiring all the other agencies to
+give to Congress? Why would it not be a good idea for you?
+Mr. Scott. Again, our intent is to comply with the law.
+Mr. Meadows. But do you think it is a good idea that, even
+if it is not required, since you are requiring all the other
+agencies, don't you think it would be a good idea for you? I
+think the answer--don't you think it would be good idea?
+Mr. Scott. I don't have an opinion on that, sir.
+Mr. Meadows. Well, I do, and I think it would be a good
+idea.
+Let me come to the GAO. We are talking about all these
+legacy systems, and we continue to have hearing after hearing
+after hearing. What I find troubling is, is there a lot of
+savings that could be realized if we get rid of the legacy
+systems, jump off the cliff and say, ``Let's make a commitment.
+We are going to do it.'' Is there substantial savings that
+could happen?
+Mr. Powner. Yes, there are. That $60 billion we spend on
+O&M. We have old legacy that if we could get more efficient
+systems, it would be less costly to maintain, it would be more
+secure. Then you already know that we have duplicative spending
+on commodity IT and inefficient data centers.
+So the $60 billion has all kinds of inefficiencies in it.
+Our point is, we need more plans. I agree not everyone needs a
+plan. There might be some higher priorities. But we need more
+plans, so that we move that spending from 60 into the 20
+bucket.
+Mr. Meadows. Well, thank you. And I thank your staff for
+their great work.
+And I yield back, Mr. Chairman.
+Chairman Chaffetz. I thank the gentleman.
+I'll recognize the ranking member, Mr. Cummings, for 5
+minutes.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+I intentionally wanted to wait and listen to some of the
+testimony. I listened to Mr. Lieu, and I agree with him. When
+we read the resumes of you all, we realize that you could be
+somewhere else, making a lot more money. I think, in a way,
+that's what is kind of depressing about this. We have people
+who, first of all, care, who are experts. You come into
+government to try to make a difference, or you have been in
+government, and we seem to be going in a circle, trying to get
+off the merry-go-round, Mr. Scott, but still going in a circle.
+I'm not blaming you all. It just seems that we have a set
+of circumstances where we have an old system that is breaking
+down, trying to keep that afloat, and at the same time trying
+to catch up with technology that is not changing by the week,
+but changing by the hour. That is a tough one.
+Sometimes we can start talking politics, and we still don't
+get to where we have to go to. That's what I want to talk about
+for a moment here.
+Mr. Scott, you have been in your job a little less than 2
+years?
+Mr. Scott. About 1.5 years, sir.
+Mr. Cummings. The chairman was very complimentary, gave you
+a lot of nice compliments, and they are deserved. You come from
+private industry, is that right?
+Mr. Scott. That's correct.
+Mr. Cummings. Do you see, first of all, progress? You've
+been there 1.5 years. Do you see us moving in the right
+direction?
+And this is the thing that bothers me, this wrestling with
+this issue of money. I don't want to sit here and wrongfully
+say that, if we had more money, we can do better, if that is
+wrong, if that is not accurate. But on the other hand, if we
+need the money, I don't want to act like we don't.
+And then there's a second part of it. We may need the
+money, but then the question is whether or not we are using the
+funds that we have effectively and efficiently.
+Can you address that for me? And then tell me how does the
+modernization act, because I understand it is like the best
+practices, it's an example of best practices from private
+industry, how that would remedy this.
+I know I have said a lot.
+Mr. Scott. Sure, I'd be happy to.
+I would say, in answer to one of your questions, I do think
+we are making progress, just not fast enough and
+comprehensively enough. Almost every agency is trying to
+prioritize in some way or another, and address the most urgent
+issues. But what we see quite often is that it takes too long
+for them to put together the money to go do the replacement, or
+to try to harvest savings to put together in one place to go
+fix things.
+I think there is a broader set of issues that ITMF tries to
+address.
+Comprehensively, what it does is marries management, money,
+and a different mode of operation than the pattern that we have
+been in. The world of digitization, and our government is
+digitizing just like every other enterprise, digitization
+starts to tear down traditional boundaries of the org chart,
+and so on, and comes at what we do from a citizen-centric
+perspective.
+Today, because of our boundaries and our funding models and
+the way we have architected IT, we require our citizens to
+decode our org chart in a way that, frankly, they don't want to
+do.
+So this modernization fund relies on principles that we
+borrowed from the private sector. If you are in the private
+sector, you go to a capital committee, and you come in and you
+make a business case for why you want to do what you're going
+to do. And the capital committee evaluates your ability to do
+that. They look at the business case. They ensure the
+commitment, that the money is going to get paid back.
+We think that that commitment of management, along with
+this different mode of operation that we are proposing, will
+start to help us along the path to a much more and needed
+modernization of our Federal Government.
+I will note as well that if we continue to do the same
+thing we have been doing before, we are just making the
+situation worse. A good friend of mine once told me, if you are
+riding a dead horse, best dismount. I think it is time for us
+to dismount from this past practice and get onto a more modern
+method.
+Mr. Cummings. You don't have to tell us what your plans
+are, but if I were to guess, you probably will not be in this
+position but so much longer.
+So the question becomes, what are you doing to try to put
+something in place so that, after you leave, there is at least
+the mechanism to take us where you just said we need to go?
+Because I can see somebody else coming in and saying, ``You
+know what? Scott was a nice guy, but now he's gone, and now
+we're going to start all over,'' and our problems are 10 times
+worse.
+By the way, the reason I am asking is because the American
+people are just totally, totally frustrated with us.
+Mr. Scott. Certainly.
+Mr. Cummings. They feel like we cannot get anything done,
+and I'm trying to figure out how we get something done that
+makes sense, solve the problems that we are talking about here,
+Mr. Mulvaney and all of us trying to figure out, how do we
+spend our money wisely and how do we get the American people
+what they deserve? That is a well-run system that keeps up
+with, as best we can, the changes in technology and, at the
+same time, serve them well?
+Mr. Scott. Well, there are a couple things we're doing.
+First of all, we're putting together a set of requirements
+that will require the agencies to identify modernization
+efforts in a much more comprehensive way, whether this fund
+comes through or not.
+Secondly, we are revising the job descriptions for CIOs to
+make sure that, as we hire future CIOs, we get the right kind
+of talent in place.
+Frankly, this is important work, and I think there are
+quite a number of people who, given the right point in their
+career, are perfectly willing to come and do public service and
+help fix this, if there is hope that they can make progress.
+Nobody wants to come in and say, ``I just want to be saddled
+with the old dead horse way of doing things.'' So I think that
+is key to attracting talent and continuing to make progress on
+this.
+Lastly, I will say I intend to be involved and influence
+one way or another even beyond this job. I think it is
+critically important that we do this. I think our relevance to
+citizens is going to depend on how good a job we do in this
+area.
+The ITMF is my best guess about the fastest way to
+accelerate progress toward that goal. I'm happy to listen to
+any other alternatives.
+What I do know is what won't work. Going around tin-cupping
+7,000 different investments across the Federal Government is
+the slow way to nowhere, as far as I'm concerned.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+Chairman Chaffetz. Thank you. I now recognize myself.
+Mr. Milholland, you have been a good witness to us a couple
+times. You provide a lot of candor. The question is, why did we
+have to subpoena you this time to attend?
+Mr. Milholland. That was the decision of the Commissioner,
+and he wanted to testify himself. I understand the reasoning.
+He didn't speak to me about it, but in the past, he thinks that
+the political appointee should be the one to speak to the
+Congress, not careerists like me.
+Chairman Chaffetz. Were you willing to testify without a
+subpoena?
+Mr. Milholland. Yes, sir.
+Chairman Chaffetz. This is something we are going to have
+to continue to discuss, because on the one hand, in another
+committee, the IRS Commissioner said he was too busy and didn't
+have time to prepare, couldn't show up to answer hard
+questions. Then we have a hearing here, where we have to dive
+deep into how the IT systems are working, and he is begging to
+come and, in fact, told our office that we have to issue a
+subpoena to have Mr. Milholland come here.
+I think it puts a bad light on the IRS. I think it puts a
+bad light on you personally. But I did want to clarify and
+appreciate your candor in saying that was totally and wholly
+unnecessary. We did it. It's paperwork. I can do it
+unilaterally, but I shouldn't have to do it. Nobody else
+required a subpoena to be here.
+Again, it is not a personal reflection on you, but I think
+it is a personal reflection on Mr. Koskinen and the ridiculous
+manner in which he tries to manage a 90,000-person
+organization.
+The Congress of the United States of America and certainly
+the Oversight Committee, we can talk to anybody at any time. We
+can investigate anything anywhere and we can call anybody we
+want before this committee, not just the Senate-confirmed IRS
+Commissioner. It is arrogant. It is beyond belief. And it
+continues to thwart our activities here in Congress.
+And I am not letting go of this. I do think he should be
+impeached. I do think he should get out of government. He
+should do the right thing for this country, and somebody else
+should be at the helm. He was hired by the President with the
+best of intentions, and the President made a personal
+commitment. He made a personal commitment that we are going to
+work together. We are going to do is hand-in-hand. And that is
+not happening. And this is another example here today.
+Enough of that speech about that. I do want to talk about
+the Obamacare files that were mentioned before.
+Mr. Powner, do you have a position on this? Have you looked
+at how, from the GAO perspective, how this is going? It is a
+massive undertaking, a great vulnerability.
+Have you done anything in this regard? Do you have any
+perspective on this?
+Mr. Powner. I have colleagues who have looked at Obamacare
+implementation, as well as some of the IT issues, in
+particular, security around the systems with Obamacare. We have
+some outstanding recommendations on security.
+I, personally, have not done that. I will say, though, I
+did testify in front of this committee when there was the
+initial failure with the rollout, and I will say I worked
+closely with Mr. Milholland, because at the time I was doing
+IRS work and I knew where they were at getting their systems
+ready for Obamacare, which was different than where HHS and
+some others were.
+Chairman Chaffetz. So the housing of all this data and
+information, I guess as a follow-up, Mr. Milholland, at the
+IRS, and certainly Mr. Powner from the GAO, we would love to,
+and request, if we need to do this formally, we will do it
+formally, but we would appreciate a keen eye on this, just
+because of the vulnerability and sensitivity and the sheer
+number of people that will be involved and engaged in this.
+Mr. Powner. Okay.
+Mr. Milholland. Yes, sir.
+Chairman Chaffetz. I want to switch gears here to HHS,
+Health and Human Services.
+This is your first time testifying, and I appreciate that.
+How long have you been working IT at HHS?
+Ms. Killoran. About a year and a half.
+Chairman Chaffetz. A year and a half, okay.
+The committee made a request. I thought it was a fairly
+benign request, and it gives us a perspective. We asked to
+identify the top three mission-critical IT systems in need of
+modernization. That seems like a simple request. Every other
+agency and department we asked for it was willing to cooperate.
+The only one that wasn't was HHS.
+You claim that it was classified information. It is not the
+Department of Defense. This is not the CIA. This is Health and
+Human Services. Why claim it's classified?
+Ms. Killoran. It is around the sensitivity of the
+information that is stored in the systems. As folks have
+mentioned today, some of my colleagues, information, especially
+around personal health information, it is one of the increasing
+threat vectors across the organization and in the public
+overall. So we want to make sure that we are protecting the
+American public and the health information.
+Chairman Chaffetz. But you understand that that information
+that we are asking for is not classified, correct?
+Ms. Killoran. As an individual system, but there are
+concerns about what those systems are and the targets that
+would ----
+Chairman Chaffetz. And you understand that the Oversight
+Committee can access classified information, correct?
+Ms. Killoran. Yes. We were actually able to--we actually
+had members of the committee come over yesterday to our ----
+Chairman Chaffetz. Why should the committee have to come to
+you? Why do we have to go to look at in camera?
+Ms. Killoran. We are just concerned about what those
+systems are and putting ----
+Chairman Chaffetz. Yes, well, here's what you need to
+understand. We are entrusted with nuclear secrets, CIA
+information, a lot of very sensitive information. You cannot as
+an agency start to make up new classifications and new rules
+saying, ``Well, we're sensitive and we don't trust Congress.''
+We shouldn't have to go to HHS to review this information in
+camera.
+In fact, it gives us a real sense that you really don't
+know what you're doing over there.
+Ms. Killoran. These are not classified systems. We actually
+transmitted the information to OMB that it requested as
+classified. These are not classified systems, and they do not
+have ----
+Chairman Chaffetz. Correct. You used a classified system to
+transmit it, but then when we request it, why do we have to
+ratchet this up?
+Again, Health and Human Services has already identified one
+of the three systems to GAO, and another system that the HHS
+told us about was shut down.
+We are just asking for the top-level review of what are the
+three mission-critical systems. Then we finally get to see one,
+and then it is figured out that you had to come back to us and
+say, ``No, it was really shut down.''
+Can you see where you have a flashing red light over there
+at HHS that nobody else has?
+Ms. Killoran. Understood. Like I said, we are actually
+willing to provide that information.
+Chairman Chaffetz. Okay, just to be clear, and again, you
+strike me as an exceptionally nice person. You are going to
+provide--the request that we made, by this committee, you are
+going to provide those to us, correct?
+You have a staff person there. Feel free to talk to them,
+if you want to confer.
+But I need to know if we are going to get this information
+or not.
+Ms. Killoran. Yes. Yes, you will.
+Chairman Chaffetz. Okay.
+I have some other questions, but let me recognize another
+member, and I will come back on another round here.
+Let's recognize Mr. Lynch of Massachusetts.
+Mr. Lynch. Thank you, Mr. Chairman.
+I have to say, it is a bipartisan frustration sometimes,
+especially with these data breaches. Everybody is getting
+hacked. All the agencies are getting hacked. It seems like the
+hackers have better access to the information than the
+Oversight Committee does. That is the frustration here, that
+the information is going out the door, and then there is some
+stonewalling going on. When this committee asks for
+information, it is not forthcoming. So that is some of what you
+are hearing.
+I want to go back to Mr. Scott. I know you have a set of
+guidelines, a guidance, I guess you would call it, to these
+agencies on how to prioritize their responses to some of these
+high-risk legacy systems.
+Are any of the agencies on that right now? Have any of the
+agencies actually adopted that guidance and are implementing
+it?
+Mr. Scott. Let me clarify the guidance that you are
+referring to. As a part of the Cyber National Action Plan, and
+the earlier Cyber Sprint, we asked agencies to look at their
+high-value assets, and then some corrective measures were taken
+immediately on the initial set of things.
+There is a review going on now with a larger set of
+identified high-value assets. That is in progress right now.
+Mr. Lynch. Maybe you could drill down on that a little bit
+more. High value, is that the same as high risk? Because in the
+GAO report, it indicated there was a guidance to prioritize
+high-risk legacy systems. Now, that may not be high-value
+systems, but ones with greatest vulnerability, I guess.
+Mr. Scott. Let me talk about our guidance, generally.
+It is best practice to constantly be evaluating your
+systems for all kinds of different things. Risk would be one of
+the factors that you would look at there. Technology
+obsolescence would be another one. So that is, in fact, a part
+of our guidance.
+Mr. Lynch. Okay. It indicated in this report that the
+Department of Transportation and USDA had started acting in
+compliance with this. I thought you might have some information
+regarding that.
+Mr. Scott. It is work in progress right now.
+Mr. Lynch. All right.
+Mr. Powner. If I could clarify that?
+Mr. Lynch. Please.
+Mr. Powner. So there was draft guidance, and we did our
+review. We think that guidance is really good. We would like to
+see OMB finalize that guidance and have agencies apply the
+guidance, so that we could have a prioritization of these
+things that need to be replaced, similar to the chairman's
+questions that he asked directly with this data call, and that
+we would like to see more action on the prioritization and what
+we are tackling to modernize.
+I actually think that's needed to implement the
+modernization fund, if, in fact, that moved forward.
+Mr. Lynch. Yes, it makes sense, especially when you talk
+about the continuity problem that Mr. Cummings raised where, if
+Mr. Scott leaves at some point, we want the person coming in
+behind him to follow that same guidance and maintain those same
+priorities and get that job done, rather than somebody coming
+in with a whole new idea and taking us in a new direction.
+So those are some of the problems we see coming down the
+pike.
+But look, I appreciate your work, and I know you are all
+trying to do the right thing. We just need to do it faster.
+Thank you. I yield back.
+Chairman Chaffetz. I thank the gentleman. I will recognize
+myself again. I want to pick up on Health and Human Services.
+Health and Human Services, unlike the DOD, which has had
+significant cuts in its budget by billions of dollars in annual
+expenditure, Health and Human Services has more than doubled--
+doubled--the funding for your operations in the IT sector,
+going from roughly $5.6 billion to more than $13 billion. So
+they are in a totally different mode here.
+Your responsibility includes CMS. Is that right?
+Ms. Killoran. That is correct.
+Chairman Chaffetz. I want to talk about, for a second,
+Health and Human Services has to deal with Medicare appeals.
+And from the information I've read, the HHS Inspector General's
+Office reported that the Office of Medicare Hearings and
+Appeals, OMHA, is still largely paper-based. It is so bad that
+Medicare contractors were converting records from electronic to
+paper format to send to administrative law judges.
+Can you give us the status of where this is at and what is
+being done to solve this?
+Ms. Killoran. Thank you for the question.
+Yes, that is the case, but they actually are in the process
+right now of establishing a system to do that automated
+process. And CMS is actually working with that organization, as
+that system comes online, of how to integrate the medical
+appeals system with the system that OMHA is working on right
+now.
+Chairman Chaffetz. Health and Human Services entered into a
+$1.3 billion settlement with hospitals to clear the backlog on
+Medicare appeals. This lack of automation, did that contribute
+to this problem?
+Ms. Killoran. That I would have to get back to you on,
+because, obviously, I need to get to program and get a full
+answer on what were the factors in that particular issue.
+Chairman Chaffetz. So with a little bit more specificity,
+when do we expect the implementation of this plan that CMS--is
+there a CMS plan?
+Ms. Killoran. So the system that you are specifically
+talking about is actually not in CMS. It is in the Office of
+Medicare Hearings and Appeals. And yes, they do have a plan.
+That process--that program is in development, and they are
+working toward an implementation within the next year.
+Chairman Chaffetz. Are they building their own system or
+are they buying something or leasing something?
+Ms. Killoran. It is a combination of some custom
+development and also commercial off-the-shelf.
+Chairman Chaffetz. Has that been contracted out yet?
+Ms. Killoran. Yes. Development is actually in plan. We are
+actually working with them to do security testing and are in
+the final stages of development.
+Chairman Chaffetz. We will send a letter, but are you
+committed to providing us the details of that plan?
+Ms. Killoran. Yes, sir.
+Chairman Chaffetz. Thank you. That would be very helpful.
+Let me go back to the Department of Defense here. The
+Department of Defense identified a system called the MOCAS,
+which stands for Mechanization of Contract Administration
+Services. It is an example of a mission-critical system
+scheduled for modernization. It had its 50th birthday in 2008,
+so it is a bit old. We congratulate on how robust it is.
+But this contract management payment system for DOD is
+jointly managed by the Defense Contract Management Agency, the
+DCMA, and DFAS, the Defense Finance and Accounting System.
+It was originally developed, as I said, back in the 1960s.
+It supports business processes for more than 350,000 DOD active
+contracts with roughly $1.6 trillion in contract obligations
+and entitlements valued at approximately $230 billion annually.
+The DOD in 2014 released a request for information for
+ideas on how to modernize this. Can you give us a sense of
+where this monster is? And what is the plan is moving forward?
+Mr. Halvorsen. We definitely need to modernize the front
+end of that system. One of the reasons that we are delayed a
+little bit is, in looking at that, I wanted more input from the
+private sector. This is one where I do believe we could buy the
+front end of this.
+The backend of the system is in pretty good shape. It is
+old, but it is in COBOL language. It supports it.
+One of the things I do think that we want to recognize here
+is that the front end of systems, obviously, many times, we
+need to fix those. When you are interacting with customers,
+we've got that, and we have examples of that. Some of these
+backend systems I do think we want to make that investment the
+same way the private sector would, which is to do the business
+case to say, ``Does it pay to change that?'' In many cases
+right now, it will not pay to change the backend of some of the
+systems we have.
+COBOL is not going away anytime soon. The predictions you
+look at, it is going to be around as our major business system
+for a while.
+The front ends, make it look more consumer-friendly. Go
+with what the private sector is doing there. And that is what
+we will end up with here.
+Chairman Chaffetz. When do you think you have a game plan
+in order to actually address this?
+Mr. Halvorsen. By the end of the summer.
+Chairman Chaffetz. Okay.
+One more question back for Health and Human Services.
+Today, the committee issued a report about Cover Oregon. We
+looked at this for a year. The Federal Government, through HHS,
+gave the State of Oregon more than $300 million to develop a
+Web site. They never got a Web site. They never got any money
+back.
+What is Health and Human Services doing about that?
+Ms. Killoran. So that would be done through our grants
+programs, so we would actually have to talk to--I would have to
+get back to you with our grant system owners and make sure I
+provide you with the right answer of how they are doing
+oversight and giving the grants. It is outside of the purview
+that I have.
+Chairman Chaffetz. So the money that is appropriated to
+Health and Human Services for IT, help me on how it is broken
+down. So you don't feel any obligation, you have no
+responsibility to oversee the grants that are given?
+Ms. Killoran. There are two sets of funds. There is
+internal IT funding, which is $5 billion that we spend
+internally. That is where the oversight I have authority and
+responsibility over.
+There is another over $7 billion that is given to our
+grants programs through that business mechanism. They are
+responsible through legislation for providing those grants out
+to States, locals, tribal, and education, universities, and
+other things for either access to our systems or to do research
+on our behalf. All of that funding is actually the
+responsibility of those individual programs to provide out and
+to provide oversight to.
+Chairman Chaffetz. Okay, you can let Health and Human
+Services--they are about to get some inquiries from the
+Oversight Committee about what obligation they think they have
+or don't have when they give out a grant. Because in this case,
+$300-plus million went out the door, again, no Web site and no
+money back.
+I think there was a lot of misrepresentation. I think there
+was fraud. I think there are potential criminal elements to
+this that we have referred now to the Office of Attorney
+General here in the United States and also the Attorney
+General, who we believe who should recuse herself there in
+Oregon, because the mix of political with the government, it
+was something that I believe was done fraudulently.
+We issued about a 150-page report, and we will continue to
+follow up.
+But I appreciate the clarification, because the grant
+system is the majority of that IT budget, and it does make you
+wonder. We are looking for $3 billion. There is $7 billion that
+is given to HHS that is just given away to other entities not
+even within the Federal Government.
+So if we want to go capture and claw back and find $3
+billion to make major changes--I really am warming up to this
+idea that Mr. Hoyer has presented, and Mr. Cummings and others.
+And I do believe you and your perspective, Mr. Scott.
+This may be the type of area where maybe we are going to
+have to trim those feathers back in order to do the right thing
+with the Federal dollars and the Federal obligations.
+I will now recognize Mr. Cummings for 5 minutes.
+Mr. Cummings. Mr. Scott, I want to just follow up on a few
+things. I want to go back to this modernization act and how it
+works.
+According to estimates by the administration, after an
+initial funding of the $3.1 billion, the fund would be self-
+sustaining and would address at least $12 billion in
+modernization projects over the next 10 years. Is that right?
+Mr. Scott. That is correct.
+Mr. Cummings. Can you explain to us how the fund would be
+self-sustaining over that period of time?
+Mr. Scott. Essentially, as projects get funded, and then
+either go live or--each project would have its own contracted
+repayment schedule. As those funds are paid back to the fund,
+they could then be reused for the next series of projects.
+As was mentioned before, one of the criteria for funding a
+project would be its elimination of risk, its adoption of
+modern technology, and the business case that underlies it.
+So we think there is a high likelihood, given the
+governance model we put in place, that the funds would both be
+repaid, but also be able to be reused.
+Mr. Cummings. So how would the funds support modernization
+projects that exceed the initial amount of funding?
+Mr. Scott. The modernization fund could supplement what an
+agency has in its budget and accelerate plans. That is one
+example. We have seen cases where agencies are doing the right
+thing, but they have a project that will last 5 or 6 or 7
+years, and they tell us they could do it in 2 or 3 years, save
+a ton of money, and start the savings actually that would come
+from modernization much sooner.
+That is just one example of a business case.
+Mr. Cummings. As part of the proposal, the fund would be
+overseen by an independent review board, as I understand it,
+and that would provide technical assistance to agencies in
+connection with any upgrade projects the board approves. Is
+that the way it works?
+Mr. Scott. That is our proposal.
+Mr. Cummings. Can you explain how that review board would
+work in overseeing the fund?
+Mr. Scott. Sure. The idea behind the board is we wanted to
+take a more holistic look at the factors that make a project
+successful. So is the right governance in place? Is this the
+right technical architecture? Do we have the right procurement
+strategy in place? Do the economics make sense?
+Some of those kinds of factors that, frankly, in the
+private sector are now just the norm and are sometimes missing
+from what we see.
+But we also, and this is an important point, want to
+encourage cross-agency collaboration for shared services in
+some of these projects. Getting that to work across agencies is
+not a mechanism that works terribly well today.
+Mr. Cummings. So I take it one of the things that they
+would be doing, this board, is trying to make sure that folks
+use best practices. Is that right?
+Mr. Scott. Correct.
+Mr. Cummings. And how would they accomplish that?
+Mr. Scott. First, the sharing of best practices as we find
+them in the Federal Government is one of the key things, but we
+would also leverage expertise from the private sector and make
+sure that that was available to projects that are funded by the
+fund.
+Mr. Cummings. Now what are the cost savings the Federal
+Government would realize if this bill were adopted and
+implemented? I mean, I know you have to guess that.
+Mr. Scott. Well, I think our common experience in the
+private sector is that if you get in a continuous refresh mode,
+you can either do one of two things. You can either can
+increase your capacity or you can lower costs, or something in
+between.
+I think, in this case, we will see some of both. We have,
+certainly, agencies where there is more demand than we can
+satisfy today, and some of the savings could be used to address
+that demand. But we have many other cases, such as data center
+consolidation, where this activity would accelerate
+consolidation and accelerate savings, and that money could then
+be used for other purposes.
+Mr. Cummings. So I guess it would be safe to say that it
+would exceed the $3.1 billion.
+Mr. Scott. I'm quite comfortable in that. You saw it in the
+chart that I showed earlier. We have direct evidence where
+injection of modernization funds leads to savings, and the
+question is just, do we want to accelerate that?
+Mr. Cummings. My last question, folks in Washington--that
+is us, Members--get concerned about risk. What are the
+arguments against doing something like this?
+Mr. Scott. Well, I think the risk that we all see is that
+we have an accelerating amount of risk. The longer we don't
+address these ----
+Mr. Cummings. That is the greater risk.
+Mr. Scott. That is the greater risk. I am quite concerned
+about it, in total.
+In particular, it is not just applications. We also have to
+address the infrastructure, the networks and the storage and
+all of the other components, not just the applications. We have
+to address this holistically.
+Mr. Cummings. I want to thank all of you very much.
+Mr. Chairman, I yield back.
+Chairman Chaffetz. Thank you. I would just like to allow
+you each 30 or 45 seconds, you can go shorter or a little bit
+longer, if you want. What are the things the Congress, what
+would you like to see us do in order to make sure we are moving
+in the right direction?
+Let's start with Mr. Scott and go this direction.
+Mr. Powner, you take a lot longer, if you like.
+Mr. Scott. Sure. I'll be quick, because I think I have said
+most of what I had to say earlier.
+But I appreciate the support this committee has shown for
+this important topic. And in formulating the idea for the
+modernization fund, we looked at a number of different
+alternatives. Our team at OMB asked a bunch of hard questions
+about how else could we do this, what would be the best way,
+what is faster rather than slower, what is more effective? We
+borrowed heavily from private sector best practice, in terms of
+formulating this.
+While we are open to any alternative that makes sense, it
+is our recommendation at this point that this is the best we
+can think of, in terms of how to go forward.
+So I appreciate all the support that we felt in a
+bipartisan way on this topic. Thank you.
+Chairman Chaffetz. Thank you.
+Ms. Killoran. So HHS also agrees that what OMB is putting
+forward on the ITMF is the right move. Being able to invest in
+our technology and making sure that we are using technology
+that is current, that is scalable, and meets not only the needs
+of today, but is scalable for the needs of the future, is the
+right direction for us to go into.
+We have been able to make small incremental changes with
+the funding that we have, and we have actually seen those
+successes. So we are a good case study on what positively can
+happen in this type of situation, and we would be willing,
+obviously, to share that not only with the members of this
+committee, but also with OMB as we move forward and work to
+adopt this model.
+Thank you.
+Chairman Chaffetz. Thank you.
+Mr. Halvorsen?
+Mr. Halvorsen. I thank the committee. This committee has
+taken this problem seriously, and I do appreciate that. And I
+think you've understood the complexity of the problem, which is
+very helpful, in itself.
+The other area that this committee has been helpful with,
+and I hope that will continue, is giving us some flexibility on
+how we hire the cyber and IT work force.
+Thank you.
+Chairman Chaffetz. Thank you. I happen to agree. I think
+the personnel issue is probably as big as anything. Attracting
+the talent, retaining the talent, I mean, it's--I have a new
+son-in-law, a couple weeks old, this son-in-law. But he just
+graduated and that kid is more employable than I am, so I
+agree.
+[Laughter.]
+Mr. Milholland, you are now recognized.
+Mr. Milholland. Thank you for asking that question. I think
+there are two things. I put it in my written statement and in
+my opening remarks.
+It comes down to, from an IT point of view, certainty in
+our budget, at least restore us back to the levels we were at a
+number of years ago. It has really handicapped our ability to
+modernize our legacy environments and our aging infrastructure
+and provide the services that taxpayers need.
+The second thing deals with the people issue you just
+mentioned, and it is the streamlined critical pay authority. We
+have nine IT folk who a year from now will disappear. They are
+absolutely critical to the architecture work we are doing for
+legacy system modernization, the engineering, the
+implementation and operations. And they said that they would
+serve their country, but right now, if the law is not renewed,
+they will literally leave and increase the risk on the IT
+organization to serve the taxpayers of this country.
+So thank you.
+Chairman Chaffetz. Again, not your fault, not your issue,
+the senior leadership, the Commissioner himself, is the number
+one impediment to moving those things forward. Nobody believes
+him. Nobody trusts them. He is not trustworthy.
+I think that problem will continue to linger as long as he
+is the Commissioner. If he changes out, I think the world will
+change.
+Mr. Powner, you are now recognized.
+Mr. Powner. Mr. Chairman, I would like to thank you for
+highlighting this legacy IT issue. We talked a lot today also
+about transition. There is a lot of talent sitting here to the
+left of me. And I would like to highlight the importance of
+FITARA and your efforts in ensuring that we continue to
+implement that law.
+The first part of FITARA is about strengthening CIO
+authorities. We need more CIOs like some of the folks sitting
+here. But FITARA is also about understanding what we spend on
+IT and then executing it.
+Legacy IT management is executing, so it is all part of
+FITARA.
+So your grades looking at areas you looked at to date have
+made a lot of progress to date, and we need to continue to make
+progress through this transition period that we are in.
+Chairman Chaffetz. Thank you. It is important, and again,
+particularly to the agencies that are represented, and those
+that aren't, it really is the FITARA model, I think, is a way
+for us to gain perspective and set reasonable goals and do
+self-analysis and be candid in where we're at.
+Again, I want to thank you all personally for your
+commitment to our country. It's a difficult thing. If this was
+easy, it would have been done a long time ago.
+Making these transitions away from legacy systems, that is
+a major, major overhaul and very difficult project, to say the
+least.
+So I appreciate your expertise and working with this
+committee and your presence here today.
+The committee stands adjourned.
+[Whereupon, at 11:12 a.m., the committee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

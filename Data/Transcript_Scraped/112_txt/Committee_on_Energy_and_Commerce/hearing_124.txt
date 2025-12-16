@@ -1,0 +1,2589 @@
+- CYBERSECURITY: THE PIVOTAL ROLE OF COMMUNICATIONS NETWORKS
+
+[House Hearing, 112 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBERSECURITY: THE PIVOTAL ROLE OF COMMUNICATIONS NETWORKS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON COMMUNICATIONS AND TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON ENERGY AND COMMERCE
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED TWELFTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+MARCH 7, 2012
+
+__________
+
+Serial No. 112-123
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Printed for the use of the Committee on Energy and Commerce
+
+energycommerce.house.gov
+_____
+
+U.S. GOVERNMENT PRINTING OFFICE
+
+77-040 PDF                WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC
+20402-0001
+
+COMMITTEE ON ENERGY AND COMMERCE
+
+FRED UPTON, Michigan
+Chairman
+
+JOE BARTON, Texas                    HENRY A. WAXMAN, California
+Chairman Emeritus                    Ranking Member
+CLIFF STEARNS, Florida               JOHN D. DINGELL, Michigan
+ED WHITFIELD, Kentucky                 Chairman Emeritus
+JOHN SHIMKUS, Illinois               EDWARD J. MARKEY, Massachusetts
+JOSEPH R. PITTS, Pennsylvania        EDOLPHUS TOWNS, New York
+MARY BONO MACK, California           FRANK PALLONE, Jr., New Jersey
+GREG WALDEN, Oregon                  BOBBY L. RUSH, Illinois
+LEE TERRY, Nebraska                  ANNA G. ESHOO, California
+MIKE ROGERS, Michigan                ELIOT L. ENGEL, New York
+SUE WILKINS MYRICK, North Carolina   GENE GREEN, Texas
+Vice Chairman                      DIANA DeGETTE, Colorado
+JOHN SULLIVAN, Oklahoma              LOIS CAPPS, California
+TIM MURPHY, Pennsylvania             MICHAEL F. DOYLE, Pennsylvania
+MICHAEL C. BURGESS, Texas            JANICE D. SCHAKOWSKY, Illinois
+MARSHA BLACKBURN, Tennessee          CHARLES A. GONZALEZ, Texas
+BRIAN P. BILBRAY, California         JAY INSLEE, Washington
+CHARLES F. BASS, New Hampshire       TAMMY BALDWIN, Wisconsin
+PHIL GINGREY, Georgia                MIKE ROSS, Arkansas
+STEVE SCALISE, Louisiana             JIM MATHESON, Utah
+ROBERT E. LATTA, Ohio                G.K. BUTTERFIELD, North Carolina
+CATHY McMORRIS RODGERS, Washington   JOHN BARROW, Georgia
+GREGG HARPER, Mississippi            DORIS O. MATSUI, California
+LEONARD LANCE, New Jersey            DONNA M. CHRISTENSEN, Virgin
+BILL CASSIDY, Louisiana              Islands
+BRETT GUTHRIE, Kentucky              KATHY CASTOR, Florida
+PETE OLSON, Texas
+DAVID B. McKINLEY, West Virginia
+CORY GARDNER, Colorado
+MIKE POMPEO, Kansas
+ADAM KINZINGER, Illinois
+H. MORGAN GRIFFITH, Virginia
+
+_____
+
+Subcommittee on Communications and Technology
+
+GREG WALDEN, Oregon
+Chairman
+LEE TERRY, Nebraska                  ANNA G. ESHOO, California
+Vice Chairman                        Ranking Member
+CLIFF STEARNS, Florida               EDWARD J. MARKEY, Massachusetts
+JOHN SHIMKUS, Illinois               MICHAEL F. DOYLE, Pennsylvania
+MARY BONO MACK, California           DORIS O. MATSUI, California
+MIKE ROGERS, Michigan                JOHN BARROW, Georgia
+MARSHA BLACKBURN, Tennessee          DONNA M. CHRISTENSEN, Virgin
+BRIAN P. BILBRAY, California             Islands
+CHARLES F. BASS, New Hampshire       EDOLPHUS TOWNS, New York
+PHIL GINGREY, Georgia                FRANK PALLONE, Jr., New Jersey
+STEVE SCALISE, Louisiana             BOBBY L. RUSH, Illinois
+ROBERT E. LATTA, Ohio                DIANA DeGETTE, Colorado
+BRETT GUTHRIE, Kentucky              JOHN D. DINGELL, Michigan
+ADAM KINZINGER, Illinois             HENRY A. WAXMAN, California (ex
+JOE BARTON, Texas                        officio)
+FRED UPTON, Michigan (ex officio)
+
+(ii)
+
+C O N T E N T S
+
+----------
+Page
+Hon. Greg Walden, a Representative in Congress from the State of
+Oregon, opening statement......................................     1
+Prepared statement...........................................     4
+Hon. Marsha Blackburn, a Representative in Congress from the
+State of Tennessee, opening statement..........................     6
+Hon. Anna G. Eshoo, a Representative in Congress from the State
+of California, opening statement...............................     6
+Hon. Doris O. Matsui, a Representative in Congress from the State
+of California, opening statement...............................     7
+Hon. Lee Terry, a Representative in Congress from the State of
+Nebraska, opening statement....................................     8
+Hon. Cliff Stearns, a Representative in Congress from the State
+of Florida, opening statement..................................     8
+Hon. Henry A. Waxman, a Representative in Congress from the State
+of California, opening statement...............................     9
+Prepared statement...........................................    11
+
+Witnesses
+
+Jason Livingood, Vice President, Internet Systems Engineering,
+Comcast Corporation............................................    13
+Prepared statement...........................................    15
+Answers to submitted questions...............................   102
+Edward Amoroso, Chief Security Officer, AT&T Services, Inc.......    34
+Prepared statement...........................................    36
+Answers to submitted questions...............................   106
+David Mahon, Chief Security Officer, CenturyLink.................    48
+Prepared statement...........................................    50
+Answers to submitted questions...............................   110
+John Olsen, Senior Vice President and Chief Information Officer,
+MetroPCS Communications, Inc...................................    56
+Prepared statement...........................................    58
+Answers to submitted questions...............................   114
+Scott Totzke, Senior Vice President, BlackBerry Security Group,
+Research in Motion.............................................    67
+Prepared statement...........................................    69
+Answers to submitted questions...............................   118
+
+CYBERSECURITY: THE PIVOTAL ROLE OF COMMUNICATIONS NETWORKS
+
+----------
+
+WEDNESDAY, MARCH 7, 2012
+
+House of Representatives,
+Subcommittee on Communications and Technology,
+Committee on Energy and Commerce,
+Washington, DC.
+The subcommittee met, pursuant to call, at 10:04 a.m., in
+room 2123 of the Rayburn House Office Building, Hon. Greg
+Walden (chairman of the subcommittee) presiding.
+Members present: Representatives Walden, Terry, Stearns,
+Shimkus, Bono Mack, Rogers, Blackburn, Bilbray, Bass, Gingrey,
+Scalise, Latta, Guthrie, Kinzinger, Eshoo, Doyle, Matsui,
+Barrow, Christensen, DeGette, Dingell, and Waxman (ex officio).
+Staff present: Ray Baum, Senior Policy Advisor/Director of
+Coalitions; Nicholas Degani, FCC Detailee; Neil Fried, Chief
+Counsel, Communications and Technology; Debbee Keller, Press
+Secretary; Katie Novaria, Legislative Clerk; Andrew Powaleny,
+Deputy Press Secretary; David Redl, Counsel, Communications and
+Technology; Roger Sherman, Democratic Chief Counsel,
+Communications and Technology; Jeff Cohen, FCC Detailee; Shawn
+Chang, Democratic Senior Counsel, Communications and
+Technology; Hadass Kogan, Democratic Legal Fellow; and Kara Van
+Stralen, Democratic Special Assistant.
+
+OPENING STATEMENT OF HON. GREG WALDEN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF OREGON
+
+Mr. Walden. We will call to order the Subcommittee on
+Communications and Technology for a hearing on ``Cybersecurity:
+The Pivotal Role of Communications Networks.'' I want to thank
+our witnesses for being here this morning. We look forward to
+your testimony and are very appreciative of your taking the
+time to be here to help educate us so we can do the right thing
+in terms of assisting you all, particularly the security
+networks or the cyber networks.
+Back in October, the House Republican Cybersecurity Task
+Force appointed by the Speaker recommended that the committees
+of jurisdiction review cybersecurity issues. This subcommittee
+has embarked on a series of hearings to heed that call and to
+get a complete picture of the cybersecurity challenges that our
+Nation faces.
+In our February 8 hearing, we examined threats to
+communications networks and the concerns of the private sector
+security firms helping to secure those communications networks.
+That hearing provided us with valuable information and even
+some potential solutions.
+This hearing continues our subcommittee's review of
+cybersecurity issues with a focus on the steps that network
+operators have taken to secure their networks and any
+recommendations that you all might have on how Congress can
+help, actually help in those efforts.
+As we heard in the February 8 hearing, threats to
+communications networks have come a long way in a very short
+period of time. Before coming to Congress, I spent 22 years as
+a radio broadcaster, and as a small businessperson, I had to
+worry about securing our own communications network, but those
+were simpler times. In modern communications networks of all
+types, cybersecurity has become a pressing concern. In our
+February 8 hearing, we had a dizzying array of new
+cybersecurity threats discussed like supply chain
+vulnerabilities, botnets, and Domain Name System spoofing.
+On the brighter side, we were also told during that hearing
+about several potential solutions to make communications
+networks more secure. This is why I have asked a number of my
+colleagues to serve as the Communications and Technology
+Cybersecurity Working Group. The working group is a bipartisan
+team of six subcommittee members, led by Subcommittee Vice
+Chair Lee Terry and Subcommittee Ranking Member Anna Eshoo,
+that will look into some of these potential solutions and the
+legal and regulatory impediments to securing communications
+networks against cyber threats. With an eye toward incentive-
+based approaches, the working group looks to facilitate
+communication among private sector companies and the public
+sector on a variety of topics, including DNSSEC adoption,
+supply chain risk management, and a voluntary code of conduct
+and best practices for network operators.
+Now, in this hearing, we are privileged to have five
+witnesses that represent parts of the commercial network to
+guide us through the complex cybersecurity issues that you each
+face. Network operators own, maintain and operate most of the
+infrastructure that makes up our communications networks. Their
+management of the wires, the towers, the base stations, the
+servers and the wireless handsets that are integral parts of
+communications networks put these companies on the front lines
+of cybersecurity. I want to know what cybersecurity services
+and educational initiatives are being aimed at your consumers,
+what steps are being taken to secure the core components that
+make up our communications networks, and what affirmative steps
+network operators have taken to secure the supply chain and to
+prevent cyber attacks.
+I would also expect to hear what you think the appropriate
+role of the Federal Government is to combat cyber threats. Are
+Federal laws and regulations helping or hindering information
+sharing? Are there cybersecurity solutions that your company
+has identified that would prevent cyber attacks, but would run
+afoul of existing laws? How can the Federal Government incent
+network operators and other members of the private sector to
+invest and innovate in the cybersecurity arena? And coming off
+of our prior hearing on February 8, how do we make sure that we
+don't put things in statute that cause misallocation of your
+capital and make you less nimble in this extraordinary cyber
+threat environment. So I look forward to your testimony today.
+[The prepared statement of Mr. Walden follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. I would yield time to Ms. Blackburn.
+Mrs. Blackburn. Thank you, Mr. Chairman. Welcome to all of
+you, and we are deeply appreciative of your time for being
+here.
+I think one of the things that----
+Mr. Walden. Could you get a little closer to your
+microphone?
+Mrs. Blackburn. I certainly can. I am a mother. I can
+always talk louder. That is right.
+
+OPENING STATEMENT OF HON. MARSHA BLACKBURN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF TENNESSEE
+
+The GAO report that mentioned we have seen a 650 percent
+growth in cyber attacks over the past 5 years, I think that
+that caused a lot of people to, you know, sit up and take note
+of what might be happening out there, because you look at the
+attacks, you look at what that equates to an effect on the
+economy. Chairman Bono Mack and I are working on introducing a
+bill, the cybersecurity bill here in the House, similar to
+secure IT from the Senate, and I think the concepts we are
+viewing are not to be overly prescriptive and to kind of work
+off the first principle of ``do no harm'' and have a good,
+broad conversation in this. I would love to hear you all talk a
+little bit about government networks and the importance you
+think and responsibility you think government has in securing
+its own networks and system. I would love to also hear a little
+bit from you about incentive-based security and how we approach
+that.
+With that, I yield back.
+Mr. Walden. I thank the gentlelady for her comments and now
+recognize my friend from California, Ms. Eshoo, for an opening
+statement.
+
+OPENING STATEMENT OF HON. ANNA G. ESHOO, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF CALIFORNIA
+
+Ms. Eshoo. Thank you, Mr. Chairman, and welcome to all of
+the witnesses and thank you for being here today.
+As the title of today's hearing suggests, our
+communications networks are part of the backbone of our
+Nation's critical infrastructure. From electricity generation
+to financial service and transportation, we depend on our
+communications networks for nearly all aspects of our daily
+lives. Yet as was highlighted during our first cybersecurity
+hearing, our networks remain vulnerable to attack.
+In particular, there are three areas I would like to hear
+more about from our witnesses today. First, as we discussed in
+last month's hearing, the FCC chairman is currently proposing a
+voluntary ISP code of conduct as a way to alert consumers when
+a botnet or other malware infection is discovered. So today's
+witnesses will be on the front line in ensuring such best
+practices are effectively implemented and obviously I think
+that you are going to talk about that, and I look forward to
+it.
+Second, I would like to hear more about your views on the
+supply chain security. I continue to have really grave concerns
+stemming from my 8 years that I just recently completed at the
+House Intelligence Committee about the implications of foreign-
+controlled telecommunications infrastructure companies
+providing equipment to the U.S. market. In 2010, I wrote to the
+FCC chairman asking for a better understanding of the FCC's
+authority to address these challenges and what kind of
+transparency requirements should be placed on companies seeking
+to sell telecommunications infrastructure equipment to U.S.
+network providers.
+Third, I would like to learn more about any unique
+challenges in securing mobile networks. As more data is
+transmitted wirelessly, we need to look closely at how these
+networks are secured to ensure they don't become the entryway
+to the broader network.
+So today's hearing is an important aspect of our
+subcommittee's work on cybersecurity. Again, I want to thank
+each one of our witnesses for being willing to testify today to
+be instructive to us, and I want to thank the chairman for the
+spirit of cooperation around this issue. Usually there are some
+Democratic witnesses that are called and Republican witnesses.
+That is not the case today. So this is something that rises
+above that, and I look forward to working with the entire
+committee so that we not only better understand the
+cybersecurity challenges facing communications networks but
+what steps we can take to secure them and thereby strengthen
+the country.
+I would like to yield my remaining time to Representative
+Matsui.
+
+OPENING STATEMENT OF HON. DORIS O. MATSUI, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF CALIFORNIA
+
+Ms. Matsui. Thank you, Ranking Member Eshoo, for yielding
+me time. Mr. Chairman, thank you for holding today's hearing,
+and I want to thank the witnesses for being here today.
+There is no doubt that cyber attacks are real and continue
+to pose significant threats to several aspects of our economy,
+and Mr. Chairman, I am pleased that you and Ranking Member
+Eshoo formed a bipartisan cyber working group so that we can
+appropriately explore our subcommittee's interest to enhance
+our Nation's efforts against a cyber attack.
+There are a variety of issues that we may explore.
+Communications networks are one of the many areas that our
+Nation must protect and ensure safety and soundness. Advancing
+IP-based technologies and public safety communications heighten
+the concerns for cybersecurity. It would be important that data
+is protected from a PC or a cell phone in transit to cloud
+storage, particularly as more and more Americans send personal
+information to the cloud.
+I also believe that our subcommittee will have the ability
+to further promote information sharing on cyber threats.
+Securing the supply chain will be of high importance so that
+tech components remain secure through their manufacturing and
+distribution processes. Among others, I believe that R&D
+incentives could encourage industry to explore ways to better
+address and defend against malware and botnets.
+Again, I thank the chairman for holding today's hearing. I
+look forward to working with my colleagues on ways that this
+subcommittee can encourage greater protection against cyber
+threats. I thank the witnesses for appearing today.
+I yield back the remainder of my time.
+Mr. Walden. I thank the gentlelady for her comments.
+I will now recognize the vice chairman of the committee,
+Mr. Terry, for opening comments.
+
+OPENING STATEMENT OF HON. LEE TERRY, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF NEBRASKA
+
+Mr. Terry. Thank you, Chairman, and let me start by saying
+that I believe that most of my colleagues on this committee
+share my optimism that a collaborative, active cyber defense
+capability is actually achievable. There might be a few
+differences in opinion on what needs to be done to reach this
+goal, but through the bipartisan conversations like those
+taking place in the working group and public hearings like
+this, we are getting closer.
+In reading through the written testimony provided by
+today's witnesses, I noticed a common threat throughout. As Mr.
+Amoroso eloquently says, ``Quite simply, innovation is
+inconsistent with standardization.'' I agree wholeheartedly
+with our witness, and in my opinion, I find this to be the most
+vital guiding principle in considering how to enhance our
+Nation's cybersecurity. In fact, as I continue to dig deeper on
+this issue, I become more convinced that any sort of
+legislative effort to provide overbroad regulation or
+certification regimes will surely come with unintended
+consequences. Instead, ISPs should have the flexibility to
+respond to real-time security threats in a manner that
+minimizes delay and maximizes their ability to innovate as they
+strive to protect their consumers and their network.
+A couple of things I believe that we can do to help reach
+the goal of collaborative active cyber defense capability are,
+one, remove the current barriers in place that prevention
+communication networks from sharing cyber threat information
+with the government agencies and also with the private sector
+entities. Provide adequate liability protection in order for
+the sharing of cyber threat information is second.
+Again, I thank our witnesses for joining us today, and
+shall I yield to Mr. Stearns.
+
+OPENING STATEMENT OF HON. CLIFF STEARNS, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF FLORIDA
+
+Mr. Stearns. I thank my colleague.
+My colleagues, I think the consistent message from our
+witnesses today is that the private sector has very strong
+commercial incentives to invest in and maintain robust
+cybersecurity. In fact, each of our witnesses today has
+described unique and thorough approaches to protecting their
+own networks. These examples demonstrate that one-size-fits-all
+legislation is not the appropriate solution to cybersecurity
+threats. Moreover, because these threats change every day,
+industry must be provided the flexibility to respond quickly to
+an attack.
+Therefore, I believe that prescriptive top-down government
+mandates are not only unnecessary but they simply will not
+work. Instead, government should seek to improve information
+sharing and consumer education. We also should work to
+eliminate outdated regulations that have created unintentional
+barriers toward ensuring the security of our networks.
+So I look forward to our witnesses today and I thank you,
+Mr. Chairman, for this great hearing.
+Mr. Walden. Are there any other member seeking time on our
+side? If not, the gentleman yields back his time and I
+recognized the gentleman from California, Mr. Waxman, for an
+opening statement.
+
+OPENING STATEMENT OF HON. HENRY A. WAXMAN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF CALIFORNIA
+
+Mr. Waxman. Thank you very much, Mr. Chairman, and I
+welcome our witnesses as well.
+I am pleased that that the subcommittee is looking at this
+issue of cybersecurity. This is our second hearing. Every week
+we learn of a new cyber breach or vulnerability, so it is vital
+that we are paying attention to this question.
+Like the smart grid, which was the topic of our last
+hearing by the subcommittee on Oversight and Investigations,
+communications networks are highly vulnerable to cyber attack.
+The potential for severe disruptions are high because
+communications networks are the common thread to all critical
+infrastructure sectors.
+In fact, the public safety legislation that was just signed
+into law exemplifies these concerns. Under the new law, first
+responders will be relying on broadband communications networks
+to secure the safety of life and property. That will strengthen
+their ability to protect the public, but only if the networks
+are protected from cyber attacks.
+Today, I look forward to continuing our discussion of the
+security threats faced by mobile devices and the proper role
+for this subcommittee in ensuring cybersecurity. Our witnesses
+today represent a broad cross-section of Internet service
+providers, as well as a handset manufacturer. This should
+further help our understanding of what risks threaten
+communications networks, what companies are doing to mitigate
+these risks, and what the subcommittee might do to assist you
+in these efforts.
+I believe the Federal Government has an important role to
+play in ensuring the cybersecurity of the Nation's
+communications networks. One important Federal role is
+developing practices that will keep the Internet safe. The
+FCC's upcoming release of its cyber best practices report,
+developed by the well-regarded Communications Security,
+Reliability and Interoperability Council, such a long name that
+is reduced to CSRIC, will provide valuable guidance to industry
+and our subcommittee.
+I understand the chairman is planning a third hearing with
+government agencies. I commend him for this series of hearings
+and look forward to what our witnesses have to tell us.
+And finally, I want to join in thanking you, Mr. Chairman,
+for organizing a bipartisan working group to study cyber
+threats and inform the subcommittee of its findings. This is a
+good opportunity for subcommittee members and staff to work
+together on an issue of common concern. I look forward to
+hearing back from the working group and exploring with the
+subcommittee potential further actions.
+Thank you for the hearing. I thank all the witnesses for
+being here. I look forward to the testimony. Yield back.
+[The prepared statement of Mr. Waxman follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. The gentleman yields back his time. I thank you
+for your comments. We have a lot of big brains on this
+committee and we are going to need them all to protect America,
+so thank you to the members who have agreed to serve on that
+working group.
+Gentlemen, we are delighted to have you here today. We will
+start with Mr. Livingood. We appreciate your being here, Vice
+President, Internet Systems Engineering from Comcast
+Corporation. Thank you for being here. Just a friendly
+reminder, being an old radio guy: Pull these microphones very
+close and make sure the button is lit and you will be good to
+go.
+
+STATEMENTS OF JASON LIVINGOOD, VICE PRESIDENT, INTERNET SYSTEMS
+ENGINEERING, COMCAST CORPORATION; EDWARD AMOROSO, CHIEF
+SECURITY OFFICER, AT&T SERVICES, INC.; DAVID MAHON, CHIEF
+SECURITY OFFICER, CENTURYLINK; JOHN OLSEN, SENIOR VICE
+PRESIDENT AND CHIEF INFORMATION OFFICER, METROPCS
+COMMUNICATIONS, INC.; AND SCOTT TOTZKE, SENIOR VICE PRESIDENT,
+BLACKBERRY SECURITY GROUP, RESEARCH IN MOTION
+
+STATEMENT OF JASON LIVINGOOD
+
+Mr. Livingood. OK. Thank you very much, Mr. Chairman,
+Ranking Member Eshoo and members of the subcommittee for
+inviting me to discuss some of the work that Comcast is doing
+to protect consumers and cyberspace. We appreciate the
+subcommittee's interest in this issue and its willingness to
+hear the perspective of someone like me, an engineer working in
+cybersecurity and other technical Internet issues every day.
+I serve as Vice President of Internet Systems Engineering
+at Comcast, and I am the Engineering Leader in charge of our
+residential high-speed Internet service. I currently serve on
+an FCC CSRIC working group, on ICANN's Security and Stability
+Advisory Committee, on the Broadband Internet Technical
+Advisory Group, and am a member of the board of trustees of the
+Internet Society. I am also an active contributor of the
+Internet Engineering Task Force, or IETF.
+At Comcast, we take cybersecurity issues seriously, and we
+know that our customers are very concerned about security. We
+strive to provide them with the best, fastest and most secure
+Internet service possible, and our engineering team devotes
+significant time, energy and investment to constantly update
+and refine our cybersecurity efforts.
+One such threat that we focused on comes from malicious
+software called a bot. Bots run on an end user's computer
+without their knowledge and are controlled remotely. Bots are
+used to conduct identity and credit card theft, denial of
+service attacks, steal user names and passwords, and send spam.
+It is important to understand that a person need not
+consciously do something like download an app to become
+infected. Sometimes they can be infected just by visiting a Web
+site.
+To counter bots, we developed a system called Constant
+Guard. This customer-facing system first detects botnet
+traffic, notifies end users of infection such as sending them
+alerts in their web browser, and provides them with tools to
+remove those infections.
+Another area of threat is to the Domain Name System, which
+is a foundational and extraordinarily important and critical
+part of the Internet. The Domain Name System, or DNS for short,
+is responsible for basically translating names like Comcast.com
+into IP addresses, which are the addresses used to connect and
+route traffic across the Internet. So it is extremely
+important. But a vulnerability in the DNS can permit an
+attacker to inject a fake answer into the DNS. An attacker, for
+example, can then direct traffic destined to a site such as a
+banking Web site to computers that they control, perhaps to
+collect login and financial information, but the address in the
+user's web browser still appears correct.
+The long-term fix is to implement DNS security extensions,
+or DNSSEC for short. This involves someone doing two things.
+First, cryptographically signing the domain names that they own
+and then Internet service providers validating those signatures
+before connecting a user to that site. This is basically akin
+to your bank keeping your signature on file and checking the
+signature on your check against that before cashing your check.
+It is important to note that DNSSEC was developed via an
+international multi-stakeholder process at the IETF and will
+require adoption across the entire ecosystem such as by banks,
+web browsers, software companies and cloud services, not just
+ISPs. I am pleased to report as part of Constant Guard, Comcast
+was the first ISP in the United States to fully deploy DNSSEC
+in January.
+But it is important to understand that no open and
+massively interconnected network can ever be completely and
+totally secure. While there is no perfect solution to security,
+that does not mean that there are no good solutions, so our
+focus has been quite simply to roll up our sleeves and get to
+work chipping away at the security threats day in and day out,
+quickly learning and adapting. We are working within the
+industry and on a global basis to combat the key threats and to
+protect our customers the best that we can and also to help
+them protect themselves. There are powerful incentives to take
+strong and effective measures to ensure network security and
+safety. Our consumers want assurance that the networks that
+they are using are safe and secure, and we have strong reasons
+therefore to invest capital and resources into cybersecurity
+safeguards. The same is of course true for other network
+providers. We all have powerful incentives to take actions
+necessary to secure our substantial investments in our
+networks.
+Policymakers can help these efforts by removing legal
+uncertainties that can inhibit collaboration while preserving
+and strengthening this flexibility that providers have to
+develop the best solutions for each of our networks. As one of
+the members said a moment ago, there is no one-size-fits-all
+solution, so flexibility is key, and it is important because
+the threats change as rapidly as they do. Flexibility will help
+to ensure that we can continue to focus on security and
+innovation rather than compliance and regulation.
+Thank you.
+[The prepared statement of Mr. Livingood follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you, sir. We appreciate your comments and
+we will get back to you with some questions on the specifics of
+what those uncertainties are in the law.
+We now are delighted to have Dr. Edward Amoroso with us. He
+is the Chief Security Officer for AT&T Services, Inc. Doctor,
+we are glad to have you here. We look forward to your comments.
+
+STATEMENT OF EDWARD AMOROSO
+
+Mr. Amoroso. Great. Thanks. Hi, everybody. I am Ed Amoroso.
+I have spent my entire adult life in cybersecurity. In fact,
+even as a teenager, my dad was a computer scientist so I was
+logging onto ARPAnet when I was a little kid. So I have been in
+and around this forever. I started work at Bell Laboratories
+and found that I was actually a pretty good hacker, and have
+been doing so ever since and now I am the Chief Security
+Officer, so I kind of come at this with very practical
+perspective on threat.
+There are three things I want to share with you that I
+think are observations that might help you as you develop
+legislation, and they are based on empirical day-to-day, you
+know, dealings with security issues with our mobility network
+and our wireline network and the entire Fortune 1000 and lots
+of different countries we deal with, so I do that all day long
+and I wanted to share.
+And the first one is about innovation. We are being out-
+innovated by our adversaries is basically the case. I mean, I
+don't know if you have ever bought a piece of furniture and
+taken it home and admired the handiwork in the furniture. That
+is what we do with malware that is being developed by
+adversaries. It is so good and so well crafted that we marvel
+at how far the adversary has come. These are not script kiddies
+doing dopey things. And these are pretty good. I don't know if
+any of you watch 60 Minutes, if you saw the Stuxnet piece. That
+is an incredible piece of computer science, that worm. So I
+think we need to recognize that whatever we do collectively as
+a Nation, we need to figure out a way to incent companies and
+universities and government agencies to innovate in this area.
+If we don't, we are going to be in trouble because I will tell
+you, and I bet everybody on the panel here would agree with me,
+the best state-of-the-art security protections that any one of
+us can put in place will not stop a determined adversary in
+2012. That is a fact, so we need to do something to get ahead
+of that, and the way you do something is, you innovate. We need
+to do something to get ahead of it, and part of the problem
+with sort of prescripting an answer to everyone, hey, we are
+all going to do the following, is it would be like every NBA
+team publishing their defense and saying this is what we are
+going to do. Guess what? You think the adversaries don't read
+your legislation? You think they don't look and see what we are
+all going to do? I mean, you lay it out and you say OK, I will
+step around these things that you are doing. I mean, that is
+just a practical issue in cybersecurity. This is not, you know,
+the kind of thing where, you know, we can all kind of do
+commonsense stuff and it will fix it. There is a million things
+in our lives where if we all go back to the basics and do a set
+of commonsense things that will make things better. We all live
+our lives that way. Cybersecurity doesn't work that way. We are
+dealing with an adversary. So the first issue is innovation.
+The second is infrastructure, and I think everybody also at
+this table would agree that complexity in infrastructure is the
+biggest problem for cybersecurity. When things get way too
+complicated, we can't keep track of it. It becomes almost
+impossible to protect something that has become so big and
+complicated that you can't get your arms around it, and part of
+the problem with things like DNSSEC and others, which clearly
+have benefit--I mean, I certainly agree with a lot of the
+points that were made--but they add complexity. Like the way to
+think of DNSSEC is, you know when you do a commercial and at
+the end you say I am such-and-such and I approved this
+commercial, that is DNSSEC. I mean, it is essentially the
+server attesting to the fact that here is a signature that I am
+who I am, but if somebody is breaking in to and owns that
+server, the signature is meaningless. It doesn't do any good.
+And I would say empirically, I see a lot more break-ins to DNS
+servers than forged, you know, different types of protocol
+responses and so on. So I think what we need to keep in mind as
+we develop legislation that when we add complexity, when you
+add things that we need to keep track of, do this, do that,
+overlay this, add this new thing, add that new thing, the
+complexity can be very stifling. You know when DNSSEC was first
+proposed? Decades ago. Right. This is not something that was
+dreamed up last week. We have been working on adding
+cryptography to Internet protocols forever, and the reason we
+don't have them today is because they are unbelievably
+complicated to run. They do add some benefit but they have side
+effects. It would be like bringing a senior citizen to the
+doctor with five ailments and the doctor says well, I am going
+to give you medicine for one of them but it has side effects.
+That is DNSSEC. It does have benefit, it has side effects, it
+doesn't fix everything, so that is the second.
+The third and last issue I want to raise is software. At
+the root of every cyber attack, every problem I have ever dealt
+with in my entire career is bad software, and I think that it
+needs to be addressed. The discipline of software engineering,
+the profession of writing software is one that is a complete
+mess right now. And I am a professor at the Stevens Institute
+of Technology. I have been teaching in the computer science
+department there for 22 years. I teach software engineering,
+teach computer security, that kind of thing, so maybe blame me,
+but the bottom line is that youngsters and even professionals
+today cannot write a non-trivial piece of software that is bug-
+free and those bugs are the way our adversaries get into our
+companies. We open up Web sites because we have no choice. Are
+we going to close the Web site down? It is there and the
+software powering that has vulnerabilities we don't know about.
+I bought it, I install it, I test it, everything is great, but
+some adversary finds an open door that I don't know about, that
+the manufacturer doesn't know about, and they dance right in.
+Bad software is a fundamental problem here, and I think it
+needs to be addressed, probably through the educational system.
+Thanks.
+[The prepared statement of Mr. Amoroso follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you. We appreciate your comments and we
+will back to you with questions as well.
+Now we are joined by Mr. David Mahon, Chief Security
+Officer for CenturyLink. Thank you for being here. We look
+forward to your comments.
+
+STATEMENT OF DAVID MAHON
+
+Mr. Mahon. Chairman Walden, Ranking Member Eshoo and
+members of the subcommittee, thank you for the opportunity to
+testify on this important topic.
+CenturyLink, a tier one backbone provider, provides
+communication services to over----
+Mr. Walden. We are having trouble hearing you. Is that
+light lit up there, and you really have to get really close.
+Mr. Mahon. Chairman Walden, Ranking Member Eshoo and
+members of the subcommittee, thank you for the opportunity to
+testify today on this important topic.
+CenturyLink, a tier one backbone provider, provides
+communication services to over 14 million homes and businesses
+in more than 37 States and around the world. Our services
+include voice, broadband, video entertainment and data, as well
+as fiber backhaul, cloud computing and managed security
+solutions. Our customers range from the most basic voice and
+Internet customers to the largest Fortune 500 companies and
+large government agencies. As Vice President and Chief Security
+Officer for CenturyLink, I am responsible for all corporate
+security functions including information security.
+Before joining CenturyLink, I worked for over 30 years with
+the FBI and was responsible for investigative teams and
+programs related to target attacks on the Internet, computer
+systems and networks exploited by terrorist organizations,
+criminal and intelligence operations of foreign governments,
+white-collar crime investigations, and crisis management.
+The cyber threat is real and serious. Our networks and
+those of our customers are the targets of thousands of
+cybersecurity events daily from simple port scans probing
+network defenses to sophisticated attacks. CenturyLink and our
+customers invest significant resources in ongoing efforts to
+keep those assets secure. CenturyLink uses an overarching
+governance, risk and compliance framework to ensure
+cybersecurity threats are addressed enterprise-wide. As
+stewards of the Internet infrastructure, CenturyLink's programs
+on cybersecurity fall into several general categories:
+protecting the customer, protecting our core networks and
+providing managed cybersecurity and secure communication
+services.
+We have worked extensively with our industry peers,
+partners in government and other stakeholders to strengthen our
+collective defenses against cyber attacks. From our CEO's
+participation on the President's National Security
+Telecommunications Advisory Committee to my security team's
+participation in key organizations such as DHS's Communication
+Sector Coordinating Counsel and the FBI's Domestic Security
+Alliance Council, we conduct risk assessments, information
+sharing, incident response planning and participate in
+government-sponsored cybersecurity exercises.
+In addition, CenturyLink's CEO, Glen Post, chairs the FCC's
+Communications Security, Reliability and Interoperability
+Council, which is working on voluntary best practices for
+botnet remediation, Domain Name System Security, Internet route
+hijacking, and other emerging issues unique to the
+communications industry.
+More can and should be done, but carefully. Public-private
+partnerships have yielded significant progress in the last few
+years by building a framework of collective defense and
+cooperation and helping us understand the cyber threat. As many
+of you have pointed out, we are entering into a new era of
+cybersecurity threats where our adversaries have become more
+sophisticated and determined, and the need to collectively step
+up our game is more acute.
+We are particularly encouraged by legislation like H.R.
+3523, the Cyber Intelligence Sharing and Protection Act, and
+similar provisions in Senate bills that could clarify and
+enhance cyber-related public-private information sharing.
+As communication providers, we see a number of areas where
+Congressional action can make valuable improvements to our
+Nation's cybersecurity process such as improving information
+sharing, market-based incentives and gap analysis, improving
+the Federal Government's cybersecurity posture, and expanded
+research and development.
+Shifting to a mandated-based approach would be
+counterproductive. We strongly caution against the traditional
+regulatory approach based on government mandates or performance
+requirements. Because our network is the one central asset of
+our business, CenturyLink and our industry peers already have
+the strongest commercial incentives to invest in and maintain
+robust cybersecurity. There is neither a lack of will nor a
+lack of commitment to do this among the major communications
+providers.
+At its best, cybersecurity is a dynamic, constantly
+evolving challenge best done in a collaborative partnership. At
+its worst, cybersecurity can devolve into a checklist exercise
+and diverts resources away from effective protections into
+expensive compliance measures that may be already outdated by
+the time they are implemented. We have the most knowledge of
+our network systems and databases, and we understand the most
+effective and efficient ways to protect these assets.
+We commend the members of the Energy and Commerce Committee
+for their interest in improving the Nation's cybersecurity and
+for the deliberate process the committee is undertaking to find
+the right mix of incentives and elimination of legal barriers.
+CenturyLink has strived to be a constructive partner in this
+effort, and we will continue to do so. Thank you.
+[The prepared statement of Mr. Mahon follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you, sir. We appreciate your testimony,
+and now we will move to Mr. John Olsen, Senior Vice President
+and Chief Security Officer for MetroPCS Communications.
+Welcome, and we look forward to your comments.
+
+STATEMENT OF JOHN OLSEN
+
+Mr. Olsen. Thank you, Chairman Walden and Ranking Member
+Eshoo. It is an honor to appear before you and your colleagues
+today. I am the Senior Vice President and Chief Information
+Officer for MetroPCS Communications. I have nearly 30 years of
+IT experience, and I am responsible for our IT networks.
+MetroPCS is a leading provider of unlimited wireless
+communication services for a flat rate with no annual contract.
+We sell our services through our own retail stores and
+independent MetroPCS dealers to retail consumers. We do not
+sell through business-to-business sales channels or to the
+government.
+Our communications networks use four well-known and
+established network vendors: Alcatel-Lucent, Ericcson, Cisco
+and Samsung. We also purchase handsets from well-known and
+established vendors. These vendors are not our primary network
+vendors, which mitigates the risk that an embedded handset
+threat is able to exploit vulnerabilities in our network.
+Our communications networks utilize security measures
+similar to other carriers. We have also adopted measures both
+physical and logical to protect these networks. We have four IT
+networks which are critically important to our business. As we
+will discuss in more detail, we have voluntarily undertaken a
+number of cybersecurity measures to protect our IT networks,
+both physical and logical.
+Security of these critical networks is very important to
+MetroPCS. We maintain a comprehensive, holistic, risk-based
+information security program built on industry best practices
+covering people, process and technology. We use a combination
+of hardware and software services. Our security program
+directives are driven by a formal governance function and
+include, among other things, centralized policy management,
+security awareness, training, and internal and third-party
+monitoring, physical protection, threat identification and
+vulnerability management as well as intrusion prevention.
+We are particularly focused on security at the perimeter of
+our IT networks and use multi-level security technologies to
+prevent unauthorized access to our IT networks from both inside
+and outside our company. We conduct and we have third-party
+vendors conduct regular network security audits and penetration
+tests and have standardized on a single provider or all network
+equipment. Further, our IT networks are broken up into segments
+with firewalls between critical segments. Our 24/7 monitoring
+efforts, which are augmented by our cybersecurity partners, can
+generate hundreds of thousands of potential cyber threat alerts
+a day but result in just a handful of real threats, which we
+address immediately. While we cannot say definitely we have
+never had a cyber intrusion, we are not aware of any
+significant cyber intrusions or cyber attacks that have been
+successful at disrupting our IT or communication networks.
+In addition, we have also adopted a number of other
+measures to protect our customer information such as encrypting
+hard drives, installing virus and malware software, and for a
+mode access requiring two factor authentication. We also
+conduct background checks, segregate duties of personnel and
+log all access and changes to critical systems. MetroPCS has
+also implemented numerous physical security measures such as
+card key and biometric access.
+Our staff also maintains vendor-specific and industry-
+recognized certifications and regularly participates in vendor-
+sponsored symposiums, industry summits and conferences. We are
+involved in these groups, not because we are required to but
+because they are a valuable source of information and best
+practices.
+MetroPCS does not believe that regulation is required or
+warranted at this time, particularly for carriers that do not
+provide services to government or local public safety
+organizations. Carriers are already well incented to protect
+their networks, and this is particularly true for month-to-
+month service providers like MetroPCS. If we do not provide the
+level of protection our customers want or demand, they can
+terminate service without penalty and can activate service with
+a competitor. Governmental regulations and private sector
+certifications such as PCI also force providers to invest in
+the appropriate tools and practices to detect and deter cyber
+threats.
+Market forces are better suited to respond to constantly
+changing cyber threats. If regulations are considered, MetroPCS
+urges that these requirements be flexible and tailored to the
+threat. Regulatory compliance can be particularly burdensome
+for carriers who compete by providing an affordably priced
+differentiated service for consumers.
+Unfortunately, even voluntary obligations can evolve into a
+mandate on industry. We support voluntary industry efforts,
+industry standard bodies, enhanced governmental consumer
+education and the FCC's cybersecurity stakeholder efforts along
+with government sharing of cyber threat intelligence including
+a national central clearinghouse. Finally, no carrier should be
+liable for using such information.
+Thank you again for the opportunity to testify and I look
+forward to any questions that you may have.
+[The prepared statement of Mr. Olsen follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you, Mr. Olsen. We appreciate your
+comments today and we will back to you with questions as well.
+Now we will turn to our final witness on the panel this
+morning, Mr. Scott Totzke, Senior Vice President, BlackBerry
+Security Group, Research in Motion, RIM. Thank you for being
+here and we look forward to your comments.
+
+STATEMENT OF SCOTT TOTZKE
+
+Mr. Totzke. Chairman Walden, Ranking Member Eshoo, members
+of the subcommittee. Thank you very much. My name is Scott
+Totzke. I am the Senior Vice President of BlackBerry Security
+at Research in Motion, and I am pleased to be here to talk to
+you on the topic of cybersecurity.
+RIM revolutionized the mobile industry when we introduced
+the BlackBerry in 1999, and today our products and services are
+used by millions of customers around the world. There are more
+than 630 carriers and distribution partners in 175 countries
+that offer BlackBerry products and services to our customers.
+More than 90 percent of the Fortune 500 customers are
+BlackBerry customers today, and we have a longstanding
+relationship with the U.S. Federal Government including
+Congress, the Department of Defense and the Department of
+Homeland Security.
+Mobile communications face similar security risks as non-
+mobile communications. Several of the same types of threats and
+attacks that have existed in traditional computing platforms
+can impact smart users today, and as the power, ubiquity and
+computing capabilities of smartphones have increased over the
+last few years, the threat matrix continues to evolve
+exponentially. Most users have yet to realize the applicability
+of both the existing and emerging threats to what is
+essentially a smaller and more mobile computing platform that
+they already have at their home or office.
+An effective and comprehensive mobile security solution
+must therefore provide protection by proventing unauthorized
+access to the smartphone and its data, to protect the data in
+transit over the wireless network and to protect the corporate
+network using features that are built into the platform. While
+technology vendors can provide components of these solutions,
+it is equally important that as a mobile technology industry,
+we help government, enterprises and consumers better understand
+the risks involved with all types of online activities.
+For our part, RIM focuses on designing secure and efficient
+solutions for enterprises and consumers. RIM has a history of
+integrating security features into its products and firmly
+believes that security technologies are an important foundation
+for a digital economy. RIM has built security features in that
+allow for data to be encrypted and protected from unauthorized
+access, to limit and control access to information on the
+smartphone by third-party applications, and to remotely erase
+sensitive information in a case where a phone is lost or
+stolen. These controls can all be centrally managed by the
+BlackBerry Enterprise Solution, which is designed to give large
+and small organizations the ability to balance individual and
+enterprise use of BlackBerry smartphones while protecting the
+privacy of their corporate and employee information.
+RIM also believes that there needs to be more focus on
+security testing and certification that establishes a baseline
+for technology vendors. Without an established baseline to
+properly gauge the security of a product or a network, it is
+difficult to make informed decisions. Vendors that work to
+certify their mobile solutions through trusted validation
+programs provide assurances to governments and consumers who
+would otherwise be unable to verify the security of the claims
+being made by the vendor.
+BlackBerry products and solutions have already received
+more security accreditations globally than any other wireless
+solutions, and our consumers value this level of transparency
+when it comes to protecting their information. We feel that
+greater adherence to security standards like FIPS would help
+customers better understand their personal and professional
+investments in protecting their information.
+Lastly, this panel has raised a number of concerns
+regarding two extremely important points related to the
+evolution of security and technology in the mobile industry
+that I would like to address. The first concern is related to
+information sharing. While there is increased competition
+between vendors, there is also an increasing degree of
+commonality in the components used by many desktop and mobile
+platforms. This directly translates into an evolving risk of
+cross-platform vulnerabilities, creating a level of shared risk
+that increases the need for vendors to work together to
+responsively disclose and address these concerns. This also
+means that programs such as RIM's information sharing program
+need to fully engage with public sector entities such as the
+US-CERT to ensure timely and bidirectional flow of security
+information.
+The second issue raised here is related to supply chain
+security and the impact it can have on the security and
+availability of networks. A product that has been modified or
+created in an authorized manner could pose security risks to
+the customer's information and to the overall posture of RIM's
+network, our carriers' networks or our customers' networks. RIM
+has been working for several years to embed network security
+elements directly into the silicon of our products and in all
+aspects of our manufacturing process to ensure that only
+authentic products are allowed to obtain network services. We
+believe that this combination of hardware security, operational
+security and manufacturing, facility security, software
+security, network security work together to mitigate many of
+the concerns about knockoff products or products that have
+otherwise been tampered with, impacting the security of our
+customers' information. We support the subcommittee's efforts
+to raise awareness of this wide-reaching impact in respect to
+supply chain-related security issues.
+Chairman Walden and members of the subcommittee, I would
+like to thank you again for the opportunity to provide RIM's
+perspective on these critical issues.
+[The prepared statement of Mr. Totzke follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Mr. Totzke, thank you very much for your
+testimony. All of you, thank you very much. We appreciate your
+being here.
+I am going to lead off with questions. So Dr. Amoroso and
+Mr. Olsen, you say in your testimony that you routinely track
+threats to your networks. I assume you all do that. How can we
+facilitate information sharing among network providers of such
+information while protecting consumers' privacy and companies'
+competitively sensitive data?
+Mr. Amoroso. I think the big debate has been between
+government and industry, right, that has been the big issue.
+Like if I go to a security conference and some hacker whispers
+to me that there is a signature that I should be looking at,
+then I scribble it down, run back to my op center and put it in
+place. If a government individual does that, then I can't put
+that in the network because we would be operating as a branch
+or an agent of the government or something like that. So that
+seems to me a little silly, like that is something that
+probably ought to be addressed.
+Mr. Walden. That is the kind of specific issue we are
+trying to drill down to here. Can you give us something more
+specific? Where does that show up? Do you know statutorily?
+Mr. Amoroso. Oh, yes. I mean, like the United States
+intelligence agencies and law enforcement agencies regularly
+see different types of signatures that we don't look for. We
+are not in law enforcement. We are providing service to
+customers. We don't chase that sort of thing down. We chase it
+to the point where we can stop it, and that is it, but like
+intelligence groups will really dig down deep and see something
+that we don't. For them to share that, particularly if it is
+classified or something is awkward and it is stilted. And I
+know in my own company whenever I get involved in something
+like that, there is more lawyers involved in the discussion
+than there are people in this room right now. So, you know, it
+is almost like we are disincented to even bother. So I don't
+think it is so much whether, you know, between different groups
+we share because, frankly, we kind of do. The Internet wouldn't
+work if we weren't sharing constantly.
+Mr. Walden. But are there any prohibitions? If you spot
+something, if you go to that conference and a hacker says look
+for this signature, is that something that Mr. Olsen, Mr. Mahon
+and others should be looking for as well on their networks?
+Mr. Amoroso. I am sure they do.
+Mr. Walden. And then is there a way you can share that
+information with them or are there impediments to that kind of
+sharing?
+Mr. Amoroso. I mean, we all buy services from a lot of the
+same companies that do that. You know, we pick companies that
+do a really great job of that. I buy from three or four
+different companies that provide about the same intelligence
+everybody else is going to get. You know, it is pretty good,
+you know, and they are incented to make sure it is pretty
+useful because I pay them every month for it.
+Mr. Walden. And do the customers. And so I guess the
+question then is, there is not a problem sharing information
+back and forth?
+Mr. Amoroso. Sometimes there is, right?
+Mr. Walden. Is that a problem we should address? We are
+looking for barriers.
+Mr. Amoroso. I mean, here is the classic example. AT&T had
+an exclusive on the iPhone for some period of time, so I put a
+bunch of people down in New York City, PhDs right out of school
+and I told them find ways to filter attacks being aimed at
+iPhones, that will really help our customers, and they worked
+real hard and we came up with some, and once other carriers got
+access to the iPhone, do you really think I would want to give
+them, you know, the fruits of the work that we are doing? Their
+incentive is to do it as well and, you know, compete with us,
+and I would like my customers to say hey, I am going to stay
+with AT&T because they are really investing in doing protection
+and our competitors say the same thing, and we innovate that
+way. That is kind of--that is a case where, you know, it is not
+necessary for me to share. The market is going to force our
+competitors to want to catch up or for me to catch up to
+somebody else. That is the right balance between, I believe,
+all of us. But between government and industry, I think the
+information sharing should be more free.
+Mr. Walden. Thank you, Doctor.
+Mr. Olsen, do you want to comment on that?
+Mr. Olsen. Thank you, Mr. Chairman. At MetroPCS, besides
+our internal controls and our internal systems, we also have
+cybersecurity partners, so securing monitoring firms that we
+use to monitor our network and our systems 24 hours a day.
+Those firms do share information between them, but if I believe
+I understand your question, there is not a central
+clearinghouse for that information for the folks that are
+outside of those security companies to easily share
+information. So if Mr. Amoroso recognizes a threat or is told
+about a threat in his network, there isn't a central place
+where he could notify other companies or other carriers even in
+the same industry that this threat is out there and we should
+respond to it.
+Mr. Walden. And is there an incentive? Because I almost a
+disincentive to do that. If you have done the research, you
+identify the threat, you protect your customers, why do you
+tell other iPhone----
+Mr. Amoroso. I don't know that it is a disincentive. Keep
+in mind that when we advertise or broadcast that there is a
+threat we are worried about, you are telling the bad guys too,
+right? I mean, so it is a little--it would be a little weird to
+be too open about what you are concerned with. So I kind of
+like the existing model. I mean, I think that there are
+companies that do this. We evaluate them, and when the
+intelligence looks pretty good, we buy it.
+Mr. Walden. All right. My time is expired.
+We will turn now to the gentlelady from California, Ms
+Eshoo.
+Ms. Eshoo. Thank you to all of the witnesses. Excellent
+testimony.
+First to Mr. Livingood, I think it is really terrific that
+you are the first ISP in North America to fully implement the
+DNSSEC as you noted in your testimony. How do we encourage
+other ISPs to follow your lead? What would be--just quickly. I
+have a whole series of questions.
+Mr. Livingood. So I think on that question regarding DNSSEC
+adoption by other providers, I think it is important to keep in
+mind one thing, which is, it is not just about network
+operators, it is about banking sites, it is about other Web
+sites, software developers. A lot of people have to implement
+DNSSEC to make it work in the ecosystem. But specific to
+network operators, I would say that there is actually already a
+lot of that interaction going on already. You know, one of the
+beautiful things about the way that the Internet has worked and
+is successful is, there is a lot of these multi-stakeholder
+consensus-based organizations that groups get involved in. One
+of them in fact happens to be one of the CSRIC working groups
+that I am on, and they will be coming out with a recommendation
+soon, and a number of our companies participate----
+Ms. Eshoo. When will that be?
+Mr. Livingood. I think that it is due today, the
+recommendations.
+Ms. Eshoo. Oh, good. You never know on government time.
+Congress has an extensive network to ensure the security of our
+mobile devices and the network that they run on. I experienced
+this firsthand last year when I traveled abroad as part of a
+Congressional delegation, and my device became infected during
+the trip, and the device never left me. I mean, I practically
+slept with the thing under my pillow. It never was out of my
+purse. It was never left in the hotel. But nonetheless it was
+infected. The good news is, because of the proactive measures
+in place, the threat was detected prior to being reactivated in
+the House network. So as a company, what steps do you take to
+ensure that your customers, particularly those in smaller
+organizations, adhere to the same proactive security measures?
+And I guess my question is to Mr. Totzke, to Dr. Amoroso--I
+love your name, Amoroso--and Mr. Olsen.
+Mr. Totzke. Thank you, Congresswoman. I will go first. I
+mean, we provide a comprehensive list of guidelines for
+configuration of the device so our administrators have white
+papers and information they can access on the Web site, and our
+goal is to make sure that your administrator, your IT
+organization that looks after your device if it is a BlackBerry
+device has full control over that device at all times, so there
+is a comprehensive set of policies, more than 500 of them, that
+an administrator can send to control all aspects of the
+platform including preventing access to information or
+disallowing you the installation of software on the device. So
+we try and do that. As I think will be a common thread here,
+there is a lot of education in this industry. Security is a
+complex set of decision-making things that we have to do on a
+daily basis and a lot of risk that is really difficult for
+people to understand. We are trying to offer as much
+transparency and help to our customers through publication of
+standards and best practices and forums like this.
+Ms. Eshoo. As I understand, one way to prevent potential
+botnet activity is to isolate and block IP addresses that pose
+a threat. Do you all have the technology to do this today, and
+if so, has it been effective?
+Mr. Amoroso. I can comment. I mean, we have the technology
+to block but it doesn't work, so, you know, we can certainly--
+we do try. We try real hard. Botnets all of your PCs being
+infected. That is what it is. Like we have made the mistake in
+computing of turning every person in this room into a Windows
+system administrator. That is what you do part time when you
+are not legislating. So that model is wrong, and most of you
+don't do a very good job of it, nor do I. I bet people at this
+table, we would shrug and say we probably don't do it well
+either. So we have distributed the responsibility massively and
+that risk----
+Ms. Eshoo. Is that what causes the complexity that you just
+discussed?
+Mr. Amoroso. Well, it is billions of people around planet
+Earth with PCs that are improperly protected, so it is a piece
+of cake to build a botnet. We watch botnets, you know, new ones
+every day, ones that are 50,000, 100,000 botnets we don't even
+bother naming. We just say oh, there is another one. We track
+them and just try to contain it. So it is not a matter of
+blocking the IP addresses, because we would be blocking you.
+You probably wouldn't like that. ``Sorry, you can't get on the
+Internet today. Why? It looks like you have a botnet.'' We
+would just shut the whole Internet down if we did that.
+Ms. Eshoo. In my opening statement, I mentioned the issue
+of supply chain and the security that I think really needs to
+be brought to that. First of all, do you share these concerns
+about the supply chain, and if so, what do you think would be
+the appropriate role for us to play in addressing it? I think
+it is a serious issue. Our telecommunications network that we
+came to more fully appreciate after our country was attacked
+was the system that we relied on. If we didn't have that, I
+don't know what we would have done. So I think that--and there
+are constant things that keep coming up relative to the supply
+chain. So I welcome any comments on that.
+Mr. Totzke. So I will answer that from a device
+manufacturer's standpoint. You know, this has been a concern
+for RIM for the decade-plus that I have been there. We have to
+understand where we get our components from, where we
+manufacture the devices, and when we started, it was real easy
+because we just made everything in our factory and it was all
+under our control and you grow into a global entity, you deal
+with outsourced manufacturing and kind of distributing that
+capability around the world with different partners. So it
+brings into question, you know, are you actually manufacturing
+the product you think you are making or are you getting
+something that is whole and intact. We have really focused on
+understanding what we can do to secure our products in the
+manufacturing process as well as the parts that come in. So for
+some of our strategic vendors, we are actually doing
+serialization and embedding kind of cryptographic elements in
+their silicon before it gets to us, and then our manufacturing
+process goes through a verification of every tool along the
+line, checking with RIM head office to say are you allowed to
+actually perform this operation, and the combination of
+hardware and software, so the embedded certificate is in the
+silicon. The hardware checking that the software hasn't been
+tampered with is used to authenticate the device to get
+BlackBerry services. So we know that a device hasn't been
+tampered with and it has been manufactured by RIM and it is
+intact when you first turn it on, and that authentication
+protects our network, our carrier partners' network and your
+networks, and is that hardware, software and network layer all
+working together to ensure the integrity of the BlackBerry
+services that we provide to our customers.
+Ms. Eshoo. Thank you.
+Mr. Walden. Thank you.
+We will now turn to the vice chair of the committee, Mr.
+Terry, for questions.
+Mr. Terry. Thank you, and with my 5 minutes and five
+people, I want to ask you all the same question, and that is in
+regard to the fact that you are the interface. If I want to
+have an Internet experience, I have to hire one of you. So what
+are you doing to provide me services that will protect at least
+to some extent from botnets and viruses or attacks to my
+information and my computer? And we will start from left to
+right, my left to right, Mr. Livingood.
+Mr. Livingood. Sure. Thank you. So I think we all have
+somewhat similar, you know, capabilities. It is a multilayered
+approach. There is not any one thing that is going to solve it.
+So it is sort of, you know, like an onion. There is lots of
+layers, and it is everything from intrusion protection that is
+at the edge of a network to things that provide denial-of-
+service attack, you know, mitigation when you see those things
+to botnet intelligence systems that detect botnets and start to
+notify customers--I mentioned that in my opening statement--and
+then to notify customers, and there are also a number of things
+that we all do and we do in particular to educate customers, to
+help them understand what things they need to secure in their
+network, the software they need to manage, gets them the
+software that they need to secure their network and their
+computers. So it is a multilayered approach.
+Mr. Terry. Mr. Amoroso?
+Mr. Amoroso. That was exactly what we do, same thing. There
+are a lot of different products and product names. I mean, I
+will tell you the one thing we don't do, and that is, we didn't
+sell you the computer, we didn't sell you the operating system
+that runs on the computer and we didn't help you select what
+type of software to put on there, and increasingly the ISPs are
+getting dragged into that, and it is a difficult situation
+because, you know, a lot of times people will say ISP, you
+know, I got something wrong with my PCs, you guys are sitting
+off in a cloud somewhere watching, you should figure out how to
+fix my PC, and that is something all of us struggle with.
+Mr. Mahon. We do all a number of very similar things, I
+think, in the ISP world, you know, to protect particularly
+residential customers. I think you have heard the spyware, the
+anti-virus, parental controls. We all have education and
+awareness, you know, places on our Web site, our home page
+where you can go to. We have a botnet notification program. In
+fact, if your computer does become a bot on a botnet, we have a
+method to notify you and then facilitate you cleaning up your
+home device.
+Mr. Terry. Mr. Olsen?
+Mr. Olsen. I think there is a lot of commonality in the
+approaches that we are all taking. One of the distinctions that
+I made in my opening comments regarding our cybersecurity
+partners I think is really important. These are people that are
+focused, that their full-time job is cybersecurity. They are
+looking for threats all the time and they have hundreds, if not
+thousands, of customers that are feeding them information and
+they are seeing real-time threats go through many companies. So
+a threat that might hit one company, they are aware of before
+many of us would see that. So I think that information sharing
+in that cybersecurity industry is really critical and it is
+something that we value.
+Mr. Terry. All right. Mr. Totzke, you may have already
+answered this question when you were talking to Ms. Eshoo.
+Mr. Totzke. Yes. So certainly the embedded security
+elements are part of that but beyond that, you know, we have
+user- and administrator-controlled security that lets our users
+dictate what level of protection they want to put into the
+platform, and we do have services available to consumers and
+enterprises that allow for on-device encryption of data, remote
+backup, remote restore, the ability to remotely lock and wipe
+the device so you can deal with this eventuality as a mobile
+device that is going to be lost or stolen or left in a taxicab,
+so we give you the capability out of the box to deal with any
+of those eventualities.
+Mr. Terry. Good. I appreciate that. I guess the last 47
+seconds I am going to give to Mr. Amoroso. Should the
+responsibility be on the ISP providers to have a system to
+detect viruses as they enter into your network before they get
+to my computer?
+Mr. Amoroso. If we knew how to do that reliably, I would
+have been trying to sell you that years ago. It is a very
+difficult thing to detect viruses and malware. Sometimes we can
+kind of pick it up, and we do notify, just like the rest of
+them. I call 100 to 1,000 people very week. The problem is, if
+I really knew what to tell them, knew exactly how to fix their
+PC, I would call everybody. Why just restrict it to the ones
+that happen to notice active malware? We would tell everyone.
+The problem is, there isn't a person in this room that can tell
+you how to clean malware off your PC other than reimage your
+computer. You know, that is the best we can do.
+Mr. Terry. Can't we just tell you to stop it?
+Mr. Amoroso. I wish I knew what--you know, here is the
+reason we can't stop it. I don't know if you are familiar with
+the concept of an encrypted tunnel, but when you visit a Web
+site and see https, that means there is cryptography between
+you and the Web site and everybody says oh, that is really
+secure, you should look for that. The reality is, every hacker
+in the world knows to make sure they are pushing their malware
+through that encrypted tunnel because none of us can see it. So
+we can sort of block the Web site but they hide the malware in
+places we can't see. That is where anybody would go.
+Mr. Terry. Well, it is such a fun issue to deal with.
+Mr. Amoroso. Here is what--when we pick up malware, it is
+the equivalent to somebody falling over and having a heart
+attack on the table, and we all go, that is rapid response to
+preventive care. You fell over, you had a heart attack, I
+picked that up. That is easy. It is picking up the stuff that
+isn't easy, and that is why it is difficult for us to build
+reliable services that will detect malware because it is
+hidden. Any hacker would do it that way.
+Mr. Walden. Thanks.
+Mr. Doyle, you are up next.
+Mr. Doyle. I think we ought to just call him Dr. Sunshine.
+Mr. Totzke, I want to ask you about Federal workers. As you
+might know, the White House is currently working on a national
+mobility strategy to determine how the employees of the Federal
+Government are using their mobile devices, and they are going
+to decide, for example, whether all agencies can bring their
+own devices to work much like many private sector employees do.
+Now, we don't of course advocate to prescribe one particular
+type of phone for everyone to use in the Federal Government but
+what security issues do you foresee that might come up as a
+result of this if we allow all Federal workers to use their own
+mobile devices and how do you think device manufacturers can
+make sure that the data that is on the phone of Federal
+workers, especially in sensitive agencies, remains secure?
+Mr. Totzke. So as you move to more of a heterogeneous
+environment where you bring your own device for what we call
+personal liable, individual liable devices, one of the
+challenges you face is that the security of platforms is going
+to vary based on the vendor and the posture and the features
+that they built into that. So getting a consistent view of
+security and how you are protecting your information is
+probably one of the issues. There are, you know, kind of
+liability and discovery issues in more of a corporate context--
+who owns the information, who owns the intellectual property if
+you have to go through any kind of a litigation, maybe not so
+much in the case of a Federal Government employee, and then how
+do you protect the information on the device, which I think is
+probably one of the more important ones. You know, there is a
+level of encryption built into BlackBerry to encrypt all of
+that data at rest, whether that is personal data or government
+data, and that is one of those that can be enforced remotely.
+But as we look at how we go into a bring-your-own device
+scenario, you know, the biggest concern that I have is this
+lack of a standard bar for protecting information, and what I
+would be most concerned about is sort of a race to the lowest
+common denominator so we have three or four competing
+platforms, so in order to allow everything we are going to
+reduce our security requirements to the bare minimum, which I
+think is the wrong thing, especially at the government level.
+Mr. Doyle. Thank you.
+Mr. Livingood, given the concerns outlined by Dr. Sunshine
+about implementing the DNSSEC, can you outline for us why
+Comcast made the decision to begin using DNSSEC and whether you
+think it has had the intended benefits that you hoped it would
+have?
+Mr. Livingood. Sure. Well, you know, the intended benefits,
+it is a long-term game there. I think one of the challenges
+with DNSSEC adoption was that you needed some critical mass for
+people to start signing their names, for people to build
+software to do that, and we felt like we could play a role in
+leading the industry in creating that critical mass. So, you
+know, that is part of the reason that we did it. I think the
+reason, you know, at root why we did that is, when the Kaminsky
+vulnerability came out in 2008, it fundamentally scared the
+heck of us. If our customers couldn't be sure that when they
+went to BankofAmerica.com it was that Web site, that scared us
+because then, you know, they are less likely to use the
+Internet, they are not going to care as much about higher-speed
+services and so on, and that is incredibly important to us. So
+to have a way--we all certainly had a short-term fix to that
+but to have a long-term fix to that we thought was incredibly
+important, and DNSSEC appears to be that one, and we are
+pleased to help lead the way and create that critical mass to
+help adoption.
+Mr. Doyle. Thank you.
+And just in closing, Dr. Amoroso, I have enjoyed your
+testimony and it makes us all realize how much work we all have
+to do together to face this problem that certainly there is no
+easy answer to. But I want to thank all the panelists for your
+testimony today. It has been very enlightening.
+I will yield back, Mr. Chairman.
+Mr. Walden. Mr. Doyle, thank you very much, and we will go
+now to Mr. Shimkus for 5 minutes.
+Mr. Shimkus. Thank you.
+I kind of want to build a little bit on what my friend Mike
+Doyle mentioned, but I want a different perspective, because it
+popped in my mind when he talked about Federal workers. Where
+are you finding your cyber warriors today from? In other words,
+where are they coming out of? Are they coming from private
+universities? Are they coming out of the military? Briefly, the
+cutting-edge new people who are helping you do this stuff,
+where are they coming from?
+Mr. Livingood. So I will start. I think it is a variety of
+places, and I would say, you know, there is a need for more
+educational focus not just in cybersecurity but ICT generally,
+but we find people in a variety of ways. Some are former
+military service members, former law enforcement. Others are
+just Linux system administrators that are interested in
+security. Others are, you know, former childhood hackers or
+something like this, and they are interested in it. So it is a
+variety of things.
+Mr. Shimkus. But is there a college path? I mean, can you
+get IT training in the business schools or computer science
+classes?
+Mr. Amoroso. I would like to comment. So I have been
+teaching at Stevens for 22 years. I teach this semester. If you
+looked at my class in 1990, you would see something that would
+look like a typical college class. I went to Dickinson,
+Pennsylvania, so pretty--a mix of kids. My class today at
+Stevens is about 98 percent foreign nationals, and I have got
+about 65 in the classroom, and almost all of them have the
+intention of leaving the country when they complete their
+master's or PhD because they see bigger opportunities
+elsewhere.
+Mr. Shimkus. Well, and that kind of segues, and if you all
+want to jump in, you can real quick, but I don't want to forget
+the aspect of compensation for people entering the private
+sector versus the government sector. There is this debate on
+salary compensation. I don't know where it is. I mean, we have
+the same issues about bringing in the best and the brightest,
+but if we are not compensating them for what the private market
+bears, then there is another thing. Does anyone want to jump
+in?
+Mr. Totzke. Just on where we source. So there is certainly
+out of the education system, out of the military and
+intelligence, we find some people kind of moving into private
+industry. The most talented guy on my team is a high school
+dropout, and so I think using the education system as a bar
+doesn't really help identify the best talent. He would be one
+of the top recognized kind of hackers and researchers in the
+world. So it varies, and I don't think you can actually teach
+somebody to be a hacker. There is sort of if you want to be a
+researcher in that area, there is an ingrained mentality you
+are either born with or not, so it is not like I am teaching
+somebody a trade like programming and getting to a level of
+sophistication in developing software. Being an attacker is a
+much different mindset.
+Mr. Shimkus. Right. Thanks.
+You know, the debate on the Senate side, and this is how
+you provide is, what happens if the Federal Government requires
+you to follow a new government security standard? What happens
+to you? That is the debate on the Senate side legislatively.
+One has a government-imposed standard. One is really, I think,
+letting you guys fight the battle yourselves. So does anyone
+want to jump in?
+Mr. Amoroso. I will offer just a brief point. My guess is,
+anything you can write down that you can think of as kind of a
+best practice is already being done here, and the things that
+we are back at the shop worrying about now are things that are
+not on your list, like as an example, we talked about botnets.
+You know when I saw the first botnet? Remember Y2K? We were
+building the Y2K White House communications fusion center, and
+we were worried that we were going to get DDoS'd for one day.
+That would be really bad if you are knocked out one day and
+miss the millennium change. You can't really move that date,
+right? So we were completely freaked out by botnets then and we
+have built--a lot of people in this room, we have built ways to
+steer traffic around and fix it and now we have a service and
+we moved on to the next thing.
+Mr. Shimkus. Yes, and let me put a final challenge out
+because I do agree, how do we incent innovation in this area,
+which is part of the opening statements. Incentivizing usually
+means government money here or government tax credits. You
+know, that is all kind of persona non grata right now in this
+new world in which we live in, so I would ask you to help us
+wrap around about this, and maybe it is easing regulatory
+burdens. Maybe there are things we can do that are not a
+dollar-cents component but tax credits, things like that. It is
+very difficult to do in today's environment. I will just throw
+that out.
+Thank you, Mr. Chairman. I yield back.
+Mr. Walden. I thank the gentleman.
+And with the committee's indulgence, Doctor, could you just
+explain DDoS?
+Mr. Amoroso. I am sorry. That stands for distributed denial
+of service. Here is how it works. When my voice talks to all of
+your ears, it is one thing to many ears and it works great if
+you are all quiet and you listen, your ears work. But if you
+could bounce my voice off your ears to him, it would sound like
+you are all shouting at him, right? My voice to all of your
+ears and then you reflect it back, that is a denial-of-service
+attack. We hit all your PCs and then tell all your PCs to shout
+this way, and boom, it all comes and it sounds like this big
+attack and it clogs the pipes and knocks them out. That is how
+it works.
+Mr. Walden. All right. Thank you, Doctor.
+Now we go to Ms. Matsui.
+Ms. Matsui. Thank you, Mr. Chairman, and this is all
+challenging and frightening at the same time here, and I do
+appreciate all of your testimony.
+I want to go into another area here. As we look into
+developing industry best practices standards for ISPs, should
+ISPs' own cloud services be included as well as other cloud
+providers or do you think because that technology is newer, it
+could be better for cloud providers to consider forming their
+own best practices to secure data in the cloud? I would like
+Mr. Mahon and Dr. Amoroso to answer that, please.
+Mr. Mahon. Well, first of all, we are already talking to
+the cloud providers, and some of us in fact are cloud
+providers. So I do think that the conversation is well
+underway. We are very familiar with the challenges, and if you
+really think about it, the term ``cloud'' is a rather generic
+term that is probably misunderstood. It can mean a number of
+different things for a different type of customer, and so
+therefore I would say we continue to include them in the
+conversation as we have everyone else, so to speak, at the
+table as partners and the solutions that you are looking for
+are really going to have to be integrated across a very wide
+platform. So therefore I would say that you would want to keep
+them in the conversation.
+Ms. Matsui. OK. Thank you.
+Mr. Amoroso. So my mother has a PC at home that at this
+instant I am sure is like attacking China or something. It is
+not administered properly and she has got, you know, a big
+tower with Verizon FIOS, the whole thing. She doesn't need
+that. She would be better much served to have a cloud provider
+just take care of all of that for her, and she should just be
+using, you know, some appliance to hit the Internet. The reason
+she doesn't is because there is software on the PC that she
+wants to be able to use that hasn't been put in the cloud. So
+in general that concept is a more secure concept than my mom
+trying to do it administration. So I think cloud in general is
+a more secure model than the one we have now.
+Ms. Matsui. Oh, OK. That is good to know.
+Dr. Amoroso, given your expertise in this area, what are
+the differences between securing wired and wireless
+communications networks and how can these differences be
+accounted for in any type of cybersecurity initiatives?
+Mr. Amoroso. Well, they are pretty big, right? The
+differences are significant. You know, if we had 3 hours, I
+could take you through the whole thing, but I will give you one
+example. Remember when--I am guessing most of you remember when
+computer security was just don't put an infected floppy in your
+computer. Remember that?
+Ms. Matsui. Yes.
+Mr. Amoroso. And it was like don't put software on your
+machine that you don't know where it came from. It seemed like
+perfectly good common sense, right? What do we do every single
+day on app stores? You know, we are downloading stuff, I don't
+know who wrote that, I don't know where it came from but boy,
+it sure looks pretty cool, I think I will download it to my
+device. That is something we are going to have to address from
+a security perspective. That is the big difference between
+wired and wireline.
+Ms. Matsui. OK. I am also thinking that so much of what we
+do is wireless, so much we do within our homes is wireless, and
+yet it is just so easy to do it that most people don't think
+about it at all, and I am concerned that we are not thinking as
+broadly as we should be thinking as far as some of the personal
+use, and I think it came about here with Mr. Doyle's too and
+the government area too. But it is so easy to be carrying
+tablets and different cell phones around, and for me, the part
+that is really to me quite frightening is that nobody knows
+what they don't know, and we are looking at you and you are
+saying too that there is a lot of things you don't know too,
+and we look upon you as experts, and I am hoping that we can
+build in some incentives here with sort of a sharing of
+information that goes beyond some of your commercial type of
+concerns. Because I am looking ahead, this is even getting more
+and more complicated as we develop more tablets and smartphones
+and whatever that we are losing control of the cybersecurity
+aspect of it, and the software aspect, I think you brought up,
+Dr. Amoroso, is really important, the education facet of that,
+and actually kind of building our principles and standards into
+that too.
+So that is just a comment, and I really do appreciate your
+being here, and I think I am learning more and more every time
+one of you opens your mouth, so thank you very much for being
+here.
+Mr. Walden. Thank you for your comments.
+We will go now to Ms. Blackburn for 5 minutes.
+Mrs. Blackburn. Thank you all so much, and I tell you what
+I think I am going to do is just ask my question, then if you
+all want to respond or respond in writing, that would be
+wonderful.
+First of all, going back to something that Mr. Shimkus
+said, I would like to hear from each of you, and you can say it
+now or send it to me, what you are seeing as the disturbing
+trends and what is kind of the next thing out there. I would
+like to know that. I would like to get an idea of how much of
+your cost of doing business is beginning to center around the
+cybersecurity issues.
+In your testimony, several of you have mentioned in one way
+or another either in response to the questions or testimony
+fear that the Federal Government could end up being more of an
+impediment than a facilitator in bolstering some of the
+cybersecurity efforts. I would like for you to speak to what
+you are concerned that we might do and then what we are not
+doing that we should be doing and hear from you in that vein
+with your consumers, I would appreciate knowing what you are
+doing to educate them. I think that one of the things that
+helps us as we work through the process is being certain that
+consumers are educated, so if I could get that bit of
+information.
+And then when we look at the hacker attacks that are out
+there, some of the anonymous attacks, some of those, there is
+one in the news today, I think there are five people that they
+are bringing forward on charges. What kind of government-
+imposed performance requirements would help keep pace with some
+of the technological evolution that you are seeing in these
+cyber attacks? And if we were to do a government top-down sort
+of structure to try to deal with cyber enemies, would that be
+giving a signal to that cyber enemies? Is that kind of too much
+information for them to be able to work around?
+So those are the questions that I would love to hear from
+you on--the trends, the costs, what we are doing, what we are
+not doing, dealing with consumers, how you are educating them
+and then looking at the attacks, the cautions you would give to
+us there, and with that, anyone that wants to respond?
+Mr. Livingood. Sure, I can go first, and I will try to be
+quick so that others can answer. In terms of the positive
+things that government can do, I think making information
+sharing easier, there are a number of things there to help. I
+think that government has a role to play in education, whether
+that is PSAs or other kinds of education for, you know, end
+users, for citizens. I think there is also an opportunity to
+help incent or fund additional R&D. I know that NIST and other
+groups try to do research and security and other Internet
+futures. I think there is more than can be done there that is
+important.
+And in terms of things to be careful of or be aware of, I
+think it is to be aware of mandates and be careful of mandates.
+I think we don't want to be focused on checklists and
+compliance. We want to be focused on innovation and the threats
+of tomorrow, not sort of the threat today.
+Mrs. Blackburn. Thank you. Anyone else?
+Mr. Olsen. Well, I could just make two comments. Several of
+the questions and comments today mentioned incentives. I can
+tell you as an IT professional, we are heavily incented to make
+sure that we are protecting not only our internal resources but
+all of our partners that are interconnected with our systems. I
+think one of the things that is a little scary so far is, we
+monitor all of our customer service channels, our call centers,
+stores, Web site, and we are not seeing a lot of requests from
+our customers concerning their own security of their handsets
+and devices. So I think education is certainly going to be
+important. I think there is just not a general awareness in the
+consumer population how big an issue this is.
+Mrs. Blackburn. OK.
+Mr. Mahon. Maybe a comment more around why it is so
+difficult to regulate this arena. We have been speaking here
+rather generically about mobile devices and cybersecurity
+threats, but it is a much broader problem depending on what
+category you are looking at and because there are multiple
+categories of threat actors trying to be--finding a solution in
+a prescriptive way is very difficult. If you think about who is
+coming at you and why they are coming at you, you could have a
+nation-state coming at you for all sorts of reasons. They could
+be coming at the Federal Government for military reasons, but
+that same nation-state could be coming after a corporation for
+intellectual property, everything from understanding that that
+intellectual property is not just a 50,000 corporate
+environment, it could be in a 50-person law firm doing your M&A
+activity for you. So you have that broad landscape if you are
+looking at nation-states.
+If you are looking at criminal activity, sure, you have
+what used to be the script kiddy doing something that was
+relatively harmless and maybe at best you have hired them today
+as your network administrator if they grew up, but on the other
+hand, you have organized crime looking at more broadly the
+world and how does it make money. If you look at the recent FBI
+investigation of the DNS-changer malware that infected hundreds
+of thousands of computers, then you can take a look at your
+anonymous and others that are more hactivists trying to make a
+point, and then you come down to your insider threat in your
+companies that are doing it to you.
+So if you think about that landscape and the data that they
+are after, they are after it for sometimes different reasons.
+When you try to put a regulatory overlay on that, it is very
+difficult to put us in a position to respond to those kind of
+four broad categories, and then at the same time make sure we
+have our checklist compliance programs going. Thank you.
+Mrs. Blackburn. Thank you. Yield back.
+Mr. Walden. The gentlelady is yielding back and now
+recognize the gentlewoman from the Virgin Islands, Dr.
+Christensen.
+Mrs. Christensen. Thank you, Mr. Chairman. Good morning,
+everyone. Thank you for being here.
+I have a couple of questions. Let me begin with Mr.
+Amoroso. You suggest in your testimony that Congress define the
+roles of the various executive branch agency in cybersecurity.
+Where do you see the FCC as an independent agency playing a
+role?
+Mr. Amoroso. Well, I don't--I mean, I don't think there is
+an agency right now that is in a good position to come in and
+solve a problem that we can't solve ourselves. I mean, if it
+really was the case where you could write out these five things
+that we should all be doing and for whatever reason--
+negligence, ignorance, whatever--we are not doing it, then you
+really do need somebody in government to shake us, you know,
+into action. The problem is that we don't know what it is that
+you should be telling us we should be doing. That is why we are
+pointing to innovation as the key. So it is almost kind of a
+moot question, whether it should be DHS or FCC or whomever
+because I am not really sure what they should be telling us.
+That is the problem. And there are some things, like I said, I
+am part of the team trying to make recommendations. I am not--
+you know, I don't want to lead you to believe that we are just
+kind of punting. It is such a hard problem. But I would just
+say from an agency perspective, if there was an obvious set of
+things that should be done right now, I am kind of thinking the
+groups that are here would be doing it. You know, we are
+incented to do that. That is the problem. So I hope that
+addresses the question.
+Mrs. Christensen. OK. Yes, thank you for that answer.
+Mr. Livingood, you mentioned that Comcast is an active
+participant on the FCC's Communications Security, Reliability
+and Interoperability Council. So could you just describe for us
+how you envision the council's contributing to the improvements
+in cybersecurity, especially with respect to the types of
+attacks that the council is addressing--botnets, Internet route
+hijacking, the main name fraud, et cetera?
+Mr. Livingood. Sure. There are a number of working groups.
+I am on one. One of the folks that works for me, Mike here, is
+a chair of one of them, and they focus on things like the
+security of the routing infrastructure, DNSSEC and a whole
+range of other things, and I think that, you know, that is a
+process that works pretty well. People voluntarily get involved
+and they work together on what they think the current best
+practices are, and that is a process that repeats regularly
+every year so that it is not static and it is not sort of--you
+know, in 2008, we came up with some best practices and that is
+what we are still focused on. It is something that gets renewed
+and refreshed all the time and so we can look at every new
+threat as it comes out, and that is one of many places that we
+all work together. You know, there are lots of others--the
+North American Network Operators Group, Message Anti-Abuse
+Working Group and a whole range of others, other acronyms that
+I could go on for minutes about. But I think groups like that
+are good because they are consensus-based, they are voluntary
+and they are focused on best practices and really current
+issues.
+Mrs. Christensen. And while your customers are mainly using
+your service for in-home computers, they also use the WiFi
+networks and cellular networks to access Comcast email and
+other Comcast video products, so how do you continue to ensure
+the same cybersecurity protections you develop for your core
+services extend to these uses as well?
+Mr. Livingood. So a number of our security protections are
+things that a customer can download and install on their device
+like their home computer, but we have a bunch of things that
+are on our network like our Constant Guard system, which is a
+bot intelligence and other security threat system, and that is
+there for customers that might just be bringing a device into
+their network, maybe it is a friend that is visiting their
+house and they are on their WiFi network and they happen to
+talk, say, a botnet, you know, we will see those kinds of
+things. And so, you know, we can alert customers to that. So
+whether they have installed software that we have provided on
+their device or not, we still have tools in the toolbox to
+identify that and help them--you know, tell them about it and
+help to solve it.
+Mrs. Christensen. Mr. Amoroso, you stress the need to
+foster informations sharing, and we have talked about that a
+lot here between the government and private industry as well as
+among private companies. What protections do you think are
+necessary to protect civil liberties and consumer privacy, and
+what do you believe would be the reasonable boundaries to
+liability protections and antitrust exceptions?
+Mr. Amoroso. Well, the issues you raised are the reason we
+have those impediments now because, I mean, I am an American, I
+want civil liberties, I want all those things, so that is the
+current state, that we have swung the pendulum in the direction
+of making absolutely certain that we are protecting civil
+liberties. That is a good thing. So the question is, how do we
+somehow preserve those liberties and also allow all of us, you
+know, to know if there is some malware thing. I really think we
+have to figure that one out. I am not sure I can give you a
+real good answer on how we do it, but I think it has to be a
+pretty high priority because the motivation, everybody's shakes
+and goes yes, if there is not malware, there is not really a
+civil liberties issue, Comcast should know that blah, blah,
+blah is a problem and they can code that into their system.
+So somehow we just have to maybe get the lawyers out of the
+room and come up with some kind of a commonsense approach. But
+that is the reason, all the things you listed. That is why we
+can't take those signatures today.
+Mrs. Christensen. Thank you.
+Thank you, Mr. Chairman.
+Mr. Walden. Thank you, Dr. Christensen.
+Dr. Amoroso, you should have seen the people shake behind
+you when you said get the lawyers out of the room.
+Let us go to Mr. Bass from New Hampshire.
+Mr. Bass. Thank you very much, Mr. Chairman.
+I have a couple questions for Mr. Livingood, but before I
+ask those questions, can I ask a mobile or smartphone question
+for dummies? Is there a difference in cybersecurity issues
+between an iPad or a smart device like this and a laptop or
+desktop computer? Make it quick, because I want to ask some
+other questions. Can anybody answer that question for me?
+Mr. Amoroso. Well, there is probably a firewall between
+your PC at work or something on a wired land so we can do more
+filtering and policy control. With your wireless, you go direct
+to us, to the ISP, and we have been incented and led, you know,
+particularly in Washington, push the packets, don't look at
+them, don't do anything, God forbid you impose any kind of
+policy or filtering, so we do nothing, so your connection from
+wireless is directly to the Internet whereas your wired
+connection probably has some IT group at work.
+Mr. Bass. So is this unit here exposed to bots and--is
+there a cybersecurity issue associated with my iPad?
+Mr. Amoroso. I don't know what you are connected to, but
+yes.
+Mr. Bass. Well, let us say I am connected to Comcast, which
+is what I am connected to.
+Mr. Livingood. Yes, there sure are those issues and, you
+know, I think those are a new class of device, and a lot of the
+hackers and other criminals, they are very focused on return on
+investment. They are focused where the biggest platforms are
+and so the more that those devices get out there, the bigger
+target that makes and so they will see, OK, I can spend a
+couple of days developing this and I have got a few million
+devices. So you will start to see more and more of those
+things, and depending upon the tablet that you have, some are
+more vulnerable at the moment than others, but, you know, that
+is something that a lot of Americans are buying and so that
+will be the next threat. It will be those type of devices.
+Mr. Bass. Who is responsible? Is Apple responsible for this
+or are you?
+Mr. Livingood. Well, I think it is a variety, so I think
+with that device, Apple plays a role. With the Android devices,
+Google plays a role. And then all the software vendors that
+make the apps that go on that play a role. But there is also a
+component of customer education, and I am sure over time, you
+know, just in the same way that we have software that runs on
+PCs to provide security, you know, that is going to start to
+develop and evolve for tablets and provide that extra level of
+security as well. We are at the early stages of that adoption
+curve.
+Mr. Bass. And the same is true for BlackBerry, right?
+Mr. Totzke. Well, I mean, all of the tablets are going to
+have different risks and different threats, and we look at it
+in terms of how we protect our platform. But the theme that I
+keep hearing over and over, and I think it is one that this
+committee has really highlighted, is the need for education,
+right, and when you talk about computer security, one of the
+inevitable comparisons is to driving a car, right? We don't let
+people drive a car without a license but we let them get on the
+computer, connect to the Internet and download software without
+really understanding what those risks are, and that piece of
+education--I am not suggesting we license people to use a
+computer but we do need a level of sophistication and education
+in how we inform people of risks that they have when they
+connect a device.
+Mr. Bass. Fair enough. I just want to ask a couple
+questions about the Constant Guard Protection Suite. I note in
+your testimony, Mr. Livingood, on page 6, it says ``At Comcast,
+we understand that securing cyberspace is a complex task'' and
+so forth. ''Education, prevention, detection, remediation and
+recovery are the core objectives of our anti-malware efforts.''
+Does Comcast require its customers to download the Constant
+Guard Protection Suite, and if not, how is the customer going
+to know that it exists and how are you going to notify them
+that they have a problem?
+Mr. Livingood. So it is not required that a customer
+download that to use our service. You know, they just have to
+have normal Internet connectivity to do that. But we do a lot
+to make customers aware of that and to incent them to download
+it both before they have an issue and after. So before they
+have an issue, you know, when they are installed, they are
+given a lot of information about the things that are available
+for them and they are given links to that and so on. When they
+get a welcome email from us when they sign up for service, we
+are reiterating that for them. And we do a lot of things on our
+Web site and other places to promote the fact that these are
+available. Certainly after they have an issue and we notice it,
+we drive them to a remediation portal, and that is one of the
+first things that we recommend that they download is that suite
+and we take a number of other steps. So we do a lot of
+education upfront. We do a lot when they come on. We call it
+onboarding when they come on as a customer. And we do things
+while they are a customer to keep reiterating that and then
+afterwards.
+Mr. Bass. Real quick. It is limited to Windows operating
+system, correct? How long has it been around?
+Mr. Livingood. That protection suite is pretty recent. I
+think that is a little bit more than a year. That is a
+supplement to a larger anti-virus and security suite that we
+have had for many, many years that is----
+Mr. Bass. And real quick, because I have run out of time.
+What business incentives, if any, did you get or did you have
+in developing and offering this service?
+Mr. Livingood. Well, we view it in two ways. Number one,
+there is a competitive incentive if we can be seen as having
+more security features or more secure than the next guy,
+someone chooses us as their ISP rather than someone else, but
+the other thing is that customers when they come on board as a
+customer used to tell us that the two reasons were price and
+speed, and today, it is price, speed and security. So customers
+are very aware increasingly so, not aware as they need to be
+but very aware these days about security. They ask about those
+things when they call us up to order service. And so we view it
+as a competitive feature that we need to add, and that is why
+all of the things that we are doing as part of Constant Guard,
+DNSSEC and other things, are important to us.
+Mr. Bass. Thank you, Mr. Chairman.
+Mr. Walden. Thank you.
+Now we go to Chairman Dingell for 5 minutes.
+Mr. Dingell. Mr. Chairman, thank you.
+Gentlemen, we have much to do in little time, so I am going
+to try to ask questions that you will answer yes or no to
+starting now with Mr. Livingood. Gentlemen, you all seem to be
+in agreement that imposing new Federal cybersecurity
+regulations on industry would stifle innovation and harm
+industry's ability to protect consumers from cyber threats. Is
+that correct, yes or no, starting with you, Mr. Livingood.
+Mr. Livingood. Yes, I am concerned about that.
+Mr. Dingell. Mr. Amoroso?
+Mr. Amoroso. Yes.
+Mr. Dingell. Sir?
+Mr. Mahon. Yes.
+Mr. Dingell. Sir?
+Mr. Olsen. Yes.
+Mr. Totzke. Yes.
+Mr. Dingell. Now, gentlemen, let us assume for a moment
+that the Congress will pursue the no-regulation path in this
+matter and instead facilitates greater information sharing
+about cyber threats between industry and the government. Would
+that be your collective preference? Yes or no.
+Mr. Livingood. Yes.
+Mr. Dingell. Sir?
+Mr. Amoroso. Yes.
+Mr. Mahon. Yes.
+Mr. Olsen. Yes.
+Mr. Totzke. I would agree.
+Mr. Dingell. Gentlemen, thank you. In that case, would the
+Congress need to consider granting exemptions to the antitrust
+laws and the Federal Trade Commission Act in order to allow the
+companies to share cybersecurity information amongst
+themselves? Yes or no.
+Mr. Livingood. Yes.
+Mr. Amoroso. Yes, I think that is correct.
+Mr. Mahon. Yes.
+Mr. Olsen. Yes.
+Mr. Totzke. I unfortunately can't comment on that.
+Mr. Dingell. Very good. Now, gentlemen, similarly, do you
+believe that a safe harbor provision should be created in
+statute to permit companies to share serious cyber threat
+information with government agencies without fear of class
+action or other lawsuits being brought against them? Yes or no.
+Mr. Livingood. Yes.
+Mr. Amoroso. Yes.
+Mr. Dingell. The reporter doesn't have a nod button, sir,
+so you have to say yes or no.
+Mr. Mahon. It is a yes.
+Mr. Dingell. Thank you.
+Sir?
+Mr. Olsen. Yes.
+Mr. Totzke. I am afraid I can't comment on that. I don't
+know.
+Mr. Dingell. Now, gentlemen, my last several questions have
+been premised on a no-regulation scenario wherein the Congress
+adopts legislation to promote information sharing between
+industry and government. Would you please submit for the record
+what enforcement tools you believe the Federal Government would
+have in this scenario to ensure that industry is adequately
+guarding and being guarded against cyber threats? I am asking
+to make a submission there for the record because of the
+shortness of time.
+Now, gentlemen, let us assume that the government would
+have some role in promoting cybersecurity in the private
+sector. If the Federal Government were to require the
+promulgation of cybersecurity standards, should such standards
+preempt State laws? Starting with you, Mr. Livingood, yes or
+no?
+Mr. Livingood. Yes. It is easier to have one standard.
+Mr. Amoroso. Yes, I don't know. I am not sure. I haven't
+really thought that one through.
+Mr. Dingell. And you, sir?
+Mr. Mahon. Yes.
+Mr. Dingell. Sir?
+Mr. Olsen. I will have to agree with Dr. Amoroso. I haven't
+really considered that.
+Mr. Totzke. Yes, and I can't comment on that either.
+Mr. Dingell. Now, gentlemen, I have read with some interest
+in Mr. Olsen's testimony that, and I quote, ``the ongoing
+evaluation or MetroPCS's security program is based on periodic
+internal and third-party assessments and auditing.'' Would your
+respective companies object if such audits were government
+mandated? Yes or no.
+Mr. Livingood. No, we already provide all those things
+already. We already do that.
+Mr. Amoroso. I think we would object, yes.
+Mr. Mahon. We would object.
+Mr. Dingell. You would object?
+Mr. Totzke. Yes, we would.
+Mr. Dingell. All right. And then let me come back and ask
+you to explain that, if you please?
+Mr. Totzke. Yes, we would probably object but we do this
+anyway. We always do that.
+Mr. Dingell. Now, those who have indicated no, would you
+please explain briefly?
+Mr. Amoroso. I can explain. When you write a law, we do
+paperwork, so I take people away from doing their day-to-day
+work to sit and do work. We have an ops lab, and one of our
+favorite things to show people in the ops lab is along one of
+the walls, we have got about a mile's worth of ring binders and
+they always say there is the government paperwork followed by a
+lot of sort of chuckling laughter, but it is true. You know, we
+do have a great of paperwork that we fill out, you know, when
+we are dealing with different Federal groups or Sarbanes-Oxley
+or whatever. There is a lot of paperwork, so I am just
+suggesting that if we are already doing it and government comes
+in and says I need you to fill out this compliance checklist,
+you are taking people away from the work to do paperwork. That
+is why we would object.
+Mr. Livingood. Very quickly, if I can just make a note very
+quickly. I think this is dangerous sending an engineer
+sometimes, but I am told that we might have objections. We
+would object and have the same concerns.
+Mr. Dingell. Gentlemen, thank you.
+Mr. Chairman, thank you for your courtesy.
+Mr. Walden. Mr. Chairman, thank you for your questions. I
+think you got to the heart of the matter quickly.
+We now turn to the chairman of the House Intelligence
+Committee and a very important member of our subcommittee, Mr.
+Rogers.
+Mr. Rogers. Thank you, Mr. Chairman. Thanks for having the
+hearing. Thanks to the witnesses as well.
+I think one of the big problems that we run into in this is
+that we haven't really sounded the alarm bell. I think in all
+of the circles of people who look at this every day, all the
+security shops, the IT security shops across America, they know
+what the problem is. Average users don't see it, and that is
+why there is no hew and cry, I think, yet about how we get this
+fixed. But I appreciate all your comments today.
+You talked, each of you, about the importance of
+information sharing and keeping it as clean and simple as you
+can. Talk about how that would work. So if we bring the folks
+together, we are sharing the government secret sauce with you
+all and you are sharing back malicious ware that maybe the
+government is not aware of, talk about how fast this is. There
+is a lot of talk about civil liberties, and I think people have
+this visual that people are reading emails, some guy named Bob
+in Cleveland is reading everybody's email to find this
+malicious software. It is not how it works. As a matter of
+fact, if that happens, it is a miserable failure. Can you talk
+just a little bit about how you envision that that would with
+the sharing arrangement, real time, no regulatory, all
+voluntary? Can you talk about that quickly?
+Mr. Amoroso. Yes, I would be happy to. First of all, I want
+to compliment you on your legislation. I think that there is
+some real nice elements in the work you have done. First of
+all, real time, absolutely. Independent auditable, I think is
+important so that somebody can come in and look a the way this
+is done, but it also has to be controlled like blasting it out,
+you know, over the Internet would be a really bad idea but I
+think you need the balance, right, this real time but also the
+ability to come back and look at the process, make sure it is
+transparent without, like I said, exposing it to our
+adversaries. That is the right way to do it.
+Mr. Mahon. There is also different levels of sharing by
+industry. I think you have to look at how you do your risk
+assessments on each category that I previously described but
+there is also right now a very good example out there of what
+is working well, and that is the defense industrial base pilot
+that is going on, and that particularly is supporting defense
+contractors and DOD, but you can expand that to the financial
+services industry and other industries.
+Mr. Rogers. And just for clarification, when we talk about
+real time, I have seen numbers as high as 100 million a second,
+the packets of information flying around. So if this is going
+to work, the malicious source code has to be compared at an
+incredibly fast rate. Can you talk about that from an
+engineering perspective? Anyone?
+Mr. Livingood. So I think one of the challenges is trying
+to do any kind of pattern matching. A lot of the malware that
+we see and have seen for a number of years is sort of what is
+called polymorphic where it changes. Every individual, you
+know, instance of it is different from the next so a lot of
+stuff changes. It is not like it is with anti-spam where you
+can match on a few key words or a file attachment and know, you
+know, that is it, that they target and flag it that way. So you
+need to come up with ways, and a number of us have systems like
+this and there are others that are in development that can do
+this on a wider basis, but that is the very challenge that you
+are getting at, which is doing that in real time. It is
+incredibly difficult and you are at the edge of computer
+science at that point.
+Mr. Rogers. Which is why I think many of you have told us
+before the legislation was written, be careful about the
+regulatory scheme. If we slow you down, if we give you another
+row of books down your mile-long hallway there, it doesn't
+work. I mean, we already have outdated what you are trying to
+accomplish in the room, and this is a value added not only for
+you but for the government, is it not? The government also gets
+benefit from the protection of all of your great work in the
+private sector, correct?
+Mr. Livingood. That is correct, and there are two things
+that I think that raises that are interesting. One is, by the
+time that a very prescriptive law would be written, by the time
+that ink was dry, the threats would have moved on and so you
+have got to be able to be flexible. The other is that we all
+need to have, you know, with our software developers and
+security specialists, you know, they need to be hard at work in
+a room, not with half a room full of lawyers with them slowing
+them down and asking questions about, you know, why are you
+doing this and that. They need to be at work every day trying
+to solve this problem.
+Mr. Rogers. And I have to say for the record, this may be
+my favorite panel of all time since I have been in Congress.
+Never so often have a group of engineers belittled lawyers at
+the table. You have warmed my heart today. We have faith that
+we are moving forward.
+I wish we had time to talk about all the issues. I am very
+curious about how you would fix the programming issue, a huge
+problem for us as we move forward. We didn't talk about
+exfiltration, which is very difficult for any of you to catch,
+which I would argue right now is the single greatest threat to
+our economy moving forward, aside of the things that we know
+today.
+Mr. Walden. Would the gentleman yield?
+Mr. Rogers. Yes.
+Mr. Walden. Could you outline exfiltration?
+Mr. Rogers. Sure. It is--we know that nation-states today
+are engaged in getting on to your network lurking. They will be
+there for a very long time. You don't know it. Your system
+administrators don't know it. These folks can't catch it.
+Sometimes the government--a lot of times the government can't
+catch it either. And then they will latch on to that
+intellectual property that is on everybody's computer today,
+all those designs, everything that is of value to that company,
+and at the right time at the right speed, they latch on to it
+and run like heck through your network and take it back. And we
+know a country like China, who is investing in this as a
+national strategy to exfiltrate intellectual property and then
+directly use that intellectual property to compete against
+United States businesses, and unfortunately, it is happening at
+a breathtaking pace, breathtaking pace, and what is concerning
+is, these folks are looking for malicious software that is
+disruptive or theft-oriented. This is very sophisticated, as
+sophisticated as any you will see, and incredibly hard to
+detect, and they really don't want to break anything. They want
+to get in and steal it without you knowing it, and that is what
+is so troubling about it.
+Hundreds and hundreds of thousands of jobs are lost every
+year for the theft of that intellectual property that is being
+reprogrammed commercially against U.S. companies. This is as
+big a problem as I have ever seen and it is one of the many
+things that keeps me up at night, Mr. Chairman, so thanks for
+letting me explain it, and it is something we didn't really get
+into today because that is really not the focus of what they
+can even watch. So that is why this information sharing I think
+is so important. It would help American businesses by the
+Federal Government having information and being able to
+identify that code, share it with the right partners. It is
+amazing what we would be able to stop.
+Mr. Walden. With the indulgence of the committee members,
+perhaps given the importance of that topic you could each if
+you have anything you want to add on that area, and then we
+will go to Mr. Stearns and Mr. Gingrey. Does anybody want to
+comment on that?
+Mr. Amoroso. I will. It is called advanced persistent
+threat, and he has got it exactly right. It is somebody
+targeting any of you, like we know the folks that you run
+around with, we can craft a fake email that looks pretty
+realistic, point you to one of these Web sites that establishes
+a tunnel. It drops a remote access tool on your PC. You know
+how you log in when you do remote access from work or from
+home, wherever you are doing it? This is the hacker now doing
+remote access to you. You are now the server, and once they are
+on, they can troll around your PC, your network and so on, and
+the intellectual property theft has become significant. It is
+probably the number one thing I bet all of us, you know, when
+we go back, we talk about bot nets here and we talk about DNS,
+but that is not what we deal with when we go back to the
+office. We are dealing with APT, which is kind of our point,
+right? We are ahead of the discussions here, things that we
+have been dealing with in the past and the things we deal with
+now are probably things we will be here testifying about 5
+years from now, so that is an issue.
+Mr. Totzke. And just to echo Dr. Amoroso, the advanced
+persistent threat, I mean, these are remarkably sophisticated
+adversaries. They are slow. They are patient. They will lurk on
+your network for years. And, you know, I came from our Canadian
+headquarters. We had a large company go out of business,
+Nortel, and part of the attribution of that is loss of their
+intellectual property to a foreign State-level adversary, you
+know, siphoning secrets right off their network.
+So when you look at that, this is a serious concern. As Ed
+mentioned, 5 years from now, you will probably be looking at
+that. That is how advanced they are. It is great that you are
+looking at it now, Congressman, because the threat is real, it
+is persistent today, and as you stated, it is a threat to jobs
+and it is an economic threat to the United States and
+elsewhere.
+Mr. Walden. Thank you.
+Mr. Rogers. Thank you, Mr. Chairman, and just for the
+record, I want to thank Mr. Mahon for his 30 years of FBI
+service as well. Thank you for all the time you have put on the
+target, sir. Thank you.
+Mr. Mahon. Thank you.
+Mr. Walden. You would think Rogers was a former FBI agent
+himself.
+Let us go to Mr. Stearns now.
+Mr. Stearns. Thank you, Mr. Chairman.
+Let me take my questions a little bit along the lines that
+my colleague from Michigan talked about when he talked about
+advanced persistent threat. Dr. Amoroso, when you did your
+opening statement, you were speaking quite eloquently in
+talking about malicious software, malware, you talked about,
+and you painted this picture that the malware itself you were
+impressed how well it was developed, put together, and you sort
+of alluded to the fact that it was almost not unpenetratable
+but it was to the point you were respectful of it and were not
+sure we were keeping up. Is that my interpretation of what you
+said?
+Mr. Amoroso. That is exactly right. We are definitely not
+keeping up. We are trying. But think of the dizzying pace of
+innovation that you see out in Silicon Valley, right? I mean,
+new things every day. The hacking and the malicious adversary
+community, they are moving at the same pace so the job we have
+is, we have got to keep up, and you would say hey, guys, you
+better be ahead of them like not even enough to just kind of
+keep up, you better be ahead. So we are always going to be sort
+of biased.
+Mr. Stearns. So you are saying you are always catching up?
+Mr. Amoroso. Let us go faster. We have to innovate. We have
+to go faster.
+Mr. Stearns. Is that true, you think you are always
+catching up then? That is what you implied to me by saying the
+respectability you had for this malware.
+Mr. Amoroso. Yes.
+Mr. Stearns. Is this true for adware, spyware, grayware,
+all these others? Is it also applicable to that too?
+Mr. Amoroso. Yes. APTs are the best, right? I mean, APT,
+this exfiltration point that the Congressman spoke about, that
+is the elite kind of attack vector in 2012.
+Mr. Stearns. OK.
+Mr. Amoroso. Spyware, maybe not so much.
+Mr. Stearns. Now, with the malware, who are these people
+that are doing this specifically? Can you name them?
+Mr. Amoroso. I can't. I am not law enforcement. You might--
+--
+Mr. Stearns. Is there anybody on the panel--when Dr.
+Amoroso talked about this malware so respectfully and how
+eloquently it is put together, can anybody tell who we are
+talking about?
+Mr. Mahon. I think if you take a look at the most recent
+investigation conducted by the FBI on the DNS malware, you will
+see that was a group of individuals operating out of Estonia
+that basically sent malware to individuals in various forms in
+emails, and you clicked on it and it infected your computer in
+a way that it directed you when you went out to do a DNS-type
+search, you were looking for, I don't know, Amazon.com or some
+other company, you really went to their servers and their own
+servers were actually embedded in various locations in the
+United States.
+So these are organized crimes. They have figured out how to
+capitalize on the money you can make with the malware.
+Mr. Stearns. Are these people, for example in Estonia, are
+they part of a mafia, underground, an organization that is
+larger that just in Estonia, without you revealing any----
+Mr. Mahon. These are no longer just individual hackers.
+Individual hackers are out there but now they have actually
+formed themselves into types of federations to work together.
+Mr. Stearns. Across the world?
+Mr. Mahon. You can do it across the world. There are a
+certain hacking groups you can join and be a member from
+different countries.
+Mr. Stearns. So it is like a fraternity? You say I am a
+member of the Estonia----
+Mr. Mahon. Estonia just seems to be a hotbed right now, I
+think because of how the economy is run over there.
+Mr. Stearns. Anyone else?
+Mr. Livingood. If I could add to that, I think it is
+actually pretty interesting. This is a very large and very well
+organized underground economy. They are specialized. They have
+some people that write tools, other people that rent access to
+bot networks so you can rent botnets by the hour. You can tell
+them where you want people--where you want the bots to be, what
+kind of computers, you know, payment network mechanisms between
+these parties. So it is very sophisticated and, you know, if
+you think about from a criminal standpoint, it is a lot easier
+to get a return on investment on this type of thing than it is
+to go out and do physically oriented sort of crimes, and the
+scale is so much larger. These are folks that operate across
+borders internationally and there is just an enormous amount
+of, you know, economic incentive for them to do it, and it
+unlike APT, at least in some respects, this is primarily an
+economic crime. APT is focused certainly on economics but more
+on intellectual property or embarrassing companies. This is all
+about the money.
+Mr. Stearns. Well, I guess, Mr. Mahon, is there a
+possibility that we have terrorists involved with this that are
+part of Estonia? The terrorists could go to this group or this
+federation across and are using them? Is that----
+Mr. Mahon. Absolutely. Terrorists use these types of
+schemes for funding. Number one, they need funding for their
+operations. And number two, they use it just as a
+communications system. They know they are being looked at. So
+the ways they need to communicate are surreptitiously in a
+manner that they can't be intercepted, so they use these types
+of technologies to communicate with one another, but they have
+to fund their operations.
+Mr. Stearns. I guess the basic question is, and this is
+probably the premise of understanding what this hearing is all
+about, what could we as legislators on this subcommittee or the
+full committee or Members of Congress, what can we do to make
+it easier for you to operate and at the same time give you the
+wherewithal to compete and what should we not do? What should
+we do and what should we not do? And just as a closing
+statement, Mr. Livingood, if we could just go down the panel
+and each give what we should do and what we should not do, that
+would be helpful.
+Mr. Livingood. Sure, of course. I think what you should do
+is help make information sharing easier, remove those
+impediments. I think also there is a role for government to
+play in education, whether that is PSAs or other things, to
+raise awareness about security issues, and I think that there
+are R&D types of things through agencies that you can help fund
+to focus on this.
+I think what you should not do is focus on mandates and
+compliance. That enables us to focus instead on innovation.
+Mr. Amoroso. That sounded good. I would exactly repeat
+those comments. I will add one additional, and that is that you
+do have some influence around the Federal procurement process,
+so a lot of times we see procurements come out and we scratch
+our heads and say don't you think there ought to be, you know,
+like through GSA there is this MTIPS program, a lot of us are
+MTIPS vendors. There ought to be more business. There isn't. So
+I would recommend that that procurement process ought to be the
+most secure process in the entire world.
+Mr. Mahon. You know, I would echo what both of them said
+and just add the importance of information sharing. We have
+limited resources. We conduct risk assessments when we are
+trying to decide on impacts and probability of events based
+upon the information we have at the time. If a government
+agency or another carrier has additional information and we
+don't factor that into our analysis, we are really misaligning
+our resources and how we develop our countermeasures.
+Mr. Olsen. I think there is a lot of commonality among the
+panel here on what we would like to see. I think just add a
+little bit to the information-sharing area. I think the Federal
+Government has access to information through various agencies
+that are watching the country's cyber borders and we have seen
+in our company the vast majority of reconnaissance scams and
+attempts to gain access are coming from China and Eastern
+Europe, and I think the Federal Government would be in a good
+position to monitor and provide more information on that.
+Mr. Totzke. Going last, I get to say I agree with everybody
+else on the panel here, especially I want to hammer that
+information sharing from government to industry. The purview
+that intelligence agencies have and that you have in terms of
+what you see is much different than what we see. So my team
+works with Dr. Amoroso's team on areas of commonality between
+RIM and AT&T where we think we have issues that need to be
+addressed that impact the security of our customers but we
+don't necessary get that feedback from the government about
+what do you see that we need to be aware of, and if there is
+anything I could ask for, it is a more transparent, more real-
+time information-sharing mechanism to let industry know what
+government knows so we can act to protect out networks and by
+extension protect your information.
+Mr. Walden. Thank you.
+Mr. Gingrey, thanks for your patience as we have gone
+through the hearing. You are the last----
+Mr. Gingrey. Mr. Chairman, you took the words right out of
+my mouth. I think you are exacting the last measure of patience
+out of the last member to ask a question, but I moved down here
+early in the hearing, as all of you know, because I couldn't
+hear very well, even though the chairman said speak right into
+your microphones, but I am glad I did move down close because I
+knew it was going to be interesting and I know that all five of
+you are experts who were going to have a lot of useful
+information to present to us, and quite honestly, after 2 hours
+of this, I am trying to figure out a way to beat these guys,
+and the only thing I can think of is an opportunity to invest
+in these hacking operations. I don't guess that would be legal,
+but if it were, I think that would probably be one of the best
+ways for us to win. Thank you all very much.
+Let me ask a couple of specific questions, and maybe this
+cuts a little bit to the chase of one of the main reasons why
+the chairman is holding this hearing, and each one of you,
+please, starting with Mr. Livingood, answer this for me. Do you
+believe the FCC has enough cybersecurity expertise to allay the
+concerns that some industry stakeholders have with the
+Commission? If they do choose to impose cybersecurity
+regulations on you guys, on the network providers, do you have
+enough confidence in their expertise to do that, Mr. Livingood?
+Mr. Livingood. So I don't know the answer to that. You
+know, we work with a lot of folks at the FCC and enjoy doing
+that. They have a lot of expertise. Whether they have enough
+here, I think that is a tough question. I don't know the
+answer.
+Mr. Amoroso. I have said earlier, I don't think there is
+any agency that has the right expertise to do that. If we knew
+what the answer was, we would be doing it, so I don't think it
+is a knock on any one particular agency. I just don't think
+there is any agency that has that capability right now.
+Mr. Gingrey. Mr. Mahon?
+Mr. Mahon. And I would agree with Ed. The answer is no. But
+I don't think anyone does, and I think that is the importance
+of collaborative relationships. You do need to bring people in
+from all sorts, the Federal arena as well as the private
+industry area to work together due to the evolving nature of
+the threats in this arena.
+Mr. Gingrey. Mr. Olsen?
+Mr. Olsen. Yes, it is an important question, but I would
+have to agree with Mr. Livingood. I don't know whether they do
+or not.
+Mr. Gingrey. Mr. Totzke?
+Mr. Totzke. Yes, I don't actually know either. I think what
+you are hearing here, and it is common amongst the panel, is
+the defender job, the job that we are trying to do to protect
+your information, is exceptionally hard and it is actually much
+more difficult than being on the other side.
+Mr. Gingrey. Yes, speaking of hedge funds.
+Let me go back to Mr. Olsen. In your formal testimony that
+you gave, you talked about the clearinghouse. I would like to
+know a little bit more about that specifically, and do you
+think that would be helpful? And maybe you could elaborate a
+little bit more on that.
+Mr. Olsen. I think there is really two aspects to that. One
+is where the Federal Government is sharing with private sector,
+with industry, what they are seeing as far as threats, and I
+mentioned a little while ago about the threats from outside the
+United States, so I think that is a critical component. The
+other is where companies should share, private companies could
+share information on threats that they are seeing and that
+clearinghouse would have to be sponsored by somebody, and I
+think the Federal Government is really the right place to do
+that.
+Mr. Gingrey. And I think you addressed also in your
+testimony the hold-harmless provision that would be necessary
+to share that information so that you wouldn't be subject to
+lawsuits and that sort of thing.
+Mr. Olsen. Yes, sir.
+Mr. Gingrey. I have got a little time left. I have one more
+question then. The Internet is currently transitioning from
+this Internet provider v4 to v6 addressing. Does that process
+create any new cybersecurity issues, and will transitioning
+alone solve any cybersecurity issues that currently exist? Does
+the process of transitioning present opportunities to resolve
+existing cybersecurity issues? We will start with Mr. Livingood
+and just go down the line.
+Mr. Livingood. Sure. I think, you know, we have been a
+leader in IPv6. You know, I think that all of those issues that
+exist in the current Internet and IPv4 simply carry over to
+IPv6. It is just a new form of addressing. You know, that being
+said, because it is a new form of addressing a new technology,
+you are introducing new things into the ecosystem. To Dr.
+Amoroso's point earlier, it is a complex ecosystem. When you
+change something, it can have unintended consequences. And so
+it is something that you have to keep an eye on and make sure
+that you are not introducing any new vulnerabilities. But I
+think if there were any, it is simply because, you know, some
+security that worked great in IPv4 might not have all the same
+features.
+Mr. Gingrey. Dr. Amoroso?
+Mr. Amoroso. Every device on the planet running v6 in
+theory would be addressable, would be routable, and that is a
+pretty dangerous situation, so for all of us, we have to figure
+out how to architect security protections around that. So I do
+have some concerns about the v6 transition.
+Mr. Gingrey. Mr. Mahon?
+Mr. Mahon. Yes, the architect and engineering teams are
+still working through this, but as they have said, you have
+legacy systems being married up with new evolving technology,
+and whenever you do that, you are going to have things evolve
+as you begin to deploy it.
+Mr. Gingrey. Mr. Olsen?
+Mr. Olsen. I think from a protection standpoint, I think it
+is a step ahead, but the bad guys are out there working just as
+hard as we are to find another way around that, so as soon as
+we make an advancement in technology, they are right out there
+keeping pace with us.
+Mr. Gingrey. And finally, Mr. Totzke?
+Mr. Totzke. And this just, as Ed said, expands the attack
+surface and by doing so increases the risk, so we have new and
+unknown risks that we are going to have to figure out how to
+mitigate.
+Mr. Gingrey. Mr. Chairman, thank you for your generosity of
+those 45 extra seconds, and I will yield back.
+Mr. Walden. Actually, you got close to 49. Thank you, Mr.
+Gingrey, for staying and participating.
+I want to thank all of our witnesses and all the folks
+behind them who I am sure played some role, but we really
+appreciate your insights. It is very helpful in our effort.
+Obviously, we are trying to do the right thing and you are out
+there fighting the battle every day, and we don't want to get
+in your way. And so we may be back to you with our working
+group digging a little deeper on some of these issues and
+getting as specific as possible. We hope to look out too at
+some of the other types of networks and small providers. I
+mean, you obviously represent major providers or a
+representation of them. We are also wondering about the weakest
+link, which might be small ISPs and how do they deal with this
+and do they have the same sorts of capabilities to fight back.
+Anyway, I deeply appreciate your willingness to be here
+today and share your knowledge with us. We are better for it.
+So with that, the Subcommittee on Communications and
+Technology stands adjourned.
+[Whereupon, at 12:13 p.m., the subcommittee was adjourned.]
+[Material submitted for inclusion in the record follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+

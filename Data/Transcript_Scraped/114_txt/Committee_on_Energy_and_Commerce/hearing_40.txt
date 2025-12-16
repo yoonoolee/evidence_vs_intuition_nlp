@@ -1,0 +1,2689 @@
+- STAKEHOLDER PERSPECTIVES ON THE IANA TRANSITION
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+STAKEHOLDER PERSPECTIVES ON THE IANA TRANSITION
+
+=======================================================================
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON COMMUNICATIONS AND TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON ENERGY AND COMMERCE
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+MAY 13, 2015
+
+__________
+
+Serial No. 114-41
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Printed for the use of the Committee on Energy and Commerce
+
+energycommerce.house.gov
+
+_____________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+96-987                          WASHINGTON : 2016
+
+________________________________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+COMMITTEE ON ENERGY AND COMMERCE
+
+FRED UPTON, Michigan
+Chairman
+JOE BARTON, Texas                    FRANK PALLONE, Jr., New Jersey
+Chairman Emeritus                    Ranking Member
+ED WHITFIELD, Kentucky               BOBBY L. RUSH, Illinois
+JOHN SHIMKUS, Illinois               ANNA G. ESHOO, California
+JOSEPH R. PITTS, Pennsylvania        ELIOT L. ENGEL, New York
+GREG WALDEN, Oregon                  GENE GREEN, Texas
+TIM MURPHY, Pennsylvania             DIANA DeGETTE, Colorado
+MICHAEL C. BURGESS, Texas            LOIS CAPPS, California
+MARSHA BLACKBURN, Tennessee          MICHAEL F. DOYLE, Pennsylvania
+Vice Chairman                      JANICE D. SCHAKOWSKY, Illinois
+STEVE SCALISE, Louisiana             G.K. BUTTERFIELD, North Carolina
+ROBERT E. LATTA, Ohio                DORIS O. MATSUI, California
+CATHY McMORRIS RODGERS, Washington   KATHY CASTOR, Florida
+GREGG HARPER, Mississippi            JOHN P. SARBANES, Maryland
+LEONARD LANCE, New Jersey            JERRY McNERNEY, California
+BRETT GUTHRIE, Kentucky              PETER WELCH, Vermont
+PETE OLSON, Texas                    BEN RAY LUJAN, New Mexico
+DAVID B. McKINLEY, West Virginia     PAUL TONKO, New York
+MIKE POMPEO, Kansas                  JOHN A. YARMUTH, Kentucky
+ADAM KINZINGER, Illinois             YVETTE D. CLARKE, New York
+H. MORGAN GRIFFITH, Virginia         DAVID LOEBSACK, Iowa
+GUS M. BILIRAKIS, Florida            KURT SCHRADER, Oregon
+BILL JOHNSON, Missouri               JOSEPH P. KENNEDY, III,
+BILLY LONG, Missouri                     Massachusetts
+RENEE L. ELLMERS, North Carolina     TONY CARDENAS, California
+LARRY BUCSHON, Indiana
+BILL FLORES, Texas
+SUSAN W. BROOKS, Indiana
+MARKWAYNE MULLIN, Oklahoma
+RICHARD HUDSON, North Carolina
+CHRIS COLLINS, New York
+KEVIN CRAMER, North Dakota
+
+Subcommittee on Communications and Technology
+
+GREG WALDEN, Oregon
+Chairman
+ROBERT E. LATTA, Ohio                ANNA G. ESHOO, California
+Vice Chairman                        Ranking Member
+JOHN SHIMKUS, Illinois               MICHAEL F. DOYLE, Pennsylvania
+MARSHA BLACKBURN, Tennessee          PETER WELCH, Vermont
+STEVE SCALISE, Louisiana             JOHN A. YARMUTH, Kentucky
+LEONARD LANCE, New Jersey            YVETTE D. CLARKE, New York
+BRETT GUTHRIE, Kentucky              DAVID LOEBSACK, Iowa
+PETE OLSON, Texas                    BOBBY L. RUSH, Illinois
+MIKE POMPEO, Kansas                  DIANA DeGETTE, Colorado
+ADAM KINZINGER, Illinois             G.K. BUTTERFIELD, North Carolina
+GUS M. BILIRAKIS, Florida            DORIS O. MATSUI, California
+BILL JOHNSON, Missouri               JERRY McNERNEY, California
+BILLY LONG, Missouri                 BEN RAY LUJAN, New Mexico
+RENEE L. ELLMERS, North Carolina     FRANK PALLONE, Jr., New Jersey (ex
+CHRIS COLLINS, New York                  officio)
+KEVIN CRAMER, North Dakota
+JOE BARTON, Texas
+FRED UPTON, Michigan (ex officio)
+
+C O N T E N T S
+
+----------
+Page
+Hon. Greg Walden, a Representative in Congress from the State of
+Oregon, opening statement......................................     1
+Prepared statement...........................................     3
+Hon. Anna G. Eshoo, a Representative in Congress from the State
+of California, opening statement...............................     4
+Hon. Robert E. Latta, a Representative in Congress from the State
+of Ohio, opening statement.....................................     5
+Hon. Frank Pallone, Jr., a Representative in Congress from the
+State of New Jersey, opening statement.........................     6
+Hon. Fred Upton, a Representative in Congress from the State of
+Michigan, prepared statement...................................    94
+
+Witnesses
+
+Steve Delbianco, Executive Director, Netchoice...................     7
+Prepared statement...........................................    10
+Danielle Kehl, Senior Policy Analyst, New America's Open
+Technology Institute...........................................    26
+Prepared statement \1\.......................................    28
+Audrey Plonk, Director, Global Cyber Security and Internet
+Governance Policy, Intel Corporation...........................    37
+Prepared statement...........................................    39
+Matthew Shears, Representative and Director, Global Internet
+Policy and Human Rights Project Center for Democracy and
+Technology.....................................................    48
+Prepared statement...........................................    50
+Brett Schaefer, Senior Research Fellow in International
+Regulatory Affairs, The Heritage Foundation....................    55
+Prepared statement...........................................    57
+
+Submitted Material
+
+Article entitled, ``What's in a (Domain) Name?'', by Peter Roff,
+U.S. News & World Report, May 13, 2015, submitted by Mr.
+Shimkus........................................................    95
+
+----------
+\1\ The attachment to Ms. Kehl's statement can be found at:
+http://docs.house.gov/meetings/if/if16/20150513/103448/hhrg-
+114-if16-wstate-kehld-20150513.pdf.
+
+STAKEHOLDER PERSPECTIVES ON THE IANA TRANSITION
+
+----------
+
+WEDNESDAY, MAY 13, 2015
+
+House of Representatives,
+Subcommittee on Communications and Technology,
+Committee on Energy and Commerce,
+Washington, DC.
+The subcommittee met, pursuant to call, at 2:19 p.m., in
+room 2322 of the Rayburn House Office Building, Hon. Greg
+Walden (chairman of the subcommittee) presiding.
+Members present: Representatives Walden, Latta, Barton,
+Shimkus, Blackburn, Lance, Guthrie, Olson, Kinzinger,
+Bilirakis, Johnson, Long, Ellmers, Collins, Cramer, Eshoo,
+Doyle, Clarke, Loebsack, Matsui, McNerney, Lujan, and Pallone
+(ex officio).
+Staff present: Ray Baum, Senior Policy Advisor for
+Communications and Technology; Leighton Brown, Press Assistant;
+Andy Duberstein, Deputy Press Secretary; Gene Fullano,
+Detailee, Telecom; Kelsey Guyselman, Counsel, Telecom; Grace
+Koh, Counsel, Telecom; David Redl, Counsel, Telecom; Charlotte
+Savercool, Legislative Clerk; Jessica Wilkerson, Oversight
+Associate, O&I; Jeff Carroll, Democratic Staff Director; David
+Goldman, Democratic Chief Counsel, Communications and
+Technology; Lori Maarbjerg, Democratic FCC Detailee; Margaret
+McCarthy, Democratic Senior Professional Staff Member; and Ryan
+Skukowski, Democratic Policy Analyst.
+
+OPENING STATEMENT OF HON. GREG WALDEN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF OREGON
+
+Mr. Walden. Now that we have killed the lights, we will
+call the subcommittee on Communications and Technology to
+order, and welcome our witnesses here today, and our
+colleagues. Thanks for your patience with our late start. We
+had a vote on the floor, as you know, but we appreciate your
+being here today, and look forward to your testimony.
+From the time the Administration announced their intent to
+transition IANA functions from ICANN to the international
+multi-stakeholder community, I have had very serious concerns
+about the potential risks associated with that move. We have
+said time and again that this is far too important to rush, and
+that we must carefully consider all of the consequences and
+outcomes before we ring a bell that cannot be un-rung.
+This subcommittee has been committed to oversight of the
+transition process, and ensuring that there are safeguards in
+place to improve the odds of a successful transition, and
+preserve the Internet we all committed to protecting. Last
+Congress we held a hearing on this topic and passed the Dot Com
+Act out of the full Committee almost exactly a year ago. The
+goals of the Dot Com Act are consistent with our position. It
+is the appropriate role of this subcommittee to oversee the
+NTIA, and, in this case, ensure that it thoroughly evaluates
+any proposal. As part of this oversight, we have already asked
+the GAO to begin an inquiry into the process that examines the
+existing contract, risks to be considered, and any safeguards
+that can be put into place to reduce the threats to the future
+operations and functions of the Internet.
+Many have come to us to emphasize the importance of the
+IANA transition to the continued success of the multi-
+stakeholder model of governance, and to urge us to be mindful
+of the way the international community perceives our actions.
+We recognize these considerations, but we also feel it would be
+irresponsible to ignore the very real risks associated with a
+relinquishment of the U.S. role in Internet governance, no
+matter how symbolic. This is why we have taken the measured
+approach that we will discuss today.
+NTIA put forward a set of criteria that they say any
+acceptable transition proposal must meet, all of which are
+essential to ensuring a vibrant Internet, should NTIA
+transition IANA to the multi-stakeholder community. NTIA should
+be applauded for this, and for its willingness to stick to
+these criteria, despite the difficulty in meeting them. Our
+goal, through this legislation, and our efforts in the
+subcommittee, is to ensure that these conditions are met, and
+that the myriad unforeseen complications that could arise in
+meeting them are addressed.
+I am pleased to report the staff from both sides of the
+aisle have been working together to produce an amendment to the
+Dot Com Act that meets these goals that we all share without
+unduly burdening the agency as it works towards its goal. While
+NTIA works within its proper role in the multi-stakeholder
+model, we too are working with our proper role as oversight
+authority. While we have not reached agreement on final text,
+our discussions have been very promising, and there is an
+important role for Congress in this transition, and I commend
+the staff for their hard work.
+I would also like to take a moment to touch on the timeline
+of the transition. It seems that everyone, including NTIA
+Administrator Larry Strickling, has acknowledged that the
+important work needed to facilitate a transition cannot be done
+before the existing contract expires on September 30, 2015. I
+urge NTIA to exercise the 2-year renewal option on the
+contract. Doing so allows the deliberative process to continue
+without artificial pressure or time constraints, and this won't
+provide any additional hurdle to the transition itself. Should
+NTIA and ICANN come to agreement on an acceptable proposal
+before the 2-year period is up, the contract can be cancelled
+to facilitate that transition.
+I am pleased to have our panel of stakeholder witnesses
+here today to give us an update on their views of this
+transition. In the past year thousands of hours of hard work
+have taken place, many by our witnesses at the witness table
+today, to move this forward. Our last hearing gave voice to
+concerns that have been incorporated into the work of the
+multi-stakeholder working groups, and this is an opportunity
+for us to once again play our role in the process. I thank the
+witnesses for being here, and I look forward to your expertise.
+[The prepared statement of Mr. Walden follows:]
+
+Prepared statement of Hon. Greg Walden
+
+From the time the administration announced their intent to
+transition the IANA functions from ICANN to the international
+multi-stakeholder community, I've had very serious concerns
+about the potential risks associated with the move. We've said
+time and again that this is far too important to rush, and that
+we must carefully consider all of the consequences and outcomes
+before we ring a bell that cannot be unrung.
+This subcommittee has been committed to oversight of the
+transition process and ensuring that there are safeguards in
+place to improve the odds of a successful transition and
+preserve the Internet we are all committed to protecting. Last
+Congress, we held hearings on this topic and passed the DOTCOM
+Act out of the full Committee almost exactly a year ago. The
+goals of the DOTCOM Act are consistent with our position--it is
+the appropriate role of this subcommittee to oversee the NTIA,
+and in this case ensure that it thoroughly evaluates any
+proposal. As part of this oversight, we've already asked the
+GAO to begin an inquiry into the process that examines the
+existing contract, risks to be considered, and any safeguards
+that can be put into place to reduce threats to the future
+operations and functions of the Internet.
+Many have come to us to emphasize the importance of the
+IANA transition to the continued success of the multi-
+stakeholder model of governance, and to urge us to be mindful
+of the way the international community perceives our actions.
+We recognize these considerations, but we also feel it would be
+irresponsible to ignore the very real risks associated with a
+relinquishment of the U.S. role in Internet governance, no
+matter how symbolic. This is why we have taken the measured
+approach we will discuss today.
+NTIA put forward a set of criteria that they say any
+acceptable transition proposal must meet, all of which are
+essential to ensuring a vibrant Internet should NTIA transition
+IANA to the multi-stakeholder community. NTIA should be
+applauded for this, and for its willingness to stick to these
+criteria despite the difficulty in meeting them. Our goal
+through this legislation and our efforts in the subcommittee is
+to ensure that these conditions are met and that the myriad
+unforeseen complications that could arise in meeting them are
+addressed.
+I am pleased to report that staff from both sides of the
+aisle have been working together to produce amendment to the
+DOTCOM Act that meets these goals that we all share without
+unduly burdening the agency as it works toward its goal. While
+NTIA works within its proper role in the multi-stakeholder
+model, we too are working within our proper role as oversight
+authority. While we have not reached agreement on final text,
+our discussions have been very promising. There is an important
+role for Congress in this transition and I commend the staff
+for their hard work.
+I'd also like to take a moment to touch on the timeline of
+the transition. It seems that everyone, including NTIA
+Administrator Larry Strickling, has acknowledged that the
+important work needed to facilitate a transition cannot be done
+before the existing contract expires on September 30, 2015. I
+urge NTIA to exercise the two-year renewal option on the
+contract. Doing so allows the deliberative process to continue
+without artificial pressure or time constraints. And this won't
+provide any additional hurdle to the transition itself. Should
+NTIA and ICANN come to agreement on an acceptable proposal
+before the 2-year period is up, the contract can be cancelled
+to facilitate the transition.
+I'm pleased to have our panel of stakeholder witnesses here
+today to give us an update on their views of the transition. In
+the past year, thousands of hours of hard work have taken
+place--many by our witnesses--to move this forward. Our last
+hearing gave voice to concerns that have been incorporated into
+the work of the multi-stakeholder working groups, and this is
+an opportunity for us to once again to play our role in this
+process. I thank the witnesses for being here and look forward
+to your expertise.
+
+Mr. Walden. With that, I would recognize the gentlelady
+from California, my friend, the Ranking Member of the
+Subcommittee, Ms. Eshoo.
+
+OPENING STATEMENT OF HON. ANNA G. ESHOO, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF CALIFORNIA
+
+Ms. Eshoo. Thank you, Mr. Chairman, and good afternoon to
+all the members, and to all of our witnesses. We welcome you
+here, and we thank you for your willingness to come and share
+your thoughts with us about--this is an important topic.
+Earlier this year Singapore's Minister of Communication and
+Information, Dr. Yaacob Bin--Ibrahim stated that ``no one
+person, organization, or even country has a monopoly on the
+expertise and wisdom needed to meet the challenges that we are
+facing on the Internet on a day to day basis.''
+I agree with that quote, and his thought. It is why
+Congress, on a bipartisan, bicameral basis, has consistently
+stated that the United States should continue to preserve and
+advance the multi-stakeholder governance model under which the
+Internet has thrived. Our leadership in the IANA transition is
+critical, but I think inserting a unilateral role for our
+government, as the Dot Com Act does, undermines the legitimacy
+of the multi-stakeholder model, and it emboldens those that
+don't agree with us. Some call them our enemies, but I think
+that emboldens them.
+For nearly 20 years it has been U.S. policy to transition
+the government's role in administering the domain name system
+to the multi-stakeholder global community, and by requiring the
+GAO to study the pros and cons of making such a transition, the
+Dot Com Act fails to recognize this history. Equally concerning
+is the opposition from the stakeholder community, including
+NetChoice's Steve DelBianco, who is here, and is going to be
+testifying today, that a post-analysis by GAO of the transition
+proposal is no longer necessary.
+The success of the IANA transition depends on built-in
+mechanisms for transparency and accountability, and a
+commitment by ICANN to resist--Mr. Chairman, I don't think the
+committee is in order. That means stop gabbing, to my left. It
+is distracting.
+The success of the IANA transition depends on built-in
+mechanisms for transparency and accountability, and a
+commitment by ICANN to resist any expansion of the role
+government or inter-governmental organizations may play in
+ICANN's deliberations. Now, if the majority shares these goals,
+and I believe that you do, then we should work together on a
+bipartisan alternative to the Dot Com Act which provides a
+reasonable period of time for Congress, and the general public,
+to review the IANA transition proposal. With responsible
+oversight, a successful transition of those functions will
+preserve the Internet's guiding principles of openness, of
+security, of stability, and resiliency, and ensure ICANN cannot
+be exposed to government capture.
+And, again, I would like to thank the panel of witnesses.
+They are really esteemed individuals in each one of their
+spheres of influence, and I think that each one of them
+understands the Internet's guiding values, and the importance
+of the multi-stakeholder model. So, again, I thank you, and,
+Mr. Chairman, I yield back the balance of my time, unless
+someone else would like it. Doris, would you like my time? I
+would be glad to yield to you, to the gentlewoman from
+California.
+Ms. Matsui. Thank you very much, my fellow colleague. Got
+the wrong thing here. In 2012, with strong bipartisan
+congressional backing, the Administration's position was
+strengthened in re-affirming the current multi-stakeholder
+approach that has allowed the Internet to flourish here in the
+United States and around the world. Congress must stay united
+moving forward. I am pleased to hear that the Administration
+will not support any proposal that undermines the openness of
+the Internet. With over two billion users, we all know the
+Internet has become a necessity, and not a luxury. It plays a
+dominant role in the world economy. We need to continue to
+promote innovation and openness of the Internet around the
+globe. That has been the hallmark of U.S. policy. I believe the
+multi-stakeholder approach must continue to define Internet
+governance, and I yield back the balance of my time.
+Mr. Walden. Gentlelady yields back the balance of her time.
+The Chair recognizes the gentleman from Ohio, the Vice-Chair of
+the Subcommittee, Mr. Latta.
+
+OPENING STATEMENT OF HON. ROBERT E. LATTA, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF OHIO
+
+Mr. Latta. Well, thank you very much, Mr. Chairman, and
+thank our witnesses for being with us today. The Internet has
+quickly integrated into our everyday lives, and has become a
+central platform for job creation, education, business
+development, health care, and free expression. Therefore, the
+preservation of the Internet's openness and freedom should
+remain a high priority as NTIA prepares to transition the U.S.
+Government's role in the Internet's--numbering functions to a
+global multi-stakeholder community.
+I thank the gentleman, my friend from Illinois, for
+introducing the Dot Com Act to ensure proper oversight of this
+transition. This bill will safeguard our national security
+interests, and allow citizens to continue to freely navigate
+the Internet. I look forward to hearing from our witness. And,
+Mr. Chairman, I would, at this time, yield to the gentleman
+from Illinois the balance of my time.
+Mr. Shimkus. Thank you. I want to thank Chairman Walden and
+Chairman Upton for holding this hearing today. While we all use
+the Internet, few Americans, and I am included--few Americans
+truly understand the underlying Internet architecture. Perhaps
+that is because a system that has been in place has worked so
+well that we don't need to think about it. The Internet remains
+a free and open place to exchange information and ideas, and
+the goal of my legislation has always been to preserve that for
+future generations.
+What we wanted to do with the Dot Com Act has always been
+to exercise vigorous oversight on the transition, and make sure
+it is done right, the old trust but verify statement. As a
+legislative body, specifically in the Telecom Subcommittee, we
+have authority and responsibility to oversee the activities of
+NTIA. We get one bite at the apple with this. We would be
+negligent in our responsibilities to not sure that NTIA, and
+the Administration, is living up to its promises.
+NTIA says the proposal must, and this is from them, support
+and enhance the multi-stakeholder model, maintain the security,
+stability, and resiliency of the Internet DNS, meet the needs
+and expectations of the global customers and partners of the
+IANA services, and maintain the openness of the Internet. I
+have concerns that these requirements that NTIA has put forth
+are vague at best, but allowing Congress a chance to review any
+proposal would hold the Administration's feet to the fire
+before any transition could occur. If the proposal isn't as
+promised, and ICANN hasn't made the necessary changes to
+facilitate the transition, then Congress has the chance to
+engage in other legislative avenues to ensure that Americans
+will continue to access a free and open Internet.
+Bipartisan staff discussions are ongoing, and we are
+hopeful that an agreement can be reached to hold NTIA
+accountable to their own criteria and move it to the floor, and
+to the President's desk. We just have to be careful, by
+exercising congressional oversight of NTIA, because there is no
+turning back once this moves forward. And, Mr. Chairman, I
+would like to submit for the record an article that came out
+today, ``What Is In A Domain Name?'' by Peter Roff, and it was
+in U.S. News & World Report.
+Mr. Walden. Without objection.
+[The information appears at the conclusion of the hearing.]
+Mr. Shimkus. And I yield back my time.
+Mr. Walden. Gentleman yields back the balance of his time.
+Chair recognizes the Ranking Member from New Jersey, Mr.
+Pallone, for 5 minutes.
+
+OPENING STATEMENT OF HON. FRANK PALLONE, JR., A REPRESENTATIVE
+IN CONGRESS FROM THE STATE OF NEW JERSEY
+
+Mr. Pallone. Thank you, Mr. Chairman. The subject of
+today's hearing is the transition of the Internet Assigned
+Numbers Authority, or IANA, and this function is sometimes
+called the Internet's phone book of Internet names and numbers,
+and, more simply, it is what allows Internet users to easily
+navigate the Web. The Internet is an unprecedented platform for
+economic opportunity and democratic free expression. It is used
+by three billion people around the globe. And because this
+phone book has worked so well, very few of us ever have to
+think about how it works, we just know it works. And that is a
+credit to a successful Internet governance model that uses a
+multi-stakeholder approach to decision-making. We all want this
+success story to continue, and that is why the U.S. Government
+has taken steps over the past two decades to get out of the way
+and allow the private sector to assume management of the domain
+name system. Put another way, we think the future of the
+Internet should be determined by businesses, civil society, and
+technical experts.
+Both Republican and Democratic Administrations have
+supported the idea that the Internet should be governed through
+a decentralized bottom-up process that is free from government
+control, and Congress too has embraced this vision. In 2013,
+the House voted unanimously in support of a bill making it
+official U.S. policy to ``preserve and advance the successful
+multi-stakeholder model that governs the Internet.'' I
+personally believe that the transition of the IANA functions to
+the global multi-stakeholder community helps achieve that goal.
+Since NTIA announced last March its intention to relinquish
+control of the IANA contract, they have made significant
+progress to plan for this transition. They have also made
+impressive strides to enhance accountability for ICANN. NTIA
+has clearly and consistently articulated principles for the
+transition, in keeping with the U.S. Government's support for
+the multi-stakeholder model, and an open global Internet. I
+believe Congress has a bipartisan interest in seeing the IANA
+transition executed consistent with these principles.
+We all have a shared interest in transparency and
+accountability, and therefore thank my Republican colleagues,
+especially Chairman Walden and Mr. Shimkus, for working with us
+to address concerns with the DOTCOM Act, and I look forward to
+continuing our shared responsibility, conduct rigorous
+oversight of NTIA, and to ensure the agency lives up to its
+commitments for the transition. So, again, thank you to the
+witnesses today for sharing their perspectives that they are
+going to on the proposals that have been put forward, and the
+work that remains to be done. And thank you to both the
+Chairman and our Ranking Member, Ms. Eshoo, for putting this
+together, and the work that we are going to do together on
+this.
+I think Mr. Doyle and Ms. Matsui--you have already spoken,
+right? Does anyone else want any time? He says he doesn't, so,
+all right, I yield back. Thank you.
+Mr. Walden. Gentleman yields back the balance of his time.
+Thank you for your kind comments. We look forward to continuing
+our work together.
+Now we will go to our witnesses, and we will start with
+Steve DelBianco, Executive Director of NetChoice. We are
+delighted to have you with us today. Turn on that mic, pull it
+up close, and we look forward to your testimony, sir. Go ahead.
+
+STATEMENTS OF STEVE DELBIANCO, EXECUTIVE DIRECTOR, NETCHOICE;
+DANIELLE KEHL, SENIOR POLICY ANALYST, NEW AMERICA'S OPEN
+TECHNOLOGY INSTITUTE; AUDREY PLONK, DIRECTOR, GLOBAL CYBER
+SECURITY AND INTERNET GOVERNANCE POLICY, INTEL CORPORATION;
+MATTHEW SHEARS, REPRESENTATIVE AND DIRECTOR, GLOBAL INTERNET
+POLICY AND HUMAN RIGHTS PROJECT CENTER FOR DEMOCRACY AND
+TECHNOLOGY; AND BRETT SCHAEFER, SENIOR RESEARCH FELLOW IN
+INTERNATIONAL REGULATORY AFFAIRS, THE HERITAGE FOUNDATION
+
+STATEMENT OF STEVE DELBIANCO
+
+Mr. DelBianco. Chairman Walden, Ranking Member Eshoo,
+members of the Committee, thank you very much for having yet
+another important hearing on this transition. I am deeply
+involved at ICANN, 30 meetings and five times elected as the
+policy chair for the businesses constituency, and partly on the
+inspiration of your hearing last year, I got deeply involved in
+the transition planning. I represent the commercial
+stakeholders globally on the transition planning team.
+This was a year ago in April when you held the first
+hearing on NTIA's plan to transition oversight, and I think
+that what that focused on was the fact that, over 17 years, our
+government has protected ICANN's multi-stakeholder model from
+government encroachment, and really helped ICANN to mature. The
+analogy I suggested to you last year is that the U.S. built
+this car called IANA in the 1990s, we handed the car keys to
+ICANN in 1998, when we created ICANN, but we kept the ownership
+papers, we kept the title close. We monitored their driving and
+their care of the vehicle for those last 17 years. But, look,
+it is just not sustainable for the U.S. alone to hold that
+title forever, especially in a post-Snowden political climate,
+which really has nothing to do with the DNS, but politically,
+it is connected.
+So the NTIA asked the community for proposals to replace
+the stewardship role for IANA, and the global multi-stakeholder
+community responded to the challenge. We have had hundreds of
+meetings in the last several months, tens of thousands of
+person hours have gone in, often overnight, since we cycle
+through different time zones for our friends in Asia, and all
+around the world, and I can tell you I have learned to keep my
+mic on mute after 2:00 in the morning.
+Our community proposals are an excellent start. I
+summarized them in my testimony. Let me give you some
+highlights. We are giving the--for the first time we are giving
+the community new powers to challenge the Board's decisions and
+actions via the independent review panel that can issue binding
+decisions. We are allowing the community to veto bylaws changes
+proposed by the Board of Directors to veto strategic plans and
+budgets proposed by ICANN's Board, the power to remove and
+individual director, and better still, to spill the entire
+Board if they are not listening to the community.
+Now, we assessed whether these new powers give the
+community the accountability we need in the face of stress
+tests, and, Chairman Walden, you indicated a certain
+appreciation for that in the first hearing. Good news, they
+answered quite well. We did 26 stress tests, and the new
+mechanisms I have just described allow the community to have
+the powers we needed to challenge the Board decision and hold
+them accountable. But there were some stress tests that needed
+even further changes.
+Last June this Committee raised some very stressful
+questions of our own, drawing on the Dot Com Act to put
+together a set of requests for GAO, Government Accountability
+Offices, to analyze the risks and implications for national
+security in U.S. agencies. Both our stress tests that I talked
+to you about, and your third GAO question asked, what happens
+if ICANN quits the affirmation of commitments? That is a great
+question, because they can quit with 120 days' notice,
+particularly if they don't have to stay in it to keep the IANA
+contract. So we took ICANN's commitments in the affirmation,
+and the periodic reviews of the community, and have baked them
+into ICANN's bylaws as part of the proposal we released last
+week. And earlier I said that if ICANN tried to take those
+commitments out of the bylaws, the community can block that
+change.
+Another is we channeled your second GAO question, another
+one that came from the Dot Com Act. Said, what if the
+Government Advisory Committee changed to majority voting for
+its advice that they give to ICANN? This would truly expand
+government's power. We said, in the working group, that
+changing ICANN bylaws was essential so that we only are
+obligated to seek a mutually acceptable solution to this
+government advice if the government advice came over with
+consensus. So let them change their voting method, but only
+consensus carries that obligation.
+Turning back to the proposals that I had earlier, we need
+details that we haven't provided yet. We were still in draft
+one, and the entire global stakeholder community has to review
+what we have come up with, so it will not happen by September
+2015 IANA deadline. The timeline I have got here--and in my
+testimony shows that your Committee's good work on requesting
+GAO to start its analysis last June is really going to pay off.
+They have been at it for several months. I have had two
+extensive, exhausting meetings with GAO, they are asking great
+questions, and it would be immensely valuable to see the GAO
+analysis during the comment period we are having right now, and
+a second one this summer, that would be a more valuable form of
+the Dot Com Act than having GAO only start their analysis when
+we are finished, and after the community has already developed
+their proposals. So, even with the extension, we really worry
+that ICANN's Board and management will resist the reforms that
+we are talking about, because they are tough medicine. Mr.
+Schaefer will address that in his testimony later on.
+The role of Congress in this transition could be critical.
+We think you ought to insist that NTIA require ICANN to accept
+and implement the final form of our proposals for new
+accountability as a condition of getting the IANA transition,
+and that is why my chart has showed them in the upper right
+hand corner, to accept and implement, and it will be up to NTIA
+to make sure that that is the case. We would like you to
+support, and encourage, and insist upon NTIA to do that.
+And I will conclude by saying this is, as you have
+indicated, our last chance to use the leverage that we are
+about to relinquish, because this driver is about to turn 18.
+It is time to sign over the title to this car, but not until we
+are sure that ICANN is answerable to the community we designed
+it to serve.
+[The prepared statement of Mr. DelBianco follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you very much. Turn over the titlement.
+Who is paying for the insurance? That is what I want to know.
+Mr. DelBianco. That is the expensive part, Mr. Chairman.
+Mr. Walden. That is the expense. Anybody with a teenage
+knew that.
+We are going to go now to Danielle Kehl, who is the Senior
+Policy Analyst at the New America's Open Technology Institute.
+Danielle, we welcome you, and thank you for participating in
+our hearing today.
+
+STATEMENT OF DANIELLE KEHL
+
+Ms. Kehl. Thank you, Chairman Walden, Ranking Member Eshoo,
+and members of the Subcommittee. As a researcher and active
+participant in global Internet governance issues, I appreciate
+the Committee's desire to preserve a free and open Internet,
+and believe that a swift and orderly IANA transition is key to
+achieving that goal.
+While I share the Committee's concern that if the IANA
+transition goes badly it could harm Internet freedom, the best
+way to prevent that outcome, and to ensure the continued
+stability of the Internet's domain name system, is to support
+the ongoing process. The U.S. Government's oversight role has
+long been a political target, an exaggerated symbol that
+overshadows our good intentions in the global Internet
+governance space, and it is time to step aside, which will
+ultimately help us in our ongoing efforts to prevent government
+overreach on other Internet governance issues.
+The first point that I would like to emphasize today is
+that this is the right time for the IANA transition to happen,
+and without unnecessary delay. The transition is long overdue,
+both historically and politically. It is the logical conclusion
+of the sequence that began in 1998, when the U.S. Government
+first announced that it would privatize the DNS, and it is a
+formal recognition that the Internet is now a truly global
+network.
+There is broad consensus that no single country should have
+exclusive jurisdiction over the Internet's core infrastructure,
+and that the system needs to evolve in ways that benefit users
+all around the world. That is why a wide range of Internet
+stakeholders support the decision to complete the transition to
+a community-based non-governmental institution. As former FCC
+Commissioner Robert McDowell put it, it is time to get the
+government out of the Internet governance business. And we
+can't forget that NTIA made it clear from the very beginning
+that this oversight role would be temporary. The justifications
+for it in 2015 are considerably weaker than they were in 1998.
+There is also significant evidence that if NTIA had not
+voluntarily decided to begin the transition, other Internet
+stakeholders would have tried to force its hand. For all these
+reasons, the decision last year to initiate the transition and
+establish a community-drive multi-stakeholder process is the
+only way to ensure that the transition happens in such a way
+that it addresses both the needs of the global community and
+the interests of the U.S. Government.
+Second, the process of developing the transition and
+accountability proposals, as I think my colleagues on the panel
+will also say, is proceeding reasonably well. Last year, NTIA
+laid out five clear principles that any transition plan must
+meet, and the development of this plan is receiving significant
+input from a wide range of stakeholders. Yes, the process is
+complex, but there is still reason to believe that when the
+dust settles, there will be a real community consensus about
+what the transition should look like, and that it will include
+appropriate safeguards to ensure the system's ongoing
+stability. And NTIA is firmly positioned to reject any
+proposals that fail to meet its criteria.
+At the heart of all of this is the question of ICANN
+accountability. Specifically, after it is freed from U.S.
+Government oversight, what will prevent ICANN from taking on a
+global governance role far outside of its core commitments?
+There are important issues that need to resolve, including how
+to make sure that the community has the means to correct any
+misuses of ICANN's power. But these questions are best
+addressed through the existing accountability process, whose
+working group recently released its initial draft proposal, 142
+pages, for review.
+So, finally, while I share the Committee's concern that the
+stakes are high, legislation like the Dot Com Act is not
+necessary, and, although surely unintentional, could actually
+make it substantially more difficult for the U.S. Government to
+make sure that the transition happens smoothly. Imposing a
+delay would appear to be an act of bad faith, and it will be
+poorly received internationally. It will look like an attempt
+to substitute the U.S. Government's judgment for the global
+community's. Preventing NTIA from completing the transition is
+also inconsistent with the previous statements that were
+mentioned in opening remarks about unanimous support for the
+multi-stakeholder Internet governance model. And, finally, it
+would play into the hands of foreign governments who seek to
+undermine the system, and strengthen their opposition to the
+U.S. on a broad range of free expression issues.
+To conclude, I think we are all in agreement that the IANA
+transition is a significant opportunity for the United States
+and for Internet users worldwide, and we appreciate the
+Committee's engagement on this incredibly important issue. But
+the best way to ensure that it goes well, and to achieve our
+broader shared goal of protecting a free and open Internet is
+to let the community complete its work before deciding what the
+next step should be. Thank you, and I look forward to your
+questions.
+[The prepared statement of Ms. Kehl follows:]
+[GRAPHICS NOT AVAILBLE IN TIFF FORMAT]
+
+[The attachment to Ms. Kehl's statement has been retained
+in committee files and can be found at: http://docs.house.gov/
+meetings/if/if16/20150513/103448/hhrg-114-if16-wstate-kehld-
+20150513.pdf.]
+Mr. Walden. Thank you, Ms. Kehl. Appreciated your comments
+and your insights.
+Go now to Audrey Plonk, who is the Director of Global Cyber
+Security and Internet Governance Policy for the Intel
+Corporation. Ms. Plonk, we are delighted to have you before the
+Committee. Please go ahead.
+
+STATEMENT OF AUDREY PLONK
+
+Ms. Plonk. Apologies. Good afternoon, Chairman Walden,
+Ranking Member Eshoo, and members of the Subcommittee. Thank
+you for the opportunity to testify today. I am Audrey Plonk,
+Director of Global Cyber Security and Internet Governance
+Policy at Intel. I am here to express Intel's unequivocal
+support for the successful and timely transition of the
+stewardship of the IANA functions contract in support of the
+multi-stakeholder community. Intel has actively followed and
+participated in the transition process.
+Technology advances built on U.S. innovation have driven
+unprecedented economic growth in the U.S. and abroad. Intel has
+been at the center of this innovation for more than 40 years.
+In 2014 Intel did $55.9 billion of business, and employed
+170,000 people worldwide, 60,000 in the United States. Though
+Intel is incorporated here, our presence, impact, and revenues
+span the globe.
+I cannot stress enough the importance of trust to our
+current and future success. We have observed a trend toward
+diminished trust in the U.S. Government and U.S. companies,
+both at home and abroad. Any real or perceived failure in the
+transition in the form of an externally imposed or mandated
+delay will only heighten mistrust in the U.S. Government, and
+embolden governments threatened by a free and open Internet, to
+the detriment of the many Internet technology companies
+headquartered in this country.
+Intel is not a provider of domain name services, nor a
+registry, or a registrar. We are not a contracted party to
+ICANN. Quite simply, we design and manufacture the computing
+power of the Internet. Though the IANA functions are extremely
+important, they are fundamentally administrative, and involve
+updating and maintaining three related, but separate,
+registries, names, numbers, and protocols.
+The IANA neither makes policy, nor exercises judgment. It
+simply follows a mechanical process to maintain and update
+these registries according to explicitly defined rules. Without
+these functions, connected devices will not fully realize their
+potential to improve the lives of everyone on Earth. Today
+those rules are developed through multi-stakeholder processes
+through which all interested and affected parties participate.
+Much of the global debate on Internet governance centers on
+this process, and whether it is sufficient to govern the
+Internet going forward.
+The most widely supported alternative to multi-stakeholder
+governance is multi-lateral governance, in which an
+intergovernmental body, such as the United Nations, makes
+governance decisions. In this scenario, the overall influence
+of the United States government is diminished to a single vote,
+and the ability for direct participation from industry and
+civil society is largely eliminated. Again, any real or
+perceived failure in the transition emboldens hostile
+governments to push this process toward the United Nations, or
+another intergovernmental body.
+Recognizing this, the U.S. Congress has consistently and
+publicly supported multi-stakeholder Internet governance, as
+was previously mentioned in opening statements. In 2012
+Congress unanimously passed a resolution to preserve, and
+advance, a successful multi-stakeholder model that governs the
+Internet today. And just last year, thanks to the foresight and
+leadership of this Committee, this policy was reaffirmed in
+H.R. 1580, which passed the House unanimously. It is Intel's
+view that the transition of the IANA functions is, in fact,
+advancing multi-stakeholder governance in line with this stated
+policy.
+The transition is on an excellent path. As of today, there
+are four proposals, two complete from numbers and protocols,
+and two in draft format from names and accountability, covering
+all aspects of the transition. Most importantly, especially for
+this committee, and for congressional oversight, these
+proposals have been, and will continue to be, developed in a
+completely open and transparent fashion. Anyone with an
+interest can review and comment, and access the entire record
+of past discussion to understand how decisions were reached.
+The Internet doubles in size every 10 \1/2\ months, and has
+done so for 30 years. Technology is changing all the time.
+Keeping up with that rate of exponential growth requires all
+the parts of the Internet to be continuously improved. Not only
+the technical functions, but the political and policy functions
+as well. We can't leave the politics and policies in the 20th
+century while the technology advances into the 21st.
+The transition is entering its final stages. We ask that
+you support allowing the names community and the accountability
+working group the time they need to arrive at a responsible and
+well considered outcome, recognizing that the uncomplicated
+proposals from numbers and protocols communities are complete.
+This approach reinforces the U.S. Government's commitment to
+multi-stakeholder outcomes during this critical time for
+Internet evolution and Internet governance. Our collective
+success depends upon a global, open, interoperable,
+trustworthy, and stable Internet as a platform for the
+connected devices that Intel builds.
+Thank you, and I look forward to your questions.
+[The prepared statement of Ms. Plonk follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you. We appreciate your testimony.
+We will go now to Mr. Matthew Shears, the Representative
+and Director of Global Internet Policy and Human Rights
+Project, Center for Democracy and Technology. Mr. Shears,
+delighted to have you here with us today. We look forward to
+your comments.
+
+STATEMENT OF MATTHEW SHEARS
+
+Mr. Shears. Thank you. Chairman Walden, Ranking Member
+Eshoo, and members of the Subcommittee, thank you for your
+invitation to testify today. CDT has been deeply involved in
+the IANA functions transition process since the announcement by
+NTIA over a year ago. We recognized, as did NTIA, and numerous
+other stakeholders, that this transition of stewardship over
+the domain name system was not only important in its own right,
+but would have significant consequences for international
+Internet governance and the future of open participatory
+stakeholder driven governance processes.
+I have had the pleasure of participating in the work of
+both the working group on the IANA transition of the domain
+names community, as well as the working group on enhancing
+ICANN's accountability. The IANA transition and ICANN
+accountability working groups are dealing with very complex
+challenges. Replacing the oversight role of NTIA is not a
+simple matter, nor is changing the governance structure of an
+organization, let alone one as unique as ICANN. Yet the global
+multi-stakeholder community, comprising businesses,
+governments, the technical community, civil society, academia,
+individual users, has risen to the challenge.
+Through my work in both working groups, it has become clear
+to me that these disparate stakeholders are united by shared
+goals, the continued stability, security, and resiliency of the
+DNS, and an IANA function that continues to operate in a
+neutral, fully accountable and transparent manner. It is also
+clear that this process could not have proceeded without the
+input of this broad cross-section of the global multi-
+stakeholder community, and the range of technical, legal, and
+policy expertise that it brings. After many months of hard
+work, both the IANA transition and ICANN accountability
+proposals are now out for public comment.
+The two working groups have been working in parallel, but
+the issues they address are deeply intertwined. The working
+group on enhancing ICANN's accountability is focused on finding
+ways to empower the ICANN community, its supporting
+organizations and advisory committees through increased
+oversight of ICANN processes and governance. These
+accountability reforms are also critical to the success of the
+IANA transition proposal.
+The current proposal for the IANA transition places the
+operation of IANA functions within a subsidiary of ICANN,
+thereby avoiding needing to create an external entity. In this
+proposal, ICANN will serve as the contracting entity for the
+IANA functions, and the subsidiary as the operator. It is clear
+that, for the proposal to work, ICANN, as the new IANA
+functions oversight body, must be held accountable so that it
+provides neutral and transparent oversight of the IANA
+functions. However, this will only be credibly possible with an
+ICANN community that is more empowered than it is today. It is,
+therefore, absolutely essential that the proposed
+accountability enhancements are embraced and committed to by
+ICANN and its Board, both at the time of the transition and
+beyond. These community powers will also guard against capture
+and mission creep. The new accountability enhancements will
+make more explicit the narrow mission and purpose of the
+organization, and will make those delineations harder to
+change.
+New measures, including the ability to question budgets and
+strategic plans, will be key to keeping in check what ICANN
+does and how it fulfills its role in the Internet ecosystem.
+The community will be able to veto changes to bylaws, ensuring
+that neither ICANN's relationship to the IANA functions, nor
+these important accountability reforms, can be changed at the
+whim of the Board, now, or in the future. The community will be
+able to recall individual Board members, as well as the entire
+Board, making the Board members more directly accountable to
+the stakeholders that selected them. These powers will ensure
+that the leadership of ICANN remains responsive to the global
+community, and does not take its role in the DNS for granted.
+The IANA transition is a culmination of a long planned move
+to multi-stakeholder management to the DNS. The transition also
+supports the U.S. Government's commitment to multi-
+stakeholderism and international Internet policy, as my
+colleague, Ms. Kehl, described. The NTIA's role in overseeing
+the IANA functions has been a major point of contention over
+the years. It will be increasingly hard to credibly refute the
+calls for a controlling role for government in Internet
+governance if we do not complete a successful transition.
+To conclude, CDT expects, and indeed is working hard to
+ensure, that the global multi-stakeholder community will
+develop a transition proposal that satisfies NTIA's principles
+and stakeholder expectations, safeguards against capture or
+undue influence by stakeholders, and continues to maintain the
+stability, security, and resiliency of the DNS. The transition
+proposal must be accompanied by governance reforms that ensure
+the accountability of ICANN to the global community, and that
+keep it closely tethered to its mission and mandate. Thank you.
+[The prepared statement of Mr. Shears follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you, Mr. Shears. We appreciate your
+coming over here to share those comments with us.
+We now go to Brett Schaefer, who is the Senior Research
+Fellow in International Regulatory Affairs for The Heritage
+Foundation. Mr. Schaefer, delighted to have you before the
+Subcommittee. Please go ahead with your testimony.
+
+STATEMENT OF BRETT SCHAEFER
+
+Mr. Schaefer. Thank you, Mr. Chairman, other distinguished
+members of the Committee. Thank you very much for inviting me
+to testify here today. The history of the Internet is one of
+astounding innovation, growth, and success. A great
+contributing factor to the growth and success of the Internet
+is that formal governance and regulation has been light, and
+relatively non-intrusive. Since 1998, the U.S. Government has
+contracted with the Internet Corporation for Assigned Names and
+Numbers, ICANN, to manage most of the technical aspects of
+Internet governance, including the Internet Assigned Numbers
+Authority, or the IANA function. This highly successful
+arrangement is about to change.
+As mentioned, in March 2014 the U.S. announced that it
+intended to end its historical relationship with ICANN.
+Although the timing of the announcement took many by surprise,
+the intent is consistent with longstanding U.S. policy to make
+management of the IANA fully private. This is a very important
+decision. When the U.S. Government oversight rule ends, ICANN
+will come under considerable pressure from a number of
+interested parties to adopt policies that they favor. It is
+critical that ICANN is sufficient insulted from these pressures
+to make independent decisions, while simultaneously being
+responsive and accountable to the broader multi-stakeholder
+community. This is a very tough line to walk. Failure could
+lead to inefficiencies, instability, partiality, and other
+problems that could result in substantial costs, and inhibit a
+vital medium for free speech and political discourse. There
+will be only one opportunity to do this, and it must be done
+right.
+I am happy to say that, although much work remains to be
+done, I have been immensely pleased and impressed with the
+commitment and progress made to date. To coordinate multi-
+stakeholder recommendations, ICANN convened community led
+working groups on stewardship and accountability to draft
+proposals for the transition. The working groups focused on
+technical aspects of the IANA have in particular made
+significant progress. The two teams focused on numbers and
+protocols submitted proposals in January that appear to have
+consensus support in the multi-stakeholder community. The third
+group, focused on names, has recently submitted a draft
+proposal for public comment. This proposal is more complex, and
+creates a new government structure within ICANN for the IANA.
+All three proposals would allow for separability, the
+ability to change to a different IANA functions operator if
+ICANN falls short in some way. This is a critical issue. The
+possibility that ICANN might lose the IANA contract with the
+U.S. Government, however unlikely, has provided an independent
+check on ICANN's monopoly position. A key aspect of the
+stewardship discussion is focused on how to mirror that check
+after the U.S. role ends. According to some well-informed
+sources, ICANN is pushing back on separability. Congress needs
+to pay attention to this issue and clarify its position.
+The accountability working group has also made great
+progress, and has submitted a draft proposal for public
+comment. In my opinion, the paramount concerns should be to
+ensure that, one, ICANN is sufficiently insulated against
+capture by governments or other narrow interests, two, ICANN's
+purpose is narrowly defined to prevent mission creep, three, an
+independent review process is in place to adjudicate and issue
+binding judgments over disputes between ICANN and the
+community, and four, ICANN is responsive and accountable to the
+multi-stakeholder community by establishing a means to
+recalling the Board, individual Board members, approving the
+budget, and approving a strategic plan. As currently drafted,
+the accountability proposal addresses all of these concerns.
+However, sound ideas and intent can be thwarted by poor
+implementation, and we are far from the end of the process.
+The final issue I wanted to highlight is the tight
+timeframe. Under the terms of the current contract with ICANN,
+the U.S. Government will have to decide in just a few short
+months whether to allow the transition to proceed when the
+current contract expires on September 30, 2015, or whether to
+extend the current contract to allow the transition proposals
+to be more fully developed and/or implemented. As a practical
+matter, NTIA must have the details of the various proposed
+changes, and evidence of their implementation, well in advance
+of this date to make an informed decision on whether its
+conditions for the transition have been met satisfactorily.
+Looking at the hurdles that must be cleared, there is very
+little chance that this deadline will be met. NTIA
+administrator Lawrence Strickling and ICANN CEO Fadi Chehade
+have both insisted, and repeatedly stated, that September 30 is
+not a goal or a--is not a--is a goal, not a deadline. In fact,
+there shouldn't be any deadline. Congress should hold them to
+the fact that this transition must be done correctly, not in
+any particular time, or in any particular deadline format. Once
+NTIA's contract with ICANN expires, so does its ability to
+ensure changes considered necessary by the multi-stakeholder
+community are approved and implemented. Only after an
+acceptable transition proposal is offered, and all the
+necessary forms to ICANN are adopted and in effect, should the
+U.S. end its current arrangement.
+Thank you very much, and I look forward to your questions.
+[The prepared statement of Mr. Schaefer follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Walden. Thank you, Mr. Schaefer, and I just want to say
+how much I agree with what you just said, and that is what my
+role certainly has been, and I think of our subcommittee here,
+with these hearings, I just want to know what it is that is
+going to govern this process once NTIA says, see you later, and
+all. And so I think we have an obligation, as stewards of this,
+to this point, to make sure we know what the future looks like
+before we just say, you go ahead and do it. So that has been
+the purpose behind all of our efforts, is just to find out what
+are the rules?
+And I want to commend those who have put so much time into
+this effort, because you have given us more and more
+confidence, with each step of the way, that you share our
+concerns here, and you are getting things locked into place
+where there is appropriate check and balance that otherwise
+goes away when that 60-some page contract is torn up.
+So my first question to each of you is do you believe the
+transition could and/or should occur by September of this year?
+And, Mr. Schaefer, I think you have already said no.
+Mr. Schaefer. That is correct. I don't think there is any
+way, realistically, that----
+Mr. Walden. OK.
+Mr. Schaefer. The transition can occur, and all these
+changes will be implemented.
+Mr. Walden. All right. Mr. Shears, yes or no?
+Mr. Shears. I don't think it is likely to happen by that
+time, unfortunately.
+Mr. Walden. All right. Ms. Plonk?
+Ms. Plonk. I think that decision, and the plan, lies with
+the multi-stakeholder community, and not with me as an
+individual.
+Mr. Walden. Yes, but you get to tell us just the same.
+Do you think this can happen by September, given all the
+work you have put into this, that we are ready?
+Ms. Plonk. I think it depends on the outcome of the ICANN
+Buenos Aires meeting next month. I think we will have more
+information then.
+Mr. Walden. All right, that is fair. Ms. Kehl?
+Ms. Kehl. I think it is unlikely, unfortunately, as well to
+happen by September 30, and getting it right is very important.
+But I also think the community dwill be the one that knows best
+how much time it will take to get it done right.
+Mr. Walden. Yes. Mr. DelBianco?
+Mr. DelBianco. The answer is no way, and the Administration
+has been very realistic about it, has already sent letters to
+the naming and the accountability group chairs 2 weeks ago,
+saying, how much time do you think you need? And I think that
+is appropriate. And the community is going to come back and ask
+for more time. As indicated on that chart, it is a concurrent
+process, it stretches, and there is a role for Congress
+throughout. There's a role for----
+Mr. Walden. Right.
+Mr. DelBianco [continuing]. NTIA throughout the process.
+Though there isn't this notion that moving that deadline--
+moving that goal out is somehow going to empower enemies of
+freedom and commerce. They already are enemies of freedom and
+commerce, and any unique role for the U.S. I don't think that
+we need to worry about providing them an excuse if we end up
+asking for, in my estimation--I have April of 2016 is about the
+earliest we could get enough implementation done, but there are
+others who believe it could take as long as into the summer of
+2016.
+Mr. Walden. So then wouldn't it make sense for NTIA to
+extend the contract for another year? Because, again, as I said
+in my testimony, they can cancel it if you get agreement, you
+can do that. But wouldn't it make sense to extend it?
+Mr. DelBianco. I believe it does, Mr. Chairman.
+Mr. Walden. Does anybody disagree with that? Ms. Kehl? Ms.
+Plonk? Is that a yes or a no head shake?
+Ms. Plonk. I think I would just continue to say it is not--
+I--we haven't gotten a response from NTIA's letters to the
+community yet----
+Mr. Walden. All right.
+Ms. Plonk [continuing]. So it is not clear.
+Mr. Walden. Mr. Shears?
+Mr. Shears. I think it is important that we understand and
+see what comes back from the community, in terms of the
+consultations that are out at the moment----
+Mr. Walden. Yes.
+Mr. Shears [continuing]. On the two proposals.
+Mr. Walden. All right.
+Mr. Shears. That is a key factor.
+Mr. Walden. Mr. Schaefer?
+Mr. Schaefer. I think it is very important for the NTIA to
+maintain its current role, at least as long as this process is
+still in play. Once the process is agreed to, and most
+importantly all this--all the necessary changes are actually
+implemented and verified, then is the time to----
+Mr. Walden. Right.
+Mr. Schaefer [continuing]. End the current relationship.
+Mr. Walden. OK. So, Ms. Plonk, while we acknowledge there
+are potential benefits to this transition, we also have very
+serious concerns about the very real risks. I think everybody
+has spoken to that. Beyond simply trusting the international
+community to do the right thing, what do you see is the best
+way for Congress to get answers to the questions, and are there
+ways to address the potential pitfalls?
+Ms. Plonk. Thank you for the question. I think it is a
+really important one, and I absolutely agree with you that
+there are risks, and potential pitfalls. Two main things. I
+think first we want to commend this Subcommittee for actively
+participating in the process, for attending meetings, for
+showing up in Busan at the Plenipotentiary Conference, and for
+the amount of time the Committee has invested to understanding
+that that continued investment in the process will be a huge
+impact for the outcome, so I think that is one. The second is
+to continue to conduct oversight through having hearings, like
+this one, as we move through the process. And then the final
+point is to ensure that what NTIA accepts at the end is multi-
+stakeholder, is what----
+Mr. Walden. Right.
+Ms. Plonk [continuing]. Has come out of the multi-
+stakeholder process so that Congress is supporting its
+longstanding position on multi-stakeholder governance.
+Mr. Walden. Mr. DelBianco?
+Mr. DelBianco. Thank you, Mr. Chairman. You asked the
+question what is the best way for Congress----
+Mr. Walden. Right.
+Mr. DelBianco [continuing]. To get answers? I will give you
+two suggestions. The first is to get questions in now, as soon
+as possible. The GAO analysis generates questions and risks----
+Mr. Walden. Right.
+Mr. DelBianco [continuing]. Unanticipated risks and
+implications. And those risks, if we wait until the end of this
+process, Mr. Chairman, it will completely mess this process up.
+We need to hear about your concerns and risks this summer, over
+the next several months, and give us the opportunity to take
+care of your risks and concerns.
+And the second change is to find a way to give NTIA enough
+rope to spend time and resources answering your questions----
+Mr. Walden. Yes.
+Mr. DelBianco [continuing]. For them to be the steward of
+getting you the answers that you need from the community, as
+well as for NTIA to assess whether the criteria are being met.
+It doesn't help us if NTIA waits until the very end to say
+thumbs up, thumbs down. There needs to be an engagement and an
+involvement.
+Mr. Walden. See, that is what we have been after, and that
+there is after you all do your work, and the multi-stakeholder
+process does its work, give us a chance to at least look at it
+and understand it before handing the keys, the title, and the
+insurance payments off to the 18-year-old driver.
+With that, I thank you again for your testimony and your
+counsel along the way. Now recognize my colleague from
+California, Ms. Eshoo.
+Ms. Eshoo. Am I the 18-year-old that you are----
+Mr. Walden. No, but Mr. DelBianco----
+Ms. Eshoo. I thought you were flattering me. OK.
+Mr. Walden. You are--I was thinking more like----
+Ms. Eshoo. All right.
+Mr. Walden [continuing]. You know, 17.
+Ms. Eshoo. Well, at least it is not a sports analogy, so--
+thank you. You are all enlightening, you really are, very, very
+helpful. Now, we have got a couple of things on the table here.
+You have described all of the work, and it is extensive work.
+And, as the Chairman said, and I join him in thanking you for
+the time that you have put in on this. I mean, this is an
+enormous amount of work that you have done, and it is
+productive, and it is bearing fruit, but we are not quite
+ready. And none of you think that the work is going to be
+accomplished by, what, September of this year, and--all right.
+Now, we have got a couple of things on the--I think three
+things here. We have the Dot Com--in it. More work has to be
+done, but you are very pleased with what is on the table so
+far, and that Congress should continue to have--to do its
+oversight in this. Now, if we get through this entire process,
+and, say, the Dot Com Act is law, then you have to go back to
+the GAO and have them study what is completed, and, what, wait
+another year? Do you all support that? Does this make sense to
+you, or am I--do I have a--the wrong take on the legislation? I
+mean, it is my understanding that it will take--it will add
+another year to--to what, John? John? Let me just ask you--Mr.
+Shimkus? John? My pal----
+Mr. Shimkus. Well, I----
+Ms. Eshoo. Sit up straight.
+Mr. Shimkus. I was listening. I was----
+Ms. Eshoo. I will yield to you for a second. When does your
+year begin? After they finish their process?
+Mr. Shimkus. Right, but, remember, GAO is already doing a
+report now too.
+Ms. Eshoo. I know. So that is the----
+Mr. Shimkus. So I think the timeline would be----
+Ms. Eshoo. Right.
+Mr. Shimkus. You know----
+Ms. Eshoo. Yes.
+Mr. Shimkus [continuing]. Almost--parallel.
+Ms. Eshoo. But the--reclaiming my time, I mean, I think you
+just made my point. That is why I think it negates it, because
+if the GAO is doing something--anyway, tell me what you all
+think of this. Do you think that this is a good plan, this is
+the way to go forward? I mean, just quickly, yes or no. Let us
+start with Mr. DelBianco.
+Mr. DelBianco. The right plan is----
+Ms. Eshoo. You are not going to be hurting anyone's
+feelings.
+Mr. DelBianco. Understood.
+Ms. Eshoo. I just want----
+Mr. DelBianco. The right plan----
+Ms. Eshoo [continuing]. A professional opinion.
+Mr. DelBianco. Got it. Thank you. The right plan is to take
+those risks and implications that you have asked for from GAO,
+and surface those into the process.
+Ms. Eshoo. Yes.
+Mr. DelBianco. If, in fact, those risks are not addressed,
+it should not take anywhere close to a year to say, we raised
+these risks and concerns for national security----
+Ms. Eshoo. Yes.
+Mr. DelBianco [continuing]. And for other agencies, and
+they haven't been addressed. That could happen very quickly.
+But it is so important to happen while we are convened. If you
+wait for us to finish----
+Ms. Eshoo. Well, that is my----
+Mr. DelBianco [continuing]. And generate that document----
+Ms. Eshoo [continuing]. Very point----
+Mr. DelBianco [continuing]. In won't work.
+Ms. Eshoo [continuing]. To get to the end, and then start
+all over again I don't think is a good way to go. Do you have
+something, Ms. Kehl?
+Ms. Kehl. I would agree with that.
+Ms. Eshoo. Yes.
+Ms. Kehl. I think that the important thing here is
+engagement now in the process----
+Ms. Eshoo. Yes.
+Ms. Kehl [continuing]. As it is ongoing. And that is one of
+the great things about the process, is it is a multi-
+stakeholder----
+Ms. Eshoo. It is.
+Ms. Kehl [continuing]. Transparent and open----
+Ms. Eshoo. Yes.
+Ms. Kehl [continuing]. Process.
+Ms. Eshoo. Yes.
+Ms. Kehl. So there is the opportunity now to look at and
+review what is happening. We know a lot of the risks. The
+stress test that exists----
+Ms. Eshoo. Go quickly. My time is running out.
+Ms. Kehl [continuing]. Is really important.
+Ms. Eshoo. So you are agreeing?
+Ms. Kehl. I would----
+Ms. Eshoo. That is great.
+Ms. Kehl. Yes.
+Ms. Eshoo. Ms. Plonk?
+Ms. Plonk. I also agree. I want to just also say that
+everything that is happening right now is completely
+transparent and open, so the final final that transits from the
+ICG to ICANN to----
+Ms. Eshoo. Yes.
+Ms. Plonk [continuing]. NTIA----
+Ms. Eshoo. Yes.
+Ms. Plonk [continuing]. Will not be a surprise to anyone
+who has been participating or----
+Ms. Eshoo. Yes.
+Ms. Plonk [continuing]. Anyone who hasn't. They can see
+everything that is happening.
+Ms. Eshoo. I want to thank Intel for everything you do in
+our region, and in my district. You are wonderful. Mr. Shears?
+Mr. Shears. Yes. I also agree, but I would like to
+emphasize that now is the time for us----
+Ms. Eshoo. Yes.
+Mr. Shears [continuing]. As Steve said, for those----
+Ms. Eshoo. Yes.
+Mr. Shears [continuing]. Results of that report to be
+revealed.
+Ms. Eshoo. And Mr. Schaefer? Yes?
+Mr. Schaefer. I don't think that there are two times. I
+think that Congress does have a very strong interest in this
+issue, and in the process. I think it should voice its concerns
+and its priorities during this process.
+Ms. Eshoo. Yes.
+Mr. Schaefer. But I also think that it should, at the end
+of this entire process, take a moment, evaluate what is the
+final product, and then make a decision as to what is going on,
+and whether it is meeting its own----
+Ms. Eshoo. So start all over again? That is what you are
+saying?
+Mr. Schaefer. I don't think it requires a year, but I think
+it does----
+Ms. Eshoo. Well----
+Mr. Schaefer [continuing]. Need to be assessed at the end
+of the----
+Ms. Eshoo. I think if we do our job, we don't need that
+time. That is the point. If we are thorough, both on our side
+of the dais, and you on yours--let me just raise something. We
+have another issue here, and that is in the Commerce, Justice,
+Appropriations bills which was released today, ``None of the
+funds made available by this Act may be used to relinquish the
+responsibility of the NTIA with respect to Internet domain name
+system functions, including responsibility with respect to the
+authoritative root, zone file, and the Internet assigned
+numbers authority function.'' So we have appropriators getting
+into this as well.
+I think that this is the subcommittee that needs to give
+guidance to all of this. We have done a deep dive on it, and we
+will continue to, because it requires it. And I am all for this
+subcommittee to do that work. And I commit myself, and I know
+people on our side of the aisle--boy, are you a distraction
+today, Pallone, jeez whiz.
+Anyway, listen, I forgot my train of thought, but, I think
+that the work has to keep going on. It needs to be intensive,
+broad, deep, and directed. We know what the mission is. We know
+what we need to accomplish, and Congress has to be part of that
+every step of the way. And I think if we do that, that the date
+that we finish is not the point. It will be that we did an
+excellent job on something that requires that kind of work. So
+thank you, Mr. Chairman.
+Mr. Walden. Thank the gentlelady, and just for point of
+clarification, that is why we are having this hearing, and why
+our staffs have been meeting.
+Ms. Eshoo. I understand.
+Mr. Walden. I think the original Dot Com Act, with a year
+deadline and all, kind of preceded all of this, and that things
+have changed. And that is why they have been talking, and we
+have already got the GAO audit underway, well underway----
+Ms. Eshoo. Yes.
+Mr. Walden [continuing]. And so I don't know that it needs
+to be a year at all, and I thought we----
+Ms. Eshoo. Right.
+Mr. Walden [continuing]. Communicated that. So we look
+forward to working together with that. I now recognize Vice-
+Chair of the Committee, is that right, Mr.--no, wait, down to
+the former Chair of the Committee, Mr. Barton, for 5 minutes.
+Mr. Barton. Thank you, Mr. Chairman. One of our witnesses
+talked about giving the driver the keys, and you talked about
+who is paying for the insurance. My question is, who is going
+to police the road? Who is going to be there when something
+goes wrong? The best of drivers are going to run a stop sign,
+or exceed the speed limit, and there are various kinds of
+insurance. Sometimes they pay, sometimes they don't, but if you
+don't have an enforcement mechanism, you are going to have
+chaos. And I have yet to hear this vaunted multi-stakeholder
+process come up with an enforcement mechanism. I have tried to
+think of international multi-stakeholder institutions. I can't
+think of one that I think works better, or as well, as, and I
+hate to say this, but the Federal Government. I wouldn't say
+the United Nations is a paragon of efficiency. I wouldn't say
+the International Olympic Committee. I wouldn't even say the
+World Bank.
+So somebody on this panel enlighten me, we have got a
+system that is not broke. It is the most open, transparent
+process out there. One of you has talked about the Internet
+doubling every 10 months. I have been all over the world on
+various congressional trips. The only place I have had
+trouble--my laptop because you said the Chinese government was
+going to bug it if I tried to turn it on.
+So why try to change something that, to all intents and
+purposes, is one of the best multi-stakeholder, transparent,
+international processes out there that has the benefit of
+having an enforcement mechanism behind it, which is ultimately
+the Federal Government? And I will let anybody take a crack at
+that.
+Mr. DelBianco. Mr. Barton, Steve DelBianco. I think we
+misconnected on the earlier part of the testimony, but I would
+describe the new powers that we are proposing, because 17 years
+ago, when ICANN was set up, in their bylaws they explicitly
+took away the ability for the community to actually police
+them. In other words, a corporation has to answer to its
+shareholders, who can spill their Boards, and pass resolutions.
+My members of my trade association hold me accountable, and I
+think your voters and citizens probably hold you guys pretty
+accountable too. None of that has existed for 17 years in
+ICANN.
+Instead, the broad community has to run to run to, well,
+Congress, or NTIA to try to get a little leverage put on ICANN.
+We can sue ICANN, and many often do, and contract parties can
+take ICANN to court over what they are doing. I think that when
+you look at the testimony of what we have drafted so far, we
+are giving the community dramatic new powers that are more like
+those that a shareholder does, or that a voter has. And I think
+that is how we will police the road.
+Mr. Barton. Anybody else?
+Mr. Schaefer. Sure. Thank you. I think the first part of
+your question, the best analogy I can----
+Mr. Barton. I am just using what was given me. I mean----
+Mr. Schaefer. No, the----
+Mr. Barton. I am better at sports analogies, actually.
+Mr. Schaefer. I will actually steal from a colleague who
+was on a panel earlier today, and he says the process isn't
+broken, and doesn't necessarily need to be fixed. That is true,
+it has worked very well, and it has been very successful, but
+the toothpaste is out of the tube, and this was said by Phil
+Corwin this morning.
+And what that means is that we have entered into a process
+that can't be reversed, and that if we try to reverse it, as
+mentioned by a couple other people on this panel, the very
+likely outcome is that--is not that we are going to have the
+same situation in place going forward, but that the oversight
+of ICANN and the Internet is going to be taken over by the ITU,
+or some other international organization, which would be a far,
+far less accountable, less efficient, and more susceptible
+inimical pressures than the current one.
+And so I think we are far better off having ICANN be
+accountable to a multi-stakeholder community, which is, in
+essence, everybody who uses the Internet governing ICANN
+directly. And if--until that happens, however, we need to
+maintain the current oversight structure of NTIA and the U.S.
+Federal Government to make sure that ICANN does accept, and
+abide by, and implement those measures that have been outlined
+by Mr. DelBianco----
+Mr. Barton. My time is about to--I am not opposed to this--
+--
+Mr. Schaefer. Yes.
+Mr. Barton [continuing]. Multi-stakeholder process, but you
+take things for granted. We have created a system that is the
+best in the world. It really works.
+Mr. Schaefer. Yes.
+Mr. Barton. But you do need some enforcement mechanism
+somewhere with credibility that can step in, if they have to.
+And so far, with all respect, I don't see that, and that is my
+concern. But maybe it is out there, and I just don't know it.
+Mr. Schaefer. I completely agree, Congressman, and you are
+right, it does not currently exist. That is what we are in the
+struggle to try and implement.
+Mr. Walden. Mr. Plonk, did you want to respond?
+Ms. Plonk. I just wanted to add one thing. In addition to
+the various accountability measures that have been proposed,
+that I think are very good, and my colleague Steve has outlined
+in fairly good detail, in terms of an empowered community, how
+we overturn the Board, how we overturn decisions, I think all
+that gets to your question of enforcement.
+But in addition, something that has come out of this
+process that we haven't talked about yet, is the preponderance
+of evidence that supports U.S. rule of law and incorporation in
+the State of California. And the various legal analyses that
+have been done by the multi-stakeholder community puts forward
+just how favorable the U.S., as a jurisdiction, is for this
+process. And I think the----
+Mr. Barton [continuing]. Would be helpful--if you are in
+the U.S. legal system, that is a plus.
+Mr. DelBianco. Your Honor, if I could react to that?
+Mr. Walden. Yes, if you do it quickly, because we have got
+to move on to Mr. Pallone.
+Mr. DelBianco. Yes. The operational commitments required in
+8(b), that ICANN shall maintain a headquarters in California,
+that is a legal presence and a headquarters presence. That is
+in the affirmation of commitments, and, as I said earlier,
+ICANN can walk away from that. So we have made it our mission
+to move any commitments from the affirmation into the bylaws.
+It turns out that one, 8(b), is already in the bylaws.
+Article 18, Section 1 already says ICANN shall be principled
+offices California, Los Angeles, California. So it is in the
+bylaws, and yet the Board could change the bylaws. So another
+power we described is if the Board tried to change the bylaws
+and leave California, leave any legal presence, we would have--
+75 percent of the community votes could block that change.
+Now, that may not be strong enough for some of the concerns
+that I think the GAO will surface on issues like national
+security, so we may have to turn it into a fundamental bylaw,
+where 75 percent of the community would have to agree with it,
+as opposed to oppose it.
+Mr. Walden. OK.
+Mr. Barton. Make that Houston, Texas and you have got me.
+Mr. Walden. Wow. All right, we have got to move on to Mr.
+Pallone now, on the Democrat side.
+Mr. Pallone. Ms. Eshoo mentioned that this morning the
+House Appropriations Committee released the Commerce, Justice,
+and Science Appropriations bill for Fiscal Year 2016, and the
+draft bill is designed to prevent NTIA from using appropriated
+funds to complete the IANA transition. She actually read that.
+So my question is, what is the impact of this language on
+the continued success of the multi-stakeholder model of
+Internet governance, and do you think this language advances
+our interests in accountability and transparency into the
+transition process? I would like to ask any of you to respond
+to that.
+Mr. DelBianco. I could take a stab at it to suggest that
+NTIA operated under a rider over the past year, and, while they
+are not relinquishing anything, they are heavily engaged at
+ICANN, because that is what you charge them to do. NTIA is
+supposed to be at ICANN. They are at all the meetings and
+engaged. And on March the 19th we were in the middle of a hot
+debate with the governments over what to do about Stress Test
+18. It was the first stress test that I articulated for you at
+last year's hearing, this idea that the government could change
+to majority voting and suddenly be able to impose much of its
+will on ICANN.
+A handful of government objected to that, but our
+government stood tall, sent a very powerful letter to say that
+if we don't make this change that we are recommending, we won't
+meet the conditions of NTIA's transfer. So instead of waiting
+to the end and voting no, engaged early. All it took was a
+little bit of a phone call and a nudge, and our Commerce
+Department stepped right up. So they are engaging. I don't
+think it is spending any extra money, Mr. Pallone, because I
+think these are people that are on salary, right? But they are
+spending money to help us decide now to shape this transition,
+which is not the same thing as relinquishing control. So I
+guess it all depends on how the rider is written.
+Mr. Pallone. Well, did you want me to read it to you again?
+It says, ``None of the funds made available by this Act may be
+used to relinquish the responsibility of the National
+Telecommunications and Information Administration with respect
+to Internet domain name system functions, including
+responsibility with respect to the authoritative root zone file
+and the Internet assigned numbers authority functions.''
+Mr. DelBianco. So it sounds as if Commerce could work as
+hard as they could to help get your questions answered and test
+the conditions, but they couldn't take the final act of letting
+go of the contract. Is that an appropriate way to interpret it?
+Mr. Pallone. I am asking you. I don't know.
+Mr. DelBianco. I am not an expert on----
+Mr. Pallone. All right.
+Mr. DelBianco. I am not an expert on this.
+Mr. Pallone. All right. Anybody else want to respond?
+Mr. Shears. If I may, I think it will be a great shame if
+things got in the way of the multi-stakeholder process and come
+before the proposal. If a proposal is ready, and there are
+further delays through other mechanism, I think that will be a
+shame, and that would really undermine the multi-stakeholder
+model and approach.
+Mr. Pallone. Ms. Plonk?
+Ms. Plonk. Thank you. Just to further my colleague's
+comments, I think we would view that as an externally imposed
+or mandated delay, which, as I said in my testimony, we also
+believe would undermine the multi-stakeholder process.
+Mr. Pallone. OK. Anyone else?
+Ms. Kehl. I would just echo that, and say that I think it
+is a lose-lose proposition in a lot of ways, because, although
+the intent may be to make sure that this transition is handled
+well, it will make it harder in some ways, I think, for NTIA.
+We want them to be very engaged in this process, and we want to
+send a message that we support it. And I think the concern
+about the message that this sends is also very important, this
+idea that it is some sort of attempt at an external delay in
+the process. So I don't think it advances our interests.
+Mr. Pallone. Mr. Schaefer?
+Mr. Schaefer. Actually, I think that is a--my
+interpretation is a sense of frustration on the part of
+Congress that its voice is not being heard, or perhaps being
+respected in the way that they want it to be. The NTIA has
+insisted that there is not a role for Congress here, that it
+has the authority to do this, and Congress has responded to
+that with this legislation.
+And I think the proper way to do this would be for NTIA to
+say that they are not going to make any decision without
+consulting with Congress, and involve it directly in the
+process, and for Congress to voice its concerns directly and
+clearly to the NTIA, also to the ICANN, and to the multi-
+stakeholder process what it considers to be vital and key
+priorities to resolve its concerns.
+Mr. Pallone. Thanks. Let me just ask quickly, I know not
+all of you can respond, but I understand that ICANN will be
+meeting next month in Argentina, where many of the issues we
+are discussing today will be on the table. What progress are
+you hoping to see in Buenos Aires next month? If anybody wants
+to take a stab at that?
+Mr. Shears. We will have the results of the consultations
+on the two proposals, so there will be--have a significant
+input from the community, from the multi-stakeholder community
+beyond ICANN, and that will shape the two proposals going
+forward. So that will be two significant areas of work for us
+in Buenos Aires.
+Mr. Pallone. Anybody else? Five seconds. No? All right.
+Thanks a lot. Thank you, Mr. Chairman.
+Mr. Walden. You are welcome, of course. And I think this
+does speak to why we need to come to terms, as we are working
+together on this legislation, because of the frustration some
+members have. They will go to the--route if we don't do our
+job. I am aware of that. So that is why we are having this
+hearing, and why our staffs have been talking about--if we can
+find common ground, we might be able to move forward with
+legislation that the Administration could support, and we could
+show strong support out of this Committee.
+With that, we will go to Mr. Latta, the Vice-Chair of the
+Committee.
+Mr. Latta. Thank you, Mr. Chairman, and thanks very much
+for our witnesses, again, for being here today. I tell you,
+this is a very, very good hearing today, and I think it is
+bringing up a lot of very good information we have to have as
+we go forward as a committee, and as a House.
+But one of the first questions I would like to ask Mr.
+DelBianco, if I could ask of you, and there are three parts to
+this question, and the question is this. One proposal from
+ICANN accountability working group is a creation of fundamental
+bylaws, as a rejection mechanism for the multistakeholder
+community. Can you elaborate on how you think this is going to
+help improve accountability? And then maybe just following
+right up into this is do you think that this will work long
+term? And is there enough of a culture of accountability within
+the membership of the community to make this effective? So,
+really, starting with that question about the fundamental
+bylaws.
+Mr. DelBianco. Thank you, Mr. Latta. The bylaws that exist
+at ICANN today are all subject to change by the Board of
+Directors without any input at all from the community. They get
+to make the final decision to change bylaws. That has been
+unacceptable. That is not accountability at all.
+So the two powers that are embedded in the proposal that we
+have been discussing, the first power is that the community,
+with a 75 percent vote, can block a Board proposed bylaws
+change. And a lot of this is to make sure that we lock in the
+powers that we have, although we believe that there are certain
+bylaws that are more important than others, that are
+fundamental and critical. So for those, just flip it on its
+head. For those, if the Board wanted to change the bylaw, it is
+a fundamental bylaw, the community would have to agree by a 75
+percent vote of these members. And we have a laid out structure
+on who gets to vote, and how. And if the community doesn't get
+75 percent agreement, the bylaw does not change. So one of the
+debates is should this California principal office be a
+fundamental bylaw, or not? It would be so helpful to get
+comments from members, and from this Committee, from the
+Congress, on that particular question, because it is before us
+over the next several weeks.
+You also asked if the community has a sufficient culture of
+accountability. The community is people like us, and we all are
+used to holding institutions accountable in our daily lives. It
+is when we go to ICANN that we sort of give all that up. So I
+hope that we can rely upon that cultural accountability that we
+have, and start to fire those engines when we start to work at
+ICANN, but it will take a few years, probably, for us to learn
+how to exercise the muscle of all these new powers we have
+designed.
+Mr. Latta. Mr. Schaefer, let me ask you. Because this is
+interesting, and, as we have seen through time, and across the
+world, sometimes things don't actually work sometimes the way
+we hope they would, especially when we are talking about the
+multi-stakeholders, and the oversight. And the question I am
+going to ask is this. Could there be some intimidation by
+certain members of other members that would be a problem out
+there that you would end up on an intimidation, when we are
+talking about trying to change bylaws, or just the functioning
+of the Board itself?
+Mr. Schaefer. I am sorry, who are you addressing the
+question to?
+Mr. Latta. If you could answer that?
+Mr. Schaefer. Sure. Anything is possible, of course. Other
+members can bring pressure on other Board members. But inside
+the reforms, as outlined by Mr. DelBianco, and in the
+accountability group, individual members of the Board would be
+susceptible to recall by their constituencies in there, and
+also----
+Mr. Latta. But suppose that some of these are more
+authoritarian type governments, and that is one of the things
+that we have talked about in this Committee----
+Mr. Schaefer. Sure.
+Mr. Latta [continuing]. That they wouldn't be recalled by
+their constituency because there is no constituency.
+Mr. Schaefer. Well, the constituencies on the ICANN Board
+aren't representative of governments. They are representative
+of parts of the community, and various stakeholder groups, and
+advisory committees, so I am not exactly sure----
+Mr. Latta. The question that I have got, though, is can
+there be intimidation of those stakeholders out there? And
+there is going to be--it might not just be because of what we
+are talking about on the Internet, because of other things that
+are going on in the world, and a lot of things that this
+Committee touches that we have seen that can happen. But my
+fear is that you could have some folks out there that would be
+intimidated not by ``a government'', but by the stakeholders
+that are representing a government.
+Mr. Schaefer. That would require a significant amount of
+coordination and pressure among a great deal of people and a
+great deal of constituencies that I think would be very
+difficult to either conceal, and do so in a secretive fashion.
+The nature of the multi-stakeholder community is that it is
+very diverse, it encompasses a broad array of individuals, and
+organizations, and businesses, and so forth. And I think it
+would be very hard to do that, unless you are talking about
+criminal activity, and then that would be something that would
+be handled by law enforcement, not through the accountability
+measures established under ICANN.
+Mr. Latta. Thank you. Mr. Chairman, I see my time has
+expired, and I yield back.
+Mr. Walden. Thank the gentleman. Chair----
+Mr. Doyle [continuing]. Testimony you mentioned that for
+the proposed governance structure of IANA to work that ICANN
+must ensure it is accountable to the broader community of
+stakeholders. Have you seen ICANN take steps to empower the
+broader community in such a way as to enable this greater
+accountability, or what concerns still remain?
+Mr. Shears. One of the things that is certainly true is
+that this community, this community within ICANN, has been
+crying out for greater accountability and transparency for some
+time, and this came to a head last summer, and that was one of
+the reasons for accountability working group going forward. So
+the work that that group is doing at the moment is the work
+that we hope we will see implemented at the same time as the
+transition takes place.
+So, to date, I think it is fair to say, as others have said
+on the panel, that the accountability and transparency at ICANN
+has not been as good as it could have been, and at some times
+inadequate, and that this is our opportunity to make sure that
+those changes are put into place. And it is essential that they
+are.
+Mr. Doyle. Yes, and you mentioned one source of
+accountability is for the community to be able to award the
+IANA contract to another entity down the road. Do you see this
+as an effective check towards improving ICANN's governance and
+accountability?
+Mr. Shears. It is an absolutely essential check, yes.
+Mr. Doyle. Yes. Ms. Kehl, in your testimony you said that,
+had NTIA not voluntarily undertaken this transition, that other
+stakeholders would have moved forward. Tell us how U.S.
+leadership in this transition driven--how U.S. leadership has
+driven stakeholders to the table, and what will be the
+consequences if we have delays?
+Ms. Kehl. Of course, thank you for the question. So I think
+from the very beginning, actually from 1998, the U.S. has been
+a tremendous leader in bringing these stakeholders to the
+table, and empowering the system to work from the beginning. I
+think we saw, in October of 2013, which was what I mentioned in
+my testimony, the heads of the regional Internet registries,
+and ICANN, and the Internet Engineering Task Force put out a
+statement calling for the globalization of ICANN, and the
+transfer for the IANA function, saying it is time.
+And so I think the response the U.S. Government to say,
+yes, it is time, and we can initiate this transition was both,
+you know, it was appropriate historically, it made sense
+politically, and, as a result, we are in a strong position
+right now still to set the terms here. So we are a leader. We
+are not saying that this is going to be dragged from us kicking
+and screaming in any way. We are not saying that we are trying
+to delay it. We are saying it is time, we support this system,
+and we trust that we can figure out a way, working with the
+community, to actually make it happen. I think it is an
+incredibly powerful message for the U.S., and I think on the
+other side of that, if we don't do that, there is this concern
+that this political target, this sort of, like, falsely clouds
+our good intentions, and the Internet governance space will
+only grow larger, right?
+So this idea that this is something that comes up it is--
+for the past more than a decade it comes up an Internet
+governance meetings, it came up in Korea, at the International
+Telecommunication Union Conference, this idea that this was a
+problem, and that this somehow privileged the U.S. role, and so
+it is the responsible thing to do to say we are going to end
+that, and we are going to do this in a manner that works for
+both us, and for the global Internet community.
+Mr. Doyle. Would either of you like to add anything to
+that, Ms. Plonk or Mr. Shears? OK. Mr. Chairman, I will just
+close by saying that I want to keep it in Los Angeles,
+California, but not Houston, Texas. Thank you.
+Mr. Shimkus [presiding]. Gentleman yields back his time,
+and Chair recognizes myself for 5 minutes. And it is great to
+have you, and I think we are making progress from my colleagues
+on the other side.
+I don't think we would be in this position had the original
+bill not been dropped in the last Congress. And, in respect to
+the appropriation battle, I would argue that we wouldn't even
+have that fight had we done a better job of working together
+last Congress to try to raise these issues, because, if you
+remember this whole debate, and Mr. Strickland was one of them,
+and many of you were there, Congress has no role. That is what
+your statements were, Congress has no role. Now today you are
+saying what? There is an important role for us to play, and we
+need to be involved because our citizens are going to ask
+questions. The world is a much different place now than it was
+in 2012. So where decisions were made in 2012, the world is--we
+are at a different place. I think there is less trust in the
+international world and community right now just because of
+world events.
+So we just represent people, OK, in our districts, we all
+have about 750,000, of what we are doing with NTIA. So as much
+as we have to respect the work that they are doing, they have
+to respect the work that we are doing. And so I want to
+appreciate--I do appreciate my colleagues. I think we are going
+to move in a process that--I am hopeful that we will have
+comfort that there is legislative--I would yield to my
+colleague, yes.
+Ms. Eshoo. For a few seconds. I appreciate what you said,
+and we have--Congressman Shimkus and I have worked on a lot of
+issues together very successfully over the years, so I
+appreciate what you said. I think where perhaps we weren't
+totally on the same side was having confidence in a multi-
+stakeholder community, that that model could work. I don't ever
+remember myself questioning whether Congress shouldn't lean in,
+or anyone from our side, but that is the past. We are moving
+on.
+But I still think it is worth saying for the record, and we
+are going to work with you because we realize how important
+this is. And, I mean, for the amount of time that these people
+have invested is really glorious, and you should really be very
+proud of yourselves because I think you are the ones that have
+really moved the ball down the field, and said that to the
+Congress, and now the Congress is feeling far more confident.
+So thank you for yielding, Mr. Chairman.
+Mr. Shimkus. I am happy to do so, and let me raise a couple
+issues. I did submit this column for the record in the opening
+statements, and it just raises one of the issues. And, as we go
+through this process, what are the concerns out there? And I
+have so many questions, I have been scribbling notes down
+through the whole hearing. But I guess the bottom line is, the
+NTIA have what their listed objectives are, the question will
+then be, what is missing, and your advice and counsel could be
+helpful, what should be added to give us certainty?
+For example, in the article it says, consider the
+importance of .mil, which is sponsored by the United States
+Department of Defense, that houses some of the secure systems
+and e-mail addresses most vital to U.S. national security.
+Using them would place a considerable strain on the nation's
+defense. As yet, the Pentagon has no ongoing contractual right
+to it. The Department control over .mil is a legacy arising out
+of America's invention of the World Wide Web. And they also
+mention .gov and .edu as a concern. Does anyone reject the
+premise of that statement? Mr. DelBianco?
+Mr. DelBianco. Thank you, Mr. Shimkus. No, it is of vital
+importance. Think about what would happen. Think about the
+risks if our .mil and .gov were under attack, or redirected
+during an emergency. Maybe a coordinated attack that went after
+cyber structure and infrastructure. And it is particularly
+different for us.
+For 100 countries around the world, their .gov lives at the
+second level, .gov.ca for Canada, .gov.uk. Since it lives at
+that level, it is on a server on their soil completely under
+their control and law--is the root server, and it ought to
+maintain a U.S. presence for that reason. Now, we can get a
+contract with ICANN so that the U.S. DOD and GSA have permanent
+custody of those names, but that contract wouldn't be worth the
+paper it is printed on if ICANN left the U.S. as a legal
+presence, and if the root left our shores.
+Mr. Shimkus. Yes, and I will end on this, my time has
+expired. I will just say, I am curious to the contractual
+obligations, and NTIA's role, and where would people go? I
+mean, I think we weave a story that people will flee. I am not
+sure there is any other organized structure which they would go
+to. So, with that, I would like to recognize for 5 minutes Mr.
+Luja AE1n for questions.
+Mr. Luja AE1n. Mr. Chairman, thank you so very much, and
+thank you for this important hearing today. And, Mr. Chairman,
+I just want to say this at the start, as we make this
+transition, we must make every effort to ensure that the
+foundational values of the Internet, freedom of expression, and
+protection from government interference, are preserved. I think
+that is a value that we all share.
+And, Ms. Plonk, as I am sure that you are aware, for years
+Intel has been an important partner in New Mexico, and we
+certainly appreciate your presence, and we are always open to
+opportunities to talk about expansion. And so I just wanted to
+lay that out with my good friend Mr. Walden, who is also here.
+I know that we are always talking about opportunities at Intel
+in our various states and our various districts as well, but we
+really appreciate you being here.
+And as important partner who shares a very important
+perspective with what Intel does, not only in this space, but
+being the only presence in the United States in what you do,
+and we have to acknowledge that. We wanted to make sure that we
+are doing our part to protect that industry, and to provide
+opportunities for expansion. But can you explain further why
+you support this transition, and how it impacts your business?
+Ms. Plonk. Thank you for the question, and for the kind
+remarks about Intel. We are building a new universe of
+connected devices, the Internet of things, wearables, what have
+you. All of these devices are not very valuable to people
+unless they can connect, and so our business interest is in
+seeing the Internet grow. I mentioned in my testimony the rates
+at which we have experienced growth for the last 30 years. It
+is going to need to continue to grow exponentially to meet the
+demands for all of the connectivity, for all of the devices
+that we are building silicon to support.
+So we are concerned that--well, we support the transition
+because we think that is the best path to growth, at the end of
+the day. We are concerned about anything that would deviate
+from the path toward growth of the Internet, such as
+fragmentation, should countries decide to split off from a
+global Internet in a way that we couldn't do business as easily
+across borders, or the benefit of the platform for expression,
+and for interoperability wouldn't exist, at least in the way we
+know it today. All of those are huge drivers for not just
+Intel, but the IT and Internet community that, as I mentioned
+in my testimony, grew up in the United States, and to a large
+degree is headquartered here.
+So that is our fundamental business interest, so that is
+why we support the transition, and we are positive in the
+outlook of what we think is to come. All of my colleagues here
+have been deeply involved in the process. Mr. DelBianco has
+detailed out the accountability reforms. Mr. Shears has as
+well. So we are optimistic about the outlook for the future,
+and it is very critical to us.
+Mr. Luja AE1n. And, Ms. Plonk, your testimony discusses the
+challenges the U.S. faces in building international support for
+the multi-stakeholder model as well. You note that some
+countries advocate for centralized control of the Internet, or
+a greater role for international organizations, like the UN.
+What would be the impact on companies like Intel if these
+voices were to prevail, and we abandoned the successful multi-
+stakeholder approach?
+Ms. Plonk. If we were to completely abandon the multi-
+stakeholder processes that we know today, I don't know that
+anybody at this table would be able to participate going
+forward. A one country, one vote system, such as at the UN,
+doesn't allow for direct participation from the private sector
+or civil society. We would be having to work through
+governments and national governments. We wouldn't necessarily
+have the direct relationship that we have with ICANN to
+represent ourselves. So that is, I think, the short answer to
+the impact.
+Mr. Luja AE1n. And I guess the follow up to that, just
+straight to the point, is, when taking into account the
+stakeholder international opinion, does United States advocacy
+for a multi-stakeholder model free of government control
+strengthen or weaken Internet access and freedom for users in
+states like New Mexico?
+Ms. Plonk. I think the multi-stakeholder system allows the
+U.S. Government to engage in representing the country,
+representing the people, just the way that you do here in
+Congress. And the multi-stakeholder system also allows users to
+represent themselves directly, whether that is through
+participation in civil society organizations, or in trade
+associations through their businesses, however, they have
+access directly, as well as through the U.S. Government
+representing them.
+Mr. Luja AE1n. Thank you, and I thank you and all the
+witnesses for making yourself and your expertise available to
+us today. Thank you, Mr. Chairman.
+Mr. Shimkus. Gentleman yields back his time. Chair now
+recognizes the gentleman from New Jersey, Mr. Lance, for 5
+minutes.
+Mr. Lance. Thank you, Mr. Chairman, and good afternoon to
+you all, and it is a pleasure to be with you. Mr. DelBianco,
+you have emphasized the need to stress test various proposed
+ICANN reforms. I certainly agree with that, and you have not
+suggested such tests for the technical operations of the domain
+name system. Can we assume that this is because they have not
+been tested in a real world setting for quite some time?
+Mr. DelBianco. Thank you, Mr. Lance. We have 26 stress
+tests. Four of them do address core naming functions, change
+failure, re-delegation failure, compromise of DNS set
+credentials, as well as dotless domains, and innovations of
+that nature. But in each case, the proposed planning that we
+have talked about, the powers, give the community and the
+direct naming customers the power to do escalation procedures
+on failures, as well as the ability for us to challenge
+decisions that were made, or inaction of ICANN.
+So the proposed community powers enable what we need there,
+but beyond that, we had no call to do stress testing of the
+underlying technical operation at the core of the Internet,
+because tech services at that level, those companies, they have
+actually been doing it for decades with--and they are tested
+every single day, I think, with stress tests of real world
+operation.
+Mr. Lance. Thank you. Ms. Plonk, you are nodding your head.
+I would certainly be interested in your comments.
+Ms. Plonk. Accountability over ICANN itself.
+Mr. Lance. Thank you. To the panel in general, whoever
+would like to respond, in your experience, what is the
+international perception of the U.S.'s role in the operations
+and oversight of the Internet? Is there a solution that is
+acceptable to the international community without risking the
+future of the Internet? Mr. Shears?
+Mr. Shears. Thank you. This is a wonderful question,
+because when we----
+Mr. Lance. I didn't write it, the staff wrote it, so----
+Mr. Shears. When we talk about the multi-stakeholder model,
+that does involve governments, so governments from different
+countries around the world are represented in these discussions
+that we are having, so they are fully apprised of what is
+happening on accountability, and they are fully apprised of
+what is happening on the IANA transition. So, yes, there is a
+considerable amount of support. There are, of course, the
+naysayers, and this is to be expected, but there is a
+considerable amount of support for the transition around the
+globe.
+Mr. Lance. Thank you. Others on the panel who might wish to
+comment? Yes?
+Ms. Kehl. Thank you. I would add, I think, that
+historically there has been a lot--think that the key is that,
+in recent years, the sort of erosion of the trust in whether we
+could continue to be that neutral steward, or whether we needed
+to be, has been quite effective. And so I think that is why we
+are at the point now where there isn't a way to put the
+toothpaste back in the tube. We can't go back on the promises
+that we have made. And so the solution that we come up with has
+to be one that recognizes that while, without sort of
+diminishing the important role that the U.S. Government has
+played, that it is time to move on.
+Mr. Lance. Thank you.
+Ms. Kehl. Thank you.
+Mr. DelBianco. And, Mr. Lance, I might add that the
+international perception comes down to how we interact, and I
+say we as Americans----
+Mr. Lance. Yes.
+Mr. DelBianco [continuing]. Because on every working group,
+at every ICANN meeting, there are, more often than not, more
+Americans than any other group.
+Mr. Lance. Yes.
+Mr. DelBianco. Sometimes Americans might be more than the
+rest put together because----
+Mr. Lance. Yes.
+Mr. DelBianco [continuing]. Countries don't have the same
+kind of presence of companies like Intel. So there is a
+dominant presence of Americans, and we conduct our business at
+ICANN primarily in English.
+Mr. Lance. Yes.
+Mr. DelBianco. The second is there is a precedent here. The
+laws of the State of California have served us very well. And
+while others from around the world chafe when we talk about
+maintaining the fundamental bylaw for California presence, it
+is not as if anybody has stepped up with a better idea, and a
+better place to take it. So there is a grudging acknowledgement
+that we built it, and have an awfully good system in place, but
+it kind of bothers them that we are probably more dominant than
+we otherwise should be.
+Mr. Lance. Well, thank you very much, and California is a
+great state. I yield back 17 seconds.
+Mr. Shimkus. Gentleman yields back his time. Chair
+recognize the gentleman from Illinois, Mr. Kinzinger, for 5
+minutes.
+Mr. Kinzinger. Well, thank you, Mr. Chairman. I appreciate
+all of you being here and spending some time with us today, and
+I know you will be ready to go when that time comes too. But
+there has been some debate in the multi-stakeholder community
+over whether ICANN should be permanently granted stewardship of
+the IANA functions as a condition of the transfer. It seems
+some believe that in order to keep ICANN accountable to the
+community, there should be some mechanism to replace them. Mr.
+Shears, what are your arguments being made in regards to this
+issue?
+Mr. Shears. Yes, certainly CDT does not support ICANN
+having the IANA operations in perpetuity. We believe that being
+able to select another operator is a core accountability
+mechanism that keeps the IANA functions neutral, transparent,
+and accountable themselves, and that is probably one of the
+most important aspects, in terms of the package as a whole, the
+overall proposal.
+Mr. Kinzinger. Ms. Plonk, in your written testimony you
+also address this issue. Would you mind elaborating on it a
+little bit?
+Ms. Plonk. I support the comments by Mr. Shears that the
+ability to choose another operator through termination clauses,
+as is standard in contracts, certainly in the U.S. and in
+California, is normal, and should be a criteria for moving
+forward.
+Mr. Kinzinger. Does anybody else on the panel want to
+address it at all, or--yes, go ahead.
+Mr. DelBianco. Thank you, Mr. Kinzinger. I agree that we
+need to be able to reassign those IANA functions of names,
+protocols, and numbers. But when it comes to what an ICANN
+does, the policymaking part, it is a huge policymaking machine.
+It has signed thousands of contracts, and it has to enforce the
+contracts. I don't think dumping that makes much sense. But
+what does work is if ICANN is not doing that job well, we will
+dump the Board. We will get a new Board, rather than a new
+entity, to do the policymaking.
+Mr. Kinzinger. OK. Anybody else want to address that at
+all? Yes.
+Ms. Plonk. Just a follow-up, I appreciate Mr. DelBianco's
+clarification that there is this separation between the
+policymaking function that ICANN has and the execution of the
+IANA functions, which are largely administrative.
+Mr. Kinzinger. OK.
+Mr. Schaefer. If I may----
+Mr. Kinzinger. Yes, please.
+Mr. Schaefer. One thing. In my testimony I make reference
+to an article, and several statements, by Mr. Woodcock, who is
+part of the CRISP group, and also commentary by Milton Mueller,
+who is instrumental in the stewardship process as well, and
+they give some evidence, or at least stories of ICANN resisting
+the separability process, and I think that is something that
+is, as mentioned on the panel, very important to the
+accountability and the long term interests of this process.
+And in that discussion, they indicated that some
+individuals at ICANN had said that Congress was opposed to
+separability as part of this process. If that is the case, and
+we don't know whether it is or not. This is, again, a story,
+Congress should, I think, step forward and clarify whether it
+is or whether it is not opposed to this as part of the process.
+And I think, based on what I have seen and what I have heard in
+discussions that Congress is indeed not opposed to this, and in
+many cases is supportive of this process, and should state so.
+Mr. Kinzinger. And one proposal from ICANN accountability
+working group is to significantly change the appeals process
+for ICANN review. Can any of you elaborate on whether or how
+you think this will help improve accountability, and is there a
+better or more effective way of achieving the goal of
+accountability?
+Mr. DelBianco. Mr. Kinzinger, it is just one of the new
+powers we are granting, but I will just focus on it, since you
+asked. But the independent review process has been pretty
+inaccessible for many aggrieved parties. It is phenomenally
+expensive. It is as much as a million dollars to hire counsel,
+to pay the panelists that are pulled together for the
+independent review panel. There is a limited scope of matters
+that can be taken up, and it is very difficult for a broader
+community of aggrieved people to have standing as a group.
+So we are relying upon some very smart lawyers not working
+for ICANN, but working for the community, to dramatically
+improve the independent review process. We call that the crown
+jewel of our powers. We are going to make it more accessible,
+and if it is the community that filed the independent review,
+ICANN will pay for the panelists, not the community. We
+wouldn't be able to scrape that together.
+They have to use the standard of review that is baked into
+these newly improved bylaws, so the standard of review will be
+known, which includes a tight limitation on ICANN's scope
+creep. And then finally, when the decision comes back from the
+independent review panel, we are seeking to ensure that it is a
+binding decision on ICANN that will force them to do over a
+decision that the community has rejected.
+Mr. Kinzinger. Thank you. And, Mr. Chairman, I only have 10
+seconds left, so I yield back.
+Mr. Shimkus. Gentleman yields back his time. Chair now
+recognizes the gentleman from Florida, Mr. Bilirakis, for 5
+minutes to----
+Mr. Bilirakis. Thank you, Mr. Chairman. I appreciate the
+panel's testimony today as well. One of my greatest concerns
+with this transition is the susceptibility of the ICANN to
+manipulation by foreign governments. Mr. DelBianco, how will
+stakeholders protect the process from foreign governments if
+they continue a push for power or unjust control once the
+United States withdraws its stewardship role?
+Mr. DelBianco. Thank you, Mr. Bilirakis. This was one of
+the stress tests we discussed in front of your Committee last
+April. And it is a genuine concern that governments together
+would exert more influence over ICANN without actually having
+reached a consensus. Today the Government Advisory Committee,
+or GAC, G-A-C, operates under its own self-imposed rule of
+consensus before it offers formal advice to ICANN. And when
+they offer formal advice at ICANN, ICANN is strongly presumed
+to be following the advice. And when it doesn't follow the
+government advice, ICANN has to enter a period of trying to
+find a mutually acceptable solution with the Government
+Advisory Committee. No other advisor or stakeholder group has
+that kind of due deference with ICANN. I think it is a
+recognition of the power of governments.
+So many governments have said they would prefer to change
+to majority voting. It is a little messy to get consensus, and
+they would like a majority, and I have to express the concern
+about that. Sometimes there are only 60 or 70 countries at a
+GAC meeting. If you can scrape together 34 votes for an
+oppressive new policy that gets in the way of free expression,
+that would be bad. So we made a change to the bylaws as part of
+our proposal that we only have to give that due deference to
+the government advice if it is actually supported by consensus.
+Mr. Bilirakis. Thank you, Mr. DelBianco. Got it right that
+time. Next question, a number of U.S. companies, including
+yours, Ms. Plonk, have expressed support for this transition--
+--
+Ms. Plonk [continuing]. Process in much the same way that
+they do today, through the Government Advisory Council to
+ICANN, as well as the various communities within the United
+States, business, civil society, and academia will have as
+much, if not more, access to provide accountability for the--
+both the execution of the IANA functions, but also the overall
+policymaking role that ICANN has. So I view it as a very
+positive----
+Mr. Bilirakis. What about congressional----
+Ms. Plonk [continuing]. Thing for the U.S.
+Mr. Bilirakis [continuing]. Oversight?
+Ms. Plonk. So you will continue to have oversight over
+NTIA, and their work on this issue. If they continue to
+participate in the multi-stakeholder process, I don't see
+dramatic changes in that regard.
+Mr. Bilirakis. Anyone else want to comment on that?
+Mr. Shimkus. Will the gentleman yield, Mr. Bilirakis?
+Mr. Bilirakis. Yes.
+Mr. Shimkus. But we will lose the authority, or the
+oversight that we have today. I mean, it is not fair to say, it
+is the same thing. There is a definite--Mr. DelBianco? There is
+a definite shift.
+Mr. DelBianco. You are absolutely correct. A hearing like
+this would perhaps still happen post-transition, but the
+audience for your hearing is not going to be ICANN. The
+audience would be our NTIA, and we are one country's vote among
+the hundreds of votes that are on the GAC. There is no special
+role anymore for the inventor----
+Mr. Shimkus. Right, and that is all the point I was trying
+to make. I will yield back to Mr. Bilirakis.
+Mr. Bilirakis. OK. Thank you.
+Ms. Plonk. There is no voting on the GAC, though, just to
+make the point.
+Mr. Bilirakis. Mister----
+Mr. Schaefer. One other thing I would just emphasize, there
+is nothing stopping individual members of Congress, or Congress
+as a body, from submitting comments to various proposals, or
+any other changes through the comment process at ICANN. In
+fact, it could do so right now. And that is actually something
+I would think that Congress would be interested in engaging in
+during this process, while this is all going on. And that would
+continue to be an avenue in the future.
+Mr. Bilirakis. Right. Thank you very much. Mr. Shears, in
+the past some have argued that, through relinquishing or
+contractual relationship with ICANN, accountability might
+suffer in the transition. In your testimony you mentioned the
+current hybrid proposal separating functions and oversight. You
+conclude by saying this can work only if ICANN is held
+accountable to its own internal governance structures, and
+stressed the multi-stakeholder community needs to be more
+empowered than it is today for it all to work. Can you
+elaborate on this, and if you expect this approach to ensure
+accountability will be successful?
+Mr. Shears. Yes, thank you. So the current model that is
+part of the IANA transition does foresee that ICANN is the
+contractor, and a subsidiary of ICANN is the operator of the
+IANA functions. So in order for that to work, as I said in my
+testimony, it is absolutely essential that the oversight of the
+IANA operator is absolutely neutral, and transparent, and
+accountable. For that to be the case, it means that the
+community needs these additional powers that we are talking
+about. Because at the moment, those powers don't exist.
+So at the end of the day, to hold ICANN true, and to ensure
+that that oversight exists over the IANA operator, we need
+these accountability measures that we have been talking about
+in this hearing.
+Mr. Shimkus. Gentleman's time has expired. Chair now
+recognize the gentleman from Ohio, Mr. Johnson, for 5 minutes.
+Mr. Johnson. Well, thank you, Mr. Chairman. Mr. DelBianco,
+back to you. One proposal from the ICANN accountability working
+group is the incorporation of the agreements made between ICANN
+and NTIA, and the affirmation of commitments into the governing
+documents of ICANN. Can you elaborate for us on whether or how
+you think this will help improve accountability?
+Mr. DelBianco. Thank you, Mr. Johnson. The affirmation of
+commitments was really an outstanding piece of work by the USA
+in 2009, and it came up with a set of principles that ICANN had
+to commit to, as well as reviews it had to commit to allow the
+community to perform. But these commitments were between ICANN
+and the U.S. Government. It is a bilateral agreement. It is
+exactly the kind of thing that the IANA contract was, that
+would be the next target for elimination by governments around
+the world who don't want us to have a unique role.
+And that is why the very first stress test that I presented
+to this Committee last April was ICANN, if they were to cancel
+the affirmation of commitments, we would lose all of that. So
+this working group spent a good deal of time, it occupies about
+15 pages in our proposal, of bringing over all of the relevant
+commitments from ICANN, and we improved them as we brought them
+over. And then we took a look at the reviews that are done, and
+gave the community more power to set who is on the review
+teams, to sunset old reviews, create new ones, and to more
+appropriately hold the Board accountable to the
+recommendations. So I hope that your reading of our proposal
+will concur that we have done, I think, an adequate job of
+bringing all of the key commitments from the affirmation into
+the bylaws.
+Mr. Johnson. OK. All right. Another question for you, then.
+Another proposal from the ICANN accountability working group is
+greater power to the constituent communities within ICANN,
+particularly in regards to the group's budget, operating plans,
+and bylaws. In addition, the community would be able to approve
+changes to the fundamental bylaws, and remove members of the
+ICANN Board. Can you share your thoughts on whether or how you
+think this will improve accountability?
+Mr. DelBianco. Those five powers are simply essential, and
+they stop short of that fifth one of spilling the Board. That
+scene is the nuclear option, not the option that would
+operationally be very useful. But each of those interim steps
+are, amazingly, lacking today. The community has no ability to
+block a budget, a strat plan, no ability to block a Board
+approved bylaws change.
+And so the idea of building these powers in came very
+clearly to the community through a series of public comments
+that were conducted last summer, right after NTIA made this
+announcement. So it was very easy to gather a consensus of what
+powers the community needed, and they are all there, with the
+intent of being sure that we keep ICANN's management and Board,
+which is really accountable to the fiduciary concerns of the
+corporation, to keep them from going off the rails. So I think
+we are going to be able to answer your question with a yes.
+Mr. Johnson. OK. Well, good. Final question for you, are
+there better or more effective ways of achieving accountability
+that I haven't talked to about here? You have got about 2
+minutes to tell me some others, if you would like to.
+Mr. DelBianco. Thank you, Mr. Johnson. So far, and I will
+happily yield to other panelists, but so far the proposals are
+complementary. They are not competing proposals. There is a
+complimentary set of proposals on the naming, and protocols,
+and numbers, and there is the accountability proposal. That is
+that big second blue bar. And the reason it starts a lot later
+than the first blue bar is that ICANN management Board didn't
+want to admit that there needed to be a conversation about
+accountability. So a lot of this was over the objections of
+ICANN, but now we are all on Board, and we are all
+participating.
+As for other measures--if I were to start over and invent
+the next ICANN, and it is like when you ask an Irishman for
+directions, and he said, well, I wouldn't start from here, it
+is not possible, I think, to accommodate all of the disruption
+it would take to tear up and rearrange all of the contracts
+that are written with all the registries and registrars, all of
+the arrangements, the policymaking, the compliance bureau. So
+we really don't think we need to start over with a new model,
+with a new ICANN. We want to give new powers to the community
+to hold ICANN accountable to its mission.
+Mr. Johnson. OK. Well, great. Mr. Chairman, I yield back a
+whole 46 seconds.
+Mr. Olson [presiding]. Thank you. The Chair recognizes the
+gentleman from Missouri, Mr. Long, for 5 minutes.
+Mr. Long. Thank you, Mr. Chairman. And K-e-h-l, how do I
+pronounce that?
+Ms. Kehl. Like the vegetable, Kehl.
+Mr. Long. Kehl, OK. That is what I thought it was. OK. I
+thought I heard that earlier, but I don't always hear things
+correctly. But, Ms. Kehl, what if the transition doesn't go
+through? What is the downside?
+Ms. Kehl. I think the downside, if the transition doesn't
+go through, is the risk that there is immense pressure on this
+to happen in some other way without the U.S. Government's
+ability to set the terms, right? So this idea that the wheels
+were in motion from other organizations to try to find--from
+other parts of the community, sorry, not other organizations,
+to try to make this happen. So to say, will we reach consensus,
+and try to force the U.S. Government's hand?
+There is the risk that there have been governments that
+have tried to bring this into the International
+Telecommunications Union, which is a body of the United
+Nations. When I was a member of the U.S. delegation in South
+Korea in October, and when we were there, that was something
+that came up I think because of the existence of ICANN, and the
+ongoing process. That was not a serious proposal, but those
+proposals will be strengthened if the transition doesn't go
+through.
+And I think the other risk--while I think this is not a
+nearly as likely one, is that you end up with the system
+fragmenting. You end up with multiple competing sources of
+authority because other people start to say, we want to take
+this away, and that almost happened in the '90s, when--before
+the U.S. Government decided to do this.
+So that risk that it fragments, and then this system that
+works very efficiently and very well, that most people don't
+even know exists, suddenly doesn't work, right? And so that is
+a huge concern as well. I think that is a very unlikely
+scenario, but it is a possibility, if we sort of continue
+down--if we don't resolve this, and we go down this alternative
+path.
+Mr. Long. Say that again, now, on that last part? It is
+unlikely that what happened?
+Ms. Kehl. It is unlikely that the system would fragment,
+that you would end up with multiple competing sources of
+authority. But, if you did, the consequences would be
+incredibly significant.
+Mr. Long. As they say, there is many a slip between the cup
+and the lip, so during this handoff, there is some chances of
+some pretty bad things happening also?
+Ms. Kehl. I think there are risks. There are risks that--
+again, that something fragmented, or that the DNS could be
+used, the domain name system, as leverage to impose other
+policies, or to expand ICANN's role. And that is why I said the
+heart of this is the accountability process, and this idea that
+we have checks and balances to deal with ICANN's authority, and
+also this concept of enumerating the powers, and so making it
+very clear that ICANN's mandate is narrow, it is technical.
+Their job is to make sure that the system runs, and that it
+works, that it doesn't fragment, and that most Internet users
+don't know it exists.
+Mr. Long. Anyone want to dispute what she said? I saw a lot
+of heads nodding in agreement. Anybody dispute what--yes, sir,
+Mr. Shears.
+Mr. Shears. Yes, thank you. I think one of the other
+things--the reasons why this transition is so important is
+because we are living the multi-stakeholder model right now in
+these working groups. We are living the multi-stakeholder model
+right now. These working groups are multi-stakeholder, and they
+are working very well. For the transition not to occur would
+undermine that commitment that the U.S. Government has to
+multi-stakeholder model, and international Internet policy
+issues, and I think that would be a damaging blow to the
+legitimacy of the model as a whole. So that is another
+consequence of this transition not going ahead.
+Mr. Long. Mr. Schaefer?
+Mr. Schaefer. I agree with the assessment there. There has
+been a concerted effort by a number of countries to try and
+shift authority away from the United States and ICANN into the
+international model, the multi-lateral model, ITU or other
+forms, over years. The U.S. has successfully pushed those back.
+The expectation now is so high that it is very unlikely that we
+can get away with not proceeding down the path toward the
+transition to our private sector overseeing, or withdraw from
+the U.S. oversight of ICANN.
+But one thing I will say is that we need to be very careful
+not to go down and agree to a transition proposal that is
+substandard just because we fear something else worse might
+come along. I think the United States needs to be very clear
+about what is and what is not acceptable, and hold to that
+line, because a substandard proposal could be just as bad as
+the other----
+Mr. Long. Well, shouldn't .mil, .gov, shouldn't those be
+exclusive, perpetual, and at no cost? Are we going to be able
+to do that?
+Mr. Schaefer. Mr. DelBianco talked about that a little bit
+earlier. I believe that the United States should make,
+condition on the transition, its exclusive ownership of those
+two TDLs.
+Mr. Long. You believe what now?
+Mr. Schaefer. That the United States should make, as a
+condition of the transfer, its ownership of those two----
+Mr. Long. Yes, I heard what Mr. DelBianco said earlier, but
+I just wanted to kind of figure out how to tie it into what you
+were saying. So, with that, I don't have any time to yield
+back, but if I did, I would.
+Mr. Olson. Gentleman's time has expired. The Chair
+recognizes the gentleman from New York, Mr. Collins, for 5
+minutes.
+Mr. Collins. Thank you, Mr. Chairman. It has been
+interesting, as we have kind of deep dived this issue, to jump
+in. This would be your chance to take an extra 4 minutes as we
+are summing to see if, on the record, you would like to bring
+something up that we in Congress should be concerned about,
+worried about, or should take action on. So why don't we maybe
+start with Mr. DelBianco, and see if you have got something to
+add here as we conclude?
+Mr. DelBianco. One of the concerns is keeping ICANN to its
+limited technical mission. So we have proposed a change to
+their fundamental bylaws to say that ``ICANN shall not
+undertake any other mission not specifically authorized in
+these bylaws.'' So it is a much tighter rein to put on it. And
+the importance of that making it through cannot be understated.
+We need to be sure that ICANN will accept and implement that
+change, and not mince words----
+Mr. Collins. But who takes the leadership role to make sure
+that happens?
+Mr. DelBianco. That is a great question, because that role
+is going to end up falling to the community first, to NTIA, who
+will basically say whether they support the community
+transition plan that is up here. And that is why we said to
+this Committee, do your best to support and encourage that NTIA
+consistent----
+Mr. Collins. So, to some extent, NTIA has a veto today that
+is the ultimate arbiter of this? They have got a veto, and
+they----
+Mr. DelBianco. For the last time.
+Mr. Collins. For the last time? So they need to make sure
+they exercise that, and the community needs to make sure we in
+Congress know if there is something that is about to----
+Mr. DelBianco. Secretary Strickley says all the time that
+it would be a failure of the entire process if we ended up
+having a veto. Just like I said to Representative Shimkus, it
+would be a failure if GAO studied it, and came back and said,
+this will never work. We have to be engaged now. And NTIA is,
+and, thankfully, Congress is as well. By engaging early, there
+is no risk that we get to the end of the road and say, this
+fails.
+Mr. Collins. Right, but it is our failsafe, if you will.
+Would anyone else like to comment here, as we are closing out?
+Mr. Schaefer. I would like to----
+Mr. Collins. Yes, go ahead.
+Mr. Schaefer [continuing]. Things. One, I just can't
+emphasize enough that it is important that these changes be
+implemented before the transition. The leverage leaves once
+that transition occurs, and NTIA no longer is in the position
+that it currently is in. And, second, on the accountability
+track, there are two what they are calling work streams. There
+is work stream one, which there are--the changes that they deem
+are so important they need to be in place before the transition
+occurs. That--there is also work stream two, which are deemed
+to be important, but not necessarily important enough to be in
+place before the transition occurs.
+Work stream two still has a lot of important things in
+there, and there needs to be a great deal of assurances from
+ICANN, and from the multi-stakeholder community, through this
+process that those work stream two items will not be forgotten
+once this transition----
+Mr. Collins. So what is the timing? If you were to say, you
+know, there is not a date certain, a time certain, is there? I
+mean, so the clock is kind of ticking, but when do you see this
+reaching some endpoint?
+Mr. DelBianco. You know, first crack, as the chart I put up
+there showed, early next spring would be the earliest, and it
+might go as long as late next summer into next autumn.
+Mr. Collins. But we are talking about within a year?
+Mr. DelBianco. Yes, sir. And I should answer, with respect
+to work stream one and two, the community believes that, this
+is in response to what Brett said, we aim to give the community
+sufficient powers in work stream one so that the Board
+management cannot block the implementation of our work stream
+two items. So if we have the powers we have described to you--
+--
+Mr. Collins. Yes.
+Mr. DelBianco [continuing]. And we get to work stream two,
+not even 2017, and the Board is not going to concede, that is
+when we start invoking powers like spilling the Board,
+challenging their decisions.
+Mr. Collins. And who sets the Board? Are there going to be
+20 people on the Board, and who picks them? I know how
+shareholders work in private corporations. This is a little bit
+more confusing than that.
+Mr. DelBianco. The Board is a--well, it is kind of an
+interesting and complex structure. There is a Board member that
+is appointed by a technical community. There are two Board
+members that are appointed by the generic name supporting
+organization. We have the country code organizations, security
+stability advisory committee, the root server committee. The
+governments have a non-voting Board member. There is the
+nominating committee----
+Mr. Collins. So are we talking about 30, 40 people, 100
+people?
+Mr. DelBianco. 20ish.
+Mr. Collins. 20ish people, and they could be replaced, I am
+assuming, by the nominating group? Does the NTIA get to put two
+people on, or nothing? Interesting. Well, I guess I have 3
+seconds left or so, so I will yield that back, and thank the
+panelists for your dedication to this issue, which is pretty
+deep in the weeds, but a very important thing. So, yield back.
+Mr. Olson. The gentleman yields back. The Chairman has 5
+hours of questioning. Good, you are paying attention. 5
+minutes.
+I want to sum up. Pretty clear that back home people are
+more concerned about what will happen if some foreign
+government that is hostile to our nation takes over the role
+played by ICANN right now. I am a former Naval aviator, so we
+plan the worst case scenario, what bad could really happen. So,
+if bad things happen after this transition occurs, what is our
+recourse? What can we do to stop this from happening in the
+future?
+If ICANN goes into effect, all of a sudden some bad actors
+take over, can we stop it? Can we recover? Because that is what
+they are concerned about back home. We turn it over, and it
+goes over forever. I mean, do we have some sort of breaker,
+some sort of mechanism to say----
+Mr. DelBianco. Right.
+We have several stress tests about that, and it can be most
+easily summed up by saying that if the community, the people
+that actually use the top level domain table, the root table,
+believe that it has gone off the rails, that governments are
+suppressing free expression, or commerce, it will take the IANA
+contract away from ICANN and give it to someone else. And that
+can be done in an instant. The root table is small enough to
+fit on an index card, and it can be hosted by others, and
+replicated around the world.
+So the ability of separability, Audrey talked about this
+earlier, everyone agreed we needed that. That is our ultimate
+trump card against the scenario you described.
+Mr. Olson. And, Ms. Plonk, you are nodding your head. Do
+you agree with that? Want to add anything, ma'am?
+Ms. Plonk. I do. I would only add that the other two
+communities, numbers and protocols, also have plans for how
+they will internally, you know, transition, if that needs to
+happen.
+Mr. Olson. Ms. Kehl?
+Ms. Kehl. I would also add that I think that this idea, it
+is always important to remember that we are a part of the
+community, and by that I mean the panelists here, and also the
+U.S. Government. So we are stakeholders in this system as it
+goes forward, and I think the shared goals of planning against
+that worst case scenario and the goals of protecting the free
+and open Internet, are ones that are broadly shared by members
+of the community in the United States and around the world.
+And there is this really active group of civil society, of
+companies, of academia, and of governments that are dedicated
+to these issues, and they are, I think very vigilant in making
+sure that we avoid those kinds of scenarios. And so we are
+still a part of that community, and that is really powerful.
+Mr. Olson. Mr. Shears, your comments, sir?
+Mr. Shears. Thank you. I would say that the measures that
+we are trying to put in place on the accountability side are
+designed to militate against capture and mission creep, and
+that is part of that process, as you say, of--what happens when
+things go wrong? We are working in a system now where,
+hopefully, we will put in place measures where that will be
+very slim chance of that happening.
+Mr. Olson. Mr. Schaefer, your comments, sir?
+Mr. Schaefer. I would just like to echo a statement made by
+Mr. Shears in his opening statement, about how all these issues
+and these measures are intertwined, they are inter-reliant on
+each other, and I would highly recommend against moving forward
+on one without moving forward on all of them together.
+Mr. Olson. So you all seem--if I just want to put words in
+your mouth, you all seem to think that this is OK, it is safe,
+we don't have to worry about it. There is all sorts of checks.
+You don't know what will happen, but if bad things happen, we
+can stop it, control it. Yes, Mr. DelBianco, Ms. Kehl, Ms.
+Plonk? OK.
+Well, guys, I have one last comment. I want to follow up on
+the comments by former Chairman Barton and Mr. Doyle from
+Pennsylvania about moving the headquarters of ICANN to another
+country. Do those options include a state that was a former
+country? Is that considered another country, like the Republic
+of Texas? Does that work for there? Because, again, you have
+got me if that is what is going to happen. Is that--
+consideration? Laughter, OK.
+Members have 5 days to submit questions for the record.
+Without objection, this hearing is adjourned.
+[Whereupon, at 4:25 p.m., the subcommittee was adjourned.]
+[Material submitted for inclusion in the record follows:]
+
+Prepared statement of Hon. Fred Upton
+
+The Internet is one of the most vibrant and dynamic drivers
+of the economy--both here and across the globe--and this
+committee has made it a priority to ensure that it will
+continue to thrive unfettered well into the future. Today the
+subcommittee takes another look at the future of Internet
+governance and the proposed transition of IANA oversight from
+the U.S. government to the multi-stakeholder model.
+Last Congress, we advanced the DOTCOM Act as a measure
+intended to press pause before NTIA relinquishes the United
+States' role in overseeing the Internet's root zone functions.
+The U.S. has held this important responsibility for many years,
+and before we take an irreversible leap, we must carefully look
+at and understand all of the risks and consequences. Last year,
+we requested that the nonpartisan GAO examine the proposed
+transition and they will be releasing a report later this year
+with their findings. Thorough and honest reviews like GAO's are
+critical in helping all parties to make the most informed
+decision possible.
+Today's hearing will show there has been a great deal of
+work within ICANN, NTIA, and the multistakeholder community to
+come up with a workable proposal that will preserve Internet
+openness and freedom. I appreciate the effort that has gone
+into developing a solution, and look forward to hearing more
+about the proposal in the months to come. However, I want to
+strongly reiterate the need for Congress to play a role in this
+transition, and to serve as a watchdog as we move forward.
+We are not seeking to prevent this transition, or to delay
+it for the sake of delay. We are exercising our oversight role
+over NTIA and ensuring that any successor solution will fit the
+criteria NTIA has established for a successful transition.
+We've said it time and again, and it bears repeating: the
+future of the Internet as we know it is at stake if we don't
+get this right.
+----------
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

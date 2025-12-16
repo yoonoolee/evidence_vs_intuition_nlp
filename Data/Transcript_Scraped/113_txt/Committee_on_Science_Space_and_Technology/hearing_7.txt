@@ -1,0 +1,2076 @@
+- CYBERSECURITY RESEARCH AND DEVELOPMENT: CHALLENGES AND SOLUTIONS
+
+[House Hearing, 113 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBERSECURITY RESEARCH
+AND DEVELOPMENT:
+CHALLENGES AND SOLUTIONS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON TECHNOLOGY &
+SUBCOMMITTEE ON RESEARCH
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED THIRTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+TUESDAY, FEBRUARY 26, 2013
+
+__________
+
+Serial No. 113-6
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+Available via the World Wide Web: http://science.house.gov
+
+U.S. GOVERNMENT PRINTING OFFICE
+79-926                    WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail,
+[email protected]
+.
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. LAMAR S. SMITH, Texas, Chair
+DANA ROHRABACHER, California         EDDIE BERNICE JOHNSON, Texas
+RALPH M. HALL, Texas                 ZOE LOFGREN, California
+F. JAMES SENSENBRENNER, JR.,         DANIEL LIPINSKI, Illinois
+Wisconsin                        DONNA F. EDWARDS, Maryland
+FRANK D. LUCAS, Oklahoma             FREDERICA S. WILSON, Florida
+RANDY NEUGEBAUER, Texas              SUZANNE BONAMICI, Oregon
+MICHAEL T. McCAUL, Texas             ERIC SWALWELL, California
+PAUL C. BROUN, Georgia               DAN MAFFEI, New York
+STEVEN M. PALAZZO, Mississippi       ALAN GRAYSON, Florida
+MO BROOKS, Alabama                   JOSEPH KENNEDY III, Massachusetts
+RANDY HULTGREN, Illinois             SCOTT PETERS, California
+LARRY BUCSHON, Indiana               DEREK KILMER, Washington
+STEVE STOCKMAN, Texas                AMI BERA, California
+BILL POSEY, Florida                  ELIZABETH ESTY, Connecticut
+CYNTHIA LUMMIS, Wyoming              MARC VEASEY, Texas
+DAVID SCHWEIKERT, Arizona            JULIA BROWNLEY, California
+THOMAS MASSIE, Kentucky              MARK TAKANO, California
+KEVIN CRAMER, North Dakota           VACANCY
+JIM BRIDENSTINE, Oklahoma
+RANDY WEBER, Texas
+CHRIS STEWART, Utah
+VACANCY
+------
+
+Subcommittee on Technology
+
+HON. THOMAS MASSIE, Kentucky, Chair
+JIM BRIDENSTINE, Oklahoma            FREDERICA S. WILSON, Florida
+RANDY HULTGREN, Illinois             SCOTT PETERS, California
+DAVID SCHWEIKERT, Arizona            DEREK KILMER, Washington
+EDDIE BERNICE JOHNSON, Texas
+LAMAR S. SMITH, Texas
+------
+
+Subcommittee on Research
+
+HON. LARRY BUCSHON, Indiana, Chair
+STEVEN M. PALAZZO, Mississippi       DANIEL LIPINSKI, Illinois
+MO BROOKS, Alabama                   ZOE LOFGREN, California
+STEVE STOCKMAN, Texas                AMI BERA, California
+CYNTHIA LUMMIS, Wyoming              ELIZABETH ESTY, Connecticut
+JIM BRIDENSTINE, Oklahoma            EDDIE BERNICE JOHNSON, Texas
+LAMAR S. SMITH, Texas
+
+C O N T E N T S
+
+Tuesday, February 26, 2013
+
+Page
+Witness List.....................................................     2
+
+Hearing Charter..................................................     3
+
+Opening Statements
+
+Statement by Representative Thomas Massie, Chairman, Subcommittee
+on Technology, Committee on Science, Space, and Technology,
+U.S. House of Representatives..................................     6
+Written Statement............................................     6
+
+Statement by Representative Lamar S. Smith, Chairman, Committee
+on Science, Space, and Technology, U.S. House of
+Representatives................................................     7
+Written Statement............................................     7
+
+Statement by Representative Frederica S. Wilson, Ranking Minority
+Member, Subcommittee on Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........     9
+Written Statement............................................    10
+
+Statement by Representative Larry Bucshon, Chairman, Subcommittee
+on Research, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................    11
+Written Statement............................................    11
+
+Statement by Representative Daniel Lipinski, Ranking Minority
+Member, Subcommittee on Research, Committee on Science, Space,
+and Technology, U.S. House of Representatives..................    13
+Written Statement............................................    15
+
+Witnesses:
+
+Mr. Michael Barrett, Chief Information Security Officer, PayPal,
+Inc.
+Oral Statement...............................................    17
+Written Statement............................................    19
+
+Dr. Frederick R. Chang, President and Chief Operating Officer,
+21CT, Inc.
+Oral Statement...............................................    34
+Written Statement............................................    36
+
+Ms. Terry Benzel, Deputy Director, Cyber Networks and Cyber
+Security, USC Information Sciences Institute
+Oral Statement...............................................    46
+Written Statement............................................    48
+
+Discussion.......................................................    62
+
+Appendix I: Answers to Post-Hearing Questions
+
+Mr. Michael Barrett, Chief Information Security Officer, PayPal,
+Inc............................................................    80
+
+Dr. Frederick R. Chang, President and Chief Operating Officer,
+21CT, Inc......................................................    81
+
+Ms. Terry Benzel, Deputy Director Cyber Networks and Cyber
+Security, USC Information Sciences Institute...................    83
+
+Appendix II: Additional Material for the Record
+
+Department of Homeland Security letter submitted by
+Representative Frederica S. Wilson, Ranking Minority Member,
+Subcommittee on Technology, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................    88
+
+National Science Foundation letter submitted by Representative
+Frederica S. Wilson, Ranking Minority Member, Subcommittee on
+Technology, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................    91
+
+CYBERSECURITY RESEARCH AND DEVELOPMENT:
+CHALLENGES AND SOLUTIONS
+
+----------
+
+TUESDAY, FEBRUARY 26, 2013
+
+House of Representatives,
+Subcommittee on Research
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittees met, pursuant to call, at 10:01 a.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Thomas
+Massie [Chairman of the Subcommittee on Technology] presiding.
+
+[GRAPHIC] [TIFF OMITTED] T9926.001
+
+[GRAPHIC] [TIFF OMITTED] T9926.002
+
+[GRAPHIC] [TIFF OMITTED] T9926.003
+
+[GRAPHIC] [TIFF OMITTED] T9926.004
+
+Chairman Massie. This joint hearing of the Subcommittee on
+Technology and the Subcommittee on Research will come to order.
+Good morning. Welcome to today's joint hearing entitled
+``Cybersecurity Research and Development: Challenges and
+Solutions.'' In front of you are packets containing the written
+testimony, biographies, and truth-in-testimony disclosures for
+today's witnesses. Before we get started, since this is a joint
+hearing involving two Subcommittees, I want to explain how we
+will operate procedurally so all Members will understand how
+the question-and-answer period will be handled.
+As always, we will alternate between the majority and
+minority Members and allow all Members an opportunity for
+questioning before recognizing a Member for a second round of
+questions. We will recognize those Members present at the gavel
+in order of seniority on the full Committee, and those coming
+in after the gavel will be recognized in order of arrival. I
+now recognize myself for five minutes for my opening statement.
+We convene the first hearing of the Technology Subcommittee
+and the 113th Congress held jointly with my colleagues on the
+Research Subcommittee. This Subcommittee sits at the
+intersection of technology and innovation and is uniquely
+positioned to address topics affecting competitiveness of
+emerging high-growth industries. I look forward to learning
+from our witnesses today about cybersecurity research and
+development challenges, and I look forward to working with my
+colleagues to determine how we can eliminate barriers to
+entrepreneurship in our country going forward. In these
+difficult times, it is important that we continue to empower
+our Nation's innovators to maintain our economic
+competitiveness.
+I now yield two minutes of my time to the Chairman of the
+full Committee, Mr. Smith of Texas.
+[The prepared statement of Mr. Massie follows:]
+
+Prepared Statement of Subcommittee on Technology
+Chairman Thomas Massie
+
+We convene the first hearing of the Technology Subcommittee in the
+113th Congress, held jointly with my colleagues on the Research
+Subcommittee. This Subcommittee sits at the intersection of technology
+and innovation, and is uniquely positioned to address topics affecting
+competitiveness of emerging high-growth industries. I look forward to
+learning from our witnesses today about cybersecurity research and
+development challenges, and I look forward to working with my
+colleagues to determine how we can eliminate barriers to
+entrepreneurship in our country going forward. In these difficult
+times, it is important that we continue to empower our nation's
+innovators to maintain our economic competitiveness.
+Chairman Smith. Thank you, Mr. Chairman, for yielding me
+the balance of your time.
+Mr. Chairman, the Preamble to the Constitution states that
+one of the primary responsibilities of our Federal Government
+is to provide for the common defense. More than 200 years
+later, the meaning has changed but the task remains the same.
+National defense in the digital age no longer just means
+protecting ourselves with arms against enemies who attack with
+traditional weapons. It now means protecting America from
+enemies who launch cyber attacks against our computers and
+networks.
+Cyber attacks against U.S. Government and private sector
+networks are on the rise. In the last few weeks, some of
+America's largest companies have been hacked. Even the most
+sophisticated companies can be vulnerable to cyber attacks.
+Recent targets include Apple, Facebook, Yahoo!, the New York
+Times, and the Wall Street Journal. Various agencies of the
+Federal Government also have been the target of attacks and
+attempted attacks. Unfortunately, evidence suggests that
+foreign governments may be among those responsible.
+Protecting America's cyber systems is critical to our
+economic and national security. Americans deserve better
+protection, and the Federal Government can help make sensitive
+information more secure. This challenge requires a thorough and
+comprehensive effort in both the public and private sectors.
+Private companies are increasing their investment in
+cybersecurity. Congress should support those efforts. Only
+Congress can provide the incentives and protections that would
+permit necessary information-sharing among companies, and more
+importantly, between private companies and the Federal
+Government.
+Today's hearing examines an important step that we can take
+to foster the kind of cooperation that this challenge requires.
+The Cybersecurity Enhancement Act introduced by Committee
+Members Michael McCaul and Daniel Lipinski coordinates research
+and development activities to better address evolving cyber
+threats. The legislation promotes much-needed research and
+development to help create new technologies and standards that
+better protect America's information technology systems.
+Cyber attacks threaten our national and economic security.
+To solve this problem, America needs a solution that involves a
+cooperation of many public and private sector entities. The
+McCaul/Lipinski legislation helps foster such an effort, which
+will make our computer systems more secure.
+I hope we can learn how to improve the bill today and
+quickly advance it through this Committee.
+Thank you, Mr. Chairman. I yield back the balance of your
+time.
+[The prepared statement of Mr. Smith follows:]
+
+Prepared Statement of Committee Chairman Lamar S. Smith
+
+The preamble to the Constitution states that one of the primary
+responsibilities of our federal government is to ``provide for the
+common defense.'' More than two hundred years later, the meaning has
+changed but the task remains the same.
+National defense in the digital age no longer just means protecting
+ourselves with arms against enemies who attack with traditional
+weapons. It now means protecting America from enemies who launch cyber
+attacks against our computers and networks.
+Cyber attacks against U.S. government and private sector networks
+are on the rise. In the last few weeks, some of America's largest
+companies have been hacked. Even the most sophisticated companies can
+be vulnerable to cyber attacks. Recent targets include Apple, Facebook,
+Yahoo! the New York Times and the Wall Street Journal.
+Various agencies of the federal government also have been the
+target of attacks and attempted attacks. Unfortunately, evidence
+suggests that foreign governments may be among those responsible.
+Protecting America's cyber systems is critical to our economic and
+national security. Americans deserve better protection and the federal
+government can help make sensitive information more secure.
+This challenge requires a thorough and comprehensive effort in both
+the public and private sectors. Private companies are increasing their
+investment in cybersecurity. Congress should support those efforts.
+Only Congress can provide the incentives and protections that would
+permit necessary information sharing among companies, and more
+importantly, between private companies and the federal government.
+Today's hearing examines an important step that we can take to
+foster the kind of cooperation that this challenge requires. The
+Cybersecurity Enhancement Act, introduced by Committee Members Michael
+McCaul and Daniel Lipinski, coordinates research and development
+activities to better address evolving cyber threats. The legislation
+promotes much-needed research and development to help create new
+technologies and standards that better protect America's information
+technology systems.
+Cyber attacks threaten our national and economic security. To solve
+this problem, America needs a solution that involves the cooperation of
+many public and private sector entities. The McCaul-Lipinski
+legislation helps foster such an effort, which will make our computer
+systems more secure.
+I hope we can learn how to improve the bill today and quickly
+advance it through this Committee.
+Chairman Massie. Thank you. The Chair now recognizes Ms.
+Wilson for her opening statement.
+Ms. Wilson. Thank you, Chairman Massie, for holding this
+joint hearing on cybersecurity, and thank you to our witnesses
+for being here today.
+Before I begin, I would like to say that I am pleased to be
+the new Ranking Member of the Technology Subcommittee. As a
+longtime educator, principal, teacher, I am a big believer in
+the power of scientific innovation. Mr. Chairman, I am looking
+forward to working with you this Congress to help enable
+innovation that creates jobs and makes our Nation more secure.
+Today's hearing is a perfect example of the work this
+Subcommittee can do to bolster national security. Cyber crimes
+are ever increasing. In fact, the number of attacks reported by
+federal agencies increased by 782 percent between 2006 and
+2012. The threats to federal systems in our critical
+infrastructure are not only growing in number but in the level
+of sophistication. Over the last month alone, the New York
+Times, the Wall Street Journal, the Washington Post, Twitter,
+and Facebook have all confirmed that they have been the target
+of sophisticated cyber attacks. These crimes may include
+identity theft, intellectual property theft, service
+disruptions, and even espionage.
+We are beginning to suffer the cost of cybercrime. A recent
+study found that cybercrime now costs a U.S. business 8.9
+million on average per year. The problem is so pervasive that
+security experts now joke that there are only two types of
+American companies these days: those that have been hacked and
+those that don't know they have been hacked.
+Earlier this month, the President signed an Executive Order
+that begins the process of strengthening our networks of
+critical infrastructure against cyber attacks by increasing
+information-sharing and establishing a framework for the
+development of standards and best practices. But the President
+also acknowledged that Congress must act to pass comprehensive
+cybersecurity legislation.
+The bipartisan legislation introduced by our colleagues,
+Mr. McCaul and Mr. Lipinski, and under consideration today
+should be a part of this comprehensive package. I am looking
+forward to hearing any recommendations our witnesses might have
+about how to improve the legislation.
+Additionally, I hope to hear more from our witnesses about
+their thoughts on the role the Executive Order outlines for
+NIST. In the past, Congress has asked NIST to bring the private
+sector together to accelerate the development of voluntary
+standards. It seems appropriate that NIST be tasked with the
+similar role in cybersecurity, especially in light of their
+expertise in this field.
+Finally, I would be remiss if I did not mention the
+potential impact sequestration will have on our ability to
+deter, defend, and recover from cyber attacks. In a letter to
+Appropriations, the National Science Foundation indicated that
+vital investments in research and development would be
+jeopardized, and that one of the areas that could be impacted
+by sequestration is research into advances in cybersecurity.
+The Department of Homeland Security Science and Technology
+Directorate plays a large role in the development and
+deployment of cybersecurity technologies. The Directorate has
+indicated that under sequestration, they will have to cut their
+cybersecurity research by 30 percent, eliminating research and
+data, privacy, identity management, cybersecurity forensics,
+and security for cloud-based systems. The need to invest in
+research and development is critical as cyber threats continue
+to grow and involve. I hope we will not let sequestration delay
+and derail these essential investments.
+Thank you, Mr. Chairman, and I yield back the balance of my
+time.
+[The prepared statement of Ms. Wilson follows:]
+
+Prepared Statement of Subcommittee on Technology
+Ranking Minority Member Frederica S. Wilson
+
+Thank you, Chairman Massie for holding this joint hearing on
+cybersecurity, and thank you to our witnesses for being here today.
+Before I begin, I'd like to say that I am pleased to be the new Ranking
+Member of the Technology Subcommittee. As a longtime educator, I am a
+big believer in the power of scientific innovation. Mr. Chairman, I am
+looking forward to working with you this Congress to help enable
+innovation that creates jobs and makes our nation more secure.
+Today's hearing is a perfect example of the work this Subcommittee
+can do to bolster national security. Cyber crimes are ever-increasing.
+In fact, the number of attacks reported by federal agencies increased
+by 782 percent between 2006 and 2012. The threats to federal systems
+and our critical infrastructure are not only growing in number, but in
+the level of sophistication.
+Over the last month alone, The New York Times, The Wall Street
+Journal, The Washington Post, Twitter, and Facebook have all confirmed
+that they have been the target of sophisticated cyber attacks. These
+crimes may include identity theft, intellectual property theft, service
+disruptions, and even espionage.
+We're beginning to suffer the costs of cybercrime. A recent study
+found that cybercrime now costs a U.S. business $8.9 million on average
+per year. The problem is so pervasive that security experts now joke
+that there are only two types of American companies these days: those
+that have been hacked and those that don't know they've been hacked.
+Earlier this month, the President signed an executive order that
+begins the process of strengthening our networks and critical
+infrastructure against cyber attack by increasing information sharing
+and establishing a framework for the development of standards and best
+practices. But the President also acknowledged that Congress must act
+to pass comprehensive cybersecurity legislation.
+The bipartisan legislation introduced by our colleagues Mr. McCaul
+and Mr. Lipiniski, and under consideration today, should be part of
+this comprehensive package. I am looking forward to hearing any
+recommendations our witnesses might have about how to improve the
+legislation. Additionally, I hope to hear more from our witnesses about
+their thoughts on the role the executive order outlines for NIST. In
+the past, Congress has asked NIST to bring the private sector together
+to accelerate the development of voluntary standards. It seems
+appropriate that NIST be tasked with a similar role in cybersecurity--
+especially in light of their expertise in this field.
+Finally, I'd be remiss if I did not mention the potential impact
+sequestration will have on our ability to deter, defend, and recover
+from cyber attacks. In a letter to appropriators, the National Science
+Foundation indicated that ``vital investments in research and
+development would be jeopardized'' and that one of the areas that could
+be impacted by sequestration is research into advances in
+cybersecurity.
+The Department of Homeland Security's Science and Technology
+Directorate plays a large role in the development and deployment of
+cybersecurity technologies. The Directorate has indicated that under
+sequestration they will have to cut their cybersecurity research by 30
+percent, eliminating research in data privacy, identity management,
+cybersecurity forensics, and security for cloud based systems.
+The need to invest in research and development is critical as cyber
+threats continue to grow and evolve. I hope we will not let
+sequestration delay and derail these essential investments.
+Chairman Massie. Thank you, Ms. Wilson. I look forward to
+working with you as well on this Committee.
+The Chair now recognizes the Chairman of the Subcommittee
+on Research, Mr. Bucshon, for his opening statement.
+Mr. Bucshon. Thank you, Mr. Chairman. And good morning to
+everyone. I am pleased that we are holding a hearing today on
+such an important topic.
+According to a recent report published by the Government
+Accountability Office, there were nearly 50,000 cybersecurity
+incidents reported by federal agencies in 2012. Considering
+that number was 5,500 in 2006, there is no doubt that
+addressing cybersecurity needs is critical to global economic
+competitiveness and national security interests of our Nation.
+In December 2012, the Center for Applied Cybersecurity
+Research at Indiana University held a roundtable on cyber
+threats, objectives, and responses. This issue impacts everyone
+from children using the Internet in their homes to government
+and industry officials trying to ensure our domestic
+infrastructure is protected from cyber terrorists.
+During the Research Subcommittee hearing on February 14 on
+Networking and Information Technology Research and Development,
+or NITRD, witnesses testified about the cybersecurity threats
+our Nation faces and emphasized that cooperation is required
+for stakeholders to research and design ways in which to build
+and maintain safer computer network infrastructures. The NITRD
+program, which was the primary subject of that hearing, is the
+coordinating body which the McCaul/Lipinski Cybersecurity
+Enhancement Act appropriately utilizes to establish a strategic
+plan for specific cybersecurity research.
+I am encouraged that the legislation we are discussing
+today enhances the education and development of information
+technology professionals, including those who work in the areas
+of computer systems, computer security, and cybersecurity.
+I look forward to hearing from our witnesses about their
+experiences and their recommendations on addressing America's
+cybersecurity challenges.
+I now yield the balance of my time to Chairman McCaul.
+[The prepared statement of Mr. Bucshon follows:]
+
+Prepared Statement of Subcommittee on Research Chairman Larry Bucshon
+
+According to a recent report published by the Government
+Accountability Office, there were nearly 50,000 cybersecurity incidents
+reported by federal agencies in 2012. Considering that number was 5,500
+in 2006, there is no doubt that addressing cybersecurity needs is
+critical to global economic competitiveness and national security
+interests of our nation.
+In December of 2012, the Center for Applied Cybersecurity Research
+at Indiana University held a ``Roundtable on Cyber Threats, Objectives,
+and Responses.'' This issue impacts everyone: from children using the
+Internet in their homes to government and industry officials trying to
+ensure our domestic infrastructure is protected from cyber terrorists.
+During the Research Subcommittee hearing on February 14 on
+Networking and Information Technology Research and Development (NITRD),
+witnesses testified about the cybersecurity threats our nation faces
+and emphasized that cooperation is required for stakeholders to
+research and design ways in which to build and maintain safer computer
+network infrastructures. The NITRD program, which was the primary
+subject of that hearing, is the coordinating body which the McCaul-
+Lipinski Cybersecurity Enhancement Act appropriately utilizes to
+establish a strategic plan for specific cyber security research.
+I am encouraged that the legislation we are discussing today
+enhances the education and development of information technology
+professionals, including those who work in the areas of computer
+systems, computer security, and cybersecurity.
+I look forward to hearing from our witnesses about their
+experiences and their recommendations on addressing America's
+cybersecurity challenges.
+Mr. McCaul. Thank you, Chairman Bucshon.
+I want to thank Chairman Massie, Chairman Smith, Ranking
+Members Lipinski and Wilson for allowing me to introduce this
+bill once again. Again, I believe this is the third time we
+have introduced this. Hopefully, the third time is a charm and
+we will get this important legislation passed. It passed
+overwhelmingly in two Congresses. I do believe this is the
+Congress where we will get cybersecurity legislation passed
+through the House, the Senate, and signed by the White House.
+It is imperative as we hear reports almost every day of
+hackings taking place not only within the critical
+infrastructures but within our Federal Government. The report
+about the Chinese military hacking into our military systems,
+stealing our military secrets, the attacks recently from Iran
+against Aramco in the Persian Gulf and against our financial
+institutions in the United States, and of course Russia, one of
+the most sophisticated countries that continue to hack this
+country on a daily basis.
+Whether it is criminal, whether it is espionage, or whether
+it cyber warfare, we cannot afford to wait any longer. The
+White House has acted through an Executive Order. I think it is
+imperative now that the Congress act and legislate as we are
+supposed to be doing. It is not a question of if, but when the
+next--or when a cyber Pearl Harbor will occur. And that is why
+I have worked very closely with my good friend Congressman
+Lipinski to bolster our Nation's cybersecurity research and
+development.
+On February the 15th, we introduced this bill once again,
+H.R. 756, the Cybersecurity Enhancement Act, which is identical
+to the legislation passed overwhelmingly by the House last
+Congress. It improves the coordination in government providing
+for a strategic plan to assess the cybersecurity risk and guide
+the overall direction of the federal cyber research and
+development. It updates--and this responsibility is to develop
+security standards for Federal computer systems and processes
+for agencies to follow.
+Our bill also establishes a federal university private
+sector task force to coordinate research and development,
+improving the training of cybersecurity professionals, and
+continues much-needed cybersecurity research and development
+programs at the National Science Foundation and the National
+Institute of Standards and Technology.
+Again, I would like to thank my colleague Chairman Smith
+for allowing me to introduce this bill once again. I appreciate
+your support for this bill, my colleague from Texas. And I look
+forward to working with my colleagues on this Committee to find
+solutions to the challenges of cyber research and development.
+And with that, I yield back.
+Chairman Massie. Thank you, Mr.----
+Mr. Bucshon. I yield back.
+Chairman Massie. Okay. Thank you, Mr. McCaul. And thank
+you, Mr. Bucshon.
+The Chair now recognizes Mr. Lipinski for his opening
+statement.
+Mr. Lipinski. Thank you, Chairman Massie.
+I want to thank you, Chairman Smith and Chairman Bucshon,
+for holding this hearing to examine the serious cybersecurity
+challenges faced by our Nation and what we can do to facilitate
+solutions, including the Cybersecurity Enhancement Act that Mr.
+McCaul said we recently reintroduced and I know that we have
+passed this overwhelmingly in a Democratic House. In a
+Republican House, hopefully, this time we can get it all the
+way through because our country especially needs it as the
+threats grow every year.
+Now, I want to echo my colleague's remarks about the nature
+and severity of the challenges we face in cybersecurity in both
+the public and private sectors. Four years ago, when we began
+working on this legislation, I said I had no doubt that our use
+of the Internet and other communication networks would continue
+to grow and evolve, and that threats from individual hackers,
+criminal syndicates, and even other governments would grow and
+evolve, too. Today, it remains difficult to imagine just how
+much more we will simultaneously benefit from and be made more
+vulnerable by information technology.
+Hacking is no longer just a realm of computer whizzes.
+Today, anyone can rent a botnet or gain access to other
+sophisticated hacking tools with just a few keystrokes and less
+than $100.
+Cybercrime threatens our national security, our critical
+infrastructure, businesses of all sizes, and every single
+American. As such, reducing our risk and improving the security
+of cyberspace will take the collective effort of both the
+Federal Government and the private sector, as well as
+scientists, engineers, and the general public.
+With respect to that collective effort, I need to emphasize
+the importance of research into the social and behavioral
+aspects of cybersecurity. People are perhaps the most
+significant part of our IT infrastructure, but they are also
+the weakest link. Many cyber attacks are successful because of
+human error, bad cyber hygiene such as unwittingly opening a
+malicious email. Having the most sophisticated security systems
+available won't make any difference if users don't change
+factory sets of all passwords or if they set easy-to-crack
+passwords. Understanding the human element and educating users
+to practice good cyber hygiene is necessary to combating
+threats and reducing risk.
+Mr. McCaul and I are hopeful that our R&D bill will be part
+of a comprehensive bipartisan cybersecurity bill. Previous
+efforts to move a larger bill have stalled over some
+significant policy disagreements, but I am hopeful that we will
+be able to resolve our differences and I look forward to
+working with both my colleagues and the Administration to
+ensure the development of a strong cybersecurity strategy this
+Congress.
+However, I am also concerned that top-line cuts to our
+federal R&D budgets will have a negative impact on any long-
+term cybersecurity strategy. So we must also take actions to
+mitigate the impact of those cuts.
+Today, we will hear from witnesses who are actively engaged
+in efforts to improve the security of our digital
+infrastructure. I look forward to their valuable insights and
+the challenges we face in tackling this complex issue and the
+role of cybersecurity R&D and education in any comprehensive
+solutions.
+I thank you, Mr. Chairman. I yield back the balance of my
+time.
+[The prepared statement of Mr. Lipinski follows:]
+
+Prepared Statement of Subcommittee on Research
+Ranking Minority Member Daniel Lipinski
+
+I want to thank both Chairman Massie and Chairman Bucshon for
+holding this hearing to examine the serious cybersecurity challenges
+faced by our nation. In particular, I look forward to hearing feedback
+from our witnesses on H.R. 756, The Cybersecurity Enhancement Act, that
+I recently reintroduced along with Mr. McCaul.
+I echo my colleagues' remarks about the nature and severity of the
+challenges we face in cybersecurity in both the public and private
+sectors. Four years ago when I began working on this legislation I said
+that I had no doubt that our use of the Internet and other
+communication networks would continue to grow and evolve, and that
+threats from individual hackers, criminal syndicates, and even other
+governments would grow and evolve too.
+Today it remains difficult to imagine just how much more we will
+simultaneously benefit from, and be made more vulnerable by,
+information technology. Hacking is no longer just the realm of computer
+whizzes. Today, anyone can ``rent'' a botnet or gain access to other
+sophisticated hacking tools with just a few key strokes and less than a
+hundred dollars.
+Cybercrime threatens our national security, our critical
+infrastructure, businesses of all sizes, and every single American. As
+such, reducing our risk and improving the security of cyberspace will
+take the collective effort of both the Federal government and the
+private sector, as well as scientists, engineers, and the general
+public.
+With respect to that collective effort, I need to emphasize the
+importance of research into the social and behavioral aspects of
+cybersecurity. People are perhaps the most significant part of our IT
+infrastructure, but they are also the `weakest link.' Many cyber
+attacks are successful because of human error--bad cyber hygiene--such
+as unwittingly opening a malicious email. Having the most sophisticated
+security systems available won't make any difference if users don't
+change factory-set default passwords or they set easy to crack
+passwords. Understanding the human element and educating users to
+practice good cyber hygiene is necessary to combating threats and
+reducing risk.
+Mr. McCaul and I are hopeful that our R&D bill will be part of a
+comprehensive, bipartisan cybersecurity bill. Previous efforts to move
+a larger bill have stalled over some significant policy disagreements,
+but I am hopeful that we will be able to resolve our differences and I
+look forward to working with both my colleagues and the Administration
+to ensure the development of a strong cybersecurity strategy this
+Congress.
+However, I am also concerned that top line cuts to our federal R&D
+budgets will have a negative impact on any long-term cybersecurity
+strategy. So we must also take actions to mitigate the impact of those
+cuts.
+Today, we will hear from witnesses who are actively engaged in
+efforts to improve the security of our digital infrastructure. I look
+forward to their valuable insight into the challenges we face in
+tackling this complex issue and the role of cybersecurity R&D and
+education in any comprehensive solution.
+Chairman Massie. Thank you, Mr. Lipinski.
+If there are Members who wish to submit additional opening
+statements, your statements will be added to the record at this
+point.
+It is now time to introduce our panel of witnesses. I yield
+to Ms. Lofgren of California, who will introduce our first
+witness.
+Ms. Lofgren. Well, thank you very much, Mr. Chairman. And
+it is indeed an honor to introduce Michael Barrett, who is the
+Chief Information Security Officer for PayPal, located in San
+Jose, California. He is the, as I say, the Chief Information
+Security Officer for PayPal, and in his role, he is responsible
+for ensuring the security of PayPal's 113 million users
+worldwide.
+Prior to joining PayPal, he was Vice President of Security
+and Utility Strategy at American Express, where he helped
+defined the company's Information Security Program, and in
+prior years, he was President of the Liberty Alliance, an Open
+Standards Consortium focused on identity management standards
+and guidelines. He was the driving force behind the
+introduction and standardization of the Alliance's federated
+identity concepts, and he also co-chaired its Identity Threat
+Prevention Working Group.
+He was twice named one of the 50 most powerful people in
+networking by Network World magazine, and it is wonderful that
+he is testifying today about our bill that focuses on NIST and
+NSF, but I am also pleased that he has identified in his
+testimony certain outdated statutes like EPCA, the Electronic
+Communications Privacy Act, that have prevented anti-
+cybercrime-related programs, which is also an important service
+that he is performing for the Committee today.
+So thank you for letting me introduce this important
+witness who comes from back home.
+And I yield back.
+Chairman Massie. Thank you, Ms. Lofgren.
+I recognize Chairman Smith to introduce our second witness.
+Chairman Smith. Thank you, Mr. Chairman.
+Chairman, our second witness, Dr. Frederick Chang, is a
+President and Chief Operating Officer of 21CT. 21CT
+appropriately is headquartered within Texas' 21st Congressional
+District, which is home to Cyber City USA, otherwise known as
+San Antonio, thanks in part to technology organizations like
+Dr. Chang's.
+Dr. Chang brings to us today with 30 years of public and
+private sector cybersecurity knowledge serving as the Director
+of Research at the National Security Agency and then in an
+executive role at SBC Communications. Additionally, he has
+served in academia at both the University of Texas in San
+Antonio and the University of Texas in Austin. He received his
+B.A. degree from the University of California San Diego and
+both his M.A. and Ph.D. degrees from the University of Oregon.
+We welcome you, Dr. Chang.
+And I yield back, Mr. Chairman.
+Chairman Massie. Thank you, Chairman Smith.
+Our final witness is Ms. Terry Benzel, the Deputy Director
+of Cyber Networks and Cyber Security of the USC Information
+Sciences Institute.
+As our witnesses should know, spoken testimony is limited
+to five minutes each after which Members of the Committee have
+five minutes each to ask questions. Your written testimony will
+be included in the record of this hearing.
+I now recognize our first witness, Mr. Michael Barrett, for
+five minutes.
+
+STATEMENT OF MR. MICHAEL BARRETT,
+
+CHIEF INFORMATION SECURITY OFFICER, PAYPAL, INC.
+
+Mr. Barrett. Chairman Bucshon, Chairman Massie, Ranking
+Member Lipinski, Ranking Member Wilson, and Members of the
+Subcommittee, thank you for the opportunity to testify today
+about what PayPal and the eBay Inc. family of companies are
+doing to protect our users from the growing cybersecurity
+challenges facing Internet-enabled companies and what our
+Nation's policymakers can do to assist us in tackling these
+problems.
+My name is Michael Barrett and I am the Chief Information
+Security Officer for PayPal. EBay and PayPal connects millions
+of buyers and sellers across the globe through eBay
+Marketplaces, PayPal, GSI, and other mobile-based businesses.
+And we believe all sustainable 21st century retail business
+models will use the Internet and mobile technology. However, as
+the Internet and mobile platforms become more attractive to
+consumers and businesses alike, they also attract criminals.
+Companies like PayPal will continue to work to protect the
+safety and security of our platform and our users.
+However, we believe that the traditional technical measures
+alone cannot significantly move the trend line and that there
+are concrete steps that industry and policymakers should take
+to significantly mitigate the impact of cybercrime. For
+example, on a daily basis Internet companies are run into sites
+where they have been compromised and they are used as
+``phishing'' or ``spoof sites.''
+Recognizing the growing threat, PayPal launched an industry
+standards program called DMARC, which is intended to increase
+trust and combat email deception and fraud. DMARC allows
+senders to experience consistent authentication results for
+their messages at AOL, Gmail, Hotmail, Yahoo!, and any other
+email receiver implementing DMARC. The program removes the
+guesswork from the receiver's handling of any failed messages,
+limiting or eliminating the user's exposure to potentially
+fraudulent and harmful messages. In its first year, DMARC
+protected 60 percent of the world's email inboxes and rejected
+hundreds of millions of potentially fraudulent messages.
+In addition to email authentication, we have also been
+engaged in efforts to create a reliable identity management
+system. We have participated in two different programs: the
+National Strategy for Trusted Identities in Cyberspace (NSTIC)
+and the Fast Identity Online Alliance, or FIDO.
+NSTIC is a White House initiative led by the National
+Institute of Standards and Technology, which is intended to
+work collaboratively with all interested stakeholders to
+improve the privacy, security, and convenience of sensitive
+online transactions. PayPal will be offering more services to
+our customers over the coming months that directly support both
+the NSTIC vision, which we expect will result in many new
+benefits to both our customers and the Internet overall.
+PayPal was also one of the cofounders of the FIDO Alliance,
+which is intended to address the lack of interoperability among
+strong authentication solutions, as well as the problems users
+face with creating and remembering multiple usernames and
+passwords. By giving the option to replace passwords with
+authentication methods embedded in hardware, it can be used in
+biometric tools such as fingerprint scanners, voice and facial
+recognition, or more traditional security methods. Our goal is
+to provide an easier and safer solution to every company,
+vendor, and organization that needs to verify a user's
+identity.
+Although it is the responsibility of industry leaders like
+PayPal to ensure the safety and security of our platforms and
+our users, federal policymakers have an important role to play
+in creating a secure Internet and mobile ecosystem. What we
+have found from our years of combating cybercrime is that
+quantifying the forecast is difficult, if not impossible,
+because many incidents are not reported. Estimates of the
+magnitude and scope of cybercrime vary widely, making it
+difficult for policymakers and industry to fully understand the
+problem and the level of effort that will be needed to combat
+it.
+We recommend that policymakers fund some research that
+helps fill some of the information gaps that currently exist as
+it relates to cybercrime. We believe that this research will be
+a critical tool in arming policymakers, law enforcement, and
+industry against the growing threat of cybercrime.
+In addition, PayPal appreciates the bipartisan efforts of
+the Committee to create a legislative framework that creates
+innovative solutions to issues such as cybersecurity R&D,
+education and workforce training, and standards development.
+Importantly, it achieves these ends without creating undesired
+side effects, and we welcome the opportunity to work with the
+Committee on these priorities.
+To conclude, it is our hope that in the years to come the
+challenges we face today from cybercrime will be a faint
+memory. But until then, PayPal is committed to partnering with
+policymakers and private and public stakeholders to ensure that
+everything we do in our power to create an ecosystem that is
+safe and secure.
+I appreciate the opportunity to testify before the
+Committee and I look forward to your questions.
+[The prepared statement of Mr. Barrett follows:]
+
+[GRAPHIC] [TIFF OMITTED] T9926.005
+
+[GRAPHIC] [TIFF OMITTED] T9926.006
+
+[GRAPHIC] [TIFF OMITTED] T9926.007
+
+[GRAPHIC] [TIFF OMITTED] T9926.008
+
+[GRAPHIC] [TIFF OMITTED] T9926.009
+
+[GRAPHIC] [TIFF OMITTED] T9926.010
+
+[GRAPHIC] [TIFF OMITTED] T9926.011
+
+[GRAPHIC] [TIFF OMITTED] T9926.012
+
+[GRAPHIC] [TIFF OMITTED] T9926.013
+
+[GRAPHIC] [TIFF OMITTED] T9926.014
+
+[GRAPHIC] [TIFF OMITTED] T9926.015
+
+[GRAPHIC] [TIFF OMITTED] T9926.016
+
+[GRAPHIC] [TIFF OMITTED] T9926.017
+
+[GRAPHIC] [TIFF OMITTED] T9926.018
+
+[GRAPHIC] [TIFF OMITTED] T9926.019
+
+Chairman Massie. I now recognize our next witness, Dr.
+Frederick Chang.
+
+STATEMENT OF DR. FREDERICK R. CHANG,
+
+PRESIDENT AND CHIEF OPERATING OFFICER, 21CT, INC.
+
+Dr. Chang. Chairman Massie, Chairman Bucshon, Chairman
+Smith, Ranking Member Wilson, Ranking Member Lipinski, Members
+of the Subcommittees, thank you for the opportunity to testify
+before you today on the hearing on the topic of cyber R&D
+challenges and solutions.
+My name is Frederick R. Chang and I am currently the
+President and COO of 21CT, Inc., a small high-tech company in
+Austin, Texas. In prior positions, I have served as the
+Director of Research at the National Security Agency, in
+academia at the University of Texas--at both the San Antonio
+and Austin campuses, and in the telecommunications industry.
+I would also mention that I have served as a member of the
+CSIS Commission on Cybersecurity for the 44th Presidency, and I
+am currently a member of the Texas Cybersecurity Education and
+Economic Development Council.
+I do not have to tell you that we are under attack in
+cyberspace. Those of us in the field of security have known
+about it for some time now, but now the problem has broadened
+and deepened its scope. Our friends know, our neighbors know,
+our kids know.
+The field of cybersecurity is too reactive and after-the-
+fact. We wait for something bad to happen and then we respond.
+We lack the fundamental scientific understanding of causes, of
+solutions, of countermeasures. Science uses words like
+evidence, metrics, repeatability, predictability. In
+cybersecurity these words are not used often enough. Indeed,
+when it comes to predictability, about the only thing we can
+predict with a high degree of confidence is that a determined
+hacker will be able to compromise the target system.
+At the turn of the 20th century, life expectancy in the
+United States was a little over 47 years. A century later, it
+was nearly 77 years. Why did this happen? A large part of the
+improvement can be traced to advances in public health and an
+improved understanding of the science of infectious diseases.
+After World War II, scientists isolated causes and developed
+solutions for diseases like polio, measles, and chickenpox. I
+am not arguing that the cybersecurity problem today is as bad
+as polio was in the '40s and '50s, but I am suggesting that we
+know how to make a dent in the problem.
+It won't be easy because the problem is truly a daunting
+one against a highly adaptive adversary. I believe that a broad
+and interdisciplinary approach will be necessary. I offered a
+few ideas in my written testimony.
+One of the major obstacles to more progress in
+cybersecurity is a lack of qualified and well-trained
+professionals in the field. Just as a generation of students
+became fascinated by and intellectually curious about space,
+science, and engineering after the launch of Sputnik, we need
+for that to happen now for a new generation of students about
+cyberspace science and engineering.
+The skills gap comes up time and time again. It was a key
+issue in our work on the CSIS Cybersecurity Commission co-
+chaired by Congressman McCaul and Congressman Langevin, and it
+was a key issue in our work on the Texas Cybersecurity Council.
+And representing a small company with ongoing demand for
+highly technical cyber hires, it is a constant challenge for us
+to identify and recruit the necessary expertise. Not only do we
+need a long-term pipeline of well-trained students to fill the
+many jobs that will be necessary, but the demand is
+particularly acute with respect to the requirement for the
+extremely deep technical skills needed to operate at the very
+highest levels.
+In a CSIS Commission report from 2010, there was an
+estimate that we have about 1,000 deeply technical people in
+the United States who can operate at the most elite levels but
+that we need something like 10,000 to 30,000. The report went
+on to say we not only have a shortage of the highly technically
+skilled people required to operate in support systems already
+deployed, but also and even more desperate--a more desperate
+charge of people who can design secure systems, write safe
+computer code, and create the evermore sophisticated tools to
+prevent, detect, mitigate, and reconstitute from damage due to
+system failures and malicious acts.
+The legislation in H.R. 2096 places front and center two of
+the items I believe are central to making more progress in
+improving the Nation's cybersecurity posture: research and
+development and cybersecurity workforce development.
+Let me close by saying that I have suggested some things in
+my testimony that will take a long time to implement. For
+example, producing a long-term, robust, and deeply technical
+cybersecurity workforce or creating a science of cybersecurity
+could take decades.
+I am reminded of an old proverb. The best time to plant a
+tree was 20 years ago. The second best time is now. It is my
+sincere hope that 20 years from now we can look back at this
+time and say that this is when we began to turn the tables on
+our cyber adversaries and took the advantage back.
+Thank you again for the opportunity to speak with you
+today.
+[The prepared statement of Dr. Chang follows:]
+
+[GRAPHIC] [TIFF OMITTED] T9926.020
+
+[GRAPHIC] [TIFF OMITTED] T9926.021
+
+[GRAPHIC] [TIFF OMITTED] T9926.022
+
+[GRAPHIC] [TIFF OMITTED] T9926.023
+
+[GRAPHIC] [TIFF OMITTED] T9926.024
+
+[GRAPHIC] [TIFF OMITTED] T9926.025
+
+[GRAPHIC] [TIFF OMITTED] T9926.026
+
+[GRAPHIC] [TIFF OMITTED] T9926.027
+
+[GRAPHIC] [TIFF OMITTED] T9926.028
+
+[GRAPHIC] [TIFF OMITTED] T9926.029
+
+Chairman Massie. Thank you, Dr. Chang.
+I now recognize our final witness, Ms. Terry Benzel.
+
+STATEMENT OF MS. TERRY BENZEL,
+
+DEPUTY DIRECTOR CYBER NETWORKS AND CYBER SECURITY,
+
+USC INFORMATION SCIENCES INSTITUTE
+
+Ms. Benzel. Thank you, Chairman Massie, Ranking Member
+Wilson, Chairman Bucshon, Ranking Member Lipinski, and Members
+of the Subcommittees. I am pleased to offer my perspective on
+cyber R&D challenges and solutions based on 30 years in the
+cybersecurity community.
+I bring an interesting perspective stemming from Principal
+at a startup company, Vice President at McAfee Software, and
+now the Deputy Director of our Cyber Networks and Cyber
+Security Division at the Information Sciences Institute, a
+research lab with the University of Southern California's
+Viterbi School where I direct the DETER project, a
+cybersecurity research, experimentation, and test facility.
+I would like to address four key points today: one, the
+importance of broadening the purview of cybersecurity R&D; two,
+the importance of research infrastructure for experimental
+cybersecurity R&D; three, the importance of new models for
+technology transfer from university research into commercial
+practices and products; and four, the importance of higher
+education for developing next-generation cybersecurity
+researchers and technologies.
+Let me start with the importance of broadening the purview
+of cybersecurity R&D. All too often our research is narrowly
+focused on single topics. For example, we have many people
+conducting excellent research in distributed denial of service,
+worms, botnets, and Internet routing, each studied individually
+and deeply. But believe me, our adversaries are not looking
+narrowly. In fact, they are looking at the combinations of
+these different kinds of threats and vulnerabilities, as well
+as combining that with cyber physical systems and social
+engineering.
+We can no longer afford to look narrowly at the hard
+problems. Even more so, cybersecurity is no longer solely an
+engineering discipline. We must involve economists,
+sociologists, anthropologists, and other disciplines. While
+there has been some progress in these areas by the National
+Science Foundation, DHS S&T, and others, my first
+recommendation is we must increase the breadth and scope of
+strategic cyber R&D and increase opportunities for
+multidisciplinary research.
+Let me next address the need for research infrastructure
+for cyber R&D. Historically, we have struggled to prove the
+value of security technologies. Security is often viewed as the
+absence of something bad happening. I didn't get broken into,
+so I must be secure. When I was a Vice President at McAfee
+Software, I visited large customers--banking, manufacturing,
+and retail--and I was always asked about return on investment,
+how much to spend and how best to leverage cybersecurity
+investments. The truth is we had no easy answers except, of
+course, to buy our products.
+We need to be able to conduct science-based cyber
+experimentation and tests just as in other scientific
+disciplines, real hypothesis-based testing, what-if scenarios,
+repeatable, demonstrable results. We provide this in the DHS-
+and NSF-funded DETER project where we provide tools and
+methodologies for researchers to live in the future creating
+new capabilities not yet imaginable. We must as a Nation create
+a paradigm shift in experimental cybersecurity. While NSF, DHS
+S&T, DOE, and DARPA have all invested in cyber testbeds and
+ranges, the results are uneven and not widely available.
+And this brings me to my second recommendation. Formulate a
+research strategy agenda to develop a broad multi-
+organizational cybersecurity experimentation and testing
+capability.
+Let me now address technology transfer. We have had major
+investments over the last 20 to 30 years, yet we are still
+inadequately prepared. Much research fails to see the light of
+day. While historically we have had insufficient awareness of
+the complexity of cybersecurity tech transfer, we have had
+scattershot approaches to cyber R&D, and a mismatch between
+markets and threats. To address these growing demands, it is
+imperative we create new models of technology transfer where
+the government-funded efforts help steer strategic
+cybersecurity R&D and their new university public partnerships.
+As I have said already, we need to finally have education.
+More than just training, we need to educate the next generation
+of researchers and technologists and we need to do this by
+offering hands-on exercises and educational opportunities.
+Let me summarize. We are beginning to see progress in all
+of these areas. NSF, DHS, and others deserve recognition for
+the focus they have brought to strategic programs. However, the
+current steps are not enough. We are lacking by orders of
+magnitude. In order to shift the dynamic in the battlefield,
+the Security Enhancement Act of 2013 includes provisions for
+these recommendations. Taken together, the four recommendations
+I have outlined today form a basis for multipronged,
+sustainable, national projects to address R&D challenges, and I
+urge you to take action now. Thank you for your time.
+[The prepared statement of Ms. Benzel follows:]
+
+[GRAPHIC] [TIFF OMITTED] T9926.030
+
+[GRAPHIC] [TIFF OMITTED] T9926.031
+
+[GRAPHIC] [TIFF OMITTED] T9926.032
+
+[GRAPHIC] [TIFF OMITTED] T9926.033
+
+[GRAPHIC] [TIFF OMITTED] T9926.034
+
+[GRAPHIC] [TIFF OMITTED] T9926.035
+
+[GRAPHIC] [TIFF OMITTED] T9926.036
+
+[GRAPHIC] [TIFF OMITTED] T9926.037
+
+[GRAPHIC] [TIFF OMITTED] T9926.038
+
+[GRAPHIC] [TIFF OMITTED] T9926.039
+
+[GRAPHIC] [TIFF OMITTED] T9926.040
+
+[GRAPHIC] [TIFF OMITTED] T9926.041
+
+[GRAPHIC] [TIFF OMITTED] T9926.042
+
+[GRAPHIC] [TIFF OMITTED] T9926.043
+
+Chairman Massie. Thank you, Ms. Benzel.
+I thank all the witnesses for their testimony today.
+Reminding Members that Committee rules limit questioning to
+five minutes, the Chair will at this point open the round of
+questions. And I now recognize myself for five minutes.
+Mr. Barrett, as a representative of private industry, it
+was good to hear you acknowledge that it is PayPal's
+responsibility to ensure security for PayPal's customers. But
+you alluded to some gaps in the research that exists and that
+there might be a role for the Federal Government to fund
+research in these gaps. Can you motivate the need for federal
+funding in this area and then also talk about what some of
+those gaps are?
+Mr. Barrett. Yes, I alluded to this problem a little bit in
+my oral testimony. Essentially, we have a problem at the moment
+which is we actually don't know how bad the problem is. We--it
+sounds perverse to say it that way, but essentially, there are
+hugely disparate estimates that you see flying around in
+various publications of the scale of the problem. Everybody
+agrees it is getting worse, but I have three rhetorical
+questions that I would like to ask and they are significant
+ones. And actually, at the moment, I defy anybody to answer
+them.
+So again, I am purely talking about cybercrime, not cyber
+terrorism or cyber warfare. So I work for a commercial
+enterprise so we have a narrow worldview.
+So the questions are these: how much money is lost to
+cybercrime on an annual basis in the United States alone? And I
+am not talking about how much money people like me spend on
+running a defensive team. I am actually talking about dollars
+that our customers--and therefore we--lose. So that is question
+one.
+Question two is where does it go? Is it all going back into
+the United States or is it going overseas? And what are the
+distributions of country? Now, various people in my industry
+have various hypotheses about where it is going, and certainly,
+my team has all sorts of interesting hypotheses. But
+fundamentally, it is unsupported by large-scale data.
+And then finally, do those countries actually have good
+programs themselves to manage cybersecurity, and do they in
+fact prosecute cyber criminals? Do they even recognize
+cybercrime violations as being violations of law or are they
+just oh, well? It is kind of the equivalent of doing some
+antisocial act and there are no consequences.
+We have no answers to those questions today and they are
+really important ones that I think are at the heart of what the
+Federal Government could do to help understand the problem
+better.
+Chairman Massie. Thank you.
+My next question is for Ms. Benzel.
+In this bill we are contemplating expanding funding at
+universities which are typically open universities where
+sharing is encouraged. And you mentioned the DeterLab at your
+institution, which is funded by DHS and DOD I think. Can you
+tell us or give us some level of comfort that we wouldn't be
+funding efforts that could then be used by our adversaries?
+Thank you.
+Ms. Benzel. Being part of a major university and having a
+deep faith in the need for education, we do run an open
+facility. It is funded, as I said, by Department of Homeland
+Security. And so the DeterLab is a national--and yes--it is an
+international resource that is available for anyone to be able
+to use. Obviously, we vet our users. Our approach within the
+DETER system is to be looking at defenses. And defenses need to
+be something that can be openly developed. Looking at security
+by obscurity is sure to get us into trouble.
+Now, having said that, I am being a deep believer in being
+able to educate our next generation and to do publications, et
+cetera, there are opportunities to do research in other
+environments which might be more closed and might be providing
+some classified support for. But we advocate an openness in
+educating the next generation. Thank you.
+Chairman Massie. Thank you very much. DeterLab makes a lot
+more sense than DeterLab.
+Ms. Benzel. We do try and deter the attackers as we say.
+Thank you.
+Chairman Massie. Okay. I now recognize Ranking Member Ms.
+Wilson for five minutes.
+Ms. Wilson. Thank you, Mr. Chairman. Mr. Chairman, as
+outlined in my opening statement, a few of the agencies within
+our Committee's jurisdiction have indicated that sequestration
+could impact their cybersecurity research and development
+portfolios. I would like to place two letters in the record,
+one from NSF and one from DHS, detailing those potential
+impacts.
+To all, in his testimony, Dr. Chang recommends that the
+legislation raise the trajectory of cybersecurity research and
+development spending from its historical levels because it
+would create long-term benefits in our effort to improve the
+Nation's cybersecurity posture. As you are all likely aware,
+sequestration is set to take effect on Friday. Sequestration
+will cut federal R&D budgets by 8.2 percent, and agencies like
+NSF and DHS have indicated that research in cybersecurity may
+be affected.
+How would the security posture of the United States be
+impacted if sequestration were to take effect and cybersecurity
+research and development was significantly cut? Dr. Chang?
+Dr. Chang. In the 2010 CSIS report, we reported a number of
+about 2/10 of one percent of the federal R&D budget was spent
+on cybersecurity. And I looked recently. That number is just a
+little bit larger now. If you think about the priorities that
+the Nation is now placing on cybersecurity, the fact that it is
+something less than one percent seems to be a small number. It
+is not for me to determine what the priorities are but that
+just strikes me as a sort of a low number.
+I guess I am suggesting that it needs to be a long-term
+prospect. I mentioned this analogy with planting trees. I am
+suggesting that we need to plant a few trees to place some bets
+on some research issues that are going to build over time.
+Research certainly won't guarantee answers, but as I mentioned
+as related to infectious diseases, we need to understand
+causes. We need to understand solutions. We need to understand
+countermeasures. We know how to do it. We have done it before.
+We have gone after large public programs before. And my
+suggestion is research is required to make some long-term bets
+and begin changing the vector on what the defensive posture
+looks like.
+Ms. Wilson. Ms. Benzel?
+Ms. Benzel. Yes, I think that we have begun to see some
+progress in the funding, of course, at a very small level as
+Dr. Chang says in being strategic about our cybersecurity R&D.
+If we are to slow that down as a result of funding cuts with
+sequestration, then we have set ourselves back. We are already
+on the losing end of an asymmetric battle. And giving our
+adversaries another year to gain a leg up while we fight our
+own internal budget is only going to make the situation much
+worse.
+You know, as it is with funding cycles with places like the
+National Science Foundation it takes close to a year from the
+time I, as a researcher, have an idea, submit that idea, and
+get a contract. And so again introducing another delay as a
+result of the budget battles is only going to set us back. And
+in particular, a point in time when these agencies have become
+much more strategic, better coordinated, and better focused in
+their research. We have researchers in the pipeline. We have
+projects that are happening today, and we can't afford to stop
+them, slow them down, or lessen and weaken their effects while
+the adversaries are on a dramatic increase as we have seen
+recently.
+The change that we see in the adversarial landscape in the
+last year is ten times what we saw in the ten years before. And
+so any gap in funding is going to be extremely detrimental.
+Thank you.
+Ms. Wilson. Thank you, Mr. Chair.
+Chairman Massie. On the gentlelady's request to include two
+letters in the record?
+Ms. Wilson. I have them.
+Chairman Massie. Without objection, so ordered.
+[The information appears in Appendix II]
+Chairman Massie. I now recognize Chairman Bucshon for five
+minutes.
+Mr. Bucshon. Thank you, Mr. Chairman.
+And there has been some emphasis on the importance of
+social science research and cybersecurity, among other areas,
+partly because so much security has to do with human behavior.
+And the Cybersecurity Enhancement Act supports this type of
+work in Section 104 of the legislation.
+The question is--I will direct this to Mr. Barrett first--
+is--let me say a couple of things that have been funded
+recently--$1.2 million to pay seniors to play video games,
+$764,825 to study how college students use mobile devices for
+social networking. So with these type of things being funded,
+how should we prioritize social science research conducted by
+the National Science Foundation to ensure that such work is
+focused on critical national needs such as cybersecurity?
+Mr. Barrett. I am not sure whether it is necessarily proper
+for me to have an opinion on how Congress should prioritize the
+work of the National Science Foundation, but I do think there
+are key research gaps, and certainly, in a number of areas in
+part about cybersecurity education, which is woefully lacking
+across the spectrum from young kids up through college-level
+curricula and various different levels. As Dr. Chang alluded
+earlier, we don't frankly have enough information security
+professionals in the field. There is essentially a major skills
+shortage there. There was basically zero unemployment in my
+field throughout the recession. And that in its own right is
+saying something.
+Very clearly, there is a lot of work that can be done in
+understanding behavior around how people interact with
+computers from a security perspective. And that certainly is a
+topic worthy of research. Because if you don't understand how
+people use the computers, especially for security tasks, then
+it is very hard to see what you can do with them. But I
+should----
+Mr. Bucshon. Yes, thank you very much. And again, the
+Cybersecurity Enhancement Act supports this type of work.
+Dr. Chang, do you have anything to add?
+Dr. Chang. I do. Thank you. I mention in my written
+testimony that cybersecurity is a wicked problem, wicked not
+meaning evil but wicked being resilient to solution. A
+characteristic of the wicked problem is that what you believe
+is a solution may actually make things worse. As it relates to
+that kind of the human component, I am reminded of a concept
+known as risk homeostasis, and that is basically the idea that
+people have sort of a risk level that they generally operate
+at, and if they believe that something is now more safe, they
+will actually act riskier.
+There are some classic experiments showing that when taxi
+drivers are given better safety on their taxicabs, let us say
+antilock brakes, you would think that the incidents of
+accidents would actually go down because the cars are safer,
+you can steer better and stuff at high speeds. It turns out
+that the level of accidents might actually go up a little bit
+because the taxi driver started thinking they were safe and
+started driving faster and causing more accidents.
+Same thing might be happening in cybersecurity such that
+you are actually making--you are telling the user that they are
+actually now more safe. When they think now I am more safe, and
+now I am going to start doing riskier things. And so it is just
+a sort of very complex thing where you have the best intention
+that a solution is making something better but it actually
+makes it worse.
+Mr. Bucshon. Thank you. And this will be directed at Ms.
+Benzel. I am a parent. I have kids. And I know how my kids
+almost shut down one of my computers, essentially a black
+screen. I had to get a computer guy to come out and get it
+back, and there were literally hundreds of viruses and Trojans
+and everything else. So I mean I am amazed at what children can
+do on a computer. And however, there are threats that are
+directed at all of us through children. Does the current
+parental control technology adequately protect minors against
+this type of threat if used properly or are there areas of
+research and developmental efforts to address this?
+Ms. Benzel. Yes, I would have to say I am not a particular
+expert in the current set of parental control technology that
+is out there. I believe that looking at how we model the human
+behavior and understanding, as Dr. Chang said, the relationship
+between the way people use their computers. And I am just as
+concerned about our children as we are to the seniors or the
+uneducated users. And so I believe that we do need to advance
+that technology, but I would have to get back to you on the
+state-of-the-art in the current parental technology.
+Mr. Bucshon. Thank you. I yield back.
+Chairman Massie. Thank you. I now recognize Mr. Lipinski
+for five minutes.
+Mr. Lipinski. Thank you, Mr. Chairman.
+As many people here know, I am a--used to be--maybe I still
+am--a political scientist, and I know that there is--I have
+seen plenty of bad social science research in my time. But I
+think it is important--and I am not trying to start a fight
+here on this but I know that the--I pay attention--I look to
+see what is going on and what is being said about some of the
+supposedly bad research that is being funded. And my
+understanding is--was the $1.2 million videogame claim was
+given a pants-on-fire by PolitiFact because it was helping to
+study how to keep seniors sharp and keep their cognitive skills
+up as they are getting older.
+But that said, I mean there is some bad research but we
+need to be doing good research. Obviously, there are--as all of
+you have pointed out--social science research and how people
+interact is key because it is one of the weakest links that we
+have right now in cybersecurity.
+I wanted to ask about technology transfer. Ms. Benzel had
+mentioned barrier technology transfer in your testimony. I have
+a great deal of interest in this, particularly in areas like
+cybersecurity. It is vital that we translate as much federal
+research as possible to new products and new companies that we
+can help keep our cyber infrastructure secure, and also it has
+the added benefit of creating new jobs so long as we can also
+address the workforce and education issues that our witnesses
+have raised.
+But I just want to ask the panel, what steps can Federal
+Government take the best partner with industry in encouraging
+technology transfer in the cybersecurity sector? Ms. Benzel?
+Ms. Benzel. Yes, thank you very much for your question. It
+is an important area.
+So we do need Federal Government to help us fill the gap
+between the university research and industry. And I think I can
+speak somewhat authoritatively to that having spent much time
+in a university, as well as being a Vice President of Research
+at McAfee. We have all heard about the Valley of Death.
+So we really do have some models that are broken between
+expecting that industry can just pick up and take research
+prototypes that have been developed in a university kind of
+setting. So we need strategic funding which pushes us in a
+particular direction with an awareness. The DHS S&T program run
+by Dr. Doug Maughan has introduced new efforts to work with VCs
+to its signet organization to be able to get venture
+capitalists and to have the researchers be aware of technology
+transfer from the day that they write their proposals.
+The National Science Foundation had introduced its
+Transition to Practice. I am arguing that we need a lot more of
+these sorts of things where we have very early-on awareness of
+where we want to go. And as a researcher, we want to do the
+fundamental basic research, and that is absolutely necessary.
+But as researchers, we also want to see our work have an
+impact. And we need help in working with the different types of
+organizations. And that is where we call for, as the bill
+currently does, industry partnerships with venture capitalists,
+with different kinds of technology organizations. There is
+really nothing currently in that middle to help fill the gap
+between the research dollars and the product dollars. And I
+have to say, unfortunately, it is not realistic to believe that
+industry can simply pick up and do it. Industry is focused on
+its near-term market, next quarter features, and are totally
+market-driven and sales driven, particularly in today's
+economy. And so we need some bridging dollars which should come
+from combinations of university, public/private partnerships,
+and federal funding in that new area.
+Thank you very much.
+Mr. Lipinski. Dr. Chang, do you want to add something?
+Dr. Chang. Sure. I will just support what Terry mentioned.
+There is this model I like to use: technology transfer is a
+contact sport. So it is not uncommon for the private sector to
+establish sort of I guess what you might call lab-lets or sort
+of mini-labs with the university. And the folks in the private
+sector would work sort of shoulder-to-shoulder with the folks
+at the university such that when an innovation is developed, it
+isn't sort of tossed over the cubicle wall and you would like
+for the private sector company to incorporate it. But rather,
+they are generated together.
+To the extent that this kind of notion, of kind of, working
+hand-in-hand between the government, between the private sector
+and academia would be representative of this notion of let us
+develop the technologies together. Technology transfer is a
+contact sport. Let us have them work together. I think that is
+a useful concept here.
+Mr. Lipinski. Thank you.
+A quick question. Mr. Barrett mentioned NSTIC. I just want
+to know when will we be able to do--instead of having
+passwords, have a thumbprint that we use to identify ourselves?
+Chairman Massie. Very quickly, please.
+Mr. Barrett. Yes, we are actually working on that. That is
+the FIDO Alliance work that I mentioned at the beginning, which
+is trying to develop open standards to actually make those kind
+of technologies become much more widely used. And I think you
+will actually see products deployed in the market before the
+end of the year that do exactly that.
+Chairman Massie. Thank you.
+I now recognize Mr. Hultgren.
+Mr. Hultgren. Thank you, Chairman. Thank you all for being
+here. I appreciate it very much.
+This would be first addressed to all of you. My
+understanding is this growing mass of data that is available
+online certainly has implications for cybersecurity. In some
+ways, I know the data can be analyzed to help identify
+potential cyber threats, but I also know in another way the
+data provides bad actors with additional opportunities to
+exploit that data.
+I wonder can you discuss how the emerging big data
+phenomenon poses both challenges and opportunities for
+cybersecurity research and development, and also just any
+recommendations you might have for policymakers to address this
+phenomenon in a beneficial way and not a harmful way?
+Dr. Chang. Sure. I guess I will kind of mention the notion
+of dual use. So many of the cyber technologies are so-called
+dual use. So my company, 21CT, Inc., basically has capabilities
+to analyze big data to sort of find suspicious behaviors in an
+attempt to improve the defensive posture of somebody's network.
+At the same time, an adversary could use similar technologies
+to sort of target folks similarly to look for vulnerabilities
+and so forth.
+So it is always kind of a really important kind of
+balancing act and kind of risk assessment proposition such that
+you will always know that the technologies that could be used
+for defense could potentially be flipped over. So it is
+important to kind of understand both sides, understand the
+technologies deep enough and then make sure you sort of come to
+the right balance point.
+Ms. Benzel. Well, as a researcher I find big data to be
+very exciting. From the research point of view and networking
+and network cybersecurity, we have always been lacking in data.
+And so again, DHS has its PREDICT program and some of the
+researchers in my organization have done some really
+groundbreaking work at analyzing the data, mapping the
+Internet, the first Internet census to give us information both
+about the known spaces and the dark spaces.
+Clearly, in all of our research, there are two sides to it
+and we need to be very understanding about how things could be
+used against us.
+I say the other point to also bring in to this discussion
+about big data are issues with privacy. And so as citizens, we
+need to understand how the data is being used, stored, and
+moved about in transit.
+Mr. Hultgren. Mr. Barrett, before you answer, I would love
+to hear your thoughts on this as well, but I have one other
+additional question I would like to ask you so if maybe you can
+respond to both. We already talked a little bit about
+authentication--online authentication and the challenges there.
+I understand many European governments issue voluntary
+electronic identification cards combining two unique
+identifiers to serve as a type of online passport. But for
+various reasons, I believe the United States is unlikely to
+endorse any sort of government-sanctioned identification
+mechanism. I understand businesses have been working for years
+on providing different online identity schemes to consumers and
+that the Administration's National Strategy for Trusted
+Identities in Cyberspace, or NSTIC, intend to use that work to
+find common standards for online identities.
+I wondered in your view should the government be involved
+at all in this process? If so, is NIST the appropriate agency
+to coordinate the effort? How do we ensure privacy? And what
+prevents this effort from eventually resulting in regulations
+that inhibit innovation?
+Mr. Barrett. So we have been enthusiastic supporters of the
+NSTIC initiative ever since it was first proposed. Simply
+because, as Congresswoman Lofgren said when she introduced me,
+a decade ago I chaired the Liberty Alliance, which is an open
+standards organization in the identity management space. It has
+actually proven quite difficult to develop really large-scale
+identity ecosystems on the Internet.
+We show a lot of promise for users, and so tying that back
+to the question about breaches in big data, the silver lining
+in the cloud of all of the data that has been published in last
+few years essentially as a byproduct of criminal activities is
+that we now actually understand how consumers in large-scale
+use passwords in particular. And the answer is a depressingly
+large number of them, something like 2/3 of them, use the same
+password absolutely everywhere they go on the Internet, with a
+net effect that their security of every single account they
+possess is now the security of that least secure place they
+visited.
+And so having an ecosystem that is built around consumers
+managing their own identity online and allowing the Federal
+Government to help kind of just appropriately nudge that but
+not place too constricting a role is very important. And that
+is actually why a guy on my team was the first Co-Chair of the
+Identity Ecosystem Steering Group so--
+Mr. Hultgren. My time is expired. Thank you all very much.
+Thank you, Mr. Chairman.
+Chairman Massie. Thank you.
+I now recognize Mr. Bera.
+Mr. Bera. Thank you, Mr. Chairman.
+As an academic physician who comes out of a research
+background, I truly appreciate the analogy with healthcare and
+what we do in medicine and the importance of doing research in
+our academic and research universities. The fact that we do a
+lot of experiments, that we look for solutions and we fail a
+lot, but we are constantly feeding that back into the system.
+And then we have that major breakthrough. Where we fall down in
+the academic centers--and Ms. Benzel touched on it--is we don't
+know how to then take those ideas to market.
+You touched on the issue of technology transfer and how
+important that is. I am a firm believer that we would not be
+able to do the research that we do without the Federal
+Government's funding of our academic centers. But we do need to
+do a better job with technology transfer.
+What would your suggestion be as a best practice model of
+taking idea to market given that you have worked on both sides
+of this?
+Ms. Benzel. Well, thank you very much. You know, I agree
+with Dr. Chang. It is a contact sport. We can't do the wait-
+until-the-end-and-throw-it-over. And so I think the best
+practice model is early engagement. Engage early and often. So
+they say encouraging the fundamental research funding
+organizations to call out for tech transfer from day one from
+the time you write your proposal and come up with your idea,
+opportunities for communications and meetings with a variety of
+industry partners, opportunities to understand the needs that
+are out there and to work with different kinds of funding
+models both with things such as venture capital organizations
+who might be willing to take some of the risk in early
+technology and also on the university side.
+So at the University of Southern California we have the
+Stevens Institute that works with our researchers early on. So
+early and often. Thank you.
+Mr. Bera. Absolutely.
+Now, also as a former Associate Dean out of University of
+California Medical School, we focus a lot on the workforce
+issue recruiting the best and the brightest and then retaining
+those individuals. You know, on the issue of cybersecurity, on
+the issue of making sure we have the computer science
+professionals, we don't have enough engineers in this country
+and we are not graduating enough engineering students or
+programmers. In other sectors of IT we are certainly trying to
+get that workforce from abroad. But on the issue of
+cybersecurity, we need a homegrown workforce because this--
+these are issues that are critical to national security.
+Dr. Chang, you touched on this a bit. What are some models
+that we can use to continue to recruit and retain the best and
+the brightest to go into areas of information technology and
+then go into both the service sector working for the Federal
+Government, working for our Department of Defense and
+Department of Homeland Security? Because they can make 10 times
+as much going off into the private sector but we need some of
+the best and the brightest working to protect our country.
+Dr. Chang. I was recently in a meeting with some folks in
+Austin where we talked about a very sort of broad approach that
+would incorporate trying to recruit students of many ages in
+many disciplines. There is a program that has recently started
+in New Jersey. It is referred to as Cybersecurity Centers, and
+they basically have these kind of initial competitions that
+begin attracting people from all walks of life, maybe former
+military. There are 16 roles, just a whole group of folks. And
+then depending on how they do in that initial competition--and
+it is a fun competition. It sort of capitalizes on people's
+interest in just competing and sort of a person-on-person
+competition. And then depending on how you do with that, the
+people who are more skillful sort of move on.
+But it is this notion of can we come up with ideas that
+attract many, many people, and then if they have a particular
+propensity to kind of move forward, then you can kind of winnow
+them down. I mentioned that there was this need for extremely
+technical deeply elite people. But you have to have a broad
+funnel to kind of bring them in and then a way to successfully
+kind of pull out the people who operate the highest levels.
+Mr. Bera. Wonderful. So playing off of what you just
+mentioned, I would ask our Committee to look at returning
+veterans, men and women who have already shown their patriotism
+to this country, already understand the service to our Country
+and the immediate need to protect ourselves and looking for
+strategic ways to get those folks engaged through our modern GI
+Bill and so forth to get these skills.
+I yield back.
+Chairman Massie. Thank you.
+I recognize Mr. Schweikert.
+Mr. Schweikert. Thank you, Mr. Chairman.
+Mr. Barrett, first off, you have a bunch of PayPal folks in
+Scottsdale, don't you? Yes, it is--when I am in-district, I
+seem to start every morning having coffee with them. We all
+attend the same Starbucks. As a company, you have been trying
+to roll out a number of different products, you know, cell
+phone billfolds or some of those types of mechanics. When we
+are talking about cybersecurity, how much is the threat on this
+site slowing down your adoption and introduction of new
+products?
+Mr. Barrett. That is a really interesting question. It is
+hard to measure. There is certainly good evidence that
+consumers have been worried about security aspects of Internet
+solutions ever since the beginning of the Internet. And there
+is certainly some evidence that they care in the same way about
+mobile solutions, for example, and that they want to see that
+they are appropriately protected in those areas.
+The difficulty, of course, is in saying how much does the
+apparent lack of those features really impact their adoption?
+And so, for example, if you see a--one solution that has a lot
+of barriers to it, in terms of it is hard to use and has a lot
+of security features; but on the other hand, you have another
+very similar product that was much easier to use because it
+didn't have all these apparent security things that you have to
+do. Whether or not the consumers actually believe that, the one
+with the more security features is actually safer. And that
+ties back to the initial research we were talking about a
+little while ago.
+Mr. Schweikert. Well, Mr. Barrett, some of that is the
+adoption side. I am interested on your engineering side. Is it
+a suppressing effect to the design, you know, studio you would
+have on the introduction of new technologies?
+Mr. Barrett. If I am understanding the question correctly,
+it would depend on how much overhead we impose on the
+engineering teams in terms of how much we try to partition them
+and so forth. So, if we were working on confidential projects,
+then clearly we will partition those off as well as, yes, we do
+impose a number of security overheads as we develop those
+applications. But it is a--it has lots of tentacles in terms
+of----
+Mr. Schweikert. It is just having a fixation on expansion,
+economic growth, and new technology. I have always wondered how
+much of a suppressing effect I have over here.
+Mr. Chairman, Ms.--is it Benzel?
+Do you agree with Mr. Barrett's earlier comments that we--
+it is hard to have a quality census of how many bad actors, bad
+events, bad things that are actually going on in the cyber
+marketplace?
+Ms. Benzel. Well, most absolutely. I thought his questions
+were very astute and exactly right on. So----
+Mr. Schweikert. So as a Member of Congress, where would you
+send me if I really wanted to get from your academic, sort of,
+view of the world as much data saying, look, here is what the
+best census we have of banking attacks and this type of
+attacks? Or where would you go?
+Ms. Benzel. I think that is a very hard question. I mean,
+clearly, some of our intelligence agencies on the dark side
+have a good census of some of the levels of attacks that are
+happening, particularly in nation-state and against nation
+targets. The different industries tend to keep those things
+pretty closely held. Now, some of the work that has been done
+in the past to set up the Information-Sharing and Analysis
+Centers, the ISACs, are places where that knowledge is known
+but held close to the chest.
+Mr. Schweikert. Okay. And so right now, you are not sure
+there is a good collection of the census, shall we say?
+Ms. Benzel. Oh, I don't believe so.
+Mr. Schweikert. Okay. Mr. Chairman, Dr. Chang--and sorry, I
+am down to just a few, but you actually started to touch on
+something that I would love to have an extended discussion with
+you. And that is, how do we finance ourselves right now? Right
+now, we are sort of in a classic academic sort of model of
+finance, primary research. And hopefully, there is something
+that comes out of it.
+But what you were describing a little while ago in your
+experience sounds more like almost the X-prize-type mechanic of
+bringing people together, whether it be a garage engineer or an
+academic. And the person that produces something great gets to
+move forward. Do you think it is time we also start to wedge
+and design some other ways to finance innovation here?
+Dr. Chang. I will answer that in--maybe in kind of in
+connection with the question you asked to Mr. Barrett.
+Basically, security today is not where it needs to be, and
+fundamentally, somebody is going to have to pay to move
+security up. It will be the government because they have to
+prosecute more criminals. It will be software companies because
+they have to make software more secure. It will be people
+because people are bearing losses.
+So overall I would love to have a longer conversation.
+Mr. Schweikert. Mr. Chairman, thank you for your patience.
+Sorry.
+Chairman Massie. Thank you. If Dr. Chang would like to
+respond in writing for the record, that would be fine.
+I now recognize Ms. Esty. Oh, I am sorry. Mr. Peters.
+Sorry.
+Mr. Peters. Thank you, Mr. Chairman.
+And I appreciate the chance to be here today. This is an
+important industry in my district as well in San Diego, both
+because we are developing a lot of the software and also
+because the Navy has a lot of--or the military has a lot of
+interest in the field.
+And Dr. Chang, I am glad you are a UCSD grad, too. I
+appreciate that.
+My question is sort of, you know, we know that--I think it
+was yesterday that the Global Information Security Workforce
+Study from Booz Allen Hamilton said that 56 percent of
+cybersecurity professionals feel that security organizations
+are short-staffed and that the cybersecurity field is projected
+to grow 11 percent annually over the next five years. And so
+there is--I think it is widely understood that there is a gap
+in the workforce. But what I am sort of interested in is what
+are the--what is the field of cybersecurity from an academic
+sense? You described it as an interdisciplinary exercise. We
+know it is not just computer science or software. But if you
+were trying to certify someone in cybersecurity, kind of--do
+you have a sense--maybe you can help me understand what it is
+that that person would need to know. And that is for anyone.
+Dr. Chang. Sure. I can start. So there are the traditional
+disciplines that you learn in computer science about
+programming, about algorithms, about discrete math and so
+forth. You would add some elements to that in order to focus
+more specifically in cybersecurity. And so you would add more
+about networking, perhaps more about analysis. There is this
+interesting conversation happening at universities now where
+they talk about--that there is a classic computer science major
+and that maybe there ought to be a cybersecurity major as well.
+So there are many things in common but it is different
+enough such that it is worth an interesting dialogue about the
+extent that there is the creation of a specific major in
+cybersecurity.
+Mr. Peters. Well, I guess I think it would be helpful for
+us because the intent of the legislation before us is to kind
+of secure our future in that. But if we don't know kind of what
+we are educating--if you don't understand--if you don't have a
+sense or a consensus about what it is we are seeking to educate
+people in, we are going to--I think we face some of the
+concerns that we are not going to be or that the money is going
+to be bleeding, or we are not going to be effective?
+So if it is anthropology or if it is law in addition to
+these technical things, is there a way to land that plane?
+Ms. Benzel. So first off, I think you need to make a
+distinction between education and training. So many of the
+training organizations and CISSP certifications, that is one
+level of something that is about operations and being able to
+run things.
+And then there is the education challenge in terms of
+creating new researchers and new educators and Ph.D.'s. I think
+that we are just as a community--as Dr. Chang said--beginning
+to put forth master's curriculums in cybersecurity. USC is just
+about to introduce one starting next fall. And really, there
+are different fields. So cybersecurity is not one narrow field.
+So there are cybersecurity researchers in defenses, in active
+security, in mathematical analysis, in networking. And so even
+in a master's degree, there will be specializations in these
+different areas drawing from primarily a computer science
+curriculum but also some engineering, some systems kind of
+work, networking, and then bringing in an understanding of
+human behavior.
+Mr. Peters. I guess there is going to be some sense we are
+going to have to keep adjusting as we go.
+Ms. Benzel. That is right. There is not one answer that
+fits all.
+Mr. Peters. Mr. Barrett, maybe quickly, you might touch on
+the first of your rhetorical questions which is how much money
+are we losing? Do you have a sense of how we go about answering
+that question?
+Mr. Barrett. I believe the answer is we need to put in
+place more detailed reporting frameworks in order to actually
+ascertain the scope of the problem. Because the estimates range
+all over the place, I mean as low as a few billion up into the
+trillion range. My own personal view is it is probably in the
+tens of billions of range. But that would be hard to----
+Mr. Peters. That would be something that would be done by
+industry presumably. Is that right?
+Mr. Barrett. I believe so, yes.
+Mr. Peters. Okay.
+Mr. Barrett. It certainly could be done. A reporting
+framework could be developed, but at the moment, what we have
+is entirely voluntary and it models how much money is lost with
+how much the company spends on defenses, and those two numbers
+are quite different as well. And how much do you turn away?
+Mr. Peters. Again, I very much appreciate your being here.
+Thank you, Mr. Chairman.
+Chairman Massie. Thank you.
+I want to recognize Ms. Esty--Etsy.
+Ms. Esty. Esty, not the crafting website. Although I would
+be much wealthier if it were mine.
+Thank you very much, Mr. Chairman.
+For Dr. Chang and Ms. Benzel, both of you had talked about
+the need to create a science of cybersecurity. And if you can
+elaborate a little bit on that, what are the metrics we would
+need? If we don't know right now if a company is more secure
+than it was a month ago, where do we even start with this? What
+sort of research do we need? What sort of metrics do we need to
+develop so that we even know what we are talking about?
+Dr. Chang. Well, that is one of the key issues. We actually
+don't have the right language, the right set of metrics to even
+begin to understand this notion of whether my--the computer
+this year is more secure than it was last year, if this
+computer is more secure than somebody else's.
+There is kind of this idea of understanding the limits of
+what is possible. So that is what a science allows you to do.
+Can I understand how secure something can be? We sort of don't
+know, kind of what is possible, you know, what are kind of the
+control bounds. Cybersecurity is an adversarial science. And
+like anything adversarial, we will probably never completely
+eliminate it. But if we can establish some sort of control bars
+that basically say we are going to make it harder for an
+adversary to kind of get through and maybe the difficulty that
+their--you know, if we make it too hard for them to get
+through, then, they will quit trying. But it is this motion of
+kind of setting some control bars and trying to keep it within
+that. We certainly won't eliminate crime.
+Ms. Benzel. So we advocate being able to do experimental
+science. So in many other sciences we have workbenches and labs
+and we can go in and we can also repeat our peers' experiments
+and be able to understand what they are. Unfortunately, in
+computer science and in--particularly in cybersecurity, the
+experiments are very ad hoc. And so it might work once or it
+might work in my lab or in my example.
+This is one of the challenges also in technology transfer.
+It may have worked in some researcher's lab under some
+conditions, but I don't know that it is really going to work.
+So what we really advocate is that we need an experimental
+science where we can create hypotheses, we can do an
+experiment, see the results, modify some parameters, rerun the
+experiment. And my colleagues similarly have an opportunity to
+do that just as they would in any of the hard sciences.
+Ms. Esty. Are there any of the federal agencies that are
+actually doing work on this notion of the metrics that we would
+even use to measure?
+Dr. Chang. I am aware of some work that has started at
+NIST, and I would tell you I haven't looked at the work in more
+detail. I probably need to. But I am recalling from some years
+ago, oh, maybe 2009 or 2010 within the Computer Security
+Division at NIST, they started up a program in metrics. It is
+something I would need to look at further. But I believe there
+is some activity happening.
+Ms. Benzel. Metrics is a very difficult area in security
+and has plagued us for a long time. I would say that DARPA has
+started some work there and some very fundamental research. The
+National Science Foundation and DHS S&T always include metrics
+as a research topic in their calls.
+Ms. Esty. And one final question. As I know some colleagues
+and friends of my son who is a junior in college, if you could
+elaborate a little bit more on this adversarial science notion
+because I think it is different--it strikes me as different
+than a lot of times what attracts people to science and a sense
+of the purity and how you go about thinking about recruiting
+young people designing programs--if they need to have this
+back-and-forth adversarial approach.
+Dr. Chang. I would have to do some more thinking about
+this, but the models of the human immune system strike me as a
+reasonable model. So basically, the human immune system is
+fighting off adversaries of all kinds. And it is just sort of
+amazing how versatile and how flexible the human immune system
+is. The human immune system--by the way, about one percent of
+human cells are leukocytes, are actually defensive. So when you
+think about the body is basically allocating about one percent
+of its cells to defense, that is a pretty substantial number.
+If you look at the number of lines of computer code, I doubt
+one percent is dedicated to defense.
+The other model that seems to make sense to me in terms of
+the science is in the field of actually agriculture. So
+agriculture also has pests, and the pests try to eat the crops.
+And you can either make the crops more resilient or you kill
+the pests. I mean that is another sort of adversarial model
+that seems to be relevant.
+Chairman Massie. Thank you. I want to thank Chairman McCaul
+for his initiative with this bill and his persistence in
+reintroducing it and especially his patience today.
+And I recognize him now for five minutes.
+Mr. McCaul. I thank the Chairman.
+And Dr. Chang, let me say thank you for your service on the
+CSIS Commission and to the Nation and to the University of
+Texas in Austin.
+And Ms. Benzel, I agree with you our adversaries are moving
+forward, moving ahead. They are attacking our federal agencies
+every day. In support--and building a record in support of this
+legislation, I see this bill doing several things, applying
+NIST standards to the Federal Government. It provides--it
+bolsters research and development in this area, a private-
+sector university federal task force, education and awareness
+piece and procurement standards within the Federal Government.
+And I would like to go through each of you and if you could
+tell me how you believe--if you do--that this legislation will
+advance the cause for enhancing cybersecurity for this Nation.
+Mr. Barrett?
+Mr. Barrett. I would give a very brief answer which is
+maybe not quite so brief.
+In general, philosophically, we think that cybersecurity,
+as Dr. Chang said, is a wicked problem. And as such, there is
+probably no single bill that could be passed that will, on its
+own, materially change the trend line. But on the other hand,
+the sort of lack of a grand unification theory shouldn't stop
+us from doing good work. And this bill would definitely appear
+to be falling into that place where it does no harm and it also
+does good work in the specific areas it has chosen.
+Mr. McCaul. That is a very good point. I think--I served on
+the Speaker's Cybersecurity Task Force, and our first action
+was to do no harm by legislation. So I appreciate you saying
+that.
+Dr. Chang?
+Dr. Chang. Thank you.
+So in advance of reading the bill if I could have picked
+two things that are critical to improving the Nation's
+cybersecurity posture it would be research and development and
+workforce development. And so this legislation to me is just
+right on target relative to addressing the top two problems. I
+guess I would add, as I mentioned in my spoken testimony, the
+notion that we need to be patient about this. You know, I guess
+it would be great if we could sort of plant a forest and all
+the trees turn into something that resulted in wonderful
+research. But we--I see this legislation as important in that
+it is at least planting a few trees. It allows us to plant
+some--a few things that will grow into the future.
+I would sure hate to be sitting here ten years from now, 20
+years from now still saying that we actually don't understand
+causes. We don't understand solutions. We don't understand
+countermeasures. And this legislation I believe begins planting
+a few trees. Thank you.
+Mr. McCaul. And thanks for making the point about the cyber
+workforce in the Federal Government. I think that is very, very
+important as well.
+Ms. Benzel?
+Ms. Benzel. Yes, thank you for the opportunity and thank
+you for your perseverance in this area.
+I agree with my colleagues. There is no one answer. It is a
+very difficult field. But I was quite--very impressed to see
+this particular bill in two areas that I would call out. And
+one is the technology transfer recognition of the difficulty of
+that problem. And I have worked in a number of different
+public-private partnerships over the years. I was part of the
+PCAST Committee back in the early 2000s. I see that the
+opportunity here to do some real planning around university
+kinds of partnerships and bringing the universities into it so
+it is a three--tri-part aspect is very exciting in the bill.
+The other one is in the science of cybersecurity and
+understanding that there is a need for research and development
+kinds of testbeds and experimentation. That is called out in
+the bill for experimental science.
+So I think technology transfer and experimental
+cybersecurity have a chance to be fundamentally changing. And
+of course the education and training are important, too.
+Mr. McCaul. Well, let me thank the witnesses for your
+expertise and for appearing here today.
+Mr. Chairman, thank you for allowing me to participate in
+this hearing even though I don't sit on the Subcommittee. And I
+look forward to the markup and hopefully overwhelmingly passage
+of the bill and signed into law by the President. Thank you. I
+yield back.
+Chairman Massie. Thank you, Chairman McCaul.
+In closing this joint hearing, I would like to recognize
+Chairman Bucshon for a moment to say a few words.
+Mr. Bucshon. Thank you, Mr. Chairman.
+I just want to remind everyone about a few facts. Overall
+spending in the Federal Government has gone up 17 percent since
+2008. This year, we are on track to spend $3.6 trillion with a
+tax collection of $2.7 trillion, which, by the way, is the
+highest amount in history that is being projected. We have 16.5
+trillion in national debt, over 1 trillion in annual deficits
+for the past five years running. Recently reported, 110 billion
+in inappropriate payments the government made just last year
+across a multitude of federal programs and the current
+sequester is 85 billion.
+I agree that spending cuts need to be more targeted. That
+is why the House has passed two bills over the last year that
+would target these cuts more appropriately. So I think that we
+are very well aware of research and development dollars that
+need to be there, not only on cybersecurity but other issues.
+And we will work towards this--a resolution that will help with
+that situation. Thank you. I yield back.
+Chairman Massie. Thank you.
+I want to thank the witnesses for traveling here today and
+for their valuable testimony and to the Members for their
+questions.
+Members of the Committee may have additional questions for
+you and we will ask you to respond to those questions in
+writing. The record will remain open for two weeks for
+additional comments and written questions for Members.
+The witnesses are excused and this hearing is adjourned.
+[Whereupon, at 11:33 a.m., the Subcommittees were
+adjourned.]
+Appendix I
+
+----------
+
+Answers to Post-Hearing Questions
+
+Responses by Mr. Michael Barrett
+
+[GRAPHIC] [TIFF OMITTED] T9926.044
+
+Responses by Dr. Frederick R. Chang
+
+[GRAPHIC] [TIFF OMITTED] T9926.045
+
+[GRAPHIC] [TIFF OMITTED] T9926.046
+
+Responses by Ms. Terry Benzel
+
+[GRAPHIC] [TIFF OMITTED] T9926.047
+
+[GRAPHIC] [TIFF OMITTED] T9926.048
+
+[GRAPHIC] [TIFF OMITTED] T9926.049
+
+[GRAPHIC] [TIFF OMITTED] T9926.050
+
+Appendix II
+
+----------
+
+Additional Material for the Record
+
+Department of Homeland Security letter submitted by
+Representative Frederica S. Wilson
+
+[GRAPHIC] [TIFF OMITTED] T9926.051
+
+[GRAPHIC] [TIFF OMITTED] T9926.052
+
+[GRAPHIC] [TIFF OMITTED] T9926.053
+
+National Science Foundation letter submitted by
+Representative Frederica S. Wilson
+
+[GRAPHIC] [TIFF OMITTED] T9926.054
+
+[GRAPHIC] [TIFF OMITTED] T9926.055
+
+

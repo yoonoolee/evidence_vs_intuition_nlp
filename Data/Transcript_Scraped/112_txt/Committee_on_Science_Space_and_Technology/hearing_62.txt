@@ -1,0 +1,1293 @@
+- NASA CYBERSECURITY: AN EXAMINATION OF THE AGENCY'S INFORMATION SECURITY
+
+[House Hearing, 112 Congress]
+[From the U.S. Government Publishing Office]
+
+NASA CYBERSECURITY:
+AN EXAMINATION OF THE AGENCY'S
+INFORMATION SECURITY
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON INVESTIGATIONS
+AND OVERSIGHT
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED TWELFTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+WEDNESDAY, FEBRUARY 29, 2012
+
+__________
+
+Serial No. 112-64
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+Available via the World Wide Web: http://science.house.gov
+
+U.S. GOVERNMENT PRINTING OFFICE
+72-919                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail,
+[email protected]
+.
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. RALPH M. HALL, Texas, Chair
+F. JAMES SENSENBRENNER, JR.,         EDDIE BERNICE JOHNSON, Texas
+Wisconsin                        JERRY F. COSTELLO, Illinois
+LAMAR S. SMITH, Texas                LYNN C. WOOLSEY, California
+DANA ROHRABACHER, California         ZOE LOFGREN, California
+ROSCOE G. BARTLETT, Maryland         BRAD MILLER, North Carolina
+FRANK D. LUCAS, Oklahoma             DANIEL LIPINSKI, Illinois
+JUDY BIGGERT, Illinois               DONNA F. EDWARDS, Maryland
+W. TODD AKIN, Missouri               MARCIA L. FUDGE, Ohio
+RANDY NEUGEBAUER, Texas              BEN R. LUJAN, New Mexico
+MICHAEL T. McCAUL, Texas             PAUL D. TONKO, New York
+PAUL C. BROUN, Georgia               JERRY McNERNEY, California
+SANDY ADAMS, Florida                 JOHN P. SARBANES, Maryland
+BENJAMIN QUAYLE, Arizona             TERRI A. SEWELL, Alabama
+CHARLES J. ``CHUCK'' FLEISCHMANN,    FREDERICA S. WILSON, Florida
+Tennessee                        HANSEN CLARKE, Michigan
+E. SCOTT RIGELL, Virginia            VACANCY
+STEVEN M. PALAZZO, Mississippi
+MO BROOKS, Alabama
+ANDY HARRIS, Maryland
+RANDY HULTGREN, Illinois
+CHIP CRAVAACK, Minnesota
+LARRY BUCSHON, Indiana
+DAN BENISHEK, Michigan
+VACANCY
+------
+
+Subcommittee on Investigations and Oversight
+
+HON. PAUL C. BROUN, Georgia, Chair
+F. JAMES SENSENBRENNER, JR.,         PAUL D. TONKO, New York
+Wisconsin                        ZOE LOFGREN, California
+SANDY ADAMS, Florida                 BRAD MILLER, North Carolina
+RANDY HULTGREN, Illinois             JERRY McNERNEY, California
+LARRY BUCSHON, Indiana               EDDIE BERNICE JOHNSON, Texas
+DAN BENISHEK, Michigan
+VACANCY
+RALPH M. HALL, Texas
+
+C O N T E N T S
+
+Wednesday, February 29, 2012
+
+Page
+Witness List.....................................................     2
+
+Hearing Charter..................................................     3
+
+Opening Statements
+
+Statement by Representative Paul C. Broun, Chairman, Subcommittee
+on Investigations and Oversight, Committee on Science, Space,
+and Technology, U.S. House of Representatives..................    13
+Written Statement............................................    14
+
+Statement by Representative Paul Tonko, Ranking Minority Member,
+Subcommittee on Investigations and Oversight, Committee on
+Science, Space, and Technology, U.S. House of Representatives..    15
+Written Statement............................................    17
+
+Witnesses:
+
+Ms. Linda Y. Cureton, Chief Information Officer, NASA
+Oral Statement...............................................    19
+Written Statement............................................    21
+
+The Honorable Paul K. Martin, Inspector General, NASA
+Oral Statement...............................................    25
+Written Statement............................................    27
+
+Discussion
+...............................................................    37
+
+Appendix: Answers to Post-Hearing Questions
+
+Ms. Linda Y. Cureton, Chief Information Officer, NASA............    48
+
+The Honorable Paul K. Martin, Inspector General, NASA............    61
+
+NASA CYBERSECURITY:
+AN EXAMINATION OF THE AGENCY'S INFORMATION SECURITY
+
+----------
+
+WEDNESDAY, FEBRUARY 29, 2012
+
+House of Representatives,
+Subcommittee on Investigations and Oversight,
+Committee on Science, Space, and Technology,
+Washington, DC.
+
+The Subcommittee met, pursuant to call, at 2:33 p.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Paul Broun
+[Chairman of the Subcommittee] presiding.
+
+[GRAPHIC] [TIFF OMITTED] T2919.041
+
+[GRAPHIC] [TIFF OMITTED] T2919.001
+
+[GRAPHIC] [TIFF OMITTED] T2919.002
+
+[GRAPHIC] [TIFF OMITTED] T2919.003
+
+[GRAPHIC] [TIFF OMITTED] T2919.004
+
+[GRAPHIC] [TIFF OMITTED] T2919.005
+
+[GRAPHIC] [TIFF OMITTED] T2919.006
+
+[GRAPHIC] [TIFF OMITTED] T2919.007
+
+[GRAPHIC] [TIFF OMITTED] T2919.008
+
+[GRAPHIC] [TIFF OMITTED] T2919.009
+
+[GRAPHIC] [TIFF OMITTED] T2919.010
+
+Chairman Broun. Subcommittee on Investigations and
+Oversight will come to order.
+Good afternoon, everyone. I appreciate everybody's
+patience. We just had votes on the Floor, so I appreciate you
+all's patience to the beginning of this hearing.
+I want to welcome you all to the hearing entitled, ``NASA
+Cybersecurity: An Examination of the Agency's Information
+Security.'' You will find in front of you packets containing
+our witness panel's testimony, their biographies, and truth in
+testimony disclosures. I want to welcome our witnesses here
+today.
+I am going to begin by recognizing myself for five minutes
+for an opening statement.
+The topic of cybersecurity is certainly hot these days. As
+Washington debates the government's appropriate role in private
+sector cybersecurity activities, we should remember that the
+government is already responsible for securing its own networks
+and information, a task that is executed with mixed successes.
+While the defense and intelligence communities take great
+steps to protect data and operations from theft and corruption,
+oftentimes civil agencies are not as vigilant. In many
+instances this is for good reason. Transparency, coordination,
+and collaboration are core values of an effective government,
+particularly as it involves scientific agencies.
+Openness, however, does not come without risk. Many of the
+technologies developed and utilized by NASA are just as useful
+for military purposes as they are for civilian space
+applications. While our Nation's defense and intelligence
+communities guard their front door and prevent network
+intrusions, they could steal or corrupt sensitive information.
+NASA could essentially become an unlocked back door without
+persistent vigilance.
+Information security concerns at NASA are not limited to
+non-proliferation. There is a serious economic competitiveness
+aspect as well. The loss or theft of NASA technologies could
+compromise U.S. innovation and curtail significant future
+commercial activities that bolster our economy. In order to
+ensure that NASA does not become the weak underbelly that
+allows enemies and competitors to access sensitive
+technologies, we have to make sure that NASA has the necessary
+authorities to protect that information.
+The NASA Office of the Inspector General has monitored the
+agency's cybersecurity for over a decade, issuing dozens of
+reports and recommendations. To NASA's credit, they have taken
+action to address these recommendations in a timely fashion by
+clarifying the role of the Headquarters Chief Information
+Officer, realigning the agency's other CIOs under that office,
+setting up the security operations center or SOC, and improving
+integration and visibility. Despite this progress, the threat
+to NASA's information security is persistent and ever changing.
+Unless NASA is able to continuously innovate and adapt, their
+data, systems, and operations will continue to be endangered.
+These are not simply bureaucratic matters that have no real
+world impact or theoretical possibilities with little chance of
+occurring. As the Inspector General points out in his
+testimony, NASA has experienced 5,408 computer security
+incidents in 2010 and 2011. That is a bunch. These intrusions
+resulted in the installation of malicious software or
+unauthorized access which caused significant disruptions to
+mission operations, the theft of export-controlled data, and
+technologies, and cost the agency more than $7 million.
+Just last year the theft of an encrypted NASA laptop
+resulted in the loss of algorithms used to command and control
+the International Space Station. Similarly, the U.S. China
+Economic and Security Review Commission recently noted in its
+annual report to Congress that the Terra and Landsat-7
+satellites have, ``have each experienced at least two separate
+instances of interference apparently consistent with cyber
+activities against their command and control systems.''
+The fact that NASA is a high-profile target should come as
+no surprise. What is astonishing, however, is the fact that
+they are such a big target. NASA manages approximately 3,400
+individual websites. For context, there are approximately 4,000
+websites throughout the rest of the government. Simply
+surveying this attack profile is a challenge, but defending it
+presents even more difficulties.
+Adding to this complexity are differing security profiles
+for NASA's Centers, Mission Directorates, and institutional
+capabilities. Despite the challenge, it is still imperative
+that NASA conduct a thorough agency-wide risk assessment and
+develop a corresponding mitigation strategy in a timely fashion
+as recommended by the NASA IG last March.
+I look forward to our witnesses' testimony and hope that we
+can all work together to ensure that our Nation's space agency
+can securely support and appropriately protect cutting edge
+research, collaborative science, and mission operations.
+[The prepared statement of Dr. Broun follows:]
+
+Prepared Statement of Subcommittee Chairman Paul Broun
+
+The topic of cybersecurity is certainly hot these days. As
+Washington debates the government's appropriate role in private-sector
+cybersecurity activities, we should remember that the government is
+already responsible for securing its own networks and information--a
+task that it has executed with mixed success.
+While the defense and intelligence communities take great steps to
+protect data and operations from theft and corruption, often times
+civil agencies are not as vigilant. In many instances, this is for good
+reason. Transparency, coordination, and collaboration are core values
+of an effective government, particularly as it involves scientific
+agencies.
+Openness, however, does not come without risk. Many of the
+technologies developed and utilized by NASA are just as useful for
+military purposes as they are for civil space applications. While our
+nation's defense and intelligence communities guard the ``front door''
+and prevent network intrusions that could steal or corrupt sensitive
+information, NASA could essentially become an unlocked ``back door''
+without persistent vigilance.
+Information security concerns at NASA are not limited to non-
+proliferation. There is a serious economic competitiveness aspect as
+well. The loss or theft of NASA technologies could compromise U.S.
+innovation and curtail significant future commercial activities that
+bolster our economy. In order to ensure that NASA does not become the
+weak underbelly that allows enemies and competitors to access sensitive
+technologies, we have to make sure that NASA has the necessary
+authorities to protect that information.
+The NASA Office of the Inspector General has monitored the Agency's
+cyber security for over a decade, issuing dozens of reports and
+recommendations. To NASA's credit, they have taken action to address
+those recommendations in a timely fashion by clarifying the role of the
+Headquarters Chief Information Officer, realigning the Agency's other
+CIOs under that office, setting up the Security Operations Center
+(SOC), and improving integration and visibility. Despite this progress,
+the threat to NASA's information security is persistent, and ever
+changing. Unless NASA is able to continuously innovate and adapt, their
+data, systems, and operations will continue to be endangered.
+These are not simply bureaucratic matters that have no real-world
+impact, or theoretical possibilities with little chance of occurring.
+As the Inspector General points out in his testimony, NASA experienced
+5,408 computer security incidents in 2010 and 2011. These intrusions
+resulted in the installation of malicious software or unauthorized
+access which caused significant disruptions to mission operations, the
+theft of export-controlled data and technologies, and cost the Agency
+more than $7 million.
+Just last year, the theft of an unencrypted NASA laptop resulted in
+the loss of algorithms used to command and control the International
+Space Station. Similarly, the U.S. China Economic and Security Review
+Commission recently noted in its annual report to Congress that the
+Terra and Landsat-7 satellites ``have each experienced at least two
+separate instances of interference apparently consistent with cyber
+activities against their command and control systems.''
+The fact that NASA is a high profile target should come as no
+surprise. What is astonishing, however, is the fact that they are such
+a big target. NASA manages approximately 3,400 individual websites. For
+context, there are approximately 4000 websites throughout the rest of
+the government. Simply surveying this attack profile is a challenge,
+but defending it presents even more difficulties.
+Adding to this complexity are differing security profiles for
+NASA's Centers, Mission Directorates and institutional capabilities.
+Despite the challenge, it is still imperative that NASA conduct a
+thorough Agency-wide risk assessment and develop a corresponding
+mitigation strategy in a timely fashion as recommended by the NASA IG
+last March.
+I look forward to our witnesses' testimony, and hope that we can
+all work together to ensure that our nation's space agency can securely
+support and appropriately protect cutting edge research, collaborative
+science, and mission operations.
+
+Chairman Broun. Now I recognize Ranking Member Tonko from
+New York for his opening statement for five minutes.
+Mr. Tonko. Thank you, Mr. Chair, and thank you to our two
+witnesses, to our Chief Information Officer Cureton, and to our
+Inspector General Martin. Thank you for joining us.
+I want to thank you, Mr. Chair, for calling this hearing,
+and again, extend a welcome to our two distinguished witnesses
+this afternoon. Inspector General Martin has been getting high
+marks for the work of his office, and Ms. Cureton should be
+congratulated for being willing to take on a tough job that the
+country needs to see done well.
+Twice in 2008, on-earth observation satellite, and earth
+observation satellite managed by NASA's Goddard Spaceflight
+Center experienced several minutes of interference that
+prevented NASA from communicating with the spacecraft. The
+events were indicative of an international cyber attack, and
+the techniques were used, and I quote, ``consistent with the
+authoritative Chinese military writings,'' according to a
+report by the U.S. China Economic and Security Review
+Commission.
+The report did not attribute the specific instances against
+the NASA satellites to China, but the implications were clear.
+NASA's spacecraft may be vulnerable to acts of cyber attack.
+In both instances involving NASA's Terra Earth Observation
+Satellite, the report concluded, and I quote, ``The responsible
+party achieved all steps required to command the satellite but
+did not issue commands.''
+Cyber attacks against NASA are nothing new. Over the past
+decade both American citizens and foreign nationals have
+penetrated the agency's cyber defenses, installed malicious
+software, and stolen scientific security and other data. These
+threats have come from foreign nationals in China, Great
+Britain, Italy, Nigeria, Portugal, Romania, Russia, Turkey, and
+Estonia. Just last month the Romanian national who had
+allegedly hacked into a NASA computer server and posted
+sensitive satellite data he acquired online was arrested by
+Romanian officials. Last November the NASA Office of Inspector
+General, along with the FBI, announced charges against six
+Estonian nationals and one Russian national. They infected NASA
+and other computers with malware that alerted the settings of
+more than four million infected computers, sending internet
+searches on them to specific websites, generating more than $14
+million in fraudulent advertising fees for the cyber criminals.
+The number of potential threats is expanding rapidly. A
+recent Cisco System study found that there were an estimated
+12.5 billion electronic devices capable of connecting to the
+internet in 2010. This number will increase to approximately 25
+billion in 2015, and an astounding 50 billion by 2020. Given
+this continued expansion of the computer communications
+networks, organizations such as NASA will face a digital
+battlefield of constantly-evolving points of attack and new
+efforts to exploit weaknesses.
+The challenge in successfully addressing cybersecurity
+issues is particularly difficult at NASA. NASA owns a little
+less than a half of the United States Government's non-defense
+websites. There are approximately 3,400 NASA-controlled
+websites, and nearly 1,600 of these are linked to the outside
+world. There are an estimated 176,000 individual IP addresses
+assigned to NASA's IT systems and IT networks.
+NASA also possesses more than 120,000 computer or related
+devices located at its centers and facilities that are
+connected to the agency's IT networks. This huge system of
+nodes and networks presents enormous IT security challenges and
+potential IT vulnerabilities to the agency.
+Over the past two years NASA reported more than 5,400
+computer security intrusions that resulted in the installation
+of malicious software or unauthorized access to NASA's computer
+systems. These cyber threats pose unique safety and security
+concerns to NASA. NASA's IT systems control spacecraft,
+including the Hubble Space Telescope and International Space
+Station. They collect and process scientific data and contain
+records on a wide array of technologically sophisticated
+intellectual property. These are all attractive targets for
+cyber attack.
+Yet NASA cannot just take those systems off the internet to
+make them secure because they connect its thousands of
+scientists, engineers, and other employees around the country
+to each other, and they connect NASA's human and information
+resources to the rest of the world.
+Unfortunately, NASA has a poor history of addressing
+cybersecurity threats. Insufficient efforts have been made in
+the past to take appropriate actions to confront and correct
+internal agency deficiencies. For example, the IG has
+reinvestigated cyber-related issues it had identified in prior
+reports only to find the original weaknesses still uncorrected.
+These failures over time have exacerbated the agency's
+vulnerabilities. They certainly complicate efforts by the new
+leadership at NASA to address cybersecurity quickly and
+effectively. NASA's IG has found that the agency does not have
+an IT security configuration baseline across the agency. In
+other words, it is unclear what NASA's IT security is supposed
+to look like because there is no diagram of what it does look
+like.
+In addition, the IG has found that the agency's
+vulnerability management practices have drastically
+underestimated the cybersecurity threats and vulnerabilities
+NASA faces, and the agency lacks a complete, up-to-date
+inventory of all of its IT components.
+Clearly it is easier to protect your home from a potential
+intruder if you know how many doors you have and where they are
+located. NASA does not appear to possess an accurate blueprint
+of its own house's IT infrastructure. Without that NASA cannot
+ensure that every potential gateway into the agency is
+monitored and effectively protected.
+My comments are not specifically directed at NASA's Office
+of the Chief Information Officer or Ms. Cureton, NASA's Chief
+Information Officer, who is testifying before us today. In
+fact, I hope my statement makes clear that I believe the
+problems with cybersecurity at NASA are many years in the
+making, and Ms. Cureton has had limited time to set things
+right.
+I am also aware that the CIO at NASA has limited authority
+to impose cybersecurity solutions across the entire NASA
+enterprise of contractors, centers, and mission directorates.
+There seems to be a gap between the scope of your
+responsibility and the scope of your authority.
+NASA's IT vulnerabilities must be identified and closed.
+Speed is critical in this context. If there are institutional
+or financial stumbling blocks that stand in the way of
+completing these critical tasks, then I hope our witnesses will
+provide constructive suggestions to address them. The committee
+is prepared to work with NASA to help close these gaps. I
+believe this is an important subject, and I look forward to
+hearing from our witnesses.
+Thank you, Mr. Chair.
+[The prepared statement of Mr. Tonko follows:]
+
+Prepared Statement of Subcommittee Ranking Member Paual D. Tonko
+
+Thank you for calling this hearing Mr. Chairman, and I want to
+extend a welcome to our two distinguished witnesses this morning.
+Inspector General Martin has been getting high marks for the work of
+his office and Ms. Cureton should be congratulated for being willing to
+take on a tough job that the country needs to see done well.
+Twice in 2008 an earth observation satellite managed by NASA's
+Goddard Space Flight Center experienced several minutes of interference
+that prevented NASA from communicating with the spacecraft. The events
+were indicative of an intentional cyber attack and the techniques used
+were quote, ``consistent with authoritative Chinese military
+writings,'' according to a report by the U.S.- China Economic and
+Security Review Commission. The report did not attribute the specific
+instances against the NASA satellites to China but the implications
+were clear: NASA's spacecraft may be vulnerable to acts of cyber
+attack. In both instances involving NASA's Terra Earth Observation
+Satellite (EOS), the report concluded--quote: ``The responsible party
+achieved all steps required to command the satellite but did not issue
+commands.''
+Cyber attacks against NASA are nothing new. Over the past decade
+both American citizens and foreign nationals have penetrated the
+agency's cyber defenses, installed malicious software and stolen
+scientific, security and other data. These threats have come from
+foreign nationals in China, Great Britain, Italy, Nigeria, Portugal,
+Romania, Russia, Turkey and Estonia. Just last month a Romanian
+national who had allegedly hacked into a NASA computer server and
+posted sensitive satellite data he acquired on-line was arrested by
+Romanian officials. Last November, the NASA Office of Inspector
+General, along with the FBI announced charges against six Estonian
+nationals and one Russian national for infecting NASA and other
+computers with malware that secretly altered the settings of more than
+four million infected computers sending Internet searches on those
+computers to specific websites generating more than $14 million in
+fraudulent advertising fees for the cyber criminals.
+The number of potential threats is expanding rapidly. A recent
+Cisco Systems study found that there were an estimated 12.5 billion
+electronic devices capable of connecting to the Internet in 2010. This
+number will increase to approximately 25 billion in 2015 and an
+astounding 50 billion by 2020. Given this continued expansion of
+computer communications networks, organizations such as NASA will face
+a digital battlefield of constantly evolving points of attack and new
+efforts to exploit weaknesses.
+The challenge in successfully addressing cyber-security issues is
+particularly difficult at NASA. NASA owns a little less than half of
+the U.S. government's non-Defense web-sites. There are approximately
+3,400 NASA controlled web-sites and nearly 1,600 of these are linked to
+the outside world. There are an estimated 176,000 individual IP
+addresses assigned to NASA's IT systems and networks. NASA also
+possesses more than 120,000 computer or related devices located at its
+centers and facilities that are connected to the Agency's IT networks.
+This huge system of nodes and networks presents enormous IT security
+challenges and potential IT vulnerabilities to the Agency. Over the
+past two years NASA reported more than 5,400 computer security
+intrusions that resulted in the installation of malicious software or
+unauthorized access to NASA's computer systems.
+These cyber threats pose unique safety and security concerns to
+NASA. NASA's IT systems control spacecraft, including the Hubble Space
+Telescope and International Space Station, collect and process
+scientific data, contain records on a wide-array of technologically
+sophisticated intellectual property. These are all attractive targets
+for cyber-attack. Yet NASA cannot just take their systems off the
+internet to make them secure because they connect its thousands of
+scientists, engineers and other employees around the country to each
+other and connect NASA's human and information resources to the rest of
+the world.
+Unfortunately NASA has a poor history of addressing cybersecurity
+threats. Insufficient efforts have been made in the past to take
+appropriate actions to confront and correct internal agency
+deficiencies. For example, the IG has re-investigated cyber-related
+issues it had identified in prior reports only to find the original
+weaknesses still uncorrected. These failures over time have exacerbated
+the agency's vulnerabilities. They certainly complicate efforts by the
+new leadership at NASA to address cybersecurity quickly and
+effectively.
+NASA's IG has found that the Agency does not have an IT security
+configuration baseline across the agency. In other words, it is unclear
+what NASA's IT security is supposed to look like because there is no
+diagram of what it does look like. In addition, the IG has found that
+the Agency's vulnerability management practices have drastically
+underestimated the cyber-security threats and vulnerabilities NASA
+faces. And the Agency lacks a complete up-to-date inventory of all of
+its IT components.
+Clearly it is easier to protect your home from a potential intruder
+if you know how many doors you have and where they are located. NASA
+does not appear to possess an accurate blueprint of its own house's IT
+infrastructure. Without that NASA cannot ensure that every potential
+gateway into the Agency is monitored and effectively protected.
+My comments are not specifically directed at NASA's Office of the
+Chief Information Officer or Ms. Cureton, NASA's Chief Information
+Officer (CIO) who is testifying before us today. In fact, I hope my
+statement makes clear that I believe the problems with cybersecurity at
+NASA are many years in the making, and Ms. Cureton has had limited time
+to set things right. I am also aware that the CIO at NASA has limited
+authority to impose cybersecurity solutions across the entire NASA
+enterprise of contractors, Centers, and Mission Directorates. There
+seems to be a gap between the scope of your responsibility and the
+scope of your authority.
+NASA's IT vulnerabilities must be identified and closed. Speed is
+critical in this context. If there are institutional or financial
+stumbling blocks that stand in the way of completing these critical
+tasks then I hope our witnesses will provide constructive suggestions
+to address them. The Committee is prepared to work with NASA to help
+close these gaps.
+I believe this is an important subject and I look forward to
+hearing from our witnesses. Thank you Mr. Chairman.
+
+Chairman Broun. Thank you, Mr. Tonko. If there are Members
+who wish to submit additional opening statements, their
+statements will be added to the record at this point.
+Now at this time I would like to introduce our panel of
+witnesses. Ms. Linda Cureton, the Chief Information Officer at
+NASA, and the Honorable Paul K. Martin, the Inspector General
+of NASA.
+As our witnesses should know, spoken testimony is limited
+to five minutes each, after which the Members of the Committee
+will have five minutes each to ask questions. Your written
+testimony will be included in the record of the hearing.
+Now, it is the practice of this subcommittee to receive
+testimony under oath. Do either of you have any objections to
+taking the oath? Both indicated by saying ``no'' and shaking
+their head side to side reflecting no. Let the record reflect
+such.
+If all of you would please stand and raise your right hand.
+Do you solemnly swear or affirm to tell the whole truth and
+nothing but the truth, so help you God? Thank you. You may be
+seated. Let the record reflect that the witnesses participating
+have taken the oath.
+Now I recognize our first witness, Ms. Cureton. You have
+five minutes.
+
+TESTIMONY OF LINDA Y. CURETON,
+
+CHIEF INFORMATION OFFICER,
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+Ms. Cureton. Chairman Broun and Members of the
+Subcommittee, thank you for the opportunity to appear before
+you to discuss the state of information technology security at
+NASA.
+Today NASA professionally plans, builds, and practices IT
+security to ensure integrity, availability, and confidentiality
+of NASA's critical data and IT assets. The challenge is to get
+ahead and stay ahead of cyber attackers who tend to be well-
+resourced, exhibit varying levels of sophistication, and are
+highly motivated. The pace of technological changes such as
+cloud computing, social networking, and mobile computing modify
+the landscape and compound the cybersecurity challenges.
+NASA's Information Resources Management Strategic Plan
+outlines strategic goals and objectives to provide cost-
+effective agency security that safeguards and protects
+information and information systems. We are determined to
+improve NASA's capability to predict, prevent, and effectively
+contain potential IT security incidents. Our motivation is
+driven by the need to protect mission information targeted by
+nation states, cyber criminals, and hackers, predict rather
+than react to cyber threats, and create an adaptive agency
+security posture that supports increased interoperability,
+mobility, and innovation.
+NASA's Security Operation Center recorded and categorized
+1,867 cybersecurity incidents in fiscal year 2011. Analysis of
+those cyber incidents led to additional patching, vulnerability
+management, communication, and user training and awareness.
+Building a truly successful security program requires
+independent evaluation and honest appraisal. The NASA Office of
+Inspector General IT Audit Staff continuously and aggressively
+review NASA's IT security program. Over the past several years
+the OIG has conducted audits of NASA's IT systems,
+applications, and IT practices. They identified
+vulnerabilities, threats, and risks to NASA's IT
+infrastructure. In their last semi-annual report to Congress
+the OIG noted 37 open IT security audit recommendations,
+calling for NASA to identify internet accessible computers on
+mission networks, conduct security assessments of mission
+networks, mitigate risks on mission networks, implement
+continuous monitoring across the IT infrastructure, improve
+vulnerability scanning, reduce network vulnerabilities, improve
+asset management, improve configuration management, update
+policies and procedures.
+Sixteen of the OIG recommendations have been closed, and a
+corrective action plan has been implemented to mitigate the
+remaining open recommendations. NASA has accomplished the
+following under the plan: Inventory IT devices and security
+configurations agency wide, scanned for vulnerabilities on
+internet-connected devices, remediated discovered deficiencies,
+conducted third-party external assessments of NASA networks to
+determine website vulnerabilities, introduced new technologies
+to capture and contain cyber attacks, analyzed approximately
+130,000 connected devices to assess vulnerabilities and
+security patch status. Entered a two-year agreement with the
+Department of Energy for penetration testing of mission
+networks, conducted strengths, weaknesses, opportunities, and
+threat assessments to improve strategic alignment of enterprise
+IT security services, standardized IT security incident
+response procedures, and consolidated contracts to provide
+streamlined IT service management and delivery through the IT
+Infrastructure Integration Program, I3P.
+Finally, NASA remains committed to continued improvement of
+the IT security posture as the NASA IT Security Program is
+transforming and maturing.
+Thank you.
+[The prepared statement of Ms. Cureton follows:]
+
+Prepared Statement of Ms. Linda Y. Cureton,
+Chief Information Officer, NASA
+
+[GRAPHIC] [TIFF OMITTED] T2919.011
+
+[GRAPHIC] [TIFF OMITTED] T2919.012
+
+[GRAPHIC] [TIFF OMITTED] T2919.013
+
+[GRAPHIC] [TIFF OMITTED] T2919.014
+
+Chairman Broun. Thank you, Ms. Cureton.
+I now recognize our next witness, Mr. Martin, for five
+minutes.
+
+TESTIMONY OF THE HONORABLE PAUL K. MARTIN,
+
+INSPECTOR GENERAL, NATIONAL AERONAUTICS AND SPACE
+ADMINISTRATION
+
+Mr. Martin. Thank you, Mr. Chairman. Chairman Broun,
+Ranking Member Tonko, and Congressman, excuse me, Congresswoman
+Adams, thank you for the opportunity to testify at today's
+hearing about NASA's efforts to protect its information
+technology resources.
+As it has been pointed out, NASA's IT assets include more
+than 550 information systems that control spacecraft, collect
+and process scientific data, and enable NASA personnel to
+collaborate with contractors, academics, and members of the
+public around the world. NASA is a regular target of cyber
+attacks, both because of the large size of its networks and
+because those networks contain highly-sought after information.
+Moreover, some NASA systems house sensitive information,
+which, if lost or stolen, could result in significant financial
+loss, adversely affect national security, or significantly
+impair our Nation's technological advantage.
+At the same time NASA's statutory mission to share its
+scientific information presents heightened IT security
+challenges because the agency's connectivity with outside
+organizations provide cyber criminals with a larger target
+compared to many other government agencies.
+In 2010 and 2011, NASA reported 5,408 computer security
+incidents that resulted in the installation of malicious
+software on or unauthorized access to its systems. These
+incidents ranged from individuals testing their hacking skills
+to well-organized criminal enterprises seeking to exploit
+NASA's systems for profit to intrusions that may have been
+sponsored by foreign intelligence services. Taken together
+these intrusions have affected thousands of NASA computers,
+caused significant disruptions to mission operations, and
+resulted in the theft of export controlled and otherwise
+sensitive data.
+The OIG devotes substantial resources to examining NASA's
+efforts to protect its IT systems. Over the past five years we
+have issued 21 audit reports containing 69 IT-related
+recommendations. To date all but 18 have been closed.
+In addition, the OIG has conducted more than 16
+investigations of breaches of NASA's networks, several of which
+have resulted in the arrest of individuals as has been pointed
+out in the U.S., China, Great Britain, Italy, Nigeria, Romania,
+Turkey, and Estonia.
+My written statement discusses in detail five issues that
+we believe constitute NASA's most pressing challenges in the
+admittedly-difficult task of protecting the agency's IT
+information from loss or theft. Briefly, these challenges are,
+number one, lack of full awareness of agency-wide IT security
+posture. NASA's IT assets generally fall into two categories;
+institutional systems and networks that support administrative
+functions such as budgeting and human resources and mission
+systems that support the agency's aeronautics, science, and
+space programs. While the CIO has the ability to implement
+security programs for NASA's institutional systems, she cannot
+fully account for or ensure that the agency's mission assets
+comply with appropriate IT security policies.
+Number two, shortcomings in implementing continuous
+monitoring. NASA has not fully transitioned from its historic
+snapshot approach for certifying the security of its IT systems
+to an approach that relies on a more comprehensive program of
+ongoing monitoring.
+Number three, the slow pace of inscription. NASA has been
+very slow to implement full-disk encryption on its notebook
+computers and other mobile devices, exposing sensitive
+information to unauthorized disclosure when these devices are
+lost or stolen. OMB has reported a government-wide encryption
+rate for these devices of 54 percent. In contrast, at the
+beginning of this month only one percent of NASA's portable
+devices have been encrypted.
+Number four, the ability to combat sophisticated cyber
+attacks. Increasingly, NASA has become a target of a
+sophisticated form of cyber attack known as an advanced
+persistent threat or APT. In fiscal year 2011, alone NASA
+reported it was the victim of 47 such attacks with 13
+successfully compromising agency systems.
+And number five, transition to cloud computing. While cloud
+computing promises significant cost savings, NASA must
+carefully weigh potential risks such as loss or compromise of
+its data posted on the cloud.
+This concludes my remarks. I would be pleased to answer any
+questions.
+[The prepared statement of Mr. Martin follows:]
+
+Prepared Statement of The Honorable Paul K. Martin,
+Inspector General, NASA
+
+[GRAPHIC] [TIFF OMITTED] T2919.015
+
+[GRAPHIC] [TIFF OMITTED] T2919.016
+
+[GRAPHIC] [TIFF OMITTED] T2919.017
+
+[GRAPHIC] [TIFF OMITTED] T2919.018
+
+[GRAPHIC] [TIFF OMITTED] T2919.019
+
+[GRAPHIC] [TIFF OMITTED] T2919.020
+
+[GRAPHIC] [TIFF OMITTED] T2919.021
+
+[GRAPHIC] [TIFF OMITTED] T2919.022
+
+[GRAPHIC] [TIFF OMITTED] T2919.023
+
+[GRAPHIC] [TIFF OMITTED] T2919.024
+
+Chairman Broun. Thank you, Mr. Martin. You were dead on
+exactly five minutes. I appreciate that, and Ms. Cureton, you
+were great, too, so I appreciate you all's expediency in
+getting through this process. I thank you all for your
+testimony.
+Reminding Committee Members that committee rules limit
+Members' questions to five minutes per round of questions. I am
+going to defer the normal chair's starting the round of
+questions. I am going to recognize Ms. Adams because she has a
+meeting to go to, so Ms. Adams, you are recognized for five
+minutes.
+Mrs. Adams. Thank you, Mr. Chairman.
+Mr. Martin, you referenced in your testimony a 2010, audit
+where you discovered only 24 percent of mission network
+computer were monitored for critical software patches and only
+62 percent were monitored for technical vulnerabilities.
+Additionally, you mentioned that only one percent, again, of
+NASA's portable devices and laptops are encrypted.
+Is this negligence by the CIO's Office, or is there another
+explanation as to why this is not being done?
+Mr. Martin. I don't think it is negligence by the Office of
+the CIO, and you can ask the CIO that question. However, it is
+disturbing. Certainly the encryption rate of one percent is
+very disturbing because as we have discussed here NASA's mobile
+computing devices contain very sensitive information.
+Mrs. Adams. Right, and your office discovered in December
+of 2010 that NASA failed to properly sanitize excess Shuttle
+computers and hard drives and that at least ten had been
+released to the public with sensitive data on them.
+Did you recover any of these improperly-released computers,
+and what has NASA done to ensure this doesn't happen in the
+future?
+Mr. Martin. Again, our auditors during that actually were
+able, during the conduct of an audit, and again, this was not a
+criminal investigation but an audit, the auditors caught what
+was supposed to have been a sanitized hard drive, and we
+prevented that and gave it back to the agency. This was
+troubling. There were inconsistent procedures at the four NASA
+centers that we went to for sanitizing excess Shuttle
+equipment, and this was very troubling.
+Mrs. Adams. Ms. Cureton, according to the IG between April,
+2009, and April, 2011, NASA reported 48 agency mobile computing
+devices with sensitive data and even some including export
+control and a third-party intellectual property on them stolen.
+How many of these devices were encrypted, and have any of them
+been recovered?
+Ms. Cureton. I am sorry I don't have the specific details
+about those devices, but one of the things that we have done is
+work closely with our desktop service provider to make sure
+that the devices such as the laptops and mobile devices have
+the appropriate encryption.
+I mentioned in my opening statement that we recently
+awarded our IT Infrastructure Programs, I3P, and the key
+critical contract and program that needed to do that was
+awarded in December. We have developed a plan for accelerating
+our encryption of devices, and we have prioritized encryption
+of laptop and other mobile devices.
+Mrs. Adams. How many of the 5,400 attacks against NASA in
+the last two years have originated from those devices or
+information that was available on those devices? Do you know?
+Ms. Cureton. I don't have the exact number, but generally
+most of the attacks are sourced through our websites and
+vulnerabilities through there. With the large number of
+websites that we do have it creates a large attack surface
+where attackers can easily get in and exploit things if they
+are not appropriately protected.
+So our biggest risk is the websites, and the mobile devices
+do not represent a significant amount of risk in terms of what
+we have seen.
+Mrs. Adams. Has NASA's relationships with contractors and
+other third parties been affected by the lack of security by
+what we are hearing today?
+Ms. Cureton. Excuse me? Has it been effective or----
+Mrs. Adams. Affected.
+Ms. Cureton. We work closely with our industry partners. We
+work through organizations like the American Council of
+Technology, the Information Advisory Council, and another
+organization called the Cyberspace Intelligence Association or
+Cyber Fajitas and Margaritas, and we work through them so we
+have a safe forum for exchanging information and getting
+information flowing freely between industry partners about what
+we can do to jointly protect our common threats.
+Mrs. Adams. So you are in constant contact and conversation
+with those contractors and third parties because I would think
+they would be concerned about their information, intellectual
+property being stolen.
+Ms. Cureton. Yes, and also we are concerned about
+vulnerabilities that we present to their networks and they
+present to ours.
+Mrs. Adams. Thank you. I yield back.
+Chairman Broun. Thank you, Ms. Adams.
+Now recognize Mr. Tonko for five minutes.
+Mr. Tonko. Thank you, Mr. Chair.
+Mr. Martin, you have suggested that NASA may not gain full
+control of its IT security problems until the CIO's Office has
+the authority to ensure IT security policies are enforced
+across the entire agency. Would you please expand on how the
+CIO's authority is limited and why that raises hurdles to
+effective cyber security?
+Mr. Martin. Certainly. I am not sure we used the word
+authority. I think the CIO under certainly the Clinger-Cohen
+Act and NASA policies has the authority. She does not have the
+operational control as I indicated in my opening remarks over
+the mission networks at NASA, and frankly that is where we are
+seeing the bulk of the attacks coming from are the mission
+networks that are in the control of the mission directorates or
+based at the centers. She doesn't control the funding for
+those, and Linda can speak to that. She doesn't control the
+funding, and as we have all seen in Washington, when you don't
+control the funding, you have a difficult time getting folks'
+full attention.
+Mr. Tonko. Thank you, and Ms. Cureton, to illustrate the
+limits of your authority, can you share with us just what
+proportion of NASA's IT budget you directly control?
+Ms. Cureton. The fiscal year 2013 requested level is at
+approximately 1.4 billion. Of that I am allocated a portion of
+that, and it is 152 million. That allocation is given to me by
+another directorate, so I am going to get whatever I am
+allocated from that directorate, and the rest of it is
+controlled either by CIOs at centers, a relatively small
+portion of it, and I will say that the center CIOs do report to
+me, but their budgets report to their center directors. And
+then the rest of the $1.4 billion budget is controlled by
+missions and programs.
+Mr. Tonko. Interesting. Ms. Cureton, if you were given more
+authority over the IT budget and over the mission directorates,
+how would you use that to enhance cybersecurity policies?
+Ms. Cureton. I would attempt to consolidate many of our
+networks. One of the challenges that we do have, especially as
+it relates to the funding required to implement these
+safeguards, there are many networks that need to be
+safeguarded, many doors, many gates to guard. And there needs
+to be a consolidation of the local area networks that exist at
+the agency so that safeguarding these networks is a more
+practical effort.
+So I would definitely do that. I would prioritize on
+addressing the vulnerabilities and risks that exist on our
+networks and then finally address the proliferation of websites
+to the extent that it makes it difficult for us to secure our
+networks. There is a strong need for NASA to have networks and
+internet technologies to collaborate and share information with
+our partners, but in looking at some of the innovative
+abilities, innovative solutions that exist now, there are more
+modern ways to securely collaborate with partners and still
+accomplish our mission.
+Mr. Tonko. And that ought to be, I would think, a high
+priority within the operations that you serve.
+Ms. Cureton. Correct.
+Mr. Tonko. Absent more authority, how can you assure us
+that you can build a bulletproof cybersecurity program for
+NASA?
+Ms. Cureton. I am committed to work diligently with the
+goals that I have set before the Administrator. I have a very
+capable IT security staff, my deputy CIO for IT security. We
+work closely as we can with missions. We work to build
+credibility, to communicate, to improve user awareness. We
+continue to do those things and continue to attempt to make
+progress in breaking down some of the barriers while closing
+some of the loopholes that we do have.
+Mr. Tonko. Thank you, and Mr. Martin, do you believe
+cybersecurity can be effectively established at NASA absent
+consolidation of authority?
+Mr. Martin. Even with consolidation of authority there
+needs to be a new mindset and a new way to operate. Again,
+having control solely over the IT security apparatus for just
+the institutional side of the house is woefully inadequate to
+securing NASA's very important information.
+Mr. Tonko. Thank you. Thank you very much.
+Mr. Chair, I yield back.
+Chairman Broun. Thank you, Mr. Tonko. I yield myself five
+minutes now.
+Last March the NASA IG issued a report that called for NASA
+to conduct an agency-wide IT risk assessment. In that report
+the CIO committed to developing and implementing a strategy for
+conducting this risk assessment by August 31, 2011.
+First, Mr. Martin, what is the status of this effort, and
+do you know of a firm date where we can expect that.
+Mr. Martin. I think Ms. Cureton would probably know the
+exact date.
+Chairman Broun. I am going to ask her that next.
+Mr. Martin. I believe the date of August, 2011, has
+slipped, and NASA has asked until I believe November of this
+year to complete that action.
+Chairman Broun. Okay. Ms. Cureton. What is the status?
+Ms. Cureton. Yes. The date has slipped, and we have made a
+formal request for an extension.
+Chairman Broun. When are we going to have the report, and I
+mean, the risk assessment done and full accounting for what you
+are doing to implement that?
+Ms. Cureton. June, 2012.
+Chairman Broun. Absolutely, positively June, 2012. We keep
+slipping past these dates, and this committee would like to
+know when we can expect that.
+Ms. Cureton. I believe that I will make it. I am committed
+to make that happen. I can't say that there are things that
+won't happen that cause us to change our priorities, but it is
+an absolute priority for me, and I am committed to make sure
+that it happens.
+Chairman Broun. Well, certainly we need to have a way to
+implement this risk assessment. September of 2010 and December
+of 2011 the NASA IG issued reports recommending that NASA
+transition to a continuous monitoring approach for this IT
+system.
+Mr. Martin, what is the status of this effort?
+Mr. Martin. It is ongoing. I think NASA has made some
+significant strides. This is a whole new approach to monitoring
+the security of government systems, and you may be familiar
+with the FISMA, the Federal Information Security Management Act
+of a number of years back.
+Unfortunately, we have seen in the IG community it devolve
+into really somewhat of a less effective paper-driven exercise.
+And so there has been a move that has been promoted by OMB and
+the Department of Homeland Security to move more toward what is
+called continuous monitoring a more dynamic security oversight
+process because the IT systems that you are reviewing are
+dynamic and ever changing.
+So we assess NASA's move from the old static, what we call
+``snapshot'' system, once a year at this moment in time, do you
+have the policies, do you have the paperwork, as opposed to,
+``do those policies and paper mean anything, do they work,''
+and moving to a continuous monitoring. NASA has made strides,
+but as we point out in our audit report, we found a couple
+significant areas where NASA needs to make significant efforts
+in order to have an effective continuous monitoring program.
+Chairman Broun. And you have made those recommendations to
+NASA?
+Mr. Martin. We absolutely have.
+Chairman Broun. Okay. Ms. Cureton, do you want to answer
+the question?
+Ms. Cureton. We committed to completing the activities,
+enable that in November, 2012. There are several steps that we
+need to make, one of them will be to have a more robust asset
+management program to have situational awareness of the
+configuration of the networks and the endpoint devices, and we
+believe that that should be essentially completed in the first
+quarter fiscal year 2013.
+Chairman Broun. And this is going to be a continuing
+monitoring process?
+Ms. Cureton. Yes.
+Chairman Broun. Okay. In 2011, NASA developed a governance
+model to streamline IT decision making. What role do the
+mission directorate senior officials, the subject matter
+experts that are responsible for mission success, play in the
+IT security decision making process, Ms. Cureton?
+Ms. Cureton. We have governance boards and working groups
+that have representation from each mission directorate, and we
+have enterprise architecture boards that have representations
+from the mission directorates. Our IT management board has
+representation from a mission directorate in terms of a mission
+directorate CIO. At the senior levels there is a mission
+support council that consists of myself, the assistant
+associate administrator for mission support, the associate
+administrator, the deputy associate administrator, and the CFO,
+and then report to the executive council, which consists of the
+administrator, the deputy administrator, and some of the others
+that I mentioned earlier.
+The representation from the directors and the centers would
+come from the administrator, the deputy administrator, and also
+through the associate administrator.
+Chairman Broun. Okay. My time has expired.
+I will now yield five minutes to Mr. Tonko.
+Mr. Tonko. Thank you, Mr. Chair.
+This is a question I will pose to both of our witnesses.
+What do you see as the biggest IT security threat facing NASA
+today? Would it be foreign governments, 16-year-old children in
+the United States, cyber criminals, groups like anonymous--is
+there any way for either of you to quantify the IT threats that
+NASA faces and what the actual impact of these threats have
+been to NASA?
+Mr. Martin. After you.
+Ms. Cureton. Thank you.
+Mr. Martin. You are welcome.
+Ms. Cureton. In saying big, big would be quantified as like
+the largest number of attacks or perhaps it could be a smaller
+number of attacks but a bigger impact. So it is hard to really
+say what is big, but certainly the impact is the advanced
+persistent threat in terms of what it means to our Nation's
+security and our Nation's future.
+But then big in terms of numbers tends to be more along the
+criminal side because there is opportunities to get financial
+information, personal identification from employees that could
+financially benefit hackers. And probably by numbers some of
+them appear like that, but by impact it is probably more along
+the lines of the advanced persistent threat that is probably
+attributable to nation states or organized crime.
+Mr. Tonko. Uh-huh. Mr. Martin.
+Mr. Martin. Thank you. I don't disagree with that
+assessment at all, but we have seen the whole gamut. We have
+seen the Swedish teenager bringing down NASA's super computer
+at Ames causing upwards of $6 million in damage for
+remediation. We have seen the criminal, sophisticated criminal
+enterprises. As we mentioned, we had six arrests in Estonia
+working with the Estonian National Police. That was primarily a
+financially-derived initiative, but once you are in the NASA
+systems, even if your goal is to redirect internet traffic, you
+know, for what they called internet fraud, click fraud, or more
+of an advertising scam, you have access into NASA's systems.
+You can sell that access to other folks who are after NASA-
+sensitive information.
+So it really runs the gamut.
+Mr. Tonko. Thank you, and all NASA IT components are
+supposed to be identified in a database established by the
+CIO's Office, all the IT security enterprise data warehouse.
+The IG's audit found, I believe, that out of 289 NASA IT
+components they reviewed only 175 that were included in that
+database. The IG found that NASA's failure to maintain a
+complete, up-to-date inventory of IT components significantly
+diminishes its ability to develop and maintain a continuous
+monitoring program.
+Where do we take this from there?
+Ms. Cureton. So the first step would be to increase the
+number of assets that we do monitor, and that would be by
+increasing and improving our asset management program, and once
+we do that we are able to determine the configuration of those
+assets and maintain the right inventory of baseline
+configuration levels.
+And then finally, make sure that we are able to monitor
+each component of the network to look for intrusions and
+identify them as soon as possible.
+Mr. Tonko. Thank you, and many of the issues we are talking
+about here today have been endemic at NASA for at least the
+past decade. Can both of you please address that issue and tell
+us why you believe these IT security issues at NASA continue to
+occur, why it appears NASA management has had such a difficult
+time reigning in these issues and managing its IT security
+structure in a better format.
+Ms. Cureton. Me first? Okay. The most difficult part of
+addressing this is culture. We spend a lot of time focused in
+the technology part of it, which is really difficult, too, but
+culture is probably the number one impediment.
+IT security is considered a CIO's problem, but IT security
+is basically a mission problem. The information that the actors
+are looking for is mission information. They are looking for
+the information to get some advantage in terms of whatever the
+motives they have would dictate.
+And being more focused on the institutional side doesn't
+really protect where the biggest risk is, but being able to
+persuade the mission, the culture of the mission that they
+should include a culture of looking at IT security issues is a
+big challenge admittedly.
+And so as with working through any culture, it takes a long
+time to build the credibility to provide the impetus to change,
+to get critical mass that says, yes, we are going to do it and
+go forward, and so that process takes a long time, and it has
+taken a long time.
+Mr. Tonko. Anything?
+Mr. Martin. I think I would agree with that. I think if the
+goal is to have IT security at NASA more centralized in the
+CIO's Office, she would need a much larger stick than she
+currently has now.
+Mr. Tonko. Thank you, and I have exceeded my time, so, Mr.
+Chair, I yield back.
+Chairman Broun. Thank you, Mr. Tonko. I yield myself five
+minutes.
+The ``Wall Street Journal'' article on November 17, 2011,
+titled, ``China, U.S. Use Same Tracking Base,'' states that the
+Chinese entity, China satellite launch and tracking control
+general, part of PLA's General Armament Department, leases a
+ground station in Dongara, Western Australia that is run by a
+Swedish state-owned company called Swedish Space Corp SSC and a
+U.S. subsidiary that supports U.S. Air Force space surveillance
+satellites and NASA.
+According to a spokesman for Australia's Department of
+Innovation, Industry, Science, and Research, ``Australia did
+not consult the U.S. on the establishment of the SSC facilities
+or its customers.''
+Ms. Cureton, what insight does NASA have into the
+information security measures employed at foreign satellite
+ground stations, and do these foreign sites have a
+multinational presence present unique--do they present a unique
+challenge to NASA IT security?
+Ms. Cureton. Well, obviously we have to work within the
+constraints of what state and local authorities are there, but
+we do protect the nodes of our network that exist at foreign
+locations. I can't speak specifically to the article that you
+quote, but I will say that we do take the proper security
+precautions at foreign locations.
+Chairman Broun. That seems just to be kind of a roundabout
+way of losing our security. I hope you all look at the presence
+that these do present, because I think it does present a unique
+challenge to your all's security.
+The U.S. China Economic Security Review Commission issued
+an annual report last November that indicated that the Terra
+and Landsat-7 satellites experiences interference apparently
+consistent with cyber activities against their command and
+control systems.
+Ms. Cureton, who is currently responsible for ensuring data
+integrity and security for NASA satellite operations? Is it the
+CIO or mission directorates?
+Ms. Cureton. It is the mission directorates.
+Chairman Broun. How do we make sure that they stay secure?
+Do they stay there, or do we come back to your office or how
+do--tell us what you would recommend?
+Ms. Cureton. I believe that the mission directorates need
+to own the responsibility of security for their assets. One of
+the challenges is that I own the responsibility of securing
+other people's assets, and I own the responsibility of making
+them a priority according to somebody else's priority. So once
+the responsibility of securing mission networks and assets in
+this case properly resides with the proper management
+authority, I think we would see better responses.
+Chairman Broun. You would see some better responses across
+the board as far as I am concerned.
+What insight does the CIO have into contractor compliance
+with NASA IT security standards, and who is responsible for
+providing contractor information and security oversight, Ms.
+Cureton?
+Ms. Cureton. The responsibility would go to the owner of
+the contract. So if it is in the mission directorate, that is
+where it would be.
+Chairman Broun. Okay. Mr. Martin, do you have any
+suggestions or thoughts?
+Mr. Martin. I think what we do is we audit and we
+investigate. Because I think this is the fundamental issue
+facing IT security at NASA: are we going to have a CIO's Office
+and what structure would best implement a strong security
+function at NASA, because we have discussed the limited
+authority that she has over the institutional side of the house
+as opposed to the mission side of the house.
+So we have opened an audit that is going to look at the
+governing structure that NASA currently employs in its CIO
+Office, vis-`-vis its mission directorates to try to find where
+that balance, where the best balance of authority and
+responsibility would be.
+Chairman Broun. When will that audit be available for us?
+Mr. Martin. We have just begun it. I would think that we
+are probably looking nine months down the road.
+Chairman Broun. Well, please get it to us as quickly as you
+get it. This committee is very interested in hearing that.
+NASA has conflicting priorities when it comes to
+information management. On one hand it has to protect sensitive
+information associated with dual use, proprietary data from
+release, but on the other hand it has to facilitate scientific
+collaboration which requires open access and transparency.
+Ms. Cureton, how does the CIO manage these competing
+cultural priorities?
+Ms. Cureton. One of the key enablers of this is with our
+I3P Infrastructure Program. One of the contracts awarded was to
+SAIC to manage networks. We have many networks at NASA. We have
+wide area networks, and we have many, many local area networks.
+So the network service provider will be moving through the
+agency and assuming operational responsibility over existing
+networks. That will take some work in terms of working with
+mission directorates and looking at responsibilities where they
+are separated and where they are joint. And then once we do
+that then we are able to have an awareness of what is out
+there.
+Chairman Broun. Thank you, Ms. Cureton and Mr. Martin. I
+thank you all for you all's testimonies today. This is a huge
+issue. I see a tremendous vulnerability for a very sensitive
+underbelly of our own economic security as well as potential
+defense security through NASA. As I have stated before to both
+of you all, cybersecurity is extremely important to me as an
+individual, and I think it is important to Mr. Tonko and all of
+us here on this committee.
+I hope that we can find some way to make sure that we have
+better cybersecurity, IT security within the Department, and I
+am looking forward to working with both of you as we go forward
+and helping to develop a better security infrastructure within
+NASA. You all have been great.
+The Members of this Subcommittee may have additional
+questions for you all to answer, and we will ask you to respond
+to those in writing. In fact, I have a number myself that I
+will submit to you all, and I am sure all of us will probably
+do so. The record will remain open for two weeks for additional
+comments from Members.
+The witnesses are excused. I thank you all very much, and
+the hearing is now adjourned.
+[Whereupon, at 3:21 p.m., the Subcommittee was adjourned.]
+
+Appendix I
+
+----------
+
+Answers to Post-Hearing Questions
+
+Responses by Ms. Linda Y. Cureton, Chief Information Officer, NASA
+
+[GRAPHIC] [TIFF OMITTED] T2919.025
+
+[GRAPHIC] [TIFF OMITTED] T2919.026
+
+[GRAPHIC] [TIFF OMITTED] T2919.027
+
+[GRAPHIC] [TIFF OMITTED] T2919.028
+
+[GRAPHIC] [TIFF OMITTED] T2919.029
+
+[GRAPHIC] [TIFF OMITTED] T2919.030
+
+[GRAPHIC] [TIFF OMITTED] T2919.031
+
+[GRAPHIC] [TIFF OMITTED] T2919.032
+
+[GRAPHIC] [TIFF OMITTED] T2919.033
+
+[GRAPHIC] [TIFF OMITTED] T2919.034
+
+[GRAPHIC] [TIFF OMITTED] T2919.035
+
+[GRAPHIC] [TIFF OMITTED] T2919.036
+
+[GRAPHIC] [TIFF OMITTED] T2919.037
+
+Answers to Post-Hearing Questions
+Responses by The Honorable Paul K. Martin, Inspector General, NASA
+
+[GRAPHIC] [TIFF OMITTED] T2919.038
+
+[GRAPHIC] [TIFF OMITTED] T2919.039
+
+[GRAPHIC] [TIFF OMITTED] T2919.040
+
+

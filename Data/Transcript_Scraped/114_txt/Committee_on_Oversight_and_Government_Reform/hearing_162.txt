@@ -1,0 +1,2117 @@
+- CYBERSECURITY: ENSURING THE INTEGRITY OF THE BALLOT BOX
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBERSECURITY: ENSURING THE INTEGRITY OF THE BALLOT BOX
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+SEPTEMBER 28, 2016
+
+__________
+
+Serial No. 114-165
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+26-124 PDF                  WASHINGTON : 2017
+
+----------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              TAMMY DUCKWORTH, Illinois
+CYNTHIA M. LUMMIS, Wyoming           ROBIN L. KELLY, Illinois
+THOMAS MASSIE, Kentucky              BRENDA L. LAWRENCE, Michigan
+MARK MEADOWS, North Carolina         TED LIEU, California
+RON DeSANTIS, Florida                BONNIE WATSON COLEMAN, New Jersey
+MICK, MULVANEY, South Carolina       STACEY E. PLASKETT, Virgin Islands
+KEN BUCK, Colorado                   MARK DeSAULNIER, California
+MARK WALKER, North Carolina          BRENDAN F. BOYLE, Pennsylvania
+ROD BLUM, Iowa                       PETER WELCH, Vermont
+JODY B. HICE, Georgia                MICHELLE LUJAN GRISHAM, New Mexico
+STEVE RUSSELL, Oklahoma
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Jennifer Hemingway, Staff Director
+Troy Stock, Information Technology Subcommittee Staff Director
+William Marx, Clerk
+David Rapallo, Minority Staff Director
+------
+
+Subcommittee on Information Technology
+
+WILL HURD, Texas, Chairman
+BLAKE FARENTHOLD, Texas, Vice Chair  ROBIN L. KELLY, Illinois, Ranking
+MARK WALKER, North Carolina              Minority Member
+ROD BLUM, Iowa                       GERALD E. CONNOLLY, Virginia
+PAUL A. GOSAR, Arizona               TAMMY DUCKWORTH, Illinois
+TED LIEU, California
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on September 28, 2016...............................     1
+
+WITNESSES
+
+Mr. Andy Ozment, Assistant Secretary for Cybersecurity and
+Communications, U.S. Department of Homeland Security
+Oral Statement...............................................     5
+Written Statement............................................     8
+Mr. Thomas Hicks, Commissioner, Chairman, U.S. Election
+Assistance Commission
+Oral Statement...............................................    12
+Written Statement............................................    14
+The Hon. Brian P. Kemp, Secretary of State, State of Georgia
+Oral Statement...............................................    21
+Written Statement............................................    23
+Mr. Andrew W. Appel, Eugene Higgins Professor of Computer
+Science, Princeton University
+Oral Statement...............................................    27
+Written Statement............................................    29
+Mr. Lawrence Norden, Deputy Director, Democracy Program, Brennan
+Center for Justice, New York University School of Law
+Oral Statement...............................................    38
+Written Statement............................................    40
+
+APPENDIX
+
+Letter for the Record regarding federal voter registration
+submitted by Ranking Member Cummings...........................    84
+Article for the Record titled, ``States Ask Feds for
+Cybersecurity Scans Following Election Hacking Threats,''
+submitted by Mr. Lieu..........................................    88
+Checklist for Securing Voter Registration Data, submitted by Mr.
+Hurd...........................................................    91
+Letter for the Record regarding possible Trump connections to
+cyber attacks, submitted by Ranking Member Cummings............    93
+Open letter from the National Association of Secretaries of
+State, submitted by Mr. Hurd...................................    99
+Statement for the Record of the Electronic Privacy Information
+Center, submitted by Mr. Hurd..................................   102
+
+CYBERSECURITY: ENSURING THE INTEGRITY OF THE BALLOT BOX
+
+----------
+
+Wednesday, September 28, 2016
+
+House of Representatives,
+Subcommittee on Information Technology,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:03 p.m., in
+Room 2154, Rayburn House Office Building, Hon. Will Hurd
+[chairman of the subcommittee] presiding.
+Present: Representatives Hurd, Blum, Gosar, Cummings,
+Kelly, Connolly, and Lieu.
+Also Present: Representatives Carter and Hice.
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order and, without objection, the chair is authorized
+to declare a recess at any time. I'd like to inform everybody,
+we will probably be interrupted by votes sometime between 2:30
+and 3:00. So we'll get through as much of this hearing as we
+can and then likely reconvene after that vote series, which I
+think is a short series.
+Thank you all for being here and good afternoon. We're here
+to talk about voting. Voting is the cornerstone of American
+democracy and a fundamental right of all Americans. Our
+existence as a democratic republic is only made possible and
+legitimate through free and fair elections. Each American's
+voice should be heard, but to ensure that, we must protect the
+ballot box. Like everything else in the digital age, however,
+voting can be vulnerable to hacking. There are about 10,000
+election jurisdictions nationwide that administer elections,
+and even within States, counties use different systems and
+different technologies to conduct elections.
+While no longer on the table for this election cycle, State
+and local election officials, including Secretary Kemp, who is
+here today, have expressed concern that classifying the
+election system as critical infrastructure would effectively be
+a Federal takeover of what has always been a local process. The
+purpose of this hearing is to examine the threats posed by the
+entities seeking to disrupt, undermine, or in any way alter the
+results of this election. But I also hope to initiate and
+foster discussion about what designating the election system as
+critical infrastructure would entail.
+I thank the witnesses for being here today and for their
+efforts as fellow citizens to ensure that November's elections
+are free and fair.
+I would like to now recognize the ranking member of the
+full committee, Mr. Cummings, for opening remarks.
+Mr. Cummings. Thank you very much, Mr. Chairman, and I
+thank you for your courtesy. And I thank you and Ms. Kelly for
+this hearing.
+I want to thank all of the witnesses that are here today.
+The focus today on the risk of election integrity posed by
+cyber threats is a very important one, but that is only a
+fraction of the risk to our elections. Efforts to hinder
+eligible voters' access to the ballot box also pose an urgent
+threat to our elections, to voter rights, and to our very
+democracy.
+In January, Election Assistance Commission Executive
+DirectorBrian Newby, who I see sitting in the audience today,
+wrote to Alabama, Georgia and Kansas, giving the appearance
+that he had the unilateral authority to allow these States to
+change the Federal voter registration form to require proof of
+citizenship. Mr. Newby's invalid act led to the
+disenfranchisement of at least, Mr. Chairman, tens of thousands
+of Kansas voters alone and who knows how many more in other
+States.
+Chairman Hicks, as the vice chairman at the time, you
+stated that Mr. Newby acted unilaterally and that the
+Commission has, quote, ``affirmed that agency staff does not
+have the authority to make policy decisions,'' end of quote. I
+simply could not agree more. This is why I have been
+investigating this matter with Ranking Member Robert Brady of
+the Committee on House Administration, and Assistant Democratic
+Leader Jim Clyburn. Thankfully, a Federal Court has issued an
+injunction halting and reversing Mr. Newby's invalid action.
+However, that litigation is ongoing, and I worry about the
+voters who have already been turned away, perhaps never to be
+able to vote in this election. Chairman Hicks, Mr. Newby, Mr.
+Tatum, we are sending you another letter today that outlines
+our findings thus far.
+I ask unanimous consent that the letter be entered into the
+record, Mr. Chairman.
+Mr. Hurd. Without objection, so ordered.
+Mr. Cummings. Thank you very much.
+We learned that Mr. Newby conducted no written analysis
+regarding the impact of his decision on the ability of eligible
+voters to register to vote. He also conducted no cost-benefit
+analysis to compare the potential for voter fraud with the
+potential for eligible voter disenfranchisement. He also
+claimed that he had been unaware until recently that proof of
+citizenship laws could have a disproportionate impact on people
+of color. I would invite him to read the case of John Doe v.
+North Carolina. While a lengthy decision, it makes it clear
+that it is a major problem with regard to people of color not
+being able to vote.
+In light of these findings, we seek additional information,
+but we also requested that Mr. Newby rescind his unilateral and
+invalid decision. Mr. Newby, I find your action to be shameful,
+and I hope you will swiftly rescind it.
+But this is not the only threat to our right to vote. In
+2013, the Supreme Court in Shelby County v. Holder struck down
+a crucial part of the Voting Rights Act that required some
+States to seek preclearance from the Department of Justice
+before changing their election laws.
+Mr. Norden, your organization, the Brennan Center, has been
+tracking the voting restriction laws passed since Shelby. In
+fact, 14 States will have new voting restrictions in place this
+fall for the first time in a Presidential election, literally
+stopping American citizens from voting. These include photo ID
+requirements, which have been shown time and time again to
+unduly burden young voters, women, the elderly, people with
+disabilities, low-income voters, and the homeless. Passed
+almost exclusively by Republican legislatures, these laws have
+been proven to have racially discriminatory intent.
+I am almost finished, Mr. Chairman.
+In July, a Federal appeals court struck down the voter
+restrictions in North Carolina, finding that they, and I quote,
+listen to this, ``target African Americans with almost surgical
+precision'' and, quote, ``were enacted with racially
+discriminatory intent in violation of the Equal Protection
+Clause,'' end of quote.
+We can fix this harmful lapse in our democracy by updating
+the Voting Rights Act in bills with bipartisan support and have
+proposed that we do so immediately. However, Republicans in
+Congress refuse to bring any of these bills to the floor for a
+vote. It is truly shameful, and as a Nation, we are better than
+that. I urge my colleagues to move this crucial legislation.
+The integrity of our democracy is at stake.
+And, with that, Mr. Chairman, I thank you for your
+courtesy, and I yield back.
+Mr. Hurd. I thank the ranking member.
+And now I would like to recognize the gentlelady from
+Illinois and my friend, Ms. Kelly, the ranking member of the
+Subcommittee on Information Technology, for her opening
+remarks.
+Ms. Kelly. Thank you, Mr. Chairman.
+Last week, after receiving classified briefings on threats
+to the upcoming election, Senator Dianne Feinstein and
+Representative Adam Schiff accused Russia of, and I quote,
+``making a serious and concerted effort to influence the U.S.
+election.''
+Recently, Director of National Intelligence James Clapper
+also cited a long history of Russia's efforts to influence
+elections abroad. The Director said that Russia's apparent
+efforts to compromise U.S. elections, quote, ``shouldn't come
+as a big shock to people,'' but attempts to influence the
+outcome of our election are not just limited to foreign
+government.
+According to law enforcement and the FBI, cyber attacks in
+August against voter registration databases in my State of
+Illinois and Arizona were most likely criminally motivated,
+possibly targeting voters' personally identifiable information.
+To know that my own State suffered this attack is extremely
+troubling, not only because of the threat of identity theft,
+but because of what hackers do once they have access to those
+databases. For example, perhaps they could change a voter's
+listed party affiliation in a way that affects primary
+elections, or they perhaps modify voter addresses to invalidate
+registration. We must address these questions and do absolutely
+everything we can to defend against future attacks. In today's
+hearing, we will be addressing the crucial question: How secure
+is the electoral infrastructure from any cyber attacks,
+regardless of the source?
+According to security experts, a massive attack against the
+infrastructure as a whole is not the biggest cyber
+vulnerability in our election process. Rather, it is the
+individual voting machines that pose some of the greatest risk.
+According to a 2015 report from the Brennan Center for Justice,
+many voting machines were designed and engineered in the 1990s
+or early 2000s. These machines were designed before the
+Internet base of sort of advanced cyber risks that now are all
+too common in our current threat environment.
+For example, in 2015, Virginia's Board of Elections
+decertified a voting system used in 24 percent of precincts
+after finding that an external party could access the machine's
+wireless feature to, quote, ``record voting data or inject
+malicious data.''
+But beyond cyber attacks, these machines are also
+vulnerable to operational failures like crashes and glitches.
+As one security expert at Rice University put it, and I quote:
+``These machines, they barely work in a friendly environment.''
+As we examine this upcoming election and beyond, we must
+consider what sorts of investment we must make to our voting
+infrastructure. Today's hearing will provide us with an
+opportunity to learn just how vulnerable our elections might be
+to hackers and what our local, State, and Federal Government
+can do to protect our electoral processes.
+But I must also add that I hope that we have more hearings
+on the topic of the right to vote and the access of the ballot
+box. Far too many States across this country have enacted
+troubling voter suppression laws since the Supreme Court
+decision in Shelby County v. Holder, and I have been deeply
+disappointed at the lack of interest across the aisle in
+addressing this issue. We must repair the damage done to the
+Voting Rights Act with legislation, and that must be a top
+priority. To preserve the integrity of our ballot box, we must
+also protect citizens' access to it.
+Mr. Chairman, thank you again for holding this important
+hearing.
+Mr. Hurd. Thank you.
+And I will hold the record open for 5 legislative days for
+any members who would like to submit a written statement.
+And the chair notes the presence of our colleague
+Congressman Buddy Carter of Georgia. We appreciate your
+interest in this topic and welcome your participation today.
+I ask unanimous consent that Congressman Carter be allowed
+to fully participate in today's hearing.
+Without objection, so ordered.
+We will now recognize our panel of witnesses. I am pleased
+to welcome Dr. Andy Ozment, Assistant Secretary for
+Cybersecurity and Communications at the U.S. Department of
+Homeland Security; Commissioner Thomas Hicks, Chairman of the
+U.S. Election Assistance Commission; Dr. Andrew Appel, the
+Eugene Higgins Professor of Computer Science at Princeton
+University; and Mr. Lawrence Norden, deputy director of the
+Democracy Program at the Brennan Center for Justice at the New
+York University School of Law.
+I am now pleased to recognize my colleague, the gentleman
+from Georgia, Mr. Carter, to introduce our remaining
+distinguished witness.
+Mr. Carter. Well, thank you, Mr. Chairman.
+It is definitely an honor today to welcome the secretary of
+state from the State of Georgia, my friend Brian Kemp, who
+preceded me in Georgia's State Senate. And I served in the
+house while he served in the senate, and then I moved over to
+the senate to try to clean up the mess that he and Tom Price
+left. But, nevertheless, we got that done.
+Brian Kemp was elected the 27th secretary of state of
+Georgia in January of 2010. He has done an outstanding job in
+cutting wasteful spending and implementing zero-based
+budgeting. He currently serves as co-chair of the National
+Association of Secretaries of State Elections Committee and is
+a member of the DHS Election Infrastructure Cybersecurity
+Working Group. He is a native of Athens, Georgia--Go Dogs--and
+he and his lovely wife Marty have three beautiful daughters.
+And we are just glad to have him here and proud to have him
+representing us as our secretary of state in Georgia.
+Mr. Hurd. Thank you, Mr. Carter.
+Welcome to you all.
+And pursuant to committee rules, all witnesses will be
+sworn in before you testify. So please rise and raise your
+right hands.
+Do you solemnly swear or affirm that the testimony you are
+about to give will be the truth, the whole truth, and nothing
+but the truth? Thank you and please be seated.
+Let the record reflect the witnesses answered in the
+affirmative.
+In order to allow time for discussion, please limit your
+testimony to 5 minutes, and your entire written statement will
+be made part of the record.
+I would now like to recognize Dr. Ozment for his opening
+remarks.
+
+WITNESS STATEMENTS
+
+STATEMENT OF ANDY OZMENT
+
+Mr. Ozment. Thank you. Chairman Hurd, Ranking Member Kelly,
+Ranking Member Cummings, members of this committee, thank you
+for today's opportunity to discuss cybersecurity and our
+election infrastructure.
+At the core of our American values is the fundamental right
+of all citizens to make their voice heard by having their vote
+counted. Ensuring the integrity of our electoral process is of
+vital national interest and one of our highest priorities as
+citizens in a democratic society. Increasingly, some parts of
+the Nation's election infrastructure leverage information
+technology for efficiency and convenience.
+Like other systems, reliance on digital technologies could
+introduce new cybersecurity risks. However, the dispersed and
+diverse nature of our election infrastructure provides inherent
+resilience and presents real challenges to attempts at
+affecting the integrity of election results.
+Our election system is run by State and local governments
+in thousands of jurisdictions across the country. Importantly,
+State and local officials have already been working,
+individually and collectively, to reduce risks and ensure the
+integrity of their elections.
+Consistent with our longstanding work with State and local
+governments, we at DHS are partnering with election officials
+to share information about cybersecurity risks and to provide
+voluntary resources from the Department upon request.
+Addressing cybersecurity challenges such as these is not new
+for our Department. Our National Cybersecurity and
+Communications Integration Center, or NCCIC, provides support
+to State and local customers, such as election officials, as
+part of its daily operations.
+In August, Secretary Johnson hosted a phone call with
+election officials from across the country that included
+representatives from other Federal agencies to discuss the
+cybersecurity of election infrastructure. The Secretary offered
+assistance from DHS' NCCIC to assist State and local election
+officials in securing their systems. The NCCIC provides the
+same assistance on an ongoing basis to public and private
+sector partners upon request. The assistance is voluntary and
+does not entail regulation, binding directives, or any kind of
+Federal takeover. The DHS role is limited to support only.
+Through engagements with State and local officials, we are
+offering three types of assistance: best practices, information
+sharing, and incident response. In support of best practices,
+DHS has offered two different types of risk assessments to
+State and local government officials:
+First, cyber hygiene scans on Internet-facing systems
+provide State and local officials with recurring reports that
+identify any vulnerabilities and provide mitigation
+recommendations.
+Second, our cybersecurity experts can go on site to conduct
+risk and vulnerability assessments. These assessments are more
+thorough, and DHS provides the customer with a full report of
+vulnerabilities and recommended mitigations following the
+testing.
+DHS will continue to share relevant information on cyber
+incidents through multiple avenues. For example, DHS has
+published best practices for securing voter registration
+databases and addressing potential threats to election systems.
+More broadly, the NCCIC works with the Multi-State Information
+Sharing and Analysis Center, or MS-ISAC. The MS-ISAC provides
+threat and vulnerability information to State and local
+government officials. It was created by DHS to support State,
+local, tribal, and territorial governments and is partially
+grant-funded by DHS. The MS-ISAC has a representative colocated
+with the NCCIC to enable regular collaboration and access to
+information and services for State chief information officers.
+During this election season, DHS' NCCIC is prepared to
+provide incident response assistance to help State and local
+officials identify and remediate any possible cyber incidents.
+In the case of an attempted compromise affecting election
+infrastructure, the NCCIC will share technical information with
+other States, to assist their ability to defend their own
+systems from similar malicious activity.
+Moving forward, we must recognize that the nature of risk
+facing our electoral infrastructure will continue to evolve.
+DHS has, therefore, established an experts group comprised of
+academics, independent researchers, and Federal partners. This
+group will continually evaluate emerging risks and ensure that
+State and local officials have the information and assistance
+needed to secure the infrastructure in their jurisdiction.
+Before closing, I want to reiterate that we have confidence
+in the overall integrity of our electoral system, because our
+voting infrastructure is fundamentally resilient. It is
+diverse, subject to local control, and has many checks and
+balances built in. As the risk environment evolves, the
+Department will continue to support State and local partners by
+providing information, assistance with best practices, and
+tools upon request.
+Thank you for the opportunity to testify, and I look
+forward to any questions.
+[Prepared statement of Mr. Ozment follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Dr. Ozment.
+Mr. Hicks, you are now recognized for 5 minutes for your
+opening remarks.
+
+STATEMENT OF THOMAS HICKS
+
+Mr. Hicks. Good afternoon, Mr. Chairman, and members of the
+Subcommittee on Information Technology and Committee on
+Oversight and Government Reform.
+My name is Thomas Hicks, and I am Chairman of the United
+States Election Assistance Commission, or EAC. The EAC is a
+four-member bipartisan commission. The EAC's mission is to
+guide, assist, and direct the effective administration of
+Federal elections, through funding, innovation, guidance, and
+information. The EAC was charged with three duties: one,
+develop and administer a voting machine testing and
+certification program; two, develop and administer a national
+clearinghouse for election administration information; and
+three, distribute HAVA grants to States to allow them to
+purchase new, more secure voting machines and systems.
+Since our inception, the EAC has carried its charge. Forty-
+seven of 50 States use EAC's voluntary voting machine testing
+and certification program in part or in whole. We produce the
+most comprehensive election administration survey in the
+country, and we produce volumes of materials designed to help
+election administrators run their elections more effectively
+and efficiently. Among other things, these materials help the
+States understand and react to the current cybersecurity
+threats against their voting systems. State and local election
+officials run the elections, and we support them.
+I am here today to testify on three items: First and
+foremost, our elections are secure. The American election
+administration system inherently protects our elections and its
+vast size and complexity. Voters should have confidence that
+their voices will be counted accurately when they cast them.
+Second, there may be headlines related to cyber attacks and
+data breaches, but these headlines are not representative of
+our voting machines. Unlike the systems in the headlines, our
+voting machines are not connected to the Internet. Third, the
+EAC works every day to help ensure the security of our
+elections.
+First, the security that is inherent in our election system
+because our system is vast and complex. Since States and
+territories run elections, the American election administration
+system is actually compiled of more than 50 administrative
+systems. Each State has developed its own processes for
+conducting Federal, State and local elections. These States and
+territories are made up of thousands of election jurisdictions.
+Often, these jurisdictions operate autonomously but report to
+the States.
+What is important to identify in today's hearing is that
+there is no single or uniform national election administration
+system that manages elections. This means that there is no
+national system that a hacker or bad actor can infiltrate to
+affect the American elections as a whole.
+The complexity of our American election assistance system
+both deters attacks and allows election officials to ensure the
+integrity of the election in the event of an attack. The
+complexity deters potential attackers from attempting to access
+American elections, because the number of resources that one
+would need to complete such an attack may be prohibitively
+high. There are thousands of individuals operating, often
+autonomously. A bad actor would have to figure out how to
+successfully access a significant portion of these parts.
+Additionally and perhaps most importantly, voting machines are
+not connected to the Internet. So a bad actor would have to
+access these systems in person. The amount of resources
+required to carry out this attack would be immense.
+That is not to say that no one will ever try to access
+American elections. Recent events in Arizona and Illinois
+remind us that this is not true. The breaches in Arizona and
+Illinois exemplify another strength in our election system.
+Because the State administers its own elections, the breaches
+in these States did not compromise the system in other States.
+Instead of causing a national crisis, the breaches notified
+election officials across the country that they should be on
+high alert.
+With this new information, election officials across the
+country started administrating system security checks and
+doublechecked in their places and procedures. The EAC took
+action as well. Upon learning of these attacks, we sent a
+security system, testing guides, and other voting machine
+security information to election officials. At the EAC, we have
+been focused on election security since our inception as an
+agency, and we reacted quickly, and we realize that the current
+events demand our help. Both our voluntary voting system
+guidelines and our best practices focus is on ensuring the
+security of our elections.
+This year, we have also created a new initiative to help
+election administrators better administer their elections this
+fall. It's called Be Ready 16. Through Be Ready 16, we
+distributed voting training material, current information, and
+guides to election officials throughout the country. We also
+integrated topics, such as election security, into our public
+meetings and roundtables. We are proud of our Be Ready 16, but
+it is just one example of many ways we support election
+officials.
+In conclusion, I am here to communicate one message. That
+message is that our elections are secure. They are secure
+because the American election administration system inherently
+protects them. There are threats to our elections, but the
+voters have confidence that their votes will be counted
+accurately and recorded accurately when they cast them.
+I thank you for your time, Mr. Chairman, Ranking Member,
+and other members of this committee, and I look forward to your
+questions.
+[Prepared statement of Mr. Hicks follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Hicks.
+Secretary Kemp, you are now recognized for 5 minutes for
+your opening remarks.
+
+STATEMENT OF BRIAN P. KEMP
+
+Mr. Kemp. Good afternoon. And I want to thank
+Representative Carter for that fine introduction, and thank the
+committee and Chairman Hurd for inviting me to discuss election
+security, the safeguards on our elections, and then my
+perspective as the top elections official in Georgia, the
+eighth largest State in the Union.
+As Georgia's secretary of state, I currently serve as co-
+chair of the National Association of Secretaries of State
+Elections Committee. And within the last 3 weeks, I have agreed
+to serve on the Department of Homeland Security's elections
+infrastructure cyber working group organized by Secretary Jeh
+Johnson.
+Recent events, including the hack of the DNC database as
+well as successful cyber attacks against voter registration
+databases in Arizona and Illinois, have rightfully caused great
+alarm among the public as well as elections officials. However,
+it is imperative that we as a Nation respond the correct way to
+these attacks. Administering elections is a great but unique
+responsibility. The foundation of our republic rests on the
+trust that Americans have in the way that we elect
+representatives in our government. If that trust is eroded, our
+enemies know that they will create fissures in the bedrock of
+American democracy. We cannot allow this to happen. The D.C.
+response to these attacks has been to take steps toward
+federalizing aspects of elections, election systems, and
+standardizing security measures. There is a better way to face
+these attacks and future potential threats than what has
+currently been proposed by DHS with designating election
+systems critical infrastructure.
+In discussing election security, it is important to
+understand the difference between the components of an
+election. The system is comprised of campaign systems,
+registration and reporting systems, as well as voting systems.
+Campaign systems are databases not held by the States, such as
+databases held by national parties. Attacks on these systems
+don't disrupt activities in the State's jurisdictions, although
+they can cause harm, as recently seen by the attack on the DNC.
+Registration and reporting systems are held by the States,
+but they do not impact the true canvass results in an election.
+These systems manage the voter registration rolls and report
+unofficial results on election night. Although these systems
+are more prone to attack than the voting system, because many
+are Web-based platforms, attacks on these systems cannot change
+the votes that are cast. These systems are also tested
+regularly, have redundancies, failsafes, and backups.
+Finally, voting systems are the actual equipment used on
+election day. They are nonnetwork pieces of hardware that do
+not connect to the Internet. They are tested by vendors, by
+States, and by the EAC. Even before they are deployed, they are
+tested again by local technicians to ensure their security and
+accuracy.
+In looking toward November, it is important for us to
+address the types of threats that may come against the Nation's
+elections. I view these threats in three different categories:
+First, there are threats that undermine the confidence in the
+outcome of the election. This has already started among
+conspiracy theorists, campaigns, and members of the media.
+Senator Feinstein was mentioned earlier about Russia's
+influence. This narrative will likely continue through
+canvassing and beyond. Although elections officials must be
+cognizant of these narratives and respond to them as needed,
+this threat cannot create actual harm to the system or the
+results of the election.
+Second, there are threats that disrupt elections. These
+threats could be cyber attacks on Web-based systems, but they
+more commonly occur with threats of physical violence, verbal
+altercations, or misinformation distributed at polling
+locations. In my view, this is far more likely to occur than a
+coordinated hacking of each individual voting unit in the
+United States. This type of threat is also not only more
+probable to occur but also would have a greater chilling effect
+on election participation.
+The third type of threat is altering the outcome of the
+election. This requires an attack on the voting system itself.
+However, the voting system is layered with combinations of
+physical and technical security to address these concerns. The
+voting system is the most secure system in the election space.
+It is not networked. It's not on the Internet. And it's tested
+many times in many different ways as well as having overlapping
+physical security features to defeat cyber attacks as well as
+physical attacks. This threat would require far too much
+coordination, planning, and ability to physically manipulate
+thousands of machines at thousands of locations across the
+United States. Although it is possible, it is not probable, and
+there is no evidence it has ever occurred in a U.S. election.
+As I stated moments ago, Secretary Johnson responded to
+this threat of cyber attack when he publicly began considering
+designating the election system critical infrastructure. This,
+as you can be made aware or you could suggest, caught many
+elections officials by surprise, and rightfully so. The
+suggestion from the agency, completely regarding--unfamiliar
+with the election space raised the level of public concern
+beyond what was necessary. This decision has been criticized by
+elections officials and cybersecurity experts alike and really
+addresses one of my main concerns and is why I am so glad to be
+here today to answer your questions as we proceed. Thank you.
+[Prepared statement of Mr. Kemp follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Secretary Kemp.
+Votes have been called, and what we'll do is we'll get to
+Dr. Appel's, get through your opening statement, and then we
+will adjourn for votes and then come back and finish with Mr.
+Norden and the questions.
+So, Dr. Appel, you are recognized for 5 minutes.
+
+STATEMENT OF ANDREW W. APPEL
+
+Mr. Appel. My name is Andrew Appel. I am professor of
+computer science at Princeton University. In this testimony, I
+don't represent my employer. I am here to give my own
+professional opinions as a scientist but also as an American
+citizen who cares deeply about protecting our democracy.
+My research is in software verification, computer security,
+technology policy and election machinery. As I will explain, I
+strongly recommend that, at a minimum, the Congress seek to
+ensure the elimination of direct-recording electronic voting
+machines, sometimes called touchscreen machines, immediately
+after this November's election and that the Congress require
+that all elections be subject to sensible auditing after every
+election to ensure that systems are functioning properly and to
+prove to the American people that their votes are counted as
+cast.
+There are cybersecurity issues in all parts of our election
+system: before the election, voter registration databases;
+during the election, voting machines; after the election, vote-
+tabulation/canvassing/precinct-aggregation computers. In my
+opening statement, I will focus on voting machines. The other
+topics are addressed in a recent report I have coauthored
+entitled ``10 Things Election Officials Can Do to Help Secure
+and Inspire Confidence in This Fall's Elections.''
+In the U.S., we use two kinds primarily of voting machines:
+optical scanners that count paper ballots and touchscreen
+voting machines, also called direct-recording electronic. Each
+voting machine is a computer running a computer program.
+Whether that computer counts the votes accurately or makes
+mistakes or cheats by shifting votes from one candidate to
+another depends on what software is installed in the computer.
+We all use computers, and we've all had occasion to install
+new software. Sometimes it's an app we purchase and install on
+purpose. Sometimes it's a software upgrade sent by the company
+that made our operating system. Installing new software in a
+voting machine is not really much different from installing new
+software in any other kind of computer. Installing new software
+is how you hack a voting machine to cheat.
+In 2009, in the courtroom of the Superior Court of New
+Jersey, I demonstrated how to hack a voting machine. I wrote a
+vote-stealing computer program that shifts votes from one
+candidate to another. Installing that vote-stealing program in
+a voting machine takes 7 minutes per machine with a
+screwdriver. I did this in a secure facility, and I am
+confident my program has not leaked out to affect real
+elections. But, really, the software I built was not rocket
+science. Any computer programmer could write the same code.
+Once it's installed, it could steal elections without detection
+for years to come. Voting machines are often delivered to
+polling places several days before the election, to elementary
+schools, churches, firehouses. In these locations, anyone could
+gain access to a voting machine for 10 minutes. Between
+elections, the machines are routinely opened up for maintenance
+by county employees or private contractors. Let's assume they
+have the utmost integrity, but still in the U.S. we try to run
+our elections so that we can trust the election results without
+relying on any one individual.
+Other computer scientists have demonstrated similar hacks
+on many models of machine. This is not just one glitch in one
+manufacturer's machine; it's the very nature of computers.
+So how can we trust our elections when it's so easy to make
+the computers cheat? Forty States already know the answer. Vote
+on optical scan paper ballots. The voter fills in the bubble
+next to the name of their preferred candidate, then takes this
+paper ballot to the scanner right there in the precinct and
+feeds it in. That opscan voting machine has a computer in it,
+and we can't 100 percent prevent that computer from being
+hacked, but that very paper ballot marked by the voter drops
+into a sealed ballot box under the opscan machine. Those
+ballots can be recounted by hand in a way we can trust.
+Unfortunately, there's still about 10 States that primarily use
+paperless touchscreen voting computers. There's no paper ballot
+to recount. After the voter touches the screen, we have to rely
+on the computer; that is, we have to rely on whatever program
+is installed in the computer that day to print out the true
+totals when the polls close.
+So what must we do? In the near term, we must not connect
+the voting machines to the Internet. The same goes for those
+computers used to prepare the electronic ballot definition
+files before each election that are used to program the voting
+machines; that is, we must not connect the voting machines,
+even indirectly, to the Internet. Many able and competent
+election administrators already follow this best practice. I
+hope that all 9,000 or 10,000 counties and States that run
+elections follow this practice and other security best
+practices, but it's hard to tell whether they do consistently.
+These and other best practices can help protect against
+hacking of voting machines by people in other countries through
+the Internet, but they can't protect us from mistakes, software
+bugs, miscalibration, insider hacking, or against local
+criminals with access to the machines before or after
+elections. So what we must do as soon as possible after
+November is to adopt nationwide what 40 States have already
+done, paper ballots marked by the voter, countable by computer,
+but recountable by hand.
+In 2000, we saw what a disastrously unreliable technology
+those punch-card ballots were. So, in 2002, the Congress
+outlawed punch-card ballots, and that was very appropriate. I
+strongly recommend that the Congress seek to ensure the
+elimination of paperless touchscreen voting machines
+immediately after this November's election.
+[Prepared statement of Mr. Appel follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Dr. Appel. The committee stands in
+recess until immediately following votes.
+[Recess.]
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order.
+Thank you all for the indulgence. I think we have one more
+opening remark, and then we'll get to the question and answer.
+Mr. Norden, bring us back in. You're recognized for 5
+minutes for your opening statement.
+
+STATEMENT OF LAWRENCE NORDEN
+
+Mr. Norden. Thank you, Chairman Hurd, Ranking Member Kelly,
+and members of the subcommittee, for inviting me to testify
+today. For those who don't know, the Brennan Center at NYU Law
+School is a think tank and public advocacy group, a nonprofit,
+that works on issues of democracy and justice. And I have led
+the Brennan Center's work on election technology and security
+for over a decade.
+There are two points I want to convey today. The first is
+that real threats to our election integrity needs to be treated
+with the utmost seriousness. Among other things, that means
+that we need to distinguish between genuine threats and
+sensationalistic rhetoric. Second, the biggest danger, I
+believe, to the integrity of our election this November are
+attempts to undermine public confidence in the election.
+Specifically, as we have heard from others, attempted attacks
+against voting machines are highly unlikely to have widespread
+impact on vote totals this November. However, attacks or
+malfunctions that could undermine public confidence are much
+easier.
+I want to echo what some of the other witnesses said today.
+It's important when we talk, when we have public discussions
+about election systems and security that we distinguish between
+the different kinds of systems that there are. Campaign email
+servers are obviously very different than voter registration
+databases, which are very different than voting machines.
+On the topic of voter registration databases, Mr. Ozment
+and Secretary Kemp I think did a very good job talking about
+the kinds of steps that are being taken to make them secure.
+The good news is, when it comes to the integrity of our
+elections, there are relatively straightforward steps to ensure
+that any attack or hack against voter registration databases
+should not prevent people from voting. Most importantly,
+regular backups of these systems should allow us to reconstruct
+lists, if--and I should emphasize this has not happened
+anywhere as far as I know--if data is changed on those
+registration databases. And as far as I know, every State does
+this.
+On the issue of voting machines, a lot of ground has
+already been covered about why they are different than
+registration databases; that voting machines should never be
+connected to the Internet, that we have a decentralized system
+with 10,000 election jurisdictions using different machines,
+having different rules. And I agree with all that. The one
+thing I would add is, that was not noted, is the vast majority
+of people this November will vote either on a paper ballot that
+is read by a scanner or will vote on a machine that has a paper
+trail that they can review, and by my estimates about 80
+percent of Americans will do so. And that can serve as an
+important deterrent and should provide voters with confidence
+that there is a check to ensure that their votes have been
+accurately recorded. These facts and others that are detailed
+in my testimony and that others have mentioned make it highly
+unlikely that there could be a successful widespread attack to
+change vote totals.
+Having said this, I want to talk about the problem of aging
+equipment in the United States. I do believe that if this is
+not addressed, it can do real damage to voter confidence and,
+therefore, the integrity of our elections. And this is
+particularly true now when there are discussions of Russian
+hacks and rigged elections so much in the public discourse.
+In 2015, I oversaw a yearlong study that looked at this. We
+found that 42 States are using voting machines that are over a
+decade old this November, and that's perilously close to the
+end of projected lifespans for these machines, particularly
+those designed and engineered in the 1990s. I want to be clear
+that that's a rather blunt tool to measure when systems need to
+be replaced. I'm not saying that every machine, when it reaches
+10 years old or 15 years old, is suddenly going to stop
+working.
+Before I came into this hearing today, I saw a 1965 Ford
+Mustang running, and it looked like it was running perfectly;
+and obviously the kind of maintenance and investment that is
+put into machinery can allow it to work much longer. And
+Georgia is a great example of this. They have a project with
+Kennesaw State where they really invest in their equipment, and
+they're using machines that most other jurisdictions have had
+to replace, because they put that investment into them.
+But the interviews that we conducted with election
+officials in all 50 States make it clear that there are real
+challenges and they're growing with aging equipment. Failures
+of systems during voting lead to long lines and lost votes.
+Outdated hardware and software means that election officials
+struggle to find replacement parts. We talked to a number of
+officials who have to go to Ebay to find critical parts, like
+dot matrix printer ribbons, decades-old storage devices, analog
+modems. And more than one official described their system as
+essentially jerry-rigged to hold it together. And, of course,
+these older systems that I'm talking about did not go through
+the kind of more rigorous Federal certification system that we
+have now for security, and as Dr. Appel noted, are
+disproportionately paperless.
+Replacing this equipment is a major issue. In 32 States, we
+spoke to election officials who said they wanted to replace
+their equipment before the next Presidential election of 2020.
+In 21 States, election officials told us they didn't know where
+they would get their money. More recently, we interviewed about
+250 local election officials, and about a clear majority said
+they either needed to or should replace their equipment before
+2020, and 80 percent of those said that they didn't know where
+they would get the money for that.
+So I will close on that point. Thank you.
+[Prepared statement of Mr. Norden follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Norden.
+And I'm going to recognize myself now for 5 minutes of
+questions. And my first question is actually for all five of
+you gentlemen, and we'll start with you, Mr. Norden, and go
+down the line. And first off, I appreciate you all's written
+testimony. I appreciate you all's oral testimony as well. We
+are in such an important time and, you know, there is decades'
+worth of experience sitting at this table looking at this
+important issue, and I think you give the American people some
+comfort.
+And so my first question, I think this is a yes or no
+question to all of you all. On 8 November, can a cyber attack
+change the outcome of our national elections? Mr. Norden.
+Mr. Norden. I'm confident that that will not be the case.
+Mr. Hurd. Dr. Appel?
+Mr. Appel. I think it's----
+Mr. Hurd. Secretary Kemp?
+Mr. Kemp. No.
+Mr. Hurd. Mr. Hicks?
+Mr. Hicks. No.
+Mr. Hurd. Dr. Ozment?
+Mr. Ozment. No.
+Mr. Hurd. Excellent.
+Dr. Appel, Mr. Appel, excuse me, when you did your research
+in hacking the equipment, that was done in a controlled
+environment. Is that correct?
+Mr. Appel. It was done inside the State Police
+headquarters.
+Mr. Hurd. Was it one machine or were you able to access
+multiple machines?
+Mr. Appel. We had two machines per study.
+Mr. Hurd. Were they connected or did you have to access
+them each individually?
+Mr. Appel. These machines don't connect to any network.
+Mr. Hurd. So none of the machines connect to each other. Is
+that correct?
+Mr. Appel. The kind of machine that I hacked that we use in
+New Jersey do not connect to any network.
+Mr. Hurd. And they did not connect to any network, so that
+means they're not facing the Internet as well?
+Mr. Appel. That's right. In particular, the kinds of
+machines that we use in New Jersey, and the same machines are
+used in Louisiana, I don't know of any practical way to hack
+them through any kind of network. The only way I know that they
+can be hacked is by someone with physical access to them.
+Mr. Hurd. So there's no practical way to hack these voting
+machines unless you have physical access. And then if you have
+physical access, you have to have physical access to each box
+because none of the boxes are actually connected, nor are they
+connected to the Internet?
+Mr. Appel. That's true for many kinds of touch screen
+voting machines, but not for all kinds that are in use today.
+Mr. Hurd. And, Secretary Kemp, I just want to clarify that.
+And I guess this question to you as your role as the vice
+chairman of the Association of Secretaries of State. There are
+no voting systems that connect to the Internet, correct?
+Mr. Kemp. Well, Commissioner Hicks might can back me up on
+this, but I know our systems are not. I wouldn't want to speak
+for every State in the country, but I would feel very confident
+in saying the vast majority, probably all are not connected to
+the Internet.
+Mr. Hurd. Mr. Hicks, do you have any opinions on that.
+Mr. Hicks. From what we've determined, no voting machines
+are connected to the Internet.
+Mr. Hurd. So let's take one municipality, one voting
+district. They probably have how many machines? Is there an
+average number, you know, 5 to 10, 5 to 25, in one voting
+location? Let's take a voting location.
+Mr. Kemp. Well, I think in Georgia, it would depend on the
+jurisdiction. Certainly, in a precinct in Fulton County you
+could have, you know, I would say, over 100 machines. In a
+smaller, rural county, you may have 5 to 10.
+Mr. Hurd. And so, Mr. Appel, in that scenario, an attacker
+would actually have to have access to all 100 in the one county
+in order to manipulate the records?
+Mr. Appel. In Georgia, that's not the case. The machines
+used in Georgia have been demonstrated to be hackable through a
+virus that's carried on ballot definition cartridges, very much
+like the Stuxnet virus was inserted into nuclear centrifuges in
+Iran.
+Mr. Hurd. But in that auditing system, in the auditing of
+these machines, we look at that. Is that correct?
+Mr. Appel. I'm sorry. Can you repeat the question?
+Mr. Hurd. So in those machines that have that vulnerability
+in the auditing process, isn't that scanned? Don't we scan for
+that?
+Mr. Appel. It's difficult to scan for that vulnerability in
+the sense of if you ask a machine to report what software is
+loaded in it, if it's fraudulent software, it will lie. So the
+AccuVote TS machines used in Georgia and in a few counties in
+other States are particularly vulnerable to this kind of virus
+that can be carried to the machines even if the criminal
+attacker doesn't touch the machines or is not even in the same
+State with the machines. The touch screen voting machines used
+in most other States, I don't know of any such way to hack them
+through a virus carried on cartridges.
+Mr. Hurd. Dr. Ozment, do you have any opinions on that? And
+when you provide best practices and information sharing to
+folks that request your assistance, is this the type of
+vulnerability that you all notify folks of?
+Mr. Ozment. You know, I think it's a good opportunity for
+me to elaborate on my answer. First, we have to always be
+vigilant. In the field of cybersecurity, we can never relax. We
+have no indication that adversaries are planning cyber
+operations against U.S. election infrastructure that would
+change the outcome of the election in November. And we have
+overall confidence in the system.
+You know, individual parts of the election system are more
+or less vulnerable. You can never eliminate all
+vulnerabilities, but the overlapping layers of the system are
+what give us confidence, the fact that there is a wide variety
+of machines in use, a wide variety of procedures across
+jurisdictions, many checks and balances, physical controls, and
+the devices are not connected to the Internet.
+So I cannot speak to the security of an individual device.
+What I can speak to is that, overall, we view the security of
+the overall system as robust. We can never relax obviously, and
+that's one reason that we are offering voluntary assistance to
+State and local governments.
+Mr. Hurd. Thank you, gentlemen.
+Now I'd like to recognize the gentleman from California,
+Mr. Lieu, for 5 minutes of questions.
+Mr. Lieu. Thank you, Mr. Chair.
+Earlier this year, Donald Trump asked Russia to hack an
+American citizen. We know from later media reports that Russia
+has hacked the Democratic National Committee, as well as the
+Democratic Congressional Campaign Committee, and other entities
+for the purpose of influencing American elections.
+And my question for you, Dr. Ozment, is what steps is DHS
+taking to try to prevent Russia or other foreign entities from
+influencing the American election this November?
+Mr. Ozment. Thank you. Without speaking as to the source of
+the intrusions into the DNC and DCCC, I do want to talk about
+some of what we're offering to State and local government
+officials.
+First, we're offering them best practices. For example, we
+recently published a document on best practices for securing
+voter registration systems. We're also offering to scan their
+Internet-connected systems. So voter registration systems
+primarily, possibly tabulation for results reporting, and we're
+offering to scan these regularly for any vulnerabilities. And
+we will provide a weekly report on any vulnerabilities we
+detect and recommendations for mitigating them. We call that
+cyber hygiene scanning.
+We're also offering to do more in-depth risk and
+vulnerability assessments. That would require us to send people
+onsite to do a much more detailed assessment of systems. We
+have local field-deployed personnel called cybersecurity
+advisers and protective security advisers. These individuals
+are available to provide assistance and advice to State and
+local governments.
+And then finally, we've offered physical and protective
+security tools, training, and resources. All of those are
+available to State and local government officials. And then, of
+course, more broadly, we have the multistate ISAC, an entity
+that we have funded for well over a decade to help support
+State and local governments in their cybersecurity practices.
+Mr. Lieu. Thank you.
+Commissioner Hicks, thank you for your testimony. My
+understanding, from the main thrust of your testimony, is that
+because we've got 50 States, thousands of different
+jurisdictions, the American elections system is complex,
+diverse, and robust, because it's really hard to hack all of
+that. My view is they don't have to hack 50 States. In a close
+Presidential election, they just need to hack one swing State,
+or maybe one or two, or maybe just a few counties in one swing
+State. So I do sort of challenge your premise that just because
+we've got 50 States, somehow we are robust.
+And my question is, is there a focus on these swing States
+to make sure that in States that potentially are close, that we
+do everything we can to make sure that the integrity of the
+elections are protected?
+Mr. Hicks. Thank you for that question, Congressman. The
+EAC and the rest of the election community is focused on all
+the States, not just the swing States, because we feel that all
+the votes are valuable in that sort of realm. The basic premise
+of this is that if someone goes into a polling place and
+attempts to influence the election, that's still a Federal
+crime, and they should be prosecuted. So we're basically asking
+for people to serve as poll workers so they can be vigilant and
+serve as people who are on the front lines of seeing these
+sorts of things.
+But to answer your question, you would still need a
+tremendous amount of people to go into any polling place to try
+to influence an election that way, even if it could be done,
+and we don't believe that it can be done.
+Mr. Lieu. Thank you. As a recovering computer science
+major, I keep in mind that folks hacked computers well before
+the existence of the Internet, and we've had troubling reports
+of how these voting machines can be hacked quite easily.
+And, Mr. Appel, you, yourself, hacked a voting machine. Are
+you aware of Symantec also hacking voting machines?
+Mr. Appel. Who?
+Mr. Lieu. Symantec Corporation.
+Mr. Appel. No.
+Mr. Lieu. For research purposes.
+Mr. Appel. No, but----
+Mr. Lieu. Okay. Then let me just put this in for the record
+so people understand. So there was a Bloomberg article dated
+September 19 saying, ``States Ask Feds for Cybersecurity Scans
+Following Election Hacking Threats.'' I'm just going to read
+this.
+``In a recent simulation, Symantec Corporation said its
+workers were able to easily hack into an electronic voting
+machine. It was possible to switch votes as well as change the
+volume of data, said Samir Kapuria, senior vice president and
+general manager of Symantec's cybersecurity group.''
+And, Mr. Chair, if I could enter this into the record.
+Mr. Hurd. Without objection, so moved.
+Mr. Lieu. Can you explain how you hacked the machine and if
+there's any reason why we would want a machine with no paper
+ballots? Wouldn't we always want a backup in case something was
+hacked?
+Mr. Appel. Yes. I'll be happy to explain. The machine that
+I hacked is called the Sequoia AVC Advantage. It's now called
+the Dominion AVC Advantage. It's in use in almost all of New
+Jersey and in all of Louisiana and a few counties of
+Pennsylvania and other States.
+The computer program that counts the votes on this machine
+is in a read-only memory that's mounted in a socket on the
+motherboard. To hack this machine, you have to remove that
+memory chip from its socket and install a memory chip on which
+you've prepared a cheating program. The cheating program that I
+prepared has an extra 100 lines of code basically that when the
+polls are about to close, it goes in there and changes some
+votes stored in the machine. And there is an electronic log of
+all votes cast, so it changes the log too.
+So to install that, the attacker doesn't need to be a
+computer scientist. The attacker just needs to have a bunch of
+copies of this memory chip with the program on it. And for each
+voting machine, unscrew 10 screws to remove the panel that
+covers the motherboard, pry out the ROM chip containing the
+legitimate program, and install the ROM chip containing the
+fraudulent program.
+Other kinds of voting machines store their computer program
+that counts the votes in flash memory, and this can be updated
+under the control of whatever computer program happens to be
+running in the voting machine. These voting machines, typically
+the generation developed in the 1990s and after, can be hacked
+without actually physically changing any hardware in the
+machine just by installing a software upgrade memory card in
+the same slot that one would normally install the ballot
+definition.
+And this particular attack was demonstrated by my colleague
+at Princeton, Professor Felten, in about 2007, working with two
+of his graduate students. But it's not just us at Princeton.
+There are many kinds of voting machines, and the same kinds of
+hacks are applicable to all voting machines and have been
+demonstrated at several other universities, including the
+University of Connecticut, Johns Hopkins, Michigan, and others.
+Mr. Lieu. Thank you.
+Mr. Hicks. Congressman, can I just add a little bit to
+this? One of the things I want to make sure that it's clear and
+when the Help America Vote Act came about, is that one of the
+reasons that the paper trail is not universal is that it
+doesn't allow for people with disabilities to basically be able
+to verify their vote and handle that paper. So someone who has
+a dexterity disability is not able to use that. But there are
+machines that allow for verification of ballots and are able to
+be used by those with disabilities.
+So if Congress decides in the next session to look at
+reforming the Help America Vote Act, I would really encourage
+to make sure that the folks with disabilities are not left
+behind with the paper trail issue.
+Mr. Lieu. Can I just briefly respond? You know, we launched
+a rocket, delivered payload to space station that landed on a
+barge. They've designed voting machines that actually you can
+have both a paper ballot and some sort of electronic input and
+have both. So it's not like it can't be done, and my
+understanding is L.A. County is about to do that. So my hope is
+that we don't have any more machines without paper ballots.
+Thank you.
+Mr. Hurd. Thank you.
+I'd now like to recognize Congresswoman Kelly for her line
+of questions.
+Ms. Kelly. Thank you so much. I mentioned in my opening
+statement about hackers attacking the voter registration
+databases in Illinois and Arizona. So I'd like to take a moment
+to understand what these attacks are and what they are not.
+Dr. Ozment, was the cyber attack on the voting machines or
+was it on voter registration databases?
+Mr. Ozment. Thank you, Representative. The cyber attacks
+that you're referring to in Arizona and Illinois were attacks
+on voter registration systems, and they seem to have been
+intended to just copy the data on those systems, possibly for
+the purposes of selling personal information. So we have not
+seen intrusions intended to in any way impact individuals'
+votes in actual voting.
+Ms. Kelly. Why are these more vulnerable than the actual
+machines?
+Mr. Ozment. Voter registration systems are more commonly
+connected to the Internet, in part to ease that registration
+process, and so because they are connected to the Internet,
+they are obviously more susceptible to cyber intrusions.
+Ms. Kelly. And it seems like all of you in various answers
+are saying that it would be difficult for a hacker to succeed
+in accessing the U.S. election system and rigging the results
+in an undetected way, that you all seem to feel like that. Is
+that correct?
+Mr. Ozment. That's correct. Because of the different layers
+of security in the system, even though individual parts of the
+system may be vulnerable, we overall have confidence in the
+system.
+Ms. Kelly. And what is DHS doing to help States secure
+these databases?
+Mr. Ozment. We recently released a best practices document
+focusing particularly on voter registration systems to help
+States secure those systems. Also, our cyber hygiene
+vulnerability scanning that we offer to States will be
+particularly helpful for those systems because many of them are
+Internet connected. So we have a whole host of resources
+available to State governments that are applicable both to
+their voter registration systems and to other systems, even
+systems outside of the voting process.
+Ms. Kelly. And is it correct there are at least 40 States
+with the network defense device similar to the Einstein censor
+used by Federal agencies?
+Mr. Ozment. The majority of States--I don't know the exact
+number--absolutely take advantage of a service that we offer
+through the MS-ISAC, which provides network protection for
+those States.
+Ms. Kelly. And is it at the same protection level as the
+Federal? Is the State as good as the Federal?
+Mr. Ozment. You know, it's a different capability than the
+Federal system, just suited to the networks that State and
+local governments offer. There's one key difference. One of the
+Federal systems can take advantage of classified information
+that is not currently available through the multistate ISAC for
+State and local governments. We have made that available in a
+different way for State and local governments.
+But what I can say is overall we have made all of those
+protections available to State and local governments through
+one mechanism or another.
+Ms. Kelly. And, Mr. Hicks, what is your agency doing to
+help States secure their election systems?
+Mr. Hicks. If we're talking about voter registration
+systems, one of the things that I would like to include in the
+record is the EAC has a checklist for securing voter
+registration data, and that lists out a number of things,
+basically, from access control to auditability to making sure
+that we document everything and everyone who has access to that
+system. And I would like to make that available for the record.
+Mr. Hurd. Without objection, so moved.
+Ms. Kelly. And, Mr. Norden, can you briefly describe how
+voting machines are vulnerable and how widespread the problem
+is?
+Mr. Norden. Yeah. Well, I would echo the comments that were
+already made about the fact that because voting machines aren't
+on the Internet, that certainly is an important distinction to
+be made between machines that we're voting on on election day
+and things like a registration database, which is generally
+connected to the Internet.
+In terms of vulnerabilities, again I would say my concern
+mostly is about, for voting machines, is mostly about the fact
+that this equipment around the country is getting very old, and
+as the equipment gets older, we are more likely to see
+failures. We see things.
+And, again, I am particularly worried about this in the age
+of social media. We saw this a little bit in 2012, but with
+touch screen machines, there are often, as machines age, more
+calibration problems. In Virginia, there was an instance where
+the glue between the screen and the machine itself was just
+degrading, and as a result, the kind of thing that happens is
+somebody--I'm sure you've seen the videos of this before--
+somebody selects one candidate, another candidate shows up. I
+think that's not very good for voter confidence. And when
+that's posted on YouTube, as it inevitably is, the more and
+more that we see of these things, again, especially in the
+context of hearing about hacks to voting systems, that can be a
+very dangerous thing. And that machine has to get taken out of
+service.
+You get long lines. There was a study from researchers at
+Harvard and MIT that estimated between 500,000 and 700,000
+people were not able to vote in 2012 because of long lines. I
+think that's a huge risk to the integrity of our elections.
+Ms. Kelly. This might just be a guess on your part, but
+how--or if anybody else knows--how old are the oldest machines
+that are still being used?
+Mr. Norden. They're probably among the oldest in New
+Jersey. I would say, actually, ironically, I think some of the
+oldest machines probably have less of a need of replacement
+than some of the newer systems that we bought, because systems
+particularly bought just after the Help America Vote Act was
+passed that were designed in the '90s are essentially laptops
+from the 1990s, and those were not built to last much longer
+than 10 or 15 years.
+Ms. Kelly. Dr. Appel, anything to add?
+Mr. Appel. Yeah. I think some of the oldest electronic
+voting machines in use in this country date from the late
+1980s. Some of those machines are still reliable in the sense
+of not breaking down. My concern with the machines is more, you
+know, can they be hackable without a paper trail that could let
+you recover the correct result of the election?
+Mr. Hicks. Congresswoman, one of the things that the EAC is
+doing now is we're working on our next iteration of our
+voluntary voting system guidelines. And so these guidelines
+will be an update since the last ones, the last full ones that
+were done, which were done before the iPhone was invented. So
+we want to make sure that we incorporate the new technologies
+that are here today in looking towards tomorrow. So we're
+asking for anyone to join our public working groups to give
+their input to make sure that the next standards that we do are
+basically the best standards we put out.
+Mr. Kemp. I would just add, I know we've been kind of
+singled out with our voting equipment being fairly old, early
+2000s, but I would just remind the Representatives that this
+isn't equipment that we're using every day like you use your
+phone or your laptop or your desktop. This is equipment that's
+used two or three, maybe four times a year. We have policies
+and procedures in the State where the counties have certain
+ways that they have to care for the equipment, and they have
+held up well. So I think it's just important to realize that as
+well.
+Even though the technology may be old, it doesn't mean it's
+bad, and the equipment is wearing well. We actually do an
+assessment after every election, the Center for Elections at
+Kennesaw State does. We have a less than 1 percent failure rate
+on our elections equipment. So, you know, if that changes, that
+will certainly raise a red flag to us, but right now we have
+not seen that.
+Ms. Kelly. We have made it a point--I'll give him the
+credit--of not just having hearings to have hearings. And we
+always ask how can Congress help make things better. But where
+do you think--and any of you can answer this--where should the
+priority be in investing in our election systems to make sure
+they're secure and the public does have the confidence, and how
+can Congress help?
+Mr. Hicks. I spent 11 years as a staffer here on the hill
+and I know the difficulty that Members face in terms of making
+sure that things are done correctly, but also having a
+financial responsibility to that. I think that my role now at
+the EAC is one to give Congress as best advice as I can to move
+things forward.
+And so, you know, in my own opinion, I'm looking at voting
+machines like a fire truck. Fire trucks are still going to be
+out there. They need to be used. They need to be--you know, if
+there's a fire, they're going to have to be used. But until a
+new fire truck can be purchased, you have to use that old one.
+And so what can you do? And so what we're doing at the EAC is
+making sure that we give the best guidance in terms of managing
+those things. So on our Web site we have 10 things to do on
+managing aging voting equipment.
+And so in the future, I would say that if Congress wants to
+look at this to look at how much will it cost to replace these
+machines if we're going to do that, but also to look at other
+aspects of it. To say, you know, do we want to start talking
+about this third rail of, you know, using our own devices to
+cast ballots and things like that. But also we want to make
+sure that we look at military and overseas voters as well
+because they don't have these same options of using the
+equipment that we have here, and looking at disability groups,
+but also looking at our aging population as well. So there's a
+lot of things, and I would be happy to come up here any time to
+discuss any of those topics.
+Ms. Kelly. Anything?
+Mr. Kemp. Well, I think--that's a really good question, by
+the way, and I think there's a couple of things that come to
+mind for me. I would encourage Congress to let the States
+remain flexible in what systems that they're using. I think
+there's great value in that. I know the National Conference of
+State Legislatures agree with that assessment as well. But I
+would also urge you to work with the National Association of
+Secretaries of State.
+I know Commissioner Hicks and his colleagues have been to
+many of our meetings, winter meetings that we have in D.C., and
+I think I can pretty much 100 percent speak on behalf of the
+organization that we'd love to have any Member of Congress or
+even do maybe a session during that winter meeting where you
+can hear a different perspective, because it is different. I
+mean, one size does not fit all in elections. What we're doing
+in Georgia is going to differ greatly from what, you know, Jim
+Condos may be doing in Vermont, or what's going on in
+California, and we would welcome and encourage that.
+Ms. Kelly. I used to be a State rep, and I know Jesse White
+really well.
+Mr. Hurd. Thank you. And the chair notes the presence of
+our colleague, Congressman Jody Hice, from Georgia. We
+appreciate your interest in this topic and welcome your
+participation today.
+And I ask unanimous consent that Congressman Hice be
+allowed to fully participate in today's hearing.
+Without objection, so ordered.
+And, Mr. Hicks, I know you have a time deadline, but I
+think we should be done by that deadline, but I'd like to now
+recognize Congressman Hice for 5 minutes.
+Mr. Hice. Thank you very much, Chairman. I appreciate you
+letting me be a part of this.
+And, Secretary Kemp, I just want to say hello to you. It's
+always great to have some Georgians up here, and it's an honor
+to have you, sir. Thank you for participating. And all our
+witnesses today, thank you for being here.
+Secretary Kemp, let me just go with you. The broader
+question here, of course, that we are all concerned about and
+well should be is that of voter fraud, regardless of how it
+shows its face. Can you explain some of the steps that Georgia
+has taken in particular to prevent voter fraud across the
+board?
+Mr. Kemp. Well, thank you, Congressman. It's great to see
+you as well as Representative Carter.
+We have really done a lot. I know I've spoken a lot about
+our voting system not being connected to the Internet. We have
+got all kind of policies and procedures about how we tie the
+number of votes on a specific machine that is counted with our
+paper tape inside the machine back to the signed voter
+verification of the voter when they come in the precinct. So I
+want to assure people that there is a way that we can tie that
+down.
+But we've also seen, and it hasn't really been talked a lot
+about here today, but, you know, there's fraud that happens
+with paper ballots as well. We've seen it in many local
+jurisdictions with absentee ballots. We've had elections that
+have been overturned because of things of that nature, people
+manipulating the paper absentee ballot process in Georgia,
+especially in a local election, a municipal election, where,
+you know, literally 5 to 10 votes could sway an election.
+But one of the things that we've done in Georgia, I think,
+besides having really good State laws and State election board
+rules on how the counties should handle the statewide voting
+system and training in that regard to protect the integrity of
+the election, we've also, as Commissioner Hicks said earlier
+today, we've asked for the public's help, not only as poll
+workers or poll watchers, but we've got a stop voter fraud
+hotline and an email that we monitor.
+Unlike some other jurisdictions across the country, we
+actually have a law enforcement division in the Secretary of
+State's office. Any complaint that we get, any complaint, it
+can be something as serious as potential vote buying, to
+something maybe as small as there's a handicap lift that wasn't
+working correctly at a precinct or there's not enough parking
+or there's long lines, we'll respond to every single one of
+those cases or look into those to see if it warrants an
+investigation.
+So we encourage Georgians that may see something improper,
+if they feel like their vote hasn't been cast properly, if
+somebody was manipulating them in a precinct, whatever it is,
+to report that to us, and we strategically put our
+investigators and inspectors around the State during the early
+voting advance period and on election day where we can respond
+very quickly. So we have a lot of ways that we try to stop
+voter fraud.
+But contrary to some people not believing it happens, it
+actually does. And when that does happen, we bring those
+individuals or counties, if they're not following the rules and
+procedures, to the State election board, and we have a due
+process that we go through. And we've actually had, you know,
+candidates that have paid heavy fines and have committed to
+never run for office again because of the actions that we've
+taken. So that's something, you know, and we treat every case
+the same, you know, when it comes to that.
+Mr. Hice. What about specifically when it involves
+electronic voting machines? I'm sure there are glitches from
+time to time. When someone offers a complaint due to a machine,
+what's your process?
+Mr. Hicks. Well, as you can imagine, that's something
+that's high on our radar, so we'll send somebody out. I mean,
+if we have an equipment problem, there's a couple actions we
+can take. We can send an investigator. We have emergency
+preparedness plans where, especially on big elections like
+we'll be having November the 8th, where we've coordinated with
+State Patrol and Department of Public Safety to have a
+helicopter and a trooper at the Kennesaw State election center.
+So let's say we have a server go out, which we had happen
+in a county. You know, if you don't get on that quickly and the
+results don't come in quickly, then the public starts to ask
+the question, why is that happening? So we now have the ability
+to either fly or drive with a law enforcement official,
+equipment. Or we've had times where we've had a failure with
+the voting equipment. We've had to send a technician out there
+to help maybe get a memory card out of there or something of
+that nature.
+So there's a lot of steps that we take to investigate, you
+know, also before the election to prevent those things
+happening, but also to make sure public confidence stays intact
+by responding quickly to those type things.
+Mr. Hice. Thank you, Mr. Chairman. I yield back.
+And, Mr. Secretary, thank you. Always great to see you.
+Mr. Hurd. I'd like to now recognize my friend and the
+Congressman from the great State of Georgia, Buddy Carter, for
+his 5 minutes.
+Mr. Carter. Well, thank you, Mr. Chairman, and thank all of
+you for being here. This is obviously a very important subject
+that all of us are concerned with.
+Secretary Kemp, again, it's good to see you. Thank you for
+being here. Thank you for your work in the State of Georgia. We
+appreciate all of your efforts in making sure that our
+elections are run in a safe and effective manner, and you're
+doing a great job and we appreciate it. I appreciate the
+opportunity to have worked with you in the General Assembly and
+have fond memories of that.
+I wanted you to provide us some insight in your position as
+Secretary of State--and you also, as I understand, serve as co-
+chair of the National Association of Secretaries of State's
+Election Committee, and also as a member of the new DHS
+Election Infrastructure Cybersecurity Working Group.
+Cybersecurity is something we talk a lot about up here. I also,
+as the chairman also, he and I both serve on Homeland Security,
+and we are very concerned about cybersecurity.
+Mr. Secretary, can you briefly describe your role as a
+member of the DHS Election Infrastructure Cybersecurity Working
+Group? Can you tell me basically what you all do?
+Mr. Kemp. Well, it's a relatively new task force, if you
+will, that was created by Secretary Johnson and DHS so that we
+can have collaboration between the States and the Department of
+Homeland Security, and I certainly applaud that. I've had some
+people ask me why I would serve on that when I was so critical
+of the critical infrastructure definition, but I do. I feel
+very strongly that that's a designation that should not be put
+on election systems, but I also feel strongly that there are
+ways that we can collaborate as Secretary of State or State
+elections officials with a lot of different branches of the
+Federal Government to make sure that we're prepared, that we're
+informed, and that we can better protect our system.
+So the Working Group right now really has just been a
+series of phone calls to go over what DHS has rolled out for
+States that need or may want to voluntarily take advantage of
+some of the things that have been talked about, the cyber
+hygiene scanning and other things. And right now, from all I
+know, unless we have some sort of other event pop up, that's
+probably about all that's going to happen before the election,
+other than the States knowing that they can reach out to DHS
+directly.
+From the State of Georgia's perspective, we're already
+doing a lot of the things that have been offered, so we don't
+have the need for the assistance. It's not that we're not
+grateful for it being out there, it's just something that, you
+know, thankfully, we have been working on this issue, like you
+were saying, cybersecurity, for 3 years. And I know all of
+State government has as well. And we see that every day, not
+only in the Secretary of State's office, but all across State
+government in the State of Georgia, and we're part of an
+information sharing analysis center as well in Georgia that's
+going through the Technology Authority, GTA.
+Mr. Carter. Okay. Let me shift gears here for just a
+second. It's my understanding, the U.S. Election Assistance
+Commission, it's my understanding that the National Association
+of Secretaries of State has called for the elimination of that
+on several occasions. In fact, just recently, the most recent I
+should say, is probably in July of 2015. As the Secretary of
+State of Georgia, have you had any interactions with the EAC?
+Mr. Kemp. I have. You know, I was one of those, for full
+disclosure, that supported a resolution. I think it was several
+years ago. Mr. Hicks may have a better memory of that than me,
+because I felt like the usefulness of the organization, the
+time had passed. But to answer your question, yes, I have had
+dealings with the EAC. They're part of this working group, and
+I will say they've been very responsive in their role.
+Mr. Carter. So have they improved? I mean, are you now--do
+you now think that they're beneficial?
+Mr. Kemp. Well, I wouldn't want to go that--well, I
+definitely think they're beneficial. I have different thoughts
+about that that maybe in another setting I could spell out a
+little more detailed. But they've certainly been responsive in
+this issue.
+Mr. Carter. So should we eliminate them or should we just
+transfer some of that work to another group?
+Mr. Kemp. I'm of the belief that we can do a lot of that at
+the State level.
+Mr. Carter. Mr. Hicks----
+Mr. Kemp. But I want to say it's been--I've been grateful
+that we have commissioners that have now been appointed to the
+EAC where they can work on certain things that are required at
+this time.
+Mr. Carter. Mr. Hicks.
+Mr. Hicks. I want to thank Secretary Kemp for his support.
+One of the things, when I--one of the reasons I spent 11 years
+up here was I spent 4-1/2 years as a nominee waiting for my
+confirmation.
+Mr. Carter. Four-and-a-half years?
+Mr. Hicks. I'm the longest serving Obama nominee, and I was
+finally confirmed in December of 2014.
+Mr. Carter. Who does the confirmation?
+Mr. Hicks. The Senate Rules Committee. But it was the full
+Senate.
+Mr. Carter. We're doing all we can. I feel your pain. We
+have to deal with them too.
+Mr. Hicks. But overall, the Election Assistance Commission
+sat without commissioners for almost 3 years and then sat
+without a general counsel or an executive director, so a lot of
+that work wasn't getting done. So when my fellow commissioners
+and I were confirmed, we hit the ground running. And so I think
+that, you know, most of the Secretaries of State have changed
+their tune to figure that we are more valuable now.
+But our role is to the States and locals and other
+stakeholders like the voters themselves, and so I think that
+now we are proving that we are valuable and hopefully will
+continue to do that.
+Mr. Carter. Well, great.
+Again, gentlemen, thank you for what you do. This is
+extremely important, and we all recognize that and all
+appreciate your work and your diligence in this.
+Thank you, Mr. Chairman. I yield back.
+Mr. Hurd. The gentleman yields back the balance of his
+time.
+I'd now like to recognize the ranking member, Mr. Cummings.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+This summer, there were reports that Russia was attempting
+to compromise our elections by hacking into election systems.
+This is a very grave issue that threatens the foundation of our
+democracy. On Monday, Ranking Member Diane Feinstein in the
+Senate Intelligence Committee and Ranking Member Adam Schiff of
+the House Intelligence Committee issued a joint statement. They
+said, and I quote, ``Based on briefings we have received, we
+have concluded that the Russian intelligence agencies are
+making a serious and concerted effort to influence the United
+States election,'' end of quote. They issued the statement
+after careful consultation with the intelligence community, our
+intelligence community.
+Now, Dr. Ozment, I assume you have no reason to question
+the accuracy of this statement. Is that right?
+Mr. Ozment. Sir, the executive branch has not attributed
+these incidents to any entity, and the FBI is leading an
+ongoing law enforcement investigation of these breaches.
+Mr. Cummings. Here is what I don't understand. For some
+reason, Donald Trump keeps defending Russia against these
+hacking allegations. In fact, in Monday night's debate, he said
+he doesn't know if it was Russia. It could be China. It could
+be a 400-pound person in bed, he said. Frankly, his statements
+seemed ridiculous to me. Not only has Mr. Trump defended
+Russia, he has encouraged Russia to conduct the hacking.
+Dr. Ozment, DHS plays a key role in helping States protect
+their election systems against cyber attacks. Is that right? Is
+that right, sir?
+Mr. Ozment. Sir, we are there to support State and local
+governments in defending their systems. That's right.
+Mr. Cummings. Well, this morning, FBI Director James Comey
+told the House Judiciary Committee, and I quote, ``There's no
+doubt that some bad actors have been poking around,'' end of
+quote.
+Here's my question, without disclosing any classified
+information, have you seen any uptick in probing attacks by
+foreign adversaries over the past 3 months?
+Mr. Ozment. Sir, I don't think we have a concrete answer
+for that question. What I'll tell you is, obviously, you know,
+there are two incidents in Arizona and Illinois that resulted
+in breaches of voter registration systems. And what I'll say
+applies only to voter registration systems and, therefore, does
+not impact the actual casting of a vote.
+As part of our response to that, we and others in the
+Federal Government have shared information with State and local
+governments, essentially Be on the Lookouts, which are called
+cyber indicators. State and local governments are using that to
+more carefully monitor their systems. Any time you more
+carefully monitor a system, you're going to see more bad guys
+poking and prodding at it, because they're always poking and
+prodding. What I can tell you is that I think it's safe to say
+that voter registration systems that are online will always be
+the subject of interest from bad guys, whether for stealing
+personal information by criminals or other nefarious purposes.
+And that's why we think it's important that State and local
+governments constantly focus on the security of those systems,
+and we have published guidelines to help them secure those
+systems.
+Mr. Cummings. On August 30, 2016, I sent a letter with
+ranking members of the Committees on Judiciary, Foreign
+Affairs, and Homeland Security, asking whether the FBI is
+investigating troubling connections between members of the
+Trump inner circle and the Russian interests.
+I ask unanimous consent that this letter be made a part of
+the record, Mr. Chairman.
+Mr. Hurd. Without objection, so ordered.
+Mr. Cummings. Dr. Ozment, earlier this morning, FBI
+Director Comey was asked about this letter before the House
+Judiciary Committee. Comey said that the FBI is trying to
+figure out, quote, ``just what mischief is Russia up to in
+connection with our election.'' He also said he would not
+inform Congress, at least at this stage, about any interviews
+with individuals working for Mr. Trump who were listed in this
+letter, because he does not comment on ongoing investigations.
+I want to ask you specific questions about this, but
+generally, does DHS work with the FBI to investigate illegal
+acting by foreign adversaries?
+Mr. Ozment. So, in July, the President released
+Presidential Policy Directive 41 that laid out the role of DHS
+and the FBI in investigating cyber incidents. And you can think
+about it as a significant cyber incident being the equivalent
+of an arson in the real world. And when you have an arson, you
+want both the firefighters and the cops to show up. In this
+analogy, the FBI are the cops. They're the lead what we call
+threat responders, the lead law enforcement agency. My
+organization are the lead firefighters. So we focus on helping
+the victim and taking information to share with other victims
+and help them--or other potential victims and help them protect
+themselves. So we do collaborate closely with the FBI, but it's
+the FBI in the lead role for ascertaining who is the
+perpetrator and bringing that perpetrator to justice.
+Mr. Cummings. One last question: Again, generally, if you
+come across evidence that anyone in the United States was aware
+of these illegal actions or even collaborated with foreign
+adversaries, would you work with prosecutors and FBI
+investigators?
+Mr. Ozment. If at any time we come across any evidence of a
+crime, unless we are prohibited from sharing that, we would
+immediately share it with law enforcement agencies.
+Mr. Cummings. Chairman, I yield back. Thank you.
+Mr. Hurd. Thank you, Ranking Member.
+And, Mr. Hicks, I want to say thank you for your time and
+contribution to this hearing. I know you have to slip away, and
+if you do, please go ahead.
+Mr. Hicks. I can't leave when my own Congressman just
+showed up. So I don't know if I--I can take the 5 minutes to
+see if he has questions for me.
+Mr. Hurd. Great.
+Well, with that, I would like to recognize my friend from
+the Commonwealth of Virginia, Mr. Connolly, for 5 minutes.
+Mr. Connolly. I know Mr. Hicks is not flying home.
+Mr. Hicks. I'm actually going to Iceland.
+Mr. Connolly. My daughter was just there. She was hiking.
+Thank you, Mr. Chairman.
+And thank you to the panel.
+And good luck, Mr. Hicks. Enjoy Iceland.
+Last month, the Department of Homeland Security Secretary
+Jeh Johnson said, and I quote: ``We should carefully consider
+whether our election system, our election process is critical
+infrastructure, like the financial sector, like the power
+grid.''
+Mr. Ozment, what did Mr. Johnson mean by that?
+Mr. Ozment. So, first, I should note that DHS has not
+formally designated the electoral system as critical
+infrastructure. We are focused right now in the immediate term
+on providing whatever resources and assistance we are able to
+provide to States and local governments and whichever resources
+and assistance they want from us.
+You know, longer term, I think that's a conversation that
+we want to have with State and local governments. Under our
+authorities, there are additional capabilities that we can
+provide to those governments if we designate the system as
+critical infrastructure. That includes additional protections
+we can put on information. If, for example, we wanted to get in
+a conversation with both State and local governments and
+vendors, we could better protect the information that those
+vendors provide to us. We have--we can better prioritize the
+resources that we want to give to them, and it improves our
+ability to, for example, offer clearances to folks involved in
+this process.
+I would like to highlight that if we were to make that
+designation, it does not give us any regulatory powers. All of
+our resources and assistance would still be voluntary, you
+know, and the State and local governments would remain in
+charge of elections.
+Mr. Connolly. So if, however, we did declare it critical
+infrastructure, I think Mr. Appel said there were 12 States
+that still use touchscreen technology. Is that correct?
+Mr. Appel. Some States use touchscreens in some of their
+counties and not others. So I said approximately 10 States,
+based on the preponderance of the use of----
+Mr. Connolly. So if we declare it critical infrastructure,
+we might be able to provide some assistance if those States
+chose to move to the, you know, paper/electronic kind of
+ballot.
+Mr. Ozment. We can offer assistance now, and I think it
+would help us in our ability to offer assistance. But we would
+not, for example, be able to replace their systems. We wouldn't
+be able to offer that type of assistance.
+Mr. Connolly. Mr. Kemp, I want to make sure I understood
+your testimony. I thought I heard you say that elections should
+be governed strictly by States and localities and that it was
+not really the business of the Federal Government. Am I getting
+your testimony correctly?
+Mr. Kemp. Well, it's a constitutional duty of the States to
+run elections.
+Mr. Connolly. Isn't also, however, a concern of the Federal
+Government that Federal elections have some uniformity to them?
+For example, the Voting Rights Act.
+Mr. Kemp. Well, I certainly understand your point, but I
+think the whole argument of critical infrastructure, just like
+Mr. Ozment just said, protecting vendors' information really
+goes against the open process that we have now at the State
+level where, like when we test our voting equipment, it's
+advertised in the local legal organ. You know, the local
+newspaper editor or reporter can come watch that process that
+the local election boards do, and any citizen.
+And I think the idea of federalizing our elections to where
+we have a one-size-fits-all voter registration system or
+mandating that States use a certain voting system or one type
+of voting system creates all kinds of problems and, quite
+honestly, I think would make our system--make the system more
+vulnerable, not less.
+Mr. Connolly. Well, so are you saying that, from your point
+of view, the 50 different State systems plus tens of thousands
+of localities is just fine, and we shouldn't even look at it at
+the Federal level?
+Mr. Kemp. Well, I wouldn't say that you shouldn't look at
+it and everything is just fine. There's certainly jurisdictions
+out there that do better than others. We have that in the State
+of Georgia. But I believe that we're better suited as a State
+to provide solutions for that than the Federal Government is.
+Mr. Connolly. Well, what about the Voting Rights Act? I
+mean, that was an argument used back in the 1950s and 1960s for
+the Federal Government to keep its nose out of State
+jurisdiction. Frankly, if the Federal Government hadn't passed
+the Voting Rights Act, people would have still been
+disenfranchised, including in your home State and mine.
+Mr. Kemp. I would say that the Voting Rights Act is still
+intact.
+Mr. Connolly. Yes, but it's an example of the opposite of
+what you're asserting. It was an example of federalizing
+something to protect the franchise, because the States weren't
+doing it. In fact, States were actively suppressing votes. You
+don't deny that, do you?
+Mr. Kemp. Well, I'm not sure I understand what that has to
+do with the election system.
+Mr. Connolly. Well, I'm dealing with your assertion of the
+principle that we shouldn't federalize any aspect of this. And
+I'm arguing that the Voting Rights Act is a clear exception to
+your principle and that perhaps the Federal Government in
+Federal elections, at least, has an interest that overrides the
+State interest when it comes to protecting, at the cyber level,
+the integrity of the results.
+Mr. Kemp. Well, that's certainly your opinion. Mine
+differs.
+Mr. Connolly. I yield back, Mr. Chairman.
+Mr. Hurd. Thank you, Mr. Connolly.
+I now would like to ask unanimous consent to submit two
+letters for the record: One from the National Association of
+Secretaries of State. It is an open letter from the Nation's
+secretaries of state to Congress talking about how we can work
+together to share the facts about cybersecurity in our
+elections. The second letter is from the Electronic Privacy
+Information Center about this hearing.
+Without objection, so ordered.
+Mr. Hurd. Mr. Hicks, one of the things that you said, one
+of the three points that the EAC is responsible for is
+providing grants. Is there grant money available to help
+upgrade aging equipment?
+Mr. Hicks. Most of that money has already been accounted
+for, so there is no money available to replace voting
+equipment.
+Mr. Hurd. Thank you.
+And, Dr. Ozment, I just want to be clear. This conversation
+about designating voting systems as critical infrastructure,
+that is off the table for this election. Is that correct?
+Mr. Ozment. It's not what we're focused on in the near
+term. We really in the next 3 months--voting has started. You
+know, voting is occurring in a number of jurisdictions across
+the U.S. For the next few months, we're focused on how we can
+help State and local governments.
+Mr. Hurd. And I would like to end with my takeaways from
+this, is that pieces of our voting system are vulnerable, but
+it's really hard to hack our voting systems. There are some
+that need to be upgraded. We should never rest on outdated
+legacy systems and that we should be looking at how we solve
+this problem working together and that there's resources within
+DHS for our States to voluntarily ask for. And this is not
+forcing any particular program on an individual State.
+And what I'd like to do in my remaining 3 minutes, I'd love
+to go down the line and everybody take 30 seconds and give your
+final points. This is an important topic. I appreciate you all
+being here, and this is your last conversation with the
+American people.
+So let's start with you, Mr. Norden, and work our way
+backwards.
+Mr. Norden. Thank you, Chairman Hurd.
+I guess I would emphasize two things. What I said earlier,
+I think, one of the most important things that we can do is
+ensure that there is confidence in the system. I think that the
+issues of access and confidence and integrity of our voting
+system are all interdependent and linked. Too often, access and
+integrity are presented as oppositional.
+I do think that there is a role for Congress after this
+election to start thinking about what investments the Federal
+Government can make to ensure that there is confidence in the
+system, through research grants for innovation and for
+replacing some of the oldest equipment that really is a
+challenge.
+And one last point I want to make is, because so many
+States are leaving it to counties to purchase this equipment,
+we really are starting to see a kind of two-tiered system in
+this country, with counties with less money, less resources--
+they're often rural counties--are left without being able to
+invest and replace their equipment. And we're talking, yes,
+about local elections but also Federal elections, of course.
+Mr. Hurd. Thank you, Mr. Norden.
+Mr. Appel, 30 seconds.
+Mr. Appel. After the election, I think it would be a very
+good thing for the Congress to find a way to assist and
+encourage those 10 States that still primarily use paperless
+touchscreen machines to switch to optical scan machines. I
+would say also that there are many safeguards in our American
+elections which we haven't explicitly discussed in this
+hearing, and those have to do with the inherent transparency of
+the canvassing process in many States, in most States, where
+the results are announced in each precinct of how many votes
+each candidate got in the precinct. And the challengers, the
+party challengers, and any interested citizen can see for
+themselves that those numbers add up to what the election
+officials are reporting in the precinct-by-precinct totals. And
+that's a safeguard against hacking of the computers in county
+central that might be adding up those precincts.
+So we should encourage measures that election
+administrators are already taking to make transparent the
+process of reporting the precinct-by-precinct numbers in a way
+that we can see that they add up.
+Mr. Hurd. Excellent. Thank you, sir.
+Secretary Kemp.
+Mr. Connolly. Would the chairman yield for one second?
+Just to Mr. Appel's point, we had an election in Virginia
+for a State attorney general. And because we had a paper trail,
+we were able to see an anomaly in absentee ballots cast, that
+clearly there was an anomaly in one congressional district. And
+sure enough, there was a ballot box that had accidentally been
+put aside because of a malfunction, and the votes had not been
+counted. It actually made the difference in terms of who won;
+it was that dispositive. So what Mr. Appel is saying I think is
+really critical in terms of getting accurate results in our
+elections throughout the country.
+Mr. Appel. I'll just add that the kind of transparency you
+get from that makes it so that you don't have to be a
+cybersecurity expert to understand that anomaly and correct it.
+Mr. Hurd. Secretary Kemp.
+Mr. Kemp. Chairman Hurd, thank you for having me today,
+members of the committee. I appreciate the opportunity to be
+here.
+I think, in my 30 seconds, I would just encourage you to
+continue to collaborate with the secretaries of states,
+Lieutenant Governors, and other election officials back home
+and ask them what they're doing, what they're doing to prepare.
+I would encourage all American citizens to do that as well. I
+think they'll be very pleasantly surprised to see the
+preparations that are going on all across this country to make
+sure we have secure, accessible, and fair elections in Georgia.
+And I certainly would appreciate any more collaboration that we
+can have with this committee or other Members of Congress and
+the National Association of Secretaries of State to work
+together in the future.
+Mr. Hurd. Mr. Hicks.
+Mr. Hicks. Saturday marked the 45 days before the election,
+and on that day ballots were sent out to our men and women
+overseas so that they can start casting their ballots back.
+Early voting is going to start soon for many States. And one of
+the messages and the message that I want to make sure is clear
+today is that our elections are secure.
+We on our Web site and throughout the Nation when we've
+gone around this country have talked about our Be Ready 16
+campaign to talk to States about how they can secure their
+elections, how to make sure that the ballots are being counted
+accurately and so forth. And, you know, come November 8, we
+know that we will have an election and that election will be
+secure.
+Mr. Hurd. Dr. Ozment.
+Mr. Ozment. We must be vigilant, as we must always be in an
+area where there are cyber threats. Particularly, as many
+States upgrade their voting systems over the next 4 years, we
+must build those systems to have more cybersecurity that stops
+not just the attacks of today but the attacks of the future,
+when they'll still be used in 2030 or 2040.
+But overall and right now, we have confidence in the
+integrity of our electoral system. We have no indication that
+adversaries are planning cyber operations against U.S. election
+infrastructure that would change the outcome of this election.
+We believe that the diversity and many different levels of
+checks and balances in our electoral systems are sufficient
+that we should all have confidence in the integrity of the
+system and the election.
+Mr. Hurd. Thank you, Dr. Ozment.
+Now I'd like to recognize Ranking Member Cummings for 5
+minutes.
+Mr. Cummings. Thank you very much.
+Again, I am concerned very much about the cyber situation,
+but I'm also concerned about African Americans and Hispanics
+and so many others who have been blocked from voting. I think
+that I will go to my grave trying to do everything in my power
+to make sure that everybody has an opportunity to vote. My
+foreparents were denied it over and over again, and I'm seeing
+a lot of the same things happening today.
+Mr. Kemp, you are secretary of state for Georgia, which is
+one of the three States that were allowed to modify the Federal
+form to require proof of citizenship in your State, based on
+the unilateral decision of Brian Newby, the EAC Executive
+Director. I understand that you submitted a request for this
+modification. But in addition to that, did you or anyone in
+your office have communications with Mr. Newby or anyone else
+at the EAC relating to this request?
+Mr. Kemp. I have to look back and see if that was the case
+before or after. I know we had written letters asking for this
+issue to be treated like the EAC had treated previous
+instances, where we could simply treat the Federal form the
+same way that we treat the State form in our State.
+Mr. Cummings. Can you please provide this committee with
+the copies of all email or other communications between you or
+anyone in your office and anyone at the EAC about this issue?
+Would you do that for us, please, sir?
+Mr. Kemp. We can do that.
+Mr. Cummings. Thank you.
+Mr. Kemp, what evidence did you submit to the EAC
+demonstrating that the modification you requested was necessary
+for the administration of elections in Georgia?
+Mr. Kemp. Well, we were simply trying to, as I said
+earlier, match the State form with the Federal form.
+Mr. Cummings. Will you provide the committee with all
+documents relating to that issue also?
+Mr. Kemp. We certainly can look into that.
+Mr. Cummings. No, that's not what I asked you. I said,
+would you provide us with the documents, sir?
+Mr. Kemp. Well, I wouldn't be able to answer that question,
+but I can certainly look into that and get back to you.
+Mr. Cummings. I'd like you to provide to the committee any
+and all documents that you and your office have relating to any
+analysis you did regarding the impact on eligible voters that
+your request would have. Did you look into that?
+Keep in mind in North Carolina what they did is they
+systematically figured out when black people vote; they figured
+out how they vote; and then they, with precision--with
+precision--made sure that they did everything in their power to
+stop them from voting.
+And so I just want to make sure that we have the
+documentation. I'm sure whatever you did is proper, but I'd
+just like to know. It would be congressional malpractice on my
+part, as a son of people who could not vote, to sit here and
+have you all here and not address this issue. So I'd just like
+to have the documents. That's all. I'm sure you've got
+justification.
+Mr. Kemp. Well, Representative, it's really a pretty simple
+thing that we were trying to do. We were simply trying to make
+the Federal form have the same questions as the State form.
+But I will tell you, as the State of Georgia, under my
+administration and leadership, we have implemented online voter
+registration where anybody that has a driver's license or a
+State-issued ID card can register to vote 24 hours a day, 7
+days a week. And we've had over 360-some thousand people that
+have used that system.
+Right now, we have a Student Ambassadors Program that we
+started last year with a pilot of 14 high schools around the
+State and 150 kids. It's now ballooned to over 800 students in
+any kind of high school that you can imagine across the State
+of Georgia. We have over 102 high schools where we're actually
+teaching students in the school to register their peers to
+vote.
+So I can assure you if anybody that meets the requirements
+and wants to register to vote in Georgia, they can easily do
+so.
+Mr. Cummings. I'm glad to hear that. I just have two more
+questions. The Court of Appeals for the D.C. Circuit
+temporarily halted and reversed the unilateral action by the
+EAC Executive Director. However, prior to that, do you know how
+many voters in Georgia had tried to register using the Federal
+form and were turned away because they did not provide proof of
+citizenship?
+Mr. Kemp. I wouldn't be able to answer that question.
+Mr. Cummings. And how long will you need to get back to us
+on that? Can you get that information?
+Mr. Kemp. I'll have to check on that and get back to you.
+Mr. Cummings. Mr. Chairman, as I said, I am just concerned.
+When Justice Ginsburg was talking about Texas, I think it was
+in the Shelby case, and she was saying that 600,000 Texans
+would not be able to vote, I mean, if we want to have an
+emergency, that's what the emergency ought to be about. Every
+single person, I don't care whether they're Tea Party, Green
+Party, Democrat, or Republican, I will fight for their right to
+vote.
+And I just want to thank you, Mr. Chairman, for your
+courtesy. And I look forward to your responses, Secretary of
+State Kemp.
+Mr. Kemp. Let me just make one point. While we were asking
+for the form to be changed, we never stopped taking the Federal
+forms.
+Mr. Cummings. But can you understand--and I'm almost
+finished, Mr. Chairman. But can you understand why African
+American people, Hispanics, and others might be upset when
+people are--I'm not saying you--when people are blocking them
+from voting, when they're paying taxes and working hard and
+doing everything they're supposed to do and not be able to
+vote? I mean, can you understand it?
+Mr. Kemp. Well, I can understand it, but I can assure you
+that that's not happening in Georgia. Actually, we've seen
+minority participation increase in our State.
+Mr. Cummings. Thank you.
+Mr. Hurd. I'd like to thank our witnesses for taking the
+time to appear before us today.
+If there's no further business, without objection, the
+subcommittee stands adjourned.
+[Whereupon, at 4:54 p.m., the subcommittee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

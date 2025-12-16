@@ -1,0 +1,1834 @@
+- AMERICA'S NEXT GENERATION SUPERCOMPUTER: THE EXASCALE CHALLENGE
+
+[House Hearing, 113 Congress]
+[From the U.S. Government Publishing Office]
+
+AMERICA'S NEXT GENERATION SUPERCOMPUTER:
+
+THE EXASCALE CHALLENGE
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON ENERGY
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED THIRTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+WEDNESDAY, MAY 22, 2013
+
+__________
+
+Serial No. 113-31
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+Available via the World Wide Web: http://science.house.gov
+
+U.S. GOVERNMENT PRINTING OFFICE
+81-195                    WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC
+20402-0001
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. LAMAR S. SMITH, Texas, Chair
+DANA ROHRABACHER, California         EDDIE BERNICE JOHNSON, Texas
+RALPH M. HALL, Texas                 ZOE LOFGREN, California
+F. JAMES SENSENBRENNER, JR.,         DANIEL LIPINSKI, Illinois
+Wisconsin                        DONNA F. EDWARDS, Maryland
+FRANK D. LUCAS, Oklahoma             FREDERICA S. WILSON, Florida
+RANDY NEUGEBAUER, Texas              SUZANNE BONAMICI, Oregon
+MICHAEL T. McCAUL, Texas             ERIC SWALWELL, California
+PAUL C. BROUN, Georgia               DAN MAFFEI, New York
+STEVEN M. PALAZZO, Mississippi       ALAN GRAYSON, Florida
+MO BROOKS, Alabama                   JOSEPH KENNEDY III, Massachusetts
+RANDY HULTGREN, Illinois             SCOTT PETERS, California
+LARRY BUCSHON, Indiana               DEREK KILMER, Washington
+STEVE STOCKMAN, Texas                AMI BERA, California
+BILL POSEY, Florida                  ELIZABETH ESTY, Connecticut
+CYNTHIA LUMMIS, Wyoming              MARC VEASEY, Texas
+DAVID SCHWEIKERT, Arizona            JULIA BROWNLEY, California
+THOMAS MASSIE, Kentucky              MARK TAKANO, California
+KEVIN CRAMER, North Dakota           ROBIN KELLY, Illinois
+JIM BRIDENSTINE, Oklahoma
+RANDY WEBER, Texas
+CHRIS STEWART, Utah
+VACANCY
+------
+
+Subcommittee on Energy
+
+HON. CYNTHIA LUMMIS, Wyoming, Chair
+RALPH M. HALL, Texas                 ERIC SWALWELL, California
+FRANK D. LUCAS, Oklahoma             ALAN GRAYSON, Florida
+RANDY NEUGEBAUER, Texas              JOSEPH KENNEDY III, Massachusetts
+MICHAEL T. McCAUL, Texas             MARC VEASEY, Texas
+RANDY HULTGREN, Illinois             MARK TAKANO, California
+THOMAS MASSIE, Kentucky              ZOE LOFGREN, California
+KEVIN CRAMER, North Dakota           DANIEL LIPINSKI, Illinois
+RANDY WEBER, Texas                   EDDIE BERNICE JOHNSON, Texas
+LAMAR S. SMITH, Texas
+
+C O N T E N T S
+
+Wednesday, May 22, 2013
+
+Page
+Witness List.....................................................     2
+
+Hearing Charter..................................................     3
+
+Opening Statements
+
+Statement by Representative Cynthia Lummis, Chairwoman,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................     9
+Written Statement............................................    10
+
+Statement by Representative Randy Hultgren, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    11
+Written Statement............................................    11
+
+Statement by Representative Eric Swalwell, Ranking Minority
+Member, Subcommittee on Energy, Committee on Science, Space,
+and Technology, U.S. House of Representatives..................    12
+Written Statement............................................    13
+
+Witnesses:
+
+Dr. Roscoe Giles, Chairman, Advanced Scientific Computing
+Advisory Committee
+Oral Statement...............................................    16
+Written Statement............................................    18
+
+Dr. Rick Stevens, Associate Laboratory Director for Computing,
+Environment and Life Sciences, Argonne National Laboratory
+Oral Statement...............................................    32
+Written Statement............................................    34
+
+Ms. Dona Crawford, Associate Director for Computation, Lawrence
+Livermore National Laboratory
+Oral Statement...............................................    46
+Written Statement............................................    48
+
+Dr. Daniel Reed, Vice President for Research and Economic
+Development, University of Iowa
+Oral Statement...............................................    60
+Written Statement............................................    62
+
+Discussion.......................................................    71
+
+Appendix I: Answers to Post-Hearing Questions
+
+Dr. Roscoe Giles, Chairman, Advanced Scientific Computing
+Advisory Committee.............................................    84
+
+Dr. Rick Stevens, Associate Laboratory Director for Computing,
+Environment and Life Sciences, Argonne National Laboratory.....    91
+
+Ms. Dona Crawford, Associate Director for Computation, Lawrence
+Livermore National Laboratory..................................    95
+
+Dr. Daniel Reed, Vice President for Research and Economic
+Development, University of Iowa................................   102
+
+AMERICA'S NEXT GENERATION SUPERCOMPUTER:
+
+THE EXASCALE CHALLENGE
+
+----------
+
+WEDNESDAY, MAY 22, 2013
+
+House of Representatives,
+Subcommittee on Energy
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittee met, pursuant to call, at 10:05 a.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Cynthia
+Lummis [Chairwoman of the Subcommittee] presiding.
+
+[GRAPHIC] [TIFF OMITTED] 81195.001
+
+[GRAPHIC] [TIFF OMITTED] 81195.002
+
+[GRAPHIC] [TIFF OMITTED] 81195.003
+
+[GRAPHIC] [TIFF OMITTED] 81195.004
+
+[GRAPHIC] [TIFF OMITTED] 81195.005
+
+[GRAPHIC] [TIFF OMITTED] 81195.006
+
+[GRAPHIC] [TIFF OMITTED] 81195.007
+
+Chairwoman Lummis. Good morning. The Subcommittee will come
+to order. And we are delighted to have a terrific panel here
+this morning, so welcome to our hearing entitled ``America's
+Next Generation Supercomputer: the Exascale Challenge.'' In
+front of you are packets containing the written testimonies,
+biographies, and truth-in-testimony disclosures for today's
+witness panel.
+And now, I will recognize myself for five minutes for and
+opening statement followed by our Ranking Member Mr. Swalwell.
+The development and expanded availability of supercomputers
+has enabled society to push the frontiers of nearly every
+scientific discipline, and accelerate applications of that
+science in countless fields. It has enabled modeling and
+simulation necessary to address national security needs. It
+drives the boundaries of medical research, reduces cost to
+develop new products, and improves materials design processes,
+just to name a few.
+High performance computing has also revolutionized how the
+energy sector operates. Advanced modeling and simulation
+techniques, driven by computer algorithms and faster computing
+speeds, improve the efficiency of energy production and
+consumption technologies.
+These advancements ultimately trace back to Federal
+investments in basic research that provided the foundation for
+most of today's computing technologies. From the first megaflop
+supercomputers of the 1960s, the Federal investments have led
+to push across each landmark thousand-fold speed barrier to
+gigaflops, teraflops, and petaflops. I always think of floppy-
+eared rabbits and when I was a kid showing critters in 4H, I
+should have named them Giga, Tera, and Peta, but I just didn't
+know about it back then because that proceeded the first
+megaflop.
+Throughout this computing age, we have witnesses--we have
+witnessed yesterday's supercomputers become today's desktop
+computers and consumer devices often in incredibly short time
+frames. The spillover benefits to society are countless and
+immeasurable.
+The Department of Energy, led by the Advanced Scientific
+Computing Research program, plays a critical role in driving
+these computing technology breakthroughs. DOE supports world-
+class computational science facilities, such as the National
+Energy Research Scientific Computing Center. Additionally, DOE
+funds cutting-edge applied mathematics research and next-
+generation networking activities.
+DOE's next major computing challenge, constructing an
+``exascale'' computer system that is a thousand times faster
+than current world-leading supercomputers, may be the most
+daunting. Key scientific and technical obstacles associated
+with the architecture and energy efficiency of an exascale
+system must be overcome, and an immense amount of resources and
+effort will be required.
+As we head down this inevitable path to exascale computing,
+it is important we take time to plan and budget thoroughly to
+ensure a balanced approach that ensures broad buy-in from the
+scientific computing community. The Federal Government has
+limited resources and taxpayer funding must be spent on the
+most impactful projects. We need to ensure DOE efforts to
+develop an exascale system can be undertaken in concert with
+other foundational advanced scientific computing activities.
+This morning, we will hear testimony from expert witnesses
+regarding how best to achieve this balance.
+I would like to recognize if he is here, yes, he has come
+in, a leader in this effort, my colleague on the Energy
+Subcommittee, Representative Randy Hultgren.
+I would now like to yield the balance of my time to the
+gentleman from Illinois to summarize the discussion draft of
+his bill, ``American High-End Computing Leadership Act.''
+[The prepared statement of Mrs. Lummis follows:]
+
+Prepared Statement of Subcommittee Chairman Cynthia Lummis
+Good morning and welcome to today's Energy Subcommittee hearing to
+examine high performance computing research and development challenges
+and opportunities.
+The development and expanded availability of supercomputers has
+enabled society to push the frontiers of nearly every scientific
+discipline, and accelerate applications of that science in countless
+fields. It has enabled modeling and simulation necessary to address
+national security needs. It drives the boundaries of medical research,
+reduces cost to develop new products, and improves materials design
+processes, just to name a few areas.
+High performance computing has also revolutionized how the energy
+sector operates. Advanced modeling and simulation techniques, driven by
+complex algorithms and faster computing speeds, improve the efficiency
+of energy production and consumption technologies.
+These advancements ultimately trace back to Federal investments in
+basic research that provided the foundation for most of today's
+computing technologies. From the first megaflop supercomputers of the
+1960s, Federal investments have led the push across each landmark
+thousand-fold speed barrier-to gigaflops, teraflops, and petaflops.
+Throughout this computing age, we have witnessed as yesterday's
+supercomputers become today's desktop computers and consumer devices
+often in incredibly short time frames. The spillover benefits to
+society are countless and immeasurable.
+The Department of Energy, led by the Advanced Scientific Computing
+Research program, plays a unique and critical role in driving these
+computing technology breakthroughs. DOE supports world-class
+computational science facilities, such as the National Energy Research
+Scientific Computing Center. Additionally, DOE funds cutting edge
+applied mathematics research and next generation networking activities.
+DOE's next major computing challenge-constructing an ``exascale''
+computer system that is a thousand times faster than current world-
+leading supercomputers-may be the most daunting. Key scientific and
+technical obstacles associated with the architecture and energy
+efficiency of an exascale system must be overcome, and an immense
+amount of resources and effort will be required.
+As we head down this inevitable path to exascale computing, it is
+important we take time to plan and budget thoroughly to ensure a
+balanced approach that ensures broad buy-in from the scientific
+computing community. The Federal government has limited resources and
+taxpayer funding must be spent on the most impactful projects. We need
+to ensure DOE efforts to develop an exascale system can be undertaken
+in concert with other foundational advanced scientific computing
+activities. This morning, we will hear testimony from expert witnesses
+regarding how best to achieve this balance.
+I would like to recognize a leader of this effort, my colleague on
+the Energy Subcommittee, Representative Randy Hultgren. I would now
+like to yield the balance of my time to the gentleman from Illinois to
+summarize the discussion draft of his bill, ``American High-End
+Computing Leadership Act.''
+
+Mr. Hultgren. Thank you, Madam Chair, for holding this
+hearing today. Exascale computing represents a brave new world
+of science for our Nation. The application of the next
+generation of supercomputers is vast. A thousand-fold increase
+in processing power will give us the intense computing tools
+necessary to ensure our national security by better testing our
+nuclear stockpile, revolutionized our understanding and
+treatment of complicated healthcare problems like neurological
+diseases or the genetics underpinning cancer with the ability
+to model new treatments and ensure our Nation's competitiveness
+in the big data economy of the 21st century by spilling over
+knowledge and expertise into industry and academia.
+And while I can postulate further on some of the applied
+uses of faster machines, I also know that simply by making
+these investments in basic science needed to overcome
+challenges in the immensely massive parallelism, power
+management, new architecture, and programming models, we will
+enrich our Nation intellectually and ensure our labor force
+remains competitive.
+I think at that point I will yield back, Madam Chair. Let
+me follow up if I have another minute. Do I?
+Chairwoman Lummis. Mr. Hultgren, you do.
+Mr. Hultgren. Madam Chair, let me summarize my bill
+quickly. Thank you.
+My bill would amend the existing statute by specifying the
+need to target the specific challenges and power requirements
+and parallelism required to make the leap to exascale. It also
+will instruct the Secretary of Energy to conduct a coordinated
+research program to develop exascale computing systems and
+require an integrated strategy and program management plan to
+ensure the health of existing research activities is not
+harmed.
+The bottom line is we do not know all of the ways we will
+use this next-generation of supercomputers, but given the vast
+and unpredictable ways that computing technology has already
+enhanced every part of our lives and given the investments
+being made in other countries to deploy large-scale systems, it
+is more important than ever that we make this investment today.
+I look forward to hearing the witnesses, what they think of
+this legislative proposal, areas we can improve it, challenges
+that we will face. And with that, I do thank you. I apologize
+for my confusion here but I yield back to the Chairwoman. Thank
+you very much, Madam Chair.
+[The prepared statement of Mr. Hultgren follows:]
+
+Prepared Statement of Representative Randy Hultgren
+
+Thank you, Madam Chair, for holding this hearing today.
+Exascale computing represents an exciting new world of science for
+our nation. The applications for the next generation of super computers
+are vast.
+A thousand fold increase in processing power will give us the
+intense computing tools necessary to ensure our national security by
+better testing our nuclear stockpile; revolutionize our understanding
+and treatment of complicated health care problems like neurological
+diseases or the genetics underpinning cancer with the ability to model
+new treatments; and ensure our nation's competitiveness in the big data
+economy of the 21st century by spilling over knowledge and expertise
+into industry and academia.
+And while I can postulate further on some of the applied uses of
+faster machines; I also know that simply by making these investments in
+the basic science needed to overcome challenges in immensely massive
+parallelism, power management, new architectures and programming
+models, we will enrich our nation intellectually and ensure our labor
+force remains competitive.
+Madam Chair, my bill would amend the existing statute by specifying
+the need to target the specific challenges in power requirements and
+parallelism required to make the leap to exascale. It would also
+instruct the Secretary of Energy to conduct a coordinated research
+program to develop exascale computing systems, and require an
+integrated strategy and program management plan to ensure the health of
+existing research activities is not harmed.
+The bottom line is, we do not know all of the ways we will use the
+next generation of supercomputers, but given the vast and unpredictable
+ways that computing technology has already enhanced every part of our
+lives, and given the investments being made in other countries to
+deploy large scale systems, it is more important than ever that we make
+this investment today.
+I look forward to hearing what the witnesses think of this
+legislative proposal, areas we can improve it, challenges we face, and
+with that I thank you and I yield back.
+
+Chairwoman Lummis. The gentleman yields back.
+And I might add on a personal note, today, my daughter is
+being awarded her master's degree in digital media from
+Columbia University. I unfortunately cannot be at her
+graduation because Congress is in session but I get to watch it
+on the computer, so I will get to see it. And I think to
+myself, first of all, what is a master's degree in digital
+media? Somebody my age doesn't even know what that is. And
+certainly, when I was her age, I could not have even begun to
+envision the career that would be open to her as of today, and
+the career that is open to her as of today is due in part to
+the investment that the people in this room and that the
+American people have made in computing, for science, and for
+the benefit of mankind. So this is a very important subject.
+The fact that it is such an important subject leads me to
+let you all know that there will be several comings and goings
+by Committee Members this morning. There are concurrent
+meetings going on around the buildings. In my case, we have the
+IRS in front of us down in Oversight and Government Reform and
+I know there are other Members that may have to come and go
+from time to time. We deeply appreciate your testimony here
+today. In my absence, our Vice Chair Mr. Weber will be in the
+chair, and of course, Mr. Swalwell, who is our Ranking Member,
+who I will recognize now, the gentleman from California, Mr.
+Swalwell.
+Mr. Swalwell. Thank you, Chairman Lummis. And also
+congratulations to your daughter on this achievement. And thank
+you for holding this hearing today. And I want to thank the
+witnesses for being here. I also thank the witnesses who are
+not from the 15th Congressional District. We welcome you as
+well but especially welcome Ms. Crawford from Livermore,
+California.
+I am excited to learn more about the work that the DOE is
+doing in partnership with industry and our national
+laboratories, including both Lawrence Livermore and Berkeley
+national laboratories in particular and are carrying out to
+maintain the United States' leadership in the critical area of
+high-performance computing.
+As I am sure the witnesses will all describe in more
+detail, this capability enables our best and brightest minds to
+gain new insights into societal concerns ranging from
+Alzheimer's disease to climate change. Other examples of both
+industrial and academic research that benefit from our
+advanced, high-end computing capabilities include high-
+temperature superconductivity to significantly reduce energy
+losses in transmitting electricity; aerodynamic modeling for
+aircraft and vehicle design; pharmaceutical development; next-
+generation nuclear reactor design; fusion plasma modeling; and
+combustion simulation to guide the design of fuel-efficient
+clean engines such as work being carried out at the Sandia
+National Laboratory's combustion research facility.
+In short, many of the most pressing issues of our time,
+whether it is how we find our energy resources, how we make our
+energy resources more efficient, or how we solve the rising
+cost of healthcare can be solved through investments in high-
+performance computing.
+A focus of today's hearing is the development of an
+exascale computing capability. Now, my understanding is that
+exascale is often interchangeably used with extreme scale to
+refer to the next generation of supercomputers in general, but
+it also refers to a computing system that would be able to
+carry out a million trillion operations per second. Yes, a
+million trillion or a 1 with 18 zeros after it. That is about
+500 times faster than the world's fastest computer today. Such
+a system would be critical to meeting the Nation's needs in a
+number of important research areas like combustion science,
+climate science, modeling of the human brain, and ensuring the
+reliability of our nuclear weapons stockpile.
+That said, as we pursue the next generation of
+supercomputing capabilities, which I fully support, I want to
+ensure that the Nation is getting the most bang for buck out of
+our current world-leading facilities. It is noteworthy that
+while Lawrence Livermore, Argonne, and Oak Ridge national
+laboratories are three of the most powerful supercomputing
+centers in the world, and they are addressing incredibly
+important scientific issues that really require their advanced
+computing capabilities. Lawrence Berkeley's National Energy
+Research Scientific Computing Center actually serves thousands
+more users with only a fraction of those leadership machines'
+computing power.
+The point is not every computational research effort
+requires the fastest most sophisticated system we can possibly
+build and I think we also need to work more to make sure that
+what is sometimes called capacity supercomputing is more
+accessible to both the academic and industrial research
+communities that could benefit.
+I have always believed whether it was as a local city
+councilman or a sitting Member of Congress that the government
+works best when we can share our resources with the private
+sector. It doesn't serve anyone any good if we are just doing
+the research in the government and not transferring that
+research out to the private sector, and I think in high-
+performance computing we have already shown in our laboratories
+we are transferring it out. The transfer out makes us more
+efficient, can reduce healthcare costs, and also more
+importantly, especially in our area, it can create private-
+sector jobs on top of the thousands of jobs that already exist
+at our laboratories.
+So with that, I look forward to discussing these important
+issues with each of you today and I yield back the balance of
+my time.
+[The prepared statement of Mr. Swalwell follows:]
+
+Prepared Statement of Subcommittee Ranking Member Eric Swalwell
+Thank you Chairman Lummis for holding this hearing today, and I
+also want to thank the witnesses for being here--even the ones from
+outside of the 15th District of California!
+I am excited to learn more about the great work that the Department
+of Energy in partnership with industry and our national laboratories,
+including both Lawrence Livermore and Lawrence Berkeley National
+Laboratories in particular, are carrying out to maintain and advance
+U.S. leadership in the critical area of high performance computing.
+As I'm sure the witnesses will describe in more detail, this
+capability enables our best and brightest scientists to gain new
+insights into societal concerns ranging from Alzheimer's disease to
+climate change. Other examples of both industrial and academic research
+that benefit from our advanced high-end computing capabilities include:
+high temperature superconductivity to significantly reduce energy
+losses in transmitting electricity; aerodynamic modeling for aircraft
+and vehicle design; pharmaceutical development; next generation nuclear
+reactor design; fusion plasma modeling; and combustion simulation to
+guide the design of fuel-efficient clean engines, such as work being
+carried out at the Sandia National Laboratories' Combustion Research
+Facility.
+A focus of today's hearing is the development of an exascale
+computing capability. Now, my understanding is that ``exascale'' is
+often used interchangeably with ``extreme scale'' to refer to the next
+generation of supercomputers in general, but it also refers to a
+computing system that would be able to carry out a million trillion
+operations per second. (Yes, a million trillion, or a 1 with 18 zeros
+after it.) That's about 500 times faster than the world's fastest
+computers at today. Such a system would be critical to meeting that
+nation's needs in a number of important research areas like combustion
+science, climate science, modeling of the human brain, and ensuring the
+reliability of our nuclear weapons stockpile.
+That said, as we pursue the next generation of supercomputing
+capabilities-which I fully support-I also want to ensure that the
+nation is getting the most bang per buck out of our current world-
+leading facilities. It is noteworthy that while Lawrence Livermore,
+Argonne, and Oak Ridge National Laboratories are 3 of the most powerful
+supercomputers in the world, and they are addressing incredibly
+important scientific issues that really require their advanced
+computing capabilities, Lawrence Berkeley's National Energy Research
+Scientific Computing Center actually serves thousands of more users
+with only a fraction of those leadership machines' computing power. The
+point is, not every computational research effort requires the fastest,
+most sophisticated system we can possibly build, and I think we also
+need to do more to make what's sometimes called ``capacity''
+supercomputing more accessible to both the academic and industrial
+research communities that could benefit.
+With that, I look forward to discussing these important issues with
+each of you today, and I yield back the balance of my time.
+
+Chairwoman Lummis. Thank you, Mr. Swalwell.
+If there are Members who wish to submit additional opening
+statements, your statements will be added to the record at this
+point.
+Well, at this time I would like to introduce our witnesses,
+and the fun part today is we have two Members here who have
+witnesses from their districts. So I will start by introducing
+Dr. Roscoe Giles, Chairman of the Advanced Scientific Computing
+Advisory Committee of the Department of Energy and Professor at
+Boston University. Dr. Giles--and I have that right, don't I,
+Dr. Giles? Thank you. He has served in a number of leadership
+roles in the community including Member of the Board of
+Associated Universities, Inc., Chair of the Boston University
+Faculty Council, and General Chair of the SC Conference in
+2002. He received his Ph.D. in physics from Stanford University
+in 1975. That is a remarkable record of achievement, Dr. Giles.
+Thank you for being here.
+At this time, I would like to yield to the gentleman from
+Illinois, Mr. Hultgren, to introduce our second witness.
+Mr. Hultgren. Thank you, Madam Chair.
+Our second witness is Dr. Rick Stevens, Associate
+Laboratory Director for Computing, Environment, and Life
+Sciences at Argonne National Laboratory. He heads Argonne's
+Computational Genomics Program and co-leads the DOE's
+laboratory planning effort for exascale computing research. He
+is also Professor of computer science at the University of
+Chicago and is involved in several interdisciplinary studies at
+the Argonne University of Chicago Computation Institute and at
+the Argonne University of Chicago Institute for Genomics and
+Systems Biology. He is doing amazing work at Argonne and at the
+University and the entire Illinois community is proud of his
+contributions to this cutting edge field of science. We are
+very glad to have you here, Dr. Stevens. Thank you.
+I yield back.
+Chairwoman Lummis. Thank you for your attendance today.
+That was my field although at a much lower level of academic
+achievement, Dr. Stevens. We are delighted you are here.
+Now, I would like to yield to the gentleman from
+California, Mr. Swalwell, to introduce our third witness.
+Mr. Swalwell. Thank you, Chairman Lummis.
+And I have been very eager on this Committee to have a
+witness from Lawrence Livermore laboratory.
+Chairwoman Lummis. I can testify to that.
+Mr. Swalwell. I thank you for allowing this witness to be
+here today. Lawrence Livermore is the largest employer in my
+Congressional District and I have to really just commend the
+laboratory for their advocacy of the issues facing Lawrence
+Livermore. They are in constant contact with our office and
+this Committee so I am honored to today introduced Dona
+Crawford, who is the Associate Director of Computation at
+Lawrence Livermore National Laboratory.
+Ms. Crawford is responsible for a staff of roughly 900 to
+develop and deploy an integrated computing environment for
+advanced simulations of complex physical phenomena like climate
+change, clean energy creation, biodefense, and
+nonproliferation. She has served on Advisory Committees for the
+National Academies and the National Science Foundation and
+currently serves as co-Chair of the Council on Competitiveness
+High-Performance Computing Advisory Committee, and is a member
+of IBM's Deep Computing Institute External Advisory Board. Ms.
+Crawford has a master's degree in operations research from
+Stanford University and a bachelor's degree in mathematics from
+the University of Redlands, California.
+Ms. Crawford, thank you for being here today and I yield
+back the balance of my time.
+Chairwoman Lummis. Thank you, Mr. Swalwell. And my first
+exposure to Livermore, I used to walk around the lab. My first
+job out of college was working for a rodeo company in Northern
+California, and we were putting on the rodeo at Livermore.
+Mr. Swalwell. It is the fastest rodeo in the world. Did you
+know that?
+Chairwoman Lummis. You know, considering the rodeo company
+I worked for, I would believe that. Those rodeos ran like that
+and I used to go for walks around the lab just to get some
+exercise when I was there at Livermore putting on rodeos. So I
+know where you are, at least I knew where you are when I was a
+young college graduate in my first job.
+Our final witness is Dr. Daniel Reed, Vice President of
+Research and Economic Development at the University of Iowa.
+Previously, he served as a Senior Leader at Microsoft serving
+as Microsoft's Computing Strategist to Corporate Vice President
+for Extreme Computing, I love that, and Technology Policy. He
+received his Ph.D. in computer science in 1983 from Purdue
+University.
+As our witnesses should know, spoken testimony is limited
+to five minutes each, after which the Members of the Committee
+will have five minutes each to ask questions. I now recognize
+Dr. Giles for five minutes to present his testimony with deep
+gratitude to all of you for your attendance today. Dr. Giles.
+
+TESTIMONY OF DR. ROSCOE GILES, CHAIRMAN,
+
+ADVANCED SCIENTIFIC COMPUTING ADVISORY COMMITTEE
+
+Dr. Giles. Yes, thank you, Chairman Lummis. And thanks to
+Members of the Committee for inviting me to testify today.
+I think the bill you are considering is very, very
+important for our field and for maintaining the Nation's
+leadership in computing and computational science. I am
+testifying today in my role as Chair of the Advisory Committee
+to ASCR and I will try to reflect that committee's views of
+some elements of the ASCR program and hope to demonstrate that
+we are ready to move forward and sort of eager to move forward
+in this direction. And it is important that we do so.
+The Office of Advanced Scientific Computing Research has
+programs and investments that include computer and networking
+facilities that support DOE's science programs; leadership
+computing facilities for which the exascale discussion is very
+directly relevant with unique high-end capabilities made
+available to DOE and to all the Nation, including industry;
+applied mathematics research whose results provide the
+framework for future applications and systems; computer science
+system and software research, whose results both enable
+applications of current systems and chart the direction for
+future systems.
+And beyond this, ASCR investments--ASCR is the abbreviation
+for Advanced Scientific Computer Research--we get lost in
+acronyms sometimes. ASCR investments have also built human
+expertise in the scientific and technical staff at the labs and
+through attention to integrating the next generation of
+computational science leaders into DOE programs and facilities
+through programs like the Computational Science Graduate
+Fellows Program, which I also am involved with.
+It is hard in these few minutes to state the breadth and
+depth of science productivity that is being enabled by these
+machines. We now see the initial results of the petascale era.
+As one measure, we might mention that more than 2,000 peer-
+reviewed research articles based directly on projects supported
+by ASCR computing facilities were published in 2012 alone. One
+I love is a trillion-particle simulation in cosmology, since I
+started out in the '80s struggling to do a million-particle
+simulation of molecular dynamics, and to go another factor of a
+million is astonishing.
+In 2009 our advisory committee was charged with reviewing
+ASCR's body of work on exascale computing. We delivered the
+Rosner report, ``The Opportunities and Challenges of Exascale
+Computing,'' in fall of 2010. We found the case for exascale
+computing compelling and recommended the DOE should proceed
+expeditiously with an exascale initiative so that it continues
+to lead in using extreme scale computing to meet important
+national needs.
+As you have heard mentioned this morning, when we wrote
+that, we were talking about growing a factor of 1,000 forward
+in the future. Now, that is a factor of 500. I am glad to see
+that we are starting to in this bill to really move forward on
+this. And we have had a sense in the committee that we have
+been waiting for that forward motion from the system.
+Some of the--during this time, ASCR has been busy doing
+foundational research to make this possible, so there--and we
+will hear more about it, I am sure, from other speakers. But
+the establishment of co-design centers, computing research, and
+applied mathematics research and some prototype projects with
+fast forward and design forward that are bringing us in this
+direction, and I think we are making progress but not the
+progress we should be making at the scale we should be making
+it, and hopefully, the bill will help deal with that issue.
+Our committee has been asked to review ASCR facility plans
+for the relatively short-term future of the next ten years, not
+including exascale deployment, and we found those facility
+plans to be very sound and compelling that involve enhancements
+to the petascale systems. We have also recently examined the
+intersection of big data needs within the Department of Energy
+and ASCR's exascale program and found them quite convergent.
+The exascale technologies we are talking about developing will
+be essential in systems that analyze big data problems of the
+nature that come to the Department of Energy from both
+experiment and theory, and we have a--quite a long and detailed
+report about that.
+I wanted to just summarize by saying I am very, very glad
+to see the legislation that we have here. I am very supportive
+of the direction we are going. I would only ask that the
+funding level be sure to be sufficient for the scope of our
+dreams. Thank you.
+[The prepared statement of Dr. Giles follows:]
+[GRAPHIC] [TIFF OMITTED] 81195.008
+
+[GRAPHIC] [TIFF OMITTED] 81195.009
+
+[GRAPHIC] [TIFF OMITTED] 81195.010
+
+[GRAPHIC] [TIFF OMITTED] 81195.011
+
+[GRAPHIC] [TIFF OMITTED] 81195.012
+
+[GRAPHIC] [TIFF OMITTED] 81195.013
+
+[GRAPHIC] [TIFF OMITTED] 81195.014
+
+[GRAPHIC] [TIFF OMITTED] 81195.015
+
+[GRAPHIC] [TIFF OMITTED] 81195.016
+
+[GRAPHIC] [TIFF OMITTED] 81195.017
+
+[GRAPHIC] [TIFF OMITTED] 81195.018
+
+[GRAPHIC] [TIFF OMITTED] 81195.019
+
+[GRAPHIC] [TIFF OMITTED] 81195.020
+
+[GRAPHIC] [TIFF OMITTED] 81195.021
+
+Mr. Weber. [Presiding] Thank you, Dr. Giles.
+Now, I recognize Dr. Stevens to present his testimony. Turn
+your mike on.
+
+TESTIMONY OF DR. RICK STEVENS,
+
+ASSOCIATE LABORATORY DIRECTOR FOR COMPUTING,
+
+ENVIRONMENT AND LIFE SCIENCES,
+
+ARGONNE NATIONAL LABORATORY
+
+Dr. Stevens. Oh, thanks. Thank you. Madam Chair, Ranking
+Member Swalwell, Members of the Subcommittee, I appreciate this
+opportunity to talk to you about the future of high-performance
+computing research and development and about the importance of
+U.S. leadership in the development and deployment of exascale
+computing.
+In my own work at Argonne and the University of Chicago I
+split my time between trying to advance high-performance
+computing architectures and systems and doing research on how
+to do computational genomics in the pursuit of problems in
+energy, the environment, and infectious disease. And those
+projects have given me insight not only on the underlying
+technology but on the impact of applications.
+I believe that advancing American leadership in high-
+performance computing is vital to our national interest. High-
+performance computing is a critical technology for the Nation,
+and it is also the underlying foundation for advancing progress
+in modeling and simulation and big data. It serves both of
+these needs. It is also needed by all branches of science and
+engineering for forward progress. It is used more and more by
+U.S. industry to maintain a competitive edge in the development
+of new products and services, and it is emerging as a critical
+policy tool for government leaders who can rely on simulations
+to add insight to policy or technical decisions.
+Today, the United States is the undisputed leader in the
+development and use of high-performance computing technologies.
+However, other nations are increasingly aware of the strategic
+importance of HPC and are creating supercomputing research
+programs that challenge our leadership.
+Japan has significant programs for over a decade in this
+area. They have fielded large-scale machines that are
+comparable to the machines in the United States. But China is
+emerging as a serious player as well and Europe has been
+investing in revitalization of their own high-performance
+computing sector. So we now have at least three sectors on the
+planet besides the United States making serious progress.
+All have set their sights on the development of machines
+that are 1,000 times faster than those most powerful machines
+today. Everyone is looking at exascale. And achieving this goal
+is important. The drive to exascale will have a sustained
+impact on American competitiveness. It gives companies and
+researchers the means and the impetus for developing new
+processes, new services, and new products.
+For example, we need increased compute power to enable
+first principle simulations of materials for energy storage
+that would give us access to a potential 500-mile battery pack
+for electric cars. We want to build end-to-end simulations of
+advanced nuclear reactors that are modular, safe, and
+affordable. We want to revolutionize small business
+manufacturing and digital fabrication and put in place a
+digital supply chain that would potentially revolutionize the
+economy in the United States.
+We want to model controls for power grids that have
+significant amount of renewable energy, and we want to increase
+the resolution of climate models to provide more details on
+regional impacts. And finally, we want to create a personalized
+medicine that can incorporate an individual's genomic
+information into a specific customized plan for prevention or
+treatment of disease.
+All of these challenges require machines that are thousands
+of times faster than the current machines. The development of
+practical exascale system, however, will also mean affordable
+petascale systems and broad deployment, broad accessibility.
+The DOE Office of Science supercomputer centers at Argonne,
+Berkeley, and Oak Ridge are currently oversubscribed by at
+least a factor of three. This means that not all of the science
+that we could be doing on these machines is getting done. With
+current funding levels, these systems can only be upgraded
+about once every four to five years. And at current research--
+at current levels of research investment, the U.S. vendors are
+not likely to reach an exascale performance level that we can
+afford to deploy until considerably after 2020. This is a
+problem for us if we want to maintain our leadership.
+Both China and Japan are working on plans to reach the
+level by 2020 or before. Japan is building a $1.1 billion
+investment program aiming to deploy exascale machines by 2020,
+and China has announced a goal to reach exascale before 2020.
+China is aggressively spending on infrastructure for
+supercomputing and succeeding in deploying large-scale systems
+rivaling the largest systems deployed in the United States. It
+is widely expected they will regain lead on this capability
+this year, although their designs are mostly based on
+incorporating U.S. components. In the future, they plan to
+deploy systems based on Chinese components.
+I have been working since 2007 building a plan with my
+colleagues at the laboratories, academia, and DOE, and we
+identified five hurdles that we must cross in order to reach
+exascale. We have to reduce systems powered by a factor of 50;
+we must improve memory performance and cost by a factor of 100;
+we must improve our ability to program these systems; we must
+increase the parallelism in our applications; and we must
+improve reliability. These are not simple tasks but these are
+very important if we are to reach this goal. And I believe we
+have a duty to move as swiftly as we can on this objective.
+Thank you. I would be more than happy to answer your
+questions. Thank you.
+[The prepared statement of Dr. Stevens follows:]
+[GRAPHIC] [TIFF OMITTED] 81195.022
+
+[GRAPHIC] [TIFF OMITTED] 81195.023
+
+[GRAPHIC] [TIFF OMITTED] 81195.024
+
+[GRAPHIC] [TIFF OMITTED] 81195.025
+
+[GRAPHIC] [TIFF OMITTED] 81195.026
+
+[GRAPHIC] [TIFF OMITTED] 81195.027
+
+[GRAPHIC] [TIFF OMITTED] 81195.028
+
+[GRAPHIC] [TIFF OMITTED] 81195.029
+
+[GRAPHIC] [TIFF OMITTED] 81195.030
+
+[GRAPHIC] [TIFF OMITTED] 81195.031
+
+[GRAPHIC] [TIFF OMITTED] 81195.032
+
+[GRAPHIC] [TIFF OMITTED] 81195.033
+
+Mr. Weber. Thank you, Dr. Stevens.
+I recognize Ms. Crawford for her testimony.
+
+TESTIMONY OF MS. DONA CRAWFORD,
+
+ASSOCIATE DIRECTOR FOR COMPUTATION,
+
+LAWRENCE LIVERMORE NATIONAL LABORATORY
+
+Ms. Crawford. I thank you. I thank Chair Lummis and I thank
+you, Mr. Vice Chairman Weber and Ranking Member Swalwell, for
+inviting me to be here today. I ask that my full statement as
+submitted to the Committee made part of the hearing record, and
+if I may, I will summarize.
+Mr. Weber. Without objection, so ordered.
+Ms. Crawford. I am Dona Crawford, Associate Director of
+Computation at Lawrence Livermore National Laboratory. I will
+shorten that by saying LLNL or Livermore. Livermore is a
+national security laboratory of the National Nuclear Security
+Administration of the Department of Energy and home to Sequoia,
+one of the fastest computers in the world.
+Livermore has the responsibility for maintaining the
+safety, security, and effectiveness of the Nation's strategic
+nuclear deterrent through the Stockpile Stewardship Program.
+High-performance computing has been a core competency of the
+lab to meet this mission need since over 60 years. In fact, the
+NNSA labs, working in close partnership with U.S. HPC industry,
+were at the forefront of the last revolutionary design shift in
+HPC computer architectures and applications development. That
+is the foundation of today's HPC systems.
+Over the past 20 years, the NNSA labs learned many valuable
+lessons, including how to best structure R&D efforts to develop
+computing architectures that meet our demanding mission
+requirements while cost-effectively leveraging market-driven
+technology within industry. These lessons are very valuable in
+our efforts to develop exascale computing.
+I applaud the Committee for its determined efforts to
+sustain U.S. leadership in this vitally important and
+increasingly competitive arena of high-performance computing.
+It is imperative that the United States embark on an R&D
+program to develop new technologies and computer architectures
+to support exascale computing.
+My main point of emphasis today is straightforward. This
+pursuit must be a joint Office of Science/NNSA effort working
+in tandem through partnership with U.S. HPC industry to ensure
+system architectures that meet Office of Science and NNSA
+mission requirements. Working together, the Office of Science
+and NNSA have combined scarce resources and have already
+initiated a number of R&D efforts and contracts with industrial
+partners but lack the resources to invest at the magnitude
+necessary to assure success over the next decade.
+Due to the technically challenging nature of developing
+exascale supporting technologies in computing capability, it is
+vitally important to ensure there are competitive teams each
+with Office of Science and NNSA laboratories partnered with
+U.S. HPC industry collaborators. Equally important is the
+development of an integrated strategy and program management
+plan.
+Current U.S. leadership in HPC is a direct result of the
+Nation's investment in computational capability to support the
+Stockpile Stewardship Program. U.S. HPC investment has provided
+significant computing capability to maintain the U.S. nuclear
+deterrent and this computing capability enables us to simulate
+in 2-D at high resolution and high physics fidelity or simulate
+in 3-D at low resolution. Today, we cannot simulate in 3-D at
+high resolution and high physics fidelity which will be
+required for the stockpile mission needs. Therefore, a new
+architecture enabling exascale computing is required for the
+NNSA mission.
+This will not be easy. Development of exascale-class
+systems cannot be achieved through a straightforward refinement
+of today's technologies. Surmounting multiple technical issues
+will require sustained research and development effort. But
+there is no doubt exascale computing will yield valuable
+benefits to near-term mission requirements, as well as to U.S.
+economic competitiveness.
+Over the last two decades, supercomputers have transformed
+the way the world conducts scientific research and has enabled
+discovery and development across a broad set of disciplines. In
+a 2008 U.S. Council on Competitiveness report, the Council
+states, ``supercomputing is part of the corporate arsenal to
+beat rivals by staying one step ahead of the innovation curve.
+It allows companies to design products and analyze data in ways
+once unimaginable.''
+In one example, Livermore is leveraging its HPC
+capabilities in the California Energy Systems for the 21st
+Century Initiative. The California Public Utilities Commission
+and state investor-owned utilities are collaborating with
+Livermore to improve and expand energy systems to meet our
+future energy needs. The owners, operators, regulators, and a
+joint team of technical experts will use the Nation's most
+advanced modeling simulation and analytical tools to gain
+unprecedented insight and generate new data to reduce risk and
+inform solutions to issues facing 21st-century energy systems
+such as renewable energy integration and use of smart grid
+technology.
+There are many other examples that highlight the importance
+of supercomputing and reinforce the value of maintaining U.S.
+HPC leadership. For now, let me close again by saying thank you
+and I look forward to working with the Committee to ensure
+continued U.S. HPC leadership.
+[The prepared statement of Ms. Crawford follows:]
+[GRAPHIC] [TIFF OMITTED] 81195.034
+
+[GRAPHIC] [TIFF OMITTED] 81195.035
+
+[GRAPHIC] [TIFF OMITTED] 81195.036
+
+[GRAPHIC] [TIFF OMITTED] 81195.037
+
+[GRAPHIC] [TIFF OMITTED] 81195.038
+
+[GRAPHIC] [TIFF OMITTED] 81195.039
+
+[GRAPHIC] [TIFF OMITTED] 81195.040
+
+[GRAPHIC] [TIFF OMITTED] 81195.041
+
+[GRAPHIC] [TIFF OMITTED] 81195.042
+
+[GRAPHIC] [TIFF OMITTED] 81195.043
+
+[GRAPHIC] [TIFF OMITTED] 81195.044
+
+[GRAPHIC] [TIFF OMITTED] 81195.045
+
+Mr. Weber. Thank you, Ms. Crawford.
+Dr. Reed, I recognize you for your testimony.
+
+TESTIMONY OF DR. DANIEL REED,
+
+VICE PRESIDENT FOR RESEARCH AND ECONOMIC DEVELOPMENT,
+UNIVERSITY OF IOWA
+
+Dr. Reed. Thank you. Chair Lummis, Vice Chair Weber,
+Ranking Member Swalwell, Members of the Subcommittee, my name
+is Dan Reed and I am the Vice President for Research and
+Economic Development at the University of Iowa. Thank you for
+the opportunity to share my perspectives on exascale computing
+and to respond to your questions regarding the American High-
+End Computing Leadership Act.
+Today, I would like to make four points regarding the
+exascale and high-performance computing program followed by a
+set of specific recommendations for the future. They are drawn
+from my nearly 30 years of experience in high-performance
+computing as a researcher, as an academic and corporate leader,
+as a Director of the National Science Foundation Supercomputing
+Center, and as a participant in national science and technology
+policy.
+First of all, as others have noted, high-performance
+computing is unique among scientific instruments. It is
+distinguished by its universality as an intellectual amplifier.
+New, more powerful supercomputers and computational models
+yield insights across all scientific and engineering
+disciplines. Advanced computing is also essential for analyzing
+the torrent of experimental data produced by scientific
+instruments and sensors, but it is about more than science.
+With advanced computing, real-time data fusion, and powerful
+numerical models, we have the potential to predict the tracks
+of devastating tornadoes such as the recent one in Oklahoma,
+saving lives, and ensuring the future of our children.
+My second point is that we face an uncertain future of
+computing and in particular high-performance computing
+leadership in this country. As others have noted, today, HPC
+systems from Oak Ridge, Lawrence Livermore, and Argonne
+National Laboratories occupy the first, second, and fourth
+place on the list of the world's fastest computers. From this,
+one might surmise that all is well, yet U.S. leadership in both
+deployed HPC capability and in the technologies needed to
+create future systems is under challenge.
+Also, as others have noted, other nations are investing
+strategically in high-performance computing to advance national
+priorities. And the U.S. research community has repeatedly
+warned of the potential and actuality of eroding U.S.
+leadership in computing and in high-performance computing and
+emphasized the need for sustained and strategic investment. I
+have had the privilege of chairing many of those studies
+personally as a member PITAC, of PCAST, of National Academies'
+boards, and yet many of these warnings have been largely
+unheeded.
+This brings me to my third point: the deep interdependence
+a basic research of vibrant U.S. computing industry and high-
+performance computing capability. It has long been axiomatic
+that the United States is the world leader in information
+technology. Our global leadership is not a birthright. As Andy
+Grove, the former CEO of Intel, noted in his famous aphorism
+``only the paranoid survive.'' U.S. leadership has been
+repeatedly earned and hard-fought based on continued Federal
+Government commitment to basic research, translation of that
+research into technological innovations, and the creation of
+new products by vibrant U.S. industry.
+This brings me to my fourth point. Computing is in deep
+transition to a new era with profound implications for the
+future of U.S. industry and HPC. My colleague Mr. Stevens
+touched on many of the issues around energy management and low-
+power devices and they are key to this topic. U.S. consumers
+and businesses are an increasingly small minority of the global
+market for mobile devices and for cloud services.
+We live in a post-PC world, as we all know, where U.S.
+companies compete in a global device ecosystem. Unless we are
+vigilant, these economic and technical changes could further
+shift the center of enabling technology R&D away from the
+United States with profound implications for our future HPC
+capability. Given this, what are my recommendations for the
+future? First and most importantly, we need to change our model
+for HPC research and deployment if the United States is to
+maintain its leadership. This must include deep and sustained
+interagency collaborations defined by a regularly updated
+strategic R&D plan and associated, verifiable metrics,
+commensurate budget allocations, and accountability to realize
+the plan's goals.
+DOE's partners--it needs the National Science Foundation,
+the Department of Defense, NIST and NIH, and other agencies to
+fulfill their important and complementary roles to DOE as
+engaged partners and supporters of basic research in technology
+development. We also need long-term industry engagement.
+Second, advanced HPC deployments are crucial, but the
+computing R&D journey is as important as any single system
+deployment. A vibrant U.S. ecosystem of talented and trained
+people and technical innovation is the true lifeblood of
+sustainable exascale computing.
+Finally, we must balance and embrace dual-use technology
+R&D supporting both high-performance computing and ensuring
+U.S. industry competitiveness. Neither HPC nor big data R&D can
+be sacrificed to advance the other, nor can hardware R&D
+dominate investments in algorithms, software, applications, and
+people. All are crucial.
+Finally, let me again commend this Committee for its
+continued commitment to high-performance computing. It has been
+my privilege to testify here many times. I appreciate the
+support of the Committee. And like my colleagues, I would be
+delighted to answer questions at the appropriate time.
+[The prepared statement of Dr. Reed follows:]
+[GRAPHIC] [TIFF OMITTED] 81195.046
+
+[GRAPHIC] [TIFF OMITTED] 81195.047
+
+[GRAPHIC] [TIFF OMITTED] 81195.048
+
+[GRAPHIC] [TIFF OMITTED] 81195.049
+
+[GRAPHIC] [TIFF OMITTED] 81195.050
+
+[GRAPHIC] [TIFF OMITTED] 81195.051
+
+[GRAPHIC] [TIFF OMITTED] 81195.052
+
+[GRAPHIC] [TIFF OMITTED] 81195.053
+
+[GRAPHIC] [TIFF OMITTED] 81195.054
+
+Mr. Weber. Thank you, Dr. Reed. And thank you all for your
+testimony. Man, lots of questions come to mind. And, you know,
+I guess I am an old-timer. I grew up back in the '60s and we
+didn't have computers, actually, we did. There was a flat
+table, you put a quarter in, and you chased a little Pac-Man
+around. Those were our computers.
+So I have a question here, and I think you kind of alluded
+to it, Dr. Reed, but I will ask this maybe starting with Dr.
+Giles. Is it Giles?
+Dr. Giles. Giles actually.
+Mr. Weber. Giles, there you go. Thank you.
+In December 2011 Congress directed DOE to provide a
+strategic roadmap relating to the development of an exascale
+computing system. However, it is my understanding that after 15
+months of the mandated completion date, the report is not yet
+finalized. Are you aware of this report?
+Dr. Giles. I am aware of it but my position is as an
+external representative of the community relative to ASCR so I
+am actually not an insider and I have not seen the report.
+Mr. Weber. Okay.
+Dr. Giles. My understanding is exactly what you said.
+Mr. Weber. Okay.
+Dr. Giles. But I don't have anything unfortunately to add
+to that.
+Mr. Weber. Nothing that you want to admit here publicly?
+Dr. Giles. No, actually nothing that I know. Anything I
+know, I will tell you.
+Mr. Weber. Of course, our goal is to get it. Dr. Stevens,
+how about you?
+Dr. Stevens. Well, I am aware of the report. I think it is
+a fine plan. I think that the internal process of getting that
+report out is what has blocked it, and I hope it reaches you
+quickly.
+Mr. Weber. Okay. Any help you can give us in that endeavor?
+Dr. Stevens. I don't have any specific recommendation
+except to just reemphasize that this is a critical plan that
+must be delivered and must be understood and articulated and
+executed.
+Mr. Weber. Okay. Thank you. And Ms. Crawford, I don't mean
+to put you on the hot seat, but you are on the hot seat.
+Ms. Crawford. I have nothing to add to what Dr. Stevens
+said. We are--we work at the laboratories and we are not part
+of the formal process between the DOE and the OMB to get that
+report out. I do support what is written in the report. The
+labs had a lot of input. I have not seen the final report.
+Mr. Weber. And Dr. Reed, since you came to us with four
+points followed by recommendations, and I love that by the way.
+One of the things you said in your recommendation was the
+Department of Energy needs partners and long-term industry
+engagement. How do we expedite this? How do we make this
+happen?
+Dr. Reed. Well, I think there are several points relevant.
+One is to recognize that, as I said, it is a false dichotomy to
+pit investment and some of these big data issues against high-
+performance computing, and I think frankly that is the root of
+some of the issues that we have to resolve in terms of moving
+forward.
+In terms of the agencies, I believe, as I pointed out in my
+written testimony, that they each fulfill and historically have
+fulfilled important and complementary roles. The Department of
+Energy has been crucial in terms of advanced prototyping and
+deploying of the largest scale systems. The other agencies,
+though, provide support for enabling technology research. The
+National Science Foundation is one of the key enablers of that
+long-term research.
+What is important is that all those players be at the table
+and be engaged in supporting this integrated agenda. I think
+from the industry's perspective to sort of answer your specific
+question, that is where industry--and I speak now again from my
+industry experience--it is important that the government be a
+committed and not fickle partner because the cost of money and
+the time planning for companies to execute is really crucial.
+And as I was saying, that combination is key to the future of
+the U.S. industry not just for high-performance computing but
+for how much information technology means to the U.S. economy.
+Mr. Weber. All right. Thank you. And Ms. Crawford, let me
+come back to you. I think you said that this exascale computing
+either can't or won't be achieved through refinement. What did
+you mean by that?
+Ms. Crawford. What I mean by that is the current system
+architectures today can't simply be scaled up to produce a
+usable and cost-effective system. In principle, one could scale
+it up and you would have a system that would fill the room and
+would take 100 megawatts of power, so that is not a cost-
+effective system. So the technologies have to change and we
+have to change in memory, in processors, in storage and
+networking and the programming models. And so that is what I
+mean by we can't simply scale-up the programs of today.
+Mr. Weber. Let me send that over to Dr. Stevens. And you
+mentioned about more or less power, I guess explain, you said
+less power.
+Dr. Stevens. Right. We need to develop processors and
+memory and network components that consume considerably less
+power than current systems in order to scale-up. Right now, if
+we took a current kind of 10 petaflop system and scaled it up
+to an exascale, it would consume nearly a gigawatt of power,
+which is not feasible from a physical infrastructure standpoint
+or a----
+Mr. Weber. Right.
+Dr. Stevens. --cost standpoint. So we need much more power-
+efficient devices. We also need better programming models
+because we are going to have to have a lot more parallelism
+inside these machines, 1 million--or 1,000 times more
+parallelism than we have now and we need ways of accessing that
+parallelism easily for programmers. So we have a lot of work to
+do. We know what to do. The DOE's plan includes all of these
+activities so it is--I think the United States has a good
+position to do this; we just need the resources and the long-
+term commitment.
+Mr. Weber. All right. Thank you. And I just want to make an
+observation before I yield to the Ranking Member and that is
+that I am glad to hear you say that national security is
+involved in this and tied up in this. That is very crucially
+important. And I think it will carry a lot of weight with
+Congress. Hopefully, it will. So I thank you for your
+testimony. And with that, I yield to Mr. Swalwell.
+Mr. Swalwell. Thank you, Mr. Chair. And my questions will
+principally be for Ms. Crawford.
+First, does research in high-performance computing require
+the United States Government to make investments? And what I
+mean is why can't we simply rely on the private sector to
+innovate and invent the next supercomputing architecture and
+software and then the government can just buy off-the-shelf
+technology?
+Ms. Crawford. The short answer is, yes, the U.S. Government
+does need to invest in order to shape the exascale
+architectures for our mission needs. I can use an old example.
+When we started the Accelerated Strategic Computing Initiative
+in the mid-1990s for the Stockpile Stewardship Program,
+industry and the consumer base was driving computing in a
+direction that would not meet our needs. And without our
+investment and our sustained investment and focused on
+cooperation and developing those processors that would meet our
+needs, we wouldn't have had the computers and the computing
+capability that we have today. And so today, it is essential
+that we work together with the Office of Science laboratories
+and the NNSA laboratories to meet this mission needs.
+A shorter answer perhaps is that we are going to follow
+industry technologies. We can't afford our own, you know,
+brand-new fab or our brand-new machines. What we want to do is
+pay on the margins to make those machines viable for our
+particular applications, which is mimicking the, you know,
+physical phenomena around us.
+Mr. Swalwell. And when we look at our global competitors--
+Japan, China, India, Brazil, Russia--are they allowing or
+relying solely upon the private market or are they also having
+government investment at the table as well?
+Ms. Crawford. There is strong government investment in
+Japan, China, Russia, the European Union. It is about $1.1
+billion of investment in Japan. I would have to do the
+translation but the Ministry of Science and Technology five-
+year plan within China is investing and again not just in the
+hardware technologies but they are investing in the low-level
+software and the applications and making sure that they have
+the ecosystem in order to be able to deploy these systems
+effectively to make a difference to their underlying national
+security and economic competitiveness. So----
+Mr. Swalwell. So it sounds like----
+Ms. Crawford. --they are going to be large investments.
+Mr. Swalwell. It sounds like for the United States to keep
+its edge in high-performance computing, we will need to
+continue to have the Federal Government make investments in
+these programs, is that right?
+Ms. Crawford. Absolutely.
+Mr. Swalwell. You talked a little bit about the joint
+partnership that must take place between NNSA and the Office of
+Science. Why is exascale capability so critical to DOE's
+National Nuclear Security Administration?
+Ms. Crawford. So then I will take a more focused view on
+just what is going on within the NNSA laboratories. It is our
+duty to assess the state of the stockpile on an annual basis,
+and the stockpile is being decreased in the numbers of weapons
+and the types of weapons. That makes each single weapon
+remaining in the stockpile critically important to understand
+what is going on----
+Mr. Swalwell. Going toward a more leaner and meaner model,
+right?
+Ms. Crawford. Leaner and meaner, and so those systems, as
+they age, they are being modernized as parts begin to fail, and
+so there are a number of things that we need to understand, you
+know, physically. You know, nuclear weapons are very complex.
+Think about parking your car in the garage and not turning it
+on but then wanting to be able to use it when you have to. You
+know, there are special materials that are changing over time
+and all kinds of things that go on just sitting there.
+We need high fidelity 3-D simulations to understand, you
+know, the initial conditions, the engineering features, safety
+features, the security features, and today, we cannot simulate
+at that high fidelity. So we have a number of--what we do is
+look at the kinds of calculations we are going to do and the
+kinds of computing that is required to do those calculations
+and so--for stockpile assessment, for the life extension
+programs for materials aging, for safety and surety, we have a
+range of exascale needs for the kinds of calculations that will
+have to go on in high fidelity, high-resolution 3-D, and they
+range from half-an-exascale to 1,000 exascales over the period
+of the next 10 years.
+Mr. Swalwell. And Ms. Crawford----
+Ms. Crawford. Starting in about 2018.
+Mr. Swalwell. Can you tell me more about Livermore's work
+to address industrial and medical research needs, for example,
+your groundbreaking simulation of the human heart and your
+recent work with the California Energy Commission to improve
+energy management throughout the State and how exascale and HPC
+have affected our ability to do this?
+Ms. Crawford. I would be glad to. Having developed these
+capabilities for our mission drivers, then they are applicable,
+as Dr. Reed has said, to many other activities. Last year, we
+worked with IBM to develop a code called cardioid and it does--
+it models the electrical signals of the heart and it has the
+potential to be used to test drugs or medical devices, the code
+ran in nearly real-time across our 20 petaflop machine at
+Livermore beating an astonishing 60 beats per minute, so this
+is almost, you know, 12 percent of real-time. This calculation
+ran at 59 percent of peak of this machine, and that is--you
+know, it is very incredible and amazing thing to take a new
+code and put it on a new machine and run at this scale. It runs
+in a time to solution over 1,200 times faster than the previous
+state-of-the-art and this work shows promise for what advanced
+computing can do for understanding the human body. But it also
+demonstrated the extreme level of specificity and technical
+acuity required to achieve this result. And of course, these
+insights that we gain there will then be applied back to the
+stockpile.
+Mr. Swalwell. Great. Well, thank you so much, Ms. Crawford.
+And thank you again to our other witnesses. Thank you, Mr.
+Chair.
+Mr. Hultgren. [Presiding] Thank you. And I will recognize
+myself for five minutes for a few questions.
+Part of our challenge as a Subcommittee is certainly to
+understand the right thing to do but also to present it to the
+larger Committee and even beyond that to Members of Congress,
+so a couple of questions. Just if you have been messaging or
+how to present how important this is and why this is so
+important so I would address this first question to Dr. Stevens
+and Ms. Crawford. Wonder if you could just discuss the expected
+breadth of applications for the exascale computing. Is this
+something that could be used for a wide range of important
+disciplines from material to chemistry to medicine to nuclear
+science similar to the current supercomputers or is the
+expected range of disciplines more narrow such as climate
+science modeling or for weapons development?
+Dr. Stevens. So the range of applications for exascale are
+no less broad than the current machines. In fact, there are
+many problems that haven't been tried in the past, particularly
+in biomedical science where we were just afraid to try them. We
+didn't have enough compute power. This idea of trying to build,
+say, detailed models in the human body, not just the heart but
+now include the lungs, include the nervous system, include the
+gastrointestinal system and build a virtual human, that is a
+problem that will require 1,000 times current machines. It is
+not really feasible so people haven't tried it. So my sense is
+that we will find more and more applications as we build more
+capable systems.
+We are also going to increase the ability for these systems
+to deal with data, and so a new class of applications that is
+emerging in both national security and in engineering research
+is this idea of doing modeling simulation with uncertainty
+quantification, this idea that not only will you get a result,
+you will get some confidence measure on that result. And that
+is something that requires hundreds of times more compute power
+than the current capability which means you can only do one
+simulation.
+Ms. Crawford. I second everything that Dr. Stevens said.
+And it is limitless. Computing is so foundational. Anything
+that--any physical process that you can represent
+mathematically, which are most of them, you can then model in
+the computer with great fidelity. And the greater the fidelity
+we have, the better we can understand the world around us. And
+so I can just go on and on and on but, you know, we work at our
+laboratory in a number of areas with industry, with other
+national laboratories, with academia to make sure that we are
+applying these to the breadth of possibilities.
+Mr. Hultgren. Well, Ms. Crawford, if I can get into just a
+little bit more specific and really following up on the Ranking
+Member's discussion and also on the Vice Chairman's of what
+does speak to Members of Congress and inspire us to make a
+commitment, especially a financial commitment at a time like
+this, and certainly, one of those is national security.
+So I wondered if you could just talk briefly. Is exascale
+computing considered critical to advancing national security,
+and if so, has the National Nuclear Security Administration
+gone on record to say that? If so, how is the NNSA prepared to
+financially contribute to this effort and what would be an
+appropriate percentage contribution to an exascale computer
+from NNSA, would you say?
+Ms. Crawford. There is a lot of questions there so----
+Mr. Hultgren. Yes.
+Ms. Crawford. --let's see if I can remember them.
+Mr. Hultgren. The first thing is have they gone on record
+of saying that this is a key component? And then basically then
+what kind of commitment should we expect from them?
+Ms. Crawford. Computing is the integrating element of
+maintaining the safety, security, and reliability of the
+nuclear weapons stockpile without returning to underground
+tests. So by integrating element, what I mean is we have the
+old test data, we have aboveground small experiments that we
+are doing, and we have a lot of theory and we have our new
+models. And we are bringing this all together in the computer.
+So this is an integrating element and this is the only way that
+we know to understand what is going on in the nuclear weapon.
+And so for that reason, we believe that it is extremely
+important.
+The NNSA is making an investment in the Advanced Scientific
+Computing Program. To maintain leadership, you need to have a
+base program. You need to have, you know, sort of a near-term
+program and you need to have a far-reaching program. Currently,
+the Office of Science and the NNSA both have a very strong base
+program. We have heard about the wonderful facilities at the
+laboratories, and of course it is not just the computer
+hardware itself but it is the applications that help us
+understand the world around us.
+We are investing with the Office of Science in some near-
+term research with industrial partners to look at some of those
+long lead time technology changes that need to be made. We need
+to make additional investments that are not in our current
+budgets in the programming environments for the exascale
+computing and in the math libraries so that we can actually use
+this billion-way parallelism.
+Mr. Hultgren. Okay. I see my time is expired. At this
+point, I hope that we will have an opportunity to have a second
+round of questioning as well.
+Mr. Swalwell. I don't have any objection.
+Mr. Hultgren. We can talk about that. Well, let's go ahead
+and we will recognize Mr. Veasey from Texas. Okay. Then Mr.
+Lipinski from Illinois is recognized for five minutes.
+Mr. Lipinski. Thank you, Mr. Chairman.
+I wanted to ask everyone on the panel a question about
+international partnerships. You know, obviously this cuts both
+ways. You can reduce the cost of reaching exascale capabilities
+with international partnerships but then there is the issue of,
+you know, damaging our Nation's economic competitiveness,
+potentially our national security, because we are not doing
+this on our own. Now, where do you come down on this? Is it
+worthwhile and how far should we go in international
+partnerships and at what point is it still an advantage? At
+what point does it become a disadvantage for us economically,
+giving up our lead on high-end computing? So whoever wants to
+start with that one. Dr. Stevens?
+Dr. Stevens. I will start. So I think the primary
+opportunity in international collaboration is in software, and
+in particular, the components of software that are open source
+that right now most of the software that runs on these machines
+other than the applications is built on--based on open source
+technologies developed largely in the United States. That is a
+significant lift to move all of that software to next-
+generation platforms, and international collaboration can help
+there provided that the software is--stays in the open.
+I think where we don't want to go at least in the near term
+is in deep hardware partnerships internationally. I think that
+is a place where we want to maintain our competitive edge. We
+have significant advantages with the U.S. vendor community and
+we want to maintain that as long as we can.
+Mr. Lipinski. Thank you. Anyone else? Ms. Crawford?
+Ms. Crawford. Yes. I would like to add that it is very
+important that the United States maintain the key intellectual
+property for the next supercomputer levels. If we control that,
+we have the high ground for the standards space base that will
+make all the decisions in the coming decade, and I would not
+want to cede that to another country. I cannot trust the U.S.
+nuclear weapons technology to a system built in China, say.
+That is untenable. I would like to not consider that those low-
+power technologies are developed ahead of time in other
+countries that we will use embedded in our intelligence
+systems. To me, it is very important that the United States
+take a very strong leadership position in this technology
+arena.
+Mr. Lipinski. Thank you. Dr. Reed?
+Dr. Reed. Yes, if I might add to that. It is part of the
+reason in my testimony I spoke very specifically to the
+importance of U.S. industry engagement. And as we move into
+this increasingly mobile device, low-power world, which is one
+of the key enabling technologies for future exascale systems,
+it is really crucial that the U.S. vendors maintain the
+competitive edge and strike a balance, as we do in terms of
+investment, between the global market and maintaining the
+unique capabilities for U.S. national security.
+Now, that is part of the role of the Federal Government in
+terms of, as Ms. Crawford said in her testimony, about shaping
+the direction of industry to ensure that we have the technology
+capability that we need.
+And I would echo that there are other uses as well. As we
+have talked about the rise of data analytics and its importance
+for national security and signal intelligence and other
+domains, that is another area where we must think carefully
+about many of the enabling technologies of which hardware is
+one, but the algorithms and other pieces need careful scrutiny
+also.
+Mr. Lipinski. Thank you.
+Dr. Giles. Yes, I would agree with what has been said. Just
+two points: I think it would be truly shameful for us to give
+up the elements of leadership that we have. And one of the
+things we pointed out and we asked in our exascale report was
+the criticality of time and of seizing the opportunity that in
+some way is presented uniquely to us to advance this field. But
+many, many countries will want to do that and we have a little
+bit of a time advantage because of our starting place.
+The other point, which is--it goes sort of in the direction
+of the open source software is the observation that a lot of
+the open science that is done in the world is done with
+international collaboration and with international connections.
+And we would, I think, like to still be in the position of
+having a lot of influence on the under-layer of that on which
+we will all build. But there certainly is international
+collaboration in science and I wouldn't want to minimize that--
+the importance of that for the open science community.
+Mr. Lipinski. Thank you very much. And I want to ask a
+question if the Chairman would give me just a few extra seconds
+here. I just want to also echo what I know some of my
+colleagues have stated. I know exascale computing is important
+but we have to make sure that we don't pursue that at the
+expense of other important R&D activities that ASCR is doing.
+And I yield back.
+Mr. Hultgren. The gentleman yields back. We will go through
+a second round of questioning if anyone would have other
+questions, so I will begin by recognizing myself for five
+minutes.
+And I would address this first to Dr. Stevens but also ask
+if any of you would have other thoughts on this and really
+following up on Mr. Lipinski's questions of timing and
+competitiveness. And I wondered, Dr. Stevens, if you would have
+some thought of what level of investment is needed for the
+United States to maintain global leadership in scientific and
+technical computing for the next decade? And then something
+specific of if we maintain current investment, at what point
+would China surpass us in computing capabilities? And then also
+just looking at dates, what type of approach and how much
+investment would be necessary for us to lead to a deployable
+system by 2020?
+Dr. Stevens. Okay. So on the first one in terms of the
+resources required to do this, in the plans developed by the
+laboratories, we estimated that in addition to the current
+funding levels that we have, we would need an increment over
+time of approximately $400 million a year. That would be split
+between the two partners, the Office of Science and the NNSA.
+At that funding level, we think it is feasible--not guaranteed
+but feasible--to deploy a system by 2020. Of course, we made
+those estimates a few years ago when we had more runway than we
+have now. And that investment would go to both hardware and
+software and some applications of them--more applications would
+be needed by that time.
+At the current funding level, not including the bill----
+Mr. Hultgren. Right.
+Dr. Stevens. --that is in front of us, it is estimated that
+we would not reach an exascale capability until middle of the
+next decade. We don't have accurate estimates of precisely what
+China will do but my guess is they will probably exceed us by
+the end of the decade if we were in that scenario. I don't
+remember your----
+Mr. Hultgren. I think that covered it. So really it is, you
+know, without the investment, it is going to be probably 2025
+before we would reach that level?
+Dr. Stevens. Absolutely.
+Mr. Hultgren. Do you think with the investment, is it a
+possible----
+Dr. Stevens. We have----
+Mr. Hultgren. --expectation to reach exascale levels by
+2020?
+Dr. Stevens. I think it is possible. I think we would have
+to get moving faster than we are now and of course the industry
+is ready to do this. Labs are ready to do it; academia is ready
+to do it. We just need the resources and the commitment and
+also to do it in a way that doesn't cannibalize the current
+program. We need the base--we have to build on the base both in
+the Office of Science and in NNSA, and so this is really,
+really looking at incremental resources unfortunately to do it.
+Mr. Hultgren. Okay. Thank you. Do any of the others have
+any thoughts or disagreement?
+Ms. Crawford. I would just add that understanding what the
+sustained commitment is, whatever that dollar level turns out
+to be, is critical because then we can plan into the future.
+And not knowing whether, you know, the base budget is cut and
+the exascale R&D budget is cut and we have got a commitment to
+do this and then we are--now, we must do that because we have a
+contract and yet that prevents us from doing something else. So
+not knowing is really difficult to plan ahead and manage it
+effectively. So understanding that and sustaining that is very
+important.
+Mr. Hultgren. I absolutely agree and it is one of the
+things I am passionate about. I know other Members of our
+Subcommittee and Committee are as well of bringing some
+certainty specifically to research and to science. When we are
+looking to advance these programs it is so important that we
+are not budgeting month-to-month, which this place, Washington
+D.C., has kind of fallen into the habit of doing, but it has
+incredible detrimental impact, I know, on the great work that
+you all are doing.
+So I for one and I know my colleagues on both sides of the
+aisle would love to see some of that change. We are going to be
+fighting for that.
+Let me switch gears just a little bit and address this to
+Dr. Giles if I could and also to Dr. Stevens. But with respect
+to achieving an extraordinary number of computations per
+second, exascale appears to be a somewhat arbitrary goal. With
+current budgetary constraints, could DOE consider slower
+systems that would still be by far the fastest in the world or
+how do you see that fitting into this challenge of kind of
+keeping up with the rest of the world if DOE were to say, well,
+you know, we want to do some advancement but we are not going
+to go for that larger goal. We will just kind of settle for a
+lesser goal. How do you see that impacting the work that you
+are doing and the work that other nations are doing?
+Dr. Giles. Okay. Well, I think the key research to lower
+power consumption, to identify the pathway that takes us to
+exascale is one that is defined by that goal but which is a
+sort of--has a certain integrity of its own. Okay. If you do
+that--if one does that and makes that commitment to do their
+research and to do that beginning development, then how far you
+take it is part of the deployment question of how big a machine
+you build with the technology that you have done the research
+for. It--so--at least that is my take on it. I am not the
+technologist that Rick is and you may have a comment on that.
+Dr. Stevens. Well, what I can say is that the laboratories
+are excellent stewards of the Nation's money----
+Dr. Giles. Yes.
+Dr. Stevens. --and we will buy the most capable systems
+that we can afford to buy when we have to replace and when we
+can replace the current systems. So I think that the question
+of, you know, can we settle is really a question of do we want
+to settle for not being able to do all the science or the most
+impactful engineering or address the most important national
+security challenges? We will do the best we can with what is
+provided to us. There is no question. I think lowering our
+sights though is not in our DNA.
+Mr. Hultgren. Right.
+Dr. Stevens. Right.
+Mr. Hultgren. No, that is helpful. Thank you. My time is
+expired. I will recognize the Ranking Member, Mr. Swalwell.
+Mr. Swalwell. Thank you, Mr. Chair. And I appreciate your
+comments about providing more certainty to our national
+laboratories. And we know that it is not just the laboratories
+who need the certainty but also private industry or any
+contractors who depend on work from the laboratories.
+One of the first lessons I learned when I was a planning
+commissioner years ago on a local sign ordinance issue from a
+local small business owner was vote for me, vote against me,
+but just give me certainty and, you know, do not have, you
+know, month-to-month sign regulations that give us no certainty
+at all, which now I have learned here, as the Chair said,
+month-to-month budgets also don't serve our laboratories well
+or private industry well. And so I join you in hoping that we
+can find ways to provide more certainty.
+I was hoping to just go witness by witness briefly and if
+you could just tell me for my own edification, and I am sure
+many others are curious, what are the private/public
+partnerships that you have at your laboratories through the
+exascale program?
+Dr. Giles. Well, let's see. I don't run a laboratory.
+Mr. Swalwell. Sure.
+Dr. Giles. But I would note things like you do run a lab
+that does the INCITE program in ASCR that invites researchers
+from outside DOE and from industry and with the particular
+emphasis on some industries to use the most advanced facilities
+that we have, so I think that would be one that I would
+identify coming out of ASCR.
+Mr. Swalwell. Great. And Dr. Stevens?
+Dr. Stevens. Well, just a few that we have done in the
+recent past. We have got a collaboration with Pratt & Whitney
+developing more efficient turbine engines, with Procter &
+Gamble on a variety of improving consumer products, with
+Cummins in improving diesel engines, and Caterpillar improving
+their ability to model whole vehicles and including the
+transmission systems and so forth, with the Mayo Clinic in
+applying computations and larger-scale problems in
+metagenomics, and so on. There is a long list. Some of these
+are collaborations with end-user companies and some are
+collaborations with companies like IBM or with Intel and with
+Cray in developing next-generation technologies, and we also
+work with small businesses.
+So the laboratories have collaborations on both the end-
+user component of this technology and the company is developing
+the technology itself.
+Mr. Swalwell. And when I hear some of those companies, IBM,
+Intel, Cummins, Caterpillar, I think of billions and billions
+and billions of dollars of exports. Those are some of the
+largest exporters in the United States, and if we are going to
+truly achieve our goal of doubling our exports over the next
+five years, making sure that those companies can continue to
+play a part in reducing that trade deficit--we have about $40
+billion every month--is crucial and it sounds like the
+laboratories are helping them to do that so they can sell their
+goods and services to the marketplace outside the United
+States.
+Dr. Stevens. Absolutely. And we are also working with
+companies like Dow and DuPont and Johnson Controls. And it is a
+long list, right? And I think we exactly get this idea of
+helping American industry be more competitive.
+Mr. Swalwell. Great. And Ms. Crawford?
+Ms. Crawford. So rather than going through the long list,
+let me talk about the barriers for industrial adaptation of
+advanced computing. There have been a number of studies and
+there are three main barriers. One is the cost of establishing
+a supercomputing facility, the computer itself, the computing
+room, et cetera. The second one is the expertise, you know,
+having the skilled workforce that understands how to use these
+computers in a meaningful way for their products. And then the
+third is the software itself that helps them understand their
+products and how to improve those products. So the kind of
+partnerships that Dr. Stevens is talking about and that we have
+in our laboratory are helping to demonstrate to industry how to
+overcome those barriers so that they can in fact utilize this.
+And once they have firsthand demonstration and know the value,
+then they will start making the investments themselves at a
+higher level to drive their own productivity and
+competitiveness.
+Mr. Swalwell. Great. And Dr. Reed, I mean also just like
+Dr. Giles I know you do not run a laboratory but any public/
+private partnerships you are familiar with that are working
+right now and also helping the innovation economy?
+Dr. Reed. Certainly. And I have been in similar roles in
+the past. As I mentioned, I used to run an NSF supercomputer
+center and we did very similar things in Illinois when I was
+there. Advanced manufacturing was certainly a target, logistics
+and supply chain optimization. But in Iowa now, there are many
+issues around advanced biological modeling and how we think
+about the future of healthcare in terms of everything from
+modeling the characteristics of lungs and what the implications
+are for drug delivery, how we might work with companies about
+those issues.
+I would echo what Ms. Crawford said, though. What is really
+crucial in those engagements and use of high-performance
+computing is simplicity of use because the domain experts are
+interested in advancing either the technology or the science or
+its applications and less interested in understanding what
+those of us in the technology business might view as the really
+cool stuff.
+Mr. Swalwell. Right.
+Dr. Reed. It is a means to an end and so those software
+user interface issues are really important.
+When I was at Microsoft, I spent a great deal of time
+working with the community in science on exactly those issues.
+How do we bring the power of advanced computing into small
+companies and into individual's hands where, from their
+perspective, the ease-of-use that they find familiar in their
+mobile device or their PC extends seamlessly and apparently
+magically to exploit those advanced capabilities?
+Mr. Swalwell. Great. Well, thank you. Thank you, Mr. Chair.
+This has been a great hearing. You know, I didn't pay enough
+attention to this stuff when I was in high school. I am
+learning a heck of a lot now in Congress and I could sit here
+for another few hours but I know our witnesses and our panel
+have other places to be. But thank you again.
+Mr. Hultgren. Thank you. Thank you. And I do want to thank
+each one of you for being here today on a very busy day on
+Capitol Hill. And with that, I just want to thank you for your
+valuable testimony and I want to thank the Members for the
+questions that they have had. The Members of the Committee may
+have additional questions, especially with competing hearings
+that were going on at the same time, so we will ask if you
+would be willing to respond in writing to questions that we
+would submit.
+And with that thought, we will keep the record open for two
+weeks for additional comments and written questions from
+Members and request for your response to those.
+With that, I again want to thank you so much for your time
+and for your wisdom and information today. With that, the
+witnesses are excused and this hearing is adjourned. Thank you.
+[Whereupon, at 11:20 a.m., the Subcommittee was adjourned.]
+Appendix I
+
+----------
+
+Answers to Post-Hearing Questions
+
+Answers to Post-Hearing Questions
+Responses by Dr. Roscoe Giles
+[GRAPHIC] [TIFF OMITTED] 81195.055
+
+[GRAPHIC] [TIFF OMITTED] 81195.056
+
+[GRAPHIC] [TIFF OMITTED] 81195.057
+
+[GRAPHIC] [TIFF OMITTED] 81195.058
+
+[GRAPHIC] [TIFF OMITTED] 81195.059
+
+[GRAPHIC] [TIFF OMITTED] 81195.060
+
+[GRAPHIC] [TIFF OMITTED] 81195.061
+
+Responses by Dr. Rick Stevens
+[GRAPHIC] [TIFF OMITTED] 81195.062
+
+[GRAPHIC] [TIFF OMITTED] 81195.063
+
+[GRAPHIC] [TIFF OMITTED] 81195.064
+
+[GRAPHIC] [TIFF OMITTED] 81195.065
+
+Responses by Ms. Dona Crawford
+[GRAPHIC] [TIFF OMITTED] 81195.066
+
+[GRAPHIC] [TIFF OMITTED] 81195.067
+
+[GRAPHIC] [TIFF OMITTED] 81195.068
+
+[GRAPHIC] [TIFF OMITTED] 81195.069
+
+[GRAPHIC] [TIFF OMITTED] 81195.070
+
+[GRAPHIC] [TIFF OMITTED] 81195.071
+
+[GRAPHIC] [TIFF OMITTED] 81195.072
+
+Responses by Dr. Daniel Reed
+[GRAPHIC] [TIFF OMITTED] 81195.073
+
+[GRAPHIC] [TIFF OMITTED] 81195.074
+
+[GRAPHIC] [TIFF OMITTED] 81195.075
+
+

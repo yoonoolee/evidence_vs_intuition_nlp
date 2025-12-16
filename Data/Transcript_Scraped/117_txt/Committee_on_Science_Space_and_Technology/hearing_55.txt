@@ -1,0 +1,2886 @@
+- SECURING THE DIGITAL COMMONS: OPEN-SOURCE SOFTWARE CYBERSECURITY
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+SECURING THE DIGITAL COMMONS:
+OPEN-SOURCE SOFTWARE CYBERSECURITY
+
+=======================================================================
+
+JOINT HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON INVESTIGATIONS
+AND OVERSIGHT
+SUBCOMMITTEE ON RESEARCH AND TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON SCIENCE, SPACE,
+AND TECHNOLOGY
+
+OF THE
+
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+MAY 11, 2022
+
+__________
+
+Serial No. 117-56
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC NOT AVAILALE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+47-494                    WASHINGTON : 2023
+
+-----------------------------------------------------------------------------------
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. EDDIE BERNICE JOHNSON, Texas, Chairwoman
+ZOE LOFGREN, California              FRANK LUCAS, Oklahoma,
+SUZANNE BONAMICI, Oregon                 Ranking Member
+AMI BERA, California                 MO BROOKS, Alabama
+HALEY STEVENS, Michigan,             BILL POSEY, Florida
+Vice Chair                       RANDY WEBER, Texas
+MIKIE SHERRILL, New Jersey           BRIAN BABIN, Texas
+JAMAAL BOWMAN, New York              ANTHONY GONZALEZ, Ohio
+MELANIE A. STANSBURY, New Mexico     MICHAEL WALTZ, Florida
+BRAD SHERMAN, California             JAMES R. BAIRD, Indiana
+ED PERLMUTTER, Colorado              DANIEL WEBSTER, Florida
+JERRY McNERNEY, California           MIKE GARCIA, California
+PAUL TONKO, New York                 STEPHANIE I. BICE, Oklahoma
+BILL FOSTER, Illinois                YOUNG KIM, California
+DONALD NORCROSS, New Jersey          RANDY FEENSTRA, Iowa
+DON BEYER, Virginia                  JAKE LaTURNER, Kansas
+CHARLIE CRIST, Florida               CARLOS A. GIMENEZ, Florida
+SEAN CASTEN, Illinois                JAY OBERNOLTE, California
+CONOR LAMB, Pennsylvania             PETER MEIJER, Michigan
+DEBORAH ROSS, North Carolina         JAKE ELLZEY, TEXAS
+GWEN MOORE, Wisconsin                MIKE CAREY, OHIO
+DAN KILDEE, Michigan
+SUSAN WILD, Pennsylvania
+LIZZIE FLETCHER, Texas
+------
+
+Subcommittee on Investigations and Oversight
+
+HON. BILL FOSTER, Illinois, Chairman
+ED PERLMUTTER, Colorado              JAY OBERNOLTE, California,
+AMI BERA, California                   Ranking Member
+GWEN MOORE, Wisconsin                STEPHANIE I. BICE, Oklahoma
+SEAN CASTEN, Illinois                MIKE CAREY, OHIO
+------
+
+Subcommittee on Research and Technology
+
+HON. HALEY STEVENS, Michigan, Chairwoman
+MELANIE A. STANSBURY, New Mexico     RANDY FEENSTRA, Iowa,
+PAUL TONKO, New York                     Ranking Member
+GWEN MOORE, Wisconsin                ANTHONY GONZALEZ, Ohio
+SUSAN WILD, Pennsylvania             JAMES R. BAIRD, Indiana
+BILL FOSTER, Illinois                JAKE LaTURNER, Kansas
+CONOR LAMB, Pennsylvania             PETER MEIJER, Michigan
+DEBORAH ROSS, North Carolina         JAKE ELLZEY, TEXAS
+
+C  O  N  T  E  N  T  S
+
+May 11, 2022
+
+Page
+
+Hearing Charter..................................................     2
+
+Opening Statements
+
+Statement by Representative Bill Foster, Chairman, Subcommittee
+on Investigations and Oversight, Committee on Science, Space,
+and Technology, U.S. House of Representatives..................    10
+Written Statement............................................    11
+
+Statement by Representative Jay Obernolte, Ranking Member,
+Subcommittee on Investigations and Oversight, Committee on
+Science, Space, and Technology, U.S. House of Representatives..    12
+Written Statement............................................    13
+
+Statement by Representative Haley Stevens, Chairwoman,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    14
+Written Statement............................................    16
+
+Statement by Representative Randy Feenstra, Ranking Member,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    17
+Written Statement............................................    18
+
+Written statement by Representative Eddie Bernice Johnson,
+Chairwoman, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................    19
+
+Witnesses:
+
+Ms. Lauren Knausenberger, Chief Information Officer, Department
+of the Air Force
+Oral Statement...............................................    20
+Written Statement............................................    23
+Mr. Brian Behlendorf, General Manager, Open Source Security
+Foundation
+Oral Statement...............................................    30
+Written Statement............................................    32
+
+Ms. Amelie Erin Koran, Non-Resident Senior Fellow, The Atlantic
+Council
+Oral Statement...............................................    39
+Written Statement............................................    41
+
+Dr. Andrew Lohn, Senior Fellow, Center for Security and Emerging
+Technology, Georgetown University
+Oral Statement...............................................    50
+Written Statement............................................    52
+
+Discussion.......................................................    64
+
+Appendix: Additional Material for the Record
+
+Letter submitted by Representative Bill Foster, Chairman,
+Subcommittee on Investigations and Oversight, Committee on
+Science, Space, and Technology, U.S. House of Representatives
+Stormy Peters, Vice President, Communities, GitHub...........    92
+
+Letter submitted by Representative Deborah Ross, Subcommittee on
+Research and Technology, Committee on Science, Space, and
+Technology, U.S. House of Representatives
+Mark Bohannon, Vice President, Global Public Policy &
+Associate General Counsel, Red Hat, Inc....................    95
+
+SECURING THE DIGITAL COMMONS:
+OPEN-SOURCE SOFTWARE CYBERSECURITY
+
+----------
+
+WEDNESDAY, MAY 11, 2022
+
+House of Representatives,
+Subcommittee on Investigations and Oversight,
+Subcommittee on Research and Technology
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittees met, pursuant to notice, at 10 a.m., in
+room 2318 of the Rayburn House Office Building, Hon. Bill
+Foster [Chairman of the Subcommittee on Investigations and
+Oversight] presiding.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. This hearing will come to order. And
+without objection, the Chair is authorized to declare recess at
+any time.
+Before I deliver my opening remarks, I wanted to note that
+the Committee is meeting both in person and virtually. I want
+to announce a couple of reminders to the Members about the
+conduct of this hearing. First, Members and staff who are
+attending in person may choose to be masked, but it is not a
+requirement. However, any individuals with symptoms, a positive
+test, or exposure to someone with COVID-19 should wear a mask
+while present.
+Members who are attending virtually should keep their video
+feed on as long as they are present in the hearing. Members are
+responsible for their own microphones, and please also keep
+your microphones muted unless you are speaking. Finally, if
+Members have documents they wish to submit for the record,
+please email them to the Committee Clerk, whose email address
+has been circulated prior to the meeting.
+Well, good morning, and welcome to our Members and
+witnesses. Thank you for joining us for this important hearing
+on open-source software (OSS) security.
+Cybersecurity is certainly an evergreen issue, and today
+we're focusing on an important and often overlooked corner of
+the ecosystem. Open-source software is software that's freely
+available for anyone to use and modify. It's the hidden
+workhorse of the digital ecosystem, and it's a part of software
+ranging from standalone browsers to complex commercial
+operating systems.
+It's also common in scientific research. For example, Fermi
+National Accelerator Lab, where I worked for many years as a
+physicist, recently announced the development of open-source
+software to support the control electronics of quantum
+computers. Even if you're not working with a quantum computer
+this afternoon, it's safe to say that anyone who has used a
+computer has relied on open-source software, whether they know
+it or not.
+And yet--and despite its importance, open-source software
+only seems to draw attention when something goes wrong. In 2014
+the Heartbleed vulnerability in OpenSSL prompted a surge of
+concern and some action to save open-source software as--you
+know, on the parts of industry and government alike. Good work
+was done in response to that vulnerability, but interest soon
+waned, as it often does in Congress and government, and in many
+ways we find ourselves in the same situation now that we were
+in back then.
+This past winter, the open-source community was once more
+rocked by a dangerous vulnerability. The Log4j project and its
+vulnerability, sometimes referred to as Log4Shell, reminded
+everyone about the dangers of neglecting open-source software.
+The sheer breadth of organizations affected by that
+vulnerability in a single piece of software drove home just how
+much everyone relies on open source.
+Open-source generally is an interesting example of the
+tragedy of the commons. You have the free-rider problem. It's
+something where normally you would simply say this is a public
+good and make everyone bear the burden. But--and to--for some
+packages, which are really relied on universally, then that's
+probably a good model, but there are difficulties because not
+everyone benefits equally from special attention being paid to
+different packages and so on. So I look forward to trying to
+get a little deeper in the weeds on how we might decide how to
+prioritize and where to put our effort and who's to take
+responsibility for specific packages. It's a tough set of weeds
+to get into.
+This hearing is not meant to look back at the hows and whys
+of Log4j. Others, including other congressional committees,
+have already done a good job of that. Instead, this hearing
+will look forward. It will explore how industry and government
+can cooperate to make sure open source has resources
+commensurate with its importance. Those resources are not just
+financial, but also include technical capabilities, volunteer
+efforts, and administrative and organizational contributions.
+This hearing is also an opportunity to look at some of the
+dangers of open source that are looming on the horizon. Open-
+source software is not just in traditional computers. It's in
+our drones, our AI (artificial intelligence) models, and yes,
+even our quantum computers. We need to fully understand how
+open-source resources are used in developing technologies to
+properly assess the risks that those uses represent.
+It is important to remember that no software is ever
+completely secure. Just as, for instance, you know, Windows and
+iOS will certainly be hacked many times in the future, there
+will also be other open-source software vulnerabilities. Rather
+than seeking perfection, our goal is to structure how we think
+about open source and how we identify the most critical pieces
+of open-source software for prioritization, and how we secure
+that software against intrusion or blunders. If we do that, we
+will be able to mitigate both the risk of future
+vulnerabilities and the damage caused when vulnerabilities are
+exploited.
+In a world where our technology so often comes with hidden
+drawbacks or hidden motivations, open-source software is--often
+seems to be a charmingly utopian exception. At its best, it is
+simply goodhearted people creating software out of their own
+passions and sharing out of a desire for others to benefit from
+the fruits of that labor. It empowers people of all backgrounds
+and all levels of technical ability to build upon the work of
+others and find or make software more suited to their needs.
+There is something wonderful about that, and I hope that
+through our conversation with our witnesses here we can
+contribute to the future of safe and secure open-source
+software.
+[The prepared statement of Chairman Foster follows:]
+
+Good morning, and welcome to our members and witnesses.
+Thank you for joining us for this important hearing on open-
+source software security. Cybersecurity is certainly an
+evergreen issue, and today we're focusing on an important and
+often overlooked corner of the ecosystem.
+Open-source software is software that's freely available
+for anyone to use or modify. It's the hidden workhorse of the
+digital ecosystem, and it's a part of software ranging from
+standalone browsers to complex commercial operating systems.
+It's also common in scientific research. For instance,
+Fermilab--where I worked for many years as a physicist--
+recently announced the development of open-source software to
+support the control electronics of quantum computers. Even if
+you're not working with a quantum computer, it's safe to say
+that anyone who has used a computer has relied on open-source
+software, whether they knew it or not.
+And yet, despite its importance, open source only draws
+attention when something goes wrong. In 2014 the Heartbleed
+vulnerability in OpenSSL prompted a surge of concern and action
+to save open source on the part of industry and government
+alike. Good work was done in response to that vulnerability,
+but interest waned and, in many ways, we find ourselves in the
+same situation now that we were in back then.
+This past winter, the open source community was once more
+rocked by a dangerous vulnerability. The Log4j project and its
+vulnerability, called Log4Shell, reminded everyone of the
+dangers of neglecting open-source software. The sheer breadth
+of organizations affected by a vulnerability in a single piece
+of software drove home just how much everyone relies on open
+source.
+This hearing is not meant to look back at the hows and whys
+of Log4j--others, including other Congressional committees,
+have already done an admirable job of that. Instead, this
+hearing will look forward. We will explore how industry and
+government can cooperate to make sure open source has resources
+commensurate with its importance. Those resources are not just
+financial, but also include technical capabilities, volunteer
+efforts, and administrative and organizational contributions.
+This hearing is also an opportunity to look at some of the
+dangers of open source that are looming on the horizon. Open-
+source software is not just in traditional computers; it's in
+our drones, our AI models, and yes, even quantum computers. We
+need to fully understand how open-source resources are used in
+developing technologies to properly assess the risks that those
+uses represent.
+It is important to remember that no software is ever
+completely secure. Just as, for instance, Windows and iOS will
+certainly be hacked in the future, there will also be other
+open-source software vulnerabilities. Rather than seeking
+perfection, our goal is instead to structure how we think about
+open source, how we identify the most critical pieces of open-
+source software, and how we secure that software against
+intrusion.
+If we do that, we will be able to mitigate both the risk of
+future vulnerabilities and the damage caused when
+vulnerabilities are exploited.
+In a world where our technology so often comes with hidden
+drawbacks or motivations, open-source software is often a
+charmingly utopian exception. At its best, it is simply people
+creating software out of passion, and sharing out of a desire
+for others to benefit from the fruits of that labor. It
+empowers people of all backgrounds and levels of technical
+ability to build upon the work of others and find or make
+software suited to their needs.
+There is something wonderful about that. I hope that
+through our conversation with our witnesses here today we can
+contribute to the future of safe and secure open-source
+software.
+
+Chairman Foster. So I have a letter here from GitHub that--
+which I'd like to enter into the record. And without objection,
+it is so ordered.
+And the Chair will now recognize our Ranking Member and
+perhaps the other AI programmer in the U.S. Congress, Ranking
+Member Obernolte.
+Mr. Obernolte. Well, thank you very much, Chairman Foster.
+Thank you for--Chair Stevens, for convening this very important
+hearing on a topic that is very close to my heart and I think
+is of critical importance in ensuring the future of
+cybersecurity of software in the United States.
+We all know that open-source software has had a
+tremendously beneficial impact on software development here in
+the United States. The very nature of open-source software
+where we encourage collaboration and reuse of code, I think,
+enhances the efficiency of software development here, but it
+also comes with inherent risks. And I think as time goes by and
+different vulnerabilities are exposed, we're learning more and
+more about those risks. The fact that the code is out there for
+anyone to see means that malign actors can look at that code
+and identify vulnerabilities that they might not have seen if
+they just knew that a software was operating on the code and
+didn't have access to the code itself. So we've known about
+those vulnerabilities.
+What we're going to hear about in the hearing today is some
+other vulnerabilities that have come to light, in particular
+supply chain vulnerabilities where malign actors might
+intentionally introduce vulnerabilities in software in the
+hopes that it's incorporated downstream later when software
+applications based on those modules are built. That's something
+that's relatively new in our understanding of open-source
+software and cybersecurity and something that we certainly need
+to be on guard against.
+We're going to hear from the Air Force on their Project One
+Platform, which I think is--introduces some really innovative
+and useful technologies to cope with those vulnerabilities. And
+also I'm very interested today to hear from some of our experts
+about a new type of vulnerability that deals with the ubiquity
+of artificial intelligence now in open-source software.
+AI, particularly that based on machine learning, as we
+know, depends on massive data sets to train AI algorithms. And
+we're starting to be aware of vulnerabilities that could be
+caused by manipulation of those data sets. In fact, the
+statistics are pretty alarming that just changing a small
+amount of the instances in those data sets can cause very
+serious problems to occur in the implementation of that
+artificial intelligence. And a malign actor could introduce an
+intentional error in the data set that's intended to cause a
+specific problem.
+So these are all things that I'm really happy that we're
+going to be hearing about in this hearing. And I'm hoping
+that--as the Chairman also articulated, I'm hoping that we can
+identify some ways that government can be helpful in solving
+some of these problems. You know, there is some concern in the
+open-source community that the heavy hand of government could
+have a very deleterious effect on the adoption of open-source
+software. You know, the whole community that has led to open
+source is about collaboration and transparency. And the moment
+we take the heavy hand of government down in the form of
+regulation on that industry I think we run the very risk of
+causing problems.
+But I think we also have a role to play as government. We
+have vast resources at our disposal. We have amazing people
+that work in the various branches of our Federal Government and
+of our NGOs (non-governmental organizations), so we have a lot
+of talent and tools that we can bring to bear on this problem.
+So I'm hoping that hearings like this one will be instrumental
+in catalyzing a very effective and useful adoption of some of
+the tools the government has to bear on this problem of
+cybersecurity. And I think it is possible to have a Goldilocks
+solution where government is here to help and not to hurt.
+So with that, I'm looking very much forward to hearing from
+our witnesses, and I yield back.
+[The prepared statement of Mr. Obernolte follows:]
+
+Good morning. Thank you, Chairman Foster and Chairwoman
+Stevens, for convening this hearing. And thanks to our
+witnesses for appearing before us today.
+We are here today to discuss the benefits and risks of
+open-source software and to explore the ways that government
+and industry can work together to improve open- source
+cybersecurity. I look forward to learning more about the
+solutions we're trying to catalyze, and the collaborations that
+are already underway, to solve some of the cybersecurity
+challenges with open-source software. I'm hopeful that today's
+hearing will be a productive discussion that will help us learn
+from the past to improve open- source cybersecurity for the
+future.
+At the risk of oversimplification, open-source software is
+essentially code that can be used, modified, and distributed by
+anyone. This code can comprise an entire standalone program,
+like an open-source web browser or operating system. It can
+also comprise a small component or specific function built
+within a larger standalone program, including proprietary and
+commercial products. In short, open-source software touches
+almost every facet of our digital ecosystem.
+The ubiquity of open-source software is a function of the
+benefits and advantages it provides. Its open nature expands
+the breadth and depth of users that can contribute to, improve,
+and ultimately use the software. It is also flexible and can be
+tailored to the specific needs of the end-user without having
+to reinvent the wheel. Leveraging open- source software can
+save developers' resources, which can, in turn, be reinvested
+to foster novel and innovative open-source solutions.
+The open nature of open-source, however, is not without
+inherent risk. Its open and collaborative, community-driven
+nature means that open-source code can be freely edited or
+changed. The quality and security of changes or contributions
+are often dependent upon the governance, structure, and
+policies of the relevant open-source project or community,
+which can make it difficult to adequately assess the quality
+and security of various open-source software.
+Understanding when open-source has been modified, what
+changes have been made, and a method for verification or
+certification that such changes are sound would go a long way
+toward improving the overall security of open-source software.
+I'm particularly excited to learn more about Platform One and
+the work the Air Force is doing in this space.
+The ubiquity of open-source also represents a risk. Since
+open-source software touches every facet of our digital
+ecosystem, a security vulnerability in open-source code could
+have a ripple effect throughout the digital economy if
+exploited. An example of this is the recent Log4Shell
+vulnerability in an open-source library. Despite being
+discovered more than six months ago, efforts are still underway
+to patch vulnerable systems. One of the pervasive issues that
+has hindered quick remediation is that it has been difficult to
+determine where the vulnerable open-source library has been
+used. It is so embedded in the digital ecosystem that cyber
+professionals are still uncovering instances of its use.
+While a software bill of materials or SBOM-effectively an
+ingredients list for software- may not have prevented the
+vulnerability from being written into the open-source code in
+the first instance, it certainly would go a long way in helping
+to remediate and patch the issue on the back end. I look
+forward to hearing more from our experts today on how to employ
+SBOMs to improve open-source cybersecurity.
+Finally, I think that the cybersecurity of open-source
+software could be improved if we can figure out a method for
+classifying or categorizing open-source instances that range
+from the critical to the non-critical.
+This would help open-source communities and their
+contributors to prioritize the most important open-source
+products for heightened scrutiny. I look forward to hearing
+more about some of the efforts that the Linus Foundation and
+OpenSSF have stood up to do just this.
+In closing, I think it is important to articulate plainly
+that open-source security is cybersecurity. Our information and
+communications infrastructure is only as strong as its weakest
+link. I'm hopeful that we can have a productive discussion
+today to put us on the path toward shoring up our digital
+infrastructure by improving the security of open- source
+software for the future.
+Thank you, Chairman Foster, for convening this hearing. And
+thanks again to our witnesses for appearing before us today. I
+look forward to our discussion.I yield back the balance of my
+time.
+
+Chairman Foster. Thank you. And the Chair will now
+recognize Ms. Stevens for an opening statement.
+Ms. Stevens. Well, good morning and welcome to this joint
+hearing of the Subcommittee on Research and Technology and the
+Subcommittee on Investigations and Oversight on securing the
+digital commons, improving the health of the open-source
+software ecosystem. What a delightful and exciting topic. I'd
+like to certainly thank my esteemed colleagues, Chairman and
+Dr. Foster and Ranking Member Obernolte, for leading this
+timely and needed hearing.
+A supply chain, as they say, is only as strong as its
+weakest link, and the times when the weakest link happens to be
+cybersecurity, we see devastating ripple effects and wide-
+ranging aftershocks. We can no longer operate off of
+yesterday's mindset and only view supply chain cybersecurity as
+an IT (information technology) problem. In order to strengthen
+America's collective cybersecurity, we must examine all the
+vulnerable links in the supply chain.
+I am deeply proud to be here today to encourage Congress to
+explore various avenues that government can engage the open-
+source community to identify and remedy vulnerabilities, the
+open-source community of which I have hailed from in my
+previous professional career.
+One year ago, President Biden released an Executive order
+called ``Improving the Nation's Cybersecurity.'' This Executive
+order tasked the National Institute of Standards and Technology
+(NIST), a fan favorite of this Committee, to create essential
+standards for critical software, software supply chain risk
+management, among other tasks. In the coming days, NIST is
+expected to publish its final piece of guidance required by the
+Executive order, but the agency's work to secure the Nation's
+software is obviously far from finished. One aspect of supply
+chain security we need to take is an in-depth look at open-
+source vulnerability landscapes. Many leading companies and
+organizations don't recognize how many aspects of their
+critical infrastructure depend on open source.
+Open-source software code is available to the public for
+anyone to use, modify, or inspect. Many elements of NIST's
+software guidance can be applied to open-source software such
+as secure software development frameworks. However, they do not
+address many of the unique challenges inherent in the open-
+source software ecosystem from inadequate resourcing to
+vulnerability detection and mitigation. So the point is we
+don't want to hinder innovation. We just went to do it right,
+and we don't want to make ourselves vulnerable in the process
+of innovating. A vibrant open-source ecosystem is an engine to
+U.S. competitiveness and growth.
+The ecosystem benefits Americans every day, including in my
+home State of Michigan. During the pandemic, open-source
+applications tracked open hospital beds and helped Michiganders
+access food for their families when schools were closed. It's
+the first call I made, open-source platforms responding to the
+urgency and needs brought on by the COVID-19 pandemic.
+But certainly there remains real risk if we leave critical
+open-source software vulnerable to attack. As both the
+Heartbleed and Log4j incidents have revealed, open-source
+software issues can be a threat to our Federal agencies and
+businesses across the country. There's good work underway but
+still much more the U.S. scientific enterprise can do to secure
+open-source software repositories.
+Last year, I introduced the NIST for the Future Act, which
+is part of the America COMPETES Act, and we will hopefully send
+that to the President's desk soon. This bill would require NIST
+to expand its current efforts by assigning severity metrics to
+vulnerabilities in open-source source software and producing
+voluntary guidance to help entities that maintain this software
+to secure it.
+The National Science Foundation plays an important role in
+funding many open-source software and data repositories. NSF
+has planned to award grants to help secure elements of the
+open-source ecosystem as part of its new program: Pathways to
+Enable Open-Source Ecosystems (POSE). Gosh, I wish more people
+could hear that because it's also called POSE. I am encouraged
+by these efforts, which will be further bolstered once we enact
+and fund the NSF for the Future Act, which is also in COMPETES.
+Securing open-source software is fundamentally a resource
+problem. I believe the Federal Government can play a role
+identifying vulnerabilities, providing resources where industry
+might not, and providing long-term structural security
+improvements throughout the open-source ecosystem. These
+efforts are most effective when done in coordination and
+collaboration with the private sector.
+I welcome the recommendations of this expert panel. I again
+thank my colleagues for convening us and certainly the
+recommendations on how to improve the coordination between the
+public and private sector, which are forthcoming. And again,
+thank you to our witnesses. I yield back, Mr. Chair.
+[The prepared statement of Ms. Stevens follows:]
+
+Good morning and welcome to this joint hearing of the
+Subcommittee on Research and Technology and the Subcommittee on
+Investigations and Oversight. I would like to thank my esteemed
+colleagues, Chairman Foster and Ranking Member Obernolte, for
+leading this timely and needed hearing.
+A supply chain is only as strong as its weakest link--and
+the times when the weakest link happens to be cybersecurity, we
+see devastating ripple-effects and wide-ranging aftershocks. We
+can no longer operate off yesterday's mindset and only view
+supply chain cybersecurity as an IT problem. In order to
+strengthen America's collective cybersecurity, we must examine
+all the vulnerable links in the chain. I am proud to be here
+today to encourage Congress to explore various avenues the
+government can engage the open-source community to identify and
+remedy vulnerabilities.
+One year ago, President Biden released an Executive Order
+called ``Improving the Nation's Cybersecurity.'' This executive
+order tasked the National Institute of Standards and Technology
+to create essential standards for critical software, software
+supply chain risk management, among other tasks. In the coming
+days, NIST is expected to publish its final piece of guidance
+required by the executive order, but the agency's work to
+secure the Nation's software is far from finished.
+One aspect of supply chain security we need to take an in-
+depth look at is the open-source vulnerability landscape. Many
+leading companies and organizations don't recognize how many
+aspects of their critical infrastructure depend on open source.
+Open-source software code is available to the public, for
+anyone to use, modify, or inspect. Many elements of NIST's
+software guidance can be applied to open-source software, such
+as the secure software development framework. However, they do
+not address many of the unique challenges inherent in the open-
+source software ecosystem, from inadequate resourcing to
+vulnerability detection and mitigation.
+A vibrant open-source ecosystem is an engine for U.S.
+competitiveness and growth. This ecosystem benefits Americans
+every day, including in my home state of Michigan. During the
+pandemic, open-source applications tracked open hospital beds
+and helped Michiganders access food for their families when
+schools were closed. But there is real risk if we leave
+critical open-source software vulnerable to attack. As both the
+Heartbleed and Log4J (pronounced log-4-J) incidents have
+revealed, open-source software issues can be a threat to our
+Federal agencies and businesses across the country.
+There is good work underway, but still much more the U.S.
+scientific enterprise can do to secure open-source software
+repositories. Last year, I introduced the NIST for the Future
+Act, which is part of the America COMPETES Act that we will
+hopefully send to the President's desk soon. This bill would
+require NIST to expand its current efforts by assigning
+severity metrics to vulnerabilities in open-source software and
+producing voluntary guidance to help entities that maintain
+this software to secure it.
+The National Science Foundation has played an important
+role in funding many open-source software and data
+repositories. NSF is planning to award grants to help secure
+elements of the open-source ecosystem as part of its new
+program ``Pathways to Enable Open-Source Ecosystems,'' or POSE.
+I am encouraged by these efforts, which will be further
+bolstered once we enact and fund the NSF for the Future Act
+that is also in COMPETES.
+Securing open-source software is fundamentally a resource
+problem. I believe the Federal government can play a role
+identifying vulnerabilities, providing resources where industry
+might not, and driving long-term structural security
+improvements throughout the open-source ecosystem. These
+efforts are most effective when done in coordination and
+collaboration with the private sector.
+I welcome the recommendations of this expert panel on how
+to improve the coordination between the public and private
+sector on securing the open-source ecosystem, and any
+additional recommendations you may have for this Committee to
+consider.
+I want to again thank the witnesses for being here today to
+help us tackle these challenging issues. I yield back.
+
+Chairman Foster. Thank you. And the Chair will now
+recognize Mr. Feenstra for an opening statement.
+Mr. Feenstra. Thank you, Chairman Foster and Chairwoman
+Stevens. Thank you for your passion. And, Ranking Member
+Obernolte, thank you for being here today at this hearing. I
+also want to thank our expert witnesses for participating
+today. I look forward to the discussion and learning more about
+ways to improve open-source software security.
+Open-source software is a key component to modern software
+development. Over the past 2 decades, open-source software has
+become widely adopted and has a vast number of applications
+from powering our small personal devices to our supercomputers.
+Open-source software is largely created by volunteers on their
+own time who often do not receive any sort of compensation for
+their work, but rather work on projects that they are
+passionate about that may be useful to others. It is
+collaborative in nature, as it is available for anyone to use,
+modify, and share for best user ability and accessibility.
+Additionally, open-source software is often available free of
+charge, which allows users to have access to technological
+capabilities that they may not be able to otherwise.
+While open-source software offers many benefits, there are
+also risks involved in using this type of software. One of the
+main challenges of open-source software is the lack of
+dedicated resources for security and internal vulnerability
+checks. If open-source software has a security vulnerability,
+it could cause widespread harm to all users. What's more,
+because open-source software is typically part of another
+software component, it may be tough to determine when and where
+a patch may be needed.
+Critical technologies such as artificial intelligence often
+have their own unique challenges when it comes to open-source
+software security. For example, large datasets are used to
+train artificial intelligence systems to improve their
+accuracy. If malicious actors manipulate or poison these
+datasets, the models will be corrupted and could produce
+inaccurate and harmful outcomes.
+Federal science agencies are actively working to address
+some of the ongoing challenges to open-source software
+security. The National Institute of Standards and Technology,
+NIST, has developed standards and best practices that apply to
+open-source software. NIST also produced guidance for managing
+compromised cyber supply chains and fixing vulnerabilities.
+On May 12, 2021, the President issued an Executive order on
+``Improving the Nation's Cybersecurity'' to enhance the
+security and integrity of the software supply chain. The
+Executive order required NIST to create new security standards
+for software, including open-source software.
+The National Science Foundation (NSF) also recently
+launched a new program called Pathways to Enable Open-Source
+Ecosystems, POSE, to harness the power of open-source
+development for the creation of new technology solutions.
+Additionally, many NSF-funded research projects produce open-
+source software, hardware, or data platforms that perform
+further innovation. It is important that security risks to the
+open-source ecosystem are adequately addressed and that the
+necessary resources are dedicated to bolstering cybersecurity.
+Improving our Nation's cybersecurity is particularly
+important to me. My district has recently been targeted by
+malicious cyberattacks to our agriculture supply chain.
+I hope we can have a productive discussion today about
+improving security in open-source software without compromising
+its benefits. I once again want to thank the witnesses for
+being here to discuss this important topic, and I look forward
+to hearing your solutions. Thank you, and I yield back.
+[The prepared statement of Mr. Feenstra follows:]
+
+Thank you, Chairman Foster and Chairwoman Stevens for
+holding today's hearing. And thank you to our expert witnesses
+for your participation here today. I look forward to the
+discussion and learning more about ways to improve open-source
+software security.
+Open-source software is a key component of modern software
+development. Over the past two decades, open-source software
+has become widely adopted, and has a vast number of
+applications from powering small personal devices to
+supercomputers.
+Open-source software is largely created by volunteers on
+their own time who often do not receive any sort of
+compensation for their work, but rather work on projects they
+are passionate about that may be useful to others.
+It is collaborative in nature, as it is available for
+anyone to use, modify, and share for better usability and
+accessibility.
+Additionally, open-source software is often available free
+of charge, which allows users to have access to technological
+capabilities that they may not be able to otherwise.
+While open-source software offers many benefits, there are
+also risks involved in using this type of software. One of the
+main challenges of open-source software is the lack of
+dedicated resources for security and internal vulnerability
+checks. If open-source software has a security vulnerability,
+it could cause widespread harm to all users.
+What's more, because open-source software is typically part
+of another software component, it may be tough to determine
+when and where patching may be needed.
+Critical technologies such as artificial intelligence often
+have their own unique challenges when it comes to open-source
+software security. For example, large datasets are used to
+train artificial intelligence systems to improve their
+accuracy. If malicious actors manipulate or poison these
+datasets the models will be corrupted and could produce
+inaccurate or harmful outcomes.
+Federal science agencies are actively working to address
+some of the ongoing challenges to open-source software
+security. The National Institute of Standards and Technology
+(NIST) has developed standards and best practices that apply to
+open- source software. NIST also produced guidance for managing
+compromised cyber supply chains and fixing vulnerabilities.
+On May 12, 2021, the President issued an Executive Order on
+``Improving the Nation's Cybersecurity'' to enhance the
+security and integrity of the software supply chain. This
+Executive Order required NIST to create new security standards
+for software, including open-source software.
+The National Science Foundation (NSF) also recently
+launched a new program called ``Pathways to Enable Open-Source
+Ecosystems'' (POSE) to harness the power of open- source
+development for the creation of new technology solutions.
+Additionally, many NSF-funded research projects produce open-
+source software, hardware, or data platforms that promote
+further innovation.
+It is important that security risks to the open-source
+ecosystem are adequately addressed and that the necessary
+resources are dedicated to bolstering cybersecurity.
+Improving our nation's cybersecurity is particularly
+important to me, as my district has recently been targeted by
+malicious cyberattacks to our agriculture supply chain.
+I hope we can have a productive discussion today about
+improving security in open- source software without
+compromising its benefits. I once again want to thank our
+witnesses for being here to discuss this important topic, and I
+look forward to hearing your solutions.
+I yield back.
+
+Chairman Foster. Thank you. And if there are other Members
+who wish to submit additional opening statements, your
+statements will be added to the record at this point.
+[The prepared statement of Chairwoman Johnson follows:]
+
+Good morning. Thank you everyone for joining us for this
+joint Subcommittee hearing. I especially want to thank Chairs
+Foster and Stevens, as well as Ranking Members Obernolte and
+Feenstra, for their leadership on the important issue of open-
+source software cybersecurity.
+Cybersecurity is a perennial problem. It is one we have
+frequently examined here in the Science Committee. Nearly one
+year ago, we held a hearing on ways to improve the
+cybersecurity of software supply chains. Our expert witnesses
+spoke of a need to improve the security of open-source software
+to protect the entire software supply chain.
+Their foresight was astute. At the end of last year, a
+vulnerability called Log4Shell was found in a piece of crucial
+and widely used open-source software. Thousands of
+organizations and systems were affected, and the work of
+protecting those systems is still ongoing. One leading cyber
+company called this software exploit ``the single biggest, most
+critical vulnerability ever.'' It is clear that we must
+dedicate more resources to securing open-source software.
+Our government agencies have been working hard to support
+this goal. NIST, in particular, has released extensive guidance
+for the successful development of secure software. An executive
+order from last May pushed the agency to do even more. They
+have released a definition of critical software that can guide
+the focus to the most important pieces of open-source software.
+And just last week, NIST issued updated guidance on supply
+chain risk management, completing a two-and-a-half-year process
+for how best to handle software in the supply chain.
+But NIST cannot solve this problem alone. This is a key
+moment for government to partner with industry. Our expert
+witnesses can provide perspectives on open source informed by
+their time spent working for industry, non-profits, the
+military, and the civilian government. Their insights will help
+us understand both the technical challenges and the underlying
+culture of the open-source community.
+Armed with that understanding, we can steer resources
+towards where they will do the most good. We can also map out
+the complex ecosystem of those who produce open-source
+software, and provide training and other resources to help make
+it secure. We can find more ways for agencies like NIST to
+collaborate with industry experts and other folks developing
+and maintaining open-source software across the country.
+We will also look to the future. Open source is a critical
+part of many developing technologies. It enables the growth of
+artificial intelligence and makes the technology accessible to
+a wider range of people. Yet the dangers posed by open-source
+software exist here as well. Bad actors will inevitably try to
+manipulate open-source datasets to control AI. This is a
+frightening possibility as AI becomes a bigger part of all our
+lives.
+The risks of open source should not outweigh its benefits.
+Properly resourced and made secure, open-source software can do
+a lot of good for a lot of people.
+I welcome the recommendations of our expert panel to guide
+us in that goal. Thank you, and with that I yield back.
+
+Chairman Foster. And at this time I'd like to introduce our
+witnesses. Our first witness is Ms. Lauren Knausenberger. Ms.
+Knausenberger is the Chief Information Officer (CIO) of the
+Department of the Air Force comprised of the Air Force and
+Space Force. Ms. Knausenberger leads two directorates and
+supports 20,000 cyber operations and support personnel around
+the globe. She provides oversight of the Air Force's
+information technology portfolio, including the information
+technology investment strategy from networks to cloud
+computing. Prior to joining the Air Force she was a founder and
+President of a consulting firm specializing in commercial
+technologies that could be applied to the government's
+missions.
+After Ms. Knausenberger is Mr. Brian Behlendorf. Mr.
+Behlendorf is the General Manager of the Open Source Security
+Foundation, a project hosted by the Linux Foundation with a
+goal of securing the open-source ecosystem. He has served as an
+advisor to--an open source to the U.S. Department of Health and
+Human Services (HHS) and the Office of Science and Technology
+Policy (OSTP). Mr. Behlendorf was a founding volunteer
+President of the Apache Software Foundation and serves on the
+Board of Directors of the Mozilla Foundation and the Electronic
+Frontier Foundation.
+Our third witness is Ms. Amelie Koran. Ms. Koran is a
+nonresident Senior Fellow with the Atlantic Council's Cyber
+Statecraft Initiative. During her 30-year career, she has
+supported work across government agencies, including the U.S.
+Department of the Interior, the Treasury Department, and the
+Office of the Inspector General (OIG) within the Department of
+Health and Human Services. In 2014 she was detailed to the
+Executive Office of the President to support the Federal CIO in
+reviewing cybersecurity legislation. She was one of the
+original cofounders of the U.S. Digital Service and part of the
+Presidential Management Council's Rotation Program.
+And our final witness is Dr. Andrew Lohn. Mr. Lohn is a
+Senior Fellow at Georgetown Center for Security and Emerging
+Technology, or CSET, where he works on the CyberAI Project.
+Prior to joining CSET, he was an Information Scientist at the
+RAND Corporation where he led research focusing mainly on
+cybersecurity and artificial intelligence. Andrew has also
+worked in materials science and nanotechnology at Sandia
+National Labs, NASA (National Aeronautics and Space
+Administration), and Hewlett-Packard Labs. He's published in a
+variety of fields, and his work has been covered in the MIT
+Technology Review and by the BBC (British Broadcasting
+Corporation).
+And, as our witnesses should know, you will each have five
+minutes for your spoken testimony. Your written testimony will
+be included in its entirety in the record for the hearing. When
+you have all completed your spoken testimony, we will begin
+with questions. Each Member will then have five minutes to
+question the panel.
+And so now we will start with Ms. Knausenberger.
+
+TESTIMONY OF MS. LAUREN KNAUSENBERGER,
+
+CHIEF INFORMATION OFFICER,
+
+DEPARTMENT OF THE AIR FORCE
+
+Ms. Knausenberger. Good morning, Chairman Foster,
+Chairwoman Stevens, Ranking Member Obernolte, Ranking Member
+Feenstra, and distinguished Members of these Committees. Thank
+you for inviting me today to discuss the benefits of open
+source and how we can work together as a whole of society to
+enhance open-source cybersecurity.
+As an aside, I will share that our software development
+community was very energized to hear that we have Members who
+can write AI algorithms and create e-sports games, as well as a
+collection of technologists and enthusiasts who are asking
+about this topic and raising it to the level of national
+attention, so thank you for that.
+I will share that a few weeks ago I was impressed and
+perhaps a bit humbled seeing the way that Starlink handled the
+communication issues in the Ukraine and specifically that they
+were able to defeat Russian jamming in Ukraine to solve
+problems with code and to push capability halfway around the
+world to keep the Ukrainians connected. And these were code
+pushes that were done in days. If we were looking at this in a
+military context and trying to bring code around the world, to
+push it to a pristine disconnected weapons system, it often
+would take us much longer to do this. Now, that same level of
+speed that we saw with Starlink or better is needed to protect
+our country from emerging threats like hypersonic missiles and
+to ensure that we can stay ahead of the actions of our
+adversaries and in lockstep with our allies.
+It is entirely possible that a future conflict to preserve
+our way of life is decided by features, fixes, and updates to
+software-intensive systems that must take place in minutes or
+hours. And this means that we must learn quickly as a
+department and leverage the knowledge and best practices of the
+entire development community.
+Now, first, I want to share that I personally am very
+bullish on open-source software. It's an incredible community
+of people, as a few of you have mentioned in your opening
+statements, that want to drive maximum benefit for all. And the
+top developers and companies in the world are using it and
+contributing back to open source. And those companies include
+Google, Microsoft, Red Hat, and Intel as the world's top four
+contributors to open source. And if you go and speak with those
+companies and the developers in those companies, they are
+actually spending a good percentage of their time contributing
+back to open source that they use because they want to make
+sure that it is maintained and that it is secure and that they
+can leverage it for the commercial capabilities that they layer
+on top of that open-source technology.
+It's transparent. You can see the code base. You can even
+see how the developers go through thinking about how they'll
+fix a particular bug and the online dialog around fixing a
+particular--adding a particular feature. It is often more
+secure in my opinion because it is thoroughly reviewed and
+vetted by the community, as well as battle-tested by companies
+around the world. And when there is an issue, it's fixed
+quickly and openly.
+If I compare and contrast SolarWinds and Log4j, Log4j, it
+was found pretty quickly by the community. It was fixed pretty
+quickly. The whole process was very transparent. There was open
+dialog. If we look at SolarWinds, it took us a while to figure
+out that there was a problem. There were multiple steps, and it
+did take longer to push those fixes.
+Open source allows us to keep costs down by allowing reuse
+of very good code, and it avoids vendor lock, while allowing
+the best developers who want to work with us to partner with
+us. I'll also posit that open-source software has come a long
+way, especially over the last few years, and I can give credit
+somewhat to the open-source--the OpenSSF, as well as the Linux
+Foundation for their focus on it, as well as just general
+awareness among the software community about the importance of
+cybersecurity, as well as the incredible visibility given to
+vulnerabilities in our national press as well.
+Now, while I see the benefits of open source, we in the
+Department of Defense, we do need to doubly ensure the
+integrity of the code that we use, as well as ensure that we
+provide valuable contributions back to the open-source
+community without giving away protected information critical to
+our competitive advantage. And those two points were outlined
+in a recent memo by John Sherman as we put more on the record
+that we as the Department of Defense are embracing open-source
+software in policy.
+We do see it is our responsibility to independently scan
+and test all code that we use, whether that is commercial code,
+whether that is open-source code, and we take this very
+seriously in the Department, that we maintain awareness of what
+software is on our networks, that we scan that software, and
+that we update it to the best of our ability.
+Now, historically, our development teams had to do this
+independently. An individual development team would pull code
+from an open-source repository or code that was developed by
+that team, it would go through the pipeline, and that team
+would be independently responsible for ensuring that that code
+was updated and secure. We launched Iron Bank as part of
+Platform One to help our development teams to do this more
+efficiently and more consistently across the entire department,
+as well as to open it up to the broader community. And we have
+had at least one commercial bank pulling containers from Iron
+Bank, as well as some Fortune 500 players. The intent there is
+to make sure that the code is secure and current and
+containerized, that it is accredited for use, which is often a
+challenge within the Department of Defense, and that it is
+available to that community.
+And further, even after we've done all of these checks
+within our development environments, we still have a pretty
+active program for bug bounties, for vulnerability disclosures,
+and active hacking events where we have on multiple occasions
+had hackers come in to do a gray hat or white hat review of our
+systems. They have found vulnerabilities in open-source
+software, and they have contributed back to the community.
+We've also had instances where we found dependencies that were
+previously unknown and contributed back because we are putting
+a lot of rigor into the checks that we go through. And I see
+this as really one of the big benefits that we as the
+Department of Defense bring to the open-source community.
+So in our business the adversary consistently gets a vote.
+It's not just about market share for us. It's about winning.
+It's about maintaining our competitive advantage as a nation,
+and it's about ensuring our way of life. We must drive the time
+and tempo to deliver the capabilities that we need to win, and
+I thank you again for the opportunity to testify this morning.
+I welcome your questions.
+[The prepared statement of Ms. Knausenberger follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And next is Mr. Behlendorf.
+
+TESTIMONY OF MR. BRIAN BEHLENDORF,
+
+GENERAL MANAGER, OPEN SOURCE SECURITY FOUNDATION
+
+Mr. Behlendorf. Chairman Foster, Chairwoman Stevens,
+Ranking Members Obernolte and Feenstra, and Members of the
+Subcommittee, thank you for the invitation to speak today.
+Open-source software is deeply embedded inside every
+software product, digital platform, smart device, and
+industrial machinery we have. Our markets, our energy grid, our
+transport systems, all the conveniences of the modern world
+would not function without open-source software. Open source
+comes to us not exclusively or even primarily from a small
+number of large companies as we might think but from a
+constellation of different organizations and individuals whose
+collective efforts are combined and remixed by the thousands
+into the products and services we see as consumers.
+Let's pause for a moment and note just how awesome it is,
+given so many of the problems we have in this world when we try
+to work together, that this kind of decentralized global effort
+is able to produce anything useful at all, let alone the
+bedrock foundations for digital products and services and upon
+which we live our lives.
+And yet for all these different components from different
+teams and sources, they're using methods that vary tremendously
+and in ways that affect the quality and security of each piece
+and thus of the whole. Open-source software as a whole has an
+excellent reputation for security, and some projects prioritize
+earning that reputation. A recent study from Google's Project
+Zero found that the Linux operating system kernel fixed
+security holes in an average of 15 days during 2021, but
+another recent study from Sonatype found that 29 percent of
+major open-source projects contain known security
+vulnerabilities either in themselves or in the code that they
+require to function, their dependencies.
+But this isn't just about defects in software. As we've
+heard, supply chain attacks, attacks on the way that developers
+and companies assemble and package and distribute their code,
+on top of many other dependencies, then--and then get to the
+end users, those kinds of attacks are on the rise. And several
+incidents over the last few years have led the open-source
+community to organize an array of different efforts to address
+the many underlying root causes that have combined to create
+the situation we're in.
+The OpenSSF is home to many of these efforts, as I detail
+further in my written testimony. We are running programs and
+building solutions that bring greater trust and resiliency to
+the way that software flows through a supply chain through
+projects like sigstore which focus on--focuses on digital
+signatures for software artifacts, and SLSA, which tracks
+levels of process in the supply chain.
+We are disturbing educational materials that teach the
+fundamentals of secure software development, something that few
+developers learn until later in their careers. We also are
+working heavily--we're working to identify the most critical
+software packages and measure them for security practices that
+can mitigate the risk of future major bugs, and if they aren't
+doing that work themselves, offer to help them do it. We are
+promoting these of third-party audits to discover the
+architectural mistakes, the product misfeatures, and
+implementation oopsies that an attacker can wormhole through to
+get the goods and much more.
+But we need help. The bad news is there is a lot of work to
+do and a lot of different kinds of work is needed. Now, I've
+just given a list. Now, the good news is we know what that work
+is, and we've got some proven tools and techniques that can
+scale up if the resources are made available. The great news is
+the returns on that investment are super scalable as those
+returns accrue to everybody using open-source software. You fix
+a hole once and everybody benefits no matter where you come
+from, how much you paid, all of that. If we focus those
+investments on the projects that are most critical, the most
+widely depended upon, and perhaps the ones that are least well-
+resourced, we can have a truly global impact.
+In my written testimony I offered some advice on how the
+Federal Government can productively engage with the open-source
+software community on this topic. For this testimony I'd like
+to talk about some of the specific lines of effort that we are
+pursuing that would benefit from alignment with government
+efforts and opportunities. Briefly, they include expanding
+education on secure software development fundamentals. How do
+we get that everywhere, into every formal education around
+computer science, around every informal opportunity developers
+have to become better coders? How to help--we'd love to explore
+how to help industry develop better metrics and better
+benchmarks for measuring cyber risk in software itself. How do
+we know if we're succeeding at improving the data security and
+software?
+We'd like to see a push for more supply chain integrity
+standards and tools from SBOMs (software bill of materials),
+which there has been great leadership on, to digital signatures
+and more, using procurement policy as a driver for change. We'd
+love to see a push for modern techniques such as memory-safe
+languages that can eliminate entire categories of software
+vulnerabilities. And we'd also love to see help with funding
+third-party code reviews for open-source projects. Think of
+them as audits but the good kind.
+The good news is we are seeing a very proactive stance on
+this stance on this topic from the White House, the recent
+series of Executive orders and interagency efforts among the
+NSC (National Security Council), ONCD (Office of the National
+Cyber Director), OMB (Office of Management and Budget), OSTP,
+DOE (Department of Energy), HHS, and everybody has been really
+great to see. We're also really happy to see the interest from
+all of you on this topic. I believe the people and the systems
+that can drive systemic change are in place, but those efforts
+across both the public and private sector are currently
+resourced at a small fraction of what's needed to really solve
+the problem. There is so much to do. Thank you for your time.
+[The prepared statement of Mr. Behlendorf follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And next is Ms. Koran.
+
+TESTIMONY OF MS. AMELIE ERIN KORAN,
+
+NON-RESIDENT SENIOR FELLOW, THE ATLANTIC COUNCIL
+
+Ms. Koran. Good morning, Chairman Foster and Chairwoman
+Stevens and Members of the Subcommittee. Thank you for the
+opportunity to testify before you today. While my written
+statement has the full details, I would like to summarize them
+for you here.
+I'm Amelie Koran, Nonresident Senior Fellow in the Cyber
+Statecraft Initiative at the Scowcroft Center for Strategy and
+Security at the Atlantic Council. It is an honor and a pleasure
+to be here with Dr. Lohn, Mr. Behlendorf, and Ms.
+Knausenberger.
+The Cyber Statecraft Initiative strives to address
+strategic questions by combining systems analysis, policymaker
+engagement, and the operational experience of our
+interdisciplinary practitioner community. My views and
+perspectives expressed to you today come from the point of a
+contributor to open-source projects, a technician who's worked
+in operating and securing systems and critical infrastructure,
+and one lucky enough to experience all of this from both within
+the public and private sectors at various levels, as well as in
+different industries over the past quarter-century.
+To quickly touch on the overarching questions posed to us
+by the Subcommittee, none of what you ask of us, the open-
+source community, or the agencies and programs you oversee
+could be easily answered, but there are ways to make it
+progressively better than its current state. First, realize
+that computer code is as much a part of our modern
+infrastructure that supports our country the same way more
+visibly tangible physical infrastructure like roads, bridges,
+dams, and utility plants are. However, there's a level of
+creativity and free expression involved that underpins how it's
+created, maintained, and used. It can be torn apart and
+excerpted, used in whole cloth as a complete package, or glued
+together with thousands of other pieces of code to achieve an
+end goal of building a system that thousands, millions, or
+billions of people use and rely on.
+Addressing the security of this code, particularly of that
+which is developed to be shared and improved upon by primarily
+volunteer developers in an open and transparent fashion is why
+we're here to discuss the best ways for which this Committee,
+through its actions, can support its health and long-term
+viability.
+While the Log4j vulnerability last year was the wake-up
+call that created this renewed focus, it was far from the
+first. Looking back a few years to Apache Struts, it was an
+open source package utilized by data broker Equifax, whose lack
+of following good maintenance and configuration best practices
+resulted in the loss of millions of individuals' personal data.
+This was an issue that could have been avoided by utilizing
+proper frameworks, guidance, and other nontechnical
+methodologies on how to properly manage and use and integrate
+that code into the digital environments.
+Prior to that in 2014 the Heartbleed vulnerability found
+within an open-source software package used to secure the
+transmissions and communications across the internet was a
+project that lacked resources and sustainable government--
+governance to ensure something that did not actively introduce
+flaws into its critical code base. Open-source software is one
+of the great often unacknowledged resources that allowed our
+modern society to advance and innovate like at no other time in
+its history through the adoption of openly available shared
+technology in our economy and daily lives.
+It seems very easy to try to solve such issues by imposing
+regulations, more checklist-based compliance requirements,
+which tries to mask itself as security, or even turning away
+from using open-source software altogether. Just don't. This is
+an addressable problem through creative thinking,
+collaboration, and leveraging the best parts of industry,
+academia, and government, along with international partners to
+get this ecosystem to a point where it's healthy, sustainable,
+and, most of all, trustable.
+Much like modern software development practices, everything
+should be iterative, and in my written testimony I am specific
+in saying the goal is to do the most good, which is not to try
+to solve it at first swipe but align things in such a way that
+they head in the right direction and then make our course
+corrects as we go along. Have government resources partner with
+organizations like the Open Source Security Foundation to
+leverage the interfaces into critical infrastructure through
+CISA (Cybersecurity and Infrastructure Security Agency) and
+NIST rather than have to reinvent the wheel and start a whole
+new line of engagements.
+Leverage the grantmaking capabilities and appropriate
+oversight at various agencies to directly assist these types of
+foundations and efforts. It needs to do so agnostically through
+leveraging CISA's interfaces with sector coordination to
+identify and triage the most critical software packages that
+need these types of resources and efforts applied.
+Use NIST and the NSF (National Science Foundation) to help
+develop, in conjunction with software stewardship foundations,
+such as the Linux and Apache Foundation and others, to help
+develop and refine standards and best practices. This should
+not end strictly at technical guidance but should also address
+how developers and project staff can best maintain and govern
+the entire lifecycle of their software projects. This work
+should also include consumer education on how to responsibly
+use, integrate, and operate code sourced from these efforts
+from the enterprise down to the individual consumers.
+Exploit that same experience and trust from within these
+agencies and programs to build and assist with integrating
+validation frameworks for open-source projects deemed critical
+digital infrastructure even if it's just helping pair needs
+with existing resources. Often, it may just be awareness that
+they exist and they can have a measured positive affect.
+Finally, be aware that none of this will be a quick fix. It
+requires a consistent, reliable effort from every group I've
+mentioned and from each angle to ensure success no matter how
+outwardly minor them may initially appear.
+Thank you all, and I look forward to answering your
+questions.
+[The prepared statement of Ms. Koran follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And next is Dr. Lohn.
+
+TESTIMONY OF DR. ANDREW LOHN, SENIOR FELLOW,
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY,
+
+GEORGETOWN UNIVERSITY
+
+Dr. Lohn. Thank you, Chairman Foster, Chairwoman Stevens,
+Ranking Member Obernolte, Ranking Member Feenstra, and Members
+of the Subcommittee. I'm Andrew Lohn, Senior Fellow in the
+CyberAI Project at the Center for Security and Emerging
+Technology at Georgetown University. It's an honor to be here.
+During the next few minutes, I'd like to talk about the
+risks to the artificial intelligence supply chain. The AI
+community has been particularly open to sharing, for example,
+it cost half a million dollars in two and a half years to build
+the famous ImageNet data set, but the professor who built it
+released it to everyone. Then, Google and Facebook both
+released their powerful AI engines, and now thousands of the
+most powerful AI models are a quick download away. It's truly
+incredible, given that these models often range from thousands
+to millions of dollars to build, and that's just in the
+computing costs without even considering the expertise to
+design them.
+These data sets, models, and AI programming resources form
+the building blocks of today's AI systems. In much the same way
+that few bakers today grow their own grain or raise their own
+hens, most AI developers simply combine ready-made components,
+then tweak them for their new applications. Sometimes that
+whole process only needs a few lines of code and surprisingly
+little expertise. This is the approach that allowed Google
+Translate to improve their performance with just 1/1000 of the
+code. They trimmed from 500,000 lines of code down to just 500.
+That sharing has driven both scientific and economic
+progress, but it's also created an alluring target for
+attackers. For one, an attacker can subvert an AI system by
+altering the data. That could happen, for instance, by a
+nefarious online worker while they label the data sets or by an
+actor who sneaks into the victim's networks. Alternatively, if
+the attacker provides a fully trained model, then it can be
+very hard to find the manipulations. There's no good way to
+know if a downloaded model has a back door, and it turns out
+that those back doors can survive even after the system has
+been adapted for a new task. A poisoned computer vision system
+might mistake certain objects, or a poisoned language model
+might not detect terrorist messages or a disinformation
+campaign if they use the attacker's secret code words.
+The programming resources for building AI systems are also
+vulnerable. Such systems can have thousands of contributors
+from around the globe writing millions of lines of code. Some
+of the code has been exploitable in the past, and some of it
+prioritizes speed or efficiency over security. For example,
+vision systems need images at a specific size, but the code to
+resize images allows attackers to swap one out for another.
+And last, these resources are only as secure as the
+organizations or systems that provide them. Today, the vast
+majority are hosted in the United States or its allies, but
+China is making a push to create state-of-the-art resources and
+the network infrastructure to provide them. If adversaries make
+the most capable models or if they simply host them for
+download, then developers in the United States would face an
+unwelcome choice between capability and security.
+There are a few things that Congress can do now to help
+maximize the benefits of the sharing culture while limiting the
+security risks that come with it. One step is supporting
+efforts to provide trusted versions of these AI resources such
+as through NIST or a national AI research resource. Funding is
+also needed to do the basic hygiene, cleanup, and audits that
+are important for security but that attract few volunteers.
+Congress should consider requesting that organizations across
+the U.S. Government create a prioritized list of AI systems and
+resources used to build them. This list may be easier to create
+and maintain if those organizations are incentivized to collect
+a software bill of materials that list the components in the
+software that the government buys or builds.
+And lastly, many of these AI systems are new and so are the
+attacks on them. The government would benefit from augmenting
+their teams of defensive hackers and security specialists with
+the AI expertise to help discover security holes in our most
+important systems. This would also allow them to think of new
+creative ways to subvert those systems before our adversaries
+do.
+Thank you for the opportunity to testify today, and I look
+forward to your questions.
+[The prepared statement of Dr. Lohn follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And at this point we will begin
+our first round of questions. The Chair now recognizes himself
+for five minutes.
+Now, digital identity management and digital ID and digital
+signatures are critical to prevent security breaches. This set
+of problems occurs really at two different levels. The first
+thing, during co-development, the co-developers need to be able
+to prove they are who they say they are for many obvious
+reasons. And second, during code execution, the so-called zero
+trust architecture that I think a lot of very secure
+environments are moving toward, needs to continuously check the
+authorizing credentials of code components as they execute.
+And so, Mr. Behlendorf, in your testimony you talk about
+the need to develop simple digital signature guidance and
+encourage the open-source community to adopt it. Could you
+elaborate a little bit on the challenges there and how the
+Federal Government and governments around the world, at least
+the free democracies of the world, should approach this?
+Mr. Behlendorf. Yes, well, we've had quite a few different
+systems for--to be able to sign emails, being able to sign
+digital artifacts of all sort going back to PGP (Pretty Good
+Privacy) in the--which started in the late 1980's, early
+1990's. In fact PGP and derivatives of it do form an important
+part of the last mile when it comes to validating the packages
+you get from repositories are what they say they are. Many
+development teams sign them as well. And yet for its length,
+PGP and GPG (GNU Privacy Guard) have not really reached the
+level of ubiquity across the software supply chains that have
+really been needed.
+So one of the projects of the OpenSSF is called project
+sigstore, and this brings a much simpler approach to being able
+to get keys to sign an artifact and push it through the supply
+chain, ensuring that humans are actually the ones doing the
+signing so that you get that check that's not--there are parts
+that are automated appropriately and other parts that do
+require human oversight to make that actually meaningful.
+This is something that's now picked up quite a bit of
+adoption. The major cloud container system called Kubernetes
+has now adopted it ubiquitously. And it also interfaces nicely
+with other ID systems out there.
+I think the appropriate role for governments in general is
+to be supportive of these efforts that are emerging from the
+open-source community. As always with digital identity, we do
+have this question of where--what are the roots of the public
+key infrastructure from which this comes? And I would really
+encourage the government to look at the example set by ICANN
+(Internet Corporation for Assigned Names and Numbers) and its
+administration of the domain name system or the CA/Browser
+Forum in its administration of the root certificates in web
+browsers and see that there are approaches to managing trust at
+scale. And these technologies will likely converge on that same
+kind of distributed systems for being able to manage the roots
+of that trust.
+Lots of other efforts going on, and I'd be happy to share
+more in the fullness of time. Thank you for the question.
+Chairman Foster. Yes. And I think one of the toughest
+issues there is the--sort of the root of identity, which I fear
+is always going to be an essential government function. To
+make, you know, essentially a list of legally traceable human
+beings for high-security applications, and that's going to be
+something that the free democracies of the world are going to
+have to work together to make sure that that kind of identity
+system, you know, basically interoperates properly.
+Now, in terms of the other--the zero trust thing that I
+mentioned, you know, last year, the Administration's Executive
+Order 14028 specifically called on Federal agencies to develop
+a plan to implement zero trust architecture. The idea of zero
+trust is that a network will continuously check on a user to
+make sure that they are who they say they are and that the
+software they're running carries that down through the system.
+And so then the adversary won't be able to just run amok once
+they gain access inside the system.
+So, Ms. Knausenberger, Platform One has developed a zero
+trust software called Cloud Native Access Point, or CNAP. Can
+you talk about the lessons the Air Force has learned in
+implementing the system and how open-source developers could
+utilize it?
+Ms. Knausenberger. Absolutely, and thank you for the
+question. First, I will share that zero trust has been a huge
+priority for the Department of the Air Force, as well as the
+Department of Defense coming into the incoming budget cycle
+with a lot of really valuable pilots ongoing now. The Cloud
+Native Access Point has been one of the most mature and
+successful pilots that we have run in that we've proven that we
+don't have to use the typical gated ``castle'' approach, which,
+as you noted, once you get an adversary into an older model,
+they can just move freely.
+We've shown that we can drive better performance, that we
+can drive greater speed, and that we can do so more securely.
+We have extensively red-teamed the solution and continue to
+make improvements. We've also shown that we can move more
+quickly as we make those improvements. We do have a lot to do,
+I'd say, at the enterprise-level on identity, but the Platform
+One team and our CNAP approach are very much leading the way to
+show us the realm of the possible.
+Chairman Foster. Thank you. And my time is up and I now
+recognize Mr. Obernolte for five minutes.
+Mr. Obernolte. Thank you, Mr. Chair. Thank you to the
+witnesses. This has been a fascinating hearing so far.
+Ms. Knausenberger, let me continue that line of questioning
+that Chairman Foster started on the--on Platform One. Now,
+obviously, that's been the Department of Defense's answer to
+how to secure software that's built on open source. In
+particular in your testimony you mentioned Iron Bank, which is
+the Air Force's way of protecting against supply chain
+vulnerabilities where a malicious actor might introduce
+intentionally a vulnerability in the hopes that it would be
+incorporated in an end product in a sensitive area. Can you
+talk a little bit about how that might be replicated for uses
+outside of the Department of Defense?
+Ms. Knausenberger. Certainly. So most private companies and
+most development teams do have a process for checking code that
+they bring in. They leverage their CI/CD pipeline, which
+typically would include things like static and dynamic code
+analysis, dependency checking, looking for secrets, fuzz
+testing. You know, there's a typical set of tools that
+different entities would go through to ensure the security of
+that code.
+The way that we've done it is instead of pushing it out to
+independent development teams to do that, however they have
+determined their best practices, to help them centrally by
+going through and doing things like ensuring the code came from
+where we thought it came from, scanning containers, scanning
+code, consistently looking at the hashing, automatically
+updating the containers, and providing that as a common repo
+where folks can point to that container in the repo and
+leverage that code.
+We have had Fortune 500 companies also use that--our repo,
+our containers. We have had one commercial bank use our
+containers. It is available to the public to use, and we have
+had some great contribution. Over 300 commercial entities have
+contributed back to ensuring that Iron Bank is continuously
+improved as well.
+Mr. Obernolte. Great, thank you. That sounds like great
+work. Mr. Behlendorf, if I could throw a question your way, in
+your testimony you mentioned memory-safe languages as being a
+promising area for reducing security risks. And I find that a
+very interesting topic because the research on the number of
+security problems that are caused by memory-safety violations
+is just stunning. There was a recent study that said over 60
+percent of all vulnerabilities in Apple software is as a result
+of memory problems. It's--Microsoft estimates it's over 70
+percent for Microsoft software, and Google says it's over 90
+percent for android vulnerabilities. So, you know, I think this
+is a really interesting conversation to be having.
+And obviously using memory-safe language would prohibit the
+kind of behavior that is causing these problems, you know,
+which would--like the Heartbleed bug that the Chairman
+mentioned in SSL, that was an out-of-bounds read that would
+have been prohibited by memory-safe language. WannaCry was an
+out-of-bounds right. So, you know, this is a really--this would
+solve a lot of problems.
+But I'll tell you this, as a programmer, when I was writing
+software, I hated memory-safe languages. And the reason is
+performance because if you got something every time you want to
+read from memory or write for memory, you've got this, you
+know, cyber overlord that's determining whether or not you're
+allowed to do it. That takes performance away from your
+software. And in an era where we're talking about AI
+applications that are very performance-intensive, you know, how
+do you balance those two priorities where we're giving up, you
+know, performance by a factor of probably two or three times to
+solve problems that occur, you know, once in a trillion times?
+So, you know, how do you balance that--those two priorities
+when you're talking about memory safety?
+Mr. Behlendorf. It's a great question, and this was one
+place where Moore's Law continues to be on our side, right,
+because----
+Mr. Obernolte. Well, it's----
+Mr. Behlendorf. --[inaudible].
+Mr. Obernolte. --[inaudible].
+Mr. Behlendorf. The cost of being able to perform a certain
+number of operations per second continues to drop. The cost of
+storage, all that continue their projections, right? So--but we
+also found in the last couple of years real advances in
+languages like Rust and Go that have allowed us to build
+memory-safe functions in--well, software in memory-safe
+languages that approach, in some cases even exceed, the
+performance of C code and some really low-level functions. So
+there's been really exciting advances in the last few years,
+and I think the time is ripe to really consider looking at a
+lot of fundamental libraries and parts of the internet
+architecture such as the software that runs the domain system
+as opportunities to, again, eliminate entire categories of
+software vulnerabilities.
+Mr. Obernolte. Sure. So how do you do that? Do you
+evangelize memory-safe languages through educational outreach
+to programmers that say that some of these----
+Mr. Behlendorf. You also----
+Mr. Obernolte. Yes?
+Mr. Behlendorf. Yes, sir, I'm sorry. You also try to
+resource the teams to go and build that software directly,
+again, very highly leveraged because it can be shared with
+everybody very quickly. But it doesn't take a whole lot, a few
+developers at the peak of their level if you want folks to
+evangelize and help build that. But the number of people who
+run domain name servers out there is actually--you could
+probably count them on three or four hands to cover the
+majority of the internet. And so there are some--a couple of
+very strategic places were you could have a tremendous impact.
+Mr. Obernolte. Right. Thank you. Well, I see I'm out of
+time. I yield back, Mr. Chair.
+Chairman Foster. I now recognize Representative Stevens for
+five minutes.
+Ms. Stevens. Great, thank you.
+As I mentioned in my opening statement, the America
+COMPETES Act directs NIST to address or assess security risks
+in open-source software and create guidance to help
+organizations maintaining open-source code. Ms. Koran, we've
+heard from obviously many stakeholders that NIST's
+cybersecurity guidance is often hard to adopt, especially by
+smaller entities. And this seems even more challenging in the
+open-source context. Where are many software packages are
+managed by--you know, they're managed by smaller teams, so what
+steps can NIST take to make it easier or just to make it as
+easy as possible for the open-source community to adopt NIST
+cybersecurity guidance?
+Ms. Koran. Well, one of the problems that I've noticed, you
+know, in my time in both industry and the public sector is the
+digestibility of it. And it's very easy for government to kind
+of spend all the resources that they want to kind of, you know,
+get the tool--tooling and stuff in place. One of the biggest
+challenges there is to adopt those standards and frameworks
+into tools that are consumable by smaller groups such as
+developers or smaller and medium-size businesses that don't
+have those types of resources. So potentially, you know,
+pairing with some of the places like Open Source Security
+Foundation and whatnot, that is a--you know, using the same
+open-source type of model to provide those, you know, audit
+capabilities in those packages that are kind of--I wouldn't say
+downscale but more or less a community addition in a way to
+allow them to, you know, consume and then apply those standards
+and guidances.
+The other issue, too, with NIST is it's also very academic.
+It needs to be written in a plain language that someone can
+basically--a more simple guidebook to address, you know, how to
+apply that to their own current problems. A lot of the stuff
+that, as written, is not situational to, you know, particular--
+you know, a small business, you know, is putting someone in
+their shoes as you're writing guidance. Those are some steps
+that NIST can take as to kind of think less of the--more like
+I'm an academic writer here to basically create these controls
+but apply them more like, hey, I'm in a certain situation and
+here's kind of a step through to work through those processes.
+Ms. Stevens. Great. So I also believe that education and
+training will be a key part of securing the open-source
+ecosystem. Many developers aren't focused on security and may
+not know what resources and tools exist to ensure that they are
+developing secure software. Ms. Koran, could you elaborate on
+how we can leverage the National Initiative for Cybersecurity
+Education at NIST to help make open-source developers more
+security-minded?
+Ms. Koran. One of the things is marketing. Awareness is one
+of the biggest challenges. The security community is I wouldn't
+say necessarily insular. We exchange ideas at security
+conferences like Defcon or BSides and so forth. But for
+developers, you know, there's stuff like USENIX and so forth
+there. But for just your average developer or even somebody
+who's coding as part of a smaller business, they're not
+necessarily aware of that. So I hate to say it, as an
+advertising campaign, you know, make the stuff aware, you know,
+buy some ads on things like hey, you're a developer, here are
+some things to make your code secure.
+Ms. Stevens. Yes.
+Ms. Koran. Awareness is the biggest challenge of all this,
+and we've got to kind of market the same way that, you know,
+all the scam artists tend to do. You know, you can----
+Ms. Stevens. Well, and there's conferences, you know,
+there's convenings, there's opportunities to do that. And Mr.
+Behlendorf, what education and training activities is OpenSSF
+engaging in and how can the Federal Government bolster
+cybersecurity education in open-source communities?
+Mr. Behlendorf. Right, well, we've built really 30 hours of
+courseware available through edX, as well as through the Linux
+Foundation's own training platform that teach the fundamentals
+of secure software development. This has to do with everything
+from a--as your open-source project develops a--you know, a
+team to respond to security issues to are you fuzzing your code
+and doing other kinds of testing? And this is content that's
+taken--been taken about 10,000 people. We'd love to see that
+more in the hundreds to thousands to millions of people. We're
+starting to explore partnerships with educational
+organizations, as well as with companies who might require that
+of their own developers before they contribute open-source
+projects on that company's behalf.
+Ms. Stevens. Yes.
+Mr. Behlendorf. And we're also looking at ways to try to
+think about if you're choosing between two software packages
+and one of them, the core developers on that have taken and can
+demonstrate they've taken this course, you might lean your
+decision about which software package to use toward the one
+that has those developers with those credentials associated
+with it. So we'd love to explore efforts with the Federal
+Government to----
+Ms. Stevens. Yes.
+Mr. Behlendorf [continuing]. Expand and, as Amelie
+referred, to market the availability of these platform--of
+these--of the courseware.
+Ms. Stevens. Great. Well, thank you. Listen, I'm out of
+time, but this is obviously a hot hearing, so with that, I'll
+yield back.
+Chairman Foster. We will now recognize Representative
+Feenstra for five minutes.
+Mr. Feenstra. Thank you so much. I appreciate all the
+testimony from all our witnesses. It's very impressive.
+Mr. Behlendorf, in your testimony you mentioned that very
+few software developers ever receive a structured education in
+security fundamentals and often learn the hard way on how their
+work can be attacked. I'm a bit of an academic myself, and I
+was wondering what steps need to be taken to address
+educational gaps for software developers? Is there anything
+that we can do, you know, to mitigate some of these things up
+front?
+Mr. Behlendorf. Well, early in my career I became a fan of
+a Usenet newsgroup called comp.risks, which was a narrative-
+focused space where people talked about here's how software has
+failed and failed in spectacular ways. And it was a very
+humanizing--some of the root causes for these big failures and
+understanding why they happened in a way that doesn't assign
+guilt, it doesn't try to look for, you know, who the bad actors
+are but simply to say here's where even the best of intentions,
+the best of processes have sometimes fallen down.
+And I think in computer science education, even as we
+talked about that in elementary schools or high schools, we
+talk about, you know, the way that developers, most of whom I
+know are self-taught, come up to speed and start working with
+different languages, you know, inserting that into all those
+different kind of informal types of engagements I think is
+critically important. I think also approaching trade schools,
+HBCUs (historically Black colleges and universities), other
+places where, you know, so many of the future work force is
+being trained is important with--it's not frankly a lot of
+content. It doesn't require, you know, hundreds of thousands of
+hours of teaching to get across some of the basic principles of
+how your software can be used in widely different ways than you
+might have expected and how to prepare for that, how to take a
+belt-and-suspenders approach to it, so lots of different
+answers to that question.
+Mr. Feenstra. Yes, I appreciate those comments, Mr.
+Behlendorf. I think you're exactly right. I think there's got
+to be some parameters, and I also think that people have to be
+understanding of what they're getting into and the concerns
+that could occur if they start going down the path and what
+could actually happen.
+Ms. Knausenberger, last summer a JBS support plant in Iowa
+halted production after it was targeted by a ransom attack. How
+would improving software supply chain security assist with
+combating the scourge of ransomware like the attack that hit
+JBS? What are your thoughts on that?
+Ms. Knausenberger. All right, thank you for the question.
+So first I'll say, you know, with securing the supply chain,
+the key steps are know your--where your software came from,
+do----
+Mr. Feenstra. That can be a challenge, by the way.
+Ms. Knausenberger. Yes, that can be--it can be a huge
+challenge. Scanning consistently, doing continuous monitoring
+in your environment, and above all, keeping your software up-
+to-date and having processes that allow you to very quickly see
+what is not up-to-date, what is exploitable. But there are a
+lot of other attack vectors there that go beyond the software
+supply chain, and I believe in that case it was a pretty
+concentrated server attack by a well--a sophisticated
+adversary. And from what I recall reading in the press, the
+company did exactly what they should do. They had encrypted
+backups. They had counsel ready to go and recovered pretty well
+from that attack.
+Mr. Feenstra. So I tend to agree. How does the
+communication get pushed when something like this happens? So
+are there, you know, packing plants, other things, you know,
+don't happen. I mean, I'm sure there's a direct source of, hey,
+we're going to go after these type of organizations. Is there
+quick communication that can preempt some of this from
+happening to others once it does happen?
+Ms. Knausenberger. There is a lot of communication between
+companies that do ransomware negotiations. There are
+individuals that comb the dark web specifically for--looking
+for threats. There's a lot of sharing among government entities
+to help get after this, and of course sharing with companies
+that might be affected when it happens. But we can't catch
+everything.
+Mr. Feenstra. No, absolutely.
+I got a quick question, Ms. Koran. In your testimony you
+discuss how we often look at NIST and the National
+Cybersecurity Center for Excellence as essential players in
+interfacing with the open-source community with the guidance
+and standards they provide. But how--we also need to learn how
+to lean on them for their new--their methodologies for software
+assessments and validation. Can you expand just a little bit on
+this? I've got about 20 seconds left.
+Ms. Koran. Yes. The fact is is they already use this for
+validating encryption standards and so forth, a similar model
+of being able for critical software packages to also offer that
+capability, again, like I said in my statements, is to use that
+matchmaking capability. It's an awareness issue more than
+anything, and then to resource that properly so that if we do
+have critical software packages for the open-source community,
+make that available to them so they can actually go through
+that process of assessment and validation.
+Mr. Feenstra. Wonderful. Thanks for those comments, and I
+yield back.
+Chairman Foster. Thank you, and we'll now recognize
+Representative Tonko for five minutes.
+Mr. Tonko. Thank you, Mr. Chair, and good morning to our
+witnesses. Thank you to the Chairs and Ranking Members for
+holding this joint Subcommittee hearing. I would also like to
+welcome and thank the witnesses for being here and sharing
+information with us.
+Open-source software or OSS is not isolated to one nation
+or to one industry. These projects, as we all know, are
+ubiquitous, supported by a diverse community of volunteers that
+collaborate to develop the software through innovation and open
+discussion. Lucky for us, the United States is home to many of
+the developers of the open-source software that are used around
+the world.
+As we become increasingly reliant on tech, the Federal
+Government has an interest in building a closer relationship
+with the private sector to indeed influence and invest in the
+security of OSS projects. In our rapidly evolving world, this
+is an effort that we want to be global leaders in.
+Mr. Behlendorf, in your testimony you mentioned that open-
+source development and security work is inherently
+international and that several foreign governments are
+developing their capabilities with respect to OSS. How would
+you recommend that the U.S. Government take a leadership role
+in this space?
+Mr. Behlendorf. Thank you for the question. So the private
+sector has recently developed an approach among companies for
+whom software is not their primary function. Organizations like
+Walmart and Target and Home Depot have all recently opened
+open-source program offices. These are departments within--
+sometimes within the IT department, sometimes within legal or
+marketing, but they are functions within a company that
+coordinate and help harmonize the engagement of that
+organization with all the open-source projects that that
+company might depend upon and even ones that might come out and
+the contributions upstream that come from that company.
+I believe a similar function inside of Federal agencies
+would help ensure very much a harmonized approach to that. It's
+very synonymous with, you know, the creation of a CTO (Chief
+Technical Officer) office within many of the Federal agencies
+and other things that have spawned out of U.S. Digital Services
+and GSA (General Services Administration) to be helpful in
+really building a technical capability inside of different
+Federal agencies. Finding a way forward for those agencies to
+know how to engage with the open-source community is really
+essential.
+In my testimony I provided some other suggestions on ways
+for the Federal Government to engage with open-source projects
+and approach them. I think the most interesting angle on this
+is the Federal Government is a major user of open-source
+software, and, like many other users, is a stakeholder in its
+success and can approach that as a peer rather than as a--you
+know, in a top-down regulatory kind of role.
+Mr. Tonko. Thank you. I appreciate that. And are there any
+best practices that our global allies have found to be useful
+in addressing OSS security concerns?
+Mr. Behlendorf. In addressing security concerns, the--you
+know, we've seen countries like France and Taiwan and others
+recognize the role that the use of open-source software can
+play in enhancing resilience. And, again, very much it's about
+funding operations to be able to build that capacity within
+their own organizations, within those governments to be able to
+engage with open-source and understand where the risks lie, how
+to make smart choices about which technologies to adopt, and
+where potentially to invest.
+I do want to note as perhaps an example, as I did in my
+written testimony, the investment that the State Department
+made in digital privacy tools over the last 10 years that
+helped advance the protections for communication in very
+sensitive areas in a way that helped everybody globally and not
+just U.S. citizens or U.S. interests. And so, you know, we
+see--we're seeing that start to emerge from other countries as
+well, a recognition that there is that collective interest, and
+actually not even just governments but international
+organizations like the (WHO World Health Organization) who
+recently launched their own open-source programs----
+Mr. Tonko. Thank you.
+Mr. Behlendorf [continuing]. In the same way.
+Mr. Tonko. Thank you. Do any of our other witnesses care to
+share any thoughts on this--on these concerns?
+Ms. Knausenberger. I'm happy to share that----
+Mr. Tonko. Sure.
+Ms. Knausenberger [continuing]. Through Platform One we are
+also engaging with allies and sharing code with Five Eyes and
+across our international community we do do our best to share
+code functionality as well as cybersecurity concerns and to
+proactively across governments as well share those
+cybersecurity concerns.
+Mr. Tonko. Sure. And many of you suggested that Federal
+engagement in open-source will be key to promoting security. So
+Mr. Behlendorf, can you speak to the cost associated with
+third-party code reviews and the potential benefits of
+continuous investment in the top 100 OSS projects? And we only
+have seconds remaining, so perhaps give it to us in a nutshell.
+Mr. Behlendorf. You know, the benefit of a third-party code
+review is having a second or third or fourth set of eyeballs on
+not just the code you've written but your assumptions and the
+features and all that kind of thing. And typically an open-
+source project to do that would cost anywhere from $50-$100,000
+to really do this thoroughly, and that seems like a lot of
+money when you're one open-source developer, but when you
+realize the impact that we could've mitigated by preventing
+something like some of the major breaches we've seen, major
+problems we've seen, it's an infinitesimal amount for the
+benefit that we would get.
+Mr. Tonko. And with that, I thank you and I yield back.
+Chairman Foster. Thank you. And now we will now recognize
+Representative Gonzalez for five minutes.
+Mr. Gonzalez. Thank you, Chairman. Thank you to our
+witnesses and to the other Members. It's very refreshing to
+have genuine experts amongst the membership of Congress on this
+issue. It's fun hearing Chairman Foster and Obernolte share
+their experiences. Dr. Lohn, I want to start with you. As Co-
+Chair of the AI Caucus, it's interesting to hear your
+perspective on how the AI community views open-source software
+and its perspectives on sharing. I think the benefits are
+clear, but as you noted, it is imperative to better prepare for
+potential attacks. In your testimony you noted that if
+adversaries, particularly China, make the most capable models,
+then developers in the United States would face an unwelcome
+choice between capability and security. What are the ways or
+what is the best way that we can ensure that this does not
+happen and we're not forced to make that difficult tradeoff?
+Dr. Lohn. Thank you for your question. I think that there
+are a bunch. One of the ways that I would start with is just
+tracking who--where the progress is across different subfields
+of artificial intelligence, in language models or in image
+processing, surveillance, and making sure that we're near the
+front or at the front in all of those and tracking where
+progress--where we're falling--where China is gaining on us or
+where we have a large lead. And then just understanding if we
+can prioritize which AI systems we are most interested in
+protecting and understanding which libraries and resources,
+data sets, and models are the foundations for building those,
+then we can track which--what the performance benchmarks are
+for those systems. If we need to, we could provide funding to
+help support progress in a subfield that's lacking.
+Mr. Gonzalez. Thank you. And then you also noted China is
+making a push to create programming resources for building
+systems and the network infrastructure to provide them. If you
+were to look at it from a competitive standpoint, how close are
+they to having similar or the same technological capabilities
+as the United States and/or our allies?
+Dr. Lohn. In some fields they're very close. In other
+fields not so much. In terms of the network infrastructure for
+distributing, there's a--they're developing their own, but
+their popularity is way down from where we are. And so in terms
+of the technical capabilities, that exists. They can distribute
+the infrastructure. In terms of the popularity, it's still far
+behind, but that could change depending on how we promote or
+how we cutoff accesses.
+Mr. Gonzalez. So you said some they're close, others not so
+much. Which ones are they closer on, and what gives you the
+most concern when you look at?
+Dr. Lohn. The ones that they're closer on are on image
+processing and in surveillance stuff. They focus a lot on
+surveillance technology, and so when--in a lot of ways they've
+pushed the frontiers there. And they've been making a push to
+be competitive in the biggest, most-impressive areas, which
+currently are large language models. They've created some
+models that are very large, which--although they haven't
+published their performance so we can't do an apples-to-apples
+comparison.
+Mr. Gonzalez. Thank you. That's all the questions I have,
+and I yield back.
+Chairman Foster. Representative Casten will now be
+recognized for five minutes.
+Mr. Casten. Thank you so much. I want to echo Mr. Gonzalez.
+And I am not remotely the computer programmer that our Chairman
+or Ranking Member are. But I am a big open-source advocate. I--
+my undergraduate degree was in biology, worked as an
+entrepreneur for a while, and I sort of feel like it's a
+bottom-up versus top-down control question. I'm pro-evolution.
+I'm pro-free markets for the same reason I'm sort of intrigued
+by open-source.
+However, you know, being opposed to central planning is not
+the same as being an anarchist. And I wonder if you can sort of
+stay with that metaphor. My question is for--my initial
+question is for Dr. Lohn. We are--we've created this AI
+research--resource research task force as part of the bill we
+signed--we passed here in 2020. And as you look to their report
+that's going to come out this summer, as they go through to
+develop these trusted versions of AI resources that you talked
+about in your testimony, would you like to see them say there's
+a protocol by which we identify that these resources are
+trusted and viable or rather that there is an ecosystem we've
+evolved that ensures that trusted resources come out of that
+trusted ecosystem? Because in our markets we have contract law,
+we have tort law, we have liabilities. We have all the things
+you need to make a market work. And as you think about how to
+create an ecosystem that provides trusted AI resources, do you
+think this is an ecosystem design problem or somebody actually
+going in and designing the--does that metaphor hold up? Does
+it--do you have any thoughts on that?
+Dr. Lohn. I think it does. I think that metaphor holds up
+in a lot of different contexts that are relevant to this
+conversation. Specifically to your question with the AI
+research resource, I can see both working. I would be even--it
+would even be a step up for me to just see a label where
+somebody has come in and said this resource, we know who built
+it, we have--it has been hashed, we know exactly what it is,
+and it's got a chain of custody that we understand. That gets
+an A. This other resource was made by a whole bunch of people
+that we can't speak to, that gets a C. Even if you don't
+actually provide the resource, if you just provide a labeling
+for it, I think that would be a step up.
+Mr. Casten. It's basically sort of analogous to the sort of
+scientific research, that we have a peer-review process, and
+yes, you can do un-peer-reviewed science, but we know how to
+judge that, right?
+Dr. Lohn. Exactly. Something like that would be very
+helpful. And from the top-down, bottom-up perspective, I think
+that's a really good analogy, too. Where a lot of the research
+into what are the vulnerabilities we would be worried about is
+being done bottom-up. But there--academics often chase the most
+interesting problem, not the most relevant one, and so I think
+that government has an opportunity to say these are the
+problems that we find most relevant----
+Mr. Casten. And so I want to be quick because I want to get
+to Ms. Knausenberger before I'm done, but do you think that in
+this model, you know, the scientific review example I gave,
+those controls really came from the community? In markets, the
+controls came from government that set the rules. I don't know
+how you enforce property rights in the community. Government
+had to be there. Do you think Congress needs to do more to
+enforce the rules, or do you think the ecosystem itself is
+going to evolve these rules on their own?
+Dr. Lohn. I'm a little bit worried that the incentives are
+too far off, that people don't appropriately weigh the impact
+of a cyber breach until it's too late. And so I would maybe
+advocate for a little bit of push from the government side.
+Mr. Casten. OK. So, Ms. Knausenberger, I'm going to ask--
+lead with a hugely meaty question for you that's unfair in a
+minute, but be that as it may, the--as I think about these
+open-source tools in a military context, the rules that we
+have, if an adversary of ours came and sent a commando unit to
+disable huge parts of our military equipment, that would be an
+act of war. We have all sorts of rules; we understand what that
+means. If they come in and disable the code that runs that
+military equipment, it's unclear what happens. This is way
+beyond the purview of the Science Committee, but do we need
+some kind of a Geneva Convention for cyber warfare? How do we
+make sure that we have the protections? Because we can put all
+the rules in place that we want for ourselves, for our country,
+but I've got to believe you stay up at night wondering about
+rules that apply in other countries. And we can control our AI,
+but if China or Russia does something differently, we're beyond
+the pale. Should we be thinking more about international law in
+this context?
+Ms. Knausenberger. So, yes, 20 seconds left, you--that is
+very meaty. I will say that when there is a kinetic effect,
+it's very clear how we handle things. In the cyber realm, there
+are some very healthy policy debate right now on where those
+redlines are, and I think folks well above my pay grade will
+determine that. But we do take our software supply chain, our
+cyber posture very, very seriously, and we are investing
+heavily in this area, especially after--we've had a number of
+very solid lessons. I guess that's it.
+Mr. Casten. I guess in----
+Ms. Knausenberger. Unless there's traffic outside the
+building.
+Mr. Casten. Well, I guess--and maybe we can follow up off
+the record, but I'd like--and this may be more for a classified
+briefing frankly, but I'd like to understand if you had
+knowledge that a foreign actor came in, interfered with our
+systems through making changes in our code that destabilized
+our systems, put--you know, compromised our national security,
+do you feel that we actually have appropriate recourse that we
+would have if that was a kinetic event? And if not, how do we
+protect ourselves? Because it feels like a barn door to me that
+we've never truly addressed.
+Ms. Knausenberger. I think we should follow up.
+Mr. Casten. Thank you. I yield back.
+Chairman Foster. Thank you. And Representative Carey will
+now be recognized for five minutes. Representative--excuse me,
+Representative Baird will now be recognized for five minutes.
+Mr. Baird. Thank you, Mr. Chair. And I really appreciate
+all the Chairs and Ranking Members putting together this kind
+of a session. And I always find it very informative when we
+have experts like the witnesses we have here today to share
+their experiences with whatever the issue may be.
+But--so my question in the area that we really haven't
+touched on I don't think it is the public-private sector and
+the partnerships in that area. So how can the Federal
+Government--and this question goes to all the witnesses. How
+can the Federal Government, including the National Institute of
+Standards and Technology, or NIST, most effectively collaborate
+with industry and other stakeholders to help secure open-source
+software? And if we do that, what policy changes can help
+secure the ecosystem? Ms. Koran, if you want to start.
+Ms. Koran. Sure. I was thinking about the comments I had
+made in my written testimony regarding the concept of carrier
+of last resort where, you know, from--the telecom idea is that
+your local telephone company has to provide you local telephone
+service, and they are the ones that are there even if--through
+competition and you have cable companies and whatnot. We have a
+lot of potentially abandoned software projects out there that
+are a part of critical infrastructure. They're old. We have to
+think about like what's out there versus what's to come. And
+using the government's, you know, scale, size, and matchmaking
+capability to find potentially abandoned projects for those
+that are in need of resources and do that matchmaking, you
+know, NIST can, you know, analyze where, you know, those are
+going to be most effective within the industries that that's
+used at but also in more of an agnostic way. You know, they can
+kind of pick the best experts to kind of assist with that or,
+again, work with like OpenSSF to, you know, find willing
+partners to actually, you know, help take over some of those
+projects as well or at least, you know, find those resources.
+Mr. Baird. Thank you. Ms. Knausenberger, do you care to
+comment?
+Ms. Knausenberger. Certainly. I appreciate the question and
+the previous answer. I will--we are pretty new, I would say, in
+our open-source journey in the Department of Defense, at least
+as far as embracing it publicly. We do have a voting membership
+on the CNCF (Cloud Native Computing Foundation). We are
+encouraging vendors to come work with us and allowing our
+software developers to contribute back to the code base as part
+of their normal coding duties.
+I do want to make just an invitation to my fellow witnesses
+to come and partner with us even more fulsomely. We would love
+your direct input, and this is something that's very important
+to me and to our department.
+Mr. Baird. Mr. Behlendorf?
+Mr. Behlendorf. I'm always hesitant to comment to any group
+of people with an open hand and ask for money, and very much
+I'm not doing that here. The private sector is organizing a
+series of efforts to try to systematically improve the state of
+security across the open-source landscape. Mainly the ones I've
+talked about in written testimony, other groups out there, and
+all of those groups by themselves, short of the resources they
+would really like to be able to be as comprehensive as they
+would like to be. Some of those plans are very specific such as
+recoding things in the memory-safe languages, as we talked
+about. Some of them are very broad such as what would it take
+to fund security audits and remediations of the top 100 or 200
+or 500 open-source projects each year? There's a certain degree
+of scale that government can bring and scale representing the
+collective interests of all Americans that would really benefit
+certain key ways. And so I'm happy to explore further those
+opportunities with all of you and with others in government.
+Mr. Baird. Thank you. Dr. Lohn?
+Dr. Lohn. Thank you. I think there are--so the AI community
+has been judged as not wanting to work with the government, but
+that was several years ago, and further studies have found that
+was drastically overstated, and there is a lot of interest in
+working with government. I think that there's an opportunity to
+do more placements, people who come in and work within parts of
+government, parts of DOD perhaps for short stints of time
+either part-time or full-time and then go back to their
+positions. I think that that exchange might be even more
+valuable than some of the financial opportunities, so creating
+those positions and opportunities for lateral or temporary
+transfers.
+Mr. Baird. Thank you. I thank all the witnesses for sharing
+with us today. And I've got about 15 seconds left, so I yield
+back, Mr. Chair.
+Mr. Tonko [presiding]. The gentleman yields back his 15
+seconds.
+Next, the Chair will recognize the Representative from
+North Carolina. Representative Ross, you're recognized for five
+minutes, please.
+Ms. Ross. All right. Thank you very much, and thank you for
+holding this hearing, Chairwoman Stevens, Chairman Foster,
+Ranking Member Feenstra, and Ranking Member Obernolte. And
+thanks to all of the witnesses for being here today.
+I'm so glad that we're holding this timely hearing, given
+the prevalence of open-source software and the work being done
+in my district in this space. I'd like to start my questioning
+by asking unanimous consent to enter the into the hearing
+record a statement from Red Hat, a homegrown North Carolina
+global innovation success story from my district on why we need
+a holistic approach to software cybersecurity, as embodied in
+the Administration's cyber Executive order.
+Mr. Tonko. And without objection.
+Ms. Ross. Thank you so much, Mr. Chair.
+For any of our witnesses, the open-source security
+vulnerabilities seem, of course, highly concerning. Are there
+any signs that investments made in response have been yielding
+results? So, for example, I note that in the Senate Homeland
+hearing on Log4j, a company in my district, Cisco Systems
+indicated that they had about five times faster response to
+Log4j this past year as compared to the similarly widespread
+OpenSSL Heartbleed vulnerability in 2014. What can we learn
+from this experience and the vulnerabilities that are both more
+rare and more quickly remediated in the future? And that's to
+anybody.
+Mr. Behlendorf. Perhaps I'll jump in and start. You know,
+we as humans are very bad at evaluating the longtail risks
+where something bad that is very unlikely to happen does happen
+and causes all of us to scramble. We also need to acknowledge
+that any nontrivial amount of software is likely to have a
+defect that is yet to be discovered, right? And so there is a
+constant game afoot at not only enabling innovation, enabling
+the development of new code, but doing even more to
+progressively add more controls, more ways of monitoring, more
+ways of testing to try to find and discover new kinds of
+vulnerabilities.
+No one--nobody here, I think, can sit here and say we've
+got the key to being able to prevent the next Log4j from ever
+happening, right? But we do see in things like--I mentioned the
+Project Zero research that Google had looked at, response times
+to security vulnerabilities discovered as the beginnings of
+some econometrics around trying to evaluate that.
+We also recently worked with Harvard to publish something
+called the open-source Census II, which tried to identify what
+are the most critical open-source projects out there and asked
+which ones of those have adopted the best practices around
+security. And we plan to evolve that further into something
+akin to a dashboard to try to drive a race to the top so to
+speak amongst the popular open-source projects to adopt more
+practices and more scanning and more--be more proactive about
+being able to validate their security research. In fact, most
+people will tell you if you really do care about security and
+when you're evaluating open-source software, you look not just
+for the number of GitHub stars, you know, an indication of
+popularity, but you look at how many vulnerabilities have been
+found and fixed because I'd much sooner trust the package that
+had a lot of holes found and fixed quickly than the one that--
+in which they haven't yet been discovered or fixed, right?
+So we are getting better at this. We still don't have a
+great, you know, bullet-point metric to be able to illustrate,
+you know, how much metric progress we're making, but this is an
+area of active research in our field.
+Ms. Ross. Does anyone else have anything to add? It looks
+like Ms.----
+Ms. Koran. Yes. Yes, as a former computer security incident
+responder, it's never a matter of if, it's a matter of when. As
+you mentioned about the speed of the response is that
+companies, as they started consuming the software, have plans
+on how they're going to respond to an event. So that's not just
+a particular technical looking at the code. That's the
+integration of your operations teams, the rest of your security
+teams. That's also part of all of this is knowing what to do
+when something does happen.
+So as part of that investment is looking--again, speaking
+to the prior Representatives' statements, it's a holistic
+approach. It's not just one narrow thing, and that's where we
+actually need to focus on is an entire integration of the
+response and look at things holistically about how we structure
+and architect things.
+Ms. Ross. Well, I see my time is about to expire. Thank you
+so much to the witnesses. Mr. Chair, I yield back.
+Mr. Tonko. The gentlewoman yields back. The Chair now
+recognizes the gentlewoman from Oklahoma. Representative Bice,
+you're recognized for five minutes, please.
+Mrs. Bice. Thank you, Mr. Chairman. First, let me throw
+this out to all of the panelists today. There has been a lot of
+discussion about open-source approach versus closed source. Can
+you expand on the security concerns of open-source and also
+maybe what are some of the latest techniques that we're
+utilizing to try to secure it, so, for example, tokenization,
+or what are we doing to try to secure code currently? I'm happy
+to----
+Ms. Knausenberger. I'll jump in briefly. So really the same
+concerns are there whether it's commercial software or open
+source. But if it's open-source software, you have the power of
+the crowd looking at it, and then you can also run your own
+tests internally because it is open code. You can run all of--
+you can redo the work yourself if you so choose.
+With commercial software, you can't see the source code.
+You do have situations where like with SolarWinds you can have
+a sophisticated adversary come in, inject malware, and have it
+be months before anyone knows that there's a problem, whereas
+in the open-source community we've seen with a number of
+examples that we just catch it faster, we can push it faster,
+we have more people trying to fix it faster and spread the
+word, whereas the commercial side you have some really smart
+companies working on it but we might not know about it as soon.
+Mrs. Bice. Anyone else want to elaborate on that?
+Ms. Koran. Yes, I was going to say as a formal CTO where I
+led development teams, one of the challenges is the gluing
+together of stuff. It's not always just one package that's
+consumed. As I mentioned in my opening statement was that the
+fact that it is put together, and while they're developed, they
+can be valid in the state that they're in, but you can't
+necessarily dictate how they're actually glued together. So as
+you use multiple packages, you have that particular challenge
+of them doing a complete systems tests rather than just looking
+at the code base itself.
+And that's one of the challenges here of looking at
+something as an automated code check that, yes, it may pass
+those particular evaluations, but it's up to the consumer
+whether it be an enterprise, an organization, or an individual,
+to also go through an end-to-end testing. So that's part of
+that education and part of those capabilities and part of
+that--those types of services that need to be made available
+not just to developers but to organizations and industry.
+Mrs. Bice. Fantastic.
+Mr. Behlendorf. Those have been some great answers. I--you
+know, culturally speaking, there's a greater emphasis on
+security in the open-source software community. There used to
+be very much a perspective of, you know, caveat emptor. I'm
+just throwing this out there, anyone who wants it is welcome to
+it, and--but buyer beware. And let us know if you find any
+bugs.
+And increasingly we see open-source foundations formalize a
+structured security team and incident response team within the
+project itself to in some cases pay for part-time or full-time
+security researchers who do nothing but try to improve both the
+underlying code as well as the processes that lead to the
+development of that software.
+Third-party audits are an increasingly important part of
+release processes. I see many open-source projects that before
+they release the next .0 version of their software will hire an
+outside firm to come in and review and audit the code and
+challenge the things that they found. So it gives me a lot of
+hope, but there also is a very long tail that is getting longer
+and longer of very, very small components that, when aggregated
+together, you know, create interesting things but where there's
+perhaps less oversight.
+You're probably familiar with the phrase that has been
+around the open-source community a while, with enough eyeballs,
+all bugs are shallow. Well, we have a problem with a critical
+number of eyeballs on enough open-source projects, even
+sometimes highly dependent ones. So one thing we're really
+trying to do is just make sure that we find the pieces that are
+critical, find the ones that are under-resourced and where we
+can direct resources of whatever form are required to increase
+the level of trust that we might have in that component, that
+we do so.
+Mrs. Bice. Thank you for that. Final question with just a
+minute left, how is Executive Order 14028 on Improving the
+Nation Cybersecurity been leveraged to bolster open-source
+software security? Has there been progress and are there--
+obviously, there's gaps, but where do those gaps remain?
+Mr. Behlendorf. I'll jump in on that. It has been
+tremendously helpful to the folks who've been working on the
+software bill of materials space for a number of years.
+Initially, many of the--much of the SBOM activity has been
+focused on licensing and conformance. In fact, the Linux
+Foundation has facilitated the development of a standard called
+SPDX (Software Package Data Exchange), which has become a very
+widely used standard but used in ways that haven't yet risen to
+the surface. And what was very helpful about, you know, 14028
+was setting the tail end of that process, setting a demand for
+it that has started to drive that demand upstream to the open-
+source projects that depend upon it. So we are--we're seeing a
+shift toward SBOMs. We're seeing it starting to be baked into
+developer tools and major supply chains as well, so it has been
+very helpful in driving that ubiquity.
+Mrs. Bice. Perfect. My time is expired and, Mr. Chairman, I
+yield back.
+Chairman Foster. Thank you. And Representative Perlmutter
+will be recognized for five minutes of questions.
+Mr. Perlmutter. Thank you, Mr. Chair. And I came in a
+little late, so I apologize, but I did hear, Mr. Behlendorf,
+when you said you were more comfortable if you saw that there
+had been a number of vulnerabilities found in a particular
+piece of software, you felt more comfortable about that than
+one that didn't have so many found. And that just was
+counterintuitive to me. Can you elaborate on that little bit?
+And, Ms. Knausenberger, maybe you can because you talked about
+SolarWinds and the commercial versus open-source.
+Mr. Behlendorf. Yes, I should be--I should clarify found
+and fixed, not just found and left in their current state
+because that indicates people care. That indicates people are
+looking and scrutinizing it. And I've very rarely seen software
+that, you know, you can use for any nontrivial purpose or
+amount of time that hasn't had a defect found in it. So it's a
+sense of health of a project that you find--that people are
+looking for them, finding them, and that the project's own
+developers acknowledge those bugs and are ready to fix them.
+That is a--I much prefer that over the thing that looks and
+feels perfect and done and no bugs.
+Mr. Perlmutter. OK.
+Ms. Knausenberger. Yes, that was a great answer, and I will
+agree. If there are no bugs found in a particular piece of
+software it's because no one's looking. It's not because it's
+perfect. And it is a sign of pedigree to have lots of eyes
+using and really poking away at a piece of software, so it also
+engenders confidence to me.
+Mr. Perlmutter. And you may--all of you may have answered
+this before, but who is it? Who are those eyes? Who--what--who
+is the community? I mean, are they doing this for grins? Do
+they get paid? How--who is it that's looking to see if there's
+a vulnerability?
+Ms. Knausenberger. So the top four contributors are
+Microsoft, Google, Red Hat, and Intel. And the Department of
+Defense is increasingly involved as well looking and
+contributing back. There are people that are paid to also
+contribute to open-source software, and I'm sure my fellow
+witnesses can jump in on that as well.
+Mr. Perlmutter. I mean, more often than not it's not my
+nephew who's a super computer nerd, you know, sitting in the
+basement looking to hack something?
+Ms. Koran. Sometimes you trip over it. As part of, you
+know, building software systems, you may find that the code
+that you are intending to use between versions or, you know, a
+new use of it creates an unexpected result, and that could be a
+bug or a vulnerability that is found. And hopefully, based on
+licensing or, you know, the policy of an organization, those
+changes do get floated back into the original code base.
+Sometimes it doesn't just because of--you know, sometimes the
+sensitivity of intellectual property of the organization that
+has actually integrated that, so it does run into conflict
+sometimes with the licensing. But others--you know, obviously,
+we do have a very robust security community that does, for
+grins and giggles, you know, goes to like poke at software. And
+the same thing that we use to secure it from the development
+standpoint, fuzzing and other tests, are also used by
+adversaries, but they're just not reported.
+Mr. Perlmutter. OK.
+Mr. Behlendorf. I'd like to----
+Mr. Perlmutter. Go ahead. Somebody else wanted to----
+Mr. Behlendorf. I'd just like to add that, you know,
+studies have found since the earliest days of open source that
+the vast majority of contributions that come into any major
+open-source project come from developers who are using that
+code to solve a business problem, right? In some cases, it's to
+train themselves up to further their careers, to get a bit of
+notoriety, or it might even be that nephew in the basement who
+has a brilliant idea that becomes the basis for the next cool
+thing. And the great thing is those--all those interests and
+all those agendas can align and harmonize and create
+interesting and innovative code. The key is finding processes,
+processes that allow for more than one set of eyeballs to look
+at code before it's released, processes that test and vet for
+off-by-one errors that lead to memory vulnerabilities and the
+like. So from motivation's point of view, it really is industry
+and individuals working voluntarily together but to solve real-
+world problems.
+Mr. Perlmutter. I may not be able to get this answer in
+before my time expires, but what role do you think open-source
+coding software has in modernizing our electrical grid as we
+add more and more renewables if anybody can answer that?
+Mr. Behlendorf. I'll jump in and say, you know, at the
+Linux Foundation we have a project called LF Energy, which is a
+collaboration between some of the major grid operators around
+the world and hardware and software providers to them to
+develop the next set of software infrastructure for--totally
+focused on renewables and microgrids and enabling a much
+greener kind of future. And so we're seeing active involvement
+from industry on that, but we've also seen the solar community
+working on open-source software to tie into grids to manage
+resources in a really explosively cool kind of way and really
+excited to be leading that project.
+Mr. Perlmutter. Thank you. My time is expired. I yield back
+to the Chair.
+Chairman Foster. Thank you. And Representative LaTurner
+will now be recognized for five minutes of questions.
+Mr. LaTurner. Thank you, Mr. Chair.
+Ms. Knausenberger, you discussed in your testimony how the
+Iron Bank repository can reduce supply chain risk. Can you
+elaborate on Iron Bank's levels of security and provide insight
+into whether non-DOD entities are able to replicate this effort
+or security components of it?
+Ms. Knausenberger. Certainly. So, first, the way that we
+secure our open-source software leveraging Iron Bank, we start
+with the onboarding process where we validate the supplier
+identity of the code. We then harden. We scan for
+vulnerabilities and dependencies. We do policy configuration
+and scanning. We ensure that we are doing automated updates and
+have a process to pull those in. We do delivery and auditing as
+well, and there are a lot of things that come into that process
+as well as an SBOM. So those are the things that we are doing
+within Iron Bank, and we do that--some of that work is done
+organically. Some of that work is done through partners and--
+largely commercial partners.
+As far as private citizens or the public leveraging Iron
+Bank, it is available in itself and an open-source product, and
+we have again heard of at least one commercial bank leveraging
+Iron Bank and a variety of defense contractors and other
+interested parties.
+Mr. LaTurner. Thank you. Ms. Koran, in your opinion, would
+cracking down on waste, fraud, and abuse in Federal agencies
+like HHS, for example, help mitigate cybersecurity threats by
+disincentivizing bad actors?
+Ms. Koran. It could. Unfortunately, it's a resourcing issue
+again. I remember being on some of the security mailing lists
+and whatnot, and usually at a--most of these health
+organizations, whether it be hospitals or, you know things--
+places where grants are made to you, it's one IT person doing
+multiple roles. So, you know, sometimes it's not necessarily
+out of malice, but it's also out of available resources.
+But also one of those cases is--too, is, you know, even at
+HHS, which is the biggest IG (Inspector General), the
+cybersecurity oversight was a really, really small group out of
+the entire organization, so it's also a scaling issue just to
+be able to provide that level of oversight. It could help crack
+down on it, but it needs definitely a lot more resourcing. And
+I'm sure that's the case with many of the other agency OIGs.
+Mr. LaTurner. Sure. You stated in your testimony that
+triaging software vulnerabilities is hampered by a lack of
+technology literacy among the people in charge of responding to
+such events. In your opinion, how should the government fix
+these miscommunications to speed up future response times?
+Ms. Koran. Well, for one is definitely staff experts like
+the rest of the panel here in places where they can actually do
+the most good. My time at OMB, most of those folks were not
+technical even in the CIO's office, so, you know, educating
+them correctly and I had to explain, you know, the overflow and
+what that actually meant in terms that were meant, you know,
+for folks who are non-technical. That level of literacy needs
+to be higher up in the food chain. And while that can happen
+as, you know, our generations start to take over more, you
+know, as some of the older generations retire and we move up,
+but, you know, in this case we can't wait. So in some cases
+it's just a matter of pairing the right people in the right
+place at the right time.
+Mr. LaTurner. Sure. I'd appreciate that.
+Dr. Lohn, in your testimony you discussed how AI system
+models coming from our adversaries may back American software
+and AI developers into a corner. Can you explain what you mean
+when you say the United States would have to choose between
+capability and security?
+Dr. Lohn. Yes. If the--the best model--so, all right.
+Someone when someone is building a new AI system, they rarely
+design it from scratch. That can cost millions of dollars. And
+so what they'll often do is download a model at a starting
+point and then use a small amount of data to tweak it. But
+that--when they're trying to decide which model to start from,
+they choose the most powerful one that exists or near to it.
+And if that--currently, most of those are American-made or some
+of our allies, but if that were made by an adversary, then you
+would have to choose between taking this one that wins on all
+the benchmarks or taking the 10th-place model or the 2nd-place
+model and using that as your starting point. If the--that most
+powerful model is an adversary-made one, they can embed
+triggers in it that they can use later on after the model has
+been retrained for its new purpose.
+Mr. LaTurner. Thank you very much. Mr. Chairman, I yield
+back.
+Chairman Foster. Thank you. And I'd also like to mention
+for those Members who are attending either in person or
+virtually that we're going to attempt a second brief round of
+questions if we have time.
+And we'll now recognize Representative Meijer for five
+minutes.
+Mr. Meijer. Thank you, Mr. Chairman.
+I want to touch a little bit on the conversation that Mrs.
+Bice had a little bit earlier with Dr. Lohn. And it seems like
+one of the themes that's coming out here is this tension
+between, you know, government shifting from an approach of
+propagating best practices to then expanding and setting some
+mandatory minimums within kind of Federal supply chains and
+Federal--or Federal kind of IT infrastructure and that the
+tension between the voluntary approach and more of a mandate or
+restrictions or certain minimums. You know, from the NIST
+voluntary framework from the 2014 Executive Order 13636 for
+critical infrastructure, you know, through to that White House
+E.O. 1428 from last year, last May for minimum standards for
+Federal systems.
+Are there--you know, we're kind of looking at the
+government's role vis-a-vis protecting and encouraging updates
+of--whether it's the software bill of materials to get that
+full kind of codification of what's in the stack on the open-
+source side. But so much of the perpetual vulnerabilities--and
+this came across in several of the testimonies--are just the
+failure to update even after an exploit is known, even after a
+patch is issued and how that can take a very long time. You
+know, the Log4j patch deployment took--you know, identified a
+week--you know, kind of take weeks to months, potentially years
+to be fully onboarded.
+Are there--apart from the government, apart from some of
+the kind of industry and then nonprofit organizations that are
+represented here--and I just want to throw this out to the
+group--you know, what role do--specifically with the commercial
+sector, what role do insurance providers who may be on the hook
+for a breach that results in data being compromised, has a
+financial impact, or, you know, investment firms? I mean, are
+there other entities that should be part of this conversation,
+apart from just government, nonprofit, and some of the larger
+kind of commercial IT partners?
+Mr. Behlendorf. I'll jump in. I certainly believe that the
+insurance industry has a--could have an important role to play,
+and we have not yet them really seen--really--yet really seen
+them show up to the discussion. You know, insurance is how we
+brought greater degrees of safety to, you know, our transport
+systems, to so many other parts of modern society. Many
+organizations do offer cybersecurity breach insurance and other
+kinds of risk insurance related to this, and they've had
+difficulty in finding premiums and pricing, as I understand it,
+to actually make for sustainable models.
+This is tied somewhat to the challenges we have in applying
+metrics to understanding just how secure is this bundle of
+software that we deployed or this cloud service that we're
+using as an enterprise. But with better metrics, with better
+monitoring we can get, I think, to a model that works for the
+insurance industry. So I would be really eager not only to
+engage with them but engage with many of you in government who
+oversee many of those activities to try to figure out how to
+encourage more bridge-building there.
+Mr. Meijer. Thank you, Doctor. Anybody else want to offer
+input?
+Ms. Koran. Yes. Yes, definitely one of the challenges here,
+especially going back to Representative Bice's comment there,
+was that with a lot of the standards and everything, everybody
+looks at these as the high watermark, as the thing that they're
+going to only meet and meet there. But resilient systems,
+whether they be in critical infrastructure or your everyday
+business down the street that's consuming this needs to build
+above that waterline, above that mark so that if and when an
+event does occur, that they are resilient enough to sustain
+that and maintain their business and operations. And that's the
+biggest impact to global economies is that resiliency thing.
+You know, looking at the Colonial Pipeline, looking at
+things such as SolarWinds, because, you know, the base was
+never met, you know, when they were hit, everybody scrambled
+and everybody panicked. And that's one of those cases of using
+that to drive better behavior in industry is to look to go
+above and beyond, just use that as that baseline to move rather
+than the roof.
+Mr. Meijer. Well, and certainly I also serve on the
+Homeland Security Committee, and I think, you know, while we're
+focusing on the role of NIST, you know, CISA's role is also
+very critical here. But I think the--Ms. Koran, the point is
+very well taken on the high watermark and building above that
+line because we can only look back to what has occurred and
+have to be focusing as well on what's coming down the pike.
+So with that, Mr. Chairman, I yield back.
+Chairman Foster. Thank you. And at this point I think we
+have enough Member interest for an additional round of
+questions. So I'll begin by recognizing myself.
+And my general question is what's the future of automation
+in code verification? You know, if 10 years from now or 20
+years from now or six months from now are we going to actually
+be able to have most of these packages verified by some piece
+of code that you run on them when you attempt to update them?
+And what's the sort of state-of-the-art, and what your guess
+for the anticipated state-of-the-art over the next few years?
+Yes.
+Mr. Behlendorf. I'll jump in on that. Right now, our
+current what are called static analysis tools and even the
+dynamic analysis tools, the ones that look at running systems
+and try to look for vulnerabilities, these tools suffer quite a
+bit from what are called false positives. You know, developers
+who use them have to wade through a lot of signals that aren't
+really about vulnerabilities for the one or two pieces that
+actually do indicate some problems. So there is a ton of
+research now going into how to reduce those numbers of false
+positives, how do you make this tool perceived as productive
+and useful to developers as they work for that code, and then
+how do you turn that on at scale?
+We've done quite a bit at the OpenSSF in partnership with
+many of our members around looking at fuzzing, which is a way
+of throwing a ton of garbage data at a piece of software to
+understand how and when it might break, looking at ways to try
+to automate that at scale across thousands or millions of
+projects at once. It is a very hard problem, but it is an area
+of active research in this space.
+I also think that the--as--the better we get at finding new
+ways to automatically detect and remediate vulnerabilities, the
+more kinds of new vulnerabilities we'll discover because the
+landscape always shifts. And what we need is a general capacity
+for not just finding and fixing bugs but finding new kinds and
+fixing new kinds of bugs. And that's why I--you know, what we
+call for in terms of investments really is on a persistent
+basis rather than, OK, now, we have security in our source
+codes and we can all go home.
+Ms. Koran. And I was going to throw something in there,
+too, is you give somebody a problem and there's going to be,
+you know, 10 million different ways to solve it. For large
+programs and open-source packages, you know, you can enforce
+standards of people, how the code--different things that they
+need to do, but the wonderful thing about open source is that
+anybody can basically go into it regardless of their skill
+level or their experience and time doing this.
+So with AI, part of that--those models are going to be
+necessary to be checked, we can do some level of automation,
+but you go to someplace like Stack Overflow, throw out a
+question, and you're going to have 100 different answers how to
+implement the exact same thing. Whether or not they're correct,
+some of them may be, some of them may not be. So as Brian
+mentioned about fuzzing, we will only catch a certain amount
+through some of that automated testing, but it will still
+require some eyes and that rigor of being able to understand
+that you should code in a certain fashion. Providing core
+repositories of known checked methods and implementation
+standards are ways to do that, but until everybody's kind of on
+board or willing to follow those models, that's the challenge
+of humanity is, you know, you have that level of creativity,
+want to kind of do it their own, so I think that's going to be
+our biggest challenge moving forward.
+Dr. Lohn. I would also just like to very quickly pipe in
+and say that there's an opportunity--there's a lot of focus on
+vulnerability discovery and patching. I think that the patching
+side, as the previous Congressmember mentioned, is a big
+problem where there's a bigger opportunity to make a push. It's
+a harder problem, but there's more opportunity for gains.
+Ms. Knausenberger. All right. So the macrolevel, we're
+already pretty automated across the community, even in the
+Department of Defense. Pretty much anything that we are
+building in the last few years has an automated pipeline. We
+also are really big on bringing in the hacker community after
+the fact to hack away at our systems and tell us maybe what we
+missed in production as well and in our development
+environments. But even there when we see a particular play used
+more than once, we want to look at, well, how do we automate
+that play so that, as we test this on the backend, we can
+become increasingly creative. We don't have to just do the
+things that we tested before. We do the same thing in our
+pipeline as we noticed that maybe we missed something. How do
+we give that feedback by adding a new tool, giving feedback to
+a vendor, et cetera.
+But automation plays heavily. I'd say we're more nascent in
+the way that we can automatically check algorithms, and that's
+just as a--you know, as an industry. But I think that there
+will be a lot more automation leveraged there in the future as
+we make just more advances.
+Chairman Foster. Yes, did any of these tools flag Log4j?
+Ms. Knausenberger. So I think the key thing to understand
+there is that if you're using a scanning tool, it's not
+necessarily going to identify malicious code as much as it's
+looking for code that's going to break something or is
+incorrect or is a bug. And so a lot of vulnerabilities--it's
+not because the code was, you know, inherently wrong. It's that
+someone was very clever and they found a way to exploit
+something that was working in the code to do ill. And that's
+why it's so important that we continue to have the cyber
+research community engaged and the people that are using that
+code for business purposes engaged because some of these things
+you're not going to find until you start hammering away at it
+no matter how good you are.
+Chairman Foster. My time is up, and I'll recognize
+Representative Obernolte for five minutes.
+Mr. Obernolte. So let me start with Dr. Lohn. I'd like to
+continue a line of questioning that Congressman LaTurner had
+started. You were talking about the tradeoffs between
+capability and security and discussing the possibility that a
+competitor such as China might introduce a very capable piece
+of open-source software in the hopes that it would be
+incorporated along with perhaps an embedded security
+vulnerability into sensitive software. So my question for you
+is how would one avoid that? Because as you've also said in
+your testimony, it can be very difficult, especially when
+you're talking about software-related AI. It's going to be very
+difficult to determine whether or not a vulnerability exists
+even if it was put there intentionally. So what could we--what
+can we do to solve that problem?
+Dr. Lohn. That's a very good question. The first thing we
+could do is make sure that we have superior or competitive
+models of our own that we do trust. Short of that, trying to
+discover these--what they--are sometimes called backdoored or
+Trojanized models is challenging. NIST has an effort right now
+called TrojAI where they're trying to run competitions with all
+of--with many backdoor models where academics or researchers
+are trying to find new ways. It's--that would be--being able to
+detect whether a model has been Trojanized would be great. It's
+the ambitious solution, and I think that we should not put our
+eggs all in that basket. Trying to create our own competitive
+models is my primary suggestion and then creating other like
+diplomatic or bureaucratic means for gaining trust would be my
+second.
+Mr. Obernolte. So just tunneling down on that, though,
+wouldn't--we're competing--we're introducing competitive models
+that don't have those potential security vulnerabilities. I
+mean, we--that's difficult to do. You can't just monitor the
+marketplace for open-source software and every time a capable
+module is introduced from a question--from a competitor,
+develop a better module. That's not what you're suggesting, is
+it?
+Dr. Lohn. What I'm suggesting is that we prioritize the AI
+applications that we're interested in and then make sure that
+we have the talent and incentives to stay at or near the
+cutting edge in those particular areas.
+Mr. Obernolte. OK. Yes, I think this is something we should
+talk more about because I think you've highlighted a very
+interesting and important potential problem.
+And, Ms. Koran, if I could ask a question of you, we have
+discussed through a couple of different lines of questioning
+today the Administration's Executive order from last year. And
+the consensus has been that it was a positive development. But
+in your written testimony you had a somewhat different reaction
+to it. You called it a dark cloud over the agencies and you
+feared it might, to quote you, ``stifle innovation and self-
+determination and put a chill over industry.'' So I wanted to
+give you an opportunity to give your point of view on that.
+Ms. Koran. Yes, definitely. So one of the challenges, you
+know, having been a Federal CTO, was a lot of these times is
+it's usually you're already kind of doing the work that you're
+doing and then you get an Executive order or demand from
+another agency like CISA to go and do a thing, and that
+actually requires you to change--you know add a reporting
+capability to it, do some extra checks. You may have been doing
+some of that already, but the idea is is now you have to
+comply.
+Then agencies, either through acquisitions through GSA via
+the Federal Acquisition Service and so forth when you acquire
+software and services, it puts an onus on industry whether or
+not they want to comply, and it reduces the ability for
+agencies to kind of pick and choose from a better menu.
+One of the challenges about FedRAMP, which is the cloud
+security compliance side of things, that's a very limited
+marketplace because it's such a high bar for a lot of companies
+to reach, and most of the ones who are innovating are small
+companies. Most of the ones you usually see in FedRAMP are ones
+who've had the time and the money to get there. So it does
+stifle innovation because it does remove the lack of choice and
+availability of software and services to agencies to work their
+mission.
+Mr. Obernolte. Yes, interesting. Well, I think you've
+highlighted a very important topic, which is the bond of trust
+that has to exist between government and the open-source
+community because, you know, without that bond of trust,
+neither of those communities can do their jobs. So--and, you
+know, as you've expressed, the government's efforts in other
+areas to provide this kind of assistance have not been crowned
+with glory, so I appreciate the viewpoint. It's something we'll
+have to work on.
+Mr. Chair, I yield back.
+Chairman Foster. Thank you. And we will now recognize
+Representative Perlmutter for five minutes.
+Mr. Perlmutter. Thanks, Mr. Chair. And the Chair sort of
+prompted a question, as did the Ranking Member talking about
+trust. So what happens if either in the original software or
+somebody from the online community turns out to be a bad actor,
+you find malicious software that appears to have either been--
+was intentionally placed there to be triggered at some later
+date? What happens, one, if you find that? What happens if you
+find somebody in the open-source community is trying to create
+trouble with some sort of malicious effort? What happens to
+those bad actors?
+Mr. Behlendorf. Well, I'll share, you know, there's an
+incident in 2020 where a research team at the University of
+Minnesota decided to test that very question and see whether
+the Linux kernel community would notice when they submitted a
+bug--like a software patch that had a backdoor embedded inside
+it. The patch came in, it started to work its way through the
+process, and within about five days the developers--the
+maintainers on the Linux kernel noticed the bug, noticed that
+it was intentional, responded by blackballing basically the
+entirety of the University of Minnesota IP (Internet Protocol)
+address space from ever contributing again to the open-source--
+to the Linux kernel.
+That might have sounded extreme, but the community of well-
+run open-source projects have not only processes to detect
+these kinds of things that no matter how many tools you use,
+you still have to boil down to humans looking at what's coming
+through and evaluating and trying to understand what's really
+going on inside of the software source code but also have
+strong social mores against that kind of contribution.
+Now, there are other open-source projects without those
+kinds of processes, without even a lot of developers involved,
+sometimes modules that are really just written by one or two
+people. And in that--and in recent cases such as--might have
+heard of colors.js, fakers-js, IPC.gov. There have been modules
+written by one person or a small number of people, and, as I
+understand it, they've all been either Americans or Europeans
+in these recent examples where they've decided they would use
+that privileged position they have to put something in. And
+some of those got noticed very quickly. The ones that inserted
+a cryptocurrency miner do tend to get caught pretty quickly
+because they drive your CPU (central processing unit) crazy.
+But it's--that's much--it's--that's I think a space we have
+much less of a systematic solution for except to say we should
+prefer those components that are built by teams rather than
+those components built by individuals.
+And I think you'll see--start to see more of that work its
+way into supply chain validation processes as well over time.
+I'll use this component that has more eyeballs on it, more
+positive attestations to the integrity of that software than
+this other piece that comes from an individual no matter what
+IP address range, what company, what country. You know, let's
+look at the substance of what's been created.
+Mr. Perlmutter. You mentioned crypto in your--in that
+answer. So I don't know how many thousand cryptos are out there
+now, types of currencies, but is there some--is the Treasury,
+is--you know, we have Defense here, but is somebody looking to
+see if those cryptos have some sort of malware in them, either
+intentional or not? I'm just curious whether that can create
+problems if we start taking cryptocurrencies generally as some
+sort of payment.
+Mr. Behlendorf. The answer is it's--yes, a lot of people
+look at that because it automatically has built into it a bug
+bounty where in many cases if you're able to find a
+vulnerability in a major cryptocurrency platform, you get
+rewarded with the ability to mint new dollars or transfer funds
+to yourself. And so one thing we've found is while there have
+been a lot of famous kind of hacks and things, compromises,
+that's a community that also perhaps takes security more
+seriously than many other parts of the open-source community
+because the stakes are so much higher.
+And I think if we're looking for a space where zero trust
+is really a first principle, it's very much in that community.
+But it should absolutely be in our mind as we think about
+central bank digital currencies, the use of distributed ledgers
+for supply train traceability, and these other kinds of
+opportunities that technology does provide.
+Mr. Perlmutter. Thank you. My time is about to expire. I'm
+going to yield back to the Chair. And thank you for this
+hearing, Mr. Chair and Mr. Ranking Member.
+Chairman Foster. Thank you. And before we bring this
+hearing to a close, I want to thank our witnesses for
+testifying before the Committee today. The record will remain
+open for two weeks for additional statements from the Members
+and for any additional questions the Committee may ask the
+witnesses.
+The witnesses are now excused, and the hearing is now
+adjourned.
+[Whereupon, at 12:06 p.m., the Subcommittees were
+adjourned.]
+
+Appendix
+
+----------
+
+Additional Material for the Record
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

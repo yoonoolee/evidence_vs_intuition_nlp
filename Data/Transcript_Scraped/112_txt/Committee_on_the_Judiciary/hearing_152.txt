@@ -1,0 +1,2241 @@
+- CLOUD COMPUTING: AN OVERVIEW OF THE TECHNOLOGY AND THE ISSUES FACING AMERICAN INNOVATORS
+
+[House Hearing, 112 Congress]
+[From the U.S. Government Publishing Office]
+
+CLOUD COMPUTING: AN OVERVIEW OF THE TECHNOLOGY AND THE ISSUES FACING
+AMERICAN INNOVATORS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INTELLECTUAL PROPERTY,
+COMPETITION, AND THE INTERNET
+
+OF THE
+
+COMMITTEE ON THE JUDICIARY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED TWELFTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+JULY 25, 2012
+
+__________
+
+Serial No. 112-122
+
+__________
+
+Printed for the use of the Committee on the Judiciary
+
+Available via the World Wide Web: http://judiciary.house.gov
+
+U.S. GOVERNMENT PRINTING OFFICE
+75-311                    WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S. Government Printing Office. Phone 202�09512�091800, or 866�09512�091800 (toll-free). E-mail,
+[email protected]
+.
+
+COMMITTEE ON THE JUDICIARY
+
+LAMAR SMITH, Texas, Chairman
+F. JAMES SENSENBRENNER, Jr.,         JOHN CONYERS, Jr., Michigan
+Wisconsin                        HOWARD L. BERMAN, California
+HOWARD COBLE, North Carolina         JERROLD NADLER, New York
+ELTON GALLEGLY, California           ROBERT C. ``BOBBY'' SCOTT,
+BOB GOODLATTE, Virginia                  Virginia
+DANIEL E. LUNGREN, California        MELVIN L. WATT, North Carolina
+STEVE CHABOT, Ohio                   ZOE LOFGREN, California
+DARRELL E. ISSA, California          SHEILA JACKSON LEE, Texas
+MIKE PENCE, Indiana                  MAXINE WATERS, California
+J. RANDY FORBES, Virginia            STEVE COHEN, Tennessee
+STEVE KING, Iowa                     HENRY C. ``HANK'' JOHNSON, Jr.,
+TRENT FRANKS, Arizona                  Georgia
+LOUIE GOHMERT, Texas                 PEDRO R. PIERLUISI, Puerto Rico
+JIM JORDAN, Ohio                     MIKE QUIGLEY, Illinois
+TED POE, Texas                       JUDY CHU, California
+JASON CHAFFETZ, Utah                 TED DEUTCH, Florida
+TIM GRIFFIN, Arkansas                LINDA T. SANCHEZ, California
+TOM MARINO, Pennsylvania             JARED POLIS, Colorado
+TREY GOWDY, South Carolina
+DENNIS ROSS, Florida
+SANDY ADAMS, Florida
+BEN QUAYLE, Arizona
+MARK AMODEI, Nevada
+
+Richard Hertling, Staff Director and Chief Counsel
+Perry Apelbaum, Minority Staff Director and Chief Counsel
+------
+
+Subcommittee on Intellectual Property, Competition, and the Internet
+
+BOB GOODLATTE, Virginia, Chairman
+
+BEN QUAYLE, Arizona, Vice-Chairman
+
+F. JAMES SENSENBRENNER, Jr.,         MELVIN L. WATT, North Carolina
+Wisconsin                            JOHN CONYERS, Jr., Michigan
+HOWARD COBLE, North Carolina         HOWARD L. BERMAN, California
+STEVE CHABOT, Ohio                   JUDY CHU, California
+DARRELL E. ISSA, California          TED DEUTCH, Florida
+MIKE PENCE, Indiana                  LINDA T. SANCHEZ, California
+JIM JORDAN, Ohio                     JERROLD NADLER, New York
+TED POE, Texas                       ZOE LOFGREN, California
+JASON CHAFFETZ, Utah                 SHEILA JACKSON LEE, Texas
+TIM GRIFFIN, Arkansas                MAXINE WATERS, California
+TOM MARINO, Pennsylvania             HENRY C. ``HANK'' JOHNSON, Jr.,
+SANDY ADAMS, Florida                   Georgia
+MARK AMODEI, Nevada
+
+Blaine Merritt, Chief Counsel
+
+Stephanie Moore, Minority Counsel
+
+C O N T E N T S
+
+----------
+
+JULY 25, 2012
+
+Page
+
+OPENING STATEMENTS
+
+The Honorable Bob Goodlatte, a Representative in Congress from
+the State of Virginia, and Chairman, Subcommittee on
+Intellectual Property, Competition, and the Internet...........     1
+
+The Honorable Lamar Smith, a Representative in Congress from the
+State of Texas, and Chairman, Committee on the Judiciary.......     3
+
+WITNESSES
+
+Robert W. Holleyman, II, President and Chief Executive Officer,
+Business Software Alliance (BSA)
+Oral Testimony.................................................     6
+Prepared Statement.............................................     8
+
+Justin Freeman, Corporate Counsel, Rackspace US, Inc.
+Oral Testimony.................................................    15
+Prepared Statement.............................................    17
+
+Daniel Chenok, Executive Director, Center for the Business of
+Government, International Business Machines Corporation (IBM)
+Oral Testimony.................................................    27
+Prepared Statement.............................................    28
+
+Daniel Castro, Senior Analyst, Information Technology and
+Innovation Foundation (ITIF)
+Oral Testimony.................................................    33
+Prepared Statement.............................................    35
+
+LETTERS, STATEMENTS, ETC., SUBMITTED FOR THE HEARING
+
+Prepared Statement of the Honorable Melvin L. Watt, a
+Representative in Congress from the State of North Carolina,
+and Ranking Member, Subcommittee on Intellectual Property,
+Competition, and the Internet..................................     2
+
+APPENDIX
+Material Submitted for the Hearing Record
+
+Letter from Robert W. Holleyman, II, President & Chief Executive
+Officer, Business Software Alliance (BSA)......................    64
+
+Supplemental Material submitted by Robert W. Holleyman, II,
+President & Chief Executive Officer, Business Software Alliance
+(BSA)..........................................................    67
+
+Report by TechAmerica Foundation.................................   114
+
+Prepared Statement of William Weber, General Counsel, Cbeyond,
+Inc............................................................   149
+OFFICIAL HEARING RECORD
+Material Submitted for the Hearing Record but not Reprinted
+
+111th Congress hearing entitled ECPA Reform and the Revolution in Cloud
+Computing, September 23, 2010, Subcommittee on the Constitution,
+Civil Rights, and Civil Liberties, Committee on the Judiciary,
+submitted by the Honorable Melvin L. Watt, a Representative in
+Congress from the State of North Carolina, and Ranking Member,
+Subcommittee on Intellectual Property, Competition, and the
+Internet. The hearing is not reprinted in this record but is
+available at the Committee and can be accessed at:
+
+http://judiciary.house.gov/hearings/printers/111th/111-149--
+58409.PDF.
+
+CLOUD COMPUTING: AN OVERVIEW OF THE TECHNOLOGY AND THE ISSUES FACING
+AMERICAN INNOVATORS
+
+----------
+
+WEDNESDAY, JULY 25, 2012
+
+House of Representatives,
+Subcommittee on Intellectual Property,
+Competition, and the Internet,
+Committee on the Judiciary,
+Washington, DC.
+
+The Subcommittee met, pursuant to call, at 12:10 p.m., in
+room 2141, Rayburn Office Building, the Honorable Bob Goodlatte
+(Chairman of the Subcommittee) presiding.
+Present: Representatives Goodlatte, Smith, Marino, Watt,
+Nadler, and Lofgren.
+Staff present: (Majority) Vishal Amin, Counsel; Olivia Lee,
+Clerk; and (Minority) Stephanie Moore, Subcommittee Chief
+Counsel.
+Mr. Goodlatte. Good afternoon. The Subcommittee of
+Intellectual Property, Competition, and the Internet will come
+to order. And I will recognize myself for an opening statement.
+Today we are holding a hearing on cloud computing. Cloud
+computing represents a fundamental shift in the delivery of
+services, software, and data storage. The move toward cloud
+services helps lower the barriers to entry and democratizes
+access to technology for small- and medium-sized businesses.
+Companies no longer need to purchase or build server farms
+or have an IT team to deal with security issues and hardware
+malfunctions. The cloud brings together reduced costs, device
+and location independence, reliability, scalability, security,
+and performance.
+But with new technology come new issues that deal with
+security, privacy, and market access. As more software becomes
+cloud or Internet-based, cybersecurity and privacy issues
+become intertwined.
+To set the stage for today's hearing, we have witnesses
+that can speak to the key service areas of cloud computing.
+These include infrastructure, platform, and software.
+Infrastructure as a service refers to storage where companies
+offer dedicated or share servers to customers to store their
+information. Platform as a service means that a company is
+delivering an operating system that allows others to build new
+apps on top of their system. The third flavor of cloud refers
+to software as a service. Here the software is installed in the
+cloud, eliminating the need for physical copies of software.
+Updates occur seamlessly, and customers access the software
+through the Internet.
+But apart from the overall technology, there are issues
+that companies in this industry are concerned about, and there
+are issues that our customers are concerned about. In the
+market access arena, cloud companies need to be able to operate
+globally, and restrictions placed on cloud providers in
+particular countries can effectively limit market access and
+prevent services from being delivered to and adopted by
+consumers.
+There are also issues dealing with international
+operability. As cloud computing services take hold, it is
+important for there to be clear rules of the road when it comes
+to industry standards and international rules. Cloud companies
+and customers also have a strong interest in ensuring that the
+privacy and security of the data stored and used on their
+systems is secure.
+For consumers, it means they want to know how their
+personal information is being used and protected. For
+companies, the concern is on security, ensuring that company
+trade secrets and business information is adequately protected
+and easily accessible in the cloud.
+I look forward to hearing from all of our witnesses on
+these and other issues that they are seeing, and also engage in
+a discussion on the issues that cloud computing faces going
+forward. We need to ensure that as this new American technology
+sector grows, it is able to compete on a level playing field
+abroad and to promote U.S. innovation technology and jobs.
+And with that, it is my pleasure to recognize the Ranking
+Member, the gentleman from North Carolina, Mr. Watt.
+Mr. Watt. Thank you, Mr. Chairman, and I think the Chairman
+has sufficiently outlined the range of issues that are, I
+think, important to this hearing. It is an important hearing
+about things in the cloud, which some people say that is where
+I always am. So I want to figure out what is going on up there.
+I think I will just submit my statement for the record. I
+will have some questions about how we can incentivize
+competition in the cloud. But except for that, I think the
+Chairman has outlined the issues. So I will submit my statement
+for the record.
+I know we have got a very short time window that we are
+operating in, and I think hearing the witnesses is a lot more
+important than hearing me. So I will yield back.
+Mr. Goodlatte. I thank the gentleman, and without
+objection, his entire statement will be made a part of the
+record.
+[The prepared statement of Mr. Watt follows:]
+
+Prepared Statement of the Honorable Melvin L. Watt, a Representative in
+Congress from the State of North Carolina, and Ranking Member,
+Subcommittee on Intellectual Property, Competition, and the Internet
+
+Thank you, Mr. Goodlatte.
+I will be brief. This hearing promises to cover a full range of
+issues involved with cloud computing. For many consumers, migration to
+the cloud has been driven by fast broadband connections, low-cost
+mobile devices and a mobile population that expects access to data and
+applications anywhere and anytime. This generation has become
+accustomed to the luxury of never having to delete an e-mail or
+document because of the ``unlimited'' and safe storage capabilities
+cloud computing affords. Organizations, including start-ups, are also
+embracing cloud computing because of the flexibility and agility it
+provides. A business, for example, can scale up or down its information
+technology ``IT'' usage according to demand with no long term
+commitments and no high imbedded costs.
+These extraordinary benefits to companies and individuals alike
+also come with increased concerns about reliability, security and
+privacy. The power outages earlier this month at Amazon's Web Services
+datacenter in North Virginia due to fierce thunderstorms throughout the
+Mid-Atlantic region of the U.S. raise lingering concerns about the
+reliability of cloud services. Two weeks later, the District's Metro
+subway system experienced a mysterious software failure that has been
+widely subject to speculation that its data center was hacked. As the
+migration to the cloud continues, companies must take care to ensure
+the security of their systems on several levels.
+There are multiple layers of privacy concerns as well. Although I
+am sympathetic to the barriers companies are facing internationally due
+to other countries' perceptions of our privacy laws, I am more
+concerned with the consumer's right to privacy within the cloud. While
+I continue to believe that consumer privacy is paramount, the cloud
+offers new and innovative ways for the technologically savvy criminal
+to exploit the cloud for nefarious purposes. The ``Backpage''
+prostitution scandal with Craigslist is just one example. The cloud
+must develop with caution to ensure that illegality does not flourish
+within the cloud, and Congress should update the Electronic
+Communications Protection Act (ECPA) to provide clear guidance on when
+and how law enforcement is entitled to access otherwise private data
+and communications.
+Finally, one area that I do not think has been given enough
+attention is competition in the cloud computing industry. Although news
+accounts suggest that competition is currently robust, there are
+concerns that it may be changing. I am interested in hearing more in
+this area--how we ensure continued competition and lower costs to
+businesses and consumers.
+With that, Mr. Chairman, I yield back.
+__________
+
+Mr. Goodlatte. And it is now my pleasure to recognize the
+Chairman of the Judiciary Committee, the gentleman from Texas,
+Mr. Smith.
+Mr. Smith. Thank you, Mr. Chairman. I just want to point
+out to those who are present that I believe this is the first
+time this Subcommittee or any Committee has had a hearing on
+this particular subject. And I think that, Mr. Chairman, that
+is to your credit. This is an important subject and an
+important area of tech that is going to do nothing but increase
+in the future.
+I have a short opening statement, and then we will get on
+to the panelists.
+America's economic success has been built on innovation.
+Cloud computing can transform everything from business
+operations, data storage, and analysis to the delivery of
+software and services to businesses and consumers alike. The
+cloud industry is growing rapidly. Wall Street Journal reported
+that technology cloud services worldwide had $16 billion in
+revenue in 2009, and cloud service revenue is expected to
+double this year and hit $73 billion by 2015.
+Because cloud providers can offer more robust data services
+at a lower cost than would be possible for a company to
+replicate for itself, the move to the cloud will help companies
+reduce information technology costs and add to their technical
+capabilities.
+But as these new technologies and products develop, it is
+clear that certain foreign governments have taken steps to
+disadvantage American cloud companies by imposing barriers to
+market access. Some of the barriers include restrictive
+regulations or policies that mandate the use of certain
+technologies or require a cloud service to be placed in country
+as a condition of doing business.
+Cloud computing relies on the seamless flow of data across
+borders and international interoperability. Unfortunately, some
+countries have adopted rules that limit the specific types of
+data that can leave their borders, and have put in place
+restrictive regulatory frameworks.
+Some countries also have spread deliberate misinformation
+about U.S. laws, like the PATRIOT Act, saying that it
+negatively affects the security and privacy protections that
+U.S. cloud providers offer compared to European providers.
+These actions hurt the competitiveness of American companies
+and cost Americans jobs.
+Today's witness panel represents a range of cloud services,
+and I am pleased that Rackspace is here today. They are a San
+Antonio, Texas-based company that has operations throughout the
+world. Founded in the late 1990's, Rackspace now has nearly
+half of the Fortune 100 as clients. They provide cloud
+computing services for computing, cloud files for storage, and
+cloud applications for e-mail collaboration and file backups.
+They also manage web-based IT systems for small-, medium-, and
+large-sized business, and offers scalable services depending on
+its customers' needs.
+Though the technology of cloud computing is new, the issues
+are not. As the U.S. government develops domestic policies and
+our policies with our international trading partners, we need
+to ensure that American innovators are treated fairly.
+Thank you, Mr. Chairman, and I will yield back.
+Mr. Goodlatte. I thank the Chairman.
+Mr. Watt. Mr. Chairman?
+Mr. Goodlatte. The gentleman from North Carolina is
+recognized.
+Mr. Watt. I just wanted to make one minor correction to
+what Chairman Smith said. There was a hearing on Electronic
+Communications Protection Act reform and cloud computing. It
+was done September 23, 2010, by Jerry Nadler's Subcommittee,
+the Subcommittee on the Constitution of this Committee. And so
+technically we have not had a hearing specifically on the
+cloud, but this was an aspect of it, so I will submit the
+record of that hearing with unanimous consent just so it will
+all be part of the record.
+Mr. Goodlatte. Without objection, the noting of the
+previous hearing in the Constitution Subcommittee will be duly
+noted.*
+---------------------------------------------------------------------------
+*The hearing submitted by Mr. Watt, entitled ECPA Reform and the
+Revolution in Cloud Computing, is not reprinted in this hearing record
+but is available at the Committee and can be accessed at http://
+judiciary.house.gov/hearings/printers/111th/111-149--58409.PDF.
+---------------------------------------------------------------------------
+Without objection, other Members' opening statements will
+be made a part of the record.
+Mr. Smith. I said this was the first time this Subcommittee
+had had such a hearing on this----
+Mr. Watt. Or any Committee. That is where you went awry.
+But I acknowledge that technically you were probably----
+Mr. Smith. Let us not waste any more time on that.
+Mr. Goodlatte. We will be pleased to begin the first
+hearing on cloud computing of this Subcommittee by hearing from
+our witnesses. We have a very distinguished panel of witnesses
+today.
+Each of the witnesses' written statements will be entered
+into the record in its entirety, so I ask that each witness
+summarize his testimony in 5 minutes or less. To help you stay
+within that time, there is a timing light on your table. When
+the light switches from green to yellow, you will have 1 minute
+to conclude your testimony. When the light turns red, it
+signals that the witness' 5 minutes have expired.
+And as is the custom of this Subcommittee, before I
+introduce the witnesses, I would like them to stand and be
+sworn.
+[Witnesses sworn.]
+Mr. Goodlatte. Thank you very much, and please be seated.
+Our first witness is known to and a good friend of many
+Members of the Judiciary Committee, Mr. Robert Holleyman. He
+serves as the President and CEO of the Business Software
+Alliance. He has headed BSA since 1990, expanding their
+operations to more than 80 countries and launched 13 foreign
+offices in addition to their D.C. headquarters.
+Mr. Holleyman has been named one of the 50 most influential
+people in the intellectual property world by the international
+magazine Managing IP. He was also named by the Washington Post
+as one of the key players in the U.S. government's
+cybersecurity efforts for his work on behalf of industry on
+national cybersecurity policy.
+Before joining BSA, Mr. Holleyman served as counsel in the
+U.S. Senate and as an attorney with a leading law firm in
+Houston, Texas. He earned his Bachelor of Arts degree at
+Trinity University in San Antonio, Texas, and his Juris Doctor
+from Louisiana State University Law Center in Baton Rouge. He
+also completed the Executive Management Program at the Stamford
+Graduate School of Business.
+And it is my pleasure to turn to the Chairman of the
+Committee on the Judiciary, Mr. Smith, to recognize and
+introduce our second witness.
+Mr. Smith. Thank you again, Mr. Chairman. I am happy to
+introduce Mr. Justin Freeman, Corporate Counsel of Rackspace
+Hosting based in San Antonio.
+Rackspace, founded in 1998, has grown into a multinational
+company with operations spanning the globe. They provide cloud
+computing services and manage web-based IT systems for
+businesses of all sizes.
+Mr. Freeman is part of Rackspace's legal team and deals
+primarily with the rapidly expanding field of cloud computing.
+He represents Rackspace in technically complex enterprise
+transaction agreements, leads product review and development
+efforts, and directs public policy matters with a focus on
+cloud computing security and privacy issues. He has an
+extensive technical background, including specialization in
+network security systems and patient care, critical healthcare
+IT systems.
+Mr. Freeman received his law degree from Southern Methodist
+University School of Law and his undergraduate degree from the
+University of Texas at Austin. We are pleased he is here today
+to talk more about this important and growing sector of our
+tech economy. Welcome, Mr. Freeman.
+Mr. Goodlatte. Mr. Freeman, welcome. And, Mr. Chenok,
+welcome. Our fourth witness is--third witness is Mr. Dan
+Chenok, Executive Director of the IBM Center for the Business
+of Government. The center connects public management research
+with practice, helping executives improve the effectiveness of
+government with practical ideas, which has included several
+center reports that address cloud computing.
+Mr. Chenok also serves as the Chair of the Federal
+Information Security and Advisory Board, which has explored
+numerous issues where security and privacy intersect with cloud
+computing.
+Before joining IBM, he was a Senior Vice President for
+Civilian Operations with Pragmatics. He also served in the
+Office of Management and Budget, in the Executive Office of the
+President, as the Branch Chief for Information Policy and
+Technology. Mr. Chenok left the government in 2003.
+He received his Master of Public Policy from Harvard
+University John F. Kennedy School of Government and his B.A.
+from Columbia University.
+Our fourth witness is Mr. Daniel Castro, Senior Analyst at
+the Information Technology and Innovation Foundation, ITIF. Mr.
+Castro specializes in IT policy, including issues relating to
+data privacy, e-commerce, e-government, and information
+security and accessibility. Before joining ITIF, Mr. Castro
+worked as an IT analyst at the Government Accountability
+Office, GAO, and was a Visiting Scientist at the Software
+Engineering Institute in Pittsburgh, Pennsylvania.
+Mr. Castro received his B.S. in Foreign Service from
+Georgetown University and an M.S. in Information Security
+Technology and Management from Carnegie Mellon University.
+Welcome to you all, and we will begin with Mr. Holleyman.
+
+TESTIMONY OF ROBERT W. HOLLEYMAN, II, PRESIDENT AND CHIEF
+EXECUTIVE OFFICER, BUSINESS SOFTWARE ALLIANCE (BSA)
+
+Mr. Holleyman. Chairman Goodlatte, Ranking Member Watt,
+Chairman Smith, thanks to companies like those who are in the
+Business Software Alliance and sitting here at this table,
+America is the top player in cloud computing. But we better
+watch out. Other countries are doing everything they can to
+knock us off the block.
+They have seen the forecasts that we all have seen. Public
+IT cloud revenue, which exceeded $28 billion last year, will
+grow to more than $73 billion by 2015. But the big thing that
+is happening is the innovation enabled by the cloud. A recent
+study found that cloud-driven innovation across all sectors
+will generate more than a trillion dollars in revenue and
+millions of jobs in the years ahead.
+Because the stakes are so high, and because of U.S. cloud
+companies' early leadership, some countries are taking policy
+steps to shut us out of their markets. The stakes of this are
+enormous, and if we want to get things right and to continue
+leading in the cloud, there is an urgent need for Congress and
+the Administration to forge an open and competitive global
+landscape.
+I would like to cover three things today: first, the scope
+of the problem, second, the mix of public policies that are
+needed to address it, and, third, some specific things that
+this Committee can do.
+The problem before us is unfolding around the world. As was
+indicated in my introduction, BSA has 13 foreign offices, and
+we have done a lot of on-the-ground work and two ground-
+breaking studies about the cloud. One is a global ``Cloud
+Scorecard'' that looks at 80 percent of the global ICT market
+and ranks the competitiveness and a host of factors that affect
+the U.S. and other countries, and the ability of companies to
+succeed in the cloud. And the second is ``Lockout,'' which is a
+report about a new wave of IT barriers that are being erected
+internationally.
+Our research shows that governments in many countries are
+doing things to carve the cloud up into country-sized pieces so
+that local players can dominate their own backyards without
+competition. For example, in the name of privacy and security,
+we are seeing some countries require data to be hosted inside
+their borders, even non-sensitive commercial information. You
+would have to build a local data center to do business in some
+of these countries, and that could put a prohibitive burden on
+international cloud players.
+Some countries are even adopting rules that would
+explicitly prevent the transfer of personal information outside
+their borders. Now these are bad signs for the global economy,
+but especially for America since we are so heavily dependent on
+selling products and services overseas.
+It is critical for Congress and the Administration to show
+the world a better mix of cloud policies. And we can do that by
+getting three things right. First, we need to ensure that
+privacy and security rules protect consumers while also
+encouraging robust digital commerce. Second, we need to promote
+a free trade agenda that ensures that data can flow across
+borders. And third, we need to promote innovation in the cloud
+the same way we promote it everywhere else. That means
+protecting innovators' rights when they bring new products to
+market, and it means stopping all forms of cybercrime and
+theft.
+This Committee has an important role to play in this issue.
+For example, there is a myth that cloud computing puts an end
+to software piracy. In reality, piracy is evolving. This
+Committee can ensure that we have tools to vigorously enforce
+laws against IP theft no matter where that technology or how
+that technology is used. Secondly, this Committee can take a
+lead role in reforming the Electronic Communications Privacy
+Act, ECPA. In the cloud era, digital files should be subject to
+the same laws and protections as paper files. And finally, we
+need to dispel myths about the PATRIOT Act. Foreign governments
+are scaring customers away from U.S. cloud services by
+portraying our law as unusually invasive. The fact is every
+government has authority to access data to protect national
+security, and everyone needs to understand that.
+We look forward to discussing these issues with you and to
+working with the Committee. The future of the cloud computing
+industry and American leadership depends on your work. Thank
+you.
+[The prepared statement of Mr. Holleyman follows:]
+
+------------
+See Appendix for the attachments submitted with this statement.
+
+__________
+Mr. Goodlatte. Thank you, Mr. Holleyman.
+Mr. Freeman, welcome.
+
+TESTIMONY OF JUSTIN FREEMAN, CORPORATE COUNSEL, RACKSPACE US,
+INC.
+
+Mr. Freeman. Thank you, Mr. Chairman. On behalf of both
+myself and Rackspace, I would like to express my appreciation
+for the time of this Committee and the opportunity to provide
+some additional insight into the key elements of cloud
+computing, and address some of the primary challenges of the
+competitiveness of American cloud providers.
+Congressman Smith, I appreciate your introduction of
+Rackspace.
+With our focus on fanatical support, which is a fierce
+commitment to a customer-oriented set of core values, Rackspace
+has grown rapidly and now serves more than 170,000 customers in
+120 countries, including most global Fortune 100 companies.
+Rackspace focuses on providing the cloud infrastructure and
+support technologies that enable the modern economy to benefit
+from the cost savings that cloud computing provides. Our latest
+focus is open stack, which is an open source cloud platform
+jointly developed with NASA. Open cloud technologies are the
+forefront of the cloud technology revolution. By fostering
+industry standards for cloud computing, which span multiple
+providers, open technologies advance security and help
+eliminate proprietary lock-in, which would be a requirement
+that cloud applications be tied to a specific provider,
+permitting cloud users to move their applications and data from
+provider to provider as they see fit.
+While the phrase ``the cloud'' encompasses a set of
+technologies, services, and use cases, far too broad to go into
+detail here, I want to provide you with a sense of the critical
+elements of cloud computing. At its most basic, cloud computing
+is simply the use of remote computing resources, relying on the
+storage and processing capabilities of a remote system rather
+than, say, your local laptop.
+We have all been using the cloud in some fashion for quite
+a while. Whenever we store e-mails with a web service like
+Gmail or Hotmail, we are essentially ceding control of that
+data to the cloud.
+One of the most critical impacts of the cloud is of the
+shift to using remote shared resources, permits businesses to
+consume information technology in a utility or a pay-for-what-
+you-use model. This cost-effective delivery method makes
+information technology resources scalable, dynamic, and
+flexible, in turn driving efficiency and innovation across all
+sectors of the economy.
+In order to continue promoting the resulting economic
+growth, it is essential we establish a supportive legal and
+regulatory environment, which is alignment with the critical
+cloud technologies.
+We see two major barriers to the ongoing competitiveness of
+American cloud providers: market access issues, which were
+substantially informed by privacy concerns, and the
+exploitation of the U.S. patent system by patent trolls.
+Concerns about privacy and security of data have become
+heightened as businesses hand off their data to systems in the
+cloud. And they are a major barrier to the competitiveness of
+American cloud companies internationally. Concerns about data
+privacy limits, the willingness of foreign companies to do
+business with United States firms, and threatening to exclude
+American companies from competing abroad.
+The lack of international privacy standards is a growing
+source of distrust amongst regulatory agencies seeking to
+enforce their domestic laws, and businesses struggling to
+ensure their compliance. There is a perception, even if
+unfounded, that U.S. privacy protections are insufficient to
+protect the data which is stored either on U.S. soil or with
+U.S. companies. This concern results in a reluctance by foreign
+companies to do business with U.S. cloud companies, and we
+increasingly see regulatory authorities, especially in the EU
+and European economic area, moving in the direction of denying
+U.S. cloud providers access to the European market.
+It is critical to the ongoing competitiveness of American
+cloud companies that we take the lead and move toward to a
+consistent international privacy and data transfer framework
+while also providing clear interpretation of U.S. law which
+impact the obligations of cloud companies at managing the data
+of foreign citizens and businesses.
+The second major threat to U.S. cloud providers is the
+exploitation of the patent system by so-called patent trolls.
+These are non-practicing entities which gather portfolios of
+patents with the sole intent of using them to extract
+settlements from companies unwilling to engage in expensive and
+protractive litigation.
+These patent trolls are not protecting inventors or
+benefitting startups. To the contrary, a recent study
+calculated that their predatory tactics have resulted in the
+direct costs in excess of $29 billion to the industry, with
+approximately 40 percent of those costs formed by small and
+medium businesses.
+Patent litigation costs routinely exceed $2 to $3 million
+per suit, and patent trolls seek settlement after settlement in
+order to artificially increase the value of a patent portfolio
+without any relation to its actual market value. The result is
+a cascading extortionist abuse of the patent system.
+Cloud technologies are advancements to existing information
+technologies and require a fair and balanced patent system in
+order to remain innovative. Cloud and open technology standards
+cannot survive in this environment. It is essential that we
+protect the growing use of standardized cloud technologies, the
+benefits they bring, and allow cloud companies to reinvest in
+technologies, jobs, and innovation instead of revenue draining
+litigation.
+We at Rackspace share your commitment toward creating
+successful legislation that enhances U.S. business
+competitiveness, while ensuring the Internet remains a free and
+open driver of innovation for our long-term future.
+Thank you for your time. We look forward to working closely
+with you.
+[The prepared statement of Mr. Freeman follows:]
+
+__________
+
+Mr. Goodlatte. Thank you, Mr. Freeman.
+Mr. Chenok, welcome.
+
+TESTIMONY OF DANIEL CHENOK, EXECUTIVE DIRECTOR, CENTER FOR THE
+BUSINESS OF GOVERNMENT, INTERNATIONAL BUSINESS MACHINES
+CORPORATION (IBM)
+
+Mr. Chenok. Thank you, Chairman Goodlatte, Ranking Member
+Watt, Chairman Smith, and the entire Subcommittee.
+Mr. Goodlatte. You may want to turn your microphone on
+there and pull it close.
+Mr. Chenok. Will do. Thank you, Chairman Goodlatte, Ranking
+Member Watt, Chairman Smith, and the Subcommittee for the
+opportunity to speak today. And thank you for the introduction
+earlier.
+I am Dan Chenok, Executive Director of the IBM Center for
+the Business of Government. The center helps government
+executives improve the effectiveness of their agencies and
+programs and has addressed cloud computing from a number of
+perspectives over the past few years. My testimony today draws
+on this and other experience with the growth of cloud
+computing.
+Moving the cloud brings numerous demonstrable and positive
+outcomes, such as cost savings, shared resources, increased
+program effectiveness, energy and environmental improvements,
+and, as others have noted today, innovation.
+I will focus today on three key issues that we see cloud
+can best be leveraged now and in the future. First, how to
+implement cloud efficiently, second, how best to address
+security, and third, how to leverage the cloud's global model
+effectively.
+The key for success with cloud implementation is a strategy
+to define how to increase efficiency, save costs, and improve
+performance of programs in the cloud. A small investment in up
+front planning can pay large dividends in measured outcomes
+from any cloud migration because most entities integrate cloud
+into their existing legacy environments. They must make choices
+as to what technologies, processes, and data should migrate to
+the cloud over what period of time and at what cost.
+I would note that the Federal Government has already begun
+to realize the benefits of cloud computing. Movement to the
+cloud can fundamentally transfer how Federal agencies leverage
+IT. And
+efforts such as the OMB cloud strategy and GSA FedRAMP
+initiatives are spurring progress. Our center has produced
+papers
+on cloud implementation available at our website,
+www.businessof
+government.org.
+With respect to security, despite perceived concerns about
+security risks, cloud can provide for an environment that is
+superior for applying many critical security measures.
+Centralizing data storage and governance in the cloud can
+actually provide better security at a lower cost than is the
+case with traditional computing environments.
+Moreover, cloud can improve certain key security practices,
+such as detection of threats, remediation to minimize those
+threats, prediction of where threats may occur next, and
+protection of data and devices.
+Regarding the global model, the benefits of cloud computing
+increase when providers can move computing and data power to
+locations that are most cost-effective rapidly and with no loss
+of service quality or security. Real time movement of computing
+resources points out the need to understand, as others have
+noted today, issues involved in cross-border data flows in the
+cloud. Most issues in this space are best addressed via
+contracts between parties who can designate jurisdiction and
+establish clear provisions for ownership, privacy, and
+security.
+I would like to highlight several issues that impact the
+cloud's global nature. These areas are the extent to which
+government can access data across borders, international
+privacy collaboration, and open standards.
+The extent to which government can access data across
+borders can be a subject of confusion among cloud providers and
+users. However, as has been indicated today, many nations have
+similar domestic data policies. A recent white paper from the
+law firm Hogan Lovells found that each of the 10 countries
+studied vests authority in the government to require a cloud
+service provider to disclose customer data in certain
+situations. And in most instances, this authority enables the
+government to access data physically stored outside the
+country's borders.
+And as Chairman Smith indicated in his opening remarks,
+this study also indicated that in a number of cases,
+protections from government intrusion in the U.S. were actually
+greater than in other countries.
+Regardless of jurisdiction, individuals whose data resides
+in the cloud will have greatest confidence if, to the extent
+permissible under law, they do not lose protection solely based
+on where their data is stored and processed.
+Cloud computing would also benefit from an international
+regime that promotes privacy and supports efficiency cross-
+border data flows. While complete harmonization of rules is not
+practical or desirable, countries may be able to recognize each
+other's rules, including privacy safeguards.
+Finally, the benefits of cloud can best be achieved by
+reliance on open standards that promote data portability and
+interoperability, which are critical for successful adoption
+and delivery of cloud-based solutions. An open standards
+approach would also help to address location-based mandates.
+While certain practices by governments to locally-sourced cloud
+computing may be understandable, governments could enhance the
+cloud's efficiency and cost-effectiveness by avoiding local
+mandates and leveraging and encouraging an open global model.
+Chairman Goodlatte, Ranking Member Watt, Chairman Smith,
+the Subcommittee, thank you for the opportunity, and I welcome
+any questions.
+[The prepared statement of Mr. Chenok follows:]
+
+Prepared Statement of Daniel Chenok, Executive Director,
+Center for The Business of Government, IBM
+
+Good afternoon, and thank you Chairman Goodlatte, Ranking Member
+Watt, and the entire Subcommittee for the opportunity to speak with you
+about cloud computing.
+I am Dan Chenok, Executive Director of the Center for The Business
+of Government at IBM. The Center connects public management research
+with practice. Since 1998, we have helped public sector executives
+improve the effectiveness of government with practical ideas and
+original thinking. We sponsor independent research from the academic
+and non-profit sectors, and we create opportunities for dialogue on a
+broad range of public management topics. The Center has addressed cloud
+computing from a number of perspectives over the past few years.
+I also serve as Chair of the Information Security and Privacy
+Advisory Board, which is the chartered under the Federal Information
+Security Management Act (FISMA) to advise the government about
+information security and privacy issues affecting civilian Federal
+agencies, and has addressed security and privacy issues involved in
+cloud computing.
+My testimony today draws on this and other experience that I have
+had with the growth of cloud computing, primarily with respect to how
+government can best promote the efficient, secure, and cost-effective
+use of this technology. After addressing context and benefits, I will
+focus on three key issues that impact how cloud can best be leveraged,
+now and in the future.
+
+CONTEXT
+
+Many descriptions of cloud computing are cited across government
+and industry, including a formal definition from the National Institute
+of Standards and Technology (NIST). I would offer that the cloud
+includes environments where physically distributed computing
+resources--including infrastructure, applications, or databases--
+connect in real time to help a company, consumer, or government agency
+perform a transaction, service, or inquiry.
+Cloud services can be provided over the public Internet, but can
+also be done through connections over networks that run independently.
+Government agencies often establish clouds independent of the open
+Internet due to perceived risks of making data available over public
+channels--but the government is moving in the direction of more use of
+the open Internet for cloud as well.
+Indeed, whether consumers, companies, and governments realize it,
+they are already in the cloud all the time. Many popular email
+services, including Gmail, Hotmail and Yahoo, function over the
+distributed networks that constitute the cloud, and provide access to
+millions of people. Businesses and governments are increasingly using
+the cloud for email as well.
+
+BENEFITS OF THE CLOUD
+
+Cloud computing is much in the news and lexicon these days.
+Questions about the cloud include: does cloud help end users, will
+cloud help businesses and federal agencies carry out their mission, and
+will cloud reduce costs? The answer to all of these questions is
+``yes.''
+Moving to the cloud brings numerous demonstrable benefits:
+
+Cost Saving. Cloud computing allows customers to pay for
+just the computer resources that they use. They can avoid both a large
+initial upfront expenditure in hardware and software, and ongoing
+operating and maintenance expenses
+for their own IT. Resource usage can be monitored, controlled, and
+reported
+in a transparent way for both the provider and consumer of the cloud
+service. Indeed, a Brookings Institution study found that ``. . .
+agencies generally saw between 25 and 50 percent savings in moving to
+the cloud;'' this same report refers to other studies which claim
+savings from 39% to 99%. (http://www.brookings.edu/ /media/research/
+files/papers/2010/4/07%20cloud%20
+computing%20west/0407_cloud_computing_west)
+
+Increased Effectiveness. Network outages are an ongoing
+challenge for IT departments. Cloud computing can offer a higher level
+of service and reliability, reduce the harm that can come from network
+outages, and provide for a more immediate response to emergency
+situations by enabling real-time transfer of IT services to areas that
+are not affected by emergency.
+
+Optimized Computing Usage. IT service providers see cloud
+computing not only as a means to better serve their customers, but also
+to optimize data center usage. In many centers, only a small fraction
+of computing capacity is used at any time; the remaining capacity sits
+idle. Cloud enables flexible scaling across customers based on demand,
+which increases capacity and cost-effectiveness.
+
+Energy and Environmental Improvements. While most
+computers and servers are certified as energy efficient, cloud takes
+green computing one step further--decreasing electricity use, slashing
+carbon emissions, and reducing IT costs through cost-effective use of
+computer and network infrastructure. Cloud also opens avenues for
+telecommuting (e.g., through internet-based email), which brings added
+environmental benefits.
+
+Innovation and Transformation. Cloud computing can help
+to spur innovation and transform operations. In the next several years,
+andthe use of the cloud to pave the way for for business model
+innovation is likely to increase significantly--innovation that
+includes entering new lines of business, reshaping an existing
+industry, or transitioning into a new business role.
+
+In addition, and as has been noted by both the current and previous
+Federal Chief Information Officers at the Office of Management and
+Budget (OMB), Federal computer users have lagged behind industry in IT
+productivity gains from IT, with outdated applications and burdensome
+rules governing acquisition and management of IT services. Movement to
+the cloud can fundamentally transform how federal agencies leverage IT,
+and to make federal workers far more effective in their use of IT.
+The Federal government has, of course, already begun to realize the
+benefits of cloud computing. Examples include:
+
+the development and implementation of governmentwide and
+specific cloud strategies from OMB and agencies,
+
+the recent introduction of the General Services Agency
+(GSA) Federal Risk and Authorization Management Program (FedRAMP)
+program that fosters interoperability in cloud services across
+agencies. Indeed, other governments are studying FedRAMP's
+implementation closely to possibly emulate the model; and
+
+work by the National Institute of Standards and
+Technology (NIST) to clarify and guidance on the cloud.
+
+KEY ISSUES FOR DISCUSSION
+
+Today, I would like discuss three main challenges for government in
+order to realize the full benefits of the cloud:
+
+how to implement cloud efficiently,
+
+how best to address security in the cloud, and
+
+how to leverage the cloud's global model effectively.
+
+Implementation
+Key for success in any cloud implementation is a strategy to define
+how to increase efficiency, save costs, and improve performance of
+programs in the cloud. A small investment in upfront planning can pay
+large dividends in measured outcomes from any cloud migration. This is
+especially important because most entities do not build brand new
+computing environments where all activities operate in the cloud.
+Rather, they integrate cloud-based infrastructure, applications, and
+services into existing legacy environments, and must make choices as to
+what technologies, processes, and data should migrate to the cloud,
+over what period of time, and at what cost. To guide those choices,
+organizations need a sound up-front strategy that considers investments
+relative to resource availability and mission objectives.
+The IBM Center for the Business of Government has produced a number
+of papers that address cloud implementation, especially in the Public
+Sector. For example:
+
+In a 2009 report for the Center, ``Moving to the Cloud:
+An Introduction to Cloud Computing in Government,'' David Wyld provides
+non-technical executives with a roadmap to understand key questions to
+ask as their organizations move to the cloud. He frames key challenges
+facing government leaders in the space, including scalability,
+security, open standards, procurement, and legal issues.
+
+In 2010, author Costas Panagopoulos wrote in our semi-
+annual journal, The Business of Government, about the lessons learned
+in cloud implementation by the Census Bureau (``Counting on the Cloud:
+Early Reflections on the Adoption of Cloud Computing by the U.S. Census
+Bureau''). He outlines key lessons that include the need to start early
+in cloud design, to partner with other adopters, and to correct
+problems as soon as they arise.
+
+Many perspectives on how best to implement cloud appear
+on our blog site, concentrated primarily in ``Strategies to Cut Costs
+and Improve Performance.'' (http://www.businessofgovernment.org/blogs/
+cut-costs-and-improve-performance)
+
+In addition, much research and experience demonstrates that to
+maximize the cloud's benefits, organizations must move aggressively to
+adopt more standardized offerings across organizations. That is, they
+must change current technology, procurement, and business processes to
+conform to best commercial practice, rather than modifying the cloud to
+fit existing organizational processes. Standardized offerings provide
+economies of scale and allow providers to automate processes that
+result in lower costs for users.
+In addition, while savings can be achieved by migrating current
+applications, not all existing applications can run in a cloud
+efficiently. Organizations can collect data on how applications are
+being used to make informed decisions about which applications to
+migrate to the cloud, and in what order. This data can also help to
+sunset unneeded applications and optimize IT more efficiently and
+effectively.
+Finally, cloud implementation can enable innovation. Developers who
+come together over cloud-based platforms that rely on open standards
+can share ideas and test approaches in ways that take advantage of the
+wisdom of many, rather than the few who work on a custom application.
+
+Security
+Relinquishing direct control of the IT infrastructure by adopting
+the cloud has raised perceived concerns about security risks. Cloud
+computing, however, can provide for an environment that is inherently
+superior for applying many critical security measures. By centralizing
+data storage and governance, clouds can actually provide better
+security at a lower cost than can traditional computing environments.
+Cloud environments can also provide differentiated levels of security,
+reflecting the fact that some data requires a great deal of protection
+while other data requires far less. Cloud providers can work with their
+customers to deliver security efficiently and effectively based on
+different levels of risk--security services can be built into the cloud
+up front to optimize protection at a given risk level.
+Moreover, by facilitating uniform management practices across a
+distributed computing environment, cloud can improve certain key
+security practices, such as:
+
+Detection--the cloud creates the ability to link together
+millions of security nodes on the net. By working together, these nodes
+can better detect new threats how to implement cloud efficiently.
+
+Remediation--Quick remediation is vital for cyber
+security--the less time the malware is present, the better the
+protection. The cloud allows implementation much more rapidly than the
+older model of having to load the solution onto multiple machines.
+
+Prediction--Increasingly, cyber security focuses on
+limiting the ability of bad actors to act in the first place. The cloud
+helps security teams to identify machines that create and disseminate
+malware, and to quickly isolate those machines--blocking their ability
+to infect customer systems.
+
+Data and Device Protection--A significant security
+threat, and one that has impacted the Federal government, is breach of
+data, especially from lost or stolen laptops or mobile devices. Cloud
+provides for centrally stored data with continuous and automated
+network analysis and protection, so that if a device is lost, the data
+and applications are not lost with it (unless the user has been allowed
+to load them separately onto the device).
+
+As noted earlier, I also Chair the Federal Information Security and
+Privacy Advisory Board (ISPAB). Building off a Board-hosted forum on
+best practices in this space several years ago, the ISPAB has
+highlighted numerous ways that the Federal government can best
+addresses security in the cloud, especially with regard to the
+operation of the FedRAMP program and the monitoring of traffic that
+flows in and out of agencies over cloud-based applications (see more at
+http://csrc.nist.gov/groups/SMA/ispab).
+
+Global Model
+The cloud can be either localized or global in nature. The benefits
+of cloud computing increase, however, when providers can move computing
+and data power to locations that are most cost-effective, rapidly and
+with no loss of service quality or security. For example, consider the
+recent storm and power outages in Washington, DC--in a situation like
+this, using a cloud that allows the online relocation of computing
+resources would provide continuity of service far more quickly and
+cheaply than a platform restricted to local computing locations.
+Real-time movement of computing resources points out the need to
+understand issues involved in cross-border data flows in the cloud. Of
+course, data has moved across borders for decades--airlines,
+pharmaceuticals, telecommunications, and technology companies are among
+those with long history here. The cloud has amplified attention to
+cross-border data flow issues such data sovereignty and jurisdictional
+questions. Most of these issues are best addressed via contracts
+between solution providers and customers; contracts can designate
+jurisdiction and establish clear provisions for ownership, privacy,
+security, and consumer protection.
+I would like to highlight some recent findings and observations in
+three areas that affect the cloud's global nature and American
+competitiveness in this space--the extent that government can access
+data across borders, international privacy collaboration, and open
+standards.
+
+Government Access to Data
+The extent to which governments can access data across borders is a
+subject of confusion among cloud providers and users. However, many
+nations have similar domestic data policies. A recent HoganLovells
+White Paper, ``A Global Reality: Governmental Access to Data in the
+Cloud,'' reveals that U.S. law provides some greater privacy
+protections:
+
+``In jurisdictions outside the United States, there is the real
+potential of data relating to a person, but not technically
+``personal data,'' stored in the Cloud being disclosed to
+governmental authorities voluntarily, without legal process and
+protections. In other words, governmental authorities can use
+their ``influence'' with Cloud service providers--who, it can
+be assumed, will be incentivized to cooperate since it is a
+governmental authority asking--to hand over information outside
+of any legal framework. United States law specifically protects
+such data from access by the government outside of legal
+process.''
+
+Furthermore, the paper notes that ``it is not possible to isolate
+data in the Cloud from governmental access based on the physical
+location of the Cloud service provider or its facilities. Governmental
+access to data in the Cloud is ubiquitous, and extends across
+borders.'' As the paper concludes, a detailed analysis of ten countries
+revealed that:
+
+``every single country that we examined vests authority in the
+government to require a Cloud service provider to disclose
+customer data in certain situations, and in most instances this
+authority enables the government to access data physically
+stored outside the country's borders, provided there is some
+jurisdictional hook, such as the presence of a business within
+the country's borders. Even without that ``hook,'' MLATs allow
+access to data across borders.'' [Governments cooperate with
+each other through ``mutual legal assistance treaties''
+(MLATs)]
+
+Regardless of jurisdiction, individuals whose data resides in the
+cloud will have greatest confidence if, to the extent permissible under
+law, they do not lose protection solely based on where their data is
+stored and processed.
+
+International Privacy Collaboration
+With the understanding that many nations have similar laws and that
+where a company stores its data should not reduce protections,
+consumers, enterprises, and governments can look at cloud providers'
+experience with providing security and privacy protections in order to
+make informed decisions about how to use applications in the cloud.
+In addition, cloud computing would benefit from an international
+regime that promotes privacy while supporting the efficient flow of
+data across borders. While it is neither practical nor desirable to
+seek the complete harmonization of rules, countries may be able to
+recognize each other's rules (including privacy safeguards) to the
+greatest extent possible, and to honor those rules through means such
+as contracts and service level agreements (SLAs). This approach to
+interoperability would not require the same laws in each jurisdiction,
+but it would allow data and computing transfers to take place over the
+cloud based on shared understanding of how law and policy should apply.
+Initiatives such as the US-EU safe harbor, the use of binding
+corporate rules, and the cross-border privacy initiative in APEC serve
+as building blocks for such an interoperable international privacy
+regime. The benefits of such a regime would extend beyond cloud
+computing; they would support any entity that builds data centers in
+different jurisdictions. But because cloud computing relies heavily on
+the efficiencies gained from real-time data flows across different
+countries, the adoption of an interoperable privacy regime would
+facilitate cost-effective adoption.
+
+Open Standards
+The benefits of cloud can best be achieved by reliance on open
+standards that promote data portability and interoperability, which are
+critical for successful adoption and delivery of cloud-based solutions.
+Open standards enable users to reap value from a diversity of cloud
+providers, and to move data and applications based on a choice of
+available applications without friction. Consider the analogy to
+Internet-based computing since the 1990s: the Internet has seen
+phenomenal growth and spurred so much innovation because its networks
+dependent largely on open standards--no one company or handful of
+companies has a dominant position and can single-handedly determine its
+architecture and development.
+An open standards approach would particularly help to address the
+issue of location-based mandates. Over a dozen countries have recently
+drafted or are considering laws that would mandate in-country location
+of cloud data servers and storage facilities. The Business Roundtable
+recently released a report, ``The Growing Threat of Local Data Server
+Requirements'' (http://businessroundtable.org/uploads/studies-reports/
+downloads/Global_IT_Policy_Paper_final.pdf), which provides details on
+this issue. While certain practices by governments to locally source
+cloud computing are understandable--for example, for a country's
+national security information--governments could enhance the cloud's
+efficiency and cost benefits by avoiding location mandates, and
+leveraging and encouraging an open, global model.
+
+CONCLUSION
+
+Cloud computing has great promise to enable consumers, businesses,
+and governments to reduce IT costs and improve IT performance. Key
+considerations in leveraging the benefits of the cloud include
+implementation, security, and leveraging the efficiencies of the global
+model. Greater education, investment and appropriate incentives can
+allow government and businesses to help all stakeholders use the cloud
+most effectively.
+Chairman Goodlatte and Ranking Member Watt, thank you for the
+opportunity to speak with the Subcommittee. I welcome the chance to
+answer any questions that you may have.
+__________
+
+Mr. Goodlatte. Thank you, Mr. Chenok.
+Mr. Castro, we are pleased to have your testimony.
+
+TESTIMONY OF DANIEL CASTRO, SENIOR ANALYST, INFORMATION
+TECHNOLOGY AND INNOVATION FOUNDATION (ITIF)
+
+Mr. Castro. Thank you. Chairman Goodlatte, Ranking Member
+Watt, Chairman Smith, and Members of the Subcommittee, I
+appreciate the opportunity----
+Mr. Goodlatte. Could you put that microphone----
+Mr. Castro. There we go. Chairman Goodlatte, Ranking Member
+Watt, Chairman Smith, and Members of the Subcommittee, I
+appreciate the opportunity to discuss cloud computing with you
+today.
+I would like to focus my remarks on two principles that
+policymakers should keep in mind with regards to cloud
+computing. The first principle is cloud neutrality. Cloud
+computing is an important trend for how organizations use
+information technology, but the technology itself is not so
+different from other forms of computing that there is a need to
+create cloud specific regulations. That does not mean there are
+not important policy issues that affect cloud computing. For
+example, one important issue is addressing the complex
+jurisdictional questions that arise from having data subjects,
+data owners, and service providers under different legal
+jurisdictions and facing conflicting regulations.
+Meaningfully addressing these issues may eventually require
+countries to develop agreements on questions of jurisdiction or
+standardize some data practices, or, alternatively, advances in
+technology that allow data policies to actually bundle with
+data, and ensure that these policies are enforced may help
+resolve some of these questions.
+While all these issues are important for many cloud
+computing companies, they are not necessarily unique to the
+technology. However, creating cloud neutral policies will
+require some change to ensure that laws and regulations do not
+favor or disfavor cloud computing.
+One important step Congress can take in this direction is
+to update the laws that govern the electronic surveillance of
+data. The Electronic Communications Privacy Act was enacted in
+1986, and has not kept pace with the advancement of technology
+and the growth of cloud computing. As a result, there are
+different levels of protection afforded to the privacy of an
+individual's data depending on where and for how long the data
+has been stored. Consensus is forming around the idea that
+reform is needed in this area to protect Fourth Amendment
+rights.
+The second important principle for cloud computing is for
+policymakers to address anti-competitive foreign practices that
+challenge the dominance of cloud computing service providers in
+the United States. As a leading provider of cloud computing,
+U.S. companies stand to benefit tremendously from the large
+expected growth in cloud computing worldwide. Not surprisingly,
+other countries are aggressively challenging U.S. leadership in
+this market.
+While fair competition is legitimate, some countries are
+using unfair policies to intentionally disadvantage foreign
+competitors and grow their domestic cloud computing industry.
+The rise of cloud mercantilism is an emerging threat to the
+global trade and information technology.
+Some countries are using data security and data privacy
+regulations to create geographic restrictions on where cloud
+computing service providers can store and process data. Other
+countries have policies that explicitly require cloud computing
+service providers to operate data centers domestically. These
+requirements have the effect of making cloud computing less
+efficient since decisions about where to locate data centers or
+how to operate them must be made on political mandates rather
+than technical or economic factors.
+Localization requirements also serve as a form of
+protectionism for domestic cloud computing providers since it
+may not be economically viable for a foreign competitor to
+build a domestic data center. Examples of this type of behavior
+can be found in many countries, for example, Greece, Vietnam,
+and Brunei have all passed laws which require data generated
+within the country to be stored on servers within those
+countries. Both the Norwegian and the Danish protection
+authorities have issued rulings to prevent the use of certain
+cloud computing services when those servers were not located
+domestically. The government in Kazakhstan issued an order to
+require that all dot.kz domain names operate on servers located
+within the country. China, Russia, Venezuela, and Nigeria have
+all passed localization requirements ostensibly to protect
+national security and payment processing. And similar types of
+laws are pending in other countries, including Indonesia,
+Malaysia, and Ukraine.
+Strong U.S. leadership is necessary to combat the unfair
+trade practices that other nations are using to block foreign
+competitors in the rapidly-growing cloud computing industry.
+First, the U.S. government should clearly and definitively
+state its opposition to local data center requirements and
+highlight instances of non-compliance by foreign governments.
+For example, this type of behavior could be highlighted by the
+USTR in a Special 301 report. Second, the U.S. government
+should affirm its intention to refrain from imposing its own
+local data center requirements. These policies may be tempting,
+but they diminish the capacity of the United States to hold
+other countries accountable for similar forms of protectionism.
+The long-term goals of the U.S. government should be to
+work toward eliminating geographic restrictions on cross-border
+flows of data. U.S.-based cloud computing service providers
+have the most to lose if these type of areas become widespread.
+After all, the domestic market for cloud services is much
+smaller than the global market.
+Thank you, and I look forward to your questions.
+[The prepared statement of Mr. Castro follows:]
+
+__________
+
+Mr. Goodlatte. The Chair is going to diverge from regular
+order because the gentleman from North Carolina has some other
+obligations, and we want to recognize him first to ask his
+question. So we will turn now to him.
+Mr. Watt. I thank you, Mr. Chairman, and I thank you for
+accommodating my schedule. Unfortunately, I have got something
+that has started, and I need to be at immediately. But I did
+not want to miss the testimony or miss the opportunity to ask
+questions.
+All of the testimony was very interesting and raises some
+very, very interesting issues. It seems to be unanimity on the
+question of cloud neutrality. I take it everybody is in
+agreement on that.
+That means, I take it, that the same rules that apply to
+things outside the cloud should apply to things inside the
+cloud. Would that be a fair definition of cloud neutrality?
+Mr. Castro. Yes, I do think that is a fair definition.
+Mr. Watt. Okay. So but then you raise some interesting
+questions which, in essence, brings us back to a lot of the
+same issues that we have been dealing with outside the cloud--
+protection of personal security, personal information for
+consumers, an issue outside the cloud, protection against
+trolls suing each other, although the owners of patents are
+suing each other regularly, which is a big problem, protection
+against piracy, which Mr. Holleyman raised in the context of
+the cloud, I presume to protect programs and what have you. But
+that is not unique to programs. Piracy is a problem.
+And I do not want this to devolve into another question of
+how we protect ourselves against piracy, but it does raise the
+question of whether in light of the failure of our Committee to
+be able to deal with that effectively and the withdrawal of the
+proposal that was on the table, whether any affirmative steps
+are being made by the industry to address piracy either in the
+cloud or outside the cloud. If you are going to have a neutral
+cloud neutrality and you have got problems outside the cloud,
+then we have got to commit ourselves to working on the problems
+outside the cloud so that when we adopt the principle of cloud
+neutrality, those same principles will protect us inside the
+cloud.
+So is anybody making any progress in the sector? You all
+obviously are all involved in this SOPA thing on one side or
+the other. We are not here to recreate that debate today. I
+just want to see whether you all think any progress is being
+made because if we are going to transport that issue to the
+cloud, we are going to have cloud neutrality, I think we got to
+deal with it. So, Mr. Holleyman?
+Mr. Holleyman. Mr. Watt, thank you for the observation and
+question. The point which I want to make clearly about piracy
+in the cloud is there was a common myth, and candidly, I
+probably believed this myth as recently as 2 years ago, that
+software piracy goes away when software is used in a cloud
+context, and that where you actually have piracy is with the
+physical media, but that when you shift it to the cloud, you do
+not have the problem of piracy. And, in fact, what we found is
+that the piracy evolves.
+I do think you will have less software piracy in a cloud
+context. We identified at least four ways in which it can
+occur, one of which will occur when unscrupulous hosters--
+fortunately, there are none that I know of at this point, but
+they may be ones outside elsewhere----
+Mr. Watt. All right. You are identifying a set of problems
+in the cloud that are unique to the cloud, and I want to deal
+with. But that was not really my question.
+Mr. Holleyman. Okay.
+Mr. Watt. And I am running out of time.
+Mr. Holleyman. I think your question--if I understand your
+question correctly, it was saying that some of the problems
+that we currently see are simply going to be transferred into
+an environment in the cloud. So what we need is effective tools
+to deal with those, and that is going to require self-help by
+industry. And that is also going to require appropriate use of
+law enforcement resources when the piracy can be identified,
+whether it is in the cloud or outside the cloud.
+Mr. Watt. Well, my question was whether we are making any
+progress toward solving this problem outside the cloud or in
+the cloud. I guess that is the baseline question I am asking.
+Mr. Holleyman. Yeah, I think we are making some progress
+outside the cloud where piracy is bigger in reducing levels of
+piracy. I think we have seen some good cases the Justice
+Department has brought that have been helpful. We bring about
+10,000 cases a year. We are seeing piracy rates for software
+come down. What we have to make sure is that the tools that we
+need can continue to work in a cloud-based environment.
+Mr. Watt. I would just open up one other area of inquiry. I
+know my time----
+Mr. Goodlatte. Without objection, the gentleman is
+recognized for an additional minute.
+Mr. Watt. My time has expired, because it seems to me that
+this debate about whether we protect ourselves against other
+countries putting up barriers that allow hosting only in their
+countries is similar to this question of whether we do not
+prohibit call centers from going offshore.
+The question is, how do we protect ourselves, how do we
+protect our own consumers' information without those kinds of
+barriers in our own country? And if we put them up in our own
+country, does that not incentivize other countries to put them
+up there? The same thing with national security concerns. If we
+are allowing our national security apparatus access to
+information in the cloud, would it not be a legitimate concern
+for other countries to be concerned about the extent to which
+our national security apparatus would have access to their
+information in the cloud?
+I am not looking for answers necessarily to all of these
+questions, but it just seems to me from my simplistic mind that
+if we are setting up a set of neutral standards internationally
+and we are trying to get people to play by those rules, we have
+to anticipate that we have got our own set of issues we must
+deal with domestically before we can start fussing at everybody
+internationally. Am I off on the wrong cloud here, or do you
+all agree with what I am saying?
+Mr. Holleyman. I will start by saying, hey, look, I think
+we need to do both simultaneously. I mean, there are some gaps
+in U.S. law that we think need to be resolved, like the need
+for ECPA reform that would ensure some greater levels of
+privacy for data that is stored in the cloud. And that would be
+an important signal for other countries.
+And, secondly, we have to be aggressive in making sure, as
+one of my colleagues said, that we do not put rules in place
+that require all data on all U.S. citizens in all contexts to
+be held in the U.S. We do not require that now. There are some
+people who would like to do that, but if we did it, it would be
+a signal to every other country that they could do the same. So
+we have to live by that openness, but know that there are
+appropriate privacy and security regimes that will protect
+appropriate levels of data for U.S. citizens, wherever it's
+hosted.
+Mr. Watt. Mr. Chairman, I appreciate your accommodating my
+schedule. I wish I could stay for another round of questioning
+because really I came with the intention of talking more about
+competition in the cloud, and I did not ask a single question
+about competition.
+Mr. Goodlatte. If you would submit your questions for the
+record, we would be happy to submit them to all the witnesses
+and ask them to respond.
+And we appreciate the gentleman's participation. And the
+Chair now recognizes the gentleman from Texas, Chairman Smith
+for 5 minutes.
+Mr. Smith. Thank you, Mr. Chairman. I would like to try to
+see if I can squeeze in questions on the subject of patent
+trolls, privacy security, and foreign countries.
+Let me direct my first question to Mr. Freeman. You and I
+have talked about this subject, and I have talked with two
+others within Rackspace on the problem of patent trolls, and
+the frivolous lawsuits they file, and the cost to the company
+and to other companies across America.
+I think we are aware of the problem, though if you want to
+discuss it in greater detail, you are welcome to. But what do
+you think are some of the solutions to this almost exponential
+growth in lawsuits, litigation derived from these patent
+trolls?
+Mr. Freeman. Thank you, Congressman. I think two key
+mechanisms that limit the incentives that patent trolls have to
+bring actions for profit without practicing their invention or
+practicing the patent. One approach along those lines is to
+limit the potential reward from litigation to the actual value
+of the license or that the troll are acquiring entity paid for
+a patent if it is not also practicing the patent. That is a
+case where the patent troll is essentially not being harmed by
+the practice of the invention by another entity, so it should
+not essentially get an ill-gotten gain simply as a result of
+holding onto a patent in an attempt to block innovation.
+Another mechanism is to shift toward a framework where
+legal costs and responsibilities are borne more equitably
+between the two parties. A loser pays a price has been floated,
+and there are some interesting potential reforms along those
+lines. They can make it so that a patent troll has a lot or a
+litigator has a lot on the line when they file a claim for an
+infringement action.
+Mr. Smith. Okay. Good suggestions in regard to the first. I
+think we would have to probably be careful so that we would not
+apply such a reform too broadly. You cannot say it is illegal
+for someone to hold a patent just because they are not using
+it. But I understand the thrust of your reform, and I agree
+with that.
+Mr. Holleyman, on the subject of privacy, what are some of
+the privacy issues involved with cloud computing that we need
+to be aware of? And you just started getting into that a little
+bit I think in response to the question from Mr. Watt.
+Mr. Holleyman. Right. On the issue of privacy or piracy?
+Mr. Smith. Privacy.
+Mr. Holleyman. Privacy. Well, look, I think on the issue of
+privacy, one of the single biggest issues is going to be how we
+work in the context of the European Union, which is moving to
+adopt a data privacy regulation that will be unlike a
+directive. This will be mandatory across all 27 member states.
+There is sort of an 18- to 24-month process in which that is
+happening, and that is going to require a regular dialogue with
+U.S. government, both Administration and U.S. Members of
+Congress, because at the end of the day, we have to have a
+regime that preserves the safe harbor, provisions that
+currently have been negotiated between the U.S. and the EU so
+that data can be exchanged appropriately across borders. And
+that we also have to ensure that the Europeans do not adopt a
+privacy regime that is so restrictive that will have a de facto
+effect of blocking access by U.S. companies.
+Mr. Smith. And as you say, we have seen some signs of that
+already I think.
+Mr. Holleyman. Absolutely.
+Mr. Smith. Thank you. Mr. Chenok, I want to ask you about
+security issues involved with cloud computing. You touched on
+them a minute ago, but can you elaborate?
+Mr. Chenok. Yes, thank you for your question. Security in
+the cloud is----
+Mr. Smith. Is your mic on?
+Mr. Chenok. Yes, I will do that. Thank you for your
+question, Chairman Smith. Security in the cloud is not
+dissimilar to how security is handled in other forms of
+technology. You could imagine a cloud with very strong security
+protections built into the system--lots of surveillance of the
+Internet traffic coming out of the cloud, immediate warnings to
+the operators of the system that then go out to the users of
+the cloud if there is an incident. Similarly, you could imagine
+those same kinds of protections being built into a well-
+constructed system that is a more traditional system, let us
+say a client server system or another type of computing system.
+So security issues in the cloud in some ways can be built
+very well or not. And the key is to incentivize, and for
+companies like ourselves that are here with you today to
+understand how to build security into solutions that we develop
+for the cloud from the beginning so that customers of ours--
+consumers, businesses, and governments--have confidence that
+the solutions that we provide and the solutions that are
+discussed in the context of government to government
+discussions are secure and private.
+The other point I would make, just reiterating what was in
+the testimony, is that the cloud itself can provide for a much
+more rapid response if there is a security incident that comes
+in. If you are in a traditional environment with lots of
+different servers in different places and different people
+worrying about those, and a computer security incident occurs
+in a patch to fix the incident is delivered, it is often
+delivered essentially manually from place to place and person
+to person. With the cloud, you can deliver that patch
+automatically, instantaneously, and the problem is rectified
+immediately.
+Mr. Smith. Okay. Thank you, Mr. Chenok. I am out of time.
+Mr. Castro, I just want to thank you for answering my question
+a minute ago in your opening statement about the threat of
+foreign countries and what our government should do. You were
+very specific. I hope the Administration will listen.
+Thank you, Mr. Chairman.
+Mr. Goodlatte. I thank the gentleman. The gentleman from
+New York, Mr. Nadler, is recognized for 5 minutes.
+Mr. Nadler. I thank the gentleman.
+Mr. Castro, a key guiding principle articulated by several
+company witnesses at one of our prior hearings held in
+September 2010 when I was Chairman of the Constitution
+Subcommittee was the desire for technology neutral or cloud
+neutral, as it has been described today, standards for
+government access to communications under the Electronic
+Communications Privacy Act, ECPA. This would mean that with
+regard to government access to content communications stored in
+the cloud, communications stored in the cloud would be treated
+the same as communications stored locally by a customer.
+If a primary goal for ECPA reform is establishing clear and
+consistent standards, it does seem that this would be
+essential. Do you agree?
+Mr. Castro. I do agree.
+Mr. Nadler. Anybody else agree or disagree on that?
+Everybody agrees that we should have the same standards for
+government access to material stored in the cloud as for
+government access stored on your laptop.
+And, Mr. Holleyman and Mr. Chenok, the principle we are
+discussing, that of cloud or technology neutrality, is a core
+principle of the Digital Due Process coalition. DDP takes the
+position that ``Government access to content and communications
+should require a search warrant issued based on a showing of
+probable cause, regardless of the age of the communications,
+the means or status of their storage, or the provider's access
+or use of the communications in its normal business
+operations.''
+This technology-neutral standard adopts the current
+standard for communication stored by an individual locally for
+the communication stored in the cloud. IBM and BSA are members
+of the Digital Due Process coalition, so I presume your
+companies would support a bill adopting this standard. Would
+you agree with that or comment on it, Mr. Holleyman first.
+Mr. Holleyman. BSA is a member of the Digital Due Process
+coalition, and we support their recommendations.
+Mr. Chenok. And IBM is a member of the Digital Due Process
+coalition and support it, yes.
+Mr. Nadler. So you would agree that the standard should be
+a due process standard, a search warrant based on a showing of
+probable cause, regardless of age. We have in ECPA now these
+different standards based on whether it is longer than 180 days
+or less than 180 days based on assumptions 25 years ago that if
+you had it on your computer or on somebody else's computer for
+more than 180 days, obviously you did not care about it. You
+did not care about your privacy. Does everybody agree that that
+logic is no longer the case?
+Everybody seems to agree?
+Mr. Holleyman. Mr. Nadler, I agree with that logic, and,
+again, we are part of that coalition and support those
+recommendations. I would actually like to follow up with some
+additional detail for the record for your question.
+Mr. Chenok. I would join Mr. Holleyman in following up.
+Mr. Nadler. I thank you. I yield back.
+Mr. Goodlatte. I thank the gentleman. The gentleman from
+Pennsylvania, Mr. Marino, is recognized for 5 minutes.
+Mr. Marino. Thank you, Chairman.
+Good afternoon, gentleman. Thank you for being here. As a
+former prosecutor, I believe that for every action there is an
+equal and opposite reaction. So with that said, we in America,
+we are very good at developing technology, the best in the
+world I think. But nevertheless, we fall short worldwide of
+anticipating the downside of our advancements and our
+technology. And pursuant to our topic today, the clouding
+issue, I am going to ask each of you to take a moment and
+perhaps predict what you see the downside of the technology
+that we are achieving today concerning clouding. Do you
+understand my question? Mr. Holleyman?
+Mr. Holleyman. Look, I think the biggest downside I see is
+that there are going to be a lot of changes in the economy that
+result, as you move to using this new technology, which means
+that the nature of some jobs will change, the nature of how
+information is stored has changed. But as I began with the IDC
+report, there is also a huge value add to the economy, as much
+as a trillion dollars in new growth, not just in technology,
+but across all sectors because of cloud-enabled innovation.
+Mr. Marino. Okay. Mr. Freeman, do you have a comment?
+Mr. Freeman. I think I echo those thoughts. There is going
+to be an economically disruptive effect as the amount of data
+that is available and information about individuals'
+consumption behaviors is magnified exponentially. If there is
+not an alignment of the legal principles and the legal system
+applicable to types of data, regardless of whether they are
+stored in the cloud or locally, I think that is going to pose a
+big challenge and potentially be disruptive to continue cloud
+innovation.
+Mr. Marino. Thank you. Mr. Chenok?
+Mr. Chenok. Thank you, Congressman Marino, for your
+question. I think two points. One, if not implemented well as
+with any technology, cloud can increase issues involved in how
+a technology is placed in a work location or used by a user. So
+the concern would be address cloud's implementation and make
+sure that it is done in a manner that addresses some of the
+issues that we have discussed here today earlier with regard to
+location mandates and open standards to make sure that those
+types of policy choices are built into the implementation.
+Without that, you could get some unintended effects.
+And also misperceptions. Some of us have talked this
+morning about certain beliefs about the cloud that are not
+necessarily true in fact, but color how people come to it and
+color the uptake in terms of use of the cloud. And so thinking
+of fact-based, I think, is very important.
+Mr. Marino. Thank you. Mr. Castro, do you have a thought?
+Mr. Castro. Yes. You know, I think cloud computing
+technology is disruptive businesses and organizations and
+government in very positive ways. But it is also, of course,
+there is a duality to technology, and it can be used for
+negative purposes as well. So just as we see legal businesses
+becoming more productive and doing more with this technology,
+we can also see that taken up by illegal activity to be more
+productive. And obviously that is a very bad thing.
+Mr. Marino. A good segue into my next question concerning
+the illegality of it and the potential of those outside. It
+should not be in a particular area garnering the information,
+penetrating the system. How about our security end of the
+thing, anyone?
+Mr. Holleyman. In a cloud context, you need to look at kind
+of the access controls and how it is secured. I mean, the
+cloud, if configured properly, can be a much more secure
+environment than the highly distributed environment we have
+today where people leave laptops or they leave their thumb
+drive. And so if done properly, the cloud can be a net
+positive.
+Mr. Marino. Well, let us take it a step further, and I am
+going to use an example. Years ago in law enforcement, we
+develop a basic walkie-talkie where law enforcement can
+communicate with one another. But then quickly, there was
+developed a scanner where we could--where the criminals could
+hear that we were coming after them. So how do we prevent that?
+Has that been taking into consideration at this point? I know
+we're anxious to put this all together, but are we thinking of
+the ramifications and the technology that can really counter
+what we intend to do?
+Mr. Chenok. So, Congressman Marino, there are technical
+protections that can be built into data in transit that can be
+established and assigned to the cloud in terms of understanding
+how information is moving and whether there is interception of
+that information while it is moving, and can very quickly spot
+when somebody is trying to penetrate a system or penetrate a
+set of information resources that are moving along, and then
+quickly identify how to resolve that situation.
+And continuing to build those technologies in and designing
+the system properly from the front will help to address those
+types of risks.
+Mr. Marino. And, Mr. Castro, I am going to flip a question
+to you. I am running short of time here. How many entities
+within when I send my e-mail to whoever is receiving it are
+going to have access that information within that cloud?
+Mr. Castro. In theory, you could have just one. You know,
+you could have just the one actual provider, depending on how
+the cloud computing environment is set up. Ideally, you have it
+virtualized in a way that the data is actually segmented in
+ways that other providers that might be offering services would
+not actually have access to your specific data.
+Mr. Marino. I see my time has run out. Thank you,
+gentleman. My daughter is going to be proud of me because I was
+talking about the cloud system today. [Laughter.]
+Thank you. Thank you, Chairman. I yield back.
+Mr. Goodlatte. Does she think most days you have your head
+in the clouds? [Laughter.]
+Like my teenagers did when they were that age? The Chair is
+pleased to recognize the gentlewoman from California, Ms.
+Lofgren, for 5 minutes.
+Ms. Lofgren. Thank you, Mr. Chairman. My apologies for
+being late. I had a competing meeting. But I do think that this
+is a very important discussion. I understand Mr. Nadler raised
+the issue that I have also been working on, the need to update
+ECPA for our current technology times. It has been a long time.
+And there are certainly privacy issues that need to be
+addressed, and certainly some of the assumptions that Americans
+have about the privacy afforded their digital data is not, in
+fact, adhered to under the legal standards. And so that is
+something that I hope to help address as time goes on.
+I am wondering, in terms of as we deploy throughout the
+world, whether there are issues that we also need to address on
+standard setting for interoperability and portability of data
+when it comes to cloud computing, something I have not heard
+discussed at all, and yet I think it is pretty obviously
+something that needs to at least be attended to. Am I mis-
+advised to be concerned about that?
+Mr. Freeman. I think that is very correct. I think there
+are two key types of portability that have to be considered.
+The portability of user data, you can rapidly see adverse
+effects if cloud data or user data is stored within a given
+provider, and users of businesses are essentially held hostage
+and unable to extract that data later.
+Ms. Lofgren. That is right.
+Mr. Freeman. The other thing is the portability of
+applications, the services that essentially are the cloud. If a
+government agency or a business is too reliant on a single
+provider's proprietary infrastructure and may find itself
+unable to migrate out to either another provider in the case of
+a service issue or be left without an alternative solution in
+the case of a service failure.
+Ms. Lofgren. I am interested as well--I think some of the
+security issues have been dealt with. But I think there is an
+overlap between, maybe for lack of a better word, security
+issues and interoperability. And I wanted to raise the issue
+of--and I will use the U.S. as an example. We recently took an
+action, we as the United States government, against a site
+alleged to be a big pirate site, Megaupload. But in a way, that
+is also cloud computing. I mean, it is not what we think of in
+the business world, but that is what it is.
+Have you addressed the issue of governments aggressively
+enforcing property rights when it comes to cloud computing that
+then disadvantages other users? We have heard for example that
+why somebody would store their baby pictures on Megaupload, I
+do not know, but apparently some people did. And now their baby
+pictures are going to be toast.
+Have we addressed that issue as a group that thinks about
+it, how we can protect innocent users when there are
+enforcement actions?
+Mr. Holleyman. Ms. Lofgren, I am totally familiar with
+Megaupload case, and I know that there are some pending
+proceedings both at Justice and in the courts, of which I am
+not privy to----
+Ms. Lofgren. Right. I just use that as an example. You do
+not have to talk about that case.
+Mr. Holleyman. Look, I think one of the questions is given
+the scope of some of what I would refer to as just, you know,
+storage facilities, and how to ensure that you have protection
+for the legitimate data that is stored, recognizing that you
+still need tools to be able to deal with the illegitimate data
+that may be stored or the hosting entity.
+And I think it is going to take, you know, a balance of
+laws. What is important, though, is that you still have to have
+tools, both civil and criminal, that allow you to take action--
+--
+Ms. Lofgren. Oh, I am not arguing that case. But nobody
+seems to feel any responsibility toward people who are
+completely innocent here. And there is no standards. There
+seems to be no interest or obligation to innocent bystanders to
+this action. I am wondering if there is not something that we
+ought to do to address that issue.
+Mr. Holleyman. Again, I cannot suggest an answer to that. I
+think that is a legitimate question. It is a legitimate
+question you are asking. I mean, we had, as BSA, been engaged
+in a lot of notice and takedown activity with Megaupload, and
+there were certainly some illegal software that was part of
+that.
+Ms. Lofgren. Sure.
+Mr. Holleyman. And there has now been, we both
+independently and obviously through Justice, have had some
+recourse. But I cannot go beyond that to talk about----
+Ms. Lofgren. Well, let us just use it as an example, not
+that----
+Mr. Goodlatte. Without objection, the gentlewoman is
+recognized for an additional minute.
+Ms. Lofgren. Thank you, Mr. Chairman. If any of the
+witnesses have a suggestion on whether we should not have some
+standards so that innocent bystanders, if you will, have some
+recourse and rights, I would be maybe off calendar eager to
+hear them.
+Mr. Freeman. I would like to speak to that, if I may,
+Congresswoman. I think the key is an alignment of existing
+privacy and criminal standards with regards to search and
+access, regardless of the location or the nature of how data is
+stored.
+You highlighted ECPA earlier, and e-mail is treated
+differently when I print it out and put it in my desk than it
+is when it is on my computer than it is when it is on Gmail
+server. That alignment, along with a bit of international
+consistency, I think will solve the problem for both businesses
+and consumer.
+Megaupload is a case that, for example, highlights the use
+of mutual legal assistance treaties to create a coherent and
+enforceable regime. But if those standards are not consistent
+with regards to the data type, regardless of technology, and if
+they are not consistent internationally, there will be a lack
+of transparency and perceived lack of protection for users'
+data.
+Mr. Goodlatte. The time of the gentlewoman has expired.
+Ms. Lofgren. Thank you, Mr. Chairman.
+Mr. Goodlatte. And the Chair will recognize himself for
+questions.
+Mr. Holleyman and Mr. Freeman, what are some of the more
+egregious market access issues that BSA or Rackspace or other
+businesses have found foreign countries engaging in against
+American cloud computing companies in the European Union or in
+countries like Canada, Australia, India, Japan, China? As I
+prepared this question, it seemed to have gotten longer. We
+will start with you, Mr. Holleyman.
+Mr. Holleyman. Mr. Chairman, it is unfortunately an
+increasingly long list, as we pointed out in our report. I will
+give you two countries at opposite ends of the spectrum. China
+has a requirement that you must have a joint venture with a
+Chinese entity to provide a cloud service in China, and there
+is a condition of providing source code in conjunction with
+that. And China is no longer allowing joint ventures, and of
+course companies are rightly resisting any source code
+disclosures. So effectively, you have a great wall that has
+been erected and continuing to be erected that is going to shut
+out companies in the China market.
+On the opposite end of the spectrum, you have the concerns
+I see happening in Germany where German government officials
+are talking about the fact that all German data should be
+stored in Germany, both high sensitive and low sensitive and
+medium sensitive data, not only for the German government, but
+for German citizens. And then you have a marketing campaign by
+Deutsche Telecom, which is effectively a third owned by the
+German government, that is invoking the PATRIOT Act and citing
+the PATRIOT Act as a reason why customers should use Deutsche
+Telecom's hosting services over U.S. providers.
+And so I think those are two ends of the spectrum, and we
+need to address those problems in both countries. And they are
+just an example of what we see elsewhere.
+Mr. Goodlatte. Does Deutsche Telecom still own T-Mobile? Is
+that the relationship there?
+Mr. Holleyman. Well, my understanding is that they still
+do, but I am not the expert on that.
+Mr. Goodlatte. Following up on that very distressing point,
+having worked as hard as I have on the PATRIOT Act, what are
+some of the misconceptions that they are spreading about the
+PATRIOT Act, or data privacy policies in the United States in
+general that would help them steer business to Germany
+companies or other countries that may be doing the same thing?
+Mr. Freeman. I can tell you at Rackspace, we commonly see
+almost occasionally absurd positioning of what the PATRIOT Act
+permits to the extent that it allows almost any U.S. government
+agency to, without notice or warrant, access any private data
+that is on a server contained within the United States. That
+sort of----
+Mr. Goodlatte. Well, that is totally false.
+Mr. Freeman. That sort of fear, uncertainty, and doubt I
+think inform Canada's FOIPA law, which is a good example of a
+protectionist measure that excluded U.S. participation in the
+marketplace. Canada passed a patient privacy bill that
+prohibited the storage of any patient health information on any
+server located in the United States based on this sort of fear
+and uncertainty. Now I think it was more of a protectionist
+measure that has leveraged that type of fear. But our great
+concern is that we see the same types of positioning being
+touted in marketing campaigns such as in Germany and the rest
+of Europe.
+Mr. Goodlatte. So what do you do to counter that? Do you
+have a Rackspace Germany that is a separate entity with your
+cloud computing capabilities there, or what do you do?
+Mr. Freeman. Thank you, Chairman. Even having a subsidiary
+entity these days is being targeted. Essentially, there is an
+approach that anyone who has either a server in the United
+States or is a subsidiary or joint venture with the U.S.
+company is becoming suspect.
+Again, I think these are really pretenses for protectionist
+pressures, and that they are not based on legitimate
+understanding of the legal principles. I think the best way to
+deal with it is through education, and the establishment of
+international standards, and clear statements from the U.S.
+government about how the PATRIOT Act works and how it is
+utilized and implemented.
+I think we all are sort of aware that foreign countries all
+have access in certain circumstances to data for servers that
+are located on their soil.
+Mr. Goodlatte. I would argue most countries have far
+greater access to that data in their countries without the Bill
+of Rights that the United States Constitution provides for
+protection of U.S. citizens that would extend to anybody
+storing their data in the United States.
+So what do you suspect we should do with regard to this in
+the sense that it is a trade issue, that it is a protectionist
+policy? Have any of you approached the U.S. Trade
+Representative to address this issue?
+Mr. Holleyman. Chairman, I will give you a couple of
+answers. One is that the State Department has actually been
+very aggressive in raising this with other countries.
+Ambassador Riviere is leading that effort. There is a new myth
+busters document that State and Justice are working on to try
+to dispel the myths about the PATRIOT Act, and dispel the myth
+that somehow the U.S. has powers here that other countries
+have. And I think there has to be a bilateral, aggressive
+negotiation. And I also think that you see through USTR on
+efforts like the Trans-Pacific Partnership and building new
+trade agreements that deal with issues around cross-border data
+transfers that are related to, but an important complement to
+dispelling these myths about the PATRIOT Act.
+Mr. Goodlatte. Mr. Chenok, as more data moves to the cloud,
+where do you see the future of data analytics? What are some of
+the innovations that we can expect in this new field of
+technology?
+Mr. Chenok. Analytics is----
+Mr. Goodlatte. Put the microphone on again.
+Mr. Chenok. Analytics runs on a parallel track, Mr.
+Chairman, if you will, with the cloud. The cloud enables
+companies of all kinds and governments to understand
+information regardless of where it sits. Through the cloud, you
+can use technology to get to information more effectively and
+efficiently and at less cost. So it enables the type of
+analytics that can be done to really make decisions very
+quickly and rapidly based on data regardless of where it sits
+over an open cloud, without having to establish point to point
+agreements or computer interface exchanges that might take time
+and increase costs to achieve the same level of the data coming
+together to make an analytical decision. So the two are related
+and mutually reinforcing.
+Mr. Goodlatte. Thank you. Those are the questions that I
+have. Since the buzzer for the votes have not gone off yet, I
+will ask the gentleman from Pennsylvania or the gentlewoman
+from California if they have an additional question they would
+like to ask the panel of experts before we dismiss them. The
+gentlewoman from California.
+Ms. Lofgren. Mr. Chairman, thank you for that opportunity.
+There was some testimony on abusive patent litigation. And it
+is something I am concerned about, but I am not sure we have
+got the energy to wade back into patent reform. But I am
+wondering if we could get some suggestions on how the Patent
+Office itself might make that situation a better one.
+Mr. Freeman. Thank you, Congresswoman. I think it is
+difficult to approach it with the current regulatory authority
+of the Patent Office itself. I am reluctant to tell you that I
+have all of the solutions to the problem because it is really
+based on behavior----
+Ms. Lofgren. Well, join the club.
+Mr. Freeman. Yeah. It is really based on the behavior of a
+set of entities who are exploiting a system that works well in
+many cases. And there is no need to throw out the baby with the
+bath water, so to speak, but I think sort of responsive action
+is necessary.
+One area is particularly in regards to the development and
+increasing use of open source cloud software. The patent system
+does not work particularly well when it comes to collaborative
+open source projects because it really did envision more of a
+focus reward and innovation generating system.
+Ms. Lofgren. Well, we did have just recently some further
+discussion on standard setting in the patent system and how we
+might work with that. So, again, I am sorry I was unable to get
+here for all the testimony, but I do think that when you look
+at what, as the Chairman has said, certain countries are doing
+in terms of using tools to block market access, sometimes with
+legitimate concerns honestly about the lack of standards in
+American law. I mean, EPCA is one of them.
+We have a lot of work to do in this area, and I am glad
+that we had this hearing, Mr. Chairman. And I think we will be
+working diligently in the coming months to address some of
+these issues. And I yield back.
+Mr. Goodlatte. I thank the gentlewoman. The gentleman from
+Pennsylvania does not appear to have any additional questions.
+So we will thank our witnesses for their excellent testimony
+today.
+And without objection, all Members will have 5 legislative
+days to submit to the Chair additional written questions for
+the witnesses which we will forward and ask the witnesses to
+respond to as promptly as they can so that their answers may be
+made a part of the record.
+Without objection, all Members will have 5 legislative days
+to submit any additional materials for inclusion in the record.
+And with that, I again thank our witnesses. And the hearing
+is adjourned.
+[Whereupon, at 1:25 p.m., the Subcommittee was adjourned.]
+
+A P P E N D I X
+
+----------
+
+Material Submitted for the Hearing Record
+
+Supplemental Material submitted by Robert W. Holleyman, II,
+President & Chief Executive Officer, Business Software Alliance (BSA)
+
+__________
+
+Prepared Statement of William Weber, General Counsel, Cbeyond, Inc.
+
+Mr. Chairman and members of the Subcommittee, Cbeyond appreciates
+the opportunity to provide a statement for the record for today's
+hearing. Cbeyond provides cloud and communications services to more
+than 62,000 small and medium businesses (SMBs) nationwide; in our most
+established markets including Atlanta, Dallas, Denver and Houston, we
+provide services to more than 15% of all businesses with between 5 and
+250 employees. Our annual revenue is nearly $500 million, and we have
+approximately 2000 employees. Forbes magazine recently named us one of
+America's Most Trusted Companies and--together with Kraft Foods and
+Timberland--we were recently given the Points of Light Corporate
+Engagement Award of Excellence.
+I hope today to give you a brief overview of what cloud computing
+is, why it matters to SMBs, the role that competitive
+telecommunications providers play in advancing the technology and
+barriers that may prevent SMBs from making use of the cloud to create
+jobs and drive innovation.
+
+What Is Cloud Computing?
+
+Unfortunately, I am old enough to remember the giant computers of
+the 1960's with their punch cards and putty-colored terminals with
+ghostly green type. These machines differed from the computers our
+children grew up with in that their computing power was not in the
+terminals themselves; the computing power was in a mainframe computer
+located in another room or another building. This was why you sometimes
+heard the machines you typed on described as ``dumb terminals.''
+Beginning in the late 70's and moving through the 80's, computing
+power gradually migrated from the network core to the network edge.
+This was the rise of the personal computer, and as competition
+blossomed and prices tumbled, true computing power became available to
+home and small business users for the first time. This democratization
+of computing resources remade our economy and fundamentally changed the
+way many of us work.
+As PCs became ever smarter, faster and cheaper, we began to make
+demands on them that were difficult to achieve without a network. So we
+built a new kind of network. These new networks were fundamentally
+different from the old because now the computing power resided
+primarily at the edges. The networks themselves served to route
+information (like email) from PC to PC and to store information in
+central locations that needed to be accessed by many people
+simultaneously (like databases).
+Soon, though, we discovered a need to return some real computing
+power to the network itself. Let's take a law firm as an example. By
+the mid-90s, law firms got tired of having to buy the same programs for
+all their computers, particularly the programs they used to bill their
+time, store and access important documents and organize their
+calendars. Software makers responded by creating versions of their
+software that could reside on a central server connected to individual
+computers via the Ethernet cables of the law firm network. Now multiple
+attorneys and assistants could access the same central information,
+bills could be generated automatically and the vast document databases
+that made legal work simpler could be shared, searched and accessed by
+dozens of people simultaneously.
+This model worked well, but it had one major drawback: it required
+the law firm to maintain what amounted to a server farm on their
+premises and extensive Information Technology (IT) staff to take care
+of the servers and the internal network. It was also capital intensive
+because the firm had to purchase enough servers to run their enterprise
+software applications and back all those applications up. And, of
+course, they had to buy more resources than they actually needed to
+account for potential growth and be able to respond immediately to
+problems with an individual server; for a law firm--as with any other
+business--downtime would mean lost revenue. And this brings us to what
+people call ``the cloud.''
+So what is the cloud? At a high level it is the movement of server-
+based computing power off the premises and onto servers that users
+access in a remote location over a private network or, in many
+instances, over the Internet. You already know about more consumer-
+focused, cloud-based services than you may think. Netflix's streaming
+video service is one. Facebook is another. Both these applications
+store vast amounts of information on remote servers somewhere on the
+Internet and deliver that information (and the computing power
+necessary to process it) to you on demand.
+
+Why Do SMBs Care About the Cloud?
+
+Understanding the basics of cloud computing is important, but it is
+just as important to understand how the businesses in your home
+districts use the cloud. A few examples might look like this:
+
+A seventeen-location Los Angeles furniture company
+sending all of its security footage directly to the cloud where
+they can store it securely and use server processing power to
+review and search it.
+
+A major insurance company with its US headquarters in
+Minnetonka moving its IT test environment to Amazon servers to
+avoid the capital costs associated with purchasing dozens of
+servers it will only need several times a year.
+
+A mid-size law firm with offices in Atlanta,
+Charlotte and Louisville moving its billing, time-keeping and
+accounting software to Cbeyond servers so that all of its
+offices can access the same data at the same time.
+
+A group of orthopedic surgeons in Denver moving all
+its patient records to the cloud to avoid the cost of
+maintaining the servers necessary to store, search and access
+x-rays and to ensure it meets its HIPPA obligations.
+
+Why would these businesses want to move these applications and
+information to off-premise servers? There are many reasons, some of
+which are embedded in the examples above. First, getting someone else
+to manage their servers allows an SMB to focus on their business rather
+than their infrastructure. Lawyers want to practice law, doctors want
+to practice medicine, real estate agents want to close deals and
+architects want to design buildings. They don't want to spend time
+taking care of internal IT resources. Cloud computing allows them to
+realize this dream.
+Second, cloud computing allows companies to preserve capital.
+Rather than buying servers that they then have to pay to maintain and
+upgrade, the business can rent only the server capacity it needs for
+the time it needs it. There are no installation cycles and no need for
+extra square footage or additional air conditioning or electrical
+upgrades.
+Third, cloud computing is fundamentally more secure in a variety of
+ways. It is physically more secure because data centers--unlike most
+places of business--are consciously designed to the highest access
+security and fire control standards. Business data is also more secure
+because a server operating in a data center is monitored around the
+clock and potential failures can often be detected and dealt with
+before they occur; this kind of monitoring and response simply cannot
+occur in SMB IT environments. Data in the cloud can be backed up to
+multiple, geographically diverse locations automatically; if there is a
+tornado that destroys a data center in Indianapolis, a business can
+seamlessly and without pause access that data from its duplicate in a
+Denver data center. And, finally, servers in a data center are sitting
+behind the most sophisticated, well-monitored firewalls available, and
+their anti-virus software is constantly updated with no intervention or
+action required by the business; it's all part of the service a
+business buys when it moves its data to the cloud.
+Fourth, cloud computing gives a business IT flexibility in that
+they can grow and shrink their computing resources on-demand,
+preserving both capital and time. If a business needs to test major
+software releases under heavy loads a few times a year, it can simply
+spin up cloud servers, run their tests and then spin them down, saving
+time, saving money and avoiding the cost of infrastructure it has only
+occasional need for.
+Finally, the cloud allows businesses to increase IT velocity. If an
+innovator has an idea, it can be put to the test immediately. No more
+waiting for a server to ship and get installed. This compresses
+planning cycles, keeps our entrepreneurs focused on innovation rather
+than the infrastructure of innovation and allows new ideas to launch at
+the speed of the idea rather than the speed of FedEx.
+
+How Do Competitive Telecommunications Providers Help SMBs Take
+Advantage of Cloud Computing?
+
+If my comments thus far make cloud computing sound like the answer
+to many of the problems that SMBs confront as they launch or grow,
+good. Because that's an accurate view: cloud computing helps preserve
+capital, increases security and makes launching or growing a business
+both cheaper and faster. But SMBs need help to make the best use of
+cloud computing, help that can only come from their service providers.
+Unlike the large businesses that first began making use of the
+cloud, SMBs do not have extensive IT resources. They don't know how to
+move the applications that run their business into the cloud, and they
+don't know how to migrate the associated data. In fact, they generally
+don't even know what cloud computing resources they actually need to do
+whatever it is they want to do.
+The large telecommunications and large cloud-only providers do a
+great job serving enterprise businesses with big IT staffs who know
+exactly what they need. The giant telecom companies and cable providers
+also provide high-quality services to the small businesses that need
+basic services like Internet bandwidth, phones and email. But what
+about the sophisticated SMB that wants to use the cloud to preserve
+capital for job creation and innovation? They are in a tough spot: they
+don't have the IT staff to help them with their migration to the cloud,
+and the big cloud providers are not set up to help them get QuickBooks
+and similar enterprise applications up and running in their data
+center. This is where companies like Cbeyond can help.
+Competitive telecommunications providers are the experts in the
+technology needs of SMBs because it's all we do. We have direct sales
+people who introduce businesses to the power of the cloud and personnel
+whose only job is to help businesses choose exactly the resources they
+need for the job at hand. We innovate to serve our small business
+customers by creating cloud offerings tailored specifically to their
+needs, building applications specifically designed to migrate their
+data and providing the kind of personalized support they need to
+succeed. In short, without competitive telecommunications providers,
+most SMBs will simply be shut out of the cloud computing revolution to
+the detriment of our economy, our unemployment rate and our global
+competitiveness.
+
+What Are the Barriers that May Prevent SMBs from Making Use of the
+Cloud to Create Jobs and Drive Innovation?
+
+As the Committee well knows, small business is the economic engine
+that drives our economy and creates more jobs than any other sector.
+Small businesses inject almost a trillion dollars into the economy each
+year. They have created more than ninety-three percent of all new jobs
+over the last twenty years and employ more than half of the U.S.
+workforce. They also employ forty-one percent of the nation's high-tech
+workers who generate about thirteen times more patents per employee
+than do workers at large firms. SMBs that want to leverage the cloud to
+launch, grow, innovate and create jobs face two primary obstacles:
+assistance with their migration--which I discussed above--and abundant,
+high-quality bandwidth.
+Cloud services are broadband intensive. Unlike traditional web-
+based services in which the heaviest bandwidth usage is downstream-
+only, an SMB using QuickBooks or other applications in the cloud is
+sending and receiving large volumes of data in both directions; it
+needs at least 10 megabits per second of private, symmetrical Ethernet
+bandwidth. While this may not sound like a lot in an age when cable
+companies routinely dangle 100 Mbps claims in the market, the key
+adjectives here are ``private'' and ``symmetrical.'' What this means in
+plain language is that an SMB accessing cloud-based enterprise
+applications needs bandwidth that is not shared and has a guaranteed
+upstream speed that is the same as its guaranteed downstream speed.
+Unfortunately, competitive technology providers--the real
+innovators in the cloud for SMBs--are limited by aging rules
+administered by the Federal Communication Commission (FCC) that have
+the perverse effect of locking small businesses into the broadband
+status quo of six years ago, undercutting the normal business cycle of
+innovation and denying our nation's SMBs benefits they should have
+received as broadband technology improved. These rules force
+competitive technology providers to buy the wholesale broadband inputs
+they need to reach their customers in small, 1.5 Mbps increments of
+time-division multiplexed (TDM) bandwidth; TDM technology was invented
+in the 1870s for the telegraph and evolved to its current form in 1962.
+This broadband gap leaves the rollout of the best cloud technologies
+almost exclusively to in the hands of large enterprise customers while
+innovative technology competitors try to serve SMBs, the job growth
+engine of our economy, with inadequate bandwidth resources. And--worst
+of all--SMBs are left using twentieth century business tools to try to
+create jobs in a twenty-first century global marketplace. This is no
+small issue.
+The FCC could fix this problem simply and almost without cost by
+implementing relevant provisions of the Business Broadband Docket which
+have been languishing at the FCC for almost three years: the FCC should
+ensure the survival of a competitive market by requiring the giant
+phone companies to sell--at retail prices--the packet-based bandwidth
+necessary for technology competitors to provide cloud services to SMBs.
+Unleashing this existing broadband capacity for use by technology
+competitors at market-based rates will create an immediate cycle of
+investment, innovation and job creation by allowing our most
+entrepreneurial SMBs to do what they do best: focus on innovation
+rather than infrastructure.
+Mr. Chairman and members of the Subcommittee, I appreciate the
+Committee's interest in this important topic and thank you for the
+opportunity to provide this statement for the record.
+
+

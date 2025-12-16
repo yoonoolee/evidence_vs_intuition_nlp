@@ -1,0 +1,2151 @@
+- FEDERAL CYBERSECURITY DETECTION, RESPONSE, AND MITIGATION
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+FEDERAL CYBERSECURITY DETECTION, RESPONSE, AND MITIGATION
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+APRIL 20, 2016
+
+__________
+
+Serial No. 114-157
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+_________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+26-066 PDF              WASHINGTON : 2017
+____________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+Internet:bookstore.gpo.gov. Phone:toll free (866)512-1800;DC area (202)512-1800
+Fax:(202) 512-2104 Mail:Stop IDCC,Washington,DC 20402-001
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK, MULVANEY, South Carolina       BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Jennifer Hemingway, Staff Director
+Mike Flynn, Counsel
+Sean Brebbia, Senior Counsel
+William Marx, Clerk
+David Rapallo, Minority Staff Director
+------
+
+Subcommittee on Information Technology
+
+WILL HURD, Texas, Chairman
+BLAKE FARENTHOLD, Texas, Vice Chair  ROBIN L. KELLY, Illinois, Ranking
+MARK WALKER, North Carolina              Minority Member
+ROD BLUM, Iowa                       GERALD E. CONNOLLY, Virginia
+PAUL A. GOSAR, Arizona               TAMMY DUCKWORTH, Illinois
+TED LIEU, California
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on April 20, 2016...................................     1
+
+WITNESSES
+
+Mr. Sanjeev Bhagowalia, Deputy Assistant Scretary for Information
+Systems and Chief Information Officer, Department of Treasury
+Oral Statement...............................................     5
+Written Statement............................................     8
+Mr. Steven C. Taylor, Chief Information Officer, Department of
+State
+Oral Statement...............................................    16
+Written Statement............................................    18
+Mr. Andy Ozment, Assistant Secretary for Cybersecurity and
+Communications, Department of Homeland Security
+Oral Statement...............................................    21
+Written Statement............................................    23
+Mr. Richard Barger, Chief Intelligence Officer, ThreatConnect,
+Inc.
+Oral Statement...............................................    32
+Written Statement............................................    34
+
+APPENDIX
+
+Report titled, ``Liberty and Security in a Changing World,''
+submitted by Mr. Lieu..........................................    64
+LA Times article titled, ``4.5 Million Smartphones Were Lost or
+Stolen in U.S. in 2013,'' submitted by Mr. Lieu................    65
+Letter for the Record submitted by Gibson, Dunn & Crutcher LLP...    66
+Questions for the Record for Mr. Steven Taylor, submitted by Mr.
+Hurd...........................................................    69
+Questions for the Record for Mr. Steven Taylor, submitted by Mr.
+Farenthold.....................................................    83
+Questions for the Record for Mr. Andy Ozment, submitted by Mr.
+Farenthold.....................................................    87
+Questions for the Record for Mr. Andy Ozment, , submitted by Ms.
+Kelly..........................................................    91
+Questions for the Record for Mr. Steven Taylor, submitted by Mr.
+Connolly.......................................................   101
+
+FEDERAL CYBERSECURITY DETECTION, RESPONSE, AND MITIGATION
+
+----------
+
+Wednesday, April 20, 2016
+
+House of Representatives,
+Subcommittee on Information Technology,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 9:34 a.m., in
+Room 2154, Rayburn House Office Building, Hon. Will Hurd
+[chairman of the subcommittee] presiding.
+Present: Representatives Hurd, Chaffetz, Farenthold,
+Walker, Blum, Kelly, Connolly, and Lieu.
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order. And without objection, the chair is authorized
+to declare a recess at any time.
+Good morning, everyone.
+Every day, Federal agencies face a barrage of attacks on
+their information systems from a number of different actors.
+Attacks on both the public and private sectors consistently
+reveal one common truth: No one is immune.
+In December of last year, Juniper Networks announced that
+malicious code had been placed in its ScreenOS software leaving
+a gaping vulnerability in one of its legacy products. This
+particular vulnerability may have allowed outside actors to
+monitor network traffic, potentially decrypt information, and
+even take control of firewalls.
+Within a matter of days, the company provided its clients,
+which include various U.S. intelligence entities and at least
+12 Federal agencies, with an emergency security patch.
+DHS and other law enforcement agencies acted swiftly to
+notify Federal agencies of the breach in Juniper's security
+advisory. Both of their actions may have averted a potentially
+devastating breach of sensitive data. This is just one
+sophisticated example of the attacks that U.S. companies and
+their Federal clients face on a daily basis.
+In January of this year, the committee sent letters to the
+heads of 24 Federal agencies requesting an inventory of systems
+running the aforementioned software. Additionally, the
+committee asked for an update of their progress in installing
+the corresponding security patch.
+Of the 12 agencies affected, 3, including the Department of
+Treasury, took longer than 50 days to fully install patches and
+mitigate the threat posed by this vulnerability. This is
+absolutely unacceptable.
+The inability of Federal agencies to maintain a
+comprehensive view and inventory of their information systems
+and to respond to Congress in a timely manner cannot be the
+status quo.
+Last December, Congress passed landmark information-sharing
+legislation, the Cybersecurity Act of 2015, which creates a
+voluntary cybersecurity information-sharing process to
+encourage public and private sector entities to collaborate and
+share information. Moreover, the bill established the
+Department of Homeland Security as the sole portal for
+companies to share information with the Federal Government.
+With their newly codified role, I look forward to working
+with Dr. Ozment and DHS on how to strengthen their own posture
+and ensure that they possess the necessary technical tools to
+detect and mitigate threats and disseminate threat information
+within the Federal Government. Only by fostering this framework
+where government and private entities are able to freely share
+knowledge of security vulnerabilities, threat indicators, and
+signatures can we be sure that our network defenses are getting
+the best intelligence available.
+In addition, we must continue to learn from the private
+sector. Industry leaders like ThreatConnect and FireEye are
+consistently pushing the envelope in what is possible in
+cybersecurity. The government should not seek to compete with
+them, but rather they should harness these engines of
+innovation, learn from them, and safely cooperate with them
+under the guidance of good sense and personal liberty.
+I hope that this hearing will serve as a starting line for
+a larger conversation on attribution. Various international
+groups and state-sponsored actors are constantly attempting to
+steal military secrets and expose the personally identifiable
+information of American citizens and we cannot stand idly by
+while this happens. I believe that attribution is a form of
+deterrence.
+This hearing presents an opportunity to learn how Federal
+agencies can improve their overall cybersecurity postures,
+share more timely and relevant information, and work with the
+private sector in a way that benefits all involved, while
+respecting the institutions of commerce and privacy.
+I welcome our witnesses and look forward to hearing your
+testimony today.
+I would like to yield to the chairman from the great State
+of Utah, Mr. Chaffetz.
+Mr. Chaffetz. I thank the gentleman. And Mr. Hurd, I thank
+you for your leadership on this issue. You are such a valuable
+part of our team in making this happen.
+But to those that are in the Federal Government, we've got
+to up our game. I was elected the same time as President Obama
+was. Starting in 2009, if you look at the expenditure on the IT
+budget, the Federal Government has spent more than $525 billion
+on IT and it doesn't work. It doesn't work.
+And so I see that the President has a proposal, he needs
+another $3 billion. As if $525 billion wasn't enough, he needs
+$528 billion in order to actually solve these problems. I have
+a hard time believing that we're just 3 more billion away from
+actually solving this.
+I understand the predicament that we're in because as best
+I can see on a macro level, we are spending about 70 percent of
+our $80-plus billion a year now on legacy systems. And it is
+difficult, to say the least, on making that transition from
+those legacy systems to newer, more progressive, more secure
+networks and using the basic software.
+I got to review a document from the Department of Justice.
+Was on WordPerfect. WordPerfect was a great company back in
+1990. They were a Utah company, and had a good product, but
+they still are using WordPerfect at the Department of Justice.
+And I'm sorry, with all due respect to Corel, it maybe is not
+the most up to speed and very difficult to share with others.
+And it just begs the question of why in the world we
+continue to have to teach people how to use COBOL. We have some
+that I have heard are using punch cards still. I mean, it's
+unbelievable how far behind we are. And yet, I don't think it's
+for a lack of funding.
+It is just unexcusable for, in my mind--it is just
+inexcusable, I should say--inexcusable that we need a patch and
+it takes 50 days to do it. Fifty, really? Come on. Patching a
+vulnerability should be priority one and should be done within
+the day. There is no excuse for waiting nearly 2 months to
+patch what is known as a vulnerability.
+At the Department of Education, it's something Mr. Ozment,
+I hope, would look at personally, because the inspector general
+was able to go into the Department of Education and look into
+their system, surf around for 3 days, and come out undetected,
+despite their deploying EINSTEIN, which begs the question of,
+with all due respect to the inspector general, I'm guessing
+they are good, but they are probably not as good as the
+Russians, the Chinese, the others that do this type of thing
+for a living.
+And so I do agree with Mr. Hurd that one of the things we
+have to talk about is how to fight back. And attribution, just
+flat-out acknowledgment and pointing the finger at who is doing
+what, might be a form of deterrent. But I do think it's one of
+the big questions--we won't answer it today--but I do think
+it's a big question for those of us in Congress, how do you
+fire back? You know, if somebody fired a weapon on us we could
+fire back at them. But if they're attacking us online, how do
+we fight back? And I don't know the answer to that.
+But we need all of your help here today. We have got a lot
+on the line, a lot of personal information, a lot of
+vulnerabilities for the country itself. And so we thank you for
+your expertise and your commitment. We want to be part of the
+solution, not part of the problem, not just fire arrows. We are
+supposed to be oversight, but then government reform. And we
+can, I think, help you solve these problems, because this is
+the first time in the Congress we have actually had a
+subcommittee focused on just information technology.
+And so we are going to highlight the problems, but our next
+step is, how do we solve those? And, collectively, we need to
+come together in a bipartisan way and help you accomplish that
+and achieve that. So that's the spirit in which we do this.
+I thank the gentleman. Thank you for the time. I yield
+back.
+Mr. Hurd. Thank you, Chairman.
+And now this subcommittee in 17, 18 short months has done,
+I think, a lot of good work in government reform and
+identifying the problem. And part of that is because of the
+bipartisan nature in which we do that. And we are able to do
+that because of the leadership of the ranking member on the
+Subcommittee on Information Technology, Ms. Kelly from
+Illinois, and I would like to recognize her for her opening
+statement.
+Ms. Kelly. Thank you, Mr. Chairman, for holding this
+hearing on how Federal agencies detect, respond, and mitigate
+the growing number of cyber threats they encounter each year.
+And thank you to our witnesses for being here.
+The Federal Government and the private sector are facing a
+volume of cyber attacks that just a few years ago would have
+been unimaginable. According to a new report by security firm
+Symantec, 54 zero-day vulnerabilities were discovered in 2015,
+more than twice as many as in 2014. Compared to the previous
+year, in 2015, the instances of ransomware increased by 35
+percent.
+We need to ensure that the Federal Government has the
+resources necessary to respond to these vulnerabilities and
+threats. Agencies are spending up to three-quarters of their
+information technology budgets maintaining legacy systems that
+were never designed to deal with today's cybersecurity risks.
+Adding to the problem is the increasing difficulties agencies
+are having in filling more than 10,000 vacant cyber positions
+across the Federal Government.
+As Tony Scott, the chief information officer for the
+Federal Government, has said, and I quote, ``We have a broad
+surface area of old, outdated technology that is hard to
+secure, expensive to operate, and on top of all of that, the
+skill sets needed to maintain those systems are disappearing
+rather rapidly.''
+But we are making progress in fixing that. I, along with my
+colleagues on this subcommittee and Ranking Member Cummings,
+were original cosponsors of Congressman Steny Hoyer's
+Information Technology Modernization Act. The act would
+authorize the creation of an Information Technology
+Modernization Fund to help Federal agencies upgrade their aging
+information technology systems. Over the first 10 years the
+fund would help facilitate upgrades to $12 billion worth of
+civilian IT programs and make sure the Federal Government has
+the most effective, secure IT infrastructure possible.
+Legislation like the ITMA sends a clear message that
+Congress understands the challenges facing our Nation's Federal
+IT systems. But there is more to be done. I look forward to
+hearing from our witnesses today when their threat response
+processes in place, and I look forward to working with you, Mr.
+Chairman, to do what's needed to ensure that we keep the
+Federal Government secure from the growing number of cyber
+threats.
+I yield back.
+Mr. Hurd. I would like to thank the ranking member for her
+comments.
+We will hold the record open for 5 legislative days for any
+members who would like to submit a written statement.
+Mr. Hurd. Now I'd like to recognize our panel of witnesses.
+I'm pleased to welcome Mr. Sanjeev Bhagowalia. He's the deputy
+assistant secretary for information systems and chief
+information officer at the Department of Treasury. Mr. Steven
+Taylor, chief information officer at the Department of State.
+Dr. Andy Ozment, assistant secretary for cybersecurity and
+communication at the Department of Homeland Security. And Mr.
+Richard Barger, chief intelligence officer at ThreatConnect
+Incorporated.
+I would like to welcome you all.
+And pursuant to committee rules, all witnesses will be
+sworn in before they testify. So please rise and raise your
+right hands.
+Do you solemnly swear or affirm that the testimony you are
+about to give will be the truth, the whole truth, and nothing
+but the truth?
+Thank you. Please be seated.
+And let the record reflect the witnesses answered in the
+affirmative.
+In order to allow time for discussion, please limit your
+testimony to 5 minutes, and your entire written statement will
+be made part of the record.
+Mr. Bhagowalia, we will start with you, and you are
+recognized for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF SANJEEV BHAGOWALIA
+
+Mr. Bhagowalia. Thank you, Chairman.
+Chairman Hurd, Ranking Member Kelly, and members of the
+subcommittee, thank you for the opportunity to testify on
+Treasury's approach to the detection and mitigation of
+cybersecurity vulnerabilities.
+Treasury relies on technology to meet our mission of
+serving the American taxpayers and acting as a steward of the
+national economy. Cybersecurity is one of the top priorities of
+Treasury, not only for the CIO, but also for the Department and
+bureau senior leadership. We are continuously and incrementally
+improving in management oversight over the IT environment,
+including cybersecurity. We are leveraging synergy
+opportunities across the enterprise through authorities in law,
+like FITARA and FISMA, to more effectively use our people,
+policy, processes, technology, and governance in cyberspace.
+Detecting and mitigating vulnerabilities in our environment
+before they are exploited by our adversaries is an essential
+component in Treasury's ``defense-in-depth'' strategy.
+I have divided my testimony into two parts. The first part
+will explain how we tackle vulnerability mitigation of the
+Department, and the second part will outline how we participate
+in the governmentwide Federal cybersecurity community.
+Part one, vulnerability detection, reporting, response, and
+mitigation within Treasury. As you know, Treasury is a large,
+geographically and technically diverse enterprise with bureaus
+having widely varying missions requiring widely varying IT
+environments. While Treasury bureaus are empowered to make IT
+decisions necessary to execute their individual missions and
+carry out operational security functions within their
+environments, the Treasury CIO is accountable to ensure that
+those decisions properly consider security implications and
+evaluate risk and vulnerabilities.
+Treasury has aligned our departmental cybersecurity
+strategy with the five-part NIST national Cybersecurity
+Framework and the Cybersecurity National Action Plan, CNAP, to
+ensure common objectives across the enterprise.
+Vulnerability detection. IT companies, government agencies,
+security researchers, and others identify thousands of security
+weaknesses each year. Critical vulnerabilities are a far
+smaller number, in hundreds. Vulnerability detection requires a
+multidimensional approach involving asset management, automated
+tools, monitoring of communication channels, and human
+analysis. The foundation of good comprehensive vulnerability
+detection is strong asset management.
+To this end, Treasury has policies in place requiring
+bureaus to perform regular asset and vulnerability inventory
+scans using automated tools. Treasury maintains a central
+Department-wide security operations center that operates around
+the clock. It's called the SOC. The SOC monitors classified and
+unclassified government channels, as well as open source and
+industry channels, for news of critical vulnerabilities.
+In response, reporting, mitigation of known
+vulnerabilities, we follow the maxim that cybersecurity is
+about risk management. Bureau IT organizations undertake risk
+analysis for each vulnerability and schedule testing and patch
+deployment as appropriate. A risk analysis may result in
+several mitigation approaches, such as patching, instituting
+compensating security controls, and migrating to a new software
+or hardware solution. Treasury and its bureaus start by
+remediating vulnerabilities on assets with the greatest risk
+exposure first and then moving systematically to remediate the
+remaining assets.
+The recent Juniper vulnerability offers an example of this
+process in action. Table 1 in my written testimony illustrates
+how 57 affected devices across Treasury were remediated from a
+time and risk perspective. Treasury coordinated an
+enterprisewide response to the Juniper vulnerability within a
+couple of hours of receiving the information from open source
+vendor channels and DHS. Treasury fixed 25 percent of the
+patches within a day, 84 percent within a week, and 86 percent
+within 2 weeks, and 93 percent 7 weeks. But if you look at it
+from a risk lens, we fixed 40 out of the 57 devices,
+representing 100 percent of high-risk devices, within 6 days.
+Of the remaining 17 low-risk devices, 13, or 76 percent, were
+completed by February 4, and the remaining 4 devices were
+completed over the next 10 days.
+A detailed analysis determined that the configuration posed
+low risk of the exploitation of the vulnerability because the
+devices were not directly connected to the Internet, were not
+directly affected by the vulnerability, and each had multiple
+layers of compensating controls in place.
+So a challenge faced by large agencies in complying with
+governmentwide mandates to address particular vulnerabilities
+is the need to balance operational and security risk. In many
+cases the device must be patched as part of a complex
+operational system with several legacy components that may not
+be compatible with the security fix. So we respectfully request
+and suggest that factor should be considered in reporting.
+Could we have done it a little bit faster? Yes.
+Part two, Treasury's role in governmentwide vulnerability
+detection, response, and mitigation. I would like to thank DHS
+for the leadership role in coordinating Federal cybersecurity.
+Treasury fully participated in the EINSTEIN program and looks
+forward to EINSTEIN 3A. The CDM program led by DHS will help us
+move as the entire U.S. Government from federated compliance to
+integrated continuous monitoring and mitigation.
+Treasury is an enthusiastic participant in the CDM program.
+We expect CDM will improve situational awareness regarding
+vulnerabilities and will move us to better automation of
+tracking in real time.
+In conclusion, while Treasury has established a solid
+procedural and operational foundation to identify and mitigate
+vulnerabilities, our adversaries are constantly changing their
+methods. I see two opportunities where congressional support
+could aid our efforts.
+First, hiring and retaining cybersecurity staff remains a
+challenge. We ask for continued support to streamline hiring
+and offering appropriate incentives to attract and retain that
+talent.
+Second, we ask for some consideration in the fiscal year
+2017 budget request for a cybersecurity enhancement account
+which will enable us to keep pace with the rapidly evolving
+adversaries through targeted and accountable spending.
+Thank you for your attention to this important matter. I
+appreciate this opportunity to testify today, and I will be
+glad to answer any questions you may have. Thank you.
+[Prepared statement of Mr. Bhagowalia follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+Mr. Taylor, you are recognized for 5 minutes.
+
+STATEMENT OF STEVEN C. TAYLOR
+
+Mr. Taylor. Chairman Hurd, Ranking Member Kelly,
+distinguished members, thank you for inviting me to testify
+about the Department of State's cybersecurity program.
+The Department of State, as the lead U.S. foreign affairs
+agency, has over 70,000 employees in our 275 overseas and 30-
+plus domestic locations. Like all government agencies and
+businesses, particularly organizations the size of the
+Department, we face a dilemma. The Department relies on the
+Internet and email to conduct our day-to-day operations,
+communicating with U.S. and foreign citizens and organizations
+about a wide variety of issues. We use these tools to support
+passport and visa applications, to communicate about foreign
+policy initiatives, and to conduct the day-to-day business of
+the Department.
+We also know that email and the Internet are avenues
+through which our networks and databases can be attacked. As a
+breach of our own unclassified email system in 2014
+demonstrated, our adversaries see information handled by the
+Department and many other U.S. Government agencies as a
+desirable target. Annually, we experience millions of attempts
+to breach our networks and gain possession of our information.
+Protecting our information as we face increasingly
+sophisticated, frequent, and well-organized cyber attacks is a
+top priority for the Department of State. The Bureaus of
+Information Resource Management and the Diplomatic Security
+share the role of defending our networks through our joint
+security operations center and through collaborative long-range
+planning.
+Alongside our partner Federal agencies, we've developed
+increasingly robust defenses as the sophistication and
+intensity of these threats increases. The foundation of our
+cybersecurity framework is the Federal Information Security
+Modernization Act, or FISMA, along with OMB guidance and the
+National Institute for Standards and Technology guidelines. But
+we go far beyond these guidelines to protect our network and
+data while protecting privacy and civil liberties.
+The Department of Homeland Security serves as a first line
+of defense by filtering our traffic through the EINSTEIN system
+which detects and blocks cyber attacks on Federal agencies and
+through its trusted Internet connections and continuous
+diagnostics and mitigation initiatives. In addition, we monitor
+our networks with an extensive defensive toolset.
+We also make great efforts to educate our network users so
+that they, themselves, are defending our systems. Annually, the
+Department of State employees must complete security and
+privacy awareness training. In addition, network users must
+answer a security challenge question prior to logging on to the
+systems each and every day.
+We amplify the effectiveness of our defenses through
+partnerships with US-CERT, the Department of Homeland Security,
+the Federal Bureau of Investigation, the National Security
+Agency, U.S. Digital Services, and other agencies in the
+private sector. Our partners in the intelligence community,
+DHS, and other agencies in the private sector perform
+penetration testing to ensure our defenses are capable of
+withstanding persistent attacks. They also provide us with a
+steady stream of information about probable sources, methods of
+attack, and recommended countermeasures.
+We recognize that intrusion is possible even with the best
+defenses. Today we train and prepare for a wide range of cyber
+threats. Some can be contained by removing a hard drive, while
+others may require that we take a system offline. We are
+constantly working with our partners to defend against the
+known and evolving threats.
+Looking to the future, we are creating a safe zone between
+our data and the Internet through segmentation of our networks,
+by reengineering our business practices, and leveraging cloud
+services. The most powerful and promising tools for our defense
+are effective risk management, our public and private
+partnerships, clearly defined agency roles, effective
+information sharing, employee education, and of course next
+generation technology.
+We appreciate the support on cybersecurity issues, and we
+look forward to working with Congress and our partners to
+defend our critical information and systems. Thank you.
+[Prepared statement of Mr. Taylor follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Taylor.
+Dr. Ozment, you are recognized for 5 minutes.
+
+STATEMENT OF ANDY OZMENT
+
+Mr. Ozment. Chairman Hurd, Ranking Member Kelly, and
+members of the committee, thank you for the opportunity to
+appear before you today.
+Recent compromises clearly demonstrate the challenge facing
+the Federal Government in protecting our systems and networks
+against sophisticated, agile, and persistent threats.
+Addressing these threats is an important shared responsibility.
+Today I will focus on how we protect Federal civilian
+departments and agencies. It is important to note that each
+agency is responsible for managing its own cybersecurity risk
+under the Federal Information Security Modernization Act, or
+FISMA 2014. My organization assists agencies in performing that
+risk management through four lines of effort.
+First, we provide cybersecurity protections where it is
+effective and cost efficient. This baseline is principally
+provided by two programs. The EINSTEIN program detects and
+blocks cyber attacks outside of agency perimeters, and the
+Continuous Diagnostics and Mitigation, or CDM program, provides
+tools for agencies to identify and prioritize vulnerabilities
+within their networks.
+Second, we measure and motivate agencies to implement best
+practices through risk assessments and targeted guidance.
+Third, we serve as a hub for cybersecurity information
+sharing between the government and the private sector through
+automated means whenever possible.
+And fourth, we provide incident response assistance to
+agencies.
+The committee is well aware that cybersecurity
+vulnerabilities are all too common. My organization serves a
+key role in helping agencies resolve significant
+vulnerabilities.
+Upon learning of a new vulnerability, our first priority is
+to rapidly promulgate actionable information to our partners.
+When the vulnerability is particularly critical, we hold an
+emergency interagency coordination call. These calls allow DHS
+to quickly convey key information to chief information security
+officers across the Federal civilian government.
+Additionally, we share information through secure portals
+managed by our National Cybersecurity and Communications
+Integration Center, or NCCIC.
+After disseminating information about a significant
+vulnerability, DHS at times collects information about
+governmentwide remediation progress. This information is used
+for two purposes: to understand the prevalence of a particular
+vulnerability across government and to drive individual
+agencies to more quickly implement required mitigations.
+Currently, this data-collection process is largely manual,
+but the CDM program will fundamentally change this paradigm.
+Through the CDM program, DHS will provide civilian agencies
+with tools to monitor their internal networks. CDM will allow
+us to shift from current manual methods of collecting
+vulnerability data to automated data collection.
+We have provided CDM Phase 1 tools to 97 percent of the
+Federal civilian government. Agencies are now deploying these
+Phase 1 tools on their networks. But this is not a simple or
+easy process. Deploying new technologies across 23 agencies and
+over 2 million users is a significant undertaking. We will see
+incremental progress over the next year and expect the first
+agency data to be available in early fiscal year 2017.
+It is also important to note what CDM will not do. The
+first phase of CDM will detect vulnerabilities in workstations,
+servers, network infrastructure, and operating systems in
+devices like routers. But other devices, like printers, will be
+identified by these tools, but will not be assessed for
+vulnerabilities.
+Perhaps most importantly, CDM relies on individual agencies
+to rapidly deploy these sensors across their networks and to
+use CDM data to, in fact, address the identified
+vulnerabilities.
+Even after learning of a vulnerability, agencies have
+varied capabilities to fix the problems. We can also provide
+agencies with technical assistance and consultation upon
+request. These services help agencies mitigate complex
+vulnerabilities and design more secure systems and assets.
+We appreciate the help of Congress in passing several key
+statutes for Federal cybersecurity over the past 2 years,
+including modernizing FISMA and enacting the Cybersecurity Act
+of 2015.
+This year, the fiscal year 2017 President's budgets funds
+several activities that will significantly enhance our ability
+to manage vulnerability detection and mitigation across the
+Federal civilian executive branch.
+First, the fiscal year 2017 budget funds a further
+acceleration of the CDM program and a new CDM phase focused on
+securing high-value data on agency networks.
+Second, the budget provides resources for additional
+personnel to help agencies remediate complex vulnerabilities or
+to design more secure systems.
+Finally, the budget funds more proactive assessment teams
+using the same techniques as malicious hackers, known as red
+teams.
+With the help of Congress, we will continue driving towards
+additional automation and deploy the resources required to
+support expedited remediation. This must be a shared effort.
+DHS, our partner agencies, and Congress must join together to
+ensure that vulnerabilities are rapidly mitigated before
+sensitive information or government services are placed at
+risk.
+Thank you.
+[Prepared statement of Mr. Ozment follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Dr. Ozment.
+Mr. Barger, you are recognized for 5 minutes.
+
+STATEMENT OF RICHARD BARGER
+
+Mr. Barger. Chairman Hurd, Ranking Member Kelly, members of
+the subcommittee, thank you for the opportunity to appear here
+today.
+My name is Rich Barger. I'm the chief intelligence officer
+and cofounder of ThreatConnect, a Virginia-based security
+company. I lead our research team. It's responsible for
+tracking existing and emerging threats, to ensure that our
+software platform is uniting security teams, their processes,
+and their technologies to bring together a cohesive unity of
+effort so that organizations can more efficiently conduct
+intelligence-driven security operations.
+ThreatConnect was founded in 2011 and our platform launched
+in 2013. Since then, we have seen 40 percent of the Fortune 100
+use our platform and amassed over 9,000 global users.
+Today my testimony will focus on fragmentation as the root
+cause behind our continuing struggle to detect, respond to, and
+mitigate modern threats. The four key areas I will discuss are
+people, processes, technologies and community.
+Our customers within both public and private sectors often
+express the same problem, but they do so in different ways.
+Fragmentation across their security operations is both their
+biggest frustration as well as their biggest risk. Whether they
+are a global financial services firm, a U.S. energy company, or
+a Federal agency, the fissures that exist across people,
+processes, and technologies create the very footholds into our
+networks that give malicious actors access to our finances,
+sensitive personal data, and corporate intellectual property.
+Now, it's important to understand that information security
+is heavy work. There is no easy button. There is no silver-
+bullet solution. Today's network defenders face a gargantuan
+task of protecting networks that were not originally designed
+with security in mind.
+In terms of security teams and practitioners, as we
+increase our numbers of individuals and teams required to work
+together, organizational agility, transparency, and situational
+awareness will often suffer, making us our own worst enemy. Too
+often as an organization's domain expertise and institutional
+memory is scattered across these diverse teams, share drives
+and emails, it is often rendered functionally inaccessible.
+Fragmentation also exists across the executive staff, from
+C-suites to boards. There is a communication deficit which
+negatively impacts leadership's ability to interpret and
+prioritize core challenges and subsequently leads to
+ineffective decisionmaking.
+This brings us to process. There is no one-size-fits-all
+approach. Enterprises, much like snowflakes, are made of the
+same elements but uniquely configured. Different business
+objectives drive different business processes and
+multidisciplinary security operations reflect a company's
+overarching sector, vertical, legal, and regulatory
+requirements.
+In a lot of cases the answer to, ``Why do you do it this
+way?'' is simply, ``We've always done it this way.'' It's much
+easier to advocate for a new tool or more head count.
+Optimizing process seems mundane and intelligible by
+comparison. But this is the dirty little secret. Developing
+coordinated intelligence-driven processes is the linchpin to
+identify, protect, and respond to threats in an efficient,
+measurable way.
+In terms of technology, security teams worldwide feel that
+they spend too much time wrangling their various security
+solutions. Instead, they should be delivering that much-needed
+breathing room for these overburdened teams. Instead, these
+solutions often consume additional resources, and many are not
+designed to be interoperable. Better orchestration of security
+systems creates a combined-arms approach that allows the sum of
+the parts to yield mutually supporting effects against threats.
+The first three areas, people, processes and technologies,
+are internal to the enterprise. The last source of
+fragmentation is at the community level, outside the
+enterprise. Sharing today centers around atomic indicators of
+compromise.
+Now, this is a good start, but we need to do more of it and
+we need to also include sharing of the recipes that created the
+indicators in the first place. So let's continue to evolve
+today's baseline sharing practices to our broader goal of
+cross-sector coordination and collaboration.
+In conclusion, the disconnect between expectation and
+reality that fragmentation presents is a catalyst which is
+elevating the priority of enterprise security within the
+corporate structure. This rise must continue, and organizations
+must be properly incentivized to look at enterprise security as
+a critical business function.
+The security professionals of tomorrow must be educated and
+enabled to meet the current demand of security talent, and the
+market must drive the need for interoperable security
+technologies. The gap between compromise and detection is not
+closing, and that is why we are committed to reducing that
+thorny reality of fragmentation across both public and private
+sector security operations.
+I thank you for your time, and I look forward to any of
+your questions.
+[Prepared statement of Mr. Barger follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+And I would like to recognize first, for the first set of
+questions, my colleague from the great State of Texas, Mr.
+Farenthold. He is recognized for 5 minutes.
+Mr. Farenthold. Thank you very much.
+I'm going to start with you, Mr. Ozment.
+The FBI for years has been pushing for encryption backdoors
+so they can easily access device content. However, security
+experts, including Ash Carter and NSA Director Admiral Rogers,
+as well as former leaders from the intelligence community, have
+all said that encryption is essential to national security,
+cybersecurity, and economic security.
+What is your take on the call for back doors? Do you think
+that makes us safer or less safe, and why?
+Mr. Ozment. Thank you, sir.
+The administration has highlighted a number of times that
+this is a very complicated issue with legitimate and important
+perspectives on both sides of the issue. We do have law
+enforcement concerns and the need to access data from malicious
+adversaries, whether they be terrorists or criminals, to deter
+and catch those individuals responsible for malicious actions.
+At the same time, from a cybersecurity perspective, we want
+more broad and secure encryption and other technologies to be
+widely disseminated.
+I would reflect the administration's position here that we
+do need a national conversation on this issue, and I think it's
+important that Congress has taken this issue up and has focused
+on it.
+Mr. Farenthold. All right.
+Mr. Barger, do you have a take on that?
+Mr. Barger. So the encryption issue is a very, very
+complicated subject. I would encourage the government to
+consider how they should be able to conduct investigations in
+striking a balance between privacy and also the need----
+Mr. Farenthold. We see in the case of the San Bernardino
+terrorist's iPhone that the FBI hired a hacker to break into,
+and they, the FBI, won't tell us how they did it. Haven't they
+discovered a cyber vulnerability in iPhones that needs to be
+disclosed so it can be patched?
+Mr. Barger. Well, I don't necessarily know the situation,
+the sources and methods which they applied to that, but it
+seems that they have found a creative workaround to the
+environmental conditions in which they were forced to operate
+and have been able to carry their investigation forward.
+Whether or not that was used for a specific vulnerability, I
+wouldn't know.
+Mr. Farenthold. All right, let's shift a little bit here to
+the Cybersecurity Information Sharing Act. And since DHS is
+kind of the hub, as you say, for that, what kind of success are
+we having on that? Are you tracking how many attacks have been
+shared that way and whether companies are actually applying the
+information that's being shared there? Do we have some numbers
+on any successes or failures there?
+Mr. Ozment, that's clearly in your alley.
+Mr. Ozment. Thank you, Representative.
+So we have, as you know, that Congress passed this act in
+December of 2015, and gave DHS some fairly aggressive
+deadlines. I'm proud to report that we did meet those deadlines
+and the Secretary of Homeland Security formally certified that
+the system was live on March 17 of this year.
+We will grow the system incrementally. We are not going to
+reach all of the American economy in just a few months. I'm
+very happy with our rate of growth to date. We have 14 non-
+Federal entities currently connected to our server and 82 who
+are in the process of connecting the server who have signed our
+terms of use.
+So there's clearly an interest in doing this. It does
+require the other participant to build some IT infrastructure
+on their side. So it's like we've built a phone system and we
+have a phone. They also have to acquire a phone before they can
+call us.
+Mr. Farenthold. So you've been up and going a month now. Is
+that correct? Roughly a month?
+Mr. Ozment. That's right.
+Mr. Farenthold. So have there been any threats shared? I
+mean, do you have a number?
+Mr. Ozment. We have shared over 2,000 indicators to the
+private sector and we have received additional indicators that
+the private sector did not allow us to share onward to other
+companies but that we did share internally within the Federal
+Government.
+It is important to note that an indicator does not equal an
+incident. And so a company or government agency can learn about
+an indicator from a failed attack just as they can learn from a
+successful attack. So these do not all represent incidents.
+They represent ``be on the lookout for this bad guy'' activity.
+Mr. Farenthold. And one of the big concerns with the act
+was the sharing of personally identifiable information. How
+much personally identifiable information are we seeing coming
+and going with this?
+Mr. Ozment. We have multiple layers of protection to
+protect privacy. First, companies are required to vet what they
+share themselves. We have some automated mechanisms to prevent
+inappropriate or incorrect information from being shared. And
+then there are a few types of information that would require
+human review.
+The way that we block in an automated way inappropriate
+information from being shared is that we just don't accept it,
+so it's not even possible to send it to us. So I can't tell you
+how many of those blocks have occurred. I can tell you that our
+human review has not identified any inappropriate information,
+to my knowledge.
+Mr. Farenthold. I will dive into this a little bit deeper
+if we get a second round of questioning. I see my time has
+expired.
+Mr. Hurd. Ms. Kelly, you are recognized for 5 minutes.
+Ms. Kelly. Thank you, Mr. Chair.
+According to its Web site, the United States Computer
+Emergency Readiness Team, US-CERT's role is to, and I quote,
+``leads efforts to improve the Nation's cybersecurity posture,
+coordinate cyber information sharing, and proactively manage
+cyber risk to the Nation.''
+Dr. Ozment, can you explain what that means?
+Mr. Ozment. Absolutely. So the US-CERT is a part of the
+NCCIC, our National Cybersecurity and Communications
+Integration Center. They have three broad roles shared by my
+larger organization. First is to promulgate best practices,
+help companies and Federal agencies understand what do they
+need to do to protect themselves?
+Second, is to share information about what the adversaries
+are doing so that those companies and agencies can adapt their
+defenses to the changing behavior of our adversaries.
+And third is to respond to incidents. US-CERT will respond
+to incidents, whether in the private sector or Federal
+Government or State, local, and tribal and territorial
+governments. We do that either by going on site, which we try
+to minimize because of the expense and overhead of doing it, or
+we can help remotely, sometimes just by analyzing the malicious
+software that was used in an intrusion, other times by giving
+more customized help to the situation.
+We prioritize the victims that come to us for help based
+upon our national risk. But we really encourage companies to
+reach out to the Federal Government, whether law enforcement or
+through us doesn't matter, we will connect it on the back end,
+and let us know about incidents so that we can come and help.
+Ms. Kelly. So if an government agency's computer is hacked
+and you say that part of your effort is to respond, does that
+include forensic analysis? What all does that include when you
+respond?
+Mr. Ozment. That's right. It includes--well, let me take a
+step back. Our role is different from law enforcement, and by
+analogy, every cyber incident is like an arson in the physical
+world. You want to have both the police and the firefighters
+responding to the incident.
+Our role is similar to that of the firefighter. We want to
+help a victim figure out where is the bad guy on their network,
+how do they get him off the network, work together to push that
+bad guy off the network, and then improve their defenses so
+that they are not just compromised again immediately
+thereafter.
+Then we take--well, all throughout that process, we take
+what we learn in this one incident and we broadcast it to other
+sectors, other companies, other agencies so that everybody can
+learn from the incident and make sure that they are themselves
+not victimized by the same approach that the adversary used in
+this case.
+Ms. Kelly. Okay. Now let's turn to government contractors.
+As you know, the biggest cyber intrusions of 2015 involved
+government contractors. Anthem is the largest provider of
+health insurance to government employees and it was hacked.
+KeyPoint is a provider of background investigation services and
+it was hacked, leading to the breach of OPM's network. What
+role did US-CERT play in the company's responses to those major
+cyber attacks?
+Mr. Ozment. I want to be careful not to speak to individual
+companies because we keep the confidentiality of our customers,
+if you will. But we have responded to attacks at both private
+sector companies, contractors, and Federal Government agencies.
+Depending on the situation, our role has been to analyze the
+malicious software, figure out, how did they break in and what
+did they once they got there? It has been to provide
+remediation advice: Here are the types of security measures you
+can put in place to ensure that this doesn't happen again. And
+to help them kick the bad guy off their networks.
+In an incident you often find a malicious actor, or you see
+traces of them on, say, one computer, and that's how you figure
+out that you've been compromised. But if you just kick them off
+that one computer, you can't be confident that you fully
+removed them from your network. So the first thing you have to
+do is look throughout your network, watch the bad guy, stay
+silent and watch the bad guy, see who they are talking to and
+where else they are on your network. You have to do that for a
+period of time so that you can be confident that when you kick
+them off you've gotten them entirely off your network, and we
+help victims with that as well.
+Ms. Kelly. Okay, thank you.
+Mr. Barger, when talking about the type of information
+forensics can provide, could it include information on the
+identity of future victims as well as how those victims might
+be attacked?
+Mr. Barger. Absolutely. Being able to gather information
+about an attacker, how they move, basically their genetic
+makeup, their capabilities, their intent, these fingerprints,
+essentially, can be telltale traces of how they do what they
+do. And to Dr. Ozment's point, you can leverage that intel gain
+and loss for everything that they show you. You can harness
+that information to then democratize that across your customer
+base and better understand who it is, what they're after, why
+they're after it, and over time that develops a great picture
+when you can get feedback from various other individuals or
+organizations that are affected by it to develop a much clearer
+information intelligence picture.
+Ms. Kelly. Okay, thank you. Looks like I have run out of
+time.
+Mr. Hurd. The distinguished gentleman from North Carolina,
+Mr. Walker, is recognized for 5 minutes.
+Mr. Walker. Thank you, Mr. Chairman.
+Thank you, panel, for being here today.
+Jumping right into questions for Dr. Ozment here, what
+participation rates have you seen from the private sector? Can
+you speak to that just for a moment?
+Mr. Ozment. Yes. We have, as you would expect, varying
+participation based on both the sector and also the program
+that we're talking about. We have a very wide uptake of the
+bulletins and advisories that we send out advising companies
+about security risks and mitigations. We have something like
+100,000 individuals signed up to receive those. And these tend
+to be the security individuals operating within a company.
+Mr. Walker. Right. What engagement have you seen from the
+Federal sector?
+Mr. Ozment. Federal sector, we also have pretty universal
+participation in our programs. And it is worth highlighting
+that as of about a year ago Federal departments and agencies
+are required to report incidents to US-CERT, part of my
+organization.
+Mr. Walker. Sure.
+Mr. Bhagowalia, is that correct?
+Mr. Bhagowalia. Yes, sir.
+Mr. Walker. All right. How effective has the Department of
+Homeland Security been in notifying your agency or notifying
+other government agencies?
+Mr. Bhagowalia. I think they have been very effective and
+things are improving. As you know, the threats have been coming
+at us in increasing frequency over time. Obviously, as the
+threats keep on coming at us, we work together with them, but
+we also work with other intelligence community agencies.
+Together, it's a community basically working together to make
+sure we are improving.
+Mr. Walker. Thank you.
+Mr. Barger, kind of the same question. How effective has
+DHS been in notifying the private entities?
+Mr. Barger. I can't think of, like, one security company
+that probably doesn't leverage the information that DHS puts
+out, whether it be on specific vulnerabilities or active
+threats. In many cases, that information serves as a seed in
+which we leverage and then continue to leverage private sector
+sources and methods to gain a better understanding of what we--
+--
+Mr. Walker. The world of cybersecurity is fairly new for
+all of us in the last decade or so. And to use your analogy,
+Dr. Ozment, you were talking about an arson situation where you
+guys are the firefighters. But also, you guys are kind of the
+end all, kind of the central authority when it comes to all of
+this.
+Can you speak a little bit, because I'm concerned that if
+you're going to be the central authority in this, I do believe,
+to go back to your analogy, that it's not just the
+firefighter's part, the investigation part, but what role do
+you have in the policing of it as well? Because I don't want
+there to be any gaps here, because I do feel like you have a
+role to maybe funnel information to both segments. Would you
+mind taking a minute to speak to that?
+Mr. Ozment. Absolutely. This is a team sport, both in the
+private sector and in government, and so we do partner very
+closely with Federal law enforcement agencies, particularly the
+FBI, the Secret Service, and Homeland Security investigators.
+Those agencies do prosecute cybercrimes and are very aggressive
+in reaching out to victims to help them figure out who did this
+and ideally prosecute the perpetrator.
+And we often--we find out about incidents and with the
+permission of the victim we share that with law enforcement.
+They do the same. And so we may not find out directly from a
+victim. We may find out because the victim talked to law
+enforcement who then told us.
+Mr. Walker. The larger point is, we want to make sure that
+we are getting this right since this is relatively new, and
+your role with the law as the law says, CISA says, you guys are
+the central authority in this. So it's very important that the
+communication is exactly where and what it needs to be and to
+whom this information needs to go to.
+You know, we don't want this to be the IRS or the EPA where
+there's decades of dysfunction. We have a chance at the ground
+level to make sure that the proper channels of communication to
+all the various departments or players in this is very
+important. I guess that's why I'm emphasizing this.
+I have got one more thing before I yield back. This could
+be to Mr. Taylor. Mr. Bhagowalia may want to respond as well.
+Modern cybersecurity best practices require a much
+different approach to information security than the Federal
+Government has done before, as we talked about this as being
+brand new. Placing a premium on information sharing, continuous
+network monitoring, and ensuring continuity of operation plans,
+these, I guess, plans are in place when a breach or degradation
+does occur.
+So here's the question, okay? How are your departments
+modernizing to keep pace with these best practices and shifts
+in approach?
+Mr. Barger, would you address that?
+Mr. Barger. In terms of the----
+Mr. Walker. Best practices shift in approach when it comes
+to this information.
+Mr. Barger. The best practices in terms of vulnerability
+management where sharing?
+Mr. Walker. Sharing information, yes, networking.
+Mr. Barger. So communities have different looks and feels,
+different participants, different requirements, and so being
+able to understand who your audience is, what their needs and
+their requirements are, helps foment more user growth, user
+engagement and participation in that community. So not a one-
+size-fits-all approach in that regard.
+Mr. Walker. Well, my time has expired, so I will yield back
+to the chairman. Thank you.
+Mr. Hurd. I would like to recognize the gentleman from
+California, Mr. Lieu, for his 5 minutes of questions.
+Mr. Lieu. Thank you, Mr. Chair.
+Mr. Ozment, are you familiar with this document
+commissioned by the administration called ``Liberty and
+Security in a Changing World'' in 2013? It's a report and
+recommendations of the President's Review Group on Intelligence
+and Communications Technologies?
+Mr. Ozment. I am familiar with it, sir, yes.
+Mr. Lieu. And I'm going to read to you recommendation 29,
+which says, ``We recommend that, regarding encryption, the U.S.
+Government should fully support and not undermine efforts to
+create encryption standards; not in any way subvert, undermine,
+weaken, or make vulnerable generally available commercial
+software; and increase the use of encryption and urge U.S.
+companies to do so in order to better protect data in transit,
+at rest, in the cloud, and in other storage.''
+Do you agree with that recommendation?
+Mr. Ozment. Sir, the issue of encryption is a really
+challenging one. And as administration officials have
+highlighted a number of times, we have to weigh the balances of
+our law enforcement and counterterrorism needs with our desire
+and need to improve cybersecurity across the private sector and
+government. So we are calling for a national conversation on
+this topic so that we can plot a way forward together
+essentially.
+Mr. Lieu. So do you agree or disagree with recommendation
+29?
+Mr. Ozment. I think it is more complicated than one can
+simply agree or disagree to. I think we do--it is a decision--
+--
+Mr. Lieu. Let's be pretty specific. Do you believe that the
+U.S. Government should not in any way subvert, undermine,
+weaken, or make vulnerable generally available commercial
+software? Do you disagree with that?
+MrOzment So, sir, I think in the--there's a lens here that
+any attempt--there are some people who perceive that any
+attempt to have court-ordered access to devices would be viewed
+as weakening software. If that's what you're referring to,
+that's really where I do think we need to have a national
+conversation to figure out what are our goals as a Nation.
+Mr. Lieu. I'm going to, with the permission of the chair,
+enter this document into the record. I just note that this
+document was really written from the angle of U.S. national
+security, and I think the proper frame for this debate is there
+is apparently some disagreement within the administration
+between law enforcement and U.S. national security. And my own
+view is we should not sacrifice U.S. national security, nor our
+economy, so that some law enforcement investigations can be
+made easier.
+Now, let me ask you another question. Are you familiar with
+Signalling System No. 7 in a cell phone network, also known as
+SS7, and the flaws associated with it?
+Mr. Ozment. Yes.
+Mr. Lieu. And as you may know, hackers of foreign
+governments that can exploit SS7 can listen to phone
+conversations of cell phones as well as acquire text messages
+in real time. Do you agree with that?
+Mr. Ozment. There are vulnerabilities that allow those
+accesses. Yes, sir.
+Mr. Lieu. Do you have a recommendation how to fix that?
+Mr. Ozment. These vulnerabilities were really first
+publicly highlighted in 2014. I think it's important to note
+that they are design vulnerabilities. So essentially, as the
+system is designed, you cannot fix it, per se. What you can do
+is carriers can monitor their networks for suspicious activity
+and then block that suspicious activity.
+When these vulnerabilities were disclosed, we reached out
+immediately to the carriers. We are not a regulator. We do work
+with the carriers through a voluntary partnership. The carriers
+have assured us that they are taking this seriously and are
+looking for malicious activity.
+But, frankly, I do share your very deep concern about this
+and I was concerned by the fact that the hackers you
+collaborated with on ``60 Minutes'' were so readily able to
+exploit that network. And so we are using this opportunity,
+frankly, to reach back out to the carriers and really push them
+to highlight progress.
+Mr. Lieu. Thank you. Would you agree that if a person using
+a cellphone had end-to-end encryption for the text messages or
+end-to-end encryption for their voice data, that that would
+mitigate this problem?
+Mr. Ozment. It would mitigate some aspects of this problem.
+If that were implemented, the other aspects, such as the
+ability to track location, would not be impacted.
+Mr. Lieu. Got it. Thank you.
+I forget, Mr. Chairman, if I requested to enter this into
+the record? Did I ask that? Maybe I did.
+Mr. Hurd. Without objection.
+Mr. Lieu. Okay. Thank you. And with that, I yield back.
+Mr. Hurd. Dr. Ozment, how long have you been at DHS?
+Mr. Ozment. I have been at DHS for approximately 2 years
+now.
+Mr. Hurd. Well, I would like to thank you for your service.
+I know the job that you have is difficult, and I think you have
+had an exemplary time at DHS, and I'm looking forward to
+continuing to working with you in the next few months.
+My question, I would like to drill down on the Juniper
+breach. The ScreenOS, there were several versions that were
+hacked, 6.30 version 17 through version 20. Were any of the
+versions that were vulnerable to the breach, were they
+supported by Juniper? Were security patches supported by
+Juniper, are you aware?
+Mr. Ozment. I'm not entirely sure. I believe that at least
+a number of those were out of service and no longer supported,
+certainly not all of them.
+Mr. Hurd. So when something is out of service, that means
+the vendor does not provide patch updates, or this is saying,
+``Hey, you are operating on your own. We are not responsible
+for keeping this up to speed.'' Is that correct?
+Mr. Ozment. That's correct.
+Mr. Hurd. Mr. Bhagowalia, my question for you. Fifty-seven
+devices had the Juniper vulnerability. Is that correct?
+Mr. Bhagowalia. Yes, sir, they were affected by the release
+versions in question in the ScreenOS, yes.
+Mr. Hurd. And do you agree that the vulnerable versions of
+the ScreenOS software that is provided by Juniper is not
+supported by a vendor, the security updates were not supported
+by the vendor?
+Mr. Bhagowalia. We didn't know about whether it is
+supported by the vendor, but we, obviously, the moment we got
+the information----
+Mr. Hurd. No, no, look, I'm not questioning about the--we
+can talk about the four devices that you thought were low
+vulnerability. My question is, why were you using versions of
+Juniper software ScreenOS that was no longer supported by the
+vendor? And if I'm not mistaken, please correct me if I'm
+wrong, the vendor stopped supporting that software in 2014,
+2013, 2014. Why was the Department of Treasury still using
+software that wasn't being supported by the vendor?
+Mr. Bhagowalia. I would have to get back to you on the
+exact details as to how many of those devices were late on that
+version that was not supported with 2014. We, obviously, work
+continuously with not only DHS, but with the vendor itself----
+Mr. Hurd. Well, but DHS doesn't have anything to do with
+supporting----
+Mr. Bhagowalia. Yes, sir.
+Mr. Hurd. --patching for a software.
+Mr. Bhagowalia. No, it doesn't, but we are sharing----
+Mr. Hurd. And the vendor has made it very clear that they
+are not going to continue to support that software. So what are
+you working with the vendor on?
+Mr. Bhagowalia. The vendor usually works with us to kind of
+figure out if there are any challenges with particular versions
+of software and so on and so forth. We have not looked at it or
+been advised of any particular devices there that were behind.
+But nevertheless the point is, we should, obviously, be----
+Mr. Hurd. You are the CIO for Treasury, correct?
+Mr. Bhagowalia. Yes, sir, I am.
+Mr. Hurd. How much software are you using in the Department
+of Treasury that is not supported by a vendor?
+Mr. Bhagowalia. We keep tabs on a lot of the legacy
+versions, that is----
+Mr. Hurd. Do you have a number? How many systems are you
+running----
+Mr. Bhagowalia. We have 329 systems, sir, overall in
+Treasury.
+Mr. Hurd. Okay. And how many of the 329 systems that you
+are running are systems provided by a vendor that is no longer
+supporting that version of the software that you're using?
+Mr. Bhagowalia. It's a small percentage. I'll have to get
+back the exact number.
+Mr. Hurd. Please get back with a specific number.
+Mr. Bhagowalia. Yes, sir, I will. Yes, sir.
+Mr. Hurd. Threat mitigation--threat assessment--or damage
+assessment is probably the most accurate number--of the 54
+systems that were using the Juniper's software ScreenOS, what
+did the hackers, attackers, have you done a damage assessment
+on what was possibly stolen?
+Mr. Bhagowalia. Yes, we've obviously looked at the devices,
+and which there were two versions. Obviously, one had the
+administrative access and one had the VPN. We looked at both of
+those devices and seen whether there was anything going on in
+those devices themselves. We looked at the risk analysis of
+that. We also, obviously, made sure that those devices did not
+have any lateral movement and other things like that.
+We're doing more in this area. We're putting some other
+countermeasures just to double-check, for example, using third
+parties to see if there's anything else going on in there.
+Mr. Hurd. So you identified 17 of the 56 systems as high
+threat? Is that correct? Fourteen?
+Mr. Bhagowalia. No, sir, 40 of the devices, out of an
+overabundance of caution, we put at high risk. Only 4 out of
+the 57 were really connected facing the Internet. The rest were
+internal facing.
+Mr. Hurd. Of those four that were facing the Internet, what
+kind of systems--what kind of information was traversing those
+systems?
+Mr. Bhagowalia. So one was--it was like, for example, it
+was on an isolated Internet connection at one of the locations,
+like Mint. Another location----
+Mr. Hurd. Right. So the Mint, like where we make money?
+Mr. Bhagowalia. Yes, sir, but it was not connected to the
+corporate LAN. It was sitting outside in a public-facing sort
+of Internet.
+Mr. Hurd. But it's still connected to the Internet, right?
+So are you implying that that's not a significant
+vulnerability?
+Mr. Bhagowalia. No, sir, we don't. We take cybersecurity
+very seriously.
+Mr. Hurd. So in your damage assessment, who did you think
+potentially took this information?
+Mr. Bhagowalia. Well, there was no information that we are
+aware of that has been taken, and we have looked at it very
+carefully. We, obviously are obviously concerned if there's
+anything that's an external attempt. But there were multiple
+layers of security in terms of what we were watching. And out
+of the version that we had, nothing was taken.
+Mr. Hurd. So you don't think anything was taken. But based
+on this vulnerability, you don't have to exfil data, right? If
+you're able to read--if you're able to decrypt encrypted
+information, then if you're capturing that encrypted network,
+the encrypted traffic traversing the network, you don't have to
+exfil it. So how would you know if something was taken or not?
+Mr. Bhagowalia. So, for example, the four devices that are
+in question, they do not participate in the VPN connection at
+all. So there's no risk to that. So even if that was taken out,
+there was no issue there.
+They are connected between three levels of firewalls, in
+addition to what's already at Juniper. They are configured in
+such a way without giving the configuration away. Since admins
+have special access to that, we were pretty confident, and we
+did a detailed risk analysis, and that's why we took a little
+bit of time to kind of, to your question, to really look into
+detail and make sure there's nothing going on.
+We absolutely appreciate a concern. We've also read your
+article, and we also know that this vulnerability was quite
+serious. We looked at it, and there was nothing that we can
+see. But we're also going further and making sure that we're
+bringing in other experts. And so far one of the vendors--one
+of the vendors who was going to be briefing today, Mandiant, we
+think is very, very good, is one of the other folks, and
+amongst others, that we're looking at bringing in.
+Mr. Hurd. Well, my time has expired, but there will
+definitely be several more rounds of question.
+I would like now to recognize the gentleman from Virginia,
+Mr. Connolly, for 5 minutes.
+Mr. Connolly. Thank you, Mr. Chairman, on what is, I think,
+one of the most important topics we can be addressing here in
+Congress with respect to our future.
+Mr. Taylor, can you explain what the Consular Consolidated
+Database is, briefly?
+Mr. Taylor. Thank you for the question, sir. Briefly----
+Mr. Connolly. Well, because I've only got 5 minutes.
+Mr. Taylor. I appreciate that, sir.
+The Consular Consolidated Database is a number of
+databases, actually. I think the total is around 18. It handles
+various activities, such as visa issuance, passport issuance,
+and that sort of thing. It manages our consular workload.
+Mr. Connolly. So hundreds of millions of records?
+Mr. Taylor. Hundreds of millions of records, sir.
+Mr. Connolly. Hundreds of millions of records. Would you
+agree, Mr. Taylor, that makes it a juicy cyber target?
+Mr. Taylor. We've identified it certainly as a target and
+as a critical system for the Department.
+Mr. Connolly. And on March 31 of this year there was a
+report that an internal review revealed lots of vulnerabilities
+in the CCD? Is that correct? There was an ABC News report that
+said you did.
+Mr. Taylor. Right. The ABC News report was referring to,
+sir, the process that we go through for all our significant
+systems, which is penetration testing and a host of other types
+of tests that we run against our system on a regular basis. So
+through that process, yes, in fact, we identified
+vulnerabilities. That's the point and purpose of the
+penetration testing. And we're well on our way to reconciling
+those and remediating it.
+Mr. Connolly. In response to the ABC story, the Department
+officially sort of took issue with those reports on the
+severity of the vulnerability and referred to it, the
+vulnerability of the CCD, as in the lowest threat category.
+Can you put that in perspective? I mean, how many
+categories are there at the State Department in terms of
+threat, cyber threat?
+Mr. Taylor. If I could, sir, I'd rather try to answer the
+question through the way we look at risk mitigation, and that's
+to look at the probability as well as the potential damage
+associated with the threat.
+The probability was very low, but, obviously, clearly,
+given the type of private information that's available on that
+system and the quantity, even with a low risk, we take that
+very, very seriously. In fact, I mean, we meet on this on a
+weekly basis with the under secretary and with the deputy
+secretary and with the senior leadership in Consular Affairs to
+track the progress against our remediation efforts.
+Mr. Connolly. Okay. Well, the reason I think it's important
+is because one of the concerns I've got with respect to cyber
+throughout the Federal Government is you look for--if I were a
+hacker or up to no good, I'd look to low-hanging, vulnerable
+fruit. And we, this committee, this subcommittee, has found
+lots of that in what might look ostensibly like an attractive
+target, Department of Education. Huge database, lots of
+information in it, and potentially ripe for the picking. Which
+is why we think implementation of FITARA is so important and
+because we've got to sharpen up our ability and make wise
+investments and so forth.
+Let me ask you while I've got you, Mr. Taylor, I've just
+gotten back from China, and on this particular trip there were
+probably 20 Members of Congress, Senators and House Members,
+Republicans and Democrats.
+I mean, everybody was told when we got there, you do
+understand that any device you bring will be compromised,
+period. Is it routine for the Department of State to provide
+counsel to Members of Congress when they're traveling to places
+that have a known reputation with respect to cyber?
+Mr. Taylor. Thank you, sir, for the question.
+I understand the question, but to be honest, it's a little
+outside of my wheelhouse. I'm not sure if those briefings take
+place. I would expect that Congress would receive those
+briefings either through our Diplomatic Security or another
+entity in State. It really isn't within the purview of the CIO
+responsibilities to do that.
+Mr. Connolly. I mean, you work for the State Department.
+Mr. Taylor. I do, sir.
+Mr. Connolly. Yeah. Well, maybe you can take it back with
+somebody whose purview it is.
+Mr. Taylor. Yes.
+Mr. Connolly. But it just worries me that a whole branch of
+government is unwittingly putting itself at risk. And remember
+I've got messages here from the State Department, from the
+White House, from lots of other Federal agencies, all of which,
+if I bring this to Beijing, is going to be compromised.
+Mr. Taylor. Yes, sir.
+Mr. Connolly. And it just seems to me a prudent measure for
+the executive branch to--if it isn't--to be more proactive in
+not only discouraging, but strongly providing guidance, quite
+explicit guidance, to Members of Congress, rather than having
+it be on our own. I mean, what could go wrong with 535
+individuals and their spouses traveling hither and yon with
+devices that are official that could be compromised?
+Mr. Taylor. Yes, sir.
+Mr. Connolly. It might be outside your purview, Mr. Taylor,
+but we both work for the U.S. Government and are concerned
+about U.S. security, and we're talking about cyber, and this is
+a big issue I think in your wheelhouse. So I would appreciate
+your cooperation in going back to whoever's purview it is in
+the Department and maybe beefing up our protective preemptive
+measures.
+Mr. Taylor. Yes, sir. I understand the question, and I will
+certainly take that back.
+Mr. Connolly. Thank you.
+Thank you, Mr. Chairman.
+Mr. Hurd. Thank you.
+Now I'd like to recognize Mr. Blum for 5 minutes.
+Mr. Blum. Thank you, Chairman Hurd.
+And I'd like to thank the panelists for appearing here
+today to talk about this most important issue.
+Mr. Barger, in your testimony you state that information is
+less a technical issue and more of a cultural issue. To me,
+this gets at the very importance of building trusting
+relationships. I'm from the private sector and trust is so
+important. Without trust, it's hard to run an effective
+business, trust between employer and employee, trust between
+the company and its vendors, trust between the company and its
+customers. Trust to me is ultra-important. And it gets to the
+importance of your statement of building trusting relationships
+between parties to ensure effective information-sharing
+practices.
+In your opinion, is there a trust deficiency between the
+private sector and the public sector when it comes to the
+sharing of threat intelligence?
+Mr. Barger. In terms of efficiencies, I believe sharing in
+general within public sector as well as within the private
+sector is still somewhat new, and everyone's feeling around the
+edges to figure out how to best approach it. I think the
+Information Sharing Act of 2015 kind of helped break the ice
+and give folks a renewed interest and focus in that area.
+In terms of private sector sharing, we find organizations
+are still challenged internally with communicating effectively,
+let alone some of the more advanced moves of sharing across
+parties or Bank A sharing with Bank B. But there's interest to
+get there.
+I think DHS and some of their initiatives are good starting
+points where there's a centralized area where folks can go. The
+private sector has a thirst for information, and so as much
+information you can send our way is always appreciated.
+Mr. Blum. There is a willingness in the private sector, I
+agree, and I hear that time and time again. Is there something
+the government, the public sector, can be doing to help
+facilitate this? Because there is that willingness, I agree
+with you.
+Mr. Barger. I think timeliness of reporting can help. I
+think there's optics and perceptions as to how much value
+information is coming out of the government in terms of the
+flash to bang. There's many cases where the private sector will
+be a little--a few steps ahead of the government in terms of
+sharing some information, and then several weeks or months
+later you'll get an FBI flash bulletin or a DHS report which
+echoes some of the same details you already know.
+However, there's also instances where, like I pointed out
+earlier, where the information that may come out of DHS or FBI
+will serve as a feed or will shore up a loose end that the
+private sector may have not have necessarily figured out or
+understand fully, but that then fills in some of the blanks.
+Mr. Blum. I hear from the private sector also sometimes the
+government is viewed as a black hole. And they deploy a fair
+number of assets, time, people's talent, to obtain information,
+share it with the government, and never hear back, never hear
+back. And that to them is a problem, and I'd say it probably is
+a problem. You know, was the problem resolved? Was it helpful
+or not? They just want to hear back.
+Any ideas there on what we can do to have a two-way
+communication street here versus, ``Give me, give me, give me,
+and, hey, don't ask what happened with it''?
+Mr. Barger. Correct. I am part of that group of folks who
+shared information into the black hole, if you will, and have
+wondered, was this effective, do you need more? But what
+happens is over time, when you don't hear back, you just say,
+really, what's the point of me continuing this if I don't
+really see the value?
+Mr. Blum. Exactly. Exactly.
+Mr. Barger. So having a thumbs-up or a thumbs-down or quick
+``got it'' is always helpful and I think lends to what you're
+talking about is improving that sharing relationship and that
+trust.
+Mr. Blum. Very good.
+I'll yield back the balance of my time, Mr. Chairman.
+Mr. Hurd. I'd like to recognize Mr. Lieu for another round
+of questions.
+Mr. Lieu. Thank you, Mr. Chair.
+Question for Mr. Barger, sir. Are you familiar with the SS7
+flaw?
+Mr. Barger. I am not.
+Mr. Lieu. Okay. That's fine. I will now go to Mr. Ozment.
+In February of this year, The New York Times published an
+article quoting Defense Secretary Ash Carter, and he is quoted
+in there regarding back doors as saying the following: ``Just
+to cut to the chase, I'm not a believer in back doors or a
+single technical approach. I don't think it's realistic.'' Do
+you agree with his statement?
+Mr. Ozment. I think part of the challenge here is an
+argument about what constitutes a back door or not. You know, I
+think what I have heard from law enforcement agencies is that
+they hope for a solution that allows them court-ordered access
+without introducing vulnerabilities. I think if you are to
+enter----
+Mr. Lieu. Let me just stop you there.
+Do you believe it's technologically possible to put in a
+back door only for the good guys?
+Mr. Ozment. I think there are solutions that add--that make
+that possible.
+Mr. Lieu. Just give me one.
+Mr. Ozment. However, to get to our point, I think any time
+you add a solution, you add complexity. And every time you add
+complexity, you increase the risk of compromise.
+Mr. Lieu. Thank you.
+Do you know how many smartphones were lost or stolen in the
+U.S., let's say, in 2013?
+Mr. Ozment. I do not.
+Mr. Lieu. Okay. According to an article in the LA Times,
+about 4.5 million smartphones were lost or stolen.
+If hackers could hack into a smartphone, they could access
+all sorts of data on Americans. Wouldn't you agree that it
+would be important that if government finds a flaw in
+smartphone encryption that they let the manufacturer know about
+it so we can protect American consumers if their cell phones
+are lost or stolen?
+Mr. Ozment. There is a process for deciding whether or not
+to disclose vulnerabilities that the government finds. My
+organization's role in this process is to advocate for the
+broad sharing of vulnerabilities, because that does increase
+the cybersecurity of our Nation.
+There are other perspectives that have to be viewed in that
+process, law enforcement intelligence perspectives, but the
+administration has gone on record to highlight that the
+process, the strong default, is to share information to
+increase the security of devices and systems.
+Mr. Lieu. So through this process the way the FBI was able
+to hack the recent iPhone in the San Bernardino case, that may
+be released to Apple at some point. Am I understanding that
+correctly?
+Mr. Ozment. If the FBI did, in fact, use a vulnerability it
+would go through this process and could potentially result in a
+release. But I don't know of the specifics of this, whether or
+not the FBI used a vulnerability in this case, so I would have
+to defer to the FBI on that.
+Mr. Lieu. Thank you.
+Before I forget, Mr. Chair, could I enter into the record
+this article, ``4.5 million smartphones were lost or stolen in
+the U.S. in 2013,'' from the Los Angeles Times?
+Mr. Hurd. Without objection.
+Mr. Lieu. Thank you.
+Mr. Barger, let me ask you a similar question. Do you agree
+with Defense Secretary Ash Carter's statement that we should
+not have back doors in encryption?
+Mr. Barger. I think that, again, introduces a very complex
+conversation. I think that we need strong encryption. As a
+member of industry, I would be very concerned and challenged, I
+guess, with any sort of approach by the government to weaken
+anything or weaken security or encryption of any sort of
+product or solution that we delivered. So I would say no.
+Mr. Lieu. Thank you.
+And with that, I yield back.
+Mr. Hurd. Mr. Farenthold from Texas is recognized for 5
+minutes.
+Mr. Farenthold. Thank you very much.
+I would like to follow up on a line of questioning the
+chairman had about legacy systems. We talked about some of the
+legacy and unsupported systems in the IRS. We've had hearings
+where various government agencies are still running pre-Windows
+98 or Windows 98, again, not supported by Microsoft, the
+security patches are not coming up.
+Dr. Ozment, do you have any idea the scope of this problem?
+Mr. Ozment. I think this is a major problem for the Federal
+Government. It's something that is concerning to me.
+I'll tell you that we do scan agencies externally, so the
+systems they have connected to the Internet, and we look for
+critical vulnerabilities. We do consider an unsupported device
+to be a critical vulnerability.
+And some of our most challenging discoveries in that
+process are unsupported devices, particularly at smaller
+departments and agencies who may lack the resources or the
+expertise to upgrade these very legacy systems. I think this is
+a major risk for the government. And I do believe that any
+approach that we can take to upgrading and replacing legacy
+systems is a good approach.
+Mr. Farenthold. And the National Institute of Standards
+publication 800-40 lays out guidance for agencies on enterprise
+patch management and states that it would be, quote, ``ideal''
+to deploy patches immediately so as to minimize the timeframe
+systems that are vulnerable. You know, obviously, immediately
+isn't possible. We've got a couple--we've got the State
+Department and Treasury Department here. How good are you guys
+at getting this out? I mean, what is immediately for you? A
+security patch comes out, how long does it take you to get it
+out, Mr. Taylor?
+Mr. Taylor. So our security patches, we look at it two
+ways, critical threat patches and typical required patches. So
+for our critical patches--we begin immediately, I want to be
+clear about that--we have a 3-day timeline to deploy a patch
+worldwide, to all locations worldwide. We meet that with
+approximately 98 percent success rate.
+Mr. Farenthold. And how are you all doing at Treasury?
+Mr. Bhagowalia. We obviously take the most critical patches
+first, sir, and we move on it. And as you saw in my testimony,
+we fix those in 5 days, 6 days. For the rest of the enterprise,
+we work with the bureaus to make sure those critical patches go
+first. As far as the medium and low patches, they take a little
+bit more time. And we also are, obviously, looking at
+operational risk, making sure those systems are a continuing
+mission. And then we schedule that, and then the report, the
+bureau CIO's report, back to us.
+So the answer is it's ongoing. As to exact numbers, I can
+get back to you and give you the exact numbers.
+Mr. Farenthold. All right.
+And, Dr. Ozment, in May of 2015, it's my understanding that
+the Secretary issued a binding operational directive requiring
+all agencies to mitigate critical vulnerabilities on their
+Internet-facing devices within 30 days. That seems like an
+awful long time to me, but before I go criticizing how long it
+is, how much success do we have getting them done in 30 days?
+Mr. Ozment. I would agree with you that it is a somewhat
+generous amount of time. I would highlight that, to the points
+that my colleagues have made, the criticality of the patch and
+the type of system will dictate timing. There are systems that
+are more complicated than your normal desktop operating system
+that do take additional time. And since we were doing a one-
+size-fits-all policy, we had to be somewhat generous.
+Even with that somewhat generous timeframe, when we
+started, when we released this directive, there were over 360
+Internet-facing systems with critical vulnerabilities in them.
+I view that as the backlog, what we started with, because of
+course new vulnerabilities are discovered all the time.
+We reduced that backlog, not as rapidly as I would like for
+the government to have reduced it, but we are now down--we
+have, obviously, eliminated that backlog. Even right now we
+have 39 vulnerabilities across the government that are critical
+but have been unpatched for more than 30 days. There is good
+news in that, which is when we started we were over 360, and,
+clearly, not enough attention was being paid on it.
+Mr. Farenthold. I mean, are these some obscure operating
+system or ultracomplicated software or are we just not running
+Windows update?
+Mr. Ozment. The majority of these are now legacy systems at
+small agencies that are struggling to manage their IT and to
+find the budget to replace these legacy systems. These have
+been the toughest nuts for us to crack.
+Mr. Farenthold. All right. I am loathe to ask what you
+think Congress could do to help with that, because I suspect
+the answer will be: Give us more money. But is there something
+besides give us more money that we can do in Congress? And then
+I'll yield back after your answer.
+Mr. Ozment. You know, I would like to highlight that
+Congress has been incredibly helpful to date. The recent
+legislation passed in both 2014 and 2015 has been very
+important. This type of attention is very important.
+I do think that one of the challenges that agencies
+consistently have is when you replace a legacy system, you
+often have to operate that system for a period of time even as
+you're paying to build the new system. So you do functionally
+need to pay for two things at once for a period of time.
+The IT modernization bill sponsored in part by
+Representative Kelly, the ranking member, would really assist
+with that, because it would essentially give you that fund to
+temporarily support the building of a second system even as you
+operate the original, older system.
+Mr. Farenthold. Thank you.
+I yield back.
+Mr. Hurd. The ranking member from Illinois is recognized
+for 5 more minutes.
+Ms. Kelly. Thank you.
+Mr. Bhagowalia----
+Mr. Bhagowalia. Yes. Yes, ma'am.
+Ms. Kelly. --Mr. Taylor, this question is for both of you.
+As the people with ultimate responsibility for the security of
+your agencies' computer networks, I imagine that you would
+welcome any information that would help you with cyber defense.
+If a company that plays a critical role in your agencies'
+mission was hacked, would knowing how that hack happened help
+you to do your job?
+Mr. Bhagowalia. Yes. We work with a lot of vendors, and we,
+obviously, work very closely with them. I believe the cyber
+climate, the way things are in the prevailing world, we work
+together as a team and we look out for each other. We are all
+in the boat together. And that's the way we want to manage
+this.
+We share information also across not only the government,
+not only with DHS, but with the law enforcement and the
+intelligence community. I myself Came from the law enforcement
+intelligence community. And I can tell you that--and I have
+come from industry--we are in a different world now, and the
+adversary is growing in sophistication, volume, brazenness, and
+impact and frequency.
+So if that's the case, the only way we can do this together
+is to work together and make this thing happen. So absolutely,
+ma'am.
+Ms. Kelly. Mr. Taylor.
+Mr. Taylor. Thank you for the question.
+Partnership is the basis of our cyber defense. We learned
+that in 2014 when we had our challenges with our unclassified
+email. We reached out to DHS. We reached out to NSA. We get
+wonderful support from the FBI. We support and established a
+joint operations center for cyber. So we have folks from
+interagency there sitting with us 24/7, 7 days a week, 365 days
+a year.
+We receive threat and mitigation information from just a
+host of partners. It would not be possible for the Department
+of State or any other agency to successfully defend our systems
+without support, without continuing information, both threat
+information and mitigation information, private sector and
+public. We recognize that. As I said, that's a keystone for us.
+Ms. Kelly. What means do you have--and this is for both of
+you--to learn about the details about a hack of one of your
+contractors? How do you learn about that?
+Mr. Bhagowalia. We work very, very closely, first of all,
+with our vendors in terms of our governance, that they have to
+tell us what's going on, and I think in that regard, we watch
+that. We monitor classified and unclassified channels,
+including vendor community, from our security operations center
+that looks for that. We work with the US-CERT, NCCIC, and DHS,
+who gives information to us. We work on the Federal CIO Council
+where we are all sharing information as a sort of a network of
+CIOs and also CISOs.
+We also work within our folks and our staff who have sort
+of an organic network. And I don't want to underplay the
+importance of that organic network that's looking and looking
+out. So I think we're doing a pretty good job there.
+Ms. Kelly. And, Mr. Taylor, you would agree with----
+Mr. Taylor. Absolutely. We actively maintain our
+relationship with our vendors. I travel regularly, we meet with
+them regularly.
+Ms. Kelly. Okay. Thank you.
+Ms. Ozment, just two quick yes or noes. Are government
+contractors required to share detailed forensic analysis about
+attempted or successful cyber attacks, yes or no?
+Mr. Ozment. Not in general. There may be some specific
+contracts where that's required.
+Ms. Kelly. Okay. Are government contractors required to
+notify the FBI if they are the victims of a successful cyber
+attack? Yes or no?
+Mr. Ozment. Again, not in general. There may be specific
+contracts.
+Ms. Kelly. Are there examples where US-CERT has offered its
+services to government contractors who were hacked and the
+company declined the offer?
+Mr. Ozment. Not to my knowledge. I don't believe so.
+Ms. Kelly. Okay. All right then.
+Thank you. And I yield back.
+Mr. Hurd. Mr. Bhagowalia, some very basic questions, and I
+apologize for not knowing the answer to this.
+At Treasury, what floor does the Secretary of Treasury sit?
+Mr. Bhagowalia. Main Treasury, third floor, sir.
+Mr. Hurd. And where do you sit?
+Mr. Bhagowalia. I sit in one of the buildings next to the
+Main Treasury.
+Mr. Hurd. Do you have budgetary and operational control?
+I'm assuming there's a CIO specifically for IRS, right?
+Mr. Bhagowalia. There's a separate CIO for IRS, sir.
+Mr. Hurd. Does that person report to you?
+Mr. Bhagowalia. No, he does not. Reports to the
+Commissioner. But he has a dotted line under FITARA that I have
+given him some CIO commitments that he has to report with me
+and work with me.
+Mr. Hurd. But isn't part of FITARA to empower you to have
+control over the entire organization?
+Mr. Bhagowalia. Yes, sir. The Department has the authority,
+and I'm working very closely with the bureau's CIOs to make the
+mission happen.
+Mr. Hurd. CDFI, what is that?
+Mr. Bhagowalia. It's one of the consolidated funds that is
+a smaller program that sits within the departmental offices.
+Mr. Hurd. So earlier this year or late last year, we sent a
+letter, this committee sent a letter to every agency asking for
+an update or asking for a review of legacy hardware and legacy
+software. And thank you, you get back to us. And I know I asked
+a question earlier about old systems. I have eight pages worth
+of information. Some of the software, when we asked when was
+the last date of support, the answer was ``unknown'' because
+the vendor is no longer in business.
+Some of the other software stopped being supported in 2007.
+And then we asked the question: If no longer supported by
+vendor, how is it supported? The reply was: Unsupported, IRS
+assumes expired product risk.
+Now, I'm not going to go through each one of these. But my
+question is, do you, as the CIO of Treasury, have the authority
+to go through, identify which one of these are high risk, and
+figuring out why and moving away from unsupported software?
+Mr. Bhagowalia. Yes, the bureau CIO and I do, I have the
+authority, and we look at using what they call critical POAM
+item, and they have to report to me as to whether they are
+testing and is there enough security, that there's any
+vulnerability, if there's anything critical. And they have
+signed to that and I can--I, obviously, check and verify that.
+If they have not done that, I have the authority to turn it off
+and so do they. And, obviously, this particular system I'll
+have to take a look at----
+Mr. Hurd. No, look, we're going to get into a much larger
+conversation at some other point about this. But some of these
+systems that stopped being supported in 2013 deal with software
+to manage cell phone communications, right? So this is--to me,
+that would be a high priority vulnerability or a system that
+should be of high priority to ensure that--and, again, the
+Federal Government shouldn't be in the business of providing
+support to products. We should be upgrading and buying the
+latest version. So I'm more interested in making sure you have
+the authorities in order to solve these problems.
+Dr. Ozment, how much, you know, with the new cybersecurity
+rules that DHS has, how much influence do you all have in
+telling another department or agency, ``Hey, guys, you all need
+to sort this out''?
+Mr. Ozment. The new authorities that Congress has provided
+us and, frankly, the congressional attention on this issue have
+really dramatically helped us more deeply engage with
+departments and agencies. We focus on working collaboratively
+with those departments and agency, essentially because when
+they trust us, we can accomplish more together. And we also
+look at OMB holding agencies accountable. And together, we
+really work to improve----
+Mr. Hurd. Dr. Ozment, do you have a list of all the
+unsupported software that's being used across the 24 CFO
+agencies?
+Mr. Ozment. I do not, but I'll be honest with you, I want
+that--I will have that when CDM phase one is deployed.
+Mr. Hurd. Copy.
+Mr. Ozment. And I want an automated list of that. I don't
+want a manual data----
+Mr. Hurd. Good. Copy.
+Mr. Barger, should enterprises be concerned with using
+software that is no longer supported by a vendor?
+Mr. Barger. They should. Unfortunately, organizations over
+time will set up systems that just become systems of record,
+that they just cannot pull these systems out, that they age
+within the organization, both within public and private sector.
+It's not just one sector or the other. So it's a very hard to
+necessarily pull them out. If you consider some medical devices
+are FDA regulated, so if you were to patch them, in some cases
+you change that regulation.
+And so there's these very nuanced details in accepting risk
+in and around these nuanced systems of record that could be
+supporting command and control or medical systems. And so there
+can be creative workarounds that are put in place, be it
+policies or solutions, that can help manage that risk a little
+better.
+Mr. Hurd. No, thank you for that.
+And my next question kind of shifting gears slightly. Can
+you do--can an enterprise do proper damage assessment without
+understanding who the threat actor was?
+Mr. Barger. So as a former analyst, I am always
+appreciative of as much information as possible so that I can
+use that and form the basis to make better decisions. So I
+think maybe to your point around attribution, that sort of
+information, always helps to understand what the adversary's
+motivations are, because that can frame how I respond and
+subsequent decisions down the line, be it technical or
+nontechnical type response.
+Mr. Hurd. So would this be a fair statement, that
+understanding who the attacker is, we would better--we can do
+better damage assessment?
+Mr. Barger. Absolutely. It's an integral part. I mean, one
+of the first questions everybody asks when you're the bearer of
+bad news and there's a breach is: Who did it? Or why? The boss
+always wants to know that. And so understanding that can,
+again, help frame how you respond and the decisionmaking cycle
+afterwards.
+Mr. Hurd. When it comes to the Juniper ScreenOS breach, do
+you have opinions on who was responsible?
+Mr. Barger. These are personal opinions and not necessarily
+rooted in fact, but just reading, casually reading----
+Mr. Hurd. The record reflects that.
+Mr. Barger. Roger. Okay. So if you look at the type of
+vulnerabilities potentially introduced for the term in which
+they're reporting that, I could think of a handful of nation-
+state entities that would leverage key weakening and an
+administrative back door for core infrastructure. And that core
+infrastructure is kind of one of those more strategic areas of
+the domain, if you will, the contested domain, that if you lay
+up in there, you can do quite a bit in terms of----
+Mr. Hurd. So let's talk about the nature of the Juniper
+ScreenOS breach. Source code was manipulated, correct?
+Mr. Barger. From what I understand, correct.
+Mr. Hurd. And code was inserted in the source code used for
+ScreenOS. Is that your understanding?
+Mr. Barger. From what I understand, correct.
+Mr. Hurd. How difficult is it to do that?
+Mr. Barger. I would imagine if it were, for me, putting on
+a bad guy hat, that I would have to have a significant
+understanding of how that system works as well as a very robust
+quality assurance capability to make----
+Mr. Hurd. But when you're designing software protecting--
+ensuring that your source code cannot be seen, is a pretty--
+that's a pretty key--that's a key software development.
+Mr. Barger. Correct. That's what I was driving at, is that
+there had to have been a robust team that would be able to make
+sure that that implant or that key weakening was not detected
+for the term that's being reported.
+Mr. Hurd. Could Juniper have protected its source code
+better?
+Mr. Barger. I don't know enough about their development
+process and their internal security to be able to say that,
+but----
+Mr. Hurd. So based on your experience and your--this is
+your personal observation--it was a state actor--it was an
+entity supported by a nation-state?
+Mr. Barger. I would certainly think that a criminal or
+ideological group probably wouldn't have necessarily the
+resources or the motivation to leverage that type of attack.
+Mr. Hurd. Why are--and maybe, Dr. Ozment, this is a better
+question directed to you--who is responsible in the Federal
+Government for attribution?
+Mr. Ozment. We look to the intelligence community, so the
+Director of National Intelligence for attribution.
+Mr. Hurd. So DNI is the one responsible for making
+attribution. Even in a case when it's a breach of a private
+sector entity?
+Mr. Ozment. That's right.
+Mr. Hurd. But that private sector entity could make it
+aware, right? Because if a private sector company is hacked,
+they usually--they will bring in--they'll probably reach out to
+some Federal Government agencies, whether it's DHS--it should
+be DHS now, after the Cybersecurity Act of 2015. They're going
+to bring you in. They're probably going to hire another company
+that does incident response and threat mitigation. But are
+there barriers from having the company that's hacked from
+articulating who they believe was responsible for the breach?
+Mr. Ozment. No. Any company could point to anybody if they
+had a view on the perpetrator.
+Mr. Hurd. Why--and this is my opinion now--I feel like in
+this case of the Juniper ScreenOS hack people have been
+reticent to do attribution, even general attribution. Do you
+have an opinion on that, Dr. Ozment?
+And, Mr. Barger, I'm going to ask you the same question.
+Mr. Ozment. You know, I don't, other than to say that the
+government has historically been--has used attribution in a
+fairly relatively few cases. And so I don't view it as unusual
+that the government has not attributed this particular
+incident. That's it.
+Mr. Hurd. Copy.
+I will now recognize my friend from California, the
+distinguished gentleman, Mr. Lieu, for another round of
+questions.
+Mr. Lieu. Thank you, Mr. Chair.
+My understanding is that Juniper was invited to testify,
+but they refused to come. I just want to note for the record
+that I--well, let me first ask questions.
+Mr. Ozment, is Juniper a government contractor?
+Mr. Ozment. I don't know for sure. I would assume that they
+are. I do want to highlight that they're a victim here and that
+from our perspective we ask all IT vendors to give us advanced
+notice when they are making a major patch so that we can
+amplify their patch announcement and make sure that it reaches
+the public and private sector, that everybody who knows needs
+to know about it.
+In this case they did notify us in advance that they were
+developing a major patch. I think they did a very responsible
+job of this, and I salute them for working hard to make sure
+that all of their customers were aware of this vulnerability
+and helping us amplify their message as well.
+Mr. Lieu. I note for the record that Juniper had their
+systems breached. I find it disrespectful that they did not
+come here to testify and it insinuates that they have something
+to hide.
+So let me ask some questions for Mr. Bhagowalia. I'm trying
+to understand your agency's response to the breaches of
+Juniper.
+My understanding is that within 1 week, 48 out of 57
+affected systems on Treasury's network were patched. Is that
+correct?
+Mr. Bhagowalia. Yes, sir.
+Mr. Lieu. But for the other nine, it took, from my
+understanding, another 2 months. What's the reason that it took
+that amount of time?
+Mr. Bhagowalia. We made a risk-based decision, and we found
+that out of those devices--first of all, anything--only 4 of
+those 57 were Internet facing. Everything inside had many
+layers of firewalls. We found that of those devices, a certain
+amount had--did not even have the VPN vulnerability as such. So
+we looked at that and made a risk-based decision as one of the
+bureaus to delay the patch. And the others were mitigated in
+terms of compensating controls that they had in place. So it
+was done a little bit later.
+Obviously, in retrospect, one could look at balancing
+mission and risk, and we could have gone a little faster, but
+it was basically a low risk for the devices that were done
+after the first week.
+Mr. Lieu. So when I patch something on my computer it's, I
+don't know, a few minutes. Are these very complicated patches?
+Are these something that takes a long time? I'm trying to
+understand why it just wouldn't have been done rather quickly.
+Mr. Bhagowalia. Yes, sir. Let me just say, as an engineer,
+we obviously, obviously, look at first what is the risk
+analysis as to what the thing is. We understood the details of
+this once we were told what the thing was and exactly what the
+vendor was saying and what DHS told us. We went and looked at
+what the risk analysis is, is it in our network?
+We looked at where they were facing. A lot of these
+configurations, without giving them away, we have multiple
+layers of firewalls and protection and proxying and all kinds
+of various means that allows sort of a maze of things that we
+do to basically confuse anyone from getting in.
+And third, you know, five of those device didn't have the
+VPN vulnerability. So even if there was nothing to decrypt, we
+actually covered that.
+So it just, if you look at it in isolation, obviously, one
+can only always look at something being a little faster, but we
+always balance operational risk. Because think of it has a
+neighborhood, gated community, and then you get in, and then
+you've got multiple layers of firewalls and a backbone network
+that had one or two of these devices between many layers just
+to get into that. And beyond that, there were various firewall
+subdivisions and these were deeply imbedded inside those
+firewall divisions. So to get to those would require a lot of
+compromise before someone gets in.
+So we looked at that, and based on that, it was made--a
+risk-base decision was made. And in addition to that, I would
+just add that we are actively using other kinds of red teaming,
+should I say, penetration testing, and we are also looking at
+some hunt operations to make sure there's nothing in there. We
+are aware of some of these nation-states, and I think in this
+case we have not seen anything.
+Mr. Lieu. Thank you.
+Ms. Ozment, you're familiar with the ransomware attacks on
+hospitals, some of which were in southern California?
+Mr. Ozment. I am, sir.
+Mr. Lieu. And do you have a sense of how many hospitals
+have been hit with ransomware attacks in the last year or last
+few months?
+Mr. Ozment. I don't have those numbers in hand, but we have
+certainly seen an increase in ransomware, not just the health
+sector, but across the Nation.
+Mr. Lieu. If this is something we could follow up with your
+office to see if you could let us know about how many attacks
+we're experiencing?
+Mr. Ozment. Absolutely, sir. Will do.
+Mr. Lieu. Great. Thank you.
+And then let me just conclude with a comment.
+In this case, Juniper made firewalls to try to prevent
+important information from going to foreign governments.
+Juniper is not the victim in this case, as the witness from DHS
+had said. The U.S. Government and the American people are, and
+we need to view this in a whole different lens, that when
+products are made to try to protect the U.S. Government and
+they fail, the companies that made those products are not the
+victims. They failed. And I think we just need to put this in
+proper perspective. The victims here are the U.S. Government,
+the American people.
+Thank you.
+I yield back.
+Mr. Hurd. Thank you.
+Dr. Ozment, is DHS MPPD built and organized to deal with
+the problems of the future?
+Mr. Ozment. It is not, sir. And we have proposed a
+reorganization that we would very much appreciate support of
+the Congress in performing that reorganization.
+Mr. Hurd. And, again, I'd just like to point out, I think,
+when it comes to the Juniper breach, I think DHS played an
+important and key role in organizing the government's response
+to this.
+I still have a problem with attribution. And, Dr. Ozment,
+can attribution play a deterrence role?
+Mr. Ozment. I think it absolutely can. You know, depending
+on the circumstances, actual attribution could be used to play
+a deterrence role. In other circumstances the threat of
+attribution may play a deterrence role. I do think it depends
+on the particular actor and the dynamics of the relationship,
+but it can absolutely be a tool for deterrence.
+Mr. Hurd. Copy.
+Mr. Bhagowalia, would you like to know who was responsible
+for or have some idea of attribution for this Juniper breach?
+Mr. Bhagowalia. Absolutely, sir. You know, we have,
+obviously, been reading all the news and watching various
+channels, but we'd love to know.
+Mr. Hurd. Now, Mr. Taylor, I know the Department of State
+wasn't affected, because you didn't have any of the ScreenOS
+software running on there.
+But does anybody on the panel like to make any comments on
+attribution?
+Mr. Barger.
+Mr. Barger. To your point about attribution serving as a
+deterrent, we conducted research into a specific series of
+attacks that had been targeting entities within the South China
+Sea for quite some many years and put out an attribution
+product with the assistance of some of our partners. And,
+basically, after this attribution product was released, we
+basically saw no more activity from it. Not to say that they
+are done forever, but I do believe that it can slow down,
+mitigate active threats as well as enter into the adversary's
+decisionmaking cycle as to how important this sort of thing is
+on the world stage and how to recognize those.
+Mr. Hurd. I appreciate that.
+And, Mr. Taylor, we have--I have extended my time on too
+many occasions, but I'd like to let you know that there was a
+report that the Department recently--Department of State
+recently detected a vulnerability within its own systems, and
+we're going to provide you all with some questions that we
+would like to have answered on the record. And one of those
+questions is I hope that information has been shared with DHS
+in order to communicate that across the rest of the Federal
+infrastructure.
+Mr. Hurd. Barring no further business, I'd like to thank
+our witnesses for taking the time to appear before us today.
+And if there's no further business, without objection, the
+subcommittee stands adjourned.
+[Whereupon, at 11:25 a.m., the subcommittee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

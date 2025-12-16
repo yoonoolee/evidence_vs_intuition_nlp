@@ -1,0 +1,2608 @@
+- PROTECTING THE 2016 ELECTIONS FROM CYBER AND VOTING MACHINE ATTACKS
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+PROTECTING THE 2016 ELECTIONS
+FROM CYBER AND VOTING MACHINE ATTACKS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+September 13, 2016
+
+__________
+
+Serial No. 114-91
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+22-560 PDF                     WASHINGTON : 2017
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800;
+DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC,
+Washington, DC 20402-0001
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. LAMAR S. SMITH, Texas, Chair
+FRANK D. LUCAS, Oklahoma             EDDIE BERNICE JOHNSON, Texas
+F. JAMES SENSENBRENNER, JR.,         ZOE LOFGREN, California
+Wisconsin                        DANIEL LIPINSKI, Illinois
+DANA ROHRABACHER, California         DONNA F. EDWARDS, Maryland
+RANDY NEUGEBAUER, Texas              SUZANNE BONAMICI, Oregon
+MICHAEL T. McCAUL, Texas             ERIC SWALWELL, California
+MO BROOKS, Alabama                   ALAN GRAYSON, Florida
+RANDY HULTGREN, Illinois             AMI BERA, California
+BILL POSEY, Florida                  ELIZABETH H. ESTY, Connecticut
+THOMAS MASSIE, Kentucky              MARC A. VEASEY, Texas
+JIM BRIDENSTINE, Oklahoma            KATHERINE M. CLARK, Massachusetts
+RANDY K. WEBER, Texas                DON S. BEYER, JR., Virginia
+JOHN R. MOOLENAAR, Michigan          ED PERLMUTTER, Colorado
+STEVE KNIGHT, California             PAUL TONKO, New York
+BRIAN BABIN, Texas                   MARK TAKANO, California
+BRUCE WESTERMAN, Arkansas            BILL FOSTER, Illinois
+BARBARA COMSTOCK, Virginia
+GARY PALMER, Alabama
+BARRY LOUDERMILK, Georgia
+RALPH LEE ABRAHAM, Louisiana
+DARIN LaHOOD, Illinois
+WARREN DAVIDSON, Ohio
+
+C O N T E N T S
+
+September 13, 2016
+
+Page
+Witness List.....................................................     2
+
+Hearing Charter..................................................     3
+
+Opening Statements
+
+Statement by Representative Lamar S. Smith, Chairman, Committee
+on Science, Space, and Technology, U.S. House of
+Representatives................................................     5
+Written Statement............................................     7
+
+Statement by Representative Eddie Bernice Johnson, Ranking
+Member, Committee on Science, Space, and Technology, U.S. House
+of Representatives.............................................     9
+Written Statement............................................    11
+
+Witnesses:
+
+Dr. Charles H. Romine, Director, Information Technology
+Laboratory, National Institute of Standards and Technology
+Oral Statement...............................................    14
+Written Statement............................................    17
+
+Hon. Tom Schedler, Secretary of State, State of Louisiana
+Oral Statement...............................................    27
+Written Statement............................................    29
+
+Mr. David Becker, Executive Director, The Center for Election
+Innovation & Research
+Oral Statement...............................................    35
+Written Statement............................................    38
+
+Dr. Dan S. Wallach, Professor, Department of Computer Science and
+Rice Scholar, Baker Institute for Public Policy, Rice
+University
+Oral Statement...............................................    42
+Written Statement............................................    44
+
+Discussion.......................................................    56
+
+Appendix I: Answers to Post-Hearing Questions
+
+Dr. Charles H. Romine, Director, Information Technology
+Laboratory, National Institute of Standards and Technology.....    88
+
+Hon. Tom Schedler, Secretary of State, State of Louisiana........   107
+
+Mr. David Becker, Executive Director, The Center for Election
+Innovation & Research..........................................   110
+
+Dr. Dan S. Wallach, Professor, Department of Computer Science and
+Rice Scholar, Baker Institute for Public Policy, Rice
+University.....................................................   113
+
+Appendix II: Additional Material for the Record
+
+Washington Post article How to hack- and rig-proof U.S. elections   122
+
+PROTECTING THE 2016 ELECTIONS
+FROM CYBER AND
+VOTING MACHINE ATTACKS
+
+----------
+
+TUESDAY, SEPTEMBER 13, 2016
+
+House of Representatives,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Committee met, pursuant to call, at 10:11 a.m., in Room
+2318, Rayburn House Office Building, Hon. Lamar Smith [Chairman
+of the Committee] presiding.
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. The Committee on Science, Space, and
+Technology will come to order. Without objection, the Chair is
+authorized to declare recesses of the Committee at any time.
+Welcome to today's hearing entitled ``Protecting the 2016
+Elections from Cyber and Voting Machine Attacks.'' I'll
+recognize myself for an opening statement and then the Ranking
+Member.
+We are here today to discuss the subject of election
+security. It's hard to imagine a more bipartisan issue.
+Election security is fundamental to the fairness of elections
+and democracy in the United States. Elections are a key
+component of democracy, and voting is the very essence of what
+President Abraham Lincoln meant when he said a government by
+the people.
+Voting is the means by which Americans express their
+opinions about their government. It provides Americans with the
+opportunity to affirm policies they like and change what they
+don't. When our citizens vote, they not only elect their
+leaders, they choose a direction and set priorities for our
+nation. Elections with integrity strengthen democracy. They
+confer legitimacy and boost public trust in government.
+Concerns with earlier versions of voting and election
+systems led to the passage of the 2002 Help America Vote Act.
+This act requires the National Institute of Standards and
+Technology, over which we have jurisdiction, to work with the
+Election Assistance Commission on technical, voluntary
+guidelines for voting.
+Today, we will discuss the current technical voluntary
+guidelines that are in place for States to protect their voting
+and election systems. Though these guidelines are voluntary, I
+hope to hear whether they are sufficient to safeguard our
+elections and whether States effectively use them.
+This discussion is timely as many concerns have been raised
+in recent months about the vulnerabilities of electronic voting
+machines, voting over the Internet, and online voter
+registration. In response to these concerns, our discussion
+today will review the security of the election system in its
+entirety. We will examine what guidelines are in place, how we
+currently protect systems from potential technical
+vulnerabilities, and what kind of work--including research and
+development in my home State of Texas--is underway to protect
+future voting and election systems.
+Last year, hackers from China infiltrated the Office of
+Personnel Management's database and stole confidential records
+and personal information on more than 22 million current and
+former federal employees, including those involved in our
+national security effort with the highest security clearances.
+The attacks on voter registration databases in Illinois and
+Arizona are the latest instances of such attacks, this time
+with alleged ties to Russia. We have yet to take decisive steps
+to defend ourselves and deter attackers.
+The President says we are more technologically advanced,
+both offensively and defensively, in cyber warfare than our
+adversaries. So why won't he take the necessary steps to
+prevent cyber attacks on our elections systems by foreign
+governments? If we are attacked repeatedly and do nothing, we
+will have surrendered unilaterally and put at risk our economy,
+our national security, and our very freedoms.
+This committee has held more than a half-a-dozen hearings
+on cybersecurity issues in this Congress. We know it isn't
+enough to respond to cyber attacks with diplomatic protest. We
+are going to hear from witnesses today about how the Federal
+Government can help States keep our election systems secure.
+But the single most important way to protect our election
+systems, to protect each American's right to vote and be heard,
+is for this Administration--and for the next Administration--to
+take decisive steps to deter and, if necessary, sanction
+foreign governments that attack us in cyber space.
+[The prepared statement of Chairman Smith follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. That concludes my opening statement, and
+the Ranking Member, the gentlewoman from Texas, Eddie Bernice
+Johnson, is recognized for hers.
+Ms. Johnson. Thank you, Mr. Chairman, and good morning.
+Ensuring that our elections are fair, accurate, and freely
+accessible to all American citizens is fundamental to our
+democracy. Every instance of malfunctioning voting technology
+and without question every cyber attack on our election system
+is significant. And all efforts to improve voting security,
+reliability, privacy, and access are welcome and important.
+I am confident by the testimony of today's experts and many
+others that we are in a much better place today than we were 10
+or 15 years ago. I'm deeply concerned, however, by some of the
+rhetoric in recent weeks that seems to--seems intended to erode
+public confidence in our election system. Prominent voices have
+suggested that the U.S. election system is riddled with fraud
+and somehow rigged. Those conspirator allegations, like many
+others, that have been floated in the public sphere this
+election cycle are not supported by actual facts, and they
+threaten the election process we have relied upon for more than
+2 centuries.
+I'm eager to hear from the distinguished panel today about
+the challenges of securing our election system in the digital
+age and what actions have been taken at the federal, state, and
+local levels to strengthen cybersecurity. However, given the
+reckless rhetoric, as well as other serious threats our
+election system is facing, I want to take this opportunity to
+put the cybersecurity challenges in context.
+The U.S. election system is complex and highly
+decentralized, encompassing approximately 10,000 local, county,
+and state election offices. Further, there are few connections
+between individual voting systems and the Internet. And at
+least 75 percent of the voters will be able to verify their
+vote with a paper ballot this fall. This compartmentalization
+and paper trail provides a strong firewall against any cyber
+threats.
+The recently publicized attacks against voter registration
+rolls in Arizona and Illinois are serious but have not resulted
+in any changes to voter data or to any voters. In Arizona the
+cybersecurity firewalls worked to contain the threat. What I
+find most concerning are reports that these recent threats may
+be linked to the Russian intelligence operation. So we must be
+vigilant, and I hope these incidents will lead to improved
+cybersecurity protocols and practices.
+While security of the election system is important, voter
+access is fundamental to our democracy. Baseless allegations of
+widespread voter fraud have been used as an excuse to
+disenfranchise large numbers of minority and young voters
+through discriminatory voter ID restrictions.
+News21, a journalism program established by the Carnegie
+Corporation of New York and the John S. and James L. Knight
+Foundation found voter impersonation fraud to be
+extraordinarily rare. An analysis of 2,068 alleged election
+fraud cases in all 50 States from 2000 to 2012 out of 146
+million registered voters identified only 10 cases of voter
+impersonation fraud. You don't enact laws because of 10 cases
+of fraud in 12 years unless you have an ulterior motive.
+Fortunately, the courts have been right through the most
+blatantly discriminatory state laws.
+In addition to the state-sanctioned voter ID laws, the
+Brennan Center for Justice and others have continued to
+document cases of voter intimidation, deliberate spreading of
+misinformation to keep minorities and students from voting, and
+other attempts to target and disenfranchise minorities and
+young voters. These threats to tens of hundreds of thousands of
+eligible voters were either orchestrated by public officials or
+lone troublemakers should be taken as seriously as a cyber
+threat.
+Mr. Chairman, I know my remarks have moved beyond the
+intended scope of this hearing, but you know well how
+passionate I am about this issue. It is my hope that with this
+hearing that we can have a thoughtful discussion of the
+challenges and actions that have been taken related to
+cybersecurity and other voting technology issues, while
+avoiding adding to the noise and confusion surrounding these
+issues just 8 weeks from the crucial election.
+With that, I'd like to welcome our witnesses for being here
+today. And this is a distinguished panel. I look forward to
+hearing from our collective experience and expertise.
+Thank you, Mr. Chairman. I yield back.
+[The prepared statement of Ms. Johnson follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Okay. Thank you, Ms. Johnson. And I'll
+introduce our witnesses. Our first witness today is Dr. Charles
+Romine, Director of the Information Technology Laboratory at
+the National Institute of Standards and Technology. In this
+capacity, Dr. Romine oversees a research program that develops
+and disseminates standards, measurements, and testing for
+interoperability, security, usability, and reliability of
+information systems, which includes cybersecurity standards and
+guidelines for federal agencies in U.S. industry.
+Dr. Romine previously served as a Senior Policy Analyst at
+the White House Office of Science and Technology Policy and is
+a Program Manager at the Department of Energy's Advanced
+Scientific Computing Research Office.
+Dr. Romine received both his bachelor's degree in
+mathematics and his Ph.D. in applied mathematics from the
+University of Virginia.
+I'll now recognize the gentleman from Louisiana, Mr.
+Abraham, to introduce our next witness, who happens to also be
+from Louisiana.
+Mr. Abraham. Thank you, Mr. Chairman. It is my pleasure to
+recognize Hon. Tom Schedler, the Secretary of State from the
+great State of Louisiana. Secretary Schedler was appointed to
+the position in 2010 and was reelected in 2011 to serve a four-
+year term. He is past President of the National Association of
+Secretaries of State with his term ending this past July. And
+he served as Co-Chairman for the National Association of
+Secretaries of State Task Force on Emergency Preparedness for
+Elections.
+As Secretary of State of Louisiana, he is committed to
+protecting and defending the integrity of every election in the
+State and has worked diligently to streamline the election
+process. The result is been a more efficient and cost-effective
+system with Louisiana becoming one of the first States to
+implement online voter registration and the first State in the
+country to launch a smartphone app for voters to use to get
+timely election information. My pleasure for you to be here.
+I yield back, Mr. Chairman.
+Chairman Smith. Thank you, Mr. Abraham.
+Our third witness today is Mr. David Becker, Executive
+Director and Co-Founder of the Center for Election Innovation
+and Research. Mr. Becker founded CEIR to increase voter turnout
+and give election officials the tools they need to ensure all
+eligible voters can vote conveniently and assist them with
+maximum integrity.
+Prior to founding CEIR, Mr. Becker was the Director of the
+Elections Program at the Pew Charitable Trust where he worked
+on reforms in election administration. These reforms included
+using technology to provide voters with information they need
+to cast a ballot.
+Mr. Becker received both his undergraduate and law degrees
+from the University of California at Berkeley.
+Our final witness today from my home State of Texas is Dr.
+Dan Wallach, Professor in the Department of Computer Science
+and Rice Scholar at the Baker Institute for Public Policy at
+Rice University. Dr. Wallach's research covers a variety of
+topics in computer security. This includes electronic voting
+system security where he served as the Director of an NSF-
+funded multi-institution research center, A Center for Correct,
+Usable, Reliable, Auditable, and Transparent Elections, acronym
+for which is ACCURATE. He also served as a member of the Air
+Force Science Advisory Board from 2011 to 2015.
+Dr. Wallach earned his bachelor's degree in electrical
+engineering and computer sciences at UC Berkeley and his
+master's and Ph.D. from Princeton University.
+We welcome you all, appreciate your expert advice.
+And, Dr. Romine, if you'll begin.
+
+TESTIMONY OF DR. CHARLES H. ROMINE, DIRECTOR,
+
+INFORMATION TECHNOLOGY LABORATORY,
+
+NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+
+Dr. Romine. Thank you, Mr. Chairman. Chairman Smith,
+Ranking Member Johnson, and Members of the Committee, thank you
+for the opportunity to discuss NIST's role in voting systems.
+Improving voting systems requires an interdisciplinary,
+collaborative approach that must be accurate and reliable, yet
+cost-effective, secure, and usable and accessible to all
+voters. The design and standards must consider the diversity of
+voting processes and ballots across the States, and none of
+these can be considered in a vacuum.
+NIST expertise in testing, certification, information
+security, trusted networks, software quality, and usability and
+accessibility provides the foundation for our voting systems
+work, but our experience working in multi-stakeholder processes
+is critical. We must bring together election officials,
+industry, technical experts, and advocacy groups to address
+this challenge.
+The NIST role is limited to the research to develop
+standards, tests, guidelines, best practices, and assistance
+with laboratory accreditation that the Election Assistance
+Commission, or EAC, and state and local jurisdictions may use
+at their discretion.
+Since the signing of the Help America Vote Act, or HAVA,
+NIST has partnered with the EAC to develop the science, tools,
+and standards necessary to improve the accuracy, reliability,
+usability, accessibility, and security of voting systems. Our
+joint accomplishments include new voting system guidelines;
+guidelines in support of Military and Overseas Voters
+Empowerment Act, or MOVE; and the Uniformed and Overseas
+Citizens Absentee Voting Act, or UOCAVA; the establishment of
+accredited testing laboratories for voting system equipment and
+a testing and certification program upon which many States
+depend.
+The Technical Guidelines Development Committee, or TGDC, a
+federal advisory committee to the EAC chaired by NIST, assists
+in the development of the voluntary voting system guidelines.
+In 2015, the EAC approved the TGDC's latest recommendations,
+Voluntary Voting System Guidance, or VVSG 1.1, with new
+requirements for human factors, audit and election logging, and
+new security requirements on access control, physical security,
+auditing, cryptography, software quality, and software
+integrity.
+To support overseas and military voters, including the use
+of the Internet to cast absentee ballots, NIST research
+concluded that widely deployed security technologies and
+procedures could mitigate many of the risks associated with
+electronic blank ballot delivery but the risks associated with
+casting doubts over the Internet were more serious and
+challenging to overcome.
+Based on that research, NIST documented security best
+practices and considerations for election officials on the use
+of electronic mail or the Web to expedite transmission of voter
+registration materials and blank ballots. In early 2011, NIST
+analyzed current and emerging technologies that may mitigate
+risk to Internet voting.
+We also identified several areas where research and
+technological improvements are needed to ensure the security,
+usability, and accessibility of Internet voting. Many of these
+challenges are not unique to Internet voting such as strong
+identity management, protection against malware, and the
+resiliency of Internet-connected systems. The unique challenges
+of Internet voting are the requirements and expectations,
+notably ensuring the integrity of the voting process while
+protecting privacy.
+NIST and the EAC have recently organized public working
+groups that provide an open and transparent development process
+and give the EAC and state election officials the opportunity
+to work directly with academic, industry, and Federal
+Government experts. The working groups help inform NIST, the
+EAC, and the TGDC in updating the VVSG.
+There are three election working groups--pre-election,
+election, and postelection--that are providing insight on
+election processes. These groups are supported by four
+technical groups--cybersecurity, human factors,
+interoperability, and testing. The election working groups take
+input from the technical groups to inform requirements
+development for consideration by the TGDC.
+Ensuring that voting systems are secure and auditable is
+critical to providing trust and confidence in the voting
+process. The cybersecurity technical working group is
+developing guidelines and best practices to secure voting
+systems. The group is focused on election security best
+practices, including physical security, auditing, and
+contingency planning.
+To provide a firm foundation for next-generation security
+guidelines, NIST is researching threats and vulnerabilities to
+voting systems and the best practices and technologies that can
+mitigate those risks. As part of that research, NIST has
+catalogued published vulnerabilities and weaknesses in voting
+system software. The goal is to understand the types of
+vulnerabilities by looking at historical evidence and creating
+a voter-specific list of vulnerabilities and mapping these with
+weaknesses to requirements in the VVSG. This work has
+identified issues that should be addressed in future security
+requirements and test methods and by voting system
+manufacturers.
+NIST is committed to continue collaborating with the EAC
+and others to fulfill our role defined in HAVA, MOVE, and
+UOCAVA. We leverage our research, which is applicable to a wide
+variety of organizations and used by industry and governments
+throughout the world. Active collaboration between the public
+and private sectors is the only way to effectively meet this
+challenge, leveraging each participant's roles and
+responsibilities.
+Thank you for the opportunity to testify today on NIST's
+work in voting systems, and I would be happy to answer any
+questions you may have.
+[The prepared statement of Dr. Romine follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Dr. Romine. And, Secretary
+Schedler.
+
+TESTIMONY OF HON. TOM SCHEDLER,
+
+SECRETARY OF STATE, STATE OF LOUISIANA
+
+Mr. Schedler. Thank you. I want to thank the Committee,
+Chairman Smith, and Ranking Member Johnson for the invitation
+to address you today. I think it's very important for you to
+hear from actual election officials who actually conduct
+elections. And our job--at least in my opinion, is to make
+voting easier, more accessible, and to make it tough to cheat.
+But in recent weeks, reports on cyber attacks have voters
+questioning whether their vote will actually count, and that in
+my opinion is more damaging than the potential for hacking.
+We are all on high alert. This whole exercise has put every
+one of the 50 States working on national security issues with
+all national agencies in an effort to try to improve the system
+we have or to recheck the system we have. But the fact is
+States are always evaluating security measures and emergency
+plans. As I speak, in Louisiana I'm dealing with 30 precincts
+from the record flooding that we had in the Baton Rouge area on
+contingency plans and what I'm going to do to move those
+precincts, notify voters, and the like.
+So yes, we--are we concerned about potential interference
+into our election process? We absolutely are, but voter fraud
+is much, much harder to accomplish than you may think. As was
+pointed out by Ranking Member Johnson, we have some 10,000
+jurisdictions of voting in this country hundreds of thousands
+of voting machines in various locations. The complexity of our
+election system has reinforced the election process, and what I
+mean by that is if you think about the complexity of that, it
+makes it very difficult for any player to go in and actually
+disrupt a federal national election.
+Specifically, States have developed online registration
+some 31 States have the best practice to improve customer
+service. They've also developed different ways to guard against
+intrusion. In Louisiana, for instance, information collected
+through our online voter registration system does not flow
+directly into our statewide system. Instead of voter
+information is sent from a Web site to each parish register in
+the State of Louisiana. The register has direct access to the
+database, not the voter.
+While it would certainly be disruptive to have registration
+systems hacked, as we saw in Arizona and Illinois, voters could
+still vote and Election Day would still occur. Anyone who
+discovers an issue with their voter registration status still
+has the option of a provisional ballot. And remember, no voter
+information was added or deleted in Arizona or Illinois, and
+most States have electronic paper ballot backups.
+In terms of voting machines, it's important to note that so
+far scientists have only succeeded in hacking voting machines
+when favorable conditions existed that do not exist on Election
+Day, including plenty of time and unfettered access. There is
+no evidence that ballot manipulation has ever occurred in the
+United States.
+No State--and I want to make this clear--has Internet
+voting, and our voting machines are never connected to the
+Internet. In Louisiana, all machines are stored in secure,
+state-owned warehouses. All maintenance, including most up-to-
+date software applications, as well as programming, is
+performed by vetted Secretary of State employees, not outside
+contractors.
+Additionally, before every election, Louisiana publicly
+performs a test-and-seal process in which we demonstrate that
+each machine is working properly before it is locked with a
+tamperproof seal. That testing process is also done at the end
+of each Election Day to demonstrate that each machine is
+functioning postelection, which is required by roughly 60
+percent of the States. And, if necessary, the majority of
+States can make paper ballots and audits available if a recount
+or review becomes necessary.
+Finally, please keep in mind that timing is critical.
+Elections are no longer one-day events and voting is occurring
+right now as we speak. Ballots have been printed, absentee
+ballots are in the mail, and in-person voting begins in days in
+some States. To say this is an inopportune time for election
+officials to be discussing this subject instead of real-time
+preparation is an understatement. The train has left the
+station.
+During a call with Secretary Jeh Johnson in mid-August, my
+colleagues and I were assured there would be no intent to
+declare an election system as part of the critical
+infrastructure before the November elections. Some Secretaries,
+including myself, have been very vocal that no matter when that
+may occur, such a designation would undercut the Constitutional
+role of the States and local jurisdictions. It would only
+complicate our ability to properly secure elections.
+As of today, there is not enough clear information on what
+the designation would mean or why it's necessary. States get
+what we need through existing networks, including the United
+States Elections Assistance Commission and the National
+Institute of Standards and Technology, which already identify
+the kind of testing and certification.
+And most standards needed to reveal signs of tampering,
+there is a role for Congress in this. Most States purchase
+their voting machines using federal dollars, HAVA, back in
+2005, but there is little interest on the Hill when it comes to
+helping replace our aging systems. I suggest you revisit HAVA
+and see how an investment in voting technology could benefit
+our nation in the long run.
+In the meantime, we have received a sobering wake-up call
+on the serious nature of cyber attacks. States will continue to
+take a proactive approach to secure our election systems, and
+at the end of the day, I want to assure every American--and I
+speak for all of my colleagues, the Secretaries of State
+Association--that your next President will be determined by the
+vote of the people and every vote will count.
+Thank you for allowing me my comments.
+[The prepared statement of Mr. Schedler follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Secretary Schedler.
+And, Mr. Becker.
+
+TESTIMONY OF MR. DAVID BECKER,
+
+EXECUTIVE DIRECTOR,
+
+THE CENTER FOR ELECTION INNOVATION & RESEARCH
+
+Mr. Becker. Good morning, and thank you, Mr. Chairman, and
+Ranking Member Johnson, for the opportunity to testify today on
+the important issue of the security of our election system.
+My name is David Becker and I'm the Executive Director of
+the Center for Election Innovation and Research, a nonprofit
+working in partnership with election officials like Secretary
+Schedler and technology leaders to improve our system of
+elections.
+My experience in elections goes back about two decades,
+starting with a seven-year stint as a senior trial attorney
+with the voting section of the Department of Justice under both
+the Clinton and George W. Bush Administrations where I observed
+dozens of elections in hundreds of precincts nationwide and
+then served for several years as the Director of the Elections
+Program at Pew where I oversaw efforts to use technology to
+improve the efficiency and security of elections.
+As an initial matter, we should be clear about the election
+systems that are in place and what they each do and what if any
+relative vulnerabilities might exist. Voter registration
+databases or a key election system have been in the news a lot
+recently. As you noted, there was a breach of the Illinois
+voter registration database where personal data from several
+thousand voters appears to have been accessed. In Arizona, it
+appears the State successfully detected an attempted hack of
+their state voter registration database and prevented access of
+any private data.
+But in both cases initial investigations suggest no voter
+data was changed. The voter registration lists remained intact
+with the primary goal of the hack seemingly being to access
+personal data for the purposes related to identity theft rather
+than to manipulate the voter lists themselves.
+While we should continue to be vigilant about these
+centralized databases, to my knowledge, every State creates a
+regular backup of their voter registration lists, and most
+States on a daily basis, so that should anything go wrong with
+the databases themselves, the list could be reconstructed prior
+to the election.
+And while there have also been concerns expressed about the
+hack of the Democratic National Committee email system, that
+system is completely different than the election systems in
+place. That was an attack on a centralized email server and a
+nongovernmental entity which bears no analogy to the highly
+regulated systems in place in the States to administer
+elections.
+The voting machines themselves include paper ballots or
+electronic devices on which votes are cast and include vote
+tabulation equipment. And with regard to those systems, I can
+say that while no system is 100 percent hack-proof, elections
+in this country are secure, perhaps as secure as they've ever
+been, and that voters should have confidence that their votes
+will be counted and counted accurately.
+There are four primary reasons that voters should feel
+confident in our election system. First, our election system is
+highly decentralized. Each State governs the administration of
+elections independently, and within each State there are many
+individual election jurisdictions--counties, towns, and the
+like--totalling approximately 10,000 nationwide that actually
+administer those elections.
+Even within many States, counties use different systems and
+dozens of different technologies to conduct elections, and
+within those thousands of election jurisdictions there are well
+over 100,000 Election Day precincts and polling places where
+ballots are cast and collected, and that is just on Election
+Day, not taking into account the thousands of early-voting
+sites and tens of millions of mail ballots that will be
+utilized this November. Thus, there isn't a single or
+concentrated point of entry for a hacker. Rather, there are
+thousands of points hacker would have to successfully navigate
+to manipulate the results of a national election.
+Second, voting machines are kept securely. These machines
+are subjected to rigorous protocols for chain of custody and
+testing in every jurisdiction. Machines are held under lock and
+key with additional protections in place to ensure that nobody
+without proper credentials can access the devices. It's
+exceedingly difficult to gain unauthorized access to even one
+of these machines and nearly impossible to gain access to more
+than one. Prior to every election, not just federal elections,
+but every time the equipment is used, these machines go through
+a series of tests called logic and accuracy tests to confirm
+that they are working as intended, recording and tabulating
+votes accurately.
+Third, unlike voter registration databases or email
+systems, I know of no jurisdiction where voting machines are
+connected to the Internet. This makes it nearly impossible for
+a remote hacker, whether in Moscow, Russia, or Moscow, Idaho,
+to access the equipment and plan malicious code or otherwise
+hack the system. Without connectivity, it would require a
+hacker to have unfettered physical access and enough time to
+sabotage one machine just to impact the results on one device
+in one polling place. To manipulate election results on a state
+or national scale would require a conspiracy of literally
+hundreds of thousands and for that massive conspiracy to go
+undetected.
+Which brings us to the fourth reason: Even if hundreds of
+thousands of conspirators operated undetected on a diverse
+range of systems, defeating the testing and chain-of-custody
+protections in place, it would likely have no effect on the
+vast majority of election results nationwide because well over
+75 percent of voters vote on paper ballots or on a device that
+creates a paper record.
+And in most States--32 plus DC. as of 2014, there is a
+postelection audit requirement that mandates States match the
+paper record to the digital record, and if a discrepancy
+exists, recount the paper ballots for use as the official
+record. The States that require such an audit include the
+battleground States of Arizona, Colorado, Florida, Nevada, New
+Mexico, North Carolina, Ohio, Pennsylvania, Virginia, and
+Wisconsin, among others, so even if a grand conspiracy were
+viable, a postelection audit requirement would almost certainly
+discover it prior to the election results becoming official.
+There's been a lot of hyperbole surrounding the selection,
+but the processes in place to ensure the integrity of our
+election system should not become part of the political
+rhetoric. There are few loudly seeking to sow distrust in the
+system, but there are far more working quietly and
+collaboratively at the federal, state, and local level and
+election officials across the political spectrum like Secretary
+Schedler here who are working to secure our voting systems and
+reassure voters that the selection will accurately reflect
+voters' choices.
+And voters can play a role as well, by attending pre-
+election voting machine tests and especially volunteering to
+serve as poll workers to see the process firsthand, whether
+it's federal officials offering assistance and resources to the
+States, state and local officials sharing best practices, or
+citizens serving as poll workers, this cooperation and
+diligence will protect our elections in 2016 and safeguard
+future elections as well.
+Thank you and I'd be happy to take any questions.
+[The prepared statement of Mr. Becker follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Mr. Becker.
+And, Dr. Wallach.
+
+TESTIMONY OF DR. DAN S. WALLACH, PROFESSOR,
+
+DEPARTMENT OF COMPUTER SCIENCE AND RICE SCHOLAR,
+
+BAKER INSTITUTE FOR PUBLIC POLICY,
+
+RICE UNIVERSITY
+
+Dr. Wallach. Chairman Smith, Ranking Member Johnson,
+Members of the Committee, it's a great honor to speak to you
+today about our nation's voting systems and the threats they
+face this November and the steps we might take to mitigate
+those threats.
+My name is Dan Wallach. I've been a Professor in the
+Department of Computer Science at Rice University in Houston
+for 18 years. And my main message for you here today is that
+our election systems face credible cyber threats from our
+nation-state adversaries, and it's prudent to adopt contingency
+plans before November to mitigate these threats.
+In particular, we've learned that Russia may have been
+behind leaked DNC emails for the explicit purpose of
+manipulating our elections. We've also learned of attacks on
+voter registration databases in Arizona and Illinois, and
+that's only the ones we know about. There might be more.
+We must prepare for the possibility that Russia or other
+sophisticated adversaries will use their cyber skills to attack
+our elections, and they need not attack every county in every
+State. It's sufficient for them to go after battleground States
+where a small nudge can have a large impact. The
+decentralization that we've heard about is helpful but it's not
+sufficient.
+My number one concern is our voter registration databases
+because they are online, and if an attacker can damage or
+destroy the voter registration databases, they could
+disenfranchise a significant number of voters, leading to long
+lines and other difficulties. The provisional voting process
+requires filling out affidavits, it's slow, it takes time, and
+that wouldn't work for million voters.
+Paperless electronic voting systems and their tabulation
+systems are also vulnerable. Despite not generally being
+connected to the Internet, these systems were unfortunately
+never engineered with security in mind, and expert analyses by
+myself and others have found unacceptable security issues.
+Our biggest nation-state adversaries have the capability to
+execute attacks against these systems. For example, Russia was
+behind an attack of this kind directed at Ukraine's 2014
+election where a hacked tabulation system would have reported
+results favorable to Russia. The Ukrainians were lucky enough
+to catch this.
+Our options between now and November are largely limited to
+contingency planning. If we're lucky, we might detect attacks
+before Election Day, but it's important to make plans now for
+recovering from unforeseen cyber disasters in the same way that
+we make plans for natural disasters, including running drills
+and exercises and having plans written out and thought through.
+If, for example, we were to conclude on Election Day that
+our computer systems had been unreliable, a contingency plan
+might be to rapidly print millions of paper ballots and rerun
+the election the next day. Legislation passed in most States
+following 2012's Hurricane Sandy appears to allow for such
+mitigations. The details vary State to State.
+Between now and November we should also be aggressive at
+deploying expert teams to do security audits of relevant
+networks and systems particularly in battleground States. If
+something has been hacked, the sooner we know about it, the
+better. And my understanding is a critical infrastructure
+designation would allow States to request assistance from the
+Federal Government in this role.
+We must also plan for the next few years after November's
+election is complete. Roughly 1/3--we've heard today--we've
+also heard 1/4. I'm not sure what the real number is. Roughly
+1/3 of American voters this fall will use aging electronic
+voting systems with proven insecure designs. Some new hybrid
+voting system designs with electronic user interfaces and
+printed paper ballots are being designed by Los Angeles County,
+California, and Travis County. That's Austin, Texas. These have
+the potential to substantially reduce costs and improve the
+security of our elections. Federal support could advance their
+deployment nationwide, and if we do nothing, keeping our aging
+systems in service holds our elections at risk.
+As a quick note, our immediate future should not include
+Internet voting. It's hard enough to protect the online systems
+that we already have. Moving additional voters online increases
+the risks. Traditional hand-marked paper ballots and these new
+hybrid systems from Los Angeles and Austin are our best paths
+forward.
+As Don Rumsfeld once said, you go to war with the army you
+have, not the army you might want or wish to have at a later
+time. We face a similar situation this November with our
+systems for voter registration casting and tabulation. None of
+them are ready to rebuff attacks from our nation-state
+adversaries, nor can we replace them in time to make a
+difference.
+Despite this, we can pursue a number of pragmatic steps
+such as verifying the integrity of election database backups,
+and we can make contingency plans for how we may respond if and
+when we do detect attacks against our elections. If we can
+somehow determine that tampering with an election voting system
+did take place, we should have plans in place to print paper
+ballots or otherwise keep the election going. The sooner we can
+create and agree on these plans, the more resilient our
+elections will be to foreign attack.
+And even if nothing goes wrong and all this turned out to
+be nothing but hot air, we should treat these events as a
+warning. With modest investment, we can improve our practices
+and replace obsolete and insecure equipment, defeating future
+attacks like this before they ever get off the ground.
+Thank you.
+[The prepared statement of Dr. Wallach follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Smith. Thank you, Dr. Wallach.
+I'll recognize myself for questions. And, Dr. Wallach, let
+me address the first one to you. You raised a lot of
+interesting issues. I guess my question is where do you think
+our election systems are the most vulnerable? What are the one
+or two areas that we'd need to guard against?
+Dr. Wallach. So I believe my top concern is the voter
+registration systems because they are generally online, and if
+it's online, it's accessible from the Internet, and if it's
+accessible from the Internet, it's accessible from our nation-
+state adversaries.
+And as I mentioned before, if you can either selectively or
+entirely delete people who you'd rather not vote, the current
+provisional voting system can't really scale to support a large
+number of voters who are filling out affidavits and following
+that process.
+My second concern is the vote tabulation systems. Generally
+speaking, these tend to be old computers running old operating
+systems, in some cases Windows 2000 where security patches
+aren't even available from the vendor anymore, and that means
+that there are significant vulnerabilities where attacking a
+single point could result in an interesting result.
+Chairman Smith. Okay. Thank you, Dr. Wallach.
+By the way, when I hear you all recommend paper ballots, I
+wince a little bit because those of us from Texas have
+sometimes read about what happened in the 1950s where a ballot
+box was stuffed with paper ballots and it changed the outcome
+of a Senate race and perhaps elected the next President. So I
+sometimes worry about paper ballots as well.
+Let me address a question to all the panelists here today.
+And we've heard about some of the vulnerabilities. Let me ask
+you to rate on a scale of one to five with five being the most
+vulnerable, the most at risk, where you think we stand both in
+this election, and let's take the long view--say this election
+and the next election--how vulnerable are we to being hacked,
+not necessarily successfully hacked, but how likely is it that
+there will be attempts to interfere in our elections process by
+foreign countries this election or the next? And again one to
+five with five being the greatest risk.
+Dr. Romine?
+Dr. Romine. It's a little hard for me to answer that
+question principally because it involves intent of malefactors,
+and I don't really have any background to be able to determine
+the level of intent.
+Chairman Smith. Okay. Let's assume, then, how likely is it
+that there would be intentional attempted hacking in the next
+two elections? If you want to use----
+Dr. Romine. It's not unreasonable to imagine attempts. In
+fact, as others have testified, there have been a couple of
+attempts to hack into voter registration systems currently. I
+think most CIOs at most organizations will tell you that
+there's a sort of constant current of probing of their IT
+systems. And so with respect to voter registration, I would say
+the possibility that an attempt could be made is not out of the
+question.
+With respect to the voter--the----
+Chairman Smith. Maybe I should say likely or unlikely,
+would you consider that to be an easier way to describe it or
+not?
+Dr. Romine. It's still difficult for me to answer that
+question, but I would say I would put it somewhere in between.
+I can't say that it's likely but I can't rule it out either.
+Chairman Smith. Okay. Thank you.
+Secretary Schedler?
+Mr. Schedler. I'll take a stab at that. I'll say on the
+registration side of it, as evidenced by the two States that
+have had a problem, one of which, from what I understand the
+code was giving and the other one was detected immediately. I'd
+probably give it around a three. On the Election Day, one and
+one half or two.
+Chairman Smith. Okay. Good. Thanks. Mr. Becker?
+Mr. Becker. Yes, I agree. I think it's not out of the realm
+of possibility that there will be an attempted hack either
+before the election or at any time, as there was with the voter
+registration databases. But I think the chance that it would be
+successful is down below two. I think vigilance is important
+but it appears that the primary goal here is to disrupt
+confidence in the election rather than actually manipulate
+election results.
+Chairman Smith. So likely attempt, unlikely success?
+Mr. Becker. Correct.
+Chairman Smith. Okay. Dr. Wallach?
+Dr. Wallach. So in the cybersecurity lingo we often have
+this phrase ``advanced persistent threat'' that we use as a
+colloquial way of talking about nation-state adversaries who
+have patience and skills and will take the time, might do
+something years in advance. It's often the case that
+adversaries are present in very secure and highly protected
+networks for months at a time before they're detected.
+So trying to rank these vulnerabilities, I'm going to rank
+them relative to access. I think our voter registration systems
+are most accessible so I'm most worried about them. I'm
+secondarily concerned about the tabulation systems, and then
+I'm concerned about the voting systems themselves, particularly
+the paperless electronic ones.
+Chairman Smith. Okay.
+Dr. Wallach. It's very hard for a remote Internet attacker
+to overwrite printed paper.
+Chairman Smith. Okay. A final quick question, what more
+should the Administration be doing to protect us from foreign
+countries attempted hacking of our election systems? Anybody?
+Dr. Wallach. So I think the short answer is providing
+available expertise and teams to go and do intrusion detection,
+network monitoring, and other appropriate tasks to just go
+looking for it.
+Chairman Smith. Okay. My time is up. Any other quick
+responses to what more the Administration could be doing?
+Mr. Schedler. Well, I think with we should be looking more
+long-term with additional dollars to improve the States'
+machinery or equipment at this time. It's been over ten years
+since we did HAVA funding. And I do want to make one comment.
+As far as Homeland Security assisting us, we already have that
+assistance through FBI and Homeland Security, and you nearly
+asked, you don't have to be a critical infrastructure to get
+that service.
+Chairman Smith. Okay. Thank you.
+The gentlewoman from Texas, Ms. Johnson, is recognized for
+her questions.
+Ms. Johnson. Thank you, Mr. Chairman.
+I take all concerns and challenges over cybersecurity in
+our elections very seriously. At the same time, we face many
+other challenges to ensuring that every vote counts and we
+count every vote. Some of these challenges are the direct
+results of human action such as related to old technology, and
+as we've seen in elections past, we even face risks from
+natural events such as major storms. I'd like each of you to
+comment on how you would rate the current cybersecurity risk in
+our upcoming election as it relates to other issues.
+Dr. Romine. Congresswoman Johnson, from my perspective my
+entire orientation or the orientation of my organization is
+looking at the cybersecurity risks and threats, and so all of
+the other things that you've talked about are really sort of
+outside of our purview with perhaps one exception, which is
+that contingency planning that the States and other
+jurisdictions and the local jurisdictions are encouraged to do
+under the voluntary voting system guidelines can also protect
+again these other kinds of natural disasters and other kinds of
+things that you referenced.
+Ms. Johnson. Thank you.
+Mr. Schedler. Yes, ma'am. I would put that risk again, as I
+indicated earlier, on Election Day very low for the reason that
+no State is on the Internet. I find it difficult to hack
+something that's not on the Internet. All machines are not--
+none of the machines are linked together. They're all separate
+cartridges, so they're independent. My bigger concern on
+Election Day would be something of a physical nature, a
+physical threat that would be something much more difficult to
+deal with. And I put that at a very high number.
+But as far as cyber attack other than what's occurred on
+the election side--and again, there's been no change. I think
+that was more of a data collection attempt personally. I know
+in Louisiana if you go--we are an online registration State,
+Ms. Johnson. If you went into my system to change party
+affiliation, address, whatever you may do, you may think you're
+accessing my entire system. You're not. You're in a silo and a
+person behind the scenes drags out that information,
+disseminates it to the local register and puts it in the public
+side, the campaign side, or in the registration side. So if
+someone hacked you, they would only hack Ms. Johnson. They
+wouldn't get the entire list.
+Mr. Becker. Yes, I agree with that. I think, as Secretary
+Schedler noted, election officials are on high alert, and
+they're on high alert not just for this election. They're on
+high alert for every election. And, you know, in many States if
+it's Tuesday, it's Election Day because there are so many
+elections now.
+So not only are they trying to make sure that the security
+of the systems are in place and that the process as a whole is
+secure but they're also doing, I think, a remarkably good job--
+probably better than ever before--of balancing that with access
+to all eligible voters to make sure they can have a good
+experience.
+So whether it's more people having access to easy ways to
+register to vote, more people having easy access to voting
+information like things with the GeauxVote app in Louisiana and
+many other States or more voters than ever before having access
+to early voting and mail voting option, I think election
+officials around the country, both Democrats and Republicans,
+are doing a remarkably good job, probably better than ever
+before, balancing out the access and security concerns.
+Dr. Wallach. At the end of the day we need to worry about
+every problem. We have to worry about hurricanes, we have to
+worry about earthquakes, and we have to worry about cyber
+issues and we need to have plans in place to deal with them
+all. And the interesting thing is if you have plans in place
+for an earthquake, the earthquake doesn't really care. It's
+going to happen or not. But if you have plans in place for
+cyber, you can actually dissuade a cyber attack. If your
+adversary knows it's not going to work, then they're not going
+to bother. So I think it's important to do the planning and the
+forward thinking to make this not be a problem in the future.
+Ms. Johnson. Thank you very much.
+Another real quick question--I know my time is running out.
+We would all agree that making it easier to participate in our
+democratic elections process should be a priority. Registering
+to vote and casting a vote shouldn't be an extra burden for
+those who can't leave their homes or for people with three jobs
+and for a family of caregivers. How do we balance our efforts
+to make voting more accessible with the necessity of having
+secure elections?
+Dr. Romine. I'd like to take a slightly different tack.
+We've actually worked with the Election Systems Commission on
+accessibility issues and usability issues with regard to voting
+systems so that people who have physical disabilities, whether
+it's vision impairment or mobility impairment or other things,
+do have access to voting systems that they can also use. And
+one of the advantages of electronic voting systems, as they're
+being rolled out, is that we can improve the accessibility over
+paper and pencil, for example.
+Mr. Schedler. First off, we do have early voting, certainly
+something in the last decade that we didn't have prior to that,
+a paper ballot, relaxed paper ballot laws now. I mean, we all
+remember the days you used to have--almost have to have a
+doctor's note or an airline ticket to be able to absentee vote.
+That's no longer the case across the United States. And we do
+have easy accessibility through nursing home programs, ADA
+compliant with visually impaired and the like. So I think
+there's been tremendous improvements made, and voting is
+probably easier today than it's ever been.
+Mr. Becker. Yes, I think thanks to the efforts of state and
+local election officials all around the country and efforts of
+the Election Assistance Commission and the Presidential
+Commission on Election Administration and many others, voting
+is easier today than it ever has been before. As I noted, more
+people have access to easy voter registration options. Many
+States--20 States, including Louisiana, have joined the
+Electronic Registration Information Center, which allows them
+to keep their voter registration data up-to-date and has
+resulted in registering about a million--almost a million new
+voters.
+More people have access to voting information and
+convenience voting options where they can vote by mail or vote
+early. That trend has been remarkable, and I think we're going
+to see and I hope that we're going to see the benefits of it in
+this election and as it expands in many years to come.
+Dr. Wallach. So we've heard about early voting and Election
+Day vote centers. An interesting thing going on in Travis
+County--it's Austin, Texas--every single precinct can handle
+any voter from the whole county. They did that because of
+redistricting. It was to avoid chaos. But it has the
+interesting benefit that you can vote near where you work
+rather than near your home. So I think that there's a lot of
+opportunity for creative expansion of the availability to vote
+without making radical changes in how we vote.
+Ms. Johnson. Thank you very much, Mr. Chairman.
+Chairman Smith. Thank you, Ms. Johnson.The gentleman from
+California, Mr. Rohrabacher, is recognized for his questions.
+Mr. Rohrabacher. Thank you very much. And thank you, Mr.
+Chairman, for holding this hearing. I didn't expect it would be
+as interesting as it's been, so thank you to the witnesses as
+well.
+Let me just start off with one question in terms of getting
+a sense of information here on one issue the broader issue of
+whether or not the integrity of our voting process and our
+election system will be maintained is really vital to the very
+nature of our country. I mean, this goes to the heart of
+whether or not we are who we say we are. If we don't have an
+election process that has integrity, we don't have an election
+process.
+First let me ask this. How many examples do we have of
+where the Russians have actually--or Russian-based, whoever it
+is in Russia, have hacked in to our election system?
+Mr. Schedler. I know of none. And to be quite honest with
+you, I ask the question to Secretary Johnson of Homeland
+Security, is there an imminent threat known? And his answer was
+no, and that was reported in several news agencies. So I know
+of zero.
+Mr. Rohrabacher. Does anybody disagree?
+Mr. Schedler. I had a request from a Russian Embassy out of
+Houston to come monitor my elections in Louisiana----
+Mr. Rohrabacher. All right.
+Mr. Schedler. --and I would suggest to you if I allowed
+that, I'd be run out of office in Louisiana, but especially----
+Mr. Rohrabacher. Well, the----
+Mr. Schedler. --with the conversation we're having. But I
+know of zero.
+Mr. Rohrabacher. Does anyone disagree with that on the
+panel? Yes, sir.
+Dr. Wallach. So the nature of the threat is that they don't
+want you to see them there, so we can't assume that if we
+haven't seen them, that they're absent. What we do know is that
+we've established motive. The attack on the DNC's email server
+is motive for a nation--it shows that they did it for
+explicitly partisan purposes. And when you combine motive with
+means and opportunity----
+Mr. Rohrabacher. Excuse me. What example was that that you
+just gave?
+Dr. Wallach. Oh, I'm sorry. This was reported in the press
+that Russian state actors allegedly hacked the DNC's email
+server with the intent of releasing emails for partisan
+purposes.
+Mr. Rohrabacher. Okay. But that's not the election process,
+but that is an entity that's involved in elections here so they
+have capability of actually getting into various--whether it's
+Republican, Democrat, or whatever, but actually in the election
+process we have no examples of them actually hacking into the
+system and compromising the integrity of any specific election,
+is that correct?
+Dr. Wallach. The only example I'm aware of happened in the
+Ukraine in 2014.
+Mr. Rohrabacher. Right. Okay.Just to let you know, we have
+seen article after article after article about how Russia is
+compromising the integrity of our election system. And, Mr.
+Chairman, the panelist is just saying that is false and just a
+note.
+For those of us who want our country to be safe but we also
+don't want to just continually vilifying Russia turning them
+into the bad guys. If we're going to have the integrity of our
+system, I think we have to look at home for some of the real
+threats to the integrity of our voting system and whether the--
+as we say, the old-fashioned way of stealing elections has been
+around for a long time and we should be insisting that we make
+sure that we don't have people, for example, voting who are not
+eligible to vote because they're perhaps not citizens or here
+illegally.
+We have people who are trying to suggest that we don't even
+have any real demand to identify someone's self whether they
+are here--whether they are actually who they say they are when
+they go to vote.
+So we have a real challenge to make sure our system is, as
+I say, safe from being defrauded because the people of the
+United States, their ballots are being negated by every other
+ballot that's cast is cast by someone who does not have a right
+to vote here.
+Now, with that said, we actually did confront this.
+Congress confronted this whole issue back in 2002 with the Help
+America Vote Act. And just very quickly to the panel because my
+time is running out, that's been around now since 2002.
+Congress passed this act specifically aiming at protecting the
+integrity of our system. Is our system now more or less at risk
+from cyber attacks due to this legislation? And very quickly,
+if we could have the panel answer that.
+Dr. Romine. I think the legislation has improved our focus
+on security issues associated with the voting system. My
+organization has been working in partnership with the Election
+Assistance Commission under HAVA for 14 years to provide the
+best guidance possible to States and municipalities.
+Mr. Schedler. I would certainly echo that comment. And if
+you allow me just to claw back on you previous comment, I mean
+the whole Russian argument has--they've actually accomplished I
+think--even if they're not trying, we've done it for them,
+quite frankly.
+Mr. Becker. Yes, I agree. I think the Help America Vote Act
+has helped improve security since it was enacted, but even more
+importantly, what we've learned since it has been enacted has
+helped improve the security. I think the 2016 election is going
+to be one of the most secure we've seen in recent memory but
+there's no question that I think based on what we're talking
+about here and this discussion and the conversations we're
+having, the 2018 and 2020 elections will be even more secure.
+Dr. Wallach. So HAVA helped us get rid of punch cards and
+helped us get rid of lever voting machines, and that's a good
+thing. HAVA was really two parts. It helped create the EAC,
+which could then help improve standards, and it also helped
+fund the purchase of new equipment. The equipment was largely
+purchased before the EAC standards effort was in action, and I
+think it would be an excellent thing to revisit to get new
+equipment up to new standards.
+Mr. Rohrabacher. All right. Well, thank you very much and
+thank you, Mr. Chairman.
+Chairman Smith. Thank you, Mr. Rohrabacher.
+The gentlewoman from California, Ms. Lofgren, is
+recognized.
+Ms. Lofgren. Thank you, Mr. Chairman.
+It was interesting to listen to my colleague from
+California inquire about the role of the Russians in this
+election. And, I think, you know, the focus of this hearing is
+on the voting systems, but really the question is about the
+election and it's not limited to voting systems. And it's
+pretty clear that the Russians have attacked--have engaged in a
+cyber attack on the DNC and the DCCC. We've received reports on
+that. I thought it was unfortunate that the Republican
+candidate for President either thought it was a good idea or
+was making a joke about it--we don't know which. But this is a
+serious matter.
+What we've been told is not just that the material has been
+taken but that the pattern of the Russians is not just to
+release material but to forge material and to alter it in an
+effort to try and impact outcomes of elections. And that's
+certainly--they have a history of cyber attacks in an attempt
+to discredit Democratic elections in Ukraine, in Bulgaria,
+Romania, the Philippines. So this is something I think we need
+to take very seriously. To my knowledge, this is the first time
+the Russians have actually so boldly attacked a Western
+democracy, in fact the most important democracy in the world.
+Now, I think the focus of this hearing is unduly limited,
+and I agree that a large-scale attack on distributed voting
+precincts is unlikely to succeed, although I do think we've
+underestimated the potential impact of air-gap tabulation
+systems, and I think that is something to be concerned about.
+But the question isn't really whether the actual vote
+tabulations could be altered because I don't think that's very
+likely, but whether chaos could be induced into the system.
+That is the goal of the attack on the Democratic Party, and I
+think it may also be the goal of the cyber attacks on the state
+systems.
+What could be done with this voter information? Obviously,
+there are backups on the database so no one can alter who can
+actually vote. But what would happen if emails were sent to all
+of those voters or are just the Democratic voters telling them
+the date of the election had been changed or their precinct had
+been changed? Wouldn't that create chaos in a system if even a
+small percentage of those voters believed an email misadvising
+them?
+I do think that there's a vulnerability in the overseas in
+system. The House Administration Committee has the primary
+jurisdiction over election systems, and I remember we had a
+hearing talking about our lack of concern, the lack of concern
+that electoral systems professionals had about emailing the
+ballot to overseas voters provided that the ballot itself was
+mailed in. The more we think about it, with these hackings, if
+you altered the ballot on the email, you would again create
+chaos in the electoral system.
+So I think that's really the goal here is not necessarily
+to impact the tabulation, although there may be efforts to do
+it, but to create long lines if people go to the wrong places
+to create chaos and to attack the faith and the confidence that
+the American people have in their elections systems through
+long lines and all sorts of mischief.
+I do think that to downplay the role that the Russians have
+had in this is a huge mistake when you take a look at what they
+did to the DNC and the DCCC. And I'll just close with this. I
+do think that it's been disappointing. The reaction has been
+disappointing that if you attack one of the major political
+parties, somehow that's okay if it could be to your advantage.
+I like to think if the Russians had attacked the Republican
+National Committee the Democrats would be as outraged as
+Republicans because it's an attack on America. It's not an
+attack on a party. And the fact that there hasn't been outrage
+expressed at all levels of both parties about the effort of the
+Russians to disrupt this election is--it's sad commentary on
+leaders of that party and it also is very chilling when you
+think about what could happen come this November.
+And I see that my time is expired. I yield back, Mr.
+Chairman.
+Chairman Smith. Thank you, Ms. Lofgren.
+And the gentleman from Louisiana, Mr. Abraham, is
+recognized for his questions.
+Mr. Abraham. Thank you, Mr. Chairman. And we'll get back on
+track here.
+Secretary Schedler, let's go to the 30,000 foot view. In
+your opinion is the integrity and the security of the voting
+systems in all States--you being the past President of the
+Secretaries of State, you have I think some knowledge of the
+subject. You think it's good, bad, average?
+Mr. Schedler. Congressman, I would say it's good. I mean,
+we did a survey before this hearing and we got a response from,
+I think, 19 of 20 States to try to ascertain that. Aside from
+my knowledge from serving, and I don't profess to be an expert
+on every state system, but there's a lot of similarities,
+there's a lot of differences in the States and that's what
+makes it so unique. But I feel very comfortable again--and the
+representative from California who appears stepped out.
+Keep in mind the Democratic National Convention, the
+component that was hacked was the campaign side of it. Each and
+every one of us like me is elected. All of you have used a
+campaign commercial list to determine a mail issue, a walk list
+in a neighborhood, whatever it may be. Those are readily
+accessible. I'd sell you mine. If you know me well enough, I
+might give it to you.
+But that is vastly different than the registration
+component and certainly vastly different than the Election Day
+component of equipment. So I think you have to understand that
+forefront to get into this subject. There's no one minimizing
+what happened with the Democratic National Convention. I know I
+have and I know with one of my colleagues, and that makes no
+difference if you're in a red state, blue state, or purple
+state.
+But the bottom line is maybe it's just our knowledge of the
+system that gives us this feeling of somewhat--not
+overconfidence because I think this is a good thing that we're
+going through, but we all remember the year 2000 when the world
+was going to end at one second after midnight. I'm still using
+batteries my wife bought for that event. That does not mean
+that we did not have reason to believe with studies and we
+should have been prepared. We went through that gyration. Or
+when a ballgame--when the scoreboard goes out on a football
+game, if you're sitting in the stands, you know what's going
+on. And guess what? There's other people taking track of those
+statistics at that same time.
+It's the same with election systems. If one component goes
+down, we have various components that come in and--it may delay
+it some but it doesn't create a nuclear war.
+And I can't speak to what happens in the Ukraine. I can
+only speak to what happens in the United States, and I'll tell
+you, the election system in the United States, just like many
+other things in this country, in spite of maybe what we think,
+is the best system in the world. Is it fool-proof? Absolutely
+not.
+And I'd also tell you there's no such thing as a perfect
+election. Anybody that tells you that don't know what they're
+talking about because anytime you've got 10,000 machines at
+play and 15,000 people from 65 to 90 years old, things are
+going to happen. It's how you handle that. It's how you
+document that and move forward.
+So I'm very confident in it with caution lights on. And
+there's no disrespect to anyone who believes otherwise. We're
+looking at it. It's forced us to do so. But I am deeply
+concerned, and I can speak to my Democratic colleagues and my
+Republican colleagues that have been on conference calls over
+the last several weeks with this issue. We are in unison. This
+is the worst situation we could be talking about as we enter
+this election. We've been going through a chaotic convention
+process. We have voters who are more disgruntled than ever. And
+we are adding to that participation rate in a very negative
+fashion.
+And I feel very comforted in saying that I speak for all of
+my colleagues that we are deeply concerned with the rhetoric
+that's going on right now from the national press, and we're
+not trying to minimize it. We're double-checking, but there's
+little that could be done in eight weeks, little. We just need
+to stay the course, have confidence in what we're doing. And
+again, I'm very confident that on November 9, you're going to
+wake up and you're going to have unofficial result of who won
+the President of the United States because keep in mind it's
+unofficial. We go through that audit in every county, every
+parish, every State postelection before it becomes official and
+you go to your electoral college.
+Mr. Abraham. Thank you.
+Mr. Schedler. Thank you.
+Mr. Abraham. I'm out of time, Mr. Chairman. Thank you.
+Chairman Smith. Thank you, Mr. Abraham.
+And the gentlewoman from Oregon, Ms. Bonamici, is
+recognized for her questions.
+Ms. Bonamici. Thank you very much, Mr. Chairman. Thank you
+all for your testimony.
+Mr. Becker, you said in your testimony you emphasize that
+voters should feel confident in our voting system, and we
+certainly have heard a lot of messages about the importance of
+that confidence here today and how it will lead to greater
+participation, and certainly that's good for democracy. I think
+just getting the information out to the public that the voting
+machines themselves are not connected to the Internet is going
+to help. I think there's a misconception about that.
+Well, I'm from Oregon, and we all vote by mail in Oregon.
+We've done that for more than a decade. It's a very secure
+process. It also makes it very easy for Oregonians to vote. The
+Secretary of State's office mails paper ballots to each and
+every registered voter a couple of weeks before the election,
+along with a voter's pamphlet with all the information about
+the candidates and the initiatives on the ballot so Oregonians
+have plenty of time to not only study the issues but then fill
+out their ballots and get them back in to be tallied by the
+local election offices.
+And there are privacy and security measures at each step of
+the way. I was a trained election observer years ago and it
+gave me a lot of confidence to see each step of the way and to
+watch that tally happen at the elections office.
+So I wanted to ask you a little bit about are there lessons
+to be learned from a State like Oregon that does use vote by
+mail with a paper ballot for everyone and really with a focus
+on the two different issues, there's the voter records and then
+there are actually what happens at the--with the ballot and the
+tally, the voting machine, if you want to talk a little bit
+about the lessons that can be learned from that system.
+And then I also want to ask, Dr. Romine, I know NIST has
+mostly concentrated its work to date in standards development
+for the actual voting machines, but you're now, I understand,
+working to identify systems dealing with the voter registration
+systems. So--and just before you respond, both of you--I know
+Dr. Wallach mentioned something about the possibility of this
+selective disenfranchising of voters by deleting them from the
+database. It's really easy in Oregon for anybody to check
+whether they're still in the database, and getting the ballot
+early means that there would be an early notice that, well,
+maybe there was a problem assuming that somebody did get
+through a very secure system.
+So, Mr. Becker, do you want to start and then Dr. Romine?
+Mr. Becker. Sure. Thank you. The--you know, of course
+Oregon and Washington have had long-time success with mail
+balloting in their States, and there are lessons that other
+States are learning from that. Not every State is the same, and
+other States have reached different decisions about their
+population of that, and that's entirely appropriate.
+But States like California and Arizona and some other
+Western States offer the option of becoming a permanent mail
+voter, which you have to check a box, but after that you'll
+receive a ballot for every election. And I think very
+interestingly, Colorado has experimented with a model--actually
+has put a model in place that--California just passed a similar
+bill that is a hybrid of sorts where every voter gets a mail
+ballot, but they can choose to mail that ballot in, drop that
+ballot off at a drop site, go in for early voting at a vote
+center as Dr. Wallach mentioned, which is they can go to any
+one within the county or they can even go on Election Day to a
+vote center and vote anywhere within the county. And they've
+seen some pretty strong initial successes there. So I think
+we're----
+Ms. Bonamici. But just to--I don't mean to interrupt, but
+just to clarify, in Oregon if somebody wants to go vote at
+elections--at the elections office on elections day, they can
+do that. They can stand in the booth there and vote. Anybody
+can do that.
+Mr. Becker. Absolutely.
+Ms. Bonamici. Most people don't because it's much easier to
+mail it.
+Mr. Becker. Right, and I think like--I think the States are
+learning from that experience and are trying to figure out
+what's best for their State based upon the successes that
+Oregon and Washington and Colorado and other States have seen
+with their particular systems.
+I think also, importantly, you brought up the note between
+the voter registration systems and the voting machines and
+tabulation devices themselves. And I think particularly with
+mail voting it's very important because the voter lists are the
+way to deliver a ballot to someone because that's the list that
+generates the mailing to the voters. Of course, in States where
+they don't get ballots it's not that voters don't receive
+something else. They're usually receiving a card that's a
+reminder.
+To the question earlier about chaos, which I think is a
+very important question, I think there's been a lot of work,
+contingency plans put in place by States to avoid chaos just in
+the last 10 to 15 years. One thing that's true now is
+particularly for Presidential election it's going to be very
+hard to avoid information about when the election is and what's
+going on. In fact, I'm guessing a lot of people right now would
+like to get away from information about the election.
+So whether it's the work that Facebook is doing pushing
+information out about it's Election Day, click here to find
+your polling place, whether it's the work Google is doing the
+same way, whether it's the work of many other tech partners and
+States are doing partnering with those entities to make sure
+that information gets out, that's all a great protective
+measure to ensure that if a voter does experience a problem or
+might--think they might experience a problem, they can in
+advance go and make sure that they're getting the right
+information.
+Ms. Bonamici. Thank you. And, Dr. Romine, if you could
+briefly tell us what NIST is doing with regard to the actual
+voting machines now.
+Dr. Romine. I think your question involved the whole
+lifecycle now from registration all the way through guidelines
+for the voting systems. The voluntary voting system guidelines
+that we work in collaboration with the EAC on involve the
+voting systems themselves, but I think we have a decades-long
+history of security as a management of risk exercise, and I
+think the States have taken that very seriously. Our
+interaction with the EAC and with election officials in the
+States suggests that they are managing risk to the voting
+systems and to the registration systems in a way that
+incorporates the best practices that NIST has been promoting
+for a number of years.
+Ms. Bonamici. Thank you. I see my time is expired. Thank
+you, Mr. Chairman.
+Chairman Smith. Thank you, Ms. Bonamici.
+And the gentleman from Georgia, Mr. Loudermilk, is
+recognized for his questions.
+Mr. Loudermilk. Thank you, Mr. Chairman, and thank all the
+witnesses for being here today, a very important issue.
+And rightly, we should be concerned about the integrity of
+our election system because we're only as good as the integrity
+of the selection system. After spending 30 years in the IT
+business, this is something that is very important to me and an
+area that I do understand at least from the technological side.
+Another area that I think we have to be very conscious of
+is the federal involvement because typically whatever we get
+involved with doesn't run as well as if a State is doing it
+themselves, so I want to be very conscious of whatever role the
+Federal Government plays is very limited to--especially in an
+authority stance.
+But I do understand that we do have some things that we can
+do as far as setting recommended standards, but recently, the
+Secretary of Homeland Security has reported saying that DHS is
+considering whether the state electoral apparatus should be
+designated as critical infrastructure. Dr. Romine?
+Dr. Romine. Romine.
+Mr. Loudermilk. --Romine, is this appropriate that--in your
+opinion?
+Dr. Romine. Well, that's a policy decision that's way above
+my pay grade so I don't have any input that I can provide you
+for that.
+Mr. Loudermilk. Well, I mean, do you have any idea what the
+benefits or the disadvantages would be of declaring these as
+critical infrastructure?
+Dr. Romine. I can't speak to that. I know that NIST
+provided a significant benefit in partnership with the private
+sector on the development of a cybersecurity framework for
+improving the cybersecurity of critical infrastructures that
+has received a lot of attention and a lot of accolades. But
+that's not limited to critical infrastructures. Any
+organization of any size in any sector is free to adopt that
+framework.
+Mr. Loudermilk. So you are working with DHS to help the
+States understand the critical nature of their electoral
+systems or----
+Dr. Romine. Absolutely. We're partnering with DHS and with
+the Department of Justice on trying to understand how we can
+ensure widest dissemination of best practices to the States and
+municipalities. And as was mentioned earlier, request to DHS
+for assistance is not predicated solely on whether you are
+designated as a critical infrastructure. That request can be
+made without that designation.
+Mr. Loudermilk. This includes cyber hygiene?
+Dr. Romine. My understanding is it includes request for DHS
+to do scanning of systems, for example, but only upon request.
+Mr. Loudermilk. So that would be voluntary? It'd be like a
+stress test on their system?
+Dr. Romine. It would be----
+Mr. Loudermilk. Are we applying lessons learned from the
+Presidential Commission on Enhancing National Cybersecurity in
+making these recommendations for the States?
+Dr. Romine. So the Presidential Commission on Cyber
+Security has not yet reached the stage of finalizing the
+recommendations, so those are not being incorporated in these
+guidelines. And I would put it sort of in the reverse in the
+sense that the commissioners are actually taking a look at best
+practices out in the field and discussions with the IT industry
+and with stakeholders around the country to try to develop the
+best possible recommendations for the benefit of this
+Administration and the next.
+Mr. Loudermilk. So NIST's stance on this is to work within
+the framework of the Federal Government to come up with
+recommendations that the States may or may not implement and
+with flexibility to where they can be customized to the States'
+individual networks?
+Dr. Romine. That is correct.
+Mr. Loudermilk. Secretary Schedler----
+Mr. Schedler. Yes?
+Mr. Loudermilk. --how do you feel about that?
+Mr. Schedler. Well, I do not think critical infrastructure
+is needed at all. I mean, as was indicated by Dr. Romine and I
+did a little bit earlier, we can go to Homeland Security now,
+we can get those tests by FBI. We have a committee--matter of
+fact, your Secretary of State Brian Kemp, who has been very
+active in this whole process with several of us, is one of the
+committee members that we've appointed from NIST to serve on
+the Homeland Security Committee and to do best practices and
+the like.
+So most States are cooperating with their local FBI agents
+when needed, and you know, again, I don't mean to be flippant
+but do we really want to create a new TSA for elections in this
+country or a new Postal Service? I just don't think we need
+that. The Constitution says very vividly that it's up to the
+States for the time, place, and manner in which we conduct
+elections.
+It is a constitutional issue, and I understand that from
+the rhetoric that's not the intent, but to go and put the
+national elections on par with the banking system and the
+electrical grid, in my point--in my position is way overreach,
+unnecessary, and we can accomplish the same goals. It's not
+that we don't want their support and assistance when we need
+it, but we can accomplish that in a far less intrusive way, I
+think, if we just keep things on pat now.
+And again, I think the answer is part of new equipment, new
+HAVA dollars, whatever it may be to improve these systems.
+We're working on trying to get a system where you can vote
+anywhere in the State, just like was represented earlier.
+So critical infrastructure would be an absolute--and I
+think I speak again for--I don't know of any Secretary of State
+that's voiced an opinion that they want to be part of that.
+Mr. Loudermilk. Do you feel what NIST is doing is
+beneficial to you?
+Mr. Schedler. Yes.
+Mr. Loudermilk. Do you feel in any way that what's
+happening right now is a camel nose under the tent?
+Mr. Schedler. No.
+Mr. Loudermilk. Okay. All right. Thank you. I yield back,
+Mr. Chairman.
+Chairman Smith. Thank you, Mr. Loudermilk.
+And the gentleman from New York, Mr. Tonko, is recognized.
+Mr. Tonko. Thank you, Mr. Chair. And welcome to the
+panelists, and thank you for your information.
+Mr. Becker, the 2014 Presidential Commission on Election
+Administration recommended that audits of voting equipment be
+conducted after each election as part of a comprehensive audit
+program. According to verified voting, approximately 3/4 of
+voters in November will be using voting machines with a paper
+record of their vote. And I'm--just share a concern perhaps
+about the potential for mishaps or potential hacking for the
+voting machines with no paper trail. Can you please describe
+the role auditability plays in elections and the impact
+individual voters casting their vote?
+Mr. Becker. Yes, thank you. So in--we--of course,
+auditability is important. If--it's very helpful when there is
+a permanent record created that should a count need to be
+reviewed for some reason--and in fact there's a process in
+place to discover even if you're not sure whether the count
+needs to be reviewed that you can discover that, and that's
+what a good postelection audit does.
+In 2014, about 32 States offered--had a requirement for
+postelection audits. You know, I'll be honest. Some are better
+than others. There's very good standard practices where States
+pick random precincts across the State and check the paper
+count against the electronic count. There's even something
+called a risk-limiting audit where you escalate the number of
+ballots you have to count to ensure the result as the election
+gets closer, and these are practices that are put in place in
+many States.
+What we are seeing is that it is easier to audit a system
+when you have a permanent record, a paper record that the voter
+has reviewed, and more voters are going to be voting on paper
+than we've seen since HAVA was enacted. States like Maryland
+and Florida, which had used paperless direct recording
+electronic devices, have switched. I believe this is actually--
+I'm a Maryland voter, but I--this is the first Presidential
+election since the passage of HAVA where Maryland will be using
+a paper ballot that's read via optical scan.
+I've recommended for years--and States along with the
+Presidential Commission--that postelection audits are a good
+idea, and having a system that allows for full and transparent
+postelection audits and paper right now appears to be one of
+the best systems for that, affords the best opportunity to
+ensure that the election results are--do reflect the will of
+the people.
+Mr. Tonko. Thank you. And, Secretary Schedler, would you
+please describe what you have in place in Louisiana in terms of
+postelection auditing, and how would you rate other States
+overall?
+Mr. Schedler. Well, we do have a post-audit function. Now,
+we do not have a paper ballot system after we are looking at
+that when we go out for RFP next year on a new system, but we
+do--of course, our screen under HAVA does--after you complete
+voting, it pops up and gives you everything of who you--every
+person you voted for, position you voted for. They give you one
+more opportunity to rectify that if you want to change it or
+there was an error.
+What we see a lot on highly sensitive machines is an
+elderly person may be dragging their hand and it inadvertently
+hits the button below or a lady with long fingernails,
+sometimes it will have a problem, but you do have the
+opportunity to rectify that. But we do audit after every
+election. We audit at the end of each day on early voting to
+ascertain the correctness of the vote and basically balance the
+balance sheets so to speak so----
+Mr. Tonko. Right. And so you--there are the paper ballots
+that you're devising an audit process for?
+Mr. Schedler. That is correct.
+Mr. Tonko. What are some of those factors in that audit
+that you absolutely see essential? What--have you looked at
+other States and what they might be doing or----
+Mr. Schedler. Right. We've actually gone out to Denver. The
+county of Denver has a very similar situation that is now being
+used in California and other States with the paper ballot where
+the majority of folks actually want to bring that ballot in and
+put it into a box so to speak at a site. So we've looked at
+that system.
+We've looked at the printing of a paper ballot instead of
+on the screen that would go into a locked box. I would be
+personally against that voter taking that ballot out of the
+precinct. I think there's one State that does that.
+But overall, to answer your question, I mean I think the
+systems are sound, but everyone has to remember every State is
+different, and that--I think that's the uniqueness of the
+system, a lot of similarities, but each State is very unique in
+the way they do their elections. Some may have a week of early
+voting, some may have 30 days. Some States have no early
+voting, and that is the prerogative of that State.
+Mr. Tonko. Thank you very much. Mr. Chair, I yield back.
+Chairman Smith. Thank you, Mr. Tonko.
+Mr. Davidson is recognized.
+Mr. Davidson. Thank you, Mr. Chairman.
+Dr. Wallach, your testimony addresses the possibility of
+inserting malware into voting machines themselves. Can you
+elaborate on how malware could be loaded onto machines that are
+not connected to the Internet and further explain what it means
+that each and every single voting machine has to be
+manipulated? Or is there a different way where you could just
+hack one machine and that would transmit a bug to other
+machines in the precinct, again, even though they're not
+connected to an Internet?
+Dr. Wallach. Sure. So before we had an Internet, we had
+computers with floppy drives and there were computer viruses
+that could spread from one computer to another over floppies.
+Electronic voting machines, some of them use memory cards, some
+of them have these big battery packs, some of them have local
+area networks.
+Studies conducted in 2007 by the State of California State
+of Ohio, State of Florida found security vulnerabilities that
+could take advantage of these to engineer viruses where one
+compromised voting machine could then infect eventually the
+entire fleet of machines for an entire county.
+Mr. Davidson. Okay. So, you know, it's accurate to say that
+just because something is not connected to the Internet, it
+does not have vulnerability to cyber attack?
+Dr. Wallach. Being disconnected from the Internet helps,
+but it's not a panacea.
+Mr. Davidson. Okay. Perhaps as Secretary of State, Mr.
+Schedler, you could talk about--I spoke with our Secretary of
+State Husted about their protocols, but perhaps you could
+elaborate on how do your procedures protect against that risk
+should something like that occur?
+Mr. Schedler. Well, I think it's important to remember
+that, you know, we never link machines together. I know that
+some new systems that are being touted like a Wi-Fi and if you
+had a multiple-precinct site where you have a Wi-Fi, now that
+to me is a little scary.
+But when you consider the concept of each individual
+machine has a cartridge that's delivered by my office--now,
+we're a top-down system. We're not by county in Louisiana so we
+are vastly different. But--two or three days before, we
+literally deliver all the cartridges for all 10,000 machines to
+the various parishes, counties, to the clerk of court. The
+morning of the election--and we--when we deliver a secure
+laptop that is our equipment, it's not used to go shop on
+Amazon or anything else.
+And the morning of the election the commissioner in charge
+for that precinct picks up those cartridges and puts that
+cartridge individually into the machine, turns the machine on,
+and at the end of the night that cartridge is retrieved. It is
+driven back to the clerk of court with a sheriff's escort
+usually, and it's imported into that laptop. And it is on a
+closed-circuit line sent to my office in Baton Rouge.
+Mr. Davidson. Okay.
+Mr. Schedler. So, I mean, it is a little bit different, but
+to my knowledge no State interlocks machines so the concept of
+getting into one machine with one cartridge and you
+miraculously change all 10,000 across the State is ridiculous
+because you'd have to go into each machine individually and
+you'd have to have the programming.
+Mr. Davidson. Right. So in your system you have one card.
+Ohio system is similar. You have one card goes to one machine.
+Dr. Wallach, you mentioned a case study in Ohio. Perhaps
+you could elaborate on what that real vulnerability is.
+Dr. Wallach. Right, so the study in Ohio was called
+Everest, I believe. The similar study in California was called
+the Top-to-Bottom Review. I was part of the Top-to-Bottom
+Review. And each of these studies found ways that regular poll
+workers and election officials going through their standard
+procedures and standard operations could unwittingly be used to
+transmit viruses from one machine to another through the
+motion--typically, at the end of the Election Day you move a
+memory card through each of the machines in the precinct, and
+that's to collect the vote totals. That process can spread a
+virus. And there are other processes. The details vary from
+machine to machine.
+Mr. Davidson. Would a centralized federally controlled
+national voting infrastructure increase or decrease that risk?
+Dr. Wallach. That depends how it was built. I've been
+working with Travis County on trying to design something new
+where this wouldn't be a problem. The system that Los Angeles
+County is working on, this wouldn't be a problem. The reason
+why is because they generate paper backups--or rather paper
+ballots, which could then be audited against any electronic
+results.
+Mr. Davidson. The machine itself has memory, the card has
+memory, and it prints a roll tape that stays secure inside the
+machine and you can audit any one of those, so it's a good
+system in Ohio. It's been tested a lot. And Ohio will likely be
+front and center again in this election.
+Dr. Romine----
+Dr. Romine. Romine.
+Mr. Davidson. Romine, sorry. You stated in your written
+testimony that the NIST voting programs partnered with the AC
+to develop the science tools and standards necessary to improve
+accuracy, reliability, and usability and security of voting
+equipment used in federal elections for both domestic and
+overseas voters. How do you measure these improvements? How do
+you quantify them? Are there qualitative, quantitative
+measures?
+Dr. Romine. There are both. I don't have the details today
+on exactly the measurement of those improvements. I'd be happy
+to provide those to you. I think the issue, to a large extent,
+has been listening to the accessibility community. The human
+factors research that we've been able to do demonstrates
+certain kinds of changes that can be made to improve the
+accessibility and the usability of electronic voting systems,
+and we've documented those in various reports. I can give you
+pointers to those reports for the way in which those systems
+have been improved.
+Mr. Davidson. Okay. Aside from identity theft--my
+apologies. My time is expired.
+Chairman Smith. Thank you, Mr. Davidson.
+And the gentlewoman from Maryland, Ms. Edwards, is
+recognized.
+Ms. Edwards. Thank you, Mr. Chairman. And thank you to the
+witnesses. I apologize I had to step out for a bit, but I came
+back because this is a really important subject to me.
+I just want to be clear--and a yes or no answer from each
+of the witnesses would really help. Is it your--do you concur
+in the belief from the Department of Homeland Security that it
+was Russian state actors who hacked into both the Illinois--or
+attempted Arizona and also the party hacking that occurred
+earlier in the year? Dr. Romine?
+Dr. Romine. I have no information on that other than what's
+in the press.
+Ms. Edwards. Secretary Schedler?
+Mr. Schedler. Well, I mean the only thing I know of the
+Russian is the DNC issue. I don't know if they've ever
+determined where it came from in Arizona or Illinois.
+Ms. Edwards. Thank you. Mr. Becker?
+Mr. Becker. Yes, I don't have any specific information.
+I'll defer to the national security professionals on that.
+Ms. Edwards. And you believe they're capable of making that
+determination based on the signature or whatever?
+Mr. Becker. I can't answer that without knowing the
+information they have. I don't have any information to the
+contrary to support it.
+Ms. Edwards. Thank you. Dr. Wallach?
+Dr. Wallach. I only know what I've read in the press.
+Ms. Edwards. Thank you. And, Dr. Romine, in fiscal year
+2016, NIST received about $1.5 million in appropriations from
+the EAC. That is down from your budget of, I think, about $2-3
+million in the previous couple of fiscal years. Do you think
+that that's sufficient for you to be able to provide the kinds
+of certifications that you need of election systems?
+Dr. Romine. So let me clarify by saying NIST doesn't do
+certifications of systems. We do provide support through the
+development of guidelines in partnership with the EAC, and we
+also provide assistance to the EAC in the voluntary laboratory
+accreditation program the testing laboratories that do test
+equipment for certain--some States who choose to do that.
+Obviously, the--you know, the truism you can do more with
+more, but we believe that the current budget that we're
+receiving is adequate for us to continue to provide expert
+advice in security and interoperability for voting systems.
+Ms. Edwards. Thank you. And, Mr. Becker, in--you--in part
+of your testimony you indicated that the--I think it was your
+testimony that the technologies that we're using for these
+voting systems is now about a decade old for an awful lot of
+these systems. Can you share with us what you believe, if
+you've analyzed it, what would need to be an updated version of
+HAVA that would enable us to keep--to really keep track with
+the technology developments?
+Mr. Becker. Yes, and I think that might have been Dr.
+Wallach who said--who made one of those points. The--of course
+the--there is a rash of bought purchasing new equipment right
+after HAVA passed with a funding model that came through as a
+result of that. We've already seen some States like our State
+of Maryland and like Florida go to a second system after using
+the HAVA dollars.
+I think in talking with the States there is a great desire
+to be able to leverage new technologies that will improve
+access, as well as the integrity of the systems, that will also
+be cheaper to maintain and that--I don't have a specific dollar
+figure. If we were to replace all these systems nationwide,
+it's definitely in the billions.
+But, you know, to build--to encourage systems that are more
+component-based that use more off-the-shelf components that are
+easier to swap in and out so that you don't have a system that
+has a 10-year-old touch screen that you can update the touch
+screen as--with just the touch screen as it happens, I think
+that be a huge advantage to election officials. And if they had
+resources to do that, I think you'd find them doing some really
+exciting things.
+Ms. Edwards. And, Dr. Wallach, because--I apologize. That
+was your testimony.
+Dr. Wallach. Sorry. No problem. Part of what--so I've been
+working with Travis County for four years now on trying to
+design a better voting machine, and very much our intent is to
+use off-the-shelf hardware with custom software to the extent
+that we can for exactly that reason. When you buy a giant touch
+screen computer from Hewlett-Packard, Dell, insert your
+favorite tech company, you can get cheaper warranty support,
+you can replace the machines whenever you need to, and that
+helps reduce your maintenance and ongoing support costs.
+Ms. Edwards. Doesn't it increase your vulnerability though?
+Dr. Wallach. Not necessarily. The design of these systems,
+first and foremost, produces a printed paper ballot. So no
+matter what goes wrong with the computer, you have these
+printed paper ballots that the voters can see and verify. And
+everything else on top of that is gravy.
+Ms. Edwards. Thanks. And then just as a conclusion, I want
+to thank Secretary Schedler because I think in your testimony
+you indicated that the Secretaries of State across the country
+have great confidence in this election, and I think that's an
+important message to convey to voters so that we can make sure
+that we don't, with all of this talk, depress voter turnout.
+And so thank you very much for your remarks.
+Mr. Schedler. Yes, ma'am. I appreciate that. And I know I
+speak for all of them. We're very concerned about the rhetoric
+at this time.
+And if I could just add on the cost issue, I do have just
+on Louisiana, currently, we have roughly 10,000 voting machines
+that cost roughly or did cost $5,200 each on under HAVA so
+that--to replace those by today's dollars, if you could get the
+machine--which you can't--$152 million.
+If we went to a system similar to what Mr. Becker just
+indicated to you--and I'm overly simplifying an iPad concept,
+whether it be proprietary or store-bought, less than $300 each.
+Now, you do need two to three per machine so the hardware costs
+for us in Louisiana, $152 million on the replacement if you
+could get it, roughly $50-60 million, 1/3 of the cost. And 75
+percent of it is in the programming cost. The hardware is only
+10 or $11 million.
+Chairman Smith. Thank you, Ms. Edwards.
+The gentleman from Illinois, Mr. LaHood, is recognized.
+Mr. LaHood. Thank you, Mr. Chairman. I want to thank the
+witnesses for being here today.
+In my State of Illinois we've had a lot of changes in the
+last several years. We now have same-day voting registration,
+40 days of early voting, extended grace periods, absentee
+voting has a lengthy period of time. And couple that with some
+of the issues we've had particularly in Chicago over the years
+with issues related to voting there, I guess in terms of
+educating poll workers or training poll workers or election
+judges and looking at methods, particularly as it relates to
+the integrity of voting on Election Day and as we look at
+potential hacking of machines, I mean, is there a good model
+out there that has worked in terms of how we educate folks that
+are there at the polls?
+I'll also mention in a prior life I was Assistant State's
+Attorney in Cook County in Chicago. On Election Day, we would
+go out as prosecutors and be there at the voting booth. And a
+lot of times we didn't know what we're looking for or what we
+were supposed to be doing.
+And I guess, Secretary Schedler, can you maybe shed a
+little light on examples of what we need to be doing in terms
+of educating and working with our folks that are at the polls
+on Election Day?
+Mr. Schedler. Well, training is paramount. That came out in
+the Presidential Commission to all Commissioners or poll
+workers, whatever you want to refer to them as. We do a strong
+education component at the clerk's level. We assist with that.
+We have a very unified videotape that we use so we have
+consistency across the State. But we do heavy training and
+certification, and we require them to get certified annually. I
+think that's a huge benefit because the better trained, the
+better experience you're going to have on voting day.
+We also use people in voting lines, especially at larger
+precincts for questions or promoting that GeauxVote app where
+you could let individuals take a look at a mock ballot and
+actually mock vote that ballot on that phone to use as a guide
+to shorten lines and have a better experience in the voting
+booth.
+And the other thing that to me is a strength of poll
+workers and your voting boards in counties in regards to the
+subject we're talking about today, we all know our poll
+workers. They've been there a long time in most cases, great
+Americans. They do it for love of country, love of the
+experience. They don't do it for the money, that's for sure.
+And if you could just think about the greatest deterrent is
+that both Democratic, Republican poll workers together, do you
+realize if someone was going to affect an election, they'd have
+to go against that 80-year-old lady that's been there 30 years?
+I don't think that's going to happen whether they're Democrat
+or Republican.
+And to me that's one of the hidden jewels in our system,
+whether you have the best state-of-the-art equipment or
+whatever we have, you've got people on the ground with two eyes
+and they're looking at the process. They know the process. And
+to me that's the strength of the American system at its core.
+And it's really fundamental. It's the same way we did it 240
+years ago. And I just think that that's something that we need
+to recognize in this whole debate.
+Mr. LaHood. And just as a follow up on that, the level of
+what you go through in Louisiana, are you confident that that
+type of education and training is consistent across the
+country?
+Mr. Schedler. That I couldn't speak to. I think it's
+dominant across the country, but I wouldn't say every State
+does it that way.
+Mr. LaHood. And, Dr. Wallach, with all these changes we've
+seen recently with voting and how we vote--and I went to the
+litany there--what is the future of voting look like?
+Dr. Wallach. Well, I think what we've learned today is all
+the 50 States will be voting differently, and it's hard to make
+a broad-brush statement. I think that there will be a lot of
+hand-marked paper ballots scanned by machines. There will be a
+lot of computer-assistive technologies available, and there
+will be some States that are voting by mail and that's okay.
+Mr. LaHood. Thank you, Mr. Chairman.
+Mr. Babin. [Presiding] Thank you.
+I now recognize the gentleman from Virginia, Mr. Beyer.
+Mr. Beyer. Thank you, Mr. Chairman.
+Mr. Becker, I think in your comments you stated and wrote
+that there are 20 States in this Electronic Registration
+Information Center that you helped found. Why not 30? And then
+how do we motivate the other 30 to be part of it? And is there
+any suggestion that we'd ever require that?
+Mr. Becker. I feel like I planted that question with you,
+and just for the record I--we've never talked about this
+before.
+So the Electronic Registration Information Center, ERIC, is
+a data center that States voluntarily choose to join, and they
+share information so that they can identify when a voter record
+is out of date so they can notify that voter, make sure that
+voter gets the right information at their new address and also
+reach out to all the people who are eligible to vote but aren't
+yet registered and direct them to the easiest way to register.
+It was founded in 2012 with just seven States, so it's only
+four years old, and now 20 States plus DC. are in it so I think
+that's pretty good for a--you know pre-K 4-year-old.
+But certainly, you know, we are working very hard with the
+States that are already in it, including Virginia, who was one
+of the founding members, to see more States join. And as the
+word gets out, States like Virginia and Louisiana and many
+other States are spreading the word that this is helping them
+keep their voter rolls up to date and, in turn, what that's
+doing is actually reducing costs and increasing integrity
+because they're not sending mail out to people who no longer
+are there.
+The Presidential Commission on Election Administration, of
+course, did recommend that States join systems like ERIC, and
+that has been a tremendously positive influence. And I think by
+the time we get to the 2020 election I think we will be at more
+than 30 States, as I've talked to other States around the
+country.
+Mr. Beyer. Great. A parallel question for Dr. Wallach. In
+Mr. Becker's testimony, he talked about how the postelection
+audit requirement that mandates States match paper to digital
+is only 32 States doing this right now. And you wrote the mere
+possibility of a recount or audit of the paper ballots acts as
+a deterrent, dot, dot, dot. So what do we need to do with the
+other 18 States that don't have this post-audit reconciliation
+of paper and electronic?
+Mr. Wallach. Well, I'm certainly a big fan of reconciling
+paper and electronic records when you have both. Many of the
+States, that's not an option because you don't have paper
+records like, for example, the entire State of Georgia votes
+entirely on electronic machines without any paper records. So
+there's no way to do a meaningful audit. I would love to see
+the sun-setting of those machines and replacing them with the
+next generation of machines that will have paper.
+Mr. Beyer. There was the mention that we have $396 million
+of authorized but un-appropriated HAVA money. Is that enough to
+replace the old machines, the bad machines?
+Dr. Wallach. I'm not sure. If we could do it on a
+shoestring or if we'd do better to spend more money and do it
+properly. I don't have a good answer for you today.
+Mr. Beyer. Thanks. Many of you wrote about how the machines
+aren't connected to the Internet. So, Secretary Schedler, if
+they're not connected to the Internet yet, Dr. Wallach pointed
+out that they are at the time of initialization and tabulation.
+I think someone else pointed out that they're usually connected
+to the voter databases, you know, 365 days a year. So how--is
+that actually a strength that we can talk about that we're not
+connected to the Internet, or are those holes at initialization
+and tabulation----
+Mr. Schedler. I would think it's a strength because, as I
+look to the--I mean, people--the most common question asked of
+me is, Secretary Schedler, when are we going to be able to vote
+on the Internet? And my answer is I hope never because the
+world is evolving and we see it. I mean, the Department of
+Defense gets hacked into. Everything gets hacked into. And
+that's why I'm so adamantly--I want to keep it with the States
+to decentralize it, make it much more difficult. But the day we
+go on the Internet, all bets are off as far as in elections.
+Now, I want to caveat the comments. There are a couple of
+States that do allow a return of an overseas military ballot
+via the Internet. I think four, I believe, Alaska being one and
+I don't know--remember the other three. So I want to clarify
+that. Now, that's a small percentage of the overall vote. But
+they do allow a return of--but I will say this in defense of
+that, although we don't do it, it is a secure--you know,
+military--they have to get a pin, you've got to have access.
+You just don't just send them an email and here it is. They
+have to get access and have ability to open that file up and do
+something with it. So it is a little bit different. But
+certainly, under the argument and discussion we're having
+today, could be vulnerable.
+Mr. Beyer. Great. Great. Thank you, Secretary.
+Dr. Romine, a quick question. On this postelection audit
+requirement of reconciling paper and digital is--will--is this
+a NIST suggestion or a NIST standard or should it be?
+Dr. Romine. Part of the voluntary voting system guidelines
+that we worked with in the EAC was a strong recommendation that
+there be an auditability or audit capability, and certainly
+paper records provide a really robust way to do that, but it
+doesn't mandate specifically paper records.
+Mr. Beyer. Okay. Thank you very much. Mr. Chair, I yield
+back.
+Mr. Babin. Thank you.
+I now recognize myself for five minutes.
+Secretary Schedler.
+Mr. Schedler. Yes?
+Mr. Babin. By the way, I just spent two days in Baton
+Rouge, and my heart goes out to you----
+Mr. Schedler. I thank you for----
+Mr. Babin. --and your State.
+Mr. Schedler. --coming. I came back with Representative
+Honeycutt. I came to Washington yesterday with him----
+Mr. Babin. Right.
+Mr. Schedler. --with Garret Graves and Steve Scalise, flew
+with them, and he had the same expression to me so----
+Mr. Babin. Unbelievable. I represent the 36th District in
+Texas right across the Sabine so--and we had--in March we had--
+--
+Mr. Schedler. Well, you all know shares of rain, too.
+Mr. Babin. Absolutely. But I've never seen anything like
+that.
+Mr. Schedler. No, it was pretty--30 inches of rain in some
+spots, 25, 30----
+Mr. Babin. Absolutely.
+Mr. Schedler. --inches of rain.
+Mr. Babin. In a population center like that.
+But I'd like to ask you a question. You stated in your
+testimony that ``I'm happy to report there's no evidence that
+ballot manipulation has ever occurred in the United States as a
+result of the cyber attack.'' And, Dr. Wallach on the other
+hand states that ``If our paperless electronic voting systems
+were attacked, we'd be unlikely to see evidence of it in the
+voting machines or tally systems.''
+So I just want to hear both of your opinions on this
+matter. I'm not trying to start----
+Mr. Schedler. No, no, no.
+Mr. Babin. --any problem.
+Mr. Schedler. I know you're not trying to start a war----
+Mr. Babin. Yes.
+Mr. Schedler. --or anything. I'm a pretty simplistic kind
+of guy----
+Mr. Babin. Okay.
+Mr. Schedler. --you can see in my delivery. I asked a
+simple question and I do not profess to be an IT expert, but I
+come at the derivative of saying if you're not on the Internet
+with voting, how do you hack into the machines? And I'm just
+coming at it very simple----
+Mr. Babin. Yes.
+Mr. Schedler. --apple pie. I don't know much more than
+that, but if you're not on the Internet out in the cloud how do
+you hack it? If they're individual machines with cartridges----
+Mr. Babin. You bet. Thank you. Thank you. And, Mr.--Dr.
+Wallach?
+Mr. Schedler. If he gets deep on me, I'm not going to be
+able to argue with him.
+Mr. Babin. Thank you.
+Dr. Wallach. Right. The example that I think we can look to
+to understand this was the Stuxnet virus, which was apparently
+engineered to damage the Natanz nuclear refinement facility in
+Iran. That nuclear refinement facility was also meant to be
+secure. It also was not connected to the Internet, yet somehow
+this Stuxnet malware was able to do its job. We don't know many
+of the details, but it's quite clear that where there's a
+will--and presumably a budget--then there's a way.
+I don't know whether our nation-state adversaries have
+chosen to make that investment, but I know that it's
+technically feasible to mount these sorts of attacks and that's
+why it's important to take mitigations and defensive steps
+against them.
+Mr. Babin. I agree with that. I sure do. Thank you. Thank
+you very much.
+The next question would be for you, Dr. Wallach. Is it
+possible for someone to conduct a cyber attack in case of
+voting or election systems while pretending to be Russian,
+Chinese, North Korean hackers so as to falsely assign blame for
+the hack on a foreign nation? And have you ever come across any
+instance of such in your experience?
+Mr. Wallach. So the issue of attribution of cyber attacks,
+broadly speaking, is a well-known problem and nation-state
+actors will pretend to be other nation-state actors for exactly
+the purpose of trying to throw off attribution.
+Mr. Babin. Yes.
+Dr. Wallach. So I am not privy to however we have this
+Russian attribution. I have to assume that the people who said
+that know what they're doing.
+Mr. Babin. Okay. And then, Secretary Schedler, one more for
+you. Considering the range of vulnerabilities--and this follows
+up on what you said just a second ago--the range of
+vulnerabilities that exist for electronic systems, do you think
+that more States will eventually return to paper ballots? And
+if so, can you explain to us how paper is the more secure
+option?
+Mr. Schedler. Well, there seems to be a trend if you
+consider a trend what four States, five States now, but in many
+cases it's done for cost reasons also. I mean, you have to
+factor that in.
+Mr. Babin. Right.
+Mr. Schedler. I'll say this. You have to have some other
+protections, and I think Oregon and some of the others do, but
+I mean I've always said that the best way and easiest way to
+perfect fraud is right here in my hand.
+Mr. Babin. Yes.
+Mr. Schedler. You know, when I mail out a paper ballot, I
+have no earthly idea who actually votes that ballot. I may be
+able to verify a signature, but I can tell you that we've had a
+couple of cases in Louisiana on mail ballots with frail and
+elderly in a small jurisdiction where the individual canvassing
+the area goes to Ms. Suzy and Mr. Joe's house, knocks on the
+door, says, oh, can help you fill out your mail ballot? And
+they do. Need I tell you how they vote? We caught one guy.
+Instead of keeping the addresses of 15 elderly people, he sent
+it from his campaign headquarters.
+But the point being, you have to have some checks and
+balances even under that system even if you're verifying the
+signature with electronic machine or signature, not naked eye.
+So I always contend that this right here is the easiest way to
+perfect fraud in the system. Now, it doesn't mean that it's
+wrong to do it because I'm very respectful of other States and
+how we do it.
+But I will just say this. In the entire subject matter we
+had HAVA dollars ten years ago, and I think this will set the
+stage with sparse dollars in States and in this country at this
+time. We have $386 million of un-appropriated HAVA dollars
+purportedly still out there. I gave you an example of what are
+the costs to replace Louisiana systems. So $394 million may go
+a long way, if not completely retool all 50 States with
+assistance from the Federal Government.
+But we can put layer on top of layer on top of layer of
+what ifs and what have you, and as long as you all can write
+the check, we'll do it. But at some point you've got to use
+practicality here, and I am again--myself, and I think I speak
+for all 50 of us--we are very confident in the system we have.
+We have trifecta backups, audits and the like, and even under
+some of the worst-case scenarios that I've heard here today, I
+am still very confident that you may not have results November
+9 if catastrophe hits, but if you're a little patient with us,
+we'll get you the results and you'll have a new President of
+the United States.
+Mr. Babin. That's a good answer. Thank you. And I know I'm
+out of time, but, Dr. Wallach, just as short as you can, what
+do you consider the chances with many States going back to the
+paper ballots?
+Dr. Wallach. Well, if for no other reason than electronic
+voting systems are very expensive, as the Secretary told us
+earlier----
+Mr. Babin. Right.
+Dr. Wallach. --and paper systems are cheaper, and for that
+reason, if nothing else, while these electronic systems are
+wearing out, we're moving to paper sort of by default.
+Mr. Babin. Okay. All right. Thank you.
+Let's see. I recognize the gentleman from Illinois, Mr.
+Lipinski.
+Mr. Lipinski. Thank you. And I thank all the witnesses for
+your testimony. And I have--I'm not sure if I can get to my
+questions because some other ideas came to mind as you're
+talking here. So let me ask a couple things here so I better
+understand. I know States--everyone does it differently, and
+the idea of not having our--the machines directly connected to
+the Internet makes sense.
+But, for example, if you do have a voting machine, you're
+voting, usually then at the end of the day when the votes are--
+polls closed, votes are tabulated, how are those votes then
+communicated then from the polling place? So--because I would
+expect that they are done oftentimes over some sort of
+connection to the 'net.
+And then the other part of that is I go online election
+night and I'm looking at the results coming in so I can go
+online and connect in at least to see the results that they're
+displaying. So hopefully, I'm not displaying too much lack of
+understanding here, but aren't there some connections there to
+the Internet that are going on?
+Mr. Schedler. Not--no. Each machine has a separate
+cartridge and it's independent. They're not--none of those
+machines are linked together. And to answer your question, what
+occurs at the end of that night is that cartridge is retrieved
+from that machine. It is taken to the clerk of court or the
+central location in that county--at least in the parish in
+Louisiana--and it is put into a secure laptop and transmitted
+on a closed-circuit line, not on the Internet.
+Now, we do have--I mean, there's other systems. There's a
+tape on all machines that we can replicate. If a court
+challenge to an election--I can't tell you how you personally
+voted but I can certainly tell you if you voted and I can
+reconcile that tape. And there's one other method. Even in the
+transmission of those results on the nightly news that you
+referred to, there is a delay and there is a reason why we have
+that delay, to be able to detect any interference in that
+process.
+And again, even it occurred, delaying in getting you
+official results--because keep in mind on election night the
+results are unofficial. We all know that from being elected.
+The news media is out there declaring winners before the polls
+even close. That's their job. Our job is to make it accurate
+and effective.
+Mr. Lipinski. Well, that's good to hear. Is this--is that
+the common way it's done everywhere?
+Mr. Schedler. Yes, sir, pretty much. That's--to my
+knowledge, it's the way everybody does it.
+Mr. Becker. Yes, I can't speak for every place, but in the
+places I know of, they actually physically transport the
+cartridges or the memory devices with the counts that occurred
+in the precinct to the county office, which is often a
+frustration for people who are looking for election results
+because if they hit traffic or something like that, there's
+going to be a delay in getting those results. And only at that
+point--and most of these devices or many of them at least have
+duplicate cartridges as well, so one of them will go to the
+central count to be incorporated and you can check them.
+This is not completely foolproof and this--but it's--the
+problem that we often see is that voters get frustrated because
+there's a little bit of a delay in getting it because there's a
+physical transportation of the memory cartridges.
+Mr. Lipinski. And I think that--hopefully, that helps
+alleviate a lot of concerns that people do have that you--it's
+not being transmitted electronically in the way that can be
+hacked into.
+One other question that I had, the paper tapes I think
+are--certainly, I agree--a great idea. How often, though, and
+at what point would there be a check of those against the
+electronic numbers?
+Mr. Schedler. It usually dictates--I mean, it's usually
+dictatable by the closeness of the election. I mean, usually a
+challenge or if there was some major malfunction, but typically
+it's triggered by a challenge by a candidate, someone, you
+know, wins by 10 votes or loses by 10 votes, challenges that
+and requires a recount to be taken.
+We are also very public with the certification of our
+machines or you as a candidate or a campaign can watch us
+certify those beforehand in the warehouse and also when we
+reopen those machines to recertify candidates are allowed to
+come in or representatives to actually watch that process and
+to watch all that matching go on.
+I gave an--I testified last week at the EAC on this
+subject, and if you can bear with me a minute, it probably is a
+good representation of your question. I watched in utter awe
+with major networks with an individual that was claiming he had
+a handheld device that he could put early voting cards into and
+vote as many times as he wanted. Now, I don't argue the point
+that you can have a piece of machinery like that. They do it at
+gasoline pumps and the like. But what I did question was in the
+early stages they never, ever brought in anybody that ever
+conducted an election to dispute that.
+And you have to allow for an early voting site that someone
+is going to sit there and watch as somebody keep injecting a
+card--how times are they going to vote? We have time limits in
+most States. But at the end of the day, even if you have that
+piece of equipment, you still have to have the programming of
+what engaged that card. And at the end of the day, if there
+were 100 people they came in to early vote by signature next to
+your name and we had 106 votes, we're going to be able to
+determine by that number on that card that you don't see of--
+that you voted six times. We don't know how you voted, but we
+know you voted six times so we'll catch you.
+Mr. Lipinski. I am from Chicago, though.
+Mr. Schedler. I'm from Louisiana. We've got a lot in
+common. But we've cleaned that act up.
+Mr. Lipinski. Similar.
+Mr. Schedler. We no longer throw ballot boxes in the
+Mississippi River. We don't do that anymore.
+Mr. Lipinski. We have a big lake to do that.
+Thank you very much. I yield back.
+Mr. Schedler. Thank you, sir.
+Mr. Babin. Yes, sir, thank you.
+I now recognize the gentleman from Illinois, Mr. Hultgren.
+Mr. Hultgren. Thank you all for being here. This is such an
+important subject. I don't know if anything more important than
+making sure that our ability to vote is protected and that we
+feel confident that everything is being done to make it open
+and accessible to everybody and using technology to do that but
+at the same time making sure that we're protecting information
+and protecting that confidence that our voting booths are
+accurate and are being abused in any way. So I really do want
+to thank you for being her. Thank you for your work.
+It's certainly clear the nature of our increasingly
+connected world has opened up new vulnerabilities which were
+originally unforeseen. It's also brought about new great things
+that we all can agree improve our lives, the functionality of
+our democracy, and it does it in ways in which we can exchange
+goods and services with each other as well.
+A little over a year ago, I had a chance to visit Estonia
+with a group of my colleagues and saw many of the innovative
+ways they are integrating technology into their government
+services. They actually have online voting in many elections
+and most forms and bureaucratic paperwork are submitted online
+in more easily searchable formats.
+While this is encouraging to me, I also realize that
+Estonia has as many people as New Hampshire or Maine, so there
+are things they can do differently than we as a country of
+almost 330 million people can do. So our States still need to
+have the flexibility to innovate and the Federal Government's
+role should be assisting but not passing down new unfunded
+mandates on them which we hear--I hear so often from my
+constituents and my local government officials and the
+challenges they face.
+Dr. Wallach, if I could address my first question to you.
+Regarding the recent cyber attacks on the voter registration
+databases in my State Illinois and also in Arizona, why would
+an individual or an organization want to hack into States'
+voter registration information? Are they looking for the same
+kind of information other data breaches in the retail sector or
+just personal information or what's the purpose behind these
+attacks?
+Dr. Wallach. So there's a lot of different motives that we
+can ascribe. If we're talking about garden-variety, you know,
+identity theft, they just want to have the information in the
+database. If we're talking about the nation-state actors, their
+motive could be to get information, but a lot of that
+information is available through other channels. It could be to
+tamper with information, and we've talked at length about the
+sort of chaos that you could potentially cause.
+Mr. Hultgren. Specifically with tampering, once a hacker
+has gained access to a database, would it be possible to add
+fictitious voters or delete legally registered voters?
+Dr. Wallach. If it's a database on a computer, it's
+possible to do all of those things.
+Mr. Hultgren. Yes. Okay. Dr. Romine, I wonder if I could
+address a couple questions to you. Is the walling off and
+protection of voter registration databases part of the
+technical guidelines for NIST?
+Dr. Romine. The voluntary voting systems guidelines are
+principally for the voting systems themselves. However, we do
+have other guidance that my organization has developed over the
+years to protect information systems broadly, and this would
+fall under that category. And I think, yes, separation there is
+a legitimate way of trying to prevent certain kinds of
+interactions.
+Mr. Hultgren. So that separation is happening or is it----
+Dr. Romine. What's actually happening in the States is
+something that I'm not privy to.
+Mr. Hultgren. Also, Dr. Romine, from what is known, what
+kind of guidance for protecting voter registration databases
+were in place in the two affected States that I mentioned
+earlier, Illinois and Arizona, and will NIST be considering
+updates to its technical guidelines to include voter
+registration databases?
+Dr. Romine. I think we will be considering that with regard
+to our partnership with the EAC to provide guidance to the
+States and municipalities for protecting voting systems with a
+broader remit perhaps as one way to look at it. The guidelines
+that we have in place for IT systems have been developed over a
+number of years and involve integrity checks, identity
+management issues, and other things that can protect
+information and information systems. And so the cybersecurity
+framework that I alluded to earlier helps to--helps
+organizations to craft a way to manage risk in this space.
+Mr. Hultgren. Well, again, my time is almost up. Thank you
+for your work. Please let us know how we can be helpful going
+forward. And with that, I yield back to the Chairman. Thank
+you.
+Mr. Babin. Yes, sir. Thank you.
+I now recognize the gentleman from Texas, Mr. Weber.
+Mr. Weber. I thank the gentleman.
+I want to do something before we get into the election
+discussion today regarding the earlier comment from one of the
+members on the other side of the aisle that she was appalled
+that there was no Republican outrage over the Russians'
+apparent hacking of the DCCC. I would note that there's
+probably about the same amount of outrage from the Democrats
+over Hillary Clinton's dumping of a bunch of emails and
+destroying evidence in a federal investigation.
+Having said that, in full disclosure I was an election
+clerk and election judge and a precinct chair for about 16
+years in Texas in Brazoria County when we had good old-
+fashioned paper ballots. I was one of the few who raised my
+hand when they said, look, we want to pass a resolution
+encouraging electronic voting. I said I don't. I like the paper
+system. I don't trust the Internet. That was back in the '90s.
+It seems as if we've come full circle now that you all are
+saying that there are some States who are literally considering
+going back to paper ballots.
+So here's a question for, I guess, all of you one at a
+time. We'll start with you, Dr. Romine. Well, first of all,
+let's do it this way. How many States have paper?
+Dr. Romine. I think there's only five States that are
+completely without paper. There are some States in the middle
+that have a mix, depending on the county, of paper and on paper
+systems.
+Mr. Weber. Okay. What States in your opinion has the best
+system, Dr. Romine?
+Dr. Romine. I don't have insight into the systems that are
+being used State by State.
+Mr. Weber. So you really haven't formulated an opinion in
+that regard?
+Dr. Romine. I don't have the data.
+Mr. Weber. Okay. Fair enough.
+Now, if you say Louisiana, Secretary Schedler, I'm just
+saying.
+Mr. Schedler. My response to that would be the best system
+for which the people of that State feel comfortable in voting.
+Mr. Weber. Touche.
+Mr. Schedler. Okay. Because New Hampshire, I mean, if you
+can just think of the variety that we have across the board
+from the East Coast to the West Coast in Oregon, I mean, just
+totally different constituencies, totally different comfort
+zones, and, you know, if some people still like going to vote
+in their neighbor's garage and if that's what they want to do
+and then that's good for that State.
+So, I mean, I guess that's the best answer I could give
+you. No, I wouldn't say that we're the best, although a few
+years ago Pew had us at number 18, which would surprise you I
+bet because I used to always say if you interview people on the
+streets of New York on the late-night television show, they'd
+never mention Louisiana in the top 20, but we're there. We've
+done a lot of----
+Mr. Weber. And they usually don't know what they're talking
+about anyway.
+Mr. Schedler. That's correct. That's correct. But I think
+that's probably--I know that's kind of a politically correct
+answer, but out of respect for all my colleagues and all the
+States, I think you have to make that decision.
+Mr. Weber. Okay. Mr. Becker?
+Mr. Becker. I'll also be diplomatic here. I think if you
+ask most election officials around the country at the state or
+local level, most of them will say that the technology they're
+using, none of them have found the ideal system yet, that
+they're looking for something new to come around.
+Mr. Weber. So you don't have an opinion about that?
+Mr. Becker. I don't have an opinion about a particular
+State. I think the work that's being done in places like Los
+Angeles County to come up with a system that's based on off-
+the-shelf components----
+Mr. Weber. Okay.
+Mr. Becker. --that is largely accessible is going to be
+very instructive to the entire field.
+Mr. Weber. Dr. Wallach?
+Dr. Wallach. Well, I'm going to toot the horn of three
+different States where I enjoy what they're doing.
+Mr. Weber. Okay.
+Dr. Wallach. I like California's use of risk-limiting
+audits where you can audit paper and compare it to electronic
+results. I like what Florida has done where they got rid of the
+paperless electronic voting machines. My parents live in Fort
+Lauderdale and they now vote on a laser printer will print out
+a ballot on demand so they can have early voting in vote
+centers. So Florida is now doing remarkably good stuff.
+And, of course, I have to say something good about Texas. I
+think in Travis County we're building a really great system and
+it could potentially be applied in a lot of other places.
+Mr. Weber. Are you from Travis County?
+Dr. Wallach. No, I live in Houston. I grew up in Dallas.
+Mr. Weber. Okay. So let me just also say here, having been
+the recipient of--when a lot of those ballot boxes were
+carried--Brazoria County is a big area. Apparently, where I
+grew up is like 40 miles north of the county seat. And as an
+election judge, in the general election I was, of course, in
+the primary in the general election, too--we would always take
+our Democratic counterpart in the general election, take the
+ballot boxes down, turn them into the county. I've been on the
+receiving end of when it took, you know, 45 minutes to an hour
+just for the drive time and people were wanting those results.
+One quick question because I'm the last one, is that right,
+Mr. Chairman?
+Mr. Babin. [No audible response.]
+Mr. Weber. Okay. What is the most critical time of a cyber
+attack?
+Dr. Wallach. I would say that a cyber actor who knows what
+they're doing is acting months to years in advance and--because
+they don't necessarily have access to----
+Mr. Weber. But I'm talking about if they were going to
+affect a November election coming up, is that something done
+the night of, the week before? You're saying years--are you
+saying they get into the system----
+Dr. Wallach. Yes. You get in way in advance and then you
+have whatever effect you're trying to have. If your goal is to
+create chaos, then you want to have your effect very late. It
+all depends what you're trying to do.
+Mr. Weber. Okay. All right, Mr. Chairman. I yield back.
+Thank you.
+Mr. Babin. Thank you. I appreciate that.
+I want to thank the witnesses for their testimony and the
+members for your questions. And the record will remain open for
+two weeks for additional written comments and written questions
+from members.
+And with that, this hearing is adjourned. Thank you.
+[Whereupon, at 12:25 p.m., the Committee was adjourned.]
+
+Appendix I
+
+----------
+
+Answers to Post-Hearing Questions
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Appendix II
+
+----------
+
+Additional Material for the Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

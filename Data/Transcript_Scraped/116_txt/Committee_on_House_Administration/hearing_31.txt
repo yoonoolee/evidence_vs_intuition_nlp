@@ -1,0 +1,2105 @@
+- EXPLORING THE FEASIBILITY AND SECURITY OF TECHNOLOGY TO CONDUCT REMOTE VOTING IN THE HOUSE
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+EXPLORING THE FEASIBILITY AND SECURITY
+OF TECHNOLOGY TO CONDUCT REMOTE
+VOTING IN THE HOUSE
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON HOUSE
+ADMINISTRATION
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SIXTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+JULY 17, 2020
+
+__________
+
+Printed for the use of the Committee on House Administration
+
+[GRAPHC NOT AVAILABLE IN TIFF FORMAT]
+
+Available on the Internet:
+http://www.govinfo.gov/committee/house-administration
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+41-953 PDF                  WASHINGTON : 2020
+
+--------------------------------------------------------------------------------------
+
+Committee on House Administration
+
+ZOE LOFGREN, California, Chairperson
+JAMIE RASKIN, Maryland               RODNEY DAVIS, Illinois,
+SUSAN A. DAVIS, California             Ranking Member
+G. K. BUTTERFIELD, North Carolina    MARK WALKER, North Carolina
+MARCIA L. FUDGE, Ohio                BARRY LOUDERMILK, Georgia
+PETE AGUILAR, California
+
+C O N T E N T S
+
+----------
+
+JULY 17, 2020
+
+Page
+Exploring the Feasibility and Security of Technology to Conduct
+Remote Voting in the House.....................................     1
+
+OPENING STATEMENTS
+
+Chairperson Zoe Lofgren..........................................     1
+Prepared statement of Chairperson Lofgren....................    10
+Hon. Rodney Davis, Ranking Member................................    14
+Prepared statement of Ranking Member Davis...................    17
+
+WITNESSES
+
+Hon. Cheryl L. Johnson, Clerk of the U.S. House of
+Representatives................................................    22
+Prepared statement of Hon. Johnson...........................    24
+Newt Gingrich, Former Member and Speaker of the House, U.S. House
+of Representatives.............................................    27
+Prepared statement of Mr. Gingrich...........................    29
+William Crowell, Partner, Alsop Louie Partners...................    33
+Prepared statement of Mr. Crowell............................    35
+Jon Green, Vice President and Chief Security Technologist, Aruba
+Networks.......................................................    39
+Prepared statement of Mr. Green..............................    41
+Dr. Ronald L. Rivest, Institute Professor, Massachusetts
+Institute of Technology........................................    45
+Prepared statement of Dr. Rivest.............................    47
+Dr. Aviel Rubin, Professor and Technical Director, Information
+Security Institute, Johns Hopkins University...................    50
+Prepared statement of Dr. Rubin..............................    52
+Dr. David Wagner, Professor of Computer Science, University of
+California, Berkeley...........................................    54
+Prepared statement of Dr. Wagner.............................    56
+
+QUESTIONS FOR THE RECORD
+
+Hon. Cheryl L. Johnson, Clerk of the U.S. House of
+Representatives, answers to submitted questions................    75
+Jon Green, Vice President and Chief Security Technologist, Aruba
+Networks, answers to submitted questions.......................    79
+Dr. Ronald L. Rivest, Institute Professor, Massachusetts
+Institute of Technology, answers to submitted questions........    82
+Dr. Aviel Rubin, Professor and Technical Director, Information
+Security Institute, Johns Hopkins University, answers to
+submitted questions............................................    84
+Dr. David Wagner, Professor of Computer Science, University of
+California, Berkeley, answers to submitted questions\1\........    86
+
+SUBMISSIONS FOR THE RECORD
+
+Electronic Vote Recorder, Patent No. 90,646, Thomas A. Edison....     4
+Letter, Daniel Schuman, Policy Director, Demand Progress and Zach
+Graves, Head of Policy, Lincoln Network........................    87
+
+----------
+\1\ Dr. Wagner did not answer submitted questions for the record by the
+time of printing.
+
+EXPLORING THE FEASIBILITY AND SECURITY OF TECHNOLOGY TO CONDUCT REMOTE
+VOTING IN THE HOUSE
+
+----------
+
+FRIDAY, JULY 17, 2020
+
+House of Representatives,
+Committee on House Administration,
+Washington, DC.
+The Committee met, pursuant to call, at 1:03 p.m., via
+Webex, Hon. Zoe Lofgren Chairperson of the Committee presiding.
+Present: Representatives Lofgren, Raskin, Davis of
+California, Butterfield, Fudge, Aguilar, Davis of Illinois,
+Walker, and Loudermilk.
+Staff Present: Jamie Fleet, Staff Director; Khalil Abboud,
+Deputy Staff Director; Dan Taylor, General Counsel; Brandon
+Jacobs, Legislative Clerk; Matthew Schlesinger, Oversight
+Counsel; Peter Whippy, Communications Director; David Tucker,
+Senior Counsel & Parliamentarian; Jen Daulby, Minority Staff
+Director; Tim Monahan, Minority Deputy Staff Director; and Cole
+Felder, Minority General Counsel.
+The Chairperson. The Committee on House Administration will
+come to order, and I have a gavel.
+I would now like to call the roll so that we will know that
+we have a quorum present. First, I am here.
+I will ask, Mr. Davis, are you present?
+Mr. Davis, I see you. Say ``here.''
+Mr. Davis of Illinois. Yes, I am present. I had to get to
+unmute.
+The Chairperson. Okay. Mr. Raskin.
+[No response.]
+The Chairperson. He is not present.
+Mr. Walker of North Carolina?
+[No response.]
+The Chairperson. Not present.
+Mrs. Davis of California.
+Mrs. Davis of California. Present.
+The Chairperson. Mr. Loudermilk of Georgia.
+Mr. Loudermilk. Present.
+The Chairperson. Mr. Butterfield of North Carolina.
+Mr. Butterfield. Present.
+The Chairperson. Ms. Fudge of Ohio.
+Ms. Fudge. Present.
+The Chairperson. Mr. Aguilar of California.
+Mr. Aguilar. Present.
+The Chairperson. So a quorum being present, I would like to
+thank the Members of the Committee and our witnesses----
+Mr. Davis of Illinois. Madam Chair.
+The Chairperson. Yes.
+Mr. Davis of Illinois. Just a quick point of order. I do
+know Mark Walker is on. So, for the initial period of
+attendance, he is here. He is having difficulty with the video.
+So I think the team is working on the video for him.
+The Chairperson. Very good. We will note that for the
+record.
+Mr. Davis of Illinois. Thank you.
+The Chairperson. We are holding this hearing in compliance
+with the regulations for remote committee proceedings pursuant
+to House Resolution 965. Section 5 of House Resolution 965
+requires this Committee to ``study the feasibility of using
+technology to conduct remote voting in the House,'' and ``to
+provide certification to the House upon a determination that
+such operable and secure technology exists to commit remote
+voting in the House.''
+Today's hearing will explore the technological and security
+issues surrounding remote voting and will inform our study of
+these issues.
+As we begin, I want to remind all our members and
+participants of a few things that will help us navigate this
+platform. We are holding this hearing in compliance with the
+regulations for remote committee proceedings pursuant to the
+resolution. However, the fundamental nature of the hearing and
+our rules are unchanged.
+Generally, the Committee will keep microphones muted to
+limit background noise. When we meet in person, in our
+Committee room, members need to unmute themselves when seeking
+recognition or when recognized for their five minutes.
+Witnesses will also need to unmute themselves when recognized
+for their five minutes or when answering a question.
+Members and witnesses, please keep your cameras on at all
+times. If you need to step away for a moment during the
+proceedings, please leave your cameras on and do not leave the
+meeting within the Webex platform.
+And at this time, I ask unanimous consent that all members
+have five legislative days to revise and extend their remarks
+and that any written statements be made part of the record.
+And, hearing no objection, that is so ordered.
+This is our first virtual full Committee hearing, and it is
+fitting that I am joining you from Silicon Valley. In recent
+months, the House has made important use of new technology,
+including virtual hearings, to continue operations during the
+COVID pandemic. These advances are particularly noteworthy
+because, as an institution, the House has not always been quick
+to adopt technology to its legislative procedures.
+A young inventor once observed that what he called ``the
+enormous waste of time in Congress,'' spent taking roll call
+votes. So that 21-year-old invented an electronic system that
+would permit instantly and accurately recording Members' votes
+``thus avoiding loss of valuable time consumed in counting and
+registering the votes and names,'' and saving time for more
+important, substantive legislative business.
+But when he presented his idea to Congress, he was told it
+would impair the ability of the minority to influence
+legislation. So that Electrographic Vote Recorder and Register
+described in the first of more than 1,000 patents that Thomas
+Edison was issued was essentially ignored by Congress.
+I would ask unanimous consent to enter Mr. Edison's patent
+No. 9646 into the record.
+And, without objection, so ordered.
+[The information follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. It would take another 20 years for anyone
+to introduce the first bill to permit a form of electronic
+voting. By the time the House took its first electronic vote in
+1973, more than a century had passed since Edison first
+suggested the idea. It also took more than 40 years from the
+time Members of the House first appeared on live television to
+the time when cameras were allowed to broadcast live
+proceedings on the House floor.
+It is not unusual for any institution steeped in history
+and precedent to resist change. That was the case for the House
+when it came to advances like electronic voting and televising
+our proceedings, both of which we take for granted today.
+But we can't afford that attitude today in the face of the
+COVID crisis. That is why the House recently passed a
+resolution to ensure that we can continue to govern during the
+coronavirus pandemic. The resolution authorized new ways to
+conduct our legislative business.
+For example, the House authorized remote committee
+proceedings like this one. The House also authorized remote
+directed proxy voting on the floor. And the House directed
+further study of a third possible tool: remote voting. That
+review is the purpose of today's hearing.
+In some respects, these are new tools for governing, but
+they are within our authority to implement, and they are not
+intended to replace our regular order. To the contrary, they
+represent prudent and responsible steps to ensure that the
+House can continue to lead during this crisis. As the
+resolution makes clear, they are intended to be used only
+during extraordinary circumstances. There can be no doubt that
+these are extraordinary times.
+Our Nation and the world continue to grapple with the
+devastating spread of a historic pandemic, and the spread of
+the disease in the United States is worsening. Today, more than
+3.5 million Americans have been confirmed to have COVID. That
+is a greater number than the population of 21 individual
+States.
+More Americans have died in the last few months from COVID
+than were killed in all military conflicts U.S. has fought
+since World War II combined. Plus, because of the continuing
+problems with access to testing, we don't know for sure how
+many Americans have actually contracted the virus, but the
+experts believe the actual figure could be as high as 20
+million.
+We are still learning about how highly contagious this
+deadly virus is and how it is spread, what steps can be taken
+to mitigate its further spread. New reports have suggested that
+the immunity gained by those who recover from COVID could be
+short lived.
+As bad as things already are, cases are continuing to rise
+in more than 40 States. This week, the Director of the Centers
+for Disease Control and Prevention, Dr. Redfield, said he
+believes that ``The fall and winter of 2020 and 2021 are going
+to be probably one of the most difficult times that we have
+experienced in American public health.''
+This crisis demands legislative action and oversight and
+the continued work of the Congress, and it also means that we
+have a responsibility to the institution and the American
+people to explore additional ways to be able to continue work
+in the face of the pandemic.
+Consider the alternative: In a number of States outbreaks
+among State legislators have impacted the ability to conduct
+State business. In Mississippi this week, more than 40
+legislators and staff, including at least 30 members, have
+tested positive for the disease. The Speaker of the House and
+the Lieutenant Governor, who presides over the Senate, are both
+positive. That has left the State government in limbo with
+significant pending business unfinished. In several other
+States, tragically, legislators have died.
+Here in Congress, nearly 60 Members have publicly disclosed
+that they tested positive, self-quarantined, or had otherwise
+come in contact with someone who was positive. At one point at
+the same time, at least 22 Members of the House had either
+tested positive, were presumed positive, or were in self-
+quarantine because of someone who they had been exposed to who
+was positive.
+That is in addition to the scores of other institutional
+leg branch staff who contracted COVID, including personnel from
+the Capitol Police, the Architect of the Capitol, the GPO, and
+others.
+I am mindful that many people are putting themselves at
+risk by working on the front lines every day, from doctors and
+nurses, to police officers, firefighters, and paramedics, to
+transit workers and truck drivers, among others.
+As the daughter of a truck driver and a school cafeteria
+cook, I deeply appreciate everything people in many critical
+lines of work are doing to support their communities and the
+country, even at risk to their own health. However, we in
+Congress have an option that most of these vital frontline
+workers do not have: we can do our work remotely in a safe,
+secure, online format.
+We have already taken a number of significant steps to do
+that. In just two months, the House has held 29 votes, which
+included remote directed proxy votes. These votes have produced
+legislation signed into law by the President. House committees
+have held more than 86 committee hearings and markups.
+These events have included more than 185 hours of
+testimony, questions, statements, and debate. Of those
+committee events, 78 were hearings, and of those hearings, 49
+were fully remote, 29 were hybrid, during which some Members
+were in Washington while others participated remotely.
+More than 226 individuals have provided testimony as
+witnesses in remote or hybrid hearings. In addition, in April,
+the Speaker directed the creation of an all-electronic--hopper
+to permit the virtual submission of all floor documents,
+including bills, resolutions, cosponsors, and extension of
+remarks, via a dedicated and secure email system. Since the
+policy took effect, 1,307 measures have been filed
+electronically while just 51 were filed using the old process.
+And in my capacity as chairperson of the Joint Committee on
+Printing, I directed the GPO to accept for publication in the
+Congressional Record extensions of remarks submitted with the
+Member's electronic signature. Under this new, more convenient
+system, Members have filed 897 extensions of remarks by email.
+All of these are remarkable changes in the history of the
+institution. We have acted swiftly to use technology because
+when we maximize our remote work, we minimize needless exposure
+of everyone who works on Capitol Hill, and that includes the
+Capitol Police, the cleaning staff, other institutional staff,
+the press, legislative staff, and Members.
+Virtual and hybrid committee events have been, by and
+large, very successful. Although there have been some
+relatively small number of technical issues, in considering
+these, it is important to keep in mind that expanding use of
+virtual or remote congressional activity where appropriate
+ensures that we can continue to act in a manner that is safe
+for the legislative branch workforce while also preserving
+precious testing equipment and supplies for frontline workers
+who don't have jobs that can be performed remotely.
+The highest levels of all three branches of our Federal
+Government have recognized the need to adapt our work in the
+21st century and that we can do so in a safe, secure, and
+transparent way.
+In addition to the changes we have made in the House, the
+Senate has held numerous virtual hearings. The Supreme Court,
+which long resisted modest attempts to increase transparency
+and public access to its proceedings, has heard oral arguments
+by conference call.
+These important cases involve critical congressional
+oversight prerogatives, and for its part, the executive branch
+has recognized the legitimacy of these proceedings by
+participating in virtual or remote proceedings, both Chambers
+of Congress, and the Supreme Court.
+Now, as I mentioned, I represent Silicon Valley, which has
+become synonymous around the world for technology and the
+spirit of innovation. We in Congress must adopt the
+entrepreneurial spirit and openness to new technology that made
+my community a global leader and apply it to the procedural and
+logistical challenges we face in our legislative operations, as
+well as to strategy to respond to and overcome the coronavirus.
+Remote voting could be another powerful tool to permit the
+House to continue its work. The Committee on Rules has already
+had significant discussions about the constitutional basis and
+foundation for using technology to bolster legislative
+operations during the pandemic. So that is not the focus of
+this Committee hearing today.
+Our purpose is to assess the specific issue of the
+feasibility of using technology to conduct remote voting in the
+House.
+With that in mind, I look forward to hearing from our
+esteemed panel of witnesses.
+I would now like to recognize our Ranking Member, Rodney
+Davis, for his opening statement.
+[The statement of the Chairperson follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Davis of Illinois. Thank you, Madam Chairperson.
+This is a great opportunity for us to--let me get my audio
+stuff taken care of here. I apologize.
+Chairperson, thank you for holding today's hearing. I
+appreciate hearing from the Majority about the different
+provisions that the House has passed already to deal with the
+coronavirus. We came together for four very important bills
+that dealt with saving our economy, making sure that we allowed
+small businesses to survive and sustain themselves during this
+pandemic.
+But the provisions that were put in place, as was mentioned
+by the Chairperson, were not done by the House as a whole; they
+were done by the Majority. Remote voting is being discussed
+because it is a provision that was recommended by the Majority
+in the House only. There are many of us who have concerns with
+the provisions that are in place for proxy voting and for
+remote and hybrid hearings.
+And I appreciate, though, today that we are going to
+discuss the feasibility of remote voting because, regardless of
+our concerns, we have to make sure that we debate the merits of
+any provisions, even if they are pushed through by only the
+Majority. I think this is an important conversation. I hope the
+transparent process continues before the Majority decides to
+move forward with implementation.
+I would like to welcome all of our witnesses, especially
+former Speaker Gingrich. I believe the Speaker offers a unique
+perspective, and I do appreciate his willingness to
+participate. I hope with the long opening statements, Mr.
+Speaker, that this is not a delay game since you are across the
+Atlantic Ocean and on a different time schedule, but stick with
+us. I think America needs to hear what you are going to say on
+this issue.
+But before we discuss the possibility of remote voting, I
+think it is important to lay out where we are now, how we got
+to this point, and the process that has driven the operational
+decision making of this institution during the COVID-19
+pandemic.
+When this coronavirus began spreading across our country
+and the rest of the world, we knew it was only a matter of time
+until we would be impacted in the people's House. In March,
+there was a bipartisan effort to quickly transition thousands
+of staff to telework. That was an enormous lift and only made
+possible through the tireless work of the Chief Administrative
+Officer, which I must add, didn't exist until Speaker Gingrich
+was Speaker of the House, and then also the Sergeant at Arms
+offices.
+And I would like to thank Chairperson Lofgren for working
+in a very bipartisan way to make that happen. Then the
+conversation turned to additional procedural changes that would
+be required for the House to continue to operate. These efforts
+did not incorporate bipartisan input.
+On March 23rd, Democrats released a report concluding
+remote voting in any form would almost certainly cause
+unintended consequences if not done with adequate forethought
+and discussion, and change cannot be implemented overnight and
+likely cannot be accomplished in time to address the current
+crisis.
+Well, despite this and without any public hearings or
+bipartisan support, the majority passed H. Res. 965 on May
+15th, which authorized proxy voting, remote committee
+proceedings, and authorized remote voting pending a
+certification from Chairperson Lofgren.
+Since the implementation of H. Res. 965, 572 proxy votes
+have been cast on the House floor, dozens of virtual hearings
+and markups, and a lawsuit filed in Federal court on the
+grounds that proxy voting is unconstitutional.
+During today's hearing, we will hear lots of discussion on
+IT capabilities that can support remote voting, the types of
+requirements that a system should have to safeguard against
+threats, and examples of entities already using remote voting.
+Four months before this hearing, when it became apparent
+the direction of the Democratic majority and where they were
+heading, I directed my team to formally engage with the GAO to
+better understand remote voting technologies. This engagement
+has been productive, and I am confident that there is a
+technology that exists to support remote voting.
+I also have confidence in the Clerk and her staff's ability
+to execute if directed.
+What I am concerned about is that the House seems to be in
+a very reactionary posture with sweeping changes being made
+with little consideration around longer-term impacts.
+We have already seen numerous hearings and markups
+disrupted by technical difficulties, resulting in the nature of
+those proceedings changing; fewer standalone amendments being
+made in order for floor consideration; increased usage of en
+bloc amendment packages at committee hearings and on the floor;
+and dozens of examples of Members from both parties not
+following the prescribed regulations with no consequences. No
+one can say with a straight face that these trends are a good
+thing or that the quality of the deliberative process that is
+the hallmark of the House hasn't been sacrificed.
+Over the last six months, we have seen essential workers
+across our Nation step up, make sacrifices, and take on risk,
+all in the name of our collective well-being. I know the
+grocery store clerks, the truck drivers, farmers, healthcare
+workers, like my wife, and first responders in my district
+expect their elected leaders to have the same willingness and
+patriotic duty to make sacrifices just as they do every shift.
+Americans look to their elected leaders to set an example,
+and they don't appreciate Congress skipping out on their duties
+to attend events across their States that seem more desirable
+than the difficult task of governing during a pandemic.
+As our country continues to be impacted by the coronavirus,
+the example I want to set is that we stand side by side with
+the essential workers of this country, and I don't believe that
+can be done solely behind a computer screen and over emails.
+We have debated scenarios like this before, and Members who
+are unable to travel can submit statements to the Congressional
+Record. And we have a rule that this Majority adopted at the
+beginning of this Congress that allows for a quorum to be
+adjusted in an emergency.
+I will end with a quote from the U.K.'s House of Commons
+leader, Jacob Rees-Mogg, who recently announced they will be
+scaling back their virtual Parliament. He said: Rather than
+suffering the depredations of the muted, hybrid Parliament, we
+are once again talking to each other in ways impossible when we
+were scattered to the four winds. Rather than wading through
+the treacle of the hybrid proceedings, we are once again fleet
+afoot and dancing a legislative quickstep.
+And, Madam Chair, I am glad you didn't ask me to dance
+here, but thank you, and I yield back.
+[The statement of Mr. Davis of Illinois follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. The gentleman yields back.
+Without objection, other Members of the Committee may have
+their opening statements included in the record.
+I would now like to introduce each member of our panel.
+Each of our witnesses will be recognized for five minutes, and
+I will remind our witnesses that their entire written
+statements will be made part of the record.
+Also, please note that there should be a timer on your
+screen. Please be sure that you can see the timer and are
+mindful of the five-minute limit. I don't have a heavy gavel,
+but we do hope to keep within the five minutes.
+Let me introduce our witnesses. First, we have Cheryl
+Johnson, who is the 36th individual to serve as Clerk of the
+United States House of Representatives. As Clerk, Ms. Johnson
+has a variety of legislative, ceremonial, administrative, and
+preservation responsibilities. These responsibilities include
+but are not limited to certifying passage of House bills and
+resolutions, maintaining the electronic voting system, and
+retaining a permanent set of the books and documents generated
+by the House.
+Before being sworn in as Clerk in February of 2019, Ms.
+Johnson worked for nearly 20 years in the House and 10 years at
+the Smithsonian Institution.
+Next, we have Representative Newt Gingrich. Mr. Gingrich
+served as Speaker of the House in the 104th and the 105th
+Congresses. He was first elected to the House in 1978 and
+represented Georgia's Sixth District from 1979 until 1999.
+Mr. Gingrich has served as a member of the Defense Policy
+Board and was a candidate for the Republican Presidential
+nomination during the 2012 election. He has also written 36
+books. He serves as a distinguished visiting scholar and
+professor at the National Defense University.
+I would note that he is joining us from Rome today, and
+welcome. I know it is about 7:30 p.m. your time. So we
+appreciate this. And I just--as a personal note, I would note
+that my very first day as a Member of Congress was the day that
+you became Speaker of the House. So welcome. It is good to see
+you again.
+Bill Crowell is an expert in information technology,
+security, and intelligence systems. He is the former Deputy
+Director of the National Security Agency and was appointed to
+this position after serving as Deputy Director of Operations.
+After his service at the NSA, Mr. Crowell moved to the
+private sector and served as CEO of Cylink Corporation, a
+public e-business security solution company, and Chairman of
+BroadWare Technologies, a video surveillance software company.
+He also served as Chairman of the Director of National
+Intelligence Senior Advisory Group from 2007 to 2014 and
+currently sits on the Department of Homeland Security Science
+and Technology Advisory Board.
+Jon Green is a vice president and the chief technologist
+for cybersecurity and government solutions at Aruba Networks, a
+Hewlett Packard Enterprise Company. In this role, he is
+responsible for providing technology guidance and leadership
+for all security solutions, including authentication and
+network access control, encryption, firewall, and VPN.
+He works closely with the U.S. Government on secure network
+and remote access solutions and manages both Aruba's Product
+Security Response Team and its Threat Lab, an internal security
+research group.
+Dr. Ron Rivest is an institute professor at the
+Massachusetts Institute of Technology. He is widely known as
+coauthor of the textbook ``Introduction to Algorithms'' and as
+coinventor of the RSA public-key cryptosystem. He is also a
+cofounder of both RSA and Verisign.
+An expert in election security and cryptography, Dr. Rivest
+is a recipient of the ACM Turing Award, the BBVA Frontiers of
+Knowledge Award, and a Marconi Prize. He has served on the
+Election Assistance Commission's Technical Guidelines
+Development Committee and is a member of the Caltech/MIT Voting
+Technology Project, as well as the Board of Verified Voting.
+Dr. Aviel Rubin is a professor of computer science at Johns
+Hopkins University, where he also serves as technical director
+of the Information Security Institute. Dr. Rubin is an expert
+in computer security and applied cryptography and was among the
+first to expose the vulnerabilities of electronic voting in his
+book ``Brave New Ballot: The Battle to Safeguard Democracy in
+the Age of Electronic Voting.''
+Dr. Rubin has briefed Congress and the Department of
+Defense on election tampering and other national security
+issues. He served as director and principal investigator for
+the National Science Foundation's Center for Correct, Usable,
+Reliable, Auditable, and Transparent Elections, otherwise known
+as the ACCURATE Center.
+Dr. David Wagner is a professor of computer science at UC
+Berkeley, where he has worked on electronic voting, software
+security, wireless security, sensor network security, and
+applied cryptography. He is a part of Berkeley's security
+research group and is also an active member of the ACCURATE
+Center.
+Dr. Wagner has developed quite a bit of software, including
+tools to help with the auditing of elections. In addition to
+his duties as a professor, Dr. Wagner currently sits on the
+editorial board for the Journal of Election Technology Systems
+and is part of the Science of Security Project.
+These are distinguished witnesses, and we are eager to hear
+from them.
+So I will first recognize Ms. Johnson for your testimony of
+about 5 minutes. Welcome.
+
+STATEMENTS OF THE HONORABLE CHERYL L. JOHNSON, CLERK OF THE
+U.S. HOUSE OF REPRESENTATIVES; NEWT GINGRICH, FORMER SPEAKER OF
+THE HOUSE; WILLIAM CROWELL, PARTNER, ALSOP LOUIE PARTNERS; JON
+GREEN, VICE PRESIDENT AND CHIEF SECURITY TECHNOLOGIST, ARUBA
+NETWORKS; RONALD L. RIVEST, INSTITUTE PROFESSOR, MIT COMPUTER
+SCIENCE AND ARTIFICIAL INTELLIGENCE LAB; AVIEL RUBIN, PROFESSOR
+AND TECHNICAL DIRECTOR, THE JOHNS HOPKINS UNIVERSITY
+INFORMATION SECURITY INSTITUTE; AND DAVID WAGNER, PROFESSOR,
+COMPUTER SCIENCE DIVISION, UNIVERSITY OF CALIFORNIA, BERKELEY.
+
+STATEMENT OF THE HONORABLE CHERYL L. JOHNSON
+
+Ms. Johnson. Thank you. Good afternoon. Chairperson
+Lofgren, Ranking Member Davis, Members of the Committee, thank
+you for inviting me to participate in this hearing on such a
+critical topic.
+Since 1789, the Office of the Clerk has supported the
+legislative functions of the U.S. House of Representatives. The
+Clerk maintains the House Journal, certifies the passage of
+legislation, verifies the accuracy of each individual vote,
+records the vote, tallies the vote, and transmits the results
+to the public.
+After 181 years of manual voting, the House passed the
+Legislative Reorganization Act of 1970, authorizing electronic
+voting. And while the bill was passed in 1970, it was another 3
+years before the system was developed and put into use. That
+system, the Electronic Voting System, or EVS, is a real-time,
+computerized information system. EVS resides on its own private
+air-gapped network, separated from the House network, which
+affords it a very high level of security.
+The voting procedures are as follows: Voting stations are
+distributed throughout the Chamber and equipped with a vote
+card slot, voting buttons, and a system readiness indicator.
+Each Member who chooses to vote electronically does so by
+inserting a personalized voting card into a voting station and
+selecting a voting button to cast their vote. Voting results
+are displayed on screens in the House Chamber.
+In 2018, all of the voting stations were upgraded with the
+latest proximity card reader technology and new capability to
+assist visually impaired Members. An LED display was added to
+provide additional vote confirmation to Members directly on the
+vote station. We also implemented a new network architecture
+for greater security and flexibility for future expansions.
+I am confident that, as the House looks to our office to
+inform and implement the critical decisions it will make in the
+coming months and years to preserve and protect the legislative
+process, we will rise to the occasion.
+Recently, pursuant to House Resolution 965, the House
+allowed its first proxy vote. On our website, we post the
+letters which designate who holds the proxy for the Member
+voting by proxy. Our staff worked long and hard to ensure a
+successful implementation. To date, we have held 29 votes with
+proxies without incident.
+The topic you are discussing today and moving forward is of
+great importance. However the House decides to proceed on how
+it conducts voting, our office will be prepared to advise on
+the associated costs, benefits, and challenges, and we will be
+prepared to implement whatever decisions are made to ensure the
+continuity of this irreplaceable institution.
+If the House chooses to pursue remote voting, we will need
+to perform an exhaustive review of the requirements, available
+technology, design options, and, once developed, a very
+thorough testing to ensure its highest level of security,
+reliability, and availability.
+It is critical that we ensure complete confidence of the
+Members and the public in the way House votes are recorded. As
+with the initial development of the EVS and with each past
+upgrade, it will be critical to take the necessary time to
+implement any remote voting system correctly and securely.
+The mission of the Clerk's Office is to support the House
+in carrying out its legislative responsibilities, and I am
+committed to these duties with maximum integrity and
+reliability.
+Thank you, and I look forward to your questions.
+[The statement of Ms. Johnson follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much. It is great to hear
+from you.
+Now, I would like to recognize our former Speaker.
+Mr. Gingrich, we are looking forward to hearing your
+testimony. You may need to unmute. Can somebody unmute Mr.
+Gingrich?
+Mr. Gingrich. I think I am now unmuted.
+The Chairperson. There you are. We can hear you.
+
+STATEMENT OF NEWT GINGRICH
+
+Mr. Gingrich. Okay. Sorry. Let me just say, first of all,
+thank you, Chairperson Lofgren, and I want to thank Ranking
+Member Davis. I served for a decade on the House Administration
+Committee. So it is kind of fun to be back and be part of this
+process.
+I think learning by video is very good and very useful. I
+think trying to govern by video is a disaster. And the key
+factor is not going to be all the technology we hear about
+today. The key factor is how human beings learn and the pattern
+of the collective dialogue which makes up a legislative body
+and how, over time, its Members become collectively smarter by
+interacting with each other.
+The Founding Fathers were virtually all members of
+legislatures before they created the United States, and they
+believed in the legislature. In fact, if you look at the
+Constitution, the legislative branch is first and has a long
+section devoted to the House and Senate before they get around
+to the executive branch.
+The Federalist Papers make very clear that they thought a
+legislative parliament meeting on a regular basis was a key to
+protecting freedom. And the reason they thought that is that
+they had studied carefully the rise of Cromwell as a dictator
+during the English civil war, and they were very frightened
+that an executive branch that didn't have a vigorous
+legislative body would always be a danger and a threat to our
+freedom.
+So their view was that you had to have people who got
+together regularly; they had to bond together; they had to be
+prepared to do things, to learn from each other, and to
+communicate. I remember, when I used to be on the House floor,
+during the course of one or two votes, you could see 8, 10, 12,
+15 different people, learn about things all across the country.
+So I want to emphasize from my part--not the technology.
+You will hear a lot about technology today--although with all
+the various hacking, I would be worried about it. But I don't
+worry about technology. I worry about history and the nature of
+human institutions, and I think they require us to physically
+be together regularly.
+I would just say that I think there are three severe
+consequences of going to any kind of remote system. The first,
+as a former Speaker who has been accused on occasion of being
+very powerful, I think when everybody else is out of town, the
+Speaker and their staff become virtually a dictatorship because
+they have all the power; they have all the ability to deal with
+the executive branch, to deal with the Senate, and I think it
+puts the average Member at an enormous disadvantage.
+Second, the individual Members are isolated. Oh, they may
+communicate back and forth, but there is an enormous biological
+power in people being physically together. And that is why I
+want to emphasize, if you study history, going back to the
+Greeks, the Romans, coming up through the Middle Ages, you will
+see why the rise of legislative bodies, whether it was the
+Roman Senate or it was the British Parliament, why these
+institutions always involve people coming into a room, meeting
+with each other, bonding, sharing ideas, and it is a very
+simple thing.
+I think, third, the legislation will be less well thought
+through. There is an enormous power to the legislative process
+as it improves, as different Members bring in ideas, as
+different people find things that are wrong. That process
+really matters, and the legislative product gets to be
+dramatically better the more there is a systemic legislative
+process. And I think that the natural pattern of having remote
+voting will be to dramatically weaken that process.
+Lastly, I guess, I want to challenge what I sense is an
+absurd level of fear. Because Callista is the Ambassador of the
+Vatican, I have been living in Rome. We have lived through the
+pandemic. Italy closed down. There was a crisis comparable to
+New York City. But I am very worried by the level of fear that
+I sense in the United States and this sense of danger.
+You know, we used to say--we used to sing, ``We are the
+land of the brave and the home of the free.'' I sense we are
+beginning to be the land of the timid and the home of the
+fearful. And I recently wrote Franklin Delano Roosevelt's great
+admonition that we have nothing to fear but fear itself.
+I think the idea that politicians are too precious to come
+together at a time--as you pointed out, Chairperson Lofgren,
+truck drivers, people who run grocery stores, people who work
+in restaurants, the number of Americans every day who are going
+about their business--you can be prudent. You can wear masks.
+You can have social distancing. But this idea that the current
+challenge leads us into a radical disruption of 3,000 years of
+legislative history I think is a very, very sad commentary on
+the American system. Politicians are not more important than
+truck drivers. They are not more important than nurses, or they
+are not more important than, frankly, people who work in a
+restaurant or at a Walmart or at a grocery store.
+So I wish you would drop this sense of panic, relax, figure
+out how to get together in a healthy way and show the country
+by example that we can, in fact, function even under this
+challenge. Thank you for giving me a couple seconds more than
+my time.
+[The statement of Mr. Gingrich follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you, Mr. Gingrich.
+We will now hear from Bill Crowell.
+Mr. Crowell, you are recognized for your testimony. You
+need to unmute your microphone.
+
+STATEMENT OF WILLIAM CROWELL
+
+Mr. Crowell. Thank you very much, Chairperson Lofgren. It
+is a pleasure to be with the Committee, and I appreciate the
+opportunity. My name is Bill Crowell, and I am testifying today
+as a private citizen and not on behalf of any entity.
+I think that it is reasonable to parse the challenges
+associated with remote voting into four major categories: The
+first, videoconferencing systems with the right functionality
+and superiority. The second, voting systems with verification
+of the identity of the Members and of their votes and with the
+functionality required to carry out your legal obligations.
+Technical issues, such as connectivity, operating capacity,
+certification of the security of the system, and secure end-to-
+end encryption and multifactor authentication, and secure
+storage of all relevant documents and records, is the third
+item. And the last is adequate funding to acquire, maintain,
+and operate and certify the systems.
+There are many videoconferencing systems. They vary widely
+in their features and functions as well as the level of
+security. Only a few have end-to-end encryption, and none are
+certified for classified information unless operated in a
+secure facility.
+Many of them were either developed outside the United
+States or have considerable operating support coming from
+outside the United States, which raises extra concerns about
+their security and their reliability.
+Also, since COVID-19 has significantly increased the use of
+videoconferencing, a number of these systems have been
+subjected to successful cyber attacks, underscoring the lack of
+cyber resilience of this method of staying connected.
+With regard to voting systems during the COVID-19 pandemic,
+at least 24 State legislative bodies have embraced various
+approaches to both remote voting and remote hearings. No common
+approaches or standards have been adopted, although there has
+been wide use of a number of videoconferencing systems as a
+means of conducting remote hearings and the use of video
+streaming over the internet to provide for public participation
+and transparency.
+A wide variety of techniques have been used as voting
+platforms. It is my belief that the most attractive solution
+for remote voting is a purpose-built software package that
+incorporates all of the attributes associated with
+congressional process, including committee management, remote
+hearings, document and bill markup, archiving, public access to
+the proceedings, and recorded votes, and of course, an easy-to-
+use remote voting process.
+There are several technical issues that also can limit or
+interfere with the success of our remote voting system. First
+on that list is the fact that Members and staff do not use the
+same devices either in their districts or on the road. In
+addition, the internet service providers in their districts
+provide differing levels of performance.
+Security issues are the most prevalent and pervasive
+technical issue in this digital age. Specifically, multifactor
+authentication, end-to-end encryption, and verification or
+audit of all the votes, documents, and proceedings must not
+only be present in the solution but be accredited or certified
+to work as specified.
+Today, cyber attacks are an hourly and daily fact, and many
+of them are successful against well-designed but flawed product
+implementation or use. These attacks have been commonplace.
+They are carried out by nation-states, criminals, hacktivists,
+as well as hackers just seeking the thrill of a successful
+attack. A remote voting system must be resilient against all of
+these bad actors, particularly nation-states who are seeking to
+disrupt our democratic processes.
+Last but not least of the four categories is providing
+sufficient funding to acquire and certify services.
+In conclusion, I believe there are many factors that can
+impede successful deployment operation of remote voting
+solution in the House, but I also think that many of these can
+be mitigated. I hope that my parsing of this problem is useful
+in your framing of an approach that maximizes the functionality
+needed to make this effort successful.
+And thank you very much for the opportunity to provide a
+perspective on this important topic. I look forward to
+answering your questions.
+[The statement of Mr. Crowell follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much.
+I will now recognize Mr. Green for his testimony.
+Mr. Green, you are welcome to testify.
+
+STATEMENT OF JON GREEN
+
+Mr. Green. Thank you. Chairperson Lofgren and Ranking
+Member Davis and Members of the Committee, thank you for
+inviting me to testify today as you explore the feasibility and
+security of remote voting for House Members.
+While recognizing that this institution is founded on in-
+person engagement and voting environments, the current pandemic
+has made it entirely reasonable to consider technology that
+allows for secure remote voting.
+I have spent the past 17 years working for Aruba, a part of
+Hewlett Packard Enterprise, and for the past 10 years, I have
+worked closely with our U.S. and allied partner government
+customers on secure network and remote access solutions. I hope
+that experience will help provide relevant information on
+today's topic.
+Before beginning my formal testimony, I want to thank
+Chairperson Lofgren for her representation of San Jose and
+Silicon Valley for the past 25 years. HPE and the larger
+technology community in the Valley are grateful for her
+consistent support and leadership.
+Let me assure you that you are not alone in trying to adapt
+to the new world of work-from-home orders. Since this pandemic
+began, we have received thousands of inquiries from our
+Enterprise customers seeking solutions to enable secure remote
+working. It is fair so say that very few of them envisioned a
+world where 100 percent of their workforce would suddenly be
+working from home.
+Such widespread remote working brings with it additional
+challenges. End users without the benefit of on-site IT support
+personnel often become frustrated when their technology doesn't
+work correctly. And without protections provided by IT security
+solutions, users often turn to that which is convenient, such
+as personal email accounts, rather than that which is secure.
+The stakes are very high when it comes to remote voting in the
+House, so it is critical to provide Members a solution that is
+both convenient and secure.
+In the world of information security, we often speak of the
+CIA triad. Not to be confused with the intelligence agency, CIA
+stands for confidentiality, integrity, and availability, the
+three most important aspects of a secure system. Many people
+equate security with confidentiality, but in remote voting, the
+most important principle is actually integrity, the guarantee
+that information is trustworthy, consistent, accurate, and
+originated from the correct person.
+Second in importance is availability. A Member must be able
+to cast a vote during the period that voting is open. We have
+all seen the reports documenting foreign adversary interference
+in U.S. public elections, and we can't for a minute believe
+that adversaries would not also try to interfere in
+congressional voting. For that reason, it is imperative that
+the House implement the highest degree of security possible.
+Fortunately, a model already exists for highly secure
+remote access. Congress does not have to go first. Ten years
+ago, the National Security Agency introduced a program known as
+Commercial Solutions for Classified, which has been widely
+adopted by the DOD, the intelligence community, law
+enforcement, and others to connect classified systems and
+devices over untrusted networks using commercial off-the-shelf
+IT products. The same architecture has been also deployed for
+unclassified systems when organizations have needed to adopt
+the best security available. Congress can dispense with months
+of security analysis by adopting an existing, proven
+architecture.
+Overall, I believe we need to focus on four key principles
+to ensure a successful remote voting program: First, as
+previously mentioned, secure remote network connectivity should
+be provided following the NSA Commercial Solutions for
+Classified architecture. This ensures that Members of Congress
+are not connecting directly to malicious or compromised
+networks.
+Second, dedicated voting devices should be issued to each
+Member to be used only for the purpose of voting. These could
+take the form of laptops, tablets, or smartphones with a simple
+application showing buttons labeled yes, no, and present.
+Third, multifactor authentication would be mandatory for
+such a solution. It is critical to ensure that the Member and
+only the Member is the person casting a vote. Multifactor
+authentication is already widely used by the Federal Government
+and is a well-understood technology.
+And, fourth, a manual system of vote verification is
+required. The Member needs a way to verify that the correct
+vote was registered in real time in a system that is visible to
+all. This could be as simple as monitoring the vote on C-SPAN.
+My remaining caution to you is to focus on availability. We
+can solve for integrity and confidentiality, but availability
+is often overlooked. Systems deployed today that use public
+internet rely on users being lost in a crowd, their internet
+traffic appearing indistinguishable from others.
+If an adversary were able to pinpoint the internet location
+of each Congressional Member, then targeted denial-of-service
+attacks could prevent specific Members from casting their
+votes. To counter this threat, backup systems of voting must
+remain available and time limits on voting windows may need to
+be relaxed. As skilled as we are today at engineering reliable
+networks, the best backup systems are often low tech.
+In summary, I believe that should you decide to move
+forward, remote voting is technically feasible, can be enabled
+for a reasonable cost, and can be done with an appropriately
+high level of security.
+Thank you again for the opportunity to offer testimony. I
+look forward to answering any questions you may have.
+[The statement of Mr. Green follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much for that interesting
+testimony.
+Dr. Rivest, you are now recognized for your testimony.
+
+STATEMENT OF RONALD L. RIVEST
+
+Mr. Rivest. Thank you. Chairperson Lofgren, Ranking Member
+Davis, and Members of the Committee, my name is Ron Rivest. I
+thank you for inviting me to testify regarding the feasibility
+of using technology for conducting remote voting in the House.
+My bottom line is that such remote voting is feasible and can
+be made adequately secure.
+I will skip a few paragraphs of my testimony since my bio
+has already been read. I just note that I have worked for over
+two decades on voting system security. And I speak here only
+about the security aspects of the remote voting, not about the
+appropriateness of remote voting for the House. That question
+is beyond my pay grade.
+I see that the House, under House Resolution 965, is
+already using proxy voting for remote voting. That resolution
+authorizes examination of ways to vote remotely in a secure
+manner, hence today's hearing.
+As noted, I think the House is in a good position. There
+are indeed suitable secure voting technologies available. The
+most important reason why that is true is that the House votes
+are not secret. Voting in the House is not based on secret
+ballots. That makes all the difference, as manipulation or
+alteration of votes can be detected and corrected.
+For the record, I note that, in the U.S., secret ballot
+voting was first implemented in Massachusetts in 1888. However,
+implementing secure secret ballot remote voting is still beyond
+the state of the art.
+Back to nonsecret voting, designing a secure voting system
+requires, first of all, a clear statement of the security
+objectives. A system can't be said to be secure if there is no
+specification of what security should mean for that system.
+What are the baseline voting system security requirements?
+Here are four: Only eligible voters can vote and each at most
+once. Votes are cast as intended. Votes are collected as cast.
+And votes are counted as collected. Each property should not
+only be true but be verifiably true. Counting, as noted,
+tabulation, is not an issue since nonsecret ballots can be
+posted publicly and the tally then verified by anyone.
+One recommended principle for achieving voting system
+security is that of software independence, a notion developed
+by John Wack of NIST and myself. This principle basically says
+that you never want to be in a position where you have to say,
+well, the result must be right because the computer says so. In
+other words, the election outcomes must be auditable.
+Here is a sketch of a simple architectural approach for
+secure remote nonsecret voting to illustrate. There is a public
+website where all cast votes are posted. Each Congressperson
+composes his or her vote, digitally signs it, and sends the
+resulting digitally signed ballot for posting on the public
+website. Many digital signature schemes are available. NIST has
+developed digital signature standards. Digital signatures are
+now implemented in every browser. One approach uses the RSA
+public-key cryptosystem.
+A nice thing about digital signatures is that the signature
+on a digitally signed document, such as a ballot, is verifiable
+by anyone. I note that a digital signature is not just a cut-
+and-paste image of a handwritten signature; it is a
+mathematical function of the message being signed and secret
+information specific to the signer.
+Digitally signed ballots can be authenticated using public
+information, both as to the origin, who the voter is, and as to
+the content, what the ballot says. Vote manipulations are not
+possible, as forging digital signatures is not feasible. The
+most an adversary can do is to delete or duplicate votes. An
+adversary can conceivably delete or duplicate votes even now
+with proxy voting. If a Congressperson can't submit a ballot,
+they can't vote.
+Detection and correction mechanisms can work for voting
+with digitally signed ballots much as they work for proxy
+voting. It is important to note that voters, in this case
+Congresspeople, can check or audit their votes as correctly
+recorded on the public website. Missing votes can be restored.
+This should be checked. This is important.
+An approach sketched here bears many similarities to your
+current proxy voting procedures. The public website becomes the
+proxy for those voting remotely. Indeed, such a system should
+provide a smooth and secure extension of your current proxy
+voting procedures, which need not be abandoned. This sketch is
+intended only to show that it is possible to use technology to
+do remote, nonsecret voting in a secure manner. Many other
+approaches are possible.
+This concludes my testimony. I would be happy to answer any
+questions you may have.
+[The statement of Mr. Rivest follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very, very much.
+I would now like to ask Dr. Rubin to give us his testimony.
+
+STATEMENT OF AVIEL RUBIN
+
+Mr. Rubin. Thank you. Good afternoon, Chairperson Lofgren,
+Ranking Member Davis--or I should actually say, for some of
+you, it is good morning, right--and Members of the Committee.
+Thank you for inviting me to participate in today's hearing. My
+name is Avi Rubin, and I am a professor of computer science at
+Johns Hopkins University. I am also technical director of our
+Information Security Institute. I have held these positions for
+the last 17 years. And prior to that, I was a cybersecurity
+researcher for 9 years at AT&T Labs and Bellcore.
+For 10 years my research focused on election security, and
+I was director of the National Science Foundation ACCURATE
+Center for secure elections. I was also an election judge in
+Maryland, and I worked six elections as an election judge.
+I have been asked to comment on the technical feasibility
+of building a system for House Members to vote remotely. I will
+not be addressing the political question of whether the House
+should employ it, just focusing on technical issues relating to
+feasibility and security.
+Remote voting for House Members is very different from
+remote internet voting where citizens elect their political
+leaders, which I strongly oppose for security reasons. What
+makes internet voting difficult is the secret ballot
+requirement. The House Members' votes are not anonymous, and
+that makes all of the difference.
+I consider important features of a system for remote voting
+by House Members: The features are that the votes are cast over
+the internet on a mobile device or computer or even a dedicated
+device. The votes are displayed as they are cast on a virtual
+board simulating the large board in the House Chamber that
+shows the votes. The public has access to the virtual board and
+can see how Members voted. And the system needs to work in real
+time because some procedural votes lead to activity based on
+the results of those votes right away. So a system that detects
+errors days later would not be that useful.
+Without the secrecy requirement, I believe that it is
+possible to design, build, and deploy a reasonably safe and
+secure remote voting capability for House Members that meets
+these requirements, provided that certain procedures are
+followed.
+When considering the security of a system, the first step
+is to develop a threat model. Next, you want to rank the
+threats in order of severity, and then security designers will
+attempt to address those threats.
+For House Members to vote remotely, here are examples of
+some of the threats. One would be an attacker compromising a
+Member's device, whether it is a phone or a tablet or computer,
+and forging votes on behalf of that Member.
+Another threat might be that an attacker forges votes for a
+Member without even compromising their device. Let's look at
+another threat. An attacker could compromise a back-end system
+and cause the votes to be tabulated incorrectly. And, finally,
+a targeted denial-of-service attack, which was already
+mentioned, against a Member's network right when they are
+trying to vote that prevents them from being able to vote.
+Well, against the forged votes and the disruption of the
+tallies, we can address those with standard security practices.
+These can include encrypted and authenticated communication
+lines, multifactor authentication, and checks.
+For example, imagine that a staffer for a Member registers
+their mobile device with the system and then whenever the
+staffer votes--I am sorry--whenever the Member votes, that
+staffer receives a notification on their phone saying the
+Member has voted and here is how they voted, and that would be
+one check to make sure that the votes were being cast the way
+that the staffer knew that the Member could cast the votes.
+There are many other such safeguards that a designer of a
+system could put into place.
+Now, addressing the denial-of-service attacks is more
+challenging, but this can be addressed with backup
+communication capabilities, including voice calls, and in the
+worst case, alarms can be raised. The key is that any security
+issues can be detected and addressed in a system such as this.
+So, in conclusion, technology is available today to make it
+possible for Members to vote on bills remotely over the
+internet. However, care must be taken to employ proper security
+design procedures and audit to ensure that tampering is not
+occurring, and backup procedures should be considered in the
+event that the system is unavailable at a critical time.
+So I am happy to answer any questions during the Q/A
+portion of the hearing, and thank you very much.
+[The statement of Mr. Rubin follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much.
+Our last testimony will be from Dr. Wagner.
+We are eager to hear your comments.
+
+STATEMENT OF DAVID WAGNER
+
+Mr. Wagner. Chairperson Lofgren, Ranking Member Davis, and
+Committee Members, thank you for the opportunity to participate
+in this hearing today. I am a professor of computer science at
+the University of California Berkeley. I have published more
+than 100 peer-reviewed scientific papers on computer security,
+and I have worked on the security of elections for over 15
+years.
+I have one message for you today: It is technologically
+feasible for the House to vote remotely if you decide that
+voting remotely is in the public interest. There are risks, but
+my assessment is that the technical risks can be mitigated.
+If Members of the House can vote on bills over the
+internet, a natural concern is that hackers might attack your
+computers and try to tamper with the votes. Another concern is
+that technical issues might prevent Members from casting their
+vote or cause votes to be recorded inaccurately. These are
+serious risks, but I believe these risks can be addressed
+through a combination of people, process, and technology.
+I would like to walk you through three possible models you
+could consider for remote voting. One way you could vote online
+would be for the House to develop its own app. You have heard
+how this could work. Each Member could cast their vote from an
+app on their phone with a public vote board showing the votes
+received in real time. I had suggested each Member have one of
+their staff crosscheck that the vote was recorded correctly.
+Maybe party whips could help with that too.
+And I discuss in my written statement some security
+measures that I think would be appropriate for this approach.
+The primary disadvantage of developing your own app is that it
+might take many months or even years to develop and deploy your
+own solution.
+A second option would be to buy a commercially available
+system for voting online. A third option would be to use remote
+videoconferencing. To record their vote, a Member could make a
+video call to the Office of the Clerk, and the Clerk's staff
+could verify the Member's face and voice and record their vote.
+I outline in my written statement ways that you could
+harden this approach against hacking. The primary advantage of
+a videoconferencing approach is that it could be deployed
+rapidly using existing tools.
+Regardless of which model you adopt, I would like to
+propose four principles that I think would support security for
+voting in the House. First, I suggest that you provide a way
+for Members to check that their votes were recorded correctly,
+and you encourage everyone to do this. This provides a powerful
+backstop in the event of technical problems.
+If you make it easy for Members and their staff to verify
+that their vote was recorded correctly, then any technical
+issues or hacking can be detected and corrected. Any system can
+potentially be hacked, but well-designed ones anticipate this
+and provide a way to detect it and correct the problem.
+Second, I think it will be important to consider the
+policies and processes that govern remote voting. You might
+consider how Members can report any discrepancies in how their
+vote was recorded and have them corrected. You might also
+consider what fallback procedures would be available if the
+Member is unable to vote due to technical issues and the
+timeline for doing so.
+Third, you might consider selecting a partner with
+cybersecurity expertise. When you buy a house, you hire a
+professional inspector to check for any problems. And the same
+applies here. It might be helpful to have security experts on
+tap to help, and there are a number of government organizations
+that might be available to help with that.
+Fourth, I suggest following good cybersecurity practices,
+such as use of two-factor authentication, end-to-end
+encryption, and providing Members with hardened devices to vote
+from.
+In summary, I believe technology can enable the House to
+vote remotely in a reasonably safe way if you decide that it
+would be appropriate to do so. Thank you.
+[The statement of Mr. Wagner follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much, Dr. Wagner.
+And thanks to all of the witnesses for their very
+informative testimony.
+We now have an opportunity to ask questions of our
+witnesses for five minutes. I would note that Mr. Gingrich has
+previously advised us that he has a hard stop in about 25
+minutes. So I just wanted members to know that if they have
+questions for Mr. Gingrich.
+Mr. Gingrich. Well, actually, Chairperson, this is so
+interesting; I will stay. I will just blow off my----
+The Chairperson. Okay. Good. Very good. Very good.
+Mr. Gingrich. Thank you.
+The Chairperson. I am going to turn to the Ranking Member
+first to recognize him for his five minutes of questions. Mr.
+Davis.
+Mr. Davis of Illinois. Thank you, Madam Chairperson.
+And thank you to all the witnesses. I appreciate the
+opportunity to talk about technology and talk about the overall
+process of remote voting possibly existing in the House.
+Mr. Speaker, you touched on this in your testimony, but can
+you elaborate further on how you see remote voting as possibly
+centralizing power in the Speaker's Office?
+Mr. Gingrich. I will be glad to. And let me say, I was very
+impressed with the witnesses, and I have no doubt that if the
+House decides it is wise, that you can develop a very solid
+system. And I concur with the Clerk, Cheryl Johnson, that she
+could easily, I think, develop and guarantee the integrity of
+that kind of a system. So I think that is an important frame of
+this.
+The challenge you have is basically how humans operate. As
+you know, you build teams by being together long enough to know
+each other. You build teams by working out and solving problems
+together.
+I think you have to look at, not just the first week or the
+first month, but if you start down a road where you are saying
+that being distant, not interacting biologically in the same
+room, is an acceptable pattern, then I think you begin to set
+up a post-legislative body that is something we have never seen
+before.
+Legislative bodies historically aren't just about voting;
+they are about building a collective understanding and a
+collective knowledge, and, at times, in taking on Presidents or
+taking on kings, they are about people who know each other well
+enough to have courage in situations of enormous danger.
+So, as a historian, I worry about the wisdom half of this.
+As a citizen, I have no doubt, if you decide it is the way to
+go, you have brilliant people today who are testifying, and
+collectively, they could produce a--they can guarantee the
+technology, but I am not sure they can guarantee the historical
+and sociological side effects.
+Mr. Davis of Illinois. Mr. Speaker, I agree with you. We
+are the United States of America. If there is anything that
+needs to be built in this globe, we can make sure that happens,
+and the great people who are here today likely could do that.
+But I agree with you. I still believe it impacts what Congress
+looks like over the next generation.
+Matter of fact, I am on the Committee to Modernize
+Congress, Select Committee to Modernize Congress. Many of our
+recommendations have been built around how we ought to get
+together more, talk more. That is how we begin to legislate.
+But another important process is oversight. Now, you
+changed the oversight process within the House when you got rid
+of proxy voting that the committee chairs had before you were
+Speaker. Did that empower more Member input, and what kind of
+oversight issues do you think remote voting would give to a
+legislative branch when dealing with the executive branch?
+Mr. Gingrich. Look, I think oversight is unbelievably
+important. I don't think we do enough of it, and I don't think
+we develop enough expertise in it. And, again, I would just
+say, a lot of these topics, whether it is healthcare or
+national security or you name it, they require years of
+learning. Members who spend years working on a particular area
+very often know more than the executive branch people that they
+are interrogating.
+So I think it is very important. We eliminated proxy voting
+because what was happening was the chairman would walk in and
+they would have 15 votes in their pocket. Now, those people
+didn't sit through the hearing. They didn't ask any questions.
+Well, when the time came to vote, even if you had had all your
+people there on some of these committees where they were
+stacked pretty intensely, the chairman just won. There was
+almost no reason to go. So that was a big factor in why we went
+there.
+I think our hope was that it would get more Member
+involvement, more Member engagement, and more Member learning.
+And as a result, all 435 players could be involved, not just a
+handful. That was our hope anyway.
+Mr. Davis of Illinois. We appreciate you doing that. I do
+believe it has made the House work better. We do, as I know the
+Members of this Committee have tremendous input. And I also
+want to thank you for the transformation that you made to the
+House when you took over as Speaker to move the House from a
+patronage machine of decades before to a more professional
+organization with our Chief Administrative Officer and making
+sure that politics was put out of that process as much as
+possible in a political House that we work in.
+So I appreciate your experience, appreciate your comments.
+And I will go ahead and yield back, and thanks for taking the
+time today.
+The Chairperson. The gentleman yields back.
+I would now turn to the other Davis on our Committee, the
+gentlelady from California, Susan Davis, for five minutes.
+Mrs. Davis of California. Thank you very much, Madam Chair.
+I appreciate all of our witnesses here today.
+And I wanted to start with Clerk Johnson, if I might.
+And, Clerk Johnson, I especially wanted to thank you for
+everything that you and your staff have been doing to make
+voting and legislative processes possible during this difficult
+time of the pandemic.
+And we need to remember: we are in a national emergency
+here. We are not just talking about this because we think that,
+you know, maybe some people would like to do it this way. There
+is a reason for that, and it is a matter of life and death. And
+for some of our families, quite honestly, it is a matter of
+life and death. So being safe is very, very important.
+I wanted to just acknowledge your effort, Clerk Johnson, to
+make Congress work remotely requires remote voting, of course,
+that we have been talking about, but also remote legislative
+processes, including bill introduction and co-sponsorship. And
+I know that you have worked hard on that, creating electronic
+signatures.
+I want to thank you as well for setting up the email system
+for bills and sponsorships, and I hope we could continue to
+work together on that. And you have also been active in setting
+up some of the small group voting and proxy voting that is also
+smart and safe for all of us.
+I am sure you know and probably the one issue that Members
+would talk about that is a concern of theirs, especially when
+they are there and voting right now, again, because of COVID,
+is being able to vote quickly, get on and off the floor, and
+perhaps find ways of saving time in between. And I wonder
+whether you think that there are some more efficient ways of
+doing that? I want to turn to the Clerk for that.
+The Chairperson. The Clerk needs to unmute her microphone
+before she answers.
+Ms. Johnson. Yes.
+Mrs. Davis of California. Thank you.
+Ms. Johnson. In looking at the process that is currently in
+place, I certainly think it is very efficient with the proxy
+voting. Members are able to come in, and if they are holding
+proxies for other Members, they announce those proxies on the
+floor.
+At the same time, the tally clerk holds a binder that has a
+copy of the proxies to make certain that it is reliable and
+transparent, and Members are able to move on and off of the
+floor very, very efficiently.
+A vote normally takes about 45 minutes, because they are
+sequential. Members come in probably 15 at a time. They
+exercise social distancing. And, as I said, we have not had any
+incidents to date.
+Mrs. Davis of California. If I may just add quickly, I
+think the timing in between the votes, and for some of us
+walking back and forth to offices, it is great. We get more
+steps in, I guess you could say that.
+But I also just wanted to see that if there are some ways
+that people have suggested shortening some of the time, and
+maybe that is something that we could all continue to talk
+about.
+But I know that that is the concern that people have
+expressed, because it kind of forces people to hang out a
+little bit, and that is not something that we know is
+necessarily in the best interest of all of us doing that and
+keeping people safe.
+I wanted to turn quickly, because several of our witnesses
+have talked about this, and I think it is really an interesting
+concept. How could remote voting be corrupted given that it is
+not a secret ballot?
+And I know that Dr. Rubin has talked about that, Dr. Rivest
+as well.
+Are we talking about corruption here? Or is it that we want
+to be sure that Members have the ability very, very quickly to
+be able to check and see if their votes are correct?
+It is not a secret system. So the whole world should be
+able to watch this with us and to be sure that we are correct.
+And I ask others on the panel to respond to that.
+Dr. Rivest.
+Mr. Crowell. Well, I would just----
+Mr. Rivest. I would be happy to speak to that.
+Sure, yes, you are absolutely right, you hit the nail on
+the head with the key requirement, which is that the voters
+need to be--the Congress people who are voting need to be able
+to check that their ballot is correctly reported and posted.
+There may be corruption on the way between inside the
+voter's mobile device and their laptop, whatever they are
+using. There may be corruption on the routes to the posting.
+But any of those things can be detected and corrected as long
+as there is a way for the voter to check that the vote was
+received as intended and posted correctly.
+So I think that is exactly right, there are possibilities
+for corruption, but as long as you have a detection and
+correction mechanism, such as you have talked about here, such
+as we have all talked about, this can work well.
+Mrs. Davis of California. Thank you.
+The Chairperson. Mr. Crowell, you were going to say
+something.
+Mr. Crowell. Yeah. I wanted to add to that list disruption,
+which I think is a very big issue and will have to be
+addressed, as Dr. Rivest and Dr. Rubin mentioned earlier.
+Disruption is occurring all the time in the internet, and we
+have to deal with it.
+The Chairperson. Very good. Thank you so much.
+I would now like to turn to the gentleman from North
+Carolina, Mr. Walker, for his questions.
+Mr. Walker. Thank you, Madam Chair.
+Speaker Gingrich, you touched on how working together and
+hearing different perspectives will be greatly diminished with
+Members not physically being in D.C.
+I know some of my personal work has been bipartisan. Some
+of those relationships and some of the development on policies,
+those conversations happen on the House floor.
+I can think of two instances during a motion to recommit
+where colleagues of mine did change their votes going on to the
+floor after hearing the debate. In fact, there is a verse in
+Proverbs in the original Hebrew that states: The one who states
+his case first seems right until the other comes along and
+examines him.
+I don't look at this as a technological debate. I look at
+this as a procedural debate, a historical debate, a debate of
+what is best for the American people.
+Would you mind expanding on how this remote voting will
+have a potential corrosive impact on the legislative process?
+Mr. Gingrich. Well, thank you for that question,
+Congressman Walker.
+Look, I approach this from two different perspectives. One
+is, somebody who did serve 20 years in the House. And, for
+example, when I was Speaker most of our major bills had huge
+bipartisan majorities and they did so because we listened to
+each other.
+And on occasion we got into fights. We had one effort, to
+reform welfare, that got vetoed. We had to sit back down, talk
+it through. By the time we were done, literally half the
+Democrats voted with us. It was 101-101 in the caucus. And that
+wouldn't have happened if we weren't able to listen to each
+other.
+I can also tell you that I am a big fan of congressional
+delegation trips, because you get away from your staff, you get
+away from your constituents, you get away from lobbyists. You
+are with the other Members for 3, 4, 5, 6 days, learning
+together, experiencing together, talking together.
+So one is my own personal experience biologically having
+done it.
+The other is my experience as a historian, that when you
+study all of these great demands that involve freedom, if you
+look at the proceedings leading up to the English civil war,
+where the Parliament organized itself against King Charles I,
+if you look at the rebellion against Cromwell, who had become a
+dictator at the end of that civil war, if you look at why the
+Founding Fathers--remember, all these Founding Fathers were
+professional politicians. They had all served in legislatures.
+They were colonial legislatures, but they were real, and they
+had all negotiated.
+And so they believed that the legislative branch was so
+important that they made it the number one thing in the
+Constitution. But in their experience, the legislative branch,
+for example, for Washington and others, meant you rode down to
+Williamsburg. You were there for 6 or 8 weeks. You stayed
+together, you ate together, you talked together.
+Constitutional Convention, 55 days without a break, all of
+it in secret. Talking together, worrying, negotiating,
+thinking. Finally, at one point having a day of prayer, because
+they had gotten deadlocked.
+I think humans learn from each other, and when you start
+trying to replace humans with a mechanical interface or an
+electronic interface you rapidly degrade the long-term wisdom
+of the collective group.
+Mr. Walker. I certainly agree. All over the country right
+now we are trying to bring people together. In a couple of
+weeks, we will have 200 pastors coming together from all of our
+communities to begin conversations to talk about how we resolve
+issues. It would be impossible to do that remotely.
+There is also another aspect of this. What kind of message
+does this send to the American people when Members of Congress
+can just stay at home and push a button or call in or video
+conference while our other essential workers are still showing
+up? My wife is a trauma one nurse specialist practitioner. She
+has to show up every day.
+Would you address that as well?
+Mr. Gingrich. I am deeply concerned by the level of panic
+that the American news media has created. I don't see it here
+in Europe. I don't see it anywhere else around the world. And I
+think that it is almost entirely media driven.
+Yes, this is a problem, but we have dealt with a lot of
+other health problems before and I think that we can deal with
+this one.
+And I think, as a populist, as somebody whose father served
+27 years in the Army, came out with no money, look, I find the
+idea of the political class being too precious to take the risk
+of getting together, I find that goes against everything in the
+American system. And I find it deeply offensive to think that
+the politicians think that they are more valuable than a truck
+driver or a worker at In-N-Out in Los Angeles.
+Mr. Walker. Thank you. Right on time, five minutes. Thank
+you, Mr. Speaker. It is a pleasure to see you today.
+I yield back.
+The Chairperson. At this point I would like to recognize
+the other gentleman from North Carolina, Mr. Butterfield, for
+his questions.
+Mr. Butterfield. Thank you very much, Madam Chair.
+And it is good to see all of my colleagues today. I hope
+and pray that all of you are well.
+Let me also thank our witnesses for your testimony.
+I have been listening very carefully, Madam Chair, to the
+various witnesses today, and I was really struck when Mr.
+Gingrich suggested that we are acting in a sense of panic that
+the news media has created. And I want to respectfully dispute
+that premise.
+I suggest today that Democrats are engaged in what I would
+like to call strategic planning. That is to protect this
+institution if rates of infection continue to increase.
+Protecting the Members if assembling on the floor is
+infectious, that is our goal. It is not to create any panic. It
+is simply to protect the Members if assembling on the House
+floor becomes infectious.
+I will note that there was a press conference last week in
+front of the Capitol and one of our beloved Members from
+Virginia contracted the coronavirus while right here on the
+Capitol Grounds.
+And so we are just trying to be proactive and to look
+forward and to do some strategic planning.
+I was in a meeting the other day, a virtual meeting, with
+two of the leading epidemiologists in the world, and what those
+two gentlemen told us was that COVID is winning--COVID is
+winning.
+If States don't require extraordinary measures, the
+infection rates could reach as much as 50 percent by the end of
+the year.
+I hope my colleagues are not surprised by that. I hope you
+agree with that assessment. But if the rates of infection
+continue on the same course that we are seeing now, it could
+rise to 50 percent this year.
+And so as my colleague, Susan Davis, said a moment ago,
+this is a national emergency and it could be a matter of life
+and death.
+Let me just turn my first question to the clerk.
+And thank you, Ms. Johnson, for your incredible work in all
+that you do for all of us in the House.
+At any given time under normal circumstances, Ms. Johnson,
+how many people are on the floor? And that would be Members and
+Members' staff and the support personnel, including the Capitol
+Police and the sergeant at arms and the personnel from your
+office. Collectively, how many people under normal conditions
+are on the floor?
+Ms. Johnson. Approximately 20 persons, and that is clerk
+staff, as well as staff of the parliamentarian and Speaker's
+leadership staff as well, both Democrat and Republican. But
+with the Clerk's Office, we have the bill clerk, the reading
+clerk----
+Mr. Butterfield. But put it all together, including the
+Members, including the Capitol Police, in the aggregate, how
+many people, 500 perhaps?
+Ms. Johnson. Oh, if we include everyone on the floor at one
+time, it is well over 500. It is probably more like 550.
+Mr. Butterfield. And so while I think it is wonderful to
+have 500 people on the floor so that we can talk with each
+other and plan our votes in the middle of a motion to recommit
+and all of that, I think we have to look at extraordinary
+circumstances.
+We do not need 500 people on the floor at one time. We
+don't need 50 people on the floor at one time. And so thank you
+for that.
+It occurs to me that one of the most straightforward ways
+to vote remotely might be to do it by video conference in which
+the Member would simply tell a vote clerk how they wish to
+vote.
+I know our friends over in the other body, they vote by a
+roll call, but it is an in-person roll call. And I am thinking
+perhaps about an electronic teleconference roll call.
+Would that be practical?
+Ms. Johnson. It would be technically feasible. We would
+just have to make certain that it is reliable. But it certainly
+would be practical.
+Mr. Butterfield. And finally, in a remote voting scenario,
+do you think it would be beneficial to have votes to be public
+the moment the votes are cast?
+And as we all know, the public does not know how we vote
+instantaneously. The Members know because we can look up at the
+board, but the public does not know for a few minutes until
+your office is able to post it on the internet.
+But do you have a system in mind whereby the public would
+immediately know how a Member of Congress voted on legislation?
+Ms. Johnson. I think that involves variables. I don't have
+a system in mind, but we could probably have such a system.
+But, no, I don't have one in mind.
+Mr. Butterfield. But that would be beneficial, I take it,
+if the public could instantly know how a Member voted?
+Ms. Johnson. Transparency is always beneficial, I agree.
+Mr. Butterfield. Thank you, Ms. Johnson.
+Thank you, Madam Chairman.
+The Chairperson. Thank you very much.
+I would now like to turn to the gentleman from Georgia, Mr.
+Loudermilk, for his questions.
+Mr. Loudermilk. Thank you, Madam Chair. Appreciate it.
+I apologize for my voice. Believe it or not, there are
+other sicknesses other than COVID out there. And I came down
+with the good old common cold this week and I totally lost my
+voice yesterday.
+The Chairperson. I am sorry.
+Mr. Loudermilk. But it is coming back. It isn't COVID
+because of a flight I took on Air Force One a few days ago. I
+was tested.
+And so I know that that kind of plays into, I think, what
+Speaker Gingrich was talking about, it is almost like today if
+anybody gets a cold, they are all of a sudden just scared to
+death that they have COVID. And so we have to keep things in
+perspective.
+I think the question that we should be asking here today,
+and several of our witnesses have alluded to this, the question
+isn't whether or not this could technically be done, it is
+whether we should be doing this.
+And I think one key indicator to whether we should be doing
+this or not is the amount of time that we have talked about
+security on here today. That ought to be the first indicator,
+that ought to raise a red flag.
+I spent 30 years in the technology sector and one of the
+things I can tell you, there is an old adage that basically
+said, the question isn't if you are going to be hacked, but it
+is when.
+And I know that we can build systems that will be secure
+enough to do this, but also those systems are only as good as
+you maintain them continually. And it would create an
+inordinate amount of work to continue to maintain these,
+because as some of our esteemed panelists have said today, they
+have talked about how high profile this would be, what a target
+we would be, the risk that we would have.
+And obviously we would be one of the highest profile
+targets, not only to cyber criminals, but to foreign entities
+as well. And the amount of effort that we would spend in just
+continuing to stay ahead of the bad guys, I don't know that it
+would be worth implementing a system like this.
+I think we really should be talking about ways to hold
+ourselves accountable to do the jobs we are supposed to be
+doing. I can't remember, I am sure Speaker Gingrich can tell
+us, when was the last time that the House and the Senate
+actually passed appropriations by our own deadline?
+I mean, I think we should spend time on how we hold
+ourselves to do our jobs, not trying to make it easier for us
+not to do our jobs.
+But I think it is important to have the conversation. But
+the most secure way to vote is to walk on the floor with your
+card.
+And I give credit to the system that we have right now. It
+does take longer. It isn't as efficient, because we can't go on
+the floor and vote on four votes at one time. It takes half a
+day or a quarter of a day to vote on one bill because the
+machines are closed. But yet we have got it down to where we
+can do that.
+So anyhow, I think the real question ought to be, is this
+something we should be considering, not if it could be done?
+Speaker Gingrich, good to see you, again. And it took me a
+moment when you said you are in Rome, I had to figure out, were
+you talking about Rome, Georgia, or Rome, Italy? So I think I
+figured that out.
+But you did a lot to reform House processes. I have read
+several books on it. When you became Speaker it was like
+reforming the entire House because of the level of corruption
+that existed at several levels--and including at the time the
+House Administration Committee.
+And one of the things that has been spoken about is that
+you got rid of proxy voting. Why did you get rid of that in the
+committee level and what were the problems it created?
+Mr. Gingrich. Well, let me say first, just for a second,
+that in terms of what Clerk Johnson is dealing with, we
+actually brought in a firm to audit the House. And after about
+9 months they came back and briefed us and said, ``It is
+impossible. Since 1789 the House has never kept records
+accurate enough to be audited.'' But they said, ``If you will
+give us a contract, a year from now we will be able to audit
+the House.'' And that was one of the breakthrough moments that
+led to a much more modern House.
+And the corruption wasn't particularly partisan. It was
+just people had gotten sloppy over a very, very long period.
+I would say, and I draw a distinction here, as I said
+earlier, I have no doubt with the experts you have heard from
+today that you can get to a safe and secure method for remote
+voting.
+The proxy voting issue is a different issue and one which
+does concern me, and that is it centralizes power and actually
+lowers the interest of other Members in participating because
+they are just going to lose the vote. And the chairman of the
+committee or the Speaker of the House or whoever is just going
+to beat them with the names of people who aren't even there,
+have no idea how it has been voted.
+And so for us that was a very frustrating part of being in
+the minority and that is why we changed it when we took over.
+We actually took away from our brand-new chairmen the power
+that their predecessors had and would not let our new chairmen
+use the proxies to dominate their committees.
+Mr. Loudermilk. Thank you, Mr. Speaker.
+I mean, there are times that it would be beneficial when I
+have three committee hearings going on at the same time or
+markups and I have to run from one to the other, but that is
+just part of what I signed up to do.
+So thank you. I see I am out of time. And I yield back.
+The Chairperson. Thank you.
+Mr. Raskin has been able to join us from the Rules
+Committee.
+We thank you.
+The gentleman from Maryland is recognized for his five
+minutes.
+Mr. Raskin. Madam Chair, thank you very much. And thanks
+for calling this extremely important meeting at a time when the
+country is in an intensifying crisis with the coronavirus. We
+have 3.3 million cases. We lead the world in case count. We
+lead the world in death count. We have tens of millions of
+people thrown out of work because of this nightmare. And
+several of our States would be in the top five countries in the
+world in terms of increases in the coronavirus if they were
+treated as a country.
+And we know that there are hospitals being maxed out and
+overrun in Florida, in Texas, in Arizona, and throughout a lot
+of the southern part of our country.
+I would not agree with the proposition that using remote
+voting or proxy voting in the context of a national public
+health crisis reduces deliberation. I would think that people
+can engage in robotic, cultish, party-line voting even when
+they are standing on the floor of the House. And I have seen
+many, many people do that.
+And I think people, at the same time, could call in a proxy
+vote or vote remotely, having listened carefully to the
+speeches on TV and having consulted with their colleagues.
+So I just think that that argument has very little force to
+it. There might be other things we can do to promote meaningful
+dialogue and discussion. But I understand the same kinds of
+arguments were made when the House of Representatives first
+moved to use electronic voting in the first place, that somehow
+this would sterilize the process and cut down on interpersonal
+communication and so on.
+So I am more concerned about the arguments that I have
+heard from several people today, phrased rhetorically: What
+kind of message does it send to Americans on the front lines,
+like nurses and doctors and first responders who go to work, if
+there are Members of the House who can't make it and they vote
+from home?
+Does it say something, as Mr. Gingrich said--and I am sorry
+I never had the chance to serve in Congress with Congressman
+Gingrich because he is an interesting guy--but does it say
+something about the preciousness of the political class?
+Well, I don't think so. If anyone wants to really prove his
+manhood in this process or prove your courage or your tenacity,
+go spend a day in a hospital with the nurses and the doctors
+and the frontline providers. And if you can't do that or you
+don't want to do that, listen to them, because they are all
+telling us the same thing: Stay home. Because the hospitals are
+being overrun and the pandemic is out of control. And we have
+people like the President who are not wearing masks and we have
+people who are undermining the public health advice of our
+doctors and our scientists and Dr. Fauci. Stay home if you can
+stay home because this virus is still out of control.
+Now, the House of Representatives, as I think I heard the
+Clerk testify, when we are operating and there is a vote going
+on, can have anywhere between 400, 500, 550 people together on
+the floor.
+My friends, conferences across the country have been
+canceled during this period because they have 500 people coming
+together at hotels. And that is how the virus has spread in a
+number of cases, one infamously in Boston at a conference where
+it just spread like wildfire.
+We basically think we are a regular meeting conference in
+that sense when you look at it from an epidemiological
+perspective.
+So nobody wants to be in this position, and this is not the
+occasion to discuss the incompetence of the national
+government's response to this crisis. Nobody wants to be in
+this situation, but we do have a responsibility to maintain
+continuity of government and the continuity of Congress and to
+make sure that we are acting consistent with public health
+protocols in a safe and in a secure way.
+And so I very much favor the idea of moving forward.
+You know, Madam Chair, if you would permit me one more
+thought. There were people saying, well, this isn't fair to our
+constituents, when we were talking about proxy voting.
+Proxy voting has allowed lots of Members who were sick, and
+we have had a number of Members, both Republicans and
+Democrats, suffer from the coronavirus. We have enabled people
+to participate. We have enabled them to participate if they
+have immunocompromised or vulnerable family members, or other
+people who couldn't go because of travel logistics and couldn't
+make it to Washington. Their constituents had a voice. And I
+know because the Republicans are suing about this.
+A lot of Republicans didn't participate. I think in the
+last vote, there were nine or ten Republicans who didn't
+participate. What does it say to their constituents that they
+would prefer to make some kind of vain moral gesture by not
+voting and not having their own constituents represented than
+to participate in a system which allows everyone to be heard?
+I yield back. Thank you.
+The Chairperson. The gentleman yields back.
+I would now like to turn to the gentlelady from Ohio, Ms.
+Fudge, for her five minutes of questioning.
+Is Marcia still with us? Perhaps not.
+Then we will go to Mr. Aguilar.
+Mr. Aguilar. Thank you, Madam Chair.
+And appreciate the panel and the panelists for being here.
+Just off of what Mr. Raskin mentioned, too, one of the
+other roles I play is chief deputy whip of our caucus. And I
+have a number of conversations with colleagues about it, just
+like you, Madam Chair.
+And no colleague is in the same position. Some colleagues
+live with someone who has autoimmune issues. Some live with in-
+laws or spend time with family members who have compromised
+systems. We all have to make decisions based on our own
+personal health and circumstances.
+This isn't anything that has to do with how the press is
+portraying it. This has to do about public health. This has to
+do about the real risks that exist by Members getting on planes
+and coming from all points in the country.
+We don't all live in Washington, D.C. I know maybe in
+another time that was more prevalent. That has been weaponized
+by politics in the past.
+And so many of us, and I among them, I have been to every
+vote that we have made here in the pandemic. I will board a
+plane and come five hours each way doing that and having a
+commute that is over 8 hours each way. And there is no problem
+with that, that is what I signed up for, as my colleague from
+Georgia mentioned.
+But let's not minimize the fact that every Member is going
+to make the decisions that is best for them.
+And I would like to just bring it back briefly to the topic
+of the hearing isn't about our hopes and fears, isn't about the
+press. It is about exploring the feasibility and security of
+the technology that is at hand.
+And so I would like to ask Mr. Green, is there a technology
+in existence in the commercial market space that could be
+useful to the House in creating a secure infrastructure to
+implement remote voting?
+Mr. Green. I don't want to self-promote too much, but of
+course my own company produces something like that that is used
+widely for secure access, and that is just--that is a piece of
+an overall solution. That is not a complete solution.
+So we focus on the network, and there are other tech
+companies that focus on secure network connectivity as well. On
+top of that, you can layer very standard types of technologies,
+whether that is browser-based applications. A voting
+application could be as simple as a web server and a browser
+running on a mobile device.
+So it doesn't have to be a complex thing given that the
+other protections that we have talked about and the other
+panelists have talked about today are in place, notably some
+live verification that a correct vote was received. That is
+really the key to the entire thing.
+So I think we can solve the network problem. We can solve
+the application problem. The other processes that go around it,
+that is the more complicated part.
+Mr. Aguilar. If you were responsible for a secure voting
+system, what would concern you most? What would keep you up at
+night about devising a system that can work?
+Mr. Green. As I indicated at the end of my testimony, I
+would be most concerned about the availability, the fact that
+you may have Members with poor internet connections or no
+internet connections or unreliable internet connections. You
+may have adversaries that specifically target those Members. If
+they know what the vote is going to be and you can prevent
+those specific Members from voting, you may potentially be able
+to throw the vote in a direction or another.
+So, again, backup systems are really critical, and there
+are different ways to engineer those that I think involve
+humans rather than necessarily involving technology that can
+end up making things safe.
+Mr. Aguilar. I appreciate it.
+Professor Rubin, different legislatures in statehouses
+across the country and across the world have taken different
+approaches on this, as you highlighted. Some require
+legislators' emails and signed and scanned ballots. Others have
+created apps.
+When you think of the possibility of the House having a
+vote-remote system, is there a particular system or framework
+that comes to mind that is something you would counsel us to
+consider?
+Mr. Rubin. I think that if we had to recommend a particular
+system, the first step would be to gather the experts together
+and brainstorm that. And I think Dr. Wagner presented some very
+compelling ideas. For example, the recorded--pre-recorded video
+of the vote, as well as what has been discussed, such as a web
+server and an app.
+I think the key underlying all of these is the ability to
+look in real-time and decide if there has been a problem and
+identify it right away.
+And I think as to the availability question, for example,
+the first thing you could do if you are voting on a phone and
+there has been a denial of service attack, perhaps switch from
+your WiFi to your cellular provider and see if that works.
+If that doesn't work, then the next step would be to alert
+somebody and to have a mechanism in place in advance that would
+make it easy to alert someone, saying, ``I am trying to vote
+and my vote has not been successful,'' and then have a
+procedure for getting that vote in some other way.
+Mr. Aguilar. I appreciate it.
+Thank you, Madam Chair. I yield back.
+The Chairperson. Thank you.
+So I would like to recognize myself for a few questions.
+Mr. Crowell, Members of the House are all over the board in
+terms of their familiarity with technology. Are there secure
+methods to remote voting that you think would be more user-
+friendly than others?
+Mr. Crowell. Well, certainly. And, in fact, I would agree
+with what Avi Rubin said, that a purpose-made application
+running on a browser or running in an operating system would be
+the most complete approach and would make it easier for the
+Members to vote no matter what device they were using to vote
+on, because these are commonly available on all of the devices.
+Purpose-built because you want the voting to be very, very
+easy, a ``yes'' or a ``yea'' or a ``nay'' button for the vote
+itself, clear identification of what the matter is in front of
+you so that there is no ambiguity about what you are voting on,
+and the ability to record all of these things not only in real-
+time, but for posterity since these become public records.
+The Chairperson. Right.
+Mr. Crowell. All of that has to be done securely and it can
+be in a purpose-built system as opposed to trying to patch
+together various apps that were never intended to support
+voting.
+The Chairperson. Mr. Green, I wonder if you have thoughts
+on how votes that were cast remotely could be integrated with
+the votes cast in the Chamber from a technological standpoint
+given that the system we have is air gapped with one-way data
+flow?
+Mr. Green. Yeah, I think integrating those systems would be
+ideal so that you don't have a 100 percent remote or a 100
+percent in-person type of voting operation.
+Ultimately, it seems like you are going to need somebody to
+sit there and push the right button or somehow feed those
+systems in, probably that somebody sitting on site in the House
+Chamber or at least in the building there.
+And, again, as long as the Member voting remotely can see
+that and see the result of that, that can be done fairly
+safely.
+The Chairperson. Dr. Rivest, in your testimony you
+mentioned that the most an adversary would be able to do in a
+particular system would be to delete or duplicate votes. Can
+you explain what sort of measures could be taken to protect
+against deletion or duplication of votes?
+Mr. Rivest. Thanks. Great question.
+I think some innovation in the procedural aspects of voting
+in the House might help a lot. One thing that occurs to me
+here, hearing the discussion, would be to be able to file a
+default vote ahead of time so that you can say, ``Should my
+internet go down, should I be unable to communicate, this is
+how I would intend to vote on this bill,'' but then after
+hearing the debate, as Speaker Gingrich suggests, you change
+your mind or you have other influences that cause you to
+rethink the vote, you could file, either remotely or in-person,
+a new vote that would override the default.
+So something like that could be one way of mitigating the
+risk of having unavailability, which is a risk that is pretty
+unique to remote voting compared to in-person voting.
+The Chairperson. Right.
+Dr. Rubin, it is important that we authenticate--we have
+all talked about that--that the vote being cast is being cast
+by the Member herself.
+Do you think we should consider, if we move to this, any
+kind of tech system, a biometric authentication as part of a
+multifactor authentication system? And if so, would that be an
+iris scan?
+Mr. Rubin. So biometrics are very powerful and if designed
+correctly they can provide a useful factor. I am a big fan of
+multifactor authentication, so I think that if there were a way
+to integrate an iris scan such as what you get when you unlock
+an iPhone today--well, that is face recognition, it is not an
+iris scan--but something, some biometric to that effect, if you
+could initialize the system in advance with what a person's
+face is like and then integrate that into the authentication at
+the time, that that would be beneficial.
+But I also think that we can achieve authentication without
+that. So it is just one of the tools in the arsenal that we
+have that can help us when we design a system.
+The Chairperson. Dr. Wagner, would technology that uses a
+lot of bandwidth make denial of service attacks more likely?
+Would it be better to utilize technology with low bandwidth and
+more fault tolerance?
+Mr. Wagner. Thank you.
+I don't think that should be your primary consideration.
+What I would recommend is the primary way to mitigate denial of
+service concerns is to have a fallback method. We don't have
+effective technological ways to absolutely prevent denial of
+service attacks. So the primary defense is to have some other
+alternate channel that can be used in the event of a problem.
+The Chairperson. Let me ask you this. Should we be
+concerned about man-in-the-middle attacks? And if so, what
+would be the best way to secure a system against that type of
+attack?
+Mr. Wagner. Certainly. Man-in-the-middle attacks could
+arise if casting votes over the internet or over a telephony
+system where attacks are possible. And there are industry
+standard defenses that would be effective at preventing man-in-
+the-middle attacks. For instance, many of us have referenced
+end-to-end encryption, which is an effective defense.
+So I think using industry standard mechanisms would be a
+reasonable way to defend against those attacks.
+The Chairperson. Thank you.
+I see my time is expired, so I want to thank all of the
+witnesses for this enormously valuable testimony.
+I would note that House Resolution 965 requires this
+committee ``to study the feasibility of using technology to
+conduct remote voting in the House.''
+So that is what we are about. We have different views on
+whether we should or shouldn't. But our task is to examine the
+technology and to be able to certify to the House if we are
+able to determine that an operable and secure technology exists
+to conduct remote voting in the House.
+The testimony received today is enormously helpful in
+helping us to complete the task that has been assigned to us.
+And I would like to note for the witnesses that the Members may
+have additional questions for you. And if we do, we would ask
+that you respond to those questions in writing and the hearing
+record will be open for those responses.
+You know, this is an important question for all of us.
+Nothing is perfect. And I was listening to Members. I have
+missed votes, not because of a denial of service attack, but
+because United Airlines took off late and I didn't make it in
+time to go to the House floor.
+I agree, Mr. Gingrich, there is really nothing to
+substitute for Members going on a codel together and getting to
+know each other, but that is not happening now because we are
+following the advice of the attending physician.
+And I love being on the floor when the mix of Members,
+everybody is running around and talking to each other and
+getting letters signed, but that is not happening either
+because the attending physician is saying we have to go in
+groups of 20 and then leave.
+The votes are taking a very long time because of the need
+for social distancing. So in this pandemic our situation has
+changed.
+We look forward to the time when the conflagration of this
+pandemic has abated. I envy you there in Rome where you are not
+actually with the kind of wildfire that is eating through
+America with this--not just America, but my own State of
+California, where thousands and thousands of positives are
+logging in every day. It is really a very serious matter.
+Mr. Gingrich. If I might, Madam Chairperson, I just want to
+say, I think for the purpose you were assigned, to ascertain
+whether or not it is technically doable, this was a superb
+hearing. It makes me proud to, once again, be briefly part of
+House Administration. I think you had terrific guests, and I
+think they all did a very fine job of outlining the technical
+possibilities. So thank you for allowing me to be part of that.
+The Chairperson. Well, thank you for that. From a former
+Speaker, that is great praise indeed and we appreciate it.
+With that, I want to thank all the Members for their
+participation. I ask unanimous consent to put into the record a
+letter received from Demand Progress and keep the record open
+for other material that Members may wish to add to the record.
+[The information follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. And with that, we are ready to adjourn,
+and I will take my gavel and virtually tap it.
+We are adjourned. Thank you very much.
+[Whereupon, at 2:56 p.m., the committee was adjourned.]
+
+[all]

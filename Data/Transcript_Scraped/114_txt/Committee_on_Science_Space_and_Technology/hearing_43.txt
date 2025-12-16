@@ -1,0 +1,2013 @@
+- CYBERSECURITY FOR POWER SYSTEMS
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBERSECURITY FOR POWER SYSTEMS
+
+=======================================================================
+
+JOINT HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON ENERGY &
+SUBCOMMITTEE ON RESEARCH AND TECHNOLOGY
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+October 21, 2015
+
+__________
+
+Serial No. 114-43
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+____________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+97-762PDF                 WASHINGTON : 2017
+_________________________________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. LAMAR S. SMITH, Texas, Chair
+FRANK D. LUCAS, Oklahoma             EDDIE BERNICE JOHNSON, Texas
+F. JAMES SENSENBRENNER, JR.,         ZOE LOFGREN, California
+Wisconsin                        DANIEL LIPINSKI, Illinois
+DANA ROHRABACHER, California         DONNA F. EDWARDS, Maryland
+RANDY NEUGEBAUER, Texas              SUZANNE BONAMICI, Oregon
+MICHAEL T. McCAUL, Texas             ERIC SWALWELL, California
+MO BROOKS, Alabama                   ALAN GRAYSON, Florida
+RANDY HULTGREN, Illinois             AMI BERA, California
+BILL POSEY, Florida                  ELIZABETH H. ESTY, Connecticut
+THOMAS MASSIE, Kentucky              MARC A. VEASEY, Texas
+JIM BRIDENSTINE, Oklahoma            KATHERINE M. CLARK, Massachusetts
+RANDY K. WEBER, Texas                DON S. BEYER, JR., Virginia
+BILL JOHNSON, Ohio                   ED PERLMUTTER, Colorado
+JOHN R. MOOLENAAR, Michigan          PAUL TONKO, New York
+STEVE KNIGHT, California             MARK TAKANO, California
+BRIAN BABIN, Texas                   BILL FOSTER, Illinois
+BRUCE WESTERMAN, Arkansas
+BARBARA COMSTOCK, Virginia
+GARY PALMER, Alabama
+BARRY LOUDERMILK, Georgia
+RALPH LEE ABRAHAM, Louisiana
+DARIN LaHOOD, Illinois
+------
+
+Subcommittee on Energy
+
+HON. RANDY K. WEBER, Texas, Chair
+DANA ROHRABACHER, California         ALAN GRAYSON, Florida
+RANDY NEUGEBAUER, Texas              ERIC SWALWELL, California
+MO BROOKS, Alabama                   MARC A. VEASEY, Texas
+RANDY HULTGREN, Illinois             DANIEL LIPINSKI, Illinois
+THOMAS MASSIE, Kentucky              KATHERINE M. CLARK, Massachusetts
+STEPHAN KNIGHT, California           ED PERLMUTTER, Colorado
+BARBARA COMSTOCK, Virginia           EDDIE BERNICE JOHNSON, Texas
+BARRY LOUDERMILK, Georgia
+LAMAR S. SMITH, Texas
+------
+
+Subcommittee on Research and Technology
+
+HON. BARBARA COMSTOCK, Virginia, Chair
+FRANK D. LUCAS, Oklahoma             DANIEL LIPINSKI, Illinois
+MICHAEL T. MCCAUL, Texas             ELIZABETH H. ESTY, Connecticut
+RANDY HULTGREN, Illinois             KATHERINE M. CLARK, Massachusetts
+JOHN R. MOOLENAAR, Michigan          PAUL TONKO, New York
+BRUCE WESTERMAN, Arkansas            SUZANNE BONAMICI, Oregon
+DAN NEWHOUSE, Washington             ERIC SWALWELL, California
+GARY PALMER, Alabama                 EDDIE BERNICE JOHNSON, Texas
+RALPH LEE ABRAHAM, Louisiana
+LAMAR S. SMITH, Texas
+
+C O N T E N T S
+
+October 21, 2015
+
+Page
+Witness List.....................................................     2
+
+Hearing Charter..................................................     3
+
+Opening Statements
+
+Statement by Representative Randy K. Weber, Chairman,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................     8
+Written Statement............................................     9
+
+Statement by Representative Suzanne Bonamici, Minority Ranking
+Member, Subcommittee on Environment, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    10
+Written Statement............................................    12
+
+Witnesses:
+
+Mr. Brent Stacey, Associate Lab Director for National & Homeland
+Science and Technology, Idaho National Lab
+Oral Statement...............................................    13
+Written Statement............................................    15
+
+Mr. Bennett Gaines, Senior Vice President, Corporate Services and
+Chief Information Officer, FirstEnergy Service Company
+Oral Statement...............................................    21
+Written Statement............................................    23
+
+Ms. Annabelle Lee, Senior Technical Executive in the Power
+Delivery and Utilization Sector, Electric Power Research
+Institute
+Oral Statement...............................................    32
+Written Statement............................................    34
+
+Mr. Greg Wilshusen, Director of Information Security Issues,
+Government Accountability Office
+Oral Statement...............................................    41
+Written Statement............................................    43
+Discussion.......................................................    60
+
+Appendix I: Answers to Post-Hearing Questions
+
+Mr. Brent Stacey, Associate Lab Director for National & Homeland
+Science and Technology, Idaho National Lab.....................    82
+
+Mr. Bennett Gaines, Senior Vice President, Corporate Services and
+Chief Information Officer, FirstEnergy Service Company.........    86
+
+Mr. Greg Wilshusen, Director of Information Security Issues,
+Government Accountability Office...............................    88
+
+Appendix II: Additional Material for the Record
+
+Statement submitted by Representative Barbara Comstock,
+Chairwoman, Subcommittee on Research and Technology, Committee
+on Science, Space, and Technology, U.S. House of
+Representatives................................................    94
+
+Statement submitted by Representative Lamar S. Smith, Chairman,
+Committee on Science, Space, and Technology, U.S. House of
+Representatives................................................    96
+
+Statement submitted by Eddie Bernice Johnson, Ranking Member,
+Committee on Science, Space, and Technology, U.S. House of
+Representatives................................................    98
+
+CYBERSECURITY FOR POWER SYSTEMS
+
+----------
+
+WEDNESDAY, OCTOBER 21, 2015
+
+House of Representatives,
+Subcommittee on Energy &
+Subcommittee on Research and Technology,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittees met, pursuant to call, at 10:04 a.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Randy
+Weber [Chairman of the Subcommittee on Energy] presiding.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Weber. Good morning, and welcome to today's joint
+Energy and Research and Technology Subcommittee hearing
+examining cyber threats to American energy systems.
+Today, we will hear from an expert panel on the growing
+threat of cyber attacks to the nation's electric grid. Our
+witnesses today will also provide insight into how industry and
+the federal government are working together, or maybe in some
+instances not working together, to anticipate cyber threats,
+and improve the reliability and resiliency of our electric grid
+against those cyber attacks.
+The reliability of America's power grid is one of our
+greatest economic strengths. I like to say, the things that
+make America great are the things that America makes, and how
+do we do that? With an affordable, reliable, dependable
+electricity supply.
+In my home State of Texas, reliable and affordable power
+serves a population that is increasing by more than 1,000
+people a day, and it provides power to the energy-intensive
+industries that drive consumption. Texas is by far the nation's
+largest consumer of electricity. Keeping the Texas power grid
+reliable and secure is key to continuing this economic growth.
+But as we established in a hearing on broad threats to the
+power supply earlier this year, utilities face significant
+threats to that same reliable delivery of power. Our electric
+grid is particularly vulnerable to growing cybersecurity
+threats as the grid is modernized, as distributed energy,
+electric vehicles, and modernized digital operating systems
+create more access points for cyber attacks. And while the
+nation's industrial control systems for the grid are analog
+systems designed to last for decades, digital IT systems must
+constantly adapt to combat evolving cyber threats.
+Small-scale cyber and physical attacks to our electric grid
+are estimated to occur once every four days, and in over 300
+cases of significant cyber and physical attacks since 2011,
+suspects have never been identified. Now, let me repeat that.
+In over 300 cases of significant cyber and physical attacks
+since 2011, no suspects have been identified.
+We often think of cybersecurity and other threats to the
+power grid at a macro scale, but these types of attacks can
+occur even at a local level. In 2011, the Pedernales Electric
+Co-op, a non-profit co-op that serves approximately 200,000
+customers north of San Antonio, was struck by a cyberattack.
+While the attack thankfully did not disrupt power to consumers,
+it is a stark reminder that threats to the grid are real, and
+they are not going to go away anytime soon.
+Our nation's power supply cannot be protected overnight,
+particularly as utilities struggle to adapt technology to
+manage a growing number of cybersecurity threats. Cyber threats
+to the power grid will continue to evolve, particularly as more
+interconnected smart technologies are incorporated into the
+electric grid. We call those smart meters back in Texas. And as
+protective technology improves, so does the capability and
+creativity of those who are conducting those cyber attacks,
+unfortunately.
+While we cannot predict every method of attack, the federal
+government can and should play a role in assisting industry
+with developing new technology and security safeguards.
+Accordingly, research and development efforts at the Department
+of Energy are focused on providing industry with comprehensive
+tools to conduct internal analysis to identify and address
+cybersecurity weaknesses so that the industry can take the lead
+in addressing these same vulnerabilities.
+That is why testing facilities and cooperative research,
+like the Cyber Security Test Bed at Idaho National Lab, are
+valuable tools to combat cyber threats. At INL, industry can
+test control systems technology in real world conditions,
+reducing response time and risk for future attacks.
+I'd like to say in advance I want to thank the witnesses
+for testifying before the Committee today. I look forward to a
+discussion about cyber threats to our critical infrastructure,
+and how the federal government can provide industry with the
+tools and technology necessary to fight the next generation of
+cyber attacks.
+[The prepared statement of Chairman Weber follows:]
+
+Prepared Statement of Subcommittee on Energy
+Chairman Randy K. Weber
+
+Good morning and welcome to today's joint Energy and Research and
+Technology Subcommittee hearing examining cyber threats to American
+energy systems. Today, we will hear from an expert panel on the growing
+threat of cyber-attacks to the nation's electric grid.
+Our witnesses today will also provide insight into how industry and
+the federal government are working together to anticipate cyber
+threats, and improve the reliability and resiliency of our electric
+grid against cyber-attacks.
+The reliability of America's power grid is one of our greatest
+economic strengths. In my home state of Texas, reliable and affordable
+power serves a population that is increasing by more than 1,000 people
+per day, and provides power to the energy intensive industries that
+drive consumption. Texas is by far the nation's largest consumer of
+electricity. Keeping the Texas power grid reliable and secure is key to
+continuing this economic growth.
+But as we established in a hearing on broad threats to the power
+supply earlier this year, utilities face significant threats to the
+reliability of power delivery. Our electric grid is particularly
+vulnerable to growing cybersecurity threats as the grid is modernized,
+as distributed energy, electric vehicles, and modernized digital
+operating systems create more access points for cyber-attacks.
+And while the nation's industrial control systems for the grid are
+analogue systems designed to last for decades, digital IT systems must
+constantly adapt to combat evolving cyber threats.
+Small scale cyber and physical attacks to our electric grid are
+estimated to occur once every four days. And in over 300 cases of
+significant cyber and physical attacks since 2011, suspects have never
+been identified.
+We often think of cybersecurity and other threats to the power grid
+at a macro scale, but these types of attacks can occur even at the
+local level. In 2011, the Pedernales Electric Co-op, a non-profit co-op
+that serves approximately 200,000 customers north of San Antonio, was
+struck by a cyberattack. While the attack thankfully did not disrupt
+power to consumers, it is a stark reminder that threats to the grid are
+real, and are not going away.
+Our nation's power supply cannot be protected overnight,
+particularly as utilities struggle to adapt technology to manage a
+growing number of cybersecurity threats. Cyber threats to the power
+grid will continue to evolve, particularly as more interconnected smart
+technologies are incorporated into the electric grid.
+And as protective technology improves, so does the capability and
+creativity of those conducting attacks.
+While we cannot predict every method of attack, the federal
+government can and should play a role in assisting industry with
+developing new technology and security safeguards.
+Accordingly, research and development efforts at the Department of
+Energy are focused on providing industry with comprehensive tools to
+conduct internal analysis to identify and address cybersecurity
+weaknesses so that industry can take the lead in addressing these
+vulnerabilities.
+That's why testing facilities and cooperative research, like the
+Cyber Security Test Bed at Idaho National Lab, are valuable tools to
+combat cyber threats. At INL, industry can test control systems
+technology in real world conditions, reducing response time and risk
+for future attacks.
+I want to thank our witnesses for testifying before the Committee
+today. I look forward to a discussion about cyber threats to our
+critical infrastructure, and how the federal government can provide
+industry with the tools and technology necessary to fight the next
+generation of cyber-attacks.
+
+Chairman Weber. I now recognize Ms. Bonamici.
+Ms. Bonamici. Thank you very much, Chairman Weber, for
+holding this hearing, and thank you to our witnesses for
+participating.
+As many of you know, October is National Cyber Security
+Awareness Month, so it's a fitting time for this hearing today.
+We're all familiar with the increasing frequency of cyber
+attacks that compromise personal and business information. At
+the World Economic Summit earlier this year, cyber threats made
+the top 10 list of the most likely global risks. Lloyd's of
+London estimates that cyber attacks can cost businesses as much
+as $400 billion a year.
+What we're focusing on today is a different kind of
+cybersecurity. It's about securing the electric grid so that a
+cyber attack doesn't affect grid operations, which could halt
+our daily lives and threaten our economic security. These
+attacks often gain entry through an information technology
+system, but, instead of taking corporate data, they directly
+target system operations that can cause havoc and chaos.
+In February of this year, an elite group of hackers broke
+through an electric utility's firewall and gained access to
+their substation controls in just 22 minutes. Luckily the
+attack was a drill initiated at the request of the utility to
+test their system. But this example demonstrates what's
+possible.
+The energy sector continues to report more cyber attacks to
+the Department of Homeland Security, more than any other
+critical infrastructure sector. In just one month the PJM
+Interconnection, which coordinates electricity transactions in
+13 states and in D.C., experienced 4,090 documented cyber
+attempts to attack their system. That's more than five and a
+half attacks on their electrical market system per hour.
+So far, no publically reported cyber events have resulted
+in an electricity outage in the United States but the
+sophistication of attacks on industrial controls systems is
+increasing.
+Utilities across our country are advancing energy
+efficiency through smart grids and programs like feed-in tariff
+systems. As we discuss ways to keep the grid safe, we also must
+be mindful of doing so without inhibiting innovation.
+Google, Wells Fargo, and Aetna are exploring ways to
+leverage employee behavior as a tool, instead of a
+vulnerability, to build a more secure system. From
+understanding how people swipe their phones, to the patterns
+they use when typing on a keyboard or walking, a better
+understanding of behavioral biometrics is opening the door to
+developing more cyber-secure components and processes. The more
+we understand about human and social behavior, the stronger our
+toolbox. Rather than resting the success of our cybersecurity
+efforts on programs that require changes in human behavior, we
+might have better success if we change our technology and
+processes to fit the behavior of people. And the more we
+understand the behavior of threat actors, the better we can
+design protections.
+So in addition to building a better technology-based
+firewall, we need to invest in developing a better human
+firewall. Our weakest link and our most resilient asset to meet
+the dynamic changing needs of the cyber arms race is us.
+I thank each of our witnesses for being here today, and I
+look forward to hearing what each of you has to say, and thank
+you for sharing your expertise.
+Thank you, Mr. Chairman. I yield back the remainder of my
+time.
+[The prepared statement of Ms. Bonamici follows:]
+Prepared Statement of Subcommittee on Environment
+Minority Ranking Member Suzanne Bonamici
+
+Thank you, Chairman Weber and Chairwoman Comstock, for holding this
+hearing, and thank you to our witnesses for participating. As many of
+you know, October is National Cyber Security Awareness Month, so it's a
+fitting time for this hearing.
+We are all familiar with the increasing frequency of cyber attacks
+that compromise personal and business information.
+At the World Economic Summit earlier this year, cyber threats made
+the top 10 list of most likely global risks. Lloyd's of London
+estimates that cyber attacks can cost businesses as much as $400
+billion a year.
+What we are focusing on today, however, is a different kind of
+cyber security. It's about securing the electric grid so a cyber attack
+doesn't affect grid operations, which could halt our daily lives and
+threaten our economic security. These attacks often gain entry through
+an information technology system, but, instead of taking corporate data
+they directly target system operations that can cause havoc and chaos.
+In February of this year, an elite group of hackers broke through
+an electric utility's firewall and gained access to their substation
+controls in 22 minutes. Luckily the attack was a drill initiated at the
+request of the utility to test their system. But this example
+demonstrates what's possible.
+The energy sector continues to report more cyber attacks to the
+Department of Homeland Security than any other critical infrastructure
+sector. In just one month the PJM Interconnection, which coordinates
+electricity transactions in 13 states and DC, experienced 4,090
+documented cyber attempts to attack their system. That's more than five
+and a half attacks on their electrical market system per hour.
+So far no publically reported cyber events have resulted in an
+electricity outage in the U.S. But the sophistication of attacks on
+industrial controls systems is increasing.
+Utilities across our country are advancing energy efficiency
+through smart grids and programs like feed-in tariff systems. As we
+discuss ways to keep the grid safe, we must be mindful of doing so
+without inhibiting innovation.
+Google, Wells Fargo, and Aetna are exploring ways to leverage
+employee behavior as a tool, instead of a vulnerability, to build a
+more secure system. From understanding how people swipe their phones,
+to the patterns they use when typing on a keyboard or walking, a better
+understanding of behavioral biometrics is opening the door to
+developing more cyber-secure components and processes.
+The more we understand about human and social behavior, the
+stronger our toolbox. Rather than resting the success of our
+cybersecurity efforts on programs that require changes in human
+behavior, we might have better success if we change our technology and
+processes to fit the behavior of people. And the more we understand the
+behavior of threat actors, the better we can design protections.
+So in addition to building a better technology-based firewall, we
+need to invest in developing a better human firewall. Our weakest link
+and our most resilient asset to meet the dynamic changing needs of the
+cyber arms race is us.
+I thank each of our witnesses for being here today, and I look
+forward to hearing what each of you has to say.
+Thank you, Mr. Chairman, and I yield back my remaining time.
+
+Chairman Weber. I thank the gentlelady from Oregon.
+Our first witness today is Mr. Brent Stacey, Associate Lab
+Director for National & Homeland Science and Technology at that
+Idaho National Laboratory. Mr. Stacey earned his bachelor's
+degree from Idaho State University.
+Our next witness is Mr. Bennett Gaines, Senior Vice
+President of Corporate Services and Chief Information Officer
+for FirstEnergy Service Company. Mr. Gaines earned his
+bachelor's degree in social sciences from Baldwin Wallace
+College and his master's degree from the University of Phoenix.
+Next, we have Ms. Annabelle Lee, Senior Technical Executive
+in the Power Delivery and Utilization Sector for the Electric
+Power Research Institute. Ms. Lee received her B.A. from
+Stanford University and her master's degree from Michigan State
+University.
+And our final witness today is Mr. Greg Wilshusen--is it--
+--
+Mr. Wilshusen. Wilshusen.
+Chairman Weber. Wilshusen.
+Mr. Wilshusen. Yes.
+Chairman Weber. Okay. So the rest of the Committee is duly
+notified. Wilshusen, Director of Information Security Issues
+for the Government Accountability Office. Mr. Wilshusen
+received his bachelor's degree in business administration from
+the University of Missouri and his master's degree in
+information management from George Washington University School
+of Engineering and Applied Sciences.
+Welcome to all of you, and Mr. Stacey, you are recognized.
+
+TESTIMONY OF MR. BRENT STACEY,
+
+ASSOCIATE LAB DIRECTOR FOR NATIONAL &
+
+HOMELAND SCIENCE AND TECHNOLOGY,
+
+IDAHO NATIONAL LAB
+
+Mr. Stacey. Thank you, Chairmen Weber, Chairwoman Comstock,
+Ranking Member Grayson, Ranking Member Lipinski, and
+distinguished Members of the Committees. I want to thank you
+for holding this hearing and inviting testimony from Idaho
+National Laboratory, also known as INL.
+INL is acutely aware of the important national challenges
+facing critical infrastructure, especially the infrastructure
+vital to securing our energy supply. For over a decade, INL has
+developed and built capabilities focused on the control systems
+employed by our nation's critical infrastructure. I'd like to
+highlight a few examples out of many which represent how INL
+teaming with others has contributed to the security of our
+infrastructure.
+First, the 2006/2007 Department of Homeland Security's
+Aurora project test, destroying an electrical generator
+connected to INL's power grid, was significant in proving a
+cyber-physical vulnerability in the electric power system.
+Second, for DOE Office of Electricity Distribution and
+Energy Reliability, as the lead laboratory along with Sandia
+National Laboratory for the National Supervisory Control and
+Data Acquisition Test Bed, INL completed more than 100
+assessments on vendor and asset owner control systems to
+identify and resolve cyber vulnerabilities. For DHS, INL
+provides control systems and critical infrastructure experts in
+support of DHS programs including Industrial Control System
+Cyber Emergency Response Team, or ICS-CERT.
+INL remains committed to the complex national security
+challenges that face our nation. As we lean forward pushing the
+limits of science and engineering for control systems security,
+we see a number of trends that offer insight into the direction
+for future research and development. These insights include,
+one, the presumption that a control system is air-gapped is not
+an effective cybersecurity strategy. This has been demonstrated
+by over 600 assessments. Intrusion detection technology is not
+well developed for control system networks. The average length
+of time for detection of a malware intrusion is 4 months and
+typically identified by a third party. As the complexity and
+interconnectedness of control systems increase, the probability
+increases for unintended system failures of high consequence
+independent of malicious intent. The dynamic threat is evolving
+faster than the cycle of measure and countermeasure, and far
+faster than the evolution of policy. And fifth, the demand for
+trained cyber defenders with control systems knowledge vastly
+exceeds the supply.
+In a world in which we are rapidly migrating to the
+Internet of Everything, these insights, and others, highlight a
+seemingly unmanageable, exponentially increasing burden of
+vulnerabilities, attack surfaces and interdependencies.
+INL views this burdensome and dynamic cyber-physical
+landscape, at its most basic level, as a three-tier pyramid of
+defense. The base level is hygiene: the foundation of our
+nation's efforts composed of the day-to-day measure and
+countermeasure battle. Elements of this level include important
+routine tasks such as standards compliance and patching. The
+hygiene level is and has been primarily the role of industry.
+The second level of the pyramid is advanced persistent threat
+composed of the more sophisticated criminal and nation-states'
+persistent campaigns. This requires a strategic partnership
+with industry and government. At this level, ICS-CERT provides
+critical surge response capacity and alerts. At the top of this
+pyramid are the high-impact low-frequency events: catastrophic
+and potentially cascading events that will likely require
+substantial time to assess, respond to, and recover from. This
+level is primarily the responsibility of government.
+At INL, we are focusing our future research on the top two
+levels, striving for a 2- to four-year research-to-deployment
+cycle. Our objective with this research is to achieve
+transformational innovations that improve the security of our
+power infrastructure by reducing complexity, implementing
+cyber-informed design, and integrating selected digital
+enhancements.
+In conclusion, I'd like to thank the Committee members for
+this opportunity to share our insights into the capabilities,
+experiences, and vision for cybersecurity and the protection of
+our nation's power grid. Your interest in understanding
+cybersecurity threats with an emphasis on the reliability of
+our national power grid is commendable and gives me confidence
+that there is strong support from our legislators for research
+leading to innovative solutions.
+One of my intentions today is to instill reciprocal
+confidence that INL, in concert with DOE and DOE laboratories,
+will continue to apply our intellectual talent and research to
+address these challenges.
+In honoring the time allotted for my statement, I request
+that my full written statement be entered into the record.
+Thank you.
+Chairman Weber. Without objection, so ordered.
+[The prepared statement of Mr. Stacey follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Weber. Mr. Gaines, you're up.
+
+TESTIMONY OF MR. BENNETT GAINES,
+
+SENIOR VICE PRESIDENT,
+
+CORPORATE SERVICES AND
+
+CHIEF INFORMATION OFFICER,
+
+FIRSTENERGY SERVICE COMPANY
+
+Mr. Gaines. Good morning, Chairman Weber and Members of the
+Committee. I am Bennett Gaines, Senior Vice President,
+Corporate Services, Chief Information Officer for FirstEnergy.
+Our 10 operating companies serve 6 million electrical customers
+in six states, and we control an interconnected network of
+power plants, transmission lines and distribution facilities. I
+am responsible for providing information technology services,
+ensuring the security of the company's physical and cyber
+assets.
+Over the past few years, FirstEnergy has worked with the
+Department of Homeland Security, the Department of Energy, and
+Congress, sharing steps we are taking to address cyber threats
+as well as developing partnerships with the federal government
+in these efforts.
+In 2013, FirstEnergy was one of only a handful of utilities
+that entered into a cooperative research and development
+agreement, or CRADA, with Homeland Security, a relationship
+that has proven valuable to both us and the federal government.
+In 2014, we began working directly with the Department of
+Energy as one of the first utilities to deploy the
+Cybersecurity Risk Information Sharing Program, or CRISP, tool.
+We strongly believe that sharing this information of critical
+information is essential and should be actively supported
+moving forward. The fact is, although the cybersecurity efforts
+of electric utilities have been effective in addressing threats
+to date, we need to continually strengthen and build on these
+efforts to ensure they are up to the task of meeting the future
+cyber-related challenges.
+Operational and technical advances have created roader
+surfaces that are more vulnerable to attacks. Companies
+continue to integrate remote access, mobile devices that
+increase exposure. High-value targets such as Supervisory
+Controlled Data, Acquisition, or SCADA systems, further entice
+attackers to take advantage of an organization.
+Cyber attacks are on the rise, and the behavior of
+cyberterrorists has become increasingly destructive. Many
+companies are doing an excellent job with prevention through
+layer defense, real-time alerting, operational monitoring,
+security awareness training, and other proven tactics. However,
+in light of today's threats and vulnerabilities, we need to
+focus more of our attention on getting ahead of the threats
+rather than simply reacting to the threats.
+Toward that end, we need to take aggressive steps to
+mitigate vulnerabilities and minimize the damage and business
+losses that could result from potential compromises.
+At FirstEnergy, we're evaluating cyber threats to our
+communications network by integrating more traditional data
+regarding physical access systems and the status of equipment
+and health and on our power systems. This process, called
+Threat Intelligence Management, or TIM, provides a more
+comprehensive system-wide consistent picture that our Security
+Operations Center can use to improve our response to cyber
+attacks. While any information can be shared, it also must be
+aggregated, correlated, analyzed and distilled to be relevant
+and actionable. By supporting these essential functions, TIM
+helps us maintain a critical infrastructure that is both highly
+secure and resilient. The program analyzes a constant flow of
+information from every corner of the system to anticipate and
+detect threats. This data can be shared among government and
+industry partners to enhance awareness of threats and provide
+more warning information to better mitigate attacks.
+Simply put, TIM offers a better platform for information
+sharing. The program not only helps us better identify and
+analyze threats and attacks, it also supports more effective
+information sharing and great collaboration among all
+stakeholders. This results in more threat indicators, improved
+security, greater resilience of critical infrastructure, and
+ultimately more effective collaboration between industry and
+government.
+Finally, the TIM program provides enhanced visibility of
+the enterprise overall security posture. This is accomplished
+by coordinating the monitoring of cybersecurity, physical
+security, information technology, and operational technologies.
+Advanced analysis of these functions provide early warning of
+security incidents and rapid mitigation of vulnerabilities.
+In closing, we must continually improve our cybersecurity
+systems and processes to stay ahead of the bad actors. To give
+you a greater sense of the size and scope of the problem, I
+simply point out that during my brief time here today,
+FirstEnergy probably has defended itself from at least four
+cyber attacks.
+As you consider where to focus our efforts moving forward,
+I urge you to look towards greater research and funding in this
+area with a focus on aggregating, correlating, analyzing and
+distilling information in order to be relevant and actionable.
+I strongly believe that one of the best ways to achieve this
+goal is through an effective threat intelligence management
+program.
+Thank you very much for the time.
+[The prepared statement of Mr. Gaines follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Weber. Thank you, Mr. Gaines.
+Ms. Lee, you're now recognized.
+
+STATEMENT OF MS. ANNABELLE LEE,
+
+SENIOR TECHNICAL EXECUTIVE IN THE
+
+POWER DELIVERY AND UTILIZATION SECTOR,
+
+ELECTRIC POWER RESEARCH INSTITUTE
+
+Ms. Lee. Good morning, Chairmen and Members of the
+Subcommittees.
+The Electric Power Research Institute is an independent,
+nonprofit organization and conducts research and development
+relating to the generation, delivery, and use of electricity
+for the benefit of the public.
+The nation's power system consists of both legacy and next-
+generation technologies. New grid technologies will operate in
+conjunction with legacy equipment that may be several decades
+old and provide new security controls.
+Traditional information technology--IT--devices typically
+have a lifespan of 3 to five years, and historically, IT has
+included computer systems, applications, communications
+technology and software typical for a business or enterprise.
+In contrast, operational technology, or OT, devices, have a
+lifespan of up to 40 years or longer and have historically
+focused on physical equipment technology that is commonly used
+to operate the energy sector.
+There's some basic differences between the security
+requirements for IT and OT systems. For example, the focus for
+IT systems is confidentiality of information such as customer
+energy usage and privacy information. The focus for OT systems
+is availability and integrity to ensure that the reliability of
+the grid is maintained even in the event of a cybersecurity
+incident.
+With the increase in the use of digital devices and more
+advanced communications and IT, the overall attack surface has
+increased. These new devices include commercially available
+components as an alternative to proprietary solutions that are
+specific to the electric sector. Many of the commercially
+available solutions have known vulnerabilities that could be
+exploited when the solutions are installed in OT devices.
+The electric sector is addressing these attacks with
+various mitigation strategies. Cybersecurity must be included
+in all phases of the system development lifecycle and address
+deliberate attacks launched by disgruntled employees and
+nation-states as well as non-malicious cybersecurity events,
+for example, user errors or incorrect documentation.
+Risk assessment is a key planning tool for implementation
+of an effective cybersecurity program. EPRI, in conjunction
+with utilities, researchers, and vendors, developed a risk
+assessment methodology that is based on a typical IT
+methodology with impact and likelihood criteria that are
+specific to the electric sector. This work was performed as
+part of the National Electric Sector Cybersecurity Organization
+Resource, or NESCOR for short, project, DOE funded public-
+private partnership. Several utilities are implementing
+mitigation strategies at the enterprise level. One example is
+an Integrated Security Operations Center, or ISOC for short. An
+ISOC is designed to collect, integrate and analyze alarms and
+logs from traditionally siloed organizations, providing much
+greater situational awareness to the utility's security team.
+Two documents specifically address the electric sector and
+provide mitigation strategies. Both documents are used
+worldwide. The first is the National Institute of Standards and
+Technology Interagency Report Guidelines for Smart Grid Cyber
+Security. The development was led by NIST with a team of
+roughly 150 volunteers. A second document is the Electricity
+Subsector Cybersecurity Capability Maturity Model, which allows
+electric utilities and grid operators to assess their
+cybersecurity capabilities and prioritize their actions and
+investments to improve cybersecurity. Many utilities and EPRI
+map their R&D programs to the domain specified in this maturity
+model.
+With the modernization of the electric grid, new
+technologies and devices have been deployed to meet our current
+and future electric sector needs. With this new functionality
+comes new threats including cybersecurity threats. To take
+advantage of the new technology, these threats must be
+addressed.
+This concludes my statement.
+[The prepared statement of Ms. Lee follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Weber. Thank you, Ms. Lee.
+Mr. Wilshusen, you are recognized for five minutes.
+
+STATEMENT OF MR. GREG WILSHUSEN,
+
+DIRECTOR OF INFORMATION SECURITY ISSUES,
+
+GOVERNMENT ACCOUNTABILITY OFFICE
+
+Mr. Wilshusen. Chairman Weber, Representative Bonamici, and
+other Members of the Subcommittees, thank you for the
+opportunity to testify at today's hearing on efforts by federal
+agencies and industry to mitigate cybersecurity threats to the
+U.S. power systems.
+As you know, the electric power industry is increasingly
+incorporating information and communications technologies into
+its existing infrastructure. The use of these technologies can
+provide many benefits such as greater efficiency and lower cost
+to consumers. However, if not implemented securely, modernized
+electricity grid systems will be vulnerable to attack and that
+could result in loss of electrical services essential to
+maintaining our national economy and security.
+Today, I'll discuss actions taken and required to bolster
+cybersecurity of the nation's power systems. Before I begin, if
+I may, I'd like to recognize several members of my team who
+were instrumental in developing my statement and performing the
+work underpinning it. With me today is Mike Gilmore, an
+Assistant Director, and Brad Becker, who led this effort. In
+addition, Lee McCracken, John Ludwigson, and Scott Pettis also
+made significant contributions.
+In 2011, we reported on a number of challenges that
+industry and government stakeholders faced in securing smart
+grid systems and networks against cyber threats. These
+challenges included taking a comprehensive approach to
+cybersecurity, ensuring that smart grid systems had built-in
+security measures, monitoring implementation of cybersecurity
+standards and guidelines, effectively sharing cybersecurity
+information, and establishing cybersecurity metrics.
+Since then, FERC has acted to implement our recommendations
+to assess these and other challenges in its ongoing
+cybersecurity efforts. However, it did not implement our
+recommendation to coordinate with state regulators and other
+groups to periodically evaluate the extent to which utilities
+and manufacturers are following voluntary cybersecurity
+guidelines.
+Other entities have acted to improve cybersecurity in the
+sector. For example, NERC has issued updates to its critical
+infrastructure protection standards for cybersecurity and has
+hosted an annual conference on grid security. In 2014, NIST
+updated its smart grid cybersecurity guidelines to address the
+threat of combined physical-cyber attacks. NIST also issued a
+framework for improving critical infrastructure protection and
+cybersecurity. The framework is intended to provide a flexible
+and risk-based approach for entities including those within the
+electricity subsector to protect their vital assets from cyber
+threats.
+The Departments of Homeland Security and Energy have
+efforts underway to promote the adoption of the framework by
+critical infrastructure owners and operators. These departments
+have also developed cybersecurity risk management approaches
+and tools that are available for use by the electricity
+subsector.
+Nevertheless, given the increasing use of information and
+communications technologies to operate the electricity grid and
+other areas, continued attention to these and other areas is
+required to help mitigate the risk these threats pose to the
+electricity grid.
+In particular, assuring that security features are built
+into smart grid systems and that a comprehensive approach to
+cybersecurity is taken whereby utilities employ a defense in
+depth strategy based on sound risk management principles will
+be essential. Effectively sharing cyber threat vulnerability
+and incident information among federal, state and local
+governments as well as the private sector stakeholders in a
+timely manner is imperative to provide utilities with the
+information they need to protect their assets against cyber
+threats.
+Additionally, an effective mechanism for monitoring the
+implementation and effectiveness of the cybersecurity policies,
+practices and controls over U.S. power systems is paramount to
+ensure the resiliency and security of the electricity grid.
+To summarize, more needs to be done to meet the challenges
+facing the industry in enhancing security. Federal regulators
+and other stakeholders need to work closely with the private
+sector to address cybersecurity challenges as the generation,
+transmission and distribution of electricity come to rely more
+on emerging and interconnected technologies.
+Chairman Weber and Members of the Subcommittee, this
+concludes my statement. I'd be happy to answer your questions.
+[The prepared statement of Mr. Wilshusen follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Weber. Thank you, Mr. Wilshusen, and I now
+recognize myself for five minutes of questions. Wow, where do
+we start?
+Mr. Gaines, the Department of Energy's Office of
+Electricity works with electric utilities on information
+sharing and encouraging utilities to learn from the challenges
+faced by their regional counterparts. The Department of
+Homeland Security also operates programs to facilitate the
+information sharing you referred to in your comments. What
+information do you feel is most important to share with each
+other and for the industry to share with regulators, and the
+third part to my question really is, in your comments I think
+you said information had to be actionable.
+Mr. Gaines. Correct.
+Chairman Weber. Define what you mean by ``actionable.'' Let
+me reiterate. What information do you feel is most important
+for industry to share with each other and then to share with
+the regulators? It may be one and the same. And then define
+``actionable information'' for us.
+Mr. Gaines. I'll start out with your first questions in
+that we have spent the last two years working directly with
+both agencies and within the confines of the programs that they
+have, which are the CRISP tool and the enhanced cybersecurity
+tool, and they are very effective. The difficulty of both of
+those tools, they're historical; they look back. They don't
+look at real-time incidents, and in some cases, there can be a
+lag between three to six months from when an incident occurred.
+It's not correlated on a timely manner as to what is going on
+with the rest of the industry so that we can take action on
+those events, and in some cases, you could have a dormant piece
+of malware sitting in your environment that you didn't take
+action on but that was alerted months earlier.
+As it relates to actionable, it's having real-time
+information, and a technical term--I don't want to lose you--is
+the actual threat actors' IP address and the specific
+information that's time-framed within that window. An
+illustration of that would be----
+Chairman Weber. You're not losing me. I was wondering about
+that earlier when you said up to 4 months since 2011, 300
+attacks, and no suspects.
+Mr. Gaines. That's correct.
+Chairman Weber. Go ahead.
+Mr. Gaines. And that is the difficulty is that by the time
+the actor penetrates your environment, they're not the actor
+that you see. There's an alias that sits behind that wall and
+the difficulty is following that breadcrumb back to the
+original source, and one of the difficulties that we have in
+the industry is, is the information we get from the federal
+government is not timely, and so for us to take action on
+something that really we have no control over is very
+difficult. My suggestion would be to reverse that, is for us to
+provide across the industry real-time incidents, and it's
+doable, and to be able to track not only the source but the
+actual follow-on activity that occurs from that event.
+One of the things that we don't do is we don't do a good
+diagnostics of what happens once the event occurs, and we move
+on to the next one.
+Chairman Weber. Let me jump over to Mr. Wilshusen. You
+talked about having conferences, I think, you met around the
+country, probably industry and I presume government as well.
+How often are those conferences held and how many attendees,
+and should we increase that frequency and are they sharing that
+information?
+Mr. Wilshusen. Well, what I referred to were conferences
+that were being held by NERC, which is the North American
+Electric Reliability Corporation, and they hold those annually,
+but to the extent that Mr. Gaines talked about in providing
+useful, actionable information in a timely manner, annual is
+not enough. They do talk about different threats----
+Chairman Weber. It would almost have to be daily or weekly.
+Mr. Wilshusen. Much more frequently. This has been----
+Chairman Weber. Absolutely.
+Mr. Wilshusen. Right. This has been----
+Chairman Weber. I'm talking about the sharing of the
+information.
+Mr. Wilshusen. Right, the sharing of the information,
+particularly between federal government and the private sector
+and even among private sector entities has been a longstanding
+problem and a challenge throughout all critical infrastructure
+sectors including the, electricity subsector. What we have
+found in the past is that there have been certain obstacles to
+doing that including from the government sector to private
+sector, making sure that those individuals at the private
+sector had the appropriate security clearances--that's been a
+challenge--as well as having a secure mechanism to share that
+information timely.
+Chairman Weber. Is there one office that oversees what
+you're describing? Is there one office within your agency, for
+example, that oversees that? Who oversees that?
+Mr. Wilshusen. Well, overall, DHS has a responsibility
+across federal government for taking the lead in the----
+Chairman Weber. So does DHS--you may not know this--forgive
+me for interrupting, but does DHS have one office that
+allocates their time and manpower and resources to just this
+cybersecurity for energy companies alone? Do you know?
+Mr. Wilshusen. Well, it does have a group that's
+responsible overall but the Department of Energy, known as the
+sector-specific agency, also has responsibility for interacting
+with the energy sector to include the electricity sector for
+sharing information and assisting that sector in securing its
+systems.
+Chairman Weber. I am running out of time, but I have one
+last question. So what could be done better to help streamline
+this process?
+Mr. Wilshusen. Well, one of the requirements under the
+Executive Order 13-636 is for agencies and particularly I think
+it's DOD and perhaps DHS to come up with a mechanism that will
+allow for faster sharing of information to the private sector.
+Chairman Weber. All right. Thank you.
+I'm over time, and I yield to the gentlelady from Oregon.
+Ms. Bonamici. Thank you very much, Mr. Chairman, and thank
+you to the witnesses for bringing your expertise on an
+important issue.
+I also serve on the Education and Workforce Committee, and
+I'm going to focus at first on some of the workforce issues
+making sure that we have the workforce that we need to continue
+to address this serious issue, and I know Mr. Stacey, you said
+that the demand for trained cyber defenders with control
+systems knowledge vastly exceeds the supply.
+Now, my alma mater, the University Of Oregon, has just
+created an Oregon Center for Cybersecurity and Privacy. They
+received a federal--some federal funding, and a Center of
+Excellence designation, and they plan to begin enrolling
+students by next summer. But how can we incentivize more
+universities to support educating this workforce, and once we
+have a strong pipeline of students and get them into the
+workforce, how can we attract them to public service and
+government jobs when typically the private sector would pay
+more and be perceived as more innovative?
+So I'll start with Ms. Lee and also ask Mr. Wilshusen and
+anybody who wants to weigh in.
+Ms. Lee. As I noted in my statement, I previously was in
+the federal government for 14 years. I think one of the real
+advantages of working in the federal government is the kind of
+work you can do and the impact that you have. I mentioned the
+guidelines for smart grid cybersecurity products that we
+developed. There were 150 volunteers from around the world that
+participated in developing that document. These were senior-
+level people literally around the world. I kept getting asked,
+do you pay these people, and my response was no, these are
+volunteers. I think one thing in the federal government and
+working with the federal government for several decades, you
+can have an impact and influence that you don't have anywhere
+else, and to me, that's a real benefit for working in the
+public sector. Private sector does compete. It is difficult
+now. There're very few--as mentioned earlier, there are not
+significant numbers of people who are in cybersecurity, and
+those who focus on control systems, and as I mentioned, there
+are some basic differences between cybersecurity for control
+systems and our IT systems. That community is even smaller. We
+need to beef up that workforce. There are controls that you
+don't put on OT systems that are typical on IT systems, and we
+need to--we definitely need to grow this area.
+Ms. Bonamici. And do you agree with Mr. Stacey that there's
+a serious need, that we don't have the workforce?
+Ms. Lee. We don't have the workforce.
+Ms. Bonamici. I want to follow up because I know the U of O
+Center is going to be working with the faculty from several
+different departments including computer and information
+science, philosophy, business, law. What role--you talked about
+the role of human behavior but how can we really capitalize on
+understanding human behavior to deal with the threats, and also
+hopefully to be out in front and prevent them.
+I'll open it up to the panel. Ms. Lee, do you want to
+start?
+Ms. Lee. As you mentioned, I think human behavior is very
+important. Historically--and I've been doing cybersecurity now
+for almost three decades--the solution was, have longer
+passwords, and so what does everybody do? They write them down
+because you can't remember 12- or 15-character passwords that
+you have to change every 3 or 4 months.
+Ms. Bonamici. We've all done that.
+Ms. Lee. Yeah. You write them down. That's the only way you
+can remember them. Is to look at cybersecurity and the solution
+has to be yes, we need to figure it out. As I say, it's a messy
+environment.
+If you look at the reality of cybersecurity, the devices
+that are out there, the controls you may need to implement. you
+can't do. You either can't afford them or they affect the
+performance. You need to figure out the solutions. And I think
+that's the direction that cybersecurity needs to go.
+Historically----
+Ms. Bonamici. Thank you. I need to get a couple more
+questions in.
+Mr. Gaines, you talked about the TIM, the Threat
+Intelligence Management. That seems like a sound approach. What
+are the barriers to improving and expanding that approach?
+Mr. Gaines. The barriers are twofold. One, there are
+limitation that industry has today in communicating with the
+government vulnerabilities, and that is a real challenge in
+that we are limited to some extent because we hold the
+liability if there's a breach or vulnerability to the network.
+I think that needs to looked at and in some cases eliminated so
+that we can share openly very specific information about
+vulnerabilities.
+The second is, is the actual technologies themselves.
+Today, we are one of only two utilities that have a completely
+integrated security operation center, and Ms. Lee spoke about
+that center. It's a center that we integrate the physical,
+being badge access, building access. We integrate the IT, being
+the cyber component, and we integrate the operational, the
+SCADA systems together. All three of those systems are actually
+monitored, reviewed, and we take actions against events, and
+I'll use a simple analogy so you can understand----
+Ms. Bonamici. I'm afraid my time's going to expire. Can I
+just have a few more seconds, Mr. Chairman?
+Chairman Weber. Without objection.
+Ms. Bonamici. I want to get in a quick question for Mr.
+Wilshusen. You mentioned in your testimony that FERC was
+adopting standards from NIST's efforts but according to FERC
+officials, the statute did not provide any authority to allow
+FERC to require the smart grid technologies to follow the
+standards and now it's voluntary. How's that working?
+Mr. Wilshusen. Well, it is voluntary. One of the problems
+that we noted is that FERC has not--because the standards are
+voluntary and have not been adopted, it has not gone out to
+examine the effectiveness or the extent to which those
+voluntary standards have been implemented.
+Ms. Bonamici. Thank you, and I'm very over time.
+Thank you, Mr. Chairman. Yield back.
+Chairman Weber. No problem.
+And now the Chairman is pleased to recognize for his first
+appearance in a hearing in this Committee, the gentleman from
+Illinois, Darin LaHood. Welcome.
+Mr. LaHood. Thank you, Mr. Chairman, very much. I
+appreciate it. Great to be part of this Subcommittee.
+I want to thank the witnesses for your testimony this
+morning.
+I guess, Mr. Stacey, I wanted to just maybe see if you
+could highlight a couple examples of cyber attacks that maybe
+recently happened where systems have been compromised and maybe
+the cost to a particular company and how it affected citizens
+or customers.
+Mr. Stacey. Yes. Two of the most recent are BlackEnergy and
+Havex attacks. These have been to the human-machine interface
+associated with the industrial control systems. Near as we can
+tell, those are primarily associated with collecting
+information, trying to map out systems and see what they look
+like, although the payloads on those are dynamic. There's been
+a very active response from DHS on this along with other
+entities, in fact, traveling around the country in briefings
+with the FBI and notifying people about that.
+As far as the costs associated with individual utilities in
+mitigating that, I don't have insight into that, but I know the
+federal government and the laboratory took a very aggressive
+stance on notifying and making people aware of those particular
+malware.
+Mr. LaHood. And I guess as a follow-up maybe to Mr. Gaines,
+when we talk about cybersecurity and talk about really what
+these entities are engaged in is criminal activity, when we
+talk about deterring that, I mean, are there currently any
+active prosecutions by the federal government, either the U.S.
+Attorney's Office or anybody that we can kind of use as
+examples to deter this behavior?
+Mr. Gaines. I don't--I'm not aware of any criminal activity
+so I say that. I do know that there have been incidents that
+have been nation-state and/or in some cases domestic that
+probably warrant the investigation of that. A good example of
+that would've been the Metcalf incident that occurred in
+southern California in 2013. That substation lost 17
+transformers. There were 127 rounds of ammunition that was shot
+into the substation and power had to be rerouted.
+To the Chairman's point, though, that actor has not--and/or
+actors have not been found, and the evidence obviously is very
+clear that it was multiple actors very potentially.
+But to the extent that there has been prosecution, that has
+not occurred, to my knowledge.
+Mr. LaHood. And on that specific case with Metcalf, is
+there an ongoing investigation to try to determine who the
+perpetrator was?
+Mr. Gaines. There absolutely is, and following that
+incident, FERC issued a number of standards on physical
+security that the industry is now implementing, and a lot of
+that has to do with both the monitoring both of the physical
+asset and the cyber asset, and so we've learned from an
+industry but to the extent that we've seen that replicated or
+duplicated in industry, it has not.
+Mr. LaHood. In terms of becoming aware when a system is
+compromised, walk me through a little bit of, if a company is
+compromised, the reporting on that in terms of to the federal
+government. Is that something that's made public, or who's the
+repository of threats or compromises that happen, and then how
+does that get made public or is there some secrecy involved
+with that? I mean, I guess what I'm getting at, do companies,
+you know, in a competitive marketplace not want people to be
+aware that their systems were compromised for vulnerabilities?
+How is that addressed?
+Mr. Gaines. I'll give you a real-life example. At 11
+o'clock yesterday afternoon, our systems were attempted to be
+penetrated by a denial of service, so they're flooding your
+network. That flooding of the network slows down your network,
+and at that point we pick it up on our firewalls, we shut the
+traffic down, and then we do forensics on that. Within an hour,
+we report that to the ES ISAC. That ISAC is our sector group
+that we use to facilitate that type of information. Now, I go
+back to my original point that I made earlier. That happened to
+me. I venture to say that that same actor was scanning other
+networks and that that same DDoS attack was being attempted. At
+4 o'clock, we get an acknowledgement back from the government
+that they received the information. As of 11 o'clock, 24 hours
+later, I still don't have a response back from the government.
+There's a good example of the timeliness of information. If
+we could share that information real time within the industry,
+think about the potential of being able to collaborate very
+quickly and take action because most likely that actor has shut
+down their server and they've moved on, and so we have no time
+again to take any reasonable mitigation steps. The good news
+is, our security systems worked. To the extent that that threat
+I reported gets communicated, it does get communicated. Most
+likely it'll be a few months from now. It'll be watered down,
+and the real sad part about it is, it doesn't have the level of
+detail to take any action on it.
+Mr. LaHood. Thank you.
+Thank you, Mr. Chairman.
+Chairman Weber. Thank you.
+And before I go to the gentleman from New York, if I can
+just take one second here, so what you just described, Mr.
+Gaines, gets back to those conferences. If you could come in
+with that kind of information in real time to everybody that
+was in a like business and say expect this kind of attack, is
+that a doable deal?
+Mr. Gaines. I would--if I may----
+Chairman Weber. Sure.
+Mr. Gaines. I would argue slightly different. I have
+security clearance, and to the gentleman's point, Homeland
+Security does offer briefings to those that have security
+clearance. They're non-industry-specific so they can be across
+any sector. And ironically, the same approaches that an actor
+uses in finance is very similar to an attempt that they would
+use in our industry. That's still not soon enough. Those
+briefings occur once every three months.
+Chairman Weber. But is there no platform to broadcast this
+information industry-wide? And let's be energy industry
+specific. Is there no platform for that?
+Mr. Gaines. There is. My point being is, it's not timely
+enough. There is, and it's a very good tool. It's not timely
+enough and it's not detailed enough.
+Chairman Weber. All right. Thank you.
+I appreciate the gentleman from New York's indulgence.
+You're recognized.
+Mr. Tonko. Thank you, Mr. Chairman.
+Welcome to our panelists.
+The line between federal and state power has historically
+been drawn at the intersection between the high-voltage
+transmission system and the lower-voltage distribution system.
+However, the relevance of this distinction is less clear when
+it comes to cybersecurity, and Ms. Lee, you addressed some of
+that with the new technologies, but to both you and Mr. Gaines,
+Ms. Lee and Mr. Gaines, could the increase of smart grid and
+distributed energy technologies being deployed on the
+electrical distribution system increase those cybersecurity
+risks to the high-voltage transmission system.
+Ms. Lee. As I said in my statement, the increase in
+technology and the inclusion of IT and communications, the new
+technology, yes, that does increase the potential for
+cybersecurity events. I will add another one, and that is the
+interconnection of these systems. If we look at the new
+technology, our distributed energy resources, renewable devices
+where you transmit the electricity that may be generated in one
+state to another state, all of that increases the attack
+surface and the potential for cybersecurity events.
+On the other side, utilities, reliability is number one.
+Cybersecurity should support the reliability of the grid, and
+there are a number of tools and techniques that the electric
+sector has been using for decades to address reliability that
+can also be used to address cybersecurity. This is not a
+totally foreign area, and so it's taking advantage of what
+they're currently doing, and then looking at the techniques and
+technologies that the IT community uses to address these new
+threats.
+Mr. Tonko. Thank you.
+And Mr. Gaines, do you also concur that it increases risk
+here?
+Mr. Gaines. If I may, not to differ, I might add a
+different perspective----
+Mr. Tonko. Okay.
+Mr. Gaines. --if I could, please? The distribution system
+and transmission system are two separate systems. The
+distribution system is a regional, local system and smart grid
+and/or tied to that smart grid is a meter. That's an individual
+IP address. It's an individual computer. Think of it like that.
+There are securities around that through a certificate and
+encryption, and in our design, that particular meter is not
+tied into our core distribution system. We have what we call a
+head-in system that sits outside of our company.
+So I would suggest to you that from a smart meter and smart
+grid perspective, the design and construct of that is secure.
+Is there a risk in our cases in Pennsylvania? We have two
+million customers, and I'm convinced given enough time with a
+bad actor, they could figure out how to be destructive with
+that. But to the extent that our design and configuration
+within the industry and our design and configuration is very
+similar to most smart grids and the technology is very similar.
+So there's a risk but I don't see it as a huge threat.
+Mr. Tonko. And no specific recommendations you would make
+to address that increased risk, either of you?
+Mr. Gaines. I would--the gentleman, Mr. Stacey, made some
+very good points. I think good hygiene is important, good
+engineering is important, and constant management. These
+devices are now computers and so they have to be maintained.
+They don't have the life of an existing meter, which is 20 to
+30 years. These devices have a life of between five to seven
+years, and so the challenge that the industry is making sure
+they maintain their smart grid environment, not neglect it.
+Mr. Tonko. Ms. Lee?
+Ms. Lee. There are things that the industry, as Mr. Gaines
+said, is doing, and I mentioned in my testimony all utilities
+do risk assessments. They need to prioritize their system,
+prioritize the risks and vulnerabilities, and then make
+decisions about which ones they want to mitigate. They do not
+have unlimited resources. Utilities deal with many areas of
+risk. Cybersecurity is one area. And they need to prioritize
+and determine what they want to do for their mitigation
+strategies and then make decisions that way.
+Mr. Tonko. There was some exchange--thank you. There was
+some exchange over the role of forensics in cybersecurity. What
+do we need--this is to all of you. What is needed to adequately
+conduct a forensic analysis after a cyber event? What are the
+best----
+Mr. Gaines. Directed to me, sir?
+Mr. Tonko. Any of the four.
+Mr. Gaines. Two things. First of all, there needs to be--I
+go back to what we can share and what we cannot share with the
+government during an incident. That's a--there's a lag that
+occurs there. If I have a major incident in my environment, I
+have to report that to several agencies. That can be days or
+weeks in some cases. Secondly, once we determine it truly was a
+cyber incident, then I have to put together a full
+investigative report, and then it goes through a very lengthy
+process of determining the actual degree or significance of
+that. I suggest to you that we cut all that or most of that
+away, and that if I truly know that I've been breached inside
+of my network, I think there's an obligation that we work much
+closer with the federal government on a real-time basis of
+defining the problem first and then let's go assess the
+penalties or determine who was at fault later, and that lag at
+times can be weeks and months before we actually get into the
+real forensics and do the real what I think are important
+things are mitigating it. And more importantly, that
+information is not shared with the industry in some cases for a
+year.
+Mr. Tonko. Thank you very much.
+Mr. Chair, I yield back.
+Chairman Weber. I thank the gentleman.
+And now the gentleman from Arkansas, Mr. Westerman, is
+recognized for five minutes.
+Mr. Westerman. Thank you, Mr. Chairman, and thank you,
+panel, for your insight today.
+Mr. Wilshusen, I'll direct this question to you, but others
+may wish to add in on it. I've visited several power-generating
+facilities, and I was pleased to find out that the control
+systems inside the power plants are totally isolated from the
+outside world in the facilities I've visited, so the chance of
+a cyber attack on the actual generating facilities is pretty
+much mitigated unless a bad actor got into the facility and
+messed with the control system, which could cause a huge issue.
+So when we're talking about a cyber attack, what physically are
+the risks there since these power plants are basically just
+getting a demand signal from the grid? What kind of destruction
+do you anticipate could happen from a cyber attack?
+Mr. Wilshusen. Well, first of all, I would first ask about
+your premise that the industrial control systems networks are
+indeed isolated and separated from other external networks or
+company communications networks. What we have found and what I
+have seen reported through ICS-CERT and others is that often
+companies believe their industrial control systems networks may
+be air-gapped, if you will, but are surprised to find when in
+fact they are not. With the increasing introduction of
+information and communications technologies, we're finding,
+increasingly, that these networks are indeed interconnected
+with other networks. That's one thing. But given that, if they
+are air-gapped, it does provide an additional level of security
+certainly to where remote access may not be available and where
+an attacker may have to have physical access to the device. But
+to be sure that's something that if they are air-gapped, that
+is an improvement and a control over it, but--and that's what
+has been historically but increasingly we're finding on what's
+being reported is that they are being interconnected with
+internal and external networks, thereby as Ms. Lee mentioned,
+increasing the attack surface and increasing the likelihood of
+a potential incident over those industrial control systems
+networks.
+Mr. Westerman. So is that the main concern with cyber
+attacks is getting into those power-generating facilities'
+control systems or is it more to protect the distribution and
+transmission systems?
+Mr. Wilshusen. Well, I think you have that probably at
+multiple sections throughout the entire electricity grid,
+depending upon where the control systems or the sensors are
+located. If they are indeed interconnected to external
+networks, there's an increased likelihood that they may be
+vulnerable to attack if they're not sufficiently hardened. Of
+course, there are actions that an entity can take to better
+secure those connections and to better secure those devices. If
+those are being done, that will help, but historically, that
+always hasn't been done for a number of reasons.
+Mr. Westerman. It just seems like it would be a good
+operating protocol to have those industrial control systems
+isolated from the outside world as far as having the best way
+to keep a cyber attack from happening on one of those
+facilities.
+Mr. Wilshusen. Yes, that's correct, but often they're
+interconnecting in order to provide greater efficiency and
+usefulness, if you will, and so there's always that balance,
+but yes, it would be better from a security perspective to keep
+them isolated.
+Mr. Westerman. So when we talk about the role that smart
+grid technology plays in creating cyber vulnerabilities, does
+the fact that the smart grid relies on two-way communication
+make the grid more susceptible to cyber attacks, and if so, how
+is that?
+Mr. Wilshusen. Well, potentially, and that would be as Mr.
+Gaines mentioned more at the distribution level rather than the
+power-generating and transmission level where there could be
+attacks against individual smart meters. Indeed, I believe
+there have been reported attacks against smart meters, but more
+for the purpose of committing fraud and addressing some of the
+programming that is in those smart meters, but the threat
+potentially is, and again, absent other controls that may now
+be in place, is that collectively as millions of smart meters
+out there could that have an impact on the larger electricity
+grid, and that's something that there potentially could.
+Mr. Westerman. And when you talk about smart meters, are
+you talking about the meters that give the feedback or just the
+ones that the meter reader can drive through the neighborhood
+and read the meters without getting out of the vehicle? Are
+those----
+Mr. Wilshusen. Yeah, those would be included in that, yes.
+Mr. Westerman. I think I'm out of time, Mr. Chairman.
+Chairman Weber. Okay. The gentleman yields back.
+The gentlelady from Connecticut, Ms. Esty, is recognized.
+Ms. Esty. Thank you, Mr. Chairman and to our Ranking
+Members for today's very important hearing.
+In Connecticut, we're very focused on grid reliability just
+actually from natural disasters we've been coping with, and
+certainly the cybersecurity threat has gotten us all to pay
+much closer attention.
+I have two quick questions. First for Ms. Lee and Mr.
+Gaines. Can you explain a little bit more how we should address
+the challenges between the difference in lifespan of
+operational technology and information technology? All of us
+who know, who have any of those devices in our pockets, and if
+you've got teenagers, you really know within a year they want a
+new one, and yet we're looking at overall systems on the
+utility side that are decades long. What do we know about from
+prior history that can help us in Congress think about how to
+meld together these two systems, one of which is highly
+capital-intensive over decades and another which is changing
+constantly?
+Mr. Gaines. Ms. Lee, go ahead.
+Ms. Lee. Thank you. Yes, as I mentioned earlier, the
+difference in lifecycle--and it's amazing when you think our
+device if it's a year old, it's ancient.
+What needs to be done, and talking about the modernization
+of the grid, and I think of that more than just a smart grid.
+If you want to talk about all of the domains--generation,
+transmission and distribution--the new devices are using
+commercially available operating systems and applications
+rather than the proprietary solutions that were used
+historically, and so when you look at these devices, yes, they
+may have a lifespan of 30 or 40 years but you have Windows, you
+have your internet protocols. It's having the two communities,
+and Mr. Gaines talked about that, having the communities, the
+IT and OT communities together, figure out the best solutions,
+and a lot of utilities are putting them in the same room and
+addressing these difficulties because when you get away from
+the proprietary solutions, you need to figure out how do you do
+it with all of these commercially available products.
+Mr. Gainrs. I would add to that two things you heard me in
+the testimony. We have and are converging both the operational
+side of our business and the IT side of our business, and we're
+doing it a lot with technology first of all. Inside of a
+substation, 15 years ago it was an analog substation and it was
+not two-way communication. What sits in a substation now is a
+communications network, and so we are building out with inside
+substations a very protected, secure network inside of that
+substation, and it comes with us--it comes with cyber risk but
+it also comes with the ability to monitor that substation. And
+so that is the piece that some of those in industry are doing.
+We are thinking of that substation as a physical asset as well
+as a logical asset. And so when I actually manage our
+substations, I think of them as a computer. I think of them as
+an asset in transmitting and/or transferring energy, and in one
+place we look at both of those. We don't separate those two. We
+don't separate the operational side of our business from the
+cyber side or the technology side. And as more communication
+devices go into substations, that's going to be required.
+Ms. Esty. Thank you. That is very helpful.
+And just a quick question for anyone who wants to chime in.
+Part of what we do is direct research dollars from this
+Committee, and if you had to divide up the federal research
+dollars between on cybersecurity, in prevention, detention,
+mitigation, and recovery, at this stage of the game, what do
+you think for us--those of us who sit here in Congress as we're
+allocating funds and we all know we should have more funds, but
+with the not enough money that we have, as I think about it,
+how should we think about dividing those up?
+Mr. Gaines. Mine would be prevention. It has the greatest
+opportunity to be able to share, and I think the greatest
+opportunity to expand and grow.
+Mr. Stacey. Yes. Thank you for the question.
+I would offer that we're spending an awful lot today on the
+measure-countermeasure. The threats and the daily bombardment
+is consuming most of our resources. We need to make sure that
+we're investing a significant amount of our research dollars in
+how do we take some of these critical assets off the table with
+either some kind of disruption zone--which is now a terminology
+that's being used where you put some kind of a----
+Chairman Weber. A firewall? A firewall?
+Mr. Stacey. Well, it's not quite as sophisticated as a
+firewall. It's an analog circuit that allows the electrons to
+go in and only do one thing, and it requires the cyber hacker
+to have physical access to the other side. And so research
+associated with trying to help define the critical assets and
+then we create an environment to take some of these critical
+assets off the table.
+So to answer your question shortly, I believe more needs to
+be done to get us out of this paradigm of measure-
+countermeasure and how we're going to solve this long term
+because, frankly, the resources aren't scalable. Thank you.
+Ms. Esty. Thank you. That's very helpful, yes.
+We all remember Mad Men and Spy versus Spy. I think you're
+right. We need to be removing assets from vulnerability. It
+makes a lot of sense.
+Thank you all very much.
+Chairman Weber. The gentlelady yields back.
+I now recognize the gentleman from Alabama, Mr. Palmer.
+Mr. Palmer. Thank you, Mr. Chairman, and thank you to the
+witnesses for coming in this morning. It's extremely important.
+Mr. Gaines, the National Institute for Standards and
+Technology has developed voluntary guidelines for smart grid
+cybersecurity, and the Federal Energy Regulatory Commission
+continues to approve cybersecurity standards. How helpful are
+these types of standards to the industry?
+Mr. Gaines. The standards are invaluable. They create a
+baseline. However, I suggest to you that's just what they are
+is a baseline, and that the threats that we see today are going
+forward, they're not going back. And so we identify most of the
+vulnerabilities associated with those standards and things that
+happen to us, not what things are going to happen to us. And I
+don't think that you can regulate or put standards in this to
+control every vulnerability. What I think you have to have is a
+collaborative effort across industry and government to address
+some of the issues that we have.
+Mr. Palmer. Part of my concern is that these are industry
+standards, and James Clapper, the Director of National
+Intelligence, said the greatest threat to our national security
+is cyber attacks. I think he identified 140 attacks against
+U.S. corporations by China, and it appears to me that we're in
+the middle of a digital arms race in terms of cyber attacks,
+and specifically my concern right now is with our energy
+infrastructure and how devastating it would be if we had a
+cyber attack against our infrastructure that shut it down. Do
+you think industry standards alone are enough or does the
+government need to take a more active role in this,
+particularly in developing the technology to protect us against
+cyber attacks?
+Mr. Gaines. First of all, to answer your first question,
+are the standards adequate, they are adequate, and I repeat
+again, they create a baseline. If you would suggest, though,
+that could more be done, I do, and I apologize. I don't
+remember the member's name. More research needs to be put into
+technology, number one, and it can be on any one of those three
+fronts. Prevention is the area that I suggest. Information
+sharing is a big piece of that, how we can be more
+collaborative and develop tools between government and industry
+to share and within industry, and so I would suggest where the
+management can be a major player is, they have access to
+information we don't and vice versa, and the idea is, how can
+we get that to be a timely sharing of information and a more
+detailed level of sharing of information. That's the area that
+I suggest that we put more emphasis on, not necessarily
+standards.
+Mr. Palmer. Well, in regard to the timeliness, Mr. Stacey,
+in your testimony, you mentioned that intrusion detection
+technology is not well developed for control system networks
+and that it can often take months before malware is detected.
+What are the factors that account for such a significant amount
+of time that elapses before detection?
+Mr. Stacey. Well, first, let me characterize, as Ms. Lee
+did, the difference between IT technology and OT. With IT
+technology, we're fairly mature now in proactively managing
+systems. We have configurations and patchings that we use to
+manage these systems.
+Operational technology, or industrial control systems, may
+manage several hundreds or even thousands of points a minute,
+and if you try to proactively manage that network, you can do a
+denial-of-service attack on yourself. And so the tools today
+are basically passive monitoring--watching for things in and
+out--and the sophisticated hackers are aware of that and can go
+slow and low. And so the detection oftentimes, as I said, comes
+from a third party. And this is another research area that
+could be invested in is the detection technology for industrial
+control systems. Thank you.
+Mr. Palmer. Is that, in your opinion, where we need to go
+in terms of improving the detection time?
+Mr. Stacey. Correct.
+Mr. Palmer. Mr. Chairman, I yield the balance of my time.
+Chairman Weber. I thank the gentleman.
+The gentleman from California is now recognized.
+Mr. Swalwell. Thank you, Mr. Chairman, and thank you to our
+panelists.
+This issue, it just--it seems to evolve faster than we can
+stay pace with it, whether it's hacks or breaches that occur on
+the private sector side or hacks and breaches that we're seeing
+at OPM or other federal agencies that have, you know, certainly
+compromised millions of people's personal information, and so I
+guess my first question is, if one of our power grids went down
+tomorrow in a major metropolitan area because of a cyber
+attack, would anyone here be surprised? Just a yes or no up and
+down. Mr. Stacey, yes or no?
+Mr. Stacey. It's certainly possible.
+Mr. Swalwell. But would you be surprised if it happened? If
+you learned tomorrow that, say, the San Francisco Bay area was
+out of power because of a cyber attack, would that surprise
+you?
+Mr. Stacey. No.
+Mr. Swalwell. Mr. Gaines?
+Mr. Gaines. Yes, it would.
+Mr. Swalwell. Ms. Lee?
+Ms. Lee. Yes.
+Mr. Swalwell. And Mr. Wilshusen?
+Mr. Wilshusen. Yes.
+Mr. Swalwell. Okay. And so for those who said--well, let me
+start with you, Mr. Stacey. Why would it not surprise you?
+Mr. Stacey. I just believe--because our monitoring and
+detection for those kinds of events is not sophisticated enough
+for me to give an answer of yes.
+Mr. Swalwell. Do you believe that we have made the
+necessary investments across our country in protecting against
+cyber attacks, and not just the investments but is our
+workforce trained in a way that our cyber hygiene is good
+enough to prevent this from happening?
+Mr. Stacey. Yes, I think we have invested properly. I think
+there's a lot of work being done both in the utility sector and
+within the government sector. I think we're short of staff
+certainly and we're working on that in a number of areas with
+universities, et cetera. But we've heard from several leaders
+within the federal government that we likely have people inside
+the infrastructure, and these are very complex systems and the
+complexity even independent of a malware attack, adds a level
+of vulnerability.
+Mr. Swalwell. Thank you.
+And for the three who said they would be surprised if they
+learned tomorrow that a major metropolitan area had been hit,
+can you just maybe elaborate briefly on why it would surprise
+you? Mr. Gaines?
+Mr. Gaines. I'll give you a fact-based answer.
+Mr. Swalwell. Sure.
+Mr. Gaines. And I certainly know that there are
+vulnerabilities that exist in every network, but I would
+suggest to you at FirstEnergy, I feel we have done the right
+things to secure our company and that component of the grid.
+The other thing that's unique to the grid is, we have the
+interconnects, in our case, PJM, and so in this case, we would
+work very hard with PJM given that if our company was breached,
+to minimize that impact across the network. Is it possible?
+Yes, but your black-and-white answer is, would I be surprised?
+Yes, I would be. And it's because of those two specific
+entities, and I would suggest to you the peers around me that
+are on PJM and the grid probably have the same level of
+confidence that their business, their company is secure also.
+Mr. Swalwell. Great. Thank you.
+Ms. Lee?
+Ms. Lee. Yes, I will agree completely with Mr. Gaines on
+that, and just add to that, if you look at--and it was
+referenced earlier the Metcalf attack, that their end result
+was no power failure. The reliability of the grid is paramount,
+and as he mentioned, working with the interconnections and the
+different utilities, the intent is to maintain the reliability
+of the grid. So yes, it is a hypothetical possibility but if
+you look at all that's in place to ensure the reliability, it
+still is a very stable system.
+Mr. Swalwell. And then can you tell me who you fear an
+attack would come from if it came--if it was--if it occurred?
+Do you think it would be a state actor or a non-state actor?
+Which one would be more likely based on your experience and
+what you've learned? Mr. Wilshusen?
+Mr. Wilshusen. I think initially I would say it's probably
+going to be a non-state actor but I think also I've been
+reading where there could be state actors involved too. But
+certainly terrorists and groups that may wish to do us harm
+would do so. I think state actors are probably, depending on
+the state, also are relying on the electricity and our national
+economy to support them as well.
+Mr. Swalwell. And Mr. Gaines, are you cleared? Do you have
+a security clearance?
+Mr. Gaines. I do have a security clearance.
+Mr. Swalwell. Do you feel that enough people in your
+company are cleared to work with the federal government on the
+threats or could we do a better job of bringing more people in?
+Mr. Gaines. I don't think it's the volume; it's the
+quality. And I would suggest that today I have secret that it
+would be beneficial to move a smaller group to top secret, and
+the difference there is this, and it gets back to the
+timeliness and the level of detail, and for the sensitivity of
+my clearance, I just have to leave it at that, is that it would
+be much more beneficial to see things on a timely basis and at
+a much deeper level to be able to take action, but I feel at
+this point it's adequate but could be improved.
+Mr. Swalwell. Great. Thank you.
+And Mr. Chair, I yield back.
+Chairman Weber. Well, thank you, and I appreciate your
+bringing that up.
+Back to Mr. Stacey's lack of surprise at an attack, I was
+talking with the Ranking Member here, and it's kind of like a
+lot of terrorism. What is it we say, that we have to be 100
+percent vigilant, diligent all the time; they have to be lucky
+one time.
+So I now recognize the gentleman from Michigan, Mr.
+Moolenaar.
+Mr. Moolenaar. Thank you, Mr. Chairman.
+Mr. Gaines, I wanted to follow up with you one some of your
+comments. You had talked about the area of prevention and
+thinking about what we could do to complement the efforts
+you're doing in the industry, and you talked about, you know,
+prevention investments maybe could be--there could be benefits
+across industries. Can you describe that a little bit more?
+Mr. Gaines. Across the industry?
+Mr. Moolenaar. Across the industry.
+Mr. Gaines. Across the industry itself?
+Mr. Moolenaar. Yes.
+Mr. Gaines. And I do have to come back to this issue, and I
+know it's uncomfortable maybe to repeat it again, but we do
+have in the industry a set of standards, and those standards
+hold us to a level, and if we're not compliant, then there's
+liability, and I think that has to be looked at first because
+there is the--there's not the lack of interest in wanting to be
+able to share from an industry but there's certainly a level of
+hesitancy at times at what level we share. So I remind us of
+that.
+To that point, though, I don't think it can be done on a
+voluntary basis. I think that there has to be an open,
+collaborative environment between the government, and I speak
+of probably two or three agencies that I think we could all do
+a better job, and I start out with Homeland because they own
+the infrastructure. I start out with DOE because they are our
+sector control. Those are two. The third would be the FBI
+because they become the investigative arm in the event that
+something happens. I do believe that there is a way with the
+industry to be able to collaborate real-time threat analysis
+information, and it isn't a voluntary but rather a requirement
+that should occur, but it does start with the issue of our
+ability to be able to manage that directly industry to
+government.
+Mr. Moolenaar. So it sounds to me like some of the effort,
+you're talking about people getting together in a room and
+meeting and discussing this. You aren't talking about major
+investments in infrastructure or some kind of----
+Mr. Gaines. Both.
+Mr. Moolenaar. --technology. You are talking about both?
+Mr. Gaines. I am talking about both. I'm talking about the
+industry being able to have the necessary technology within
+their company to be able to provide that level of information,
+and I'm talking about the government being able to have and
+being a recipient and being able to use it, so it's technology
+and it's also skills and resources.
+Mr. Moolenaar. And do you think that when you think about
+prevention, you know, you prevent one threat but that another
+threat emerges that you weren't aware of? How long are the
+benefits from that kind of an investment? You know, how long
+does that last?
+Mr. Gaines. I think that's one of the things Ms. Lee talked
+about is that becomes a priority, where do we focus on first. I
+don't think you can deal with every single threat. There's a
+lot of work that's being done in the industry right now to
+define what a critical asset is, and it's very good work. The
+gentleman asked me, are the standards good. They're really
+good. They create baseline. I can tell you within our company,
+what are by definition the critical substations that have an
+impact on our entire network. Now, if I start there just alone
+with those critical assets and you multiply that times 120
+investor-owned utilities, that's pretty valuable information.
+And so--and again, I don't want to give you any idea how many
+that is other than to say it is a manageable number.
+Mr. Moolenaar. And just, it was mentioned earlier this idea
+of improving early detection, and I don't know if that was you,
+Mrs. Lee, or who it was that talked about the importance of
+that. Is that where we should be focusing?
+Ms. Lee. I will add, I think early detection is important.
+One of the difficulties, and I believe it's been discussed
+here, is when you have an event, it can be very difficult to
+determine whether it's a cybersecurity event. I've done
+exercises with utilities and their frustration was, I didn't
+know it was a cybersecurity event. So it's a matter of, we
+talked about on the protection side but also as we've all
+discussed, using commercially available products. They have
+built-in vulnerabilities. The utilities are--as they're
+developing their mitigation strategies, you have to assume your
+systems at some point are going to be compromised, and so you
+take that as a given, maybe not significant but you use that
+when you develop your mitigation strategies. So I think it's a
+combination of looking at it from the protection side but then
+what do you do if there is a cybersecurity event. You want the
+electricity to continue to flow.
+Mr. Moolenaar. Mr. Wilshusen?
+Mr. Wilshusen. Yes, I would agree with that too because I
+know there's been a lot of discussion about the standards out
+there, and that's fine and they may be adequate, but what also
+needs to happen is the implementation of those standards
+consistently over time throughout the enterprise, and in our
+work at federal agencies and other entities, that often does
+not occur. Vulnerabilities exist because standards aren't being
+implemented consistently over time across the enterprise. And
+so it's through that that attacks often occur. So the aspect of
+monitoring the effectiveness of the security controls is also
+going to be a key part of the overall defense--in-depth
+strategy.
+Mr. Moolenaar. Thank you, and thank you, Mr. Chairman. I
+yield back.
+Chairman Weber. The gentleman yields back.
+I now recognize the gentleman from Louisiana, Dr. Abraham.
+Mr. Abraham. Thank you, Mr. Chairman.
+Mr. Stacey, let me start with you at kind of the 30,000-
+foot view. If we have a full-scale cyber attack, what does it
+do to the nation's economy and to the nation's security
+infrastructure?
+Mr. Stacey. It would be significant. All the other
+infrastructures run off the energy infrastructure.
+Mr. Abraham. And that leads me to the next question. How
+often is a cyber attack or an attempted attack tried on our
+nation's power grid?
+Mr. Stacey. What I can tell you is that from ICS-CERT,
+they're seeing a 32 percent increase in fiscal year 2014 of
+target attacks on the energy sector. I don't have the specific
+number for the grid.
+Mr. Abraham. But it has increased in the last----
+Mr. Stacey. It is increasing.
+Mr. Abraham. And I read something in USA Today that the
+U.S. power grid faces physical or online attacks approximately
+once every four days. Is that a fairly accurate statement?
+Mr. Stacey. That's fair.
+Mr. Abraham. Okay. That's all, Mr. Chairman. I yield back.
+Chairman Weber. Thank you. The gentleman yields back.
+The gentleman from Georgia, Mr. Loudermilk, is recognized.
+Mr. Loudermilk. Thank you, Mr. Chairman, and I appreciate
+all of the witnesses being here. I apologize that I wasn't here
+for the earlier testimony but we also have Homeland Security
+issues going on. I'm doing the ping pong between the
+committees.
+But prior to coming to Congress, I spent 30 years in the IT
+industry. Twenty of that time, I had my own business, and a
+good portion of our business was going into smaller utility
+systems and helping them automate. So I have some background in
+this, predominantly smaller municipal co-op systems to where we
+would put fiber optics into the city to tie the different SCADA
+systems together, pump stations, substations, et cetera, so
+they can more effectively monitor--getting more to a smart
+grid. During that time, many of those smaller operations saw
+the value of bringing in revenue, especially in small
+utilities, of selling the interconnectivity to businesses that
+had multiple locations within their jurisdiction. That also led
+to bringing in high-speed internet, which allowed them to
+connect and sell internet services on the same backbone or the
+same infrastructure that was also running their devices. Now,
+of course, we put in a lot of technology to segregate those
+networks, but at the same time, they also saw the functionality
+of being able to monitor and manage and respond without having
+to be in the office to an incident that happened within the
+utility system through the use of the internet.
+So as we were trying to implement these new technologies to
+allow them to be more efficient in operating their utility, and
+many of those provide electricity throughout their cities or
+their area of responsibility, it did help a lot, but then there
+was the concern that we had of someone from the outside being
+able to get in. And so what we would do is, we would do a lot
+of research, and one of the things that we did not have was an
+approved products list that we could go to, that the government
+had said all right, if you use this type of gateway, use this
+firewall, use this type of filter, then we know it'll be
+secure. So we did a lot of research. We went to a lot of
+vendors and we would get what we believed was the most secure,
+put that into place, and in most cases we were under contract
+to maintain it and make sure the security updates were done,
+the patches, et cetera, et cetera.
+The next progression was to then put in the other elements
+of the smart grid for meter reading and all this. So some of
+the things we started looking at were points of access, points
+of failure, points of vulnerability, which growed--which grew
+exponentially once we started adding the more technology.
+In a previous committee, I brought up the lack of an
+approved products list that vendors such as myself or these
+smaller electric utilities can go to that has standards,
+equipment standards, standards of practice, operation, et
+cetera. Now, I understand the Department of Energy is working
+on that, and I applaud that effort. But I do believe, and I
+know that there is a lot of vulnerability accessing the grid,
+you may say, through smaller electric utility systems. Some of
+those that we put equipment in, we went out and spent a lot
+looking at security aspect of it to make sure that they could
+operate securely. Because of budget cuts, many of them would
+cut our contract and manage it themselves, and then some of
+them would actually go and buy parts off of eBay because they
+were cheaper, but I would try to emphasize to them, there's a
+reason that part is on eBay is probably because it has been
+discontinued for security reasons.
+Can any of you that would like to comment on where we are,
+where we're going and if you feel that there is a need to have
+a standard set of standards for equipment, for upgrade, for
+maintenance, and operation with the smaller utilities as well
+as large.
+Mr. Gaines. Well, I'll speak as a large utility. I can't
+speak for a small utility. That would not be accurate for me to
+do.
+Mr. Loudermilk. You may be able to opine as far as how
+vulnerability of the small utilities affect the larger utility.
+Mr. Gaines. Well, I'll try to answer your question
+directly, though, regarding standards associated with
+equipment, software technologies. I think there certainly has
+to be some level of verification, validation of equipment. To
+the extent that you could create a universal standards for
+every type of equipment that sits inside of a network, I think
+it would be very difficult, and the question is, who would
+monitor and manage that. That is the challenge, and it ranges
+from software to hardware. I do think there are some validation
+points, though, that you can put in. Do you have--are you
+building software or are you building equipment--a method of
+configuring it so that it could be personal to the company
+versus a standard set of passwords that are set in a piece of
+software, as an example. Those are things that you could do to
+design into the technology. As it relates to the vulnerability
+between a small utility, municipal or not, we work together
+very well in the industry between our industry association,
+EEI, groups like EPRI who do research for us, and so I would
+tell you that there's very little distinction about what the
+expectations are on a small utility versus a large utility.
+Mr. Stacey. Thank you for the question. I'd offer this
+perspective. Right now, vendors are offering equipment with as
+much flexibility as they can, with as much functionality as
+they can. And that's adding to the complexity. If as a sector
+there was work done on how do I minimize the functionality to
+really what I need-- that the valve only opens and closes as
+fast as I need for an emergency response, and that sensors on
+the pipe managing flow only have the fidelity for managing the
+flow, as we reduce that complexity, initially that would cost
+more because you're asking for something that's different, but
+as an industry, as they worked on reducing the complexity and
+trying to find components that did the minimum functionality
+required to manage within an industrial control system, I think
+there'd be some benefits to that.
+Mr. Loudermilk. Is there currently a rating system or an
+evaluation that is used as far as how secure a utility is in
+their operation?
+Mr. Gaines. In terms of vendor equipment?
+Mr. Loudermilk. The whole footprint, the entire topology.
+Is there a method that some independent organization or the
+government can come in and evaluate and give some type of
+security rating?
+Mr. Gaines. Yes, there is. The CIPS, the Critical
+Infrastructure Protection Standards, are a set of standards
+that originated in 2005. We're on version 5 right now. And they
+baseline the transmission system and the security around that
+through those standards and then they are auditable. And to the
+extent there is remediation associated with those audits,
+they're managed accordingly. FERC administers those through
+NERC.
+Chairman Weber. Does the gentleman yield back?
+Mr. Loudermilk. I'm out of time, Mr. Chairman, so I will
+yield back the time I don't have remaining.
+Chairman Weber. All right. The gentleman yields.
+Mr. Johnson, you're recognized.
+Mr. Johnson. Thank you, Mr. Chairman, and I want to thank
+my colleagues on the Committee for allowing me to sit in on
+this today. It's an area of extreme interest and importance in
+my regard.
+I spent nearly 30 years as an information technology
+professional, part of that time, a large part of that time, in
+the Department of Defense being concerned about the security of
+data systems that support our special opreations folks and
+things like that. I feel very, very strongly that cybersecurity
+is an issue across the spectrum. It's getting a lot of talk but
+it's not getting a lot of focused attention to address the
+issue. It's an issue--and I don't know if the four of you agree
+or not. It's not something that's got a finish line. You know,
+this is not something that we're going to solve and then we're
+going to move on to the next big problem. As long as the world
+is connected with computing systems and networks, you're going
+to have those with the wherewithal, some of them because they
+can, some of them because they desire to create chaos with
+malicious or criminal intent are going to try to get into our
+networks and our energy systems and our power grids are one of
+those areas that would wreak havoc on America's economy, and I
+think we can all agree with that.
+Mr. Gaines, what in your mind does the integration of IT
+systems and supervisory control and data acquisition systems
+have in increasing the risk to grid operations?
+Mr. Gaines. First of all, Mr. Johnson, hello. It's good
+seeing you again.
+Mr. Johnson. Good to see you, sir.
+Mr. Gaines. Thank you.
+I would like to start out by saying I don't think it's if;
+it's when. The OT operational systems technologies and the IT
+technologies are merging and they go back to exactly what I
+suggested, that in a substation now, it looks like a small
+communications network. It's got a device in it that
+communicates with most of the assets, transformers, that
+determine the health and in fact the condition of those
+transformers. That's all communicated back to the SCADA system
+into the IT systems. Secondly, the IT systems are tied to our
+power grid and actually help us manage and monitor that from a
+generation perspective. I think the industry is moving to
+converge those, not necessarily manage them as you would manage
+them on the grid as an operator but manage that space so that
+one, they understand the health of it, they understand the
+reliability of it, and the impacts that cyber, specifically
+cyber, has on it.
+I go back to the Metcalf incident. There were three things
+that occurred within an hour: the cutting of a communication
+line, the actual assault on the location itself, and then the
+loss of load. Those all three were done within an hour, and
+they were in the space that if you would've had monitoring and
+the ability to alert and manage that, I wouldn't suggest that
+you could avoid but you could have mitigated some of the
+issues.
+Mr. Johnson. Can you talk specifically about what
+FirstEnergy is doing to mitigate this vulnerability?
+Mr. Gaines. Yes. We in fact have over the past 12 months
+built a security operations center, and we manage all three of
+those from one center, so I manage the operations and the
+health of those physical assets. We look at that from an IT
+perspective and overlay IT to that, and then I physically
+monitor the station through cameras, video and X-ray. And so I
+see that single pane--as we define it, I single that single
+pane of our critical assets, and that's not dispersed around
+the company. I don't have a physical security desk, I don't
+have an operating center, and I don't have a cyber center. I
+have one operations center that looks at that, and they're not
+looking at it on multiple systems; they're looking at it on one
+system. We are one of the first in the industry. We've worked
+with EPRI very hard so the industry gets it, and there's a lot
+of work being done there.
+Mr. Johnson. Okay. Well, thank you very much.
+I had other questions but I think I've exhausted my time.
+Thank you, Mr. Chairman, for your indulgence.
+Chairman Weber. The gentleman yields back.
+Well, I want to thank the witnesses for their valuable
+testimony and the Members for their questions. The record will
+remain open for two weeks for additional comments and written
+questions from Members.
+This meeting is adjourned.
+[Whereupon, at 11:40 a.m., the Subcommittees were
+adjourned.]
+
+Appendix I
+
+----------
+
+Answers to Post-Hearing Questions
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

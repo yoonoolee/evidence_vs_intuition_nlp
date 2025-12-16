@@ -1,0 +1,2254 @@
+- SOLARWINDS AND BEYOND: IMPROVING THE CYBERSECURITY OF SOFTWARE SUPPLY CHAINS
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+SOLARWINDS AND BEYOND:
+IMPROVING THE CYBERSECURITY
+OF SOFTWARE SUPPLY CHAINS
+
+=======================================================================
+
+JOINT HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON INVESTIGATIONS
+AND OVERSIGHT
+SUBCOMMITTEE ON RESEARCH AND TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON SCIENCE, SPACE,
+AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+MAY 25, 2021
+
+__________
+
+Serial No. 117-17
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+44-636PDF                 WASHINGTON : 2021
+
+-----------------------------------------------------------------------------------
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. EDDIE BERNICE JOHNSON, Texas, Chairwoman
+ZOE LOFGREN, California              FRANK LUCAS, Oklahoma,
+SUZANNE BONAMICI, Oregon                 Ranking Member
+AMI BERA, California                 MO BROOKS, Alabama
+HALEY STEVENS, Michigan,             BILL POSEY, Florida
+Vice Chair                       RANDY WEBER, Texas
+MIKIE SHERRILL, New Jersey           BRIAN BABIN, Texas
+JAMAAL BOWMAN, New York              ANTHONY GONZALEZ, Ohio
+BRAD SHERMAN, California             MICHAEL WALTZ, Florida
+ED PERLMUTTER, Colorado              JAMES R. BAIRD, Indiana
+JERRY McNERNEY, California           PETE SESSIONS, Texas
+PAUL TONKO, New York                 DANIEL WEBSTER, Florida
+BILL FOSTER, Illinois                MIKE GARCIA, California
+DONALD NORCROSS, New Jersey          STEPHANIE I. BICE, Oklahoma
+DON BEYER, Virginia                  YOUNG KIM, California
+CHARLIE CRIST, Florida               RANDY FEENSTRA, Iowa
+SEAN CASTEN, Illinois                JAKE LaTURNER, Kansas
+CONOR LAMB, Pennsylvania             CARLOS A. GIMENEZ, Florida
+DEBORAH ROSS, North Carolina         JAY OBERNOLTE, California
+GWEN MOORE, Wisconsin                PETER MEIJER, Michigan
+DAN KILDEE, Michigan                 VACANCY
+SUSAN WILD, Pennsylvania
+LIZZIE FLETCHER, Texas
+VACANCY
+------
+
+Subcommittee on Investigations and Oversight
+
+HON. BILL FOSTER, Illinois, Chairman
+ED PERLMUTTER, Colorado              JAY OBERNOLTE, California,
+AMI BERA, California                   Ranking Member
+GWEN MOORE, Wisconsin                PETE SESSIONS, Texas
+SEAN CASTEN, Illinois                VACANCY
+------
+
+Subcommittee on Research and Technology
+
+HON. HALEY STEVENS, Michigan, Chairwoman
+PAUL TONKO, New York                 MICHAEL WALTZ, Florida,
+GWEN MOORE, Wisconsin                    Ranking Member
+SUSAN WILD, Pennsylvania             ANTHONY GONZALEZ, Ohio
+BILL FOSTER, Illinois                JAMES R. BAIRD, Indiana
+DON BEYER, Virginia                  PETE SESSIONS, Texas
+CONOR LAMB, Pennsylvania             JAKE LaTURNER, Kansas
+DEBORAH ROSS, North Carolina         PETER MEIJER, Michigan
+
+C  O  N  T  E  N  T  S
+
+May 25, 2021
+
+Page
+
+Hearing Charter..................................................     2
+
+Opening Statements
+
+Statement by Representative Bill Foster, Chairman, Subcommittee
+on Investigations and Oversight, Committee on Science, Space,
+and Technology, U.S. House of Representatives..................     9
+Written Statement............................................    10
+
+Statement by Representative Jay Obernolte, Ranking Member,
+Subcommittee on Investigations and Oversight, Committee on
+Science, Space, and Technology, U.S. House of Representatives..    11
+Written Statement............................................    12
+
+Statement by Representative Haley Stevens, Chairwoman,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    13
+Written Statement............................................    14
+
+Statement by Representative Michael Waltz, Ranking Member,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    15
+Written Statement............................................    16
+Written statement by Representative Eddie Bernice Johnson,
+Chairwoman, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................    17
+
+Witnesses:
+
+Mr. Matthew Scholl, Chief, Computer Security Division of the
+Information Technology Laboratory, National Institute of
+Standards and Technology (NIST)
+Oral Statement...............................................    19
+Written Statement............................................    21
+
+Dr. Trey Herr, Director, Cyber Statecraft Initiative, Atlantic
+Council
+Oral Statement...............................................    30
+Written Statement............................................    32
+
+Ms. Katie Moussouris, Founder and CEO, Luta Security
+Oral Statement...............................................    40
+Written Statement............................................    42
+
+Mr. Vijay D'Souza, Director, Information Technology and
+Cybersecurity, Government Accountability Office (GAO)
+Oral Statement...............................................    54
+Written Statement............................................    56
+
+Discussion.......................................................    75
+
+Appendix: Answers to Post-Hearing Questions
+
+Dr. Trey Herr, Director, Cyber Statecraft Initiative, Atlantic
+Council........................................................    94
+
+SOLARWINDS AND BEYOND:
+IMPROVING THE CYBERSECURITY
+OF SOFTWARE SUPPLY CHAINS
+
+----------
+
+TUESDAY, MAY 25, 2021
+
+House of Representatives,
+Subcommittee on Investigations and Oversight,
+joint with the Subcommittee on Research
+and Technology
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittees met, pursuant to notice, at 2:03 p.m.,
+via Zoom, Hon. Bill Foster [Chairman of the Subcommittee on
+Investigations and Oversight] presiding.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. All right, this hearing will now come to
+order. And, without objection, the Chair is authorized to
+declare recess at any time. But before I deliver my opening
+remarks, I wanted to note the circumstances under which we're
+meeting today. Pursuant to House Resolution 8, the Subcommittee
+is meeting virtually. I have a couple of reminders for Members
+about the conduct of this remote hearing. First, Members should
+keep their video feed on as long as they are present at the
+hearing. Members are responsible for their own microphones. And
+please also keep your microphones muted unless you are
+speaking. And finally, if Members have documents that they wish
+to submit for the record, please e-mail them to the Committee
+Clerk, whose e-mail addresses was circulated prior to the
+hearing.
+Well, good afternoon, and welcome to our Members and
+panelists. Thank you for joining us for this important hearing
+on supply chain cybersecurity. We're focusing on the software
+supply chain today, and cybersecurity attacks throughout the
+software supply chain are especially insidious. A company can
+deploy a digitally signed software update from a trusted
+partner, but unless they are willing to do a complete
+cybersecurity analysis of that update, they are wide open to
+any significant breach of cyber hygiene in their trusted
+provider. So supply chain attacks are harder to detect, to
+prevent, and to remediate than traditional malware. And, once
+an adversary is in the system, they can deploy multiple types
+of attacks to maintain access and steal data. They run--might
+run amok on your system for a long time once they're in because
+the access came through a trusted partner, and can be
+reinstalled.
+In the case of SolarWinds, the Russian intelligence
+service embedded a back door in the company's Orion software in
+the fall of 2019, and customers were downloading that infected
+software by the spring. 18,000 organizations did this over the
+course of 2020, and not one of them realized that they had a
+company on their network--had company on their networks until
+FireEye detected the breach of their own systems and sounded
+the alarm in December. I want to thank FireEye for moving
+quickly to alert public officials to what it had discovered.
+This is a well-regarded cybersecurity company that was itself
+breached by a malicious actor. They might have worried about
+how news of the hack could affect the company's reputation, but
+they did the right thing anyway. And we are all aware of the
+fact that FireEye could have just as easily kept quiet to
+protect their reputation, because there is no requirement for
+private companies to disclose a cybersecurity breach to the
+Federal Government. If a reputable company--cybersecurity
+company like FiberEye--FireEye can be breached by an attack
+like this, any organization can. As we will hear from our
+Atlantic Council witness, Dr. Herr, the supply chain
+cyberattacks are ticking up. In fact, we've seen several
+alarming incidents reported even since the SolarWinds breach
+was disclosed in December.
+As a semi-separate item I have concerns about whether the
+Federal agencies are doing enough to enforce best practices to
+reduce their exposure to cyber risks, and whether they have
+systems in place to respond quickly enough to a significant
+breach. Last summer Microsoft discovered a serious
+vulnerability called Zerologon that made it possible for the
+hackers to impersonate any computer on the network, including
+the system designed to identify and authenticate trusted people
+on the network. And I have to say that when I read the
+technical description of that flaw, I found that its existence
+in such a crucial piece of software, and the simplicity of the
+attack, sort of breathtaking. This was very different than,
+say, the technical details of the Meltdown and Spectre flaws of
+a couple of years back, when I was, frankly, blown away by
+their sophistication and complexity. It's clear to me that we
+need some mechanism to put more eyes on such commonly used and
+critical software. But the Federal issue here is that Microsoft
+issued the first of two patches on August 11 of last year, and
+by late September some Federal agencies still had failed to
+update their systems. The DHS (Department of Homeland Security)
+Cybersecurity Office, CISA (Cybersecurity and Infrastructure
+Security Agency), had to issue an emergency order to force
+agencies to patch or disable affected Windows servers.
+Meanwhile, it was discovered that the breach was already being
+exploited in the wild by at least Iranian and Russian hackers.
+Malicious actors with a creative flair for exploiting
+technology are working every day to put Americans at risk, but
+engineers at NIST (National Institute of Standards and
+Technology) and other Federal agencies are innovating too.
+President Biden has recently released an Executive order (EO)
+on improving Federal cybersecurity that calls on agencies to
+take bold actions to address the challenge of software supply
+chain security and other items. I look forward to hearing today
+about the likely effectiveness of this Executive order, and how
+Federal science--the Federal science apparatus can do more to
+help understand the threat, and help private and public sectors
+mitigate that risk.
+And, finally, as the only Ph.D. physicist, though not the
+only Ph.D. scientist on this Committee and in Congress, and
+also an integrated circuit designer, I have to say how glad I
+am to be able to partner with Ranking Member Obernolte on this
+important matter. I believe he's the first and only Member of
+Congress with an advanced degree in artificial intelligence,
+and I'll ask him to put his Caltech electrical engineering and
+information technology executive pants back on today to help us
+get near the heart of this matter. I thank him and his staff
+for their partnership, and I yield to him for an opening
+statement.
+[The prepared statement of Chairman Foster follows:]
+
+Good morning, and welcome to our members and panelists.
+Thank you for joining us for this important hearing on supply
+chain cybersecurity. We're focusing on the software supply
+chain today. And cybersecurity attacks through the software
+supply chain are a special kind of insidious. Supply chain
+attacks are harder to detect, to prevent, and to remediate than
+traditional malware.
+And once an adversary is in the system, they can deploy
+multiple types of attacks to maintain access and steal data.
+They might run amok on your system for a long time once they're
+in, because their access came through a trusted partner. In the
+case of SolarWinds, the Russian intelligence service embedded a
+backdoor in the company's Orion software in the fall of 2019.
+Customers were downloading the infected software by the spring.
+18,000 organizations did this over the course of 2020. And not
+one of them realized that they had company on their networks
+until FireEye detected the breach on their own systems and
+sounded the alarm in December.
+I want to thank FireEye for moving quickly to alert public
+officials to what it had discovered. This is an esteemed
+cybersecurity company that was itself breached by a malicious
+actor. They might have worried about how news of the hack could
+affect the company's reputation, but did the right thing
+anyway. And we have since woken up to the fact that FireEye
+could have just as easily kept quiet, because there is no
+requirement for private companies to disclose a cybersecurity
+breach to the Federal government.
+If a reputable cybersecurity company like FireEye can be
+breached by an attack like this, any organization can. And as
+we will hear from our Atlantic Council witness, Dr. Herr,
+supply chain cyber attacks are ticking up. In fact, we've seen
+several alarming incidents reported even since the SolarWinds
+breach was discovered in December.
+And I have concerns about whether Federal agencies are
+doing enough to reduce their exposure to cyber risks, and
+whether they have systems in place to respond quickly to a
+breach. Last summer, Microsoft discovered a serious
+vulnerability called Zerologon that made it possible for the
+hackers to impersonate any computer on a network, including the
+system designed to identify and authenticate trusted people on
+the network. Microsoft issued the first of two patches on
+August 11. But by late September, some Federal agencies had
+still failed to update their systems. The DHS Cybersecurity
+office, CISA, had to issue an emergency order to force agencies
+to patch or disable affected Windows servers. Meanwhile, it was
+discovered that the breach was already being exploited in the
+wild by Iranian and Russian hackers.
+Malicious actors with a creative flair for exploiting
+technology are working every day to put Americans at risk. But
+the engineers at NIST and other Federal agencies are
+innovating, too. President Biden has released an Executive
+Order on improving Federal cybersecurity that calls on agencies
+to take bold actions to address the challenge of software
+supply chain security. I look forward to hearing today about
+how the Federal science apparatus can do more to understand the
+threat and help the private and public sectors mitigate their
+risk.
+I'm also glad to partner with Ranking Member Obernolte on
+this important matter. I believe he is the first and only
+Member of Congress with an advanced degree in artificial
+intelligence. I'll ask him to put his technology executive hat
+back on today to help us get to the heart of the matter. I
+thank him and his staff for their partnership, and I yield for
+his opening statement.
+
+Mr. Obernolte. Well, thank you very much, Chairman Foster,
+and thank you for holding this hearing on an extremely
+important topic. I found the GAO (Government Accountability
+Office) report on supply chain risk management (SCRM) from
+December to be truly alarming. And the thing that stood out to
+me about that report was the finding that, of the organizations
+the GAO looked at, they identified core supply chain risk
+management best practices, and then went through 23 different
+agencies looking at how many of those best practices were being
+implemented, and this is what stood out to me. For over half of
+the organizations, none of the best practices were being
+implemented. So, to me, that points to a failure of governance,
+and I think that we are at an important position here, to build
+on the Executive order, and to call attention to this problem,
+and this hearing is a critical part of doing that. So, for
+myself, what I'm hoping to get out of this hearing is the
+answer to three different questions, one of which is why isn't
+the guidance being followed, the second of which is how can the
+guidance be easier to implement, and the third of which is how
+does the guidance need to change to meet these emerging
+threats? And I think recent events have shown just how
+vulnerable our supply chain can be.
+I think as we conduct this hearing we're going to find
+that our organizations fall into three different categories. We
+have organizations that are Federal agencies, we have
+organizations that Federal agencies contract with, and then we
+have organizations that are private industry organizations, but
+still have a significant impact on our supply chain, and I
+think that those organizations also need to be included in this
+discussion. That Colonial Pipeline incident over the last
+couple of weeks I think really graphically illustrates just how
+big those risks are.
+And, in closing, I want to point out that if the outcome
+of this whole process is just another PDF or another
+spreadsheet, I think we will have failed, because that's not
+going to make the change that we need to make. I really think
+we're going to have to take a more active approach in
+highlighting what the vulnerabilities are, you know, and at
+helping organizations evaluate for themselves which of those
+best practices and guidance are being followed, and which are
+not. And I'm hopeful that we can do that in a way that really
+doesn't resemble overregulation, but is really government being
+helpful. So, again, thank you very much, Chairman Foster, and
+I'm looking forward to hearing from our witnesses. I yield
+back.
+[The prepared statement of Mr. Obernolte follows:]
+
+Thank you, Chairman Foster and Chairwoman Stevens, for
+holding today's hearing on improving the cybersecurity of
+software supply chains. And thank you to the panel of expert
+witnesses for taking time to help educate us on this very
+timely and important topic.
+Recent cyber incidents like SolarWinds, Microsoft Exchange,
+and Colonial Pipeline have thrust the issue of cybersecurity
+into the limelight. The most notorious and perhaps the most
+pernicious of these incidents is SolarWinds - a software supply
+chain attack that impacted roughly 100 organizations and at
+least 9 Federal agencies.
+Although analysis and investigation into this incident is
+ongoing, the details that have emerged thus far paint a
+troubling picture for the state of Federal cybersecurity.
+Advanced cyber actors infiltrated SolarWinds' build
+environment, surreptitiously implanted malicious code into a an
+otherwise valid software update, and then waited for that
+update to be downloaded. Ultimately, the actors responsible for
+this software supply chain attack abused the trusted
+relationship that SolarWinds had with its customers--including
+federal entities-by compromising the software update with a
+``backdoor'' that could be leveraged against the actors'
+intended targets, like the 9 federal agencies impacted by this
+incident. The update was then made available for download by
+SolarWinds' customers, with no indication to them that the
+update had been tainted by cyber adversaries.
+The amount of time that this actor was able to lie dormant,
+undetected in federal networks is particularly concerning - it
+took almost two years before Federal agencies discovered the
+intrusion. And only then with the help of the cybersecurity
+firm FireEye. The SolarWinds incident makes clear that the
+Federal government must do more to secure its software supply
+chains.
+In December 2020, GAO published a report based on its
+investigation into federal agency implementation of Information
+and Communications Technology (ICT) Supply Chain Risk
+Management (SCRM) foundational practices. The findings are
+disturbing.
+GAO found that none of the federal agencies it reviewed had
+fully implemented foundational practices for ICT SCRM, and that
+roughly 60% of the agencies reviewed had not implemented any of
+the foundational ICT SCRM practices. This is unacceptable.
+In May, the Biden Administration signed Executive Order
+14028 on improving the nation's cybersecurity. The EO, among
+other things, tasks NIST with identifying existing or
+developing new guidance to help improve the security of
+software supply chains.
+While this is a step in the right direction, proper
+implementation is critical to its success. For example, NIST
+has several products to inform Federal agency ICT SCRM
+practices. In fact, the GAO report I referenced earlier derived
+its seven foundational ICT SCRM practices from NIST guidance.
+Nevertheless, the reason most frequently cited by agencies for
+their failure to implement identified practices was a lack of
+clear Federal guidance. Without proper implementation by
+Federal agencies, more guidance, best practices, and other
+resources will be useless.
+To that end, we need to find a better way to conduct
+oversight of agencies' implementation of this guidance, and
+agencies must be more accountable for their responsibilities
+under FISMA to secure the information and systems for which
+they are responsible.
+I look forward to learning more from our witnesses today
+about how we can get agencies the implementable guidance that
+they need to shore up the security of their software supply
+chains, and the resources needed to see implementation is
+carried out across the board.
+Thank you to our panelists for being here today. And thank
+you again to Chairman Foster and Chairwoman Stevens for holding
+this important hearing. I yield back the balance of my time.
+
+Chairman Foster. Thank you. And the Chair will now
+recognize Ms. Stevens for an opening statement.
+Ms. Stevens. Yeah. Thank you so much, Congressman and Dr.
+Foster. Thank you to you and Congressman Obernolte for holding
+today's hearing, and I'm pleased to give opening remarks on
+behalf of the Research and Technology Subcommittee that has
+direct oversight of the National Institute of Standards and
+Technology, which we're certainly going to be talking about
+today, as it relates to our supply chain vulnerability,
+something that we know very well here in Michigan. It's very
+real. Right across from me is a poster from the Michigan
+Manufacturing Technology Center, our NIST MEP (Manufacturing
+Extension Partnership) Center, located just a few short miles
+from where I sit right now, on our Cybersecurity and Industry
+4.0 Imperative. So it's--is clear that this hearing is coming
+at a critical and an auspicious time.
+President Biden's recent Executive order improving the
+Nation's cybersecurity represents what I hope to be a sea
+change in how the Federal Government approaches cybersecurity,
+from modernizing Federal IT systems, to strengthening how the
+government responds to cyber threats from our adversaries. The
+Executive order also focuses heavily on software supply chain
+issues, which is the topic of this hearing. It--the Executive
+order seeks to help software developers identify
+vulnerabilities before they release their software, and helps
+consumers better understand the security, and certainly the
+best practices, that are going to be a huge part of setting the
+standards and level setting industries of scale here.
+It should not be a surprise that, you know, we're ready to
+lean in on the NIST component and have NIST represented here on
+this panel to talk about their leadership in cybersecurity. I
+was bragging about NIST cybersecurity initiatives earlier
+today. NIST has played a huge role in the implementation of the
+Executive order I just referenced. The agency is going to
+develop a broad set of standards for the security of the supply
+chain within 90 days. Within 60 days the agency is also going
+to identify and define what constitutes as critical software,
+and create special standards to protect it. Also within 60
+days, NIST will develop standards so that software developers
+can test their source code.
+This is something Dr. Baird and I explored and sat down
+together on in the--in a meeting. It wasn't a hearing, it was a
+meeting, last legislative session of Congress. These are
+certainly aggressive timelines, and I only mentioned some of
+the things that NIST is going to be doing, but it's, again,
+just a reminder of the important and critical role they play
+that is highly respected in incorporating input from private
+and public sector partners to develop effective cybersecurity
+standards. This work is certainly going to take time and
+resources, no doubt about that. NIST's entire cybersecurity and
+privacy portfolio was funded at only $78 million in the last
+year's budget, and, you know, we think about the economic
+ramifications of cybersecurity attacks, those bills tally up to
+that number, you know, it--within seconds should there be a
+cybersecurity attack, so I do worry that we are increasingly
+asking NIST experts to do exponentially more work more quickly,
+without necessarily the adequate resources.
+We've referenced and talked about the GAO. They have found
+that Federal agencies are not adopting the guidelines already
+on the books to deal with software supply chain threats. We're
+certainly seeing this across industries. I've had these
+conversations here in Michigan, particularly in our
+manufacturing sectors, automotive, defense, aerospace.
+Additional guidance is maybe going to be necessary, but we also
+must ensure agencies prioritize the implementation of the
+guidance that already exists, and provides adequate resources
+for them to do so. Congress, and the Biden Administration, must
+and will think creatively about modernizing the Federal
+Government's approach to cybersecurity. I welcome the
+recommendations of this expert panel on how we can ensure that
+cybersecurity guidance is developed as part of the Executive
+order that is operational, effective, and relatively easy to
+adopt. I want to thank our witnesses again, as well as our
+other Subcommittee Chair, for helping us tackle these issues,
+and with that, I yield back.
+[The prepared statement of Chairwoman Stevens follows:]
+
+Good morning and welcome to this joint hearing of the
+Subcommittee on Research and Technology and the Subcommittee on
+Investigations and Oversight. I would like to thank my esteemed
+colleagues, Chairman Foster and Ranking Member Obernolte, for
+leading this joint hearing. As the SolarWinds incident
+revealed, software supply chain issues are a threat to our
+Federal agencies and businesses across the country, including
+my district in Michigan.
+This hearing comes at an auspicious time. President Biden's
+recent Executive Order ``Improving the Nation's Cybersecurity''
+represents what I hope to be a sea change in how the Federal
+government approaches cybersecurity, from modernizing Federal
+IT systems to strengthening how the government responds to
+cyber threats from our adversaries.
+The Executive Order focuses heavily on software supply
+chain issues, the topic of this hearing. It seeks to help
+software developers identity vulnerabilities before they
+release their software and help consumers better understand the
+security of the products they buy.
+It should not be a surprise that I am excited to have NIST
+represented on this panel to talk about their leadership in
+cybersecurity standards and best practices.
+NIST has a big role to play in the implementation of the
+Executive Order. The agency must develop broad standards for
+the security of the software supply chain within 90 days.
+Within 60 days, the agency must also identify and define what
+constitutes ``critical software'' and create special standards
+to protect it. Also within 60 days, NIST must develop standards
+so that software developers can test their source code. These
+timelines are aggressive, and I only mentioned some of the
+things that NIST is being asked to do.
+NIST is highly respected for its role in incorporating
+input from its private and public sector partners to develop
+effective cybersecurity standards. But this work takes time and
+resources. NIST's entire cybersecurity and privacy portfolio
+was funded at only $78 million in last year's budget. I worry
+that we are increasingly asking NIST's experts to do
+exponentially more work, more quickly, with inadequate
+resources.
+Moreover, GAO has found that Federal agencies are not
+adopting the guidance already on the books to deal with
+software supply chain threats. Additional guidance may be
+necessary, but we must also ensure agencies prioritize
+implementation of the guidance that already exists, and provide
+adequate resources for them to do so.
+Congress and the Biden Administration must think creatively
+about modernizing the Federal government's approach to
+cybersecurity. I welcome the recommendations of this expert
+panel on how we can ensure that cybersecurity guidance
+developed as part of the Executive Order is operational,
+effective, and relatively easy to adopt.
+I want to again thank the witnesses for being here today to
+help us tackle these challenging issues. I yield back.
+
+Chairman Foster. Thank you. And the chair will now
+recognize Mr. Waltz for an opening statement.
+Mr. Waltz. Hey, thank you. Thank you, Chairman Foster, and
+Chairwoman Stevens, for holding this joint hearing. I also want
+to thank our panel of witnesses for their participation, and I
+am looking forward to hearing their testimony today. And I hope
+we will all be able to use this opportunity to learn more about
+software supply chain attacks, impacts on Federal agencies, and
+I share everyone's sentiments on how to improve our Nation's
+software supply chain security.
+So--the Committee on Science, Space, and Technology has
+held several hearings over the years. Some of them have been
+mentioned, on bolstering the Federal Government's cybersecurity
+posture. I'm pleased to see that this Committee is playing such
+an active role in that posture. Obviously the recent
+SolarWinds, Microsoft Exchange, Colonial Pipeline incidents
+make it clear that the United States is being continuously
+targeted with malicious cyberattacks. When I was in business,
+there was the saying, those that have been attacked, and those
+that don't know they've been attacked, by various criminal
+actors and nation-states.
+So, unfortunately, these attacks were not the first. They
+won't be the last. I share the Chairwoman's focus on NIST as
+the primary Federal agency responsible for setting standards
+and guidelines for Federal agencies, and providing voluntary
+best practices for private industry. It's worth noting that in
+2014 NIST published a voluntary risk-based cybersecurity
+framework with a set of industry standards and best practices
+to help organizations manage these risks. NIST also established
+guidance specifically related to supply chain security,
+including the Cyber Supply Chain Risk Management, the CSRM
+Framework, and the Secure Software Development Framework, to
+help identify, assess, and mitigate these risks.
+On May of this year, as Chairwoman Stevens mentioned, the
+president issued his EO on improving the Nation's
+cybersecurity, entrust multiple Federal agencies, including
+NIST, with strengthening the security of software supply chain.
+I think it's worth noting Section Four of the EO directs the
+Secretary of Commerce, through NIST, to consult with Federal
+agencies, private sector, academia, all of the stakeholders, to
+identify or develop standards, tools, best practices, and other
+guidelines to enhance our supply chain security. And, based on
+my experience, 25 years now in the National Guard, I would
+encourage NIST, and would love to see them consult with the
+cyber talent within the Guard and the Reserve in executing
+Section Four of the EO. The Guard and the Reserve really does
+retain elite cyber talent from Silicon Valley, the private
+sector, as well as the Pentagon, and truly can serve as a
+bridge between the private sector and Federal Government with
+their various authorities. I think the EO is a good starting
+point for addressing these vulnerabilities in our Nation's
+software supply chain, but obviously we have a long way to go,
+a lot more work to do.
+As has been mentioned, the recent GAO report, it really is
+alarming, and assessing that Federal information and
+communication supply chain risk management practices, and the
+findings that none of the Federal agencies reviewed had
+implemented the recommended practices. 60 percent of these
+agencies had not implemented any of the practices. I'm sorry,
+none have fully implemented those practices. And, as a result,
+GAO identifies 145 recommendations for agencies to fully
+implement foundational practices in their approach to ICT
+(information and communications technology) SCRM.
+Moving forward, I do think we need to provide agencies
+with the resources, and push them, frankly, to move more
+quickly to close the gap between these recommendations and
+implementations of foundational practices. Cyber frameworks are
+otherwise useless, frankly, unless proper fundings were
+available to fully implement them. Additionally, the National
+Science Foundation's Cyber Corps, Scholarship for Service
+Program, should receive consideration by the Committee for
+enhancing the Federal Government's cybersecurity workforce.
+Time truly is of the essence here. It's imperative that we
+modernize these defenses and get ahead of our adversaries. We
+cannot afford to continue to allow foreign adversaries, and
+criminals, often working together, witting and unwitting, to
+take advantages of our weaknesses in software supply chains. I
+think we've seen in recent days that the consequences truly can
+be catastrophic and detrimental to the economic and national
+security of the United States. Thank you, Mr. Chairman. I yield
+back.
+[The prepared statement of Mr. Waltz follows:]
+
+Thank you, Chairman Foster and Chairwoman Stevens for
+holding today's joint subcommittee hearing.
+I also want to thank our distinguished panel of witnesses
+for their participation today. I am looking forward to hearing
+your expert testimony. I hope we will use this opportunity to
+learn more about software supply chain attacks and their
+impacts on federal agencies and examine how to improve our
+nation's software supply chain security. The Committee on
+Science, Space, and Technology has held several hearings over
+the years on bolstering the federal government's cybersecurity,
+and I am pleased to see that the Committee is still playing an
+active role in enhancing our nation's cybersecurity posture.
+The recent SolarWinds, Microsoft Exchange, and Colonial
+Pipeline incidents make it clear that the United States is
+continuously being targeted with malicious cyber-attacks by
+nation-states and criminal actors. China, Russia, Iran, and
+other malign actors are focusing on cyber capabilities.
+Unfortunately, these attacks are not the first, and certainly
+will not be the last of their kind.
+The National Institute of Standards and Technology (NIST)
+is the primary federal agency responsible for setting standards
+and guidelines for federal agencies and provides voluntary best
+practices for private industry. In 2014, NIST published a
+voluntary risk-based Cybersecurity Framework with a set of
+industry standards and best practices to help organizations
+manage cybersecurity risks. Additionally, NIST has established
+guidance specifically related to supply chain security,
+including the Cyber Supply Chain Risk Management (C-SCRM)
+framework and the Secure Software Development Framework (SSDF)
+to help identify, assess, and mitigate supply chain risks.
+On May 12, 2021, the President issued an Executive Order
+(EO) on Improving the Nation's Cybersecurity, which entrusts
+multiple federal agencies, including NIST, with strengthening
+the security of the software supply chain. Section 4 of the EO
+directs the Secretary of Commerce, through NIST, to consult
+with federal agencies, the private sector, academia, and other
+stakeholders and to identify or develop standards, tools, best
+practices, and other guidelines to enhance software supply
+chain security.
+Based on my experience in the National Guard, I would like
+to see NIST consult with the cyber talent within the Guard when
+executing Section 4 of the EO. The National Guard and Reserve
+retains elite cyber talent from both Silicon Valley and the
+Pentagon and can effectively serve as a bridge between the
+private sector and federal government.
+This EO is a good starting point for addressing
+vulnerabilities in our nation's software supply chain, but
+there is more work to be done.
+A recent Government Accountability Office (GAO) report
+assessed federal information and communications (ICT) supply
+chain risk management (SCRM) practices and the findings are
+alarming. None of the federal agencies reviewed had fully
+implemented the SCRM practices, and approximately 60 percent of
+these agencies had not implemented any of the practices. As a
+result, GAO identifies 145 recommendations for agencies to
+fully implement foundational practices in their approach to ICT
+SCRM.
+Moving forward, we must work diligently to provide agencies
+with the resources to move swiftly to close the gap between
+recommendations and implementation of foundational practices.
+Cybersecurity frameworks are otherwise useless unless proper
+funding and support are available to fully implement them.
+Additionally, NSF's CyberCorps: Scholarship for Service
+program should receive consideration by the committee for
+enhancing the federal government's cybersecurity workforce.
+Time is of the essence, and it is imperative that
+modernized cyber defenses are implemented to get ahead of the
+next cyber-attack from China, Russia, Iran and other
+adversaries. We cannot afford to let foreign adversaries and
+cyber criminals take advantage of weaknesses in software supply
+chains as the consequences can be detrimental to the national
+and economic security of the United States.
+Thank you, and I yield back.
+
+Chairman Foster. Thank you. And if there are any other
+Members who wish to submit additional opening statements, your
+statements will be added to the record at this point.
+[The prepared statement of Chairwoman Johnson follows:]
+
+Good afternoon to our witnesses and thank you for joining
+us here today.
+Securing Federal government systems from cyberattack is an
+evolving challenge. We have repeatedly seen the importance of
+getting it right, and the painful consequences of getting it
+wrong. As SolarWinds and other recent attacks have shown, the
+software supply chain is especially challenging to protect. We
+must ensure that the Federal Government is coordinating
+effectively to secure our IT systems.
+Jurisdiction over cybersecurity is widely shared across
+Congressional committees and Federal agencies. I want to affirm
+the Science Committee's role on cybersecurity matters. The
+scope of jurisdiction for authorizing committees in the
+technology space was last changed significantly in 2002. That's
+when Congress created the House Homeland Security Committee and
+the Department of Homeland Security in response to 9/11.
+That same year, Congress passed the Federal Information
+Security Management Act, or FISMA. FISMA was updated in 2014
+and became the Federal Information Security Modernization Act.
+FISMA called on Federal agencies to develop information
+security programs to protect themselves. The Science Committee
+focus is on developing tools for prevention. Specifically, we
+are responsible for directing and overseeing the National
+Institute of Standards and Technology's role in cybersecurity.
+Under FISMA, NIST creates cybersecurity standards and guidance
+for the government. The Science Committee is one of the three
+House Committees that receives cyber incident reports under
+FISMA.
+It's hard to comprehend how much the cybersecurity
+landscape has changed since 2002. The threats that Federal
+agencies and the private sector face today are sophisticated
+and relentless. Recent attacks have shown that existing
+oversight mechanisms are not enough. After the SolarWinds
+attack was revealed, information was slow to emerge. Briefings
+and reports to Congress were unpredictable in their timing and
+their content. Federal agencies reported that they were not
+able to share information with other agencies. Determinations
+of whether the incident was reportable to Congress or not were
+based on a one-size-fits-all form. I worry we are not capturing
+the full extent of the potential harm from attacks on our
+Federal systems.
+We must do better, both in mitigating attacks after they
+happen and in preventing them in the first place.
+This has been and will continue to be a bipartisan concern
+on this Committee. I look forward to continuing to work with
+Ranking Member Lucas and our colleagues on the Committee to
+reinforce NIST's role in cybersecurity.
+There is simply so much work to be done on cybersecurity--
+both for policymakers and for practitioners in the field. I am
+glad that the witnesses here today offer a wide range of
+expertise to help us chart our next steps.
+Thank you, and I yield back.
+
+Chairman Foster. And at this time I'd like to introduce
+our witnesses. Our first witness is Mr. Matthew Scholl. Mr.
+Scholl is the Chief of the Computer Security Division of the
+Information Technology Laboratory at NIST. He--his research
+program cultivates trust in information technology through
+standards and measurements, and by testing the
+interoperability, security, and reliability of cybersecurity
+systems. The guidance produced by his program is widely used by
+Federal agencies and U.S. industry. He also co-leads NIST's
+participation with cybersecurity national and international
+standards development organizations.
+After Mr. Scholl is Dr. Trey Herr. Dr. Herr is the
+Director of the Cyber Statecraft Initiative at the Atlantic
+Council. His team works on a range of cybersecurity issues,
+including cloud computing, the security of the internet, supply
+chain policy, and growing a more capable cybersecurity policy
+workforce. Previously he was a Senior Security Strategist at
+Microsoft, working on cloud computing and the supply chain--and
+supply chain security policy. Dr. Herr also served as a fellow
+at the Belfer Cyber Security Project at Harvard's Kennedy
+School, and a non-resident fellow with the Hoover Institution
+at Stanford University.
+Our third witness is Ms. Katie Moussouris. Ms. Moussouris
+is Founder and CEO (chief executive officer) of the
+cybersecurity company Luta Security. She led the launch of the
+first bug bounty programs at both Microsoft and the Department
+of Defense, and has also helped start Microsoft's Supply Chain
+Vulnerability Program. She is a co-author of documentation on
+vulnerability disclosure and vulnerability handling processes
+for the International Organization for Standardization (ISO).
+Ms. Moussouris is a visiting scholar with the MIT
+(Massachusetts Institute of Technology) Sloan School, a Harvard
+Belfer affiliate, and advisor to the Center for Democracy and
+Technology.
+Our final witness is Mr. Vijay D'Souza. Mr. D'Souza is the
+Director of the--Information Technology and Cybersecurity at
+the GAO, where he leads a diverse set of evaluations and--on
+government cybersecurity and IT issues. His current work
+focuses on the SolarWinds breach, use of the NIST cybersecurity
+framework, and IT modernization efforts at USDA (United States
+Department of Agriculture). Mr. D'Souza also leads GAO's Center
+for Enhanced Cybersecurity, which provides advanced technical
+support for GAO's Cybersecurity Office.
+And, as our witnesses should know, each of you have five
+minutes for your spoken testimony. Your written testimony will
+be included in the record for the hearing, and when you've all
+completed your spoken testimony, we will begin with questions.
+Each Member will have five minutes to question the panel. And I
+will also mention that at the end of our hearing here, after I
+gavel it closed, any of our witnesses and Members who wish are
+welcome to sort of hang around and talk informally, which is
+often a very valuable part of hearings that we do informally at
+the end when we're meeting in the non-virtual world. And we
+will start now with Mr. Scholl. You are now recognized for five
+minutes.
+
+TESTIMONY OF MR. MATTHEW SCHOLL,
+
+CHIEF, COMPUTER SECURITY DIVISION
+
+OF THE INFORMATION TECHNOLOGY LABORATORY,
+
+NATIONAL INSTITUTE OF STANDARDS
+
+AND TECHNOLOGY (NIST)
+
+Mr. Scholl. Thank you. Chairwoman Stevens, Ranking Member
+Waltz, Chairman Foster, Ranking Member Obernolte, and Members
+of the Subcommittee, I am Matt Scholl, the Chief of the
+Computer Security Division at the National Institute of
+Standards and Technology, known as NIST. Thank you for the
+opportunity to testify today on improving the cybersecurity of
+software supply chains. NIST has nearly a 50-year history
+working in cybersecurity. Most recently, threat activity has
+highlighted the IT supply chain as a major cybersecurity
+vulnerability. Cybersecurity risks associated with extended
+supply chains and supply ecosystems are significant, and the
+scope of these risks must be understood by companies and
+organizations as they continue to expand their use of digital
+technologies.
+To address the ever-challenging issues related to this
+cybersecurity risk, on May 12 President Biden signed Executive
+Order 14028 to improve the Nation's cybersecurity and to
+protect Federal Government networks. Recent cybersecurity
+incidents, such as the SolarWinds type of incident we are
+discussing here, are a sobering reminder that U.S. public and
+private sector entities face increasingly sophisticated
+malicious cyber activity from both nation-state actors, as well
+as cyber criminals. NIST's role in this Executive order will be
+to develop standards, tools, best practices, references, and
+other key guidance for use by any organization to enhance their
+software supply chain security.
+Specifically, NIST will address identifying and securing
+critical software. We will identify secure software development
+life cycles and practices for securing development
+environments. We will also identify security measures for the
+Federal Government in using critical software, and requirements
+for testing software. In addition, NIST will initiate two pilot
+labeling programs to assist consumers in understanding the
+security properties in products that we all use. NIST will
+respond to these responsibilities in ways that are effective in
+reducing risks to our supply chain, while also continuing to
+facilitate the innovation and economic growth that a secure
+software ecosystem can provide.
+NIST's arsenal in the defense against cyberattacks is
+large and growing. NIST is responsible for developing reliable
+and practical standards, guidelines tests, and metrics to help
+organizations with their cyber supply chain risk management.
+The public and private sector can use these NIST resources to
+create and conduct their cyber supply chain risk management
+programs. NIST also continues to work directly with Federal
+agencies through practice guides, tools, models, best
+practices, quora, as well as membership on the Federal
+Acquisition Security Council (FASC).
+NIST provides a series of documentary guidance, data
+reference, tools, and testing as part of its program to
+specifically work on improving the efficiency, reliability, and
+security of software. Two specific examples of resources that
+NIST provides are the National Vulnerability Database and the
+National Software Reference Library. The National Vulnerability
+Database is a repository of all known and publicly reported IT
+vulnerabilities, and is the authoritative source for
+standardized information on security, vulnerabilities which
+NIST updates daily. The National Software Reference Library
+creates unique digital signatures of software so that any
+organization can efficiently search for that software, and
+determine if and where it might be deployed within its
+ecosystems. Another critical resource at NIST is the National
+Cybersecurity Center of Excellence. This collaborative hub is a
+place where industry organizations, government agencies, and
+academic institutions work together to address business's most
+pressing cybersecurity issues. We produce practical
+cybersecurity solutions that benefit large and small businesses
+and third-party service providers alike.
+In conclusion, NIST is proud of its role in establishing
+and improving cybersecurity solutions, as well as our
+longstanding and robust collaborations with our Federal
+Government partners, private sector collaborators, and
+international colleagues. NIST has continued to be committed to
+apply its expertise and help to solve the critical
+cybersecurity issues that face our Nation now, as well as in
+the future. I thank you for the opportunity to testify today,
+and I will be pleased to answer any questions that you might
+have.
+[The prepared statement of Mr. Scholl follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Perlmutter. Bill, you need to unmute.
+Chairman Foster. Did--who did that to me? OK. Next is Dr.
+Herr.
+
+TESTIMONY OF DR. TREY HERR, DIRECTOR,
+
+CYBER STATECRAFT INITIATIVE, ATLANTIC COUNCIL
+
+Dr. Herr. Chairman Foster, Ranking Member Obernolte,
+Chairwoman Stevens, and Ranking Member Waltz, and the Members
+and staff of the Subcommittees, thank you for the invitation to
+speak today. My name is Trey Herr, and I run the Cyber
+Statecraft Initiative at the Atlantic Council, a non-partisan
+think tank based here in D.C. For the past 2 years my team and
+I have been looking at the security of software supply chains
+and cataloguing a range of attacks against them. We're here in
+no small part because of the revelations about the Sunburst and
+SolarWinds campaign. The scale of this event, and its impact on
+the cybersecurity policies of a new administration, have
+received widespread appreciation, and this attention is duly
+warranted. But even in the crises of the past few months, there
+were remarkable echoes of the past decade. Software supply
+chain attacks are not new, and they're becoming more visible
+and more consequential by the day.
+Over the past 10 years there have been more than 140
+attacks or disclosures of vulnerabilities fit to be used in
+such an attack against software supply chains. Of these, at
+least 30 had been positively attributed to governments around
+the world. Within just a few months of the public discovery of
+the Sunburst SolarWinds campaign, cybersecurity vendors
+reported three different state-backed software supply chain
+attacks targeting governments and high-profile companies in
+South Korea, Mongolia, and Vietnam. Where the most recent
+crisis impacted hundreds of organizations, and perhaps tens of
+thousands of users, software supply chain attacks have been
+used to target millions of users at once.
+Software has spread to every corner of the human
+experience. Our watches have internet connections. Combat
+aircraft come with more code than many operating systems, and
+embedded software controls the operation of everything from
+medical hardware to our brake pedals. With this software comes
+security flaws, and a long chain of updates from vendors and
+developers. This ongoing relationship between those that build
+code and those who use it creates a need for trust, trust that
+the update you're about apply is genuine and benign. Software
+supply chain attacks take advantage of and break this trust.
+The responsibility for the insecurity of these software supply
+chains lies at home more than with foreign adversaries. I'm
+encouraged by the proposals contained in the President's recent
+Executive order. We can demand more of our vendors, and of
+ourselves, while learning from the lessons of Sunburst, and a
+decade of software supply chain attacks.
+In the final analysis it would be a mistake to equate
+software supply chain attacks to a new weapons system in an
+opponent's arsenal. These attacks are a manifestation of
+opportunity, pursuing targets, compromising weaknesses and the
+tools and code we depend on, and which we even take for
+granted. Trust in software supply chain security is not built,
+nor is it broken, in isolation. There are opportunities for
+meaningful progress, and this can play an important role to
+better protect the code we have embedded in our daily lives
+with appropriate investment, and greater focus on cloud
+security, automatable guidance, and secure software deployment,
+not just development.
+I commend the Committee for the time and effort taken to
+prepare today's hearing. Recent events show us it is an
+unambiguously important topic. With that, I look forward to
+your questions.
+[The prepared statement of Dr. Herr follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you, and next is Ms. Moussouris.
+
+TESTIMONY OF MS. KATIE MOUSSOURIS,
+
+FOUNDER AND CEO, LUTA SECURITY
+
+Ms. Moussouris. Thank you. Chairman Foster, Ranking Member
+Obernolte, Chairwoman Stevens, Ranking Member Waltz, and
+distinguished Members of the Subcommittees, thank you for
+inviting me to testify today about how to improve software
+supply chain security. My name is Katie Moussouris. I'm the
+Founder and CEO of Luta Security, a company that works with
+governments and complex organizations to create mature, robust,
+and sustainable vulnerability disclosure and bug bounty
+programs. We base these programs on the international standard
+ISO 29147, Vulnerability Disclosure, ISO 30111, Vulnerability
+Handling Processes, and our Vulnerability Coordination Maturity
+Model. I'm the co-author and co-editor of these international
+standards. With more than 20 years of professional technical
+and strategic experience in technology and information security
+as a penetration tester at @stake, followed by creating
+Microsoft Vulnerability research, which handled supply chain
+vulnerability coordination, establishing Microsoft's first bug
+bounties and advising the U.S. Department of Defense, resulting
+in the launch of Hack-the-Pentagon. Additionally, I served as
+co-chair of the NTIA (National Telecommunications and
+Information Administration) multi-stakeholder vulnerability
+disclosure working group subcommittee of multi-party
+vulnerability coordination. It is an honor to appear before
+these Subcommittees to testify about the challenge that
+securing the software supply chain presents to our economy and
+to our national security.
+While supply chain attacks have become more prevalent in
+the headlines during the past few years, these types of attacks
+have been occurring regularly since the dawn of major operating
+systems, which are then used to compromise many downstream
+targets. This problem is not new, and believing that it is can
+impede meaningful conversations regarding potential solutions.
+One of the main reasons why these problems haven't yet been
+solved is that the cybersecurity industry itself is still in
+its infancy, while the United States and the world have grown
+exponentially faster in our dependence and complexity of
+increasingly interconnected technology. Even large
+organizations with many highly skilled technical workers
+struggle with getting the right resources in place to
+simultaneously respond to incidents and investigate and fix
+single vendor vulnerabilities, let alone supply chain
+vulnerabilities in both open and closed source software.
+In the global cybersecurity workforce shortage, estimated
+at over 3.1 million unfilled positions worldwide, over half a
+million of those unfilled cyber roles are in the United States.
+The United States participates in the software supply chain in
+many complex roles, as do our international partners and our
+adversaries. There are multiple ways that supply chain attacks
+can occur, and not all efforts to combat these various attacks
+result in the same return on investment (ROI). In our ongoing
+national effort to build up our cyber resilience, we must
+evaluate the efforts put forth with desired outcomes in mind to
+yield measurable increased security of the supply chain now.
+To address the complexity in software supply chain
+security, my testimony today outlines the problem space, and
+offers proposed solutions and actions to measurably increase
+the cyber-resilience of the United States and our international
+partners. I believe that following the recommendations,
+building upon some of the most important work and best
+practices in the public and private sector, will increase our
+national security. No. 1, providing CISA with the authorities
+and resources to oversee cyber readiness for the civilian
+Federal Government, and as a resource to support privately
+owned critical infrastructure. No. 2, amending FISMA to require
+an annual, comprehensive Federal maturity assessment and gap
+analysis that will identify critical gaps in people, process,
+and technology. No. 3, conducting a CISA-led dynamic assessment
+of ROI for each proposed new requirement in the cybersecurity
+Executive order to determine the priority of each based on the
+investments required to make a dent in the problem. And four,
+raising Federal pay scales, especially in cybersecurity, to
+better compete with the private sector, and investing in
+cybersecurity recruitment and training for existing and
+aspiring workers.
+In the early stages of building our cyber resilience,
+organizations focus first on incident response, which has been
+echoed in the cybersecurity Executive order's breach
+notification requirements, as well as CISA's request for more
+endpoint detection budget. Investing in better breach response
+is important, but the ROI for investment breach prevention is
+higher, yet lacks the urgency to drive near term action. While
+new requirements like SBOMs (software bill of materials) may
+make supply chain vulnerabilities faster to respond to in
+theory, producing or consuming an SBOM would've had no effect
+in stopping or detecting either the SolarWinds nor the CodeCov
+supply chain attacks. There are no tools that can produce this
+enriched vulnerability data that includes vetting actual
+exploitability at scale, forcing continued reliance on skilled
+cybersecurity workers to make that final determination of
+imminent risk and act upon it.
+In conclusion, I appreciate this Committee's and CISA's
+leadership on cybersecurity and supply chain issues. The
+Federal Government must direct what resources we have, while
+also growing our capacity at scale. As part of expanding CISA's
+role and resources, CISA should apply a system dynamics
+approach that models the effects of changing variables in a
+complex system, focused on a targeted approach to enhance
+security outcomes. Thank you for this opportunity to testify
+before the Committee today on this critical issue. I look
+forward to answering any questions you may have for me.
+[The prepared statement of Ms. Moussouris follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And next is Mr. D'Souza.
+
+TESTIMONY OF MR. VIJAY D'SOUZA, DIRECTOR,
+
+INFORMATION TECHNOLOGY AND CYBERSECURITY,
+
+GOVERNMENT ACCOUNTABILITY OFFICE (GAO)
+
+Mr. D'Souza. Hello, Chairs Foster and Stevens, Ranking
+Members Obernolte and Waltz, and Members of the Subcommittees.
+Thank you for inviting me to testify at today's hearing on
+SolarWinds and IT supply chain issues. My testimony is based on
+GAO's ongoing look at the SolarWinds cybersecurity incident,
+and GAO's December 2020 report on IT supply chain risk
+management at Federal agencies.
+The SolarWinds cybersecurity incident was arguably one of
+the most severe and sophisticated cyberattacks on the Federal
+Government, but much remains unknown publicly about the full
+impact. The attackers, now known to be affiliated with the
+Russian Foreign Intelligence Service, were able to take
+advantage of weaknesses in the SolarWinds company security
+practices to insert malicious content in updates that
+SolarWinds supplied to its customers, including Federal
+agencies. Thus, the attackers were able to take advantage of
+what we generally consider good cybersecurity practice,
+patching and updating your software regularly.
+The government has taken a number of steps in response to
+SolarWinds. Beginning in December 2020, DHS and CISA issued an
+emergency directive, and later several additional tools and
+pieces of guidance on how Federal agencies and other
+organizations should respond to the attack. The most recent
+guidance was actually just issued a few days ago, and more
+remains to be done. A unified coordination group including
+CISA, the FBI (Federal Bureau of Investigation), NSA (National
+Security Agency), and ODNI (Office of the Director of National
+Intelligence) was also created to coordinate the government's
+intelligence gathering and response activities. This group was
+recently disbanded, and has shifted its focus to identifying
+lessons learned from the incident. GAO currently has work
+underway compiling what is known about the impact of SolarWinds
+on the Federal Government, and what lessons have been learned.
+We recently issued a blog post on this issue, and plan to issue
+a public report later this year.
+Although SolarWinds was both an unpleasant and
+unprecedented discovery, unfortunately, we can't be surprised
+that something like this occurred. In December 2020, just as
+the attack was announced by CISA, GAO released a public version
+of our report looking at how well Federal agencies were keeping
+an eye on their IT supply chains. The bottom line, most
+agencies were not following even foundational practices in this
+area. We identified seven practices that should be followed
+agency wide. These include establishing executive oversight,
+developing a strategy, and developing a way to document and
+identify risks. For the 23 agencies we examined, none had
+implemented all the practices, and 14 hadn't implemented any of
+the practices. Given what we now know about the threats we
+face, this is concerning.
+Agencies told us they hadn't implemented many of these
+practices because they were awaiting additional guidance, most
+specifically from the Federal Acquisition Security Council, or
+FASC. And it's true today that FASC hasn't issued detailed
+guidance that agencies may need to fully implement a supply
+chain risk management program, but it's important to not let
+the perfect be the enemy of the good in this case. NIST has had
+guidance in this area since 2015, and OMB has directed agencies
+to begin thinking about this issue since at least 2016. The
+foundational practices we focused on include basic issues, such
+as identifying who is in charge in establishing an overall
+strategy and process. While, as with all issues technology
+related, how you do this will change over time, SolarWinds
+demonstrates that it's important to get started on supply chain
+security right away.
+To be fair, it's important to note that there are a lot of
+Federal activities underway looking at IT supply chain
+security. NIST is currently revising its existing guidance, and
+hopes to reissue it in 2022 to incorporate best practices from
+Federal and private organizations, and to integrate with other
+NIST guidance. In addition, CISA has a task force underway that
+is trying to address some of the underlying issues in this
+area. For example, how do we encourage private companies to
+share information, and how do we certify and vet Federal
+suppliers? We issued a more detailed sensitive report in
+October of last year that our December report was based on. In
+the October report we made 145 recommendations to specific
+agencies to implement the foundational practices that I
+discussed. We have received updates from six agencies on their
+progress, but to date none of the agencies have fully
+implemented our recommendations.
+It's not going to be easy to address IT supply chain
+issues, and what we do is going to change as we continue to
+learn more about the threats in this area, but if we want to be
+prepared for the next SolarWinds type incident, it's important
+for Federal agencies to immediately begin addressing this
+issue, and for Congress to continue its oversight through
+activities such as today's hearing. This concludes my
+statement. I'm happy to answer any questions you may have.
+[The prepared statement of Mr. D'Souza follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And, at this point, we will
+now begin our first round of questions. The Chair will
+recognize himself for five minutes.
+Mr. D'Souza, if we could step back for a moment and
+consider the Federal response to SolarWinds? Could you please
+briefly go over the timeline of how the Federal agencies
+responded? You know, when was the Federal Government first made
+aware of the breach, how did the directions to address the
+breach roll out, and in general did the system work as
+designed, and did the--all the Federal agencies act quickly to
+remediate the breach?
+Mr. D'Souza. Thank you. As I mentioned, the first public
+announcement from DHS was in December, although it is our
+understanding they may have, you know, had some earlier
+information about the incident. The agencies were directed to
+respond to that, and certainly by April our understanding is it
+had been largely addressed. However, the details are--we're
+still looking into the details. Part of what we're doing in our
+ongoing work is trying to look at the detailed information that
+was provided to Congress and to CISA, and try to compile it to
+see kind of how it lines up.
+Chairman Foster. Yeah. Did--so what is the procedure when
+the first alert comes in through classified channels, and then
+people realize this will have a big--as--a big effect on the
+commercial world? Is there a well-defined protocol for deciding
+when the commercial world should be apprised of the threat?
+Mr. D'Souza. So your question is when the government
+should let the private sector entities know about issues?
+Chairman Foster. Right. Yeah. Is that--is there a well-
+defined procedure for that that operates regularly?
+Mr. D'Souza. I think--so I think there are procedures, but
+I don't--I think well--you know, I think there's area for
+improvement. I think part of what this has established is the
+need for better information sharing. Part of what you touched
+on is, you know, the Executive order that the administration
+recently released, directs DHS to do more to kind of specify
+the triggers in this area. There definitely are tools and
+processes in place. For example, there was some legislation
+passed a few years ago directly related to cyber information
+sharing. But, you know, our experience has been, when we talked
+to the private sector, you know, they definitely identified
+positive steps that the Federal Government has taken with
+regard to information sharing, but also a lot of room for
+improvement.
+Chairman Foster. Um-hum. Is there--would the rest of the
+panelists like to chime in on that issue? Any observations on,
+you know, whether the system was badly designed, or worked as
+it should, or what the--or are we going to have to undergo a
+fundamental redesign to get a better result?
+Mr. D'Souza. If I could add one point, is--I think the
+processes are in place, but I think it's the trust building. I
+think, you know, there's a lot of--there tends to be a lot of
+nervousness from the private sector about sharing information
+with the government. I'm not sure so much about the other way,
+although one of the issues the government has is sharing
+classified information, figuring out how to sort of declassify
+the information, share it publicly. So these issues have been
+identified, but we're definitely not where we need to be in
+this area.
+Chairman Foster. Um-hum. And one of the decisions that the
+government, and probably every player in industry has to do, is
+the make versus buy decision. And, you know, if we're--you
+know, we do a lot in Congress to encourage the government to
+contract with a large number of small businesses, all right?
+That is sort of the exact opposite of what you'd want to do for
+cybersecurity reasons. And how should we think about and handle
+that, you know, that tension? Any observation, or--some of you
+have experience with some of the large players in industry,
+where it's my understanding they just do a lot of stuff in
+house in part to avoid cybersecurity threats that they cannot
+control.
+Dr. Herr. It's a good question, asking about firm size and
+vendors, but I think it speaks to two issues. One is capability
+and maturity, but the other is innovation, and to some degree
+the downside of a large vendor is the risk of a monoculture,
+and the risk of some homogeneity in the way that that vendor
+approaches security in the way it manages the assumptions, or
+the threat model, that it has for its products. So I don't
+think it's necessarily a clean cut to say bigger is better. It
+can offer some efficiencies and some scale, and you will find,
+in some cases, at a number of these vendors' security teams
+that no other company could afford to maintain, and talent that
+you're not going to find in very many places on the planet, but
+that said, a mix--a composition of small and large I think is
+important.
+Mr. Scholl. I also--I'm sorry.
+Ms. Moussouris. Go ahead, Matthew.
+Mr. Scholl. When you look at the build versus buy
+decision, it's not necessarily just the point issue of
+acquiring, especially in software, a piece of software, but
+it's a full range of life cycle costs that come with keeping
+and maintaining a piece of software over time. And often in
+those cases you will find industry has the persistence, to some
+extent, to be able to maintain and update, especially software
+now that is so dynamic in its nature in a way that sometimes
+the government is not able.
+Ms. Moussouris. And I'd like to add to that answer, in
+terms of build versus buy, in some cases we have to participate
+according to technical specifications, so even if we were to
+build technology ourselves, there still may be vulnerabilities
+inherent in the technical specification. That is one of the
+reasons why the United States, its partners, and also the
+adversaries that we have in cyberspace, participate in
+international standard setting and specification setting. But
+there are going to be implementation issues if an underlying
+technical specification contains vulnerabilities. That is one
+of the common scenarios that requires multi-party vulnerability
+coordination across the supply chain.
+Chairman Foster. Thank you, and I'll now recognize the
+Ranking Member, Mr. Obernolte, for five minutes of questions.
+Mr. Obernolte. Thank you, Mr. Chairman, and thank you to
+our panelists. It's been a fascinating hearing. My first
+question is for Mr. Scholl at NIST.
+So one of the things that stood out to me, from reading
+the GAO report was that these organizations that had not
+implemented the best practices, when questioned about why they
+had not implemented them, the No. 1 answer was a lack of
+Federal guidance, which I think is probably going to be a
+source of frustration for you. Hopefully the Executive order
+will help with that, because it directs NIST to either identify
+existing standards and best practices, or develop new standards
+and best practices to combat this problem. Do you have a
+preliminary feel for which of those two options NIST is going
+to take? Are there existing standards that you'll be able to
+identify, or are you going to have to write your own?
+Mr. Scholl. Thank you for the question, and it's an
+excellent question. We too are encouraged by the Executive
+order and its ability to shine a focus on this issue not just
+for the Federal agencies, but for NIST in our work as well. Our
+preliminary look at fulfilling the requirements within the
+Executive order will be to identify existing guidance, or even
+specifics within existing guidance, that we can call out and
+consolidate for use by the agencies. So, first and foremost, we
+want to identify and cite work that exists rather than create
+new work. After we have done that, we will work with both our
+industry and our agency partners to see if there are any
+critical gap areas in that existing work, and then that will
+form the nucleus for any new created items that we'll have to
+make. The timelines are short in getting out our initial
+deliverables, and so that is going to be our approach.
+Mr. Obernolte. Well, thank you, that makes sense. And
+follow-on question, since you brought it up, obviously the
+timelines in the Executive order are very ambitious. Do you
+think that they are realistic, and does NIST have the resources
+that you need to meet them?
+Mr. Scholl. NIST is certainly committed to meeting all of
+the objectives that NIST is assigned within the Executive
+order, and we are on track and working toward achieving all of
+those objectives. So currently NIST believes wholeheartedly
+that we will accomplish the objectives assigned to us, and even
+though the timelines for initial deliverables may be short,
+NIST is also committed to applying a sense of persistence to
+this activity over a much longer term. So the initial
+deliverable may be short, but we also plan on staying
+persistent on these issues over a much longer period of time as
+well.
+Mr. Obernolte. Well, great. Thank you. Well, we're
+certainly looking forward to reviewing what you've come up
+with. Then a question for Dr. Herr. So we've been talking about
+guidance here, but obviously guidance is meaningless without
+implementation. So what can be done to make the guidance that's
+being developed more implementable by Federal agencies?
+Dr. Herr. It's a great question, sir. I think part of the
+challenge that we've seen is that much of the standards process
+for software development for security, for deployment, is still
+rooted in PDFs and spreadsheets, I think as you mentioned in
+your opening statement, and that is a--it presents an
+implementation challenge for any developer to then take that,
+interpret it, and try to write it into their own tools, and
+build their own organic processes and policies.
+So I think the biggest thing, and we've seen calls for
+this from a number of folks in the community, is automation,
+right? Implementable guidance that can be pulled into common
+developer tools, into integrated development environments, and
+made an automated rule. And there's two sort of big drivers for
+this, or reasons for this. One is that ease of implementation,
+but the second is to keep pace with software development. So
+not just developers of varying levels of maturity and scale.
+Not everybody is a large software vendor. Many of these
+security concerns are coming from open source projects, small,
+not well resourced academic outfits, places where we want to
+see good security practice, but we're not necessarily going to
+expect a million dollar, full time security team. But the
+second is to keep pace with software development, where we may
+see five, 10, 15 versions of a single product in one day, and
+so there is no process, no PDF-based audit framework, that is
+going to allow someone to come along behind and check every box
+for every one of those versions. So I think automation really
+has to be the watch word. And, to the extent possible, where
+NIST is appropriately resourced to provide guidance to
+developers, and to those that own these development tools, on
+exactly how to implement that in those programs.
+Mr. Obernolte. I completely agree with you. And then
+lastly here, not a question as much as a comment on, Dr. Herr,
+your response to Chairman Foster's previous question, you said
+that you thought that a mix of large and small companies is
+vital to the supply chain, and I completely agree, but I'd also
+like to highlight some other advantages of having more
+companies in the supply chain is maintaining diversity in the
+supply chain so that we don't have a single point of failure
+that affects the rest of the chain. And so I think it's vital
+that we have lots of companies in the supply chain, and--both
+small and large companies, particularly small companies,
+because in addition to diversity, that also creates
+competition, and drives down our governmental costs. I think
+we're stuck with this idea that we're going to have a lot of
+companies out there, and that some of them are going to be
+small, and therefore are going to be less sophisticated about
+implementing these best practices. But I want to thank you very
+much, and I'll yield back, Mr. Chairman.
+Chairman Foster. Thank you. And we will now recognize
+Representative Stevens for five minutes.
+Ms. Stevens. Thank you so much. Mr. Scholl, how long have
+you been working at NIST?
+Mr. Scholl. I've been at NIST for 15 years, ma'am.
+Ms. Stevens. OK, great. And I know you're--you also served
+your country previously as well as a veteran, and we want to
+thank you for that. And how big is your shop in your area with
+the chief information, or chief--you know, cybersecurity
+efforts? How many people are working with you?
+Mr. Scholl. My Federal staff is at 94 headcount, and I am
+augmented with post-doctoral fellows, guest researchers,
+foreign guest researchers, and summer undergraduate research
+fellows as well. But Federal----
+Ms. Stevens. Great.
+Mr. Scholl [continuing]. Staff is 94.
+Ms. Stevens. Great, great. And do you mind just reminding
+us your total budget? Is it 32?
+Mr. Scholl. Yes, ma'am.
+Ms. Stevens. OK. $32 million? And I know my colleague on
+the other side of the aisle asked you a nice question about
+your ability to meet the Executive order, and it--very much
+appreciated your response. And I'm not a fan, by the way, of--
+you know, I think NIST is a great example of an agency that
+does a lot with a little. I'm not a fan of bloating, and, you
+know, just unnecessarily, you know, pumping up dollars in
+agencies that, like yours, can do a lot with a little, but I do
+think identifying, you know, that pinpoint of where we could
+use additional resources could be helpful. I'm just also
+wondering, could you--do you have any--you say you have 94
+people, and you're working with different researchers and the
+post-docs--we love hearing from them when they come to
+testify--throughout NIST, but how's retention back?
+Mr. Scholl. Retention is outstanding at NIST.
+Ms. Stevens. Great.
+Mr. Scholl. A fair amount of my workforce actually could
+retire any day, and they have no intention to do so. There's a
+strong commitment to mission. People feel very energetic and
+energized by the purpose, and it's an outstanding set of staff
+that I'm actually privileged to lead.
+Ms. Stevens. Well, that's what we like to say, Mr. Scholl,
+NIST is the best kept secret in government, and so I'm glad to
+hear that your workforce has a high retention and a high charge
+to the mission, and we want to continue to support you in all
+those ways.
+Katie, your company and background is just absolutely
+amazing, and I'm drooling hearing your testimony, and reading
+about your contribution to ISO standards, and the
+implementation of those. Have you worked with NIST in any
+specific ways?
+Ms. Moussouris. I have been invited to work with NIST,
+presented at various meetings, and I'm in the process of
+potentially joining one of the advisory boards for NIST, so
+Matthew and I have met a few times before.
+Ms. Stevens. Wonderful. Yeah, you and Matthew have to
+spend some time together, because--yeah, we're--I think what
+we're getting at in this hearing is pinpointing the nexus
+between where we can identify our software supply chain
+opportunities with our Federal Government. You know, Dr. Foster
+touched on this as well with the standards, and, you know, in
+many respects I guess we'll have to come back to you, because
+I'd be interested in any feedback that you have to pay about,
+you know, why people aren't leveraging certain programs, you
+know, is there enough outreach? And it's not programs, but, you
+know, when we were brief on NIST's cybersecurity capabilities
+it's like, does everyone really know about this? How are we
+connecting--and, you know, we've got our NIST MEP centers as
+well that are located around the country. Can you just remind
+me where you're located too, Katie, if you don't mind sharing
+for the record?
+Ms. Moussouris. I am in the sunny Seattle area in the
+Pacific Northwest.
+Ms. Stevens. Right. So--yeah, and so, you know, you're
+also bolstered by a strong ecosystem out there, but you could
+imagine that--and I don't know if you've encountered any
+partners, or people who are different geographies who haven't
+been able to connect into some of the resources out there in
+our Federal Government who maybe aren't as co-located by--like
+entities such as yours.
+Ms. Moussouris. Well, I can say that, by comparison of the
+scale of what Microsoft, one major software vendor, invested in
+overall cybersecurity, its budget at the time that I was last
+there close to half a billion dollars in cybersecurity, with
+more than 400 dedicated technical resources and others in
+support of the cybersecurity mission of just one company. So I
+think that, you know, when we look at--that's an outlier,
+obviously, in its investment and its capabilities, but we do
+have to look at this in terms of a long tailed spectrum of even
+very large organizations similar in, you know, overall size of
+company to Microsoft not having those types of investments in
+place over many years because they weren't forced to do so,
+like the operating systems were starting, you know, over 20
+years ago.
+Ms. Stevens. Well, great. Well, with that, thank you so
+much to all of our witnesses, and I'll yield back, Mr. Chair.
+Chairman Foster. Thank you, and we will now recognize the
+Ranking Member of the Full Committee, Mr. Lucas, for five
+minutes.
+Mr. Lucas. Thank you, Mr. Chairman. This has been a very
+fascinating hearing so far. I'd like to turn to Mr. Scholl.
+This Committee's one of three congressional Federal agencies
+who are required to be notified within 7 days of a major cyber
+incident under the Federal Information Security Modernization
+Act of 2014, or FISMA, as I prefer to call it. After the
+SolarWinds incident, only a handful of Federal agencies that
+were breached complied with FISMA notification requirement, and
+they did not consider the breach to be a major incident. These
+reports are a major source of transparency and oversight for
+Congress and the American people. Can you explain the process
+for how Federal agencies determine what constitutes a major
+incident under FISMA?
+Mr. Scholl. I certainly will do my best, sir, and if need
+be, I can follow up. It is my understanding that specific
+guidance on definitions of major incidents come through policy
+from the Office of Management and Budget to the agencies. This
+is further clarified and specified by CISA, whereupon an agency
+then identifies an issue first, then categorize it as
+reportable or not reportable under that OMB policy guidance,
+and then initially conducts the first reports back to CISA and
+OMB. This is my understanding.
+Often first analysis and initial forensics of an issue may
+be incomplete or inaccurate, so I believe agencies are
+encouraged to err to the side of reporting just to be safe, but
+that lack of sometimes initial information does make the
+clarity of reportable versus non-reportable incident difficult,
+at least upon initial report.
+Mr. Lucas. You see why that causes us great concern. Would
+anybody else on the panel like to touch on this subject about
+the recommendations about how to improve reporting and
+transparency under FISMA?
+Mr. D'Souza. Sure, if I could. A major incident is
+basically an incident that's likely to result in demonstrable
+harm to the U.S. interest, so, I mean, I think just from--sort
+of from instinct SolarWinds would meet that criteria, but we do
+know that several agencies working at the same criteria came up
+with, you know, different determinations. So I think part of
+what we're doing in our work, for example, is to compare the
+decisionmaking by the different agencies. I do think a more
+consistent interpretation of the guidance is probably something
+that's going to be important.
+Ms. Moussouris. I would also like to add that some of the
+resources internally to investigate some of these issues are
+the same resources that have to, you know, implement security
+best practices, as well as performing these investigations, as
+well as investigating potential vulnerability reports that
+ideally have not been exploited yet. We have an overstretch of
+internal cybersecurity resources across the private sector as
+well with those unfilled job roles. The problem is exacerbated
+across the Federal Government.
+Mr. Lucas. Anyone else? Mr. D'Souza, is there presently an
+oversight mechanism by which Federal agencies that fail to
+implement requisite standards and best practices under ICT
+SCRAM can be held accountable? And if so, can you briefly
+describe that process?
+Mr. D'Souza. We think that there's a weakness in this
+area. There are a number of processes that Federal agencies
+have to follow for oversight generally in IT security. There's
+the annual FISMA reporting. DHS has authority in this area as
+well through its binding operational directives. However, the
+specific issue of supply chain risk management is really the
+FASC, the Federal--the organization I mentioned earlier. That
+is going to have sort of the enforcement ability here. And they
+have not done a lot in this area. They had issued a strategic
+plan, and they issued an interim rule, but more needs to be
+done there. The agency inspector generals (IGs), which do the
+annual FISMA evaluations, they did add one metric related to
+supply chain security to their latest evaluation guidance, but
+that was just added after SolarWinds, so, you know, clearly we
+need to probably add more to that area going forward, and then
+both the IGs and OMB are going to need to incorporate that into
+their annual reporting. This is going to take, you know,
+several years to really change the culture, and really make
+sure agencies are dedicating the resources they need to do, but
+they could do it through the existing oversight mechanisms.
+Mr. Lucas. Clearly, Mr. Chairman, this is an area we need
+to keep track of, and with that I yield back. Thank you, Mr.
+Chairman.
+Chairman Foster. Thank you. And we'll now recognize the
+gentleman from Colorado, Mr. Perlmutter, for five minutes. Mr.
+Perlmutter? You're being recognized for five minutes of
+questions. And you must unmute.
+Mr. Perlmutter. Sorry.
+Chairman Foster. Yes, sir.
+Mr. Perlmutter. I'm multitasking here. I've got a----
+Chairman Foster. I know it was a last minute----
+Mr. Perlmutter [continuing]. Couple things going.
+Chairman Foster [continuing]. Change of order.
+Mr. Perlmutter. I----
+Chairman Foster. Right.
+Mr. Perlmutter. Let's see. Can you hear me?
+Chairman Foster. Yes.
+Mr. Perlmutter. All right, good. Sorry. So I just have a
+few questions. And, first, Dr. Scholl, where is your office?
+Mr. Scholl. I am located in Gaithersburg, Maryland.
+Mr. Perlmutter. OK. And is that where most of your staff
+is?
+Mr. Scholl. Correct.
+Mr. Perlmutter. OK. We've been working with NIST for
+several years, and I've got several of my Financial Services
+Committee colleagues on here, a bill called the Data Breach
+Insurance, where we've tried to use the NIST protocols for, you
+know, to get small businesses, not so much because of Federal
+hacking, but because of hacking that a small business might
+have that then affects their lender, or their bank, which then
+spreads every place. And we've been trying to use both
+insurance and tax incentives, to couple those with the NIST
+protocols. How do you find your protocols that you guys
+established back in 2014/2015 being accepted by small business
+generally? Is it--do you see it happening or not?
+Mr. Scholl. We see it happening across a wide range of
+both small businesses, as well as levels of use and adoption.
+We have a couple of different mechanisms to do that. We have a
+dedicated small business corner, where we look to tailoring and
+adapting our work to small businesses. Chairwoman Stevens had
+mentioned the MEP Centers as well, the Manufacturing Extension
+Partnership Centers that NIST has around the country, which we
+also use to tailor and amplify NIST cybersecurity products out
+to small businesses through the MEP Centers as well. So we have
+a couple of different mechanisms that we use to try to both
+tailor our guidance so it's appropriate for a small business,
+as well as reach them.
+Mr. Perlmutter. OK. Thanks. I mean, I guess from the
+Financial Services standpoint, we're just trying to--you know,
+the banks say, well, the vendor caused this hack, and vice
+versa, and who's going to pay for it? So we're going to
+continue to press forward in providing incentives and promoting
+that protocol. But my next question is for Ms. Moussouris and
+Dr. Herr, because you both said something that was a little bit
+troubling to me, and they involve sort of--I guess I'll start
+with you Dr. Herr. There was an effort a number of years ago at
+the Federal level to have a single portal for all the
+departments, all the agencies, everything goes through there,
+and it used some kind of--and, Mr. D'Souza you may recall this
+too--something called EINSTEIN, or--I can't remember what the
+heck it was, to try to, you know, be a first guard against
+hacking. But there has always been a desire to try to have sort
+of separate silos so that everything didn't get hacked at once.
+I mean, what's your opinion on something like that? Do you
+understand what I'm asking?
+Dr. Herr. Yes, sir, and I think the question you're asking
+is one that's been discussed at length over the last five to 10
+years in cybersecurity. It's the debate between a walled, you
+know, garden, effectively, right, a single perimeter that you
+defend with your life, and acknowledging that that perimeter is
+not going to save you from the enemy, and figuring out how to
+adapt to that.
+So EINSTEIN, as I understand it, is a multi-generational
+set of systems intending to detect and mitigate attacks on
+Federal networks as rapidly as possible in time potentially to
+also eject them automatically. The challenge is, I think, to
+the question that you're asking, is that trying to take a
+network and isolate it from the outside world to keep it
+pristine is what we've seen in many cases fail against both
+rudimentary and sophisticated attacks, and that, in SolarWinds
+and Sunburst, I think what we're seeing really good evidence of
+is the need to embrace the concept that's known as assumed
+breach, to look at your network, to assume that it's been
+compromised, and to try to minimize the harm that any one
+device or any one user can do to you as they're moving through
+those networks. So I think EINSTEIN, you know, is a pathway
+toward that, hopefully.
+There's been some discussion about the notion of zero
+trust, as you saw in the Executive order to a great extent.
+Zero trust is a useful concept. It's a design philosophy.
+There's a lot of maturation still required there to take that
+and actually implement it into policy, but I--hopefully I think
+that gets to the question you're asking.
+Mr. Perlmutter. Thank you. And, Ms. Moussouris, do you
+have a thought about that?
+Ms. Moussouris. Yes. EINSTEIN, you know, has limitations,
+much like many other, you know, cybersecurity tools, in that it
+is limited to look for what is already known and identified. In
+the SolarWinds incident, for example, that wouldn't have been
+detectable using EINSTEIN, or truly any other off the shelf
+tools, and that's evidenced in the fact that one of the top
+companies for investigating internal compromises, FireEye, even
+itself failed to detect that compromise for a few months while
+the attackers were working using the SolarWind software that
+they had compromised.
+To your point about network segmentation internally, we do
+want organizations to move away from the model of hard, crunchy
+outside, soft, chewy center, so that is an apt, you know, an
+apt observation of what needs to go into place. I think the
+Executive order further stipulates that multi-factor
+authentication needs to be applied and rolled out across
+Federal Government systems, especially at access points to
+critical assets. That endeavor in the Executive order, while
+bold and necessary, is going to be a huge, heavy lift, so that
+is something to be aware of, that parts of the solution,
+including that example of rolling out multi-factor
+authentication to tightly access control, or monitor the access
+control, of various assets in the Federal Government, that is
+going to require a very, very heavy lift.
+Mr. Perlmutter. Thank you. My time is way over, and I
+thank the Chair and Ranking Members for allowing me, and I
+yield back.
+Chairman Foster. Thank you. And we'll now recognize Mr.
+Gonzalez for five minutes.
+Mr. Gonzalez. Thank you, Mr. Chairman, and thank you to
+our witnesses and panel for their testimony today to discuss
+the importance of our cybersecurity infrastructure. SolarWinds
+exposed multiple government and private sector vulnerabilities.
+The witness testimonies today have illuminated some
+improvements that I think we can make. I want to talk briefly
+about public/private partnerships, and data and information
+sharing with respect to how we solve this going forward.
+I was speaking with one of my friends yesterday who works
+in the industry, the cybersecurity industry, and his comment to
+me was, we share information across portfolio companies, this
+gentleman happens to work in private equity, with respect to
+cybersecurity and cyber threats, but there's not a great
+coordinating mechanism, either at the Federal level or in
+private industry and we can do it with our companies, but
+broadly there's less information sharing. So I guess, Ms.
+Moussouris, from the industry perspective, I want to get your
+insight on this notion of cyber threat sharing across agencies
+and industry. Do you think there needs to be further
+collaboration, and do you think one of the existing public/
+private partnerships on cybersecurity is the best way to foster
+this collaboration? Just help me understand, from your
+perspective, what we might gain from this sort of thing.
+Ms. Moussouris. Well, I think information sharing with the
+private industry is very much gated upon the perceived or
+actual liability for those private organizations, so that is
+something that has been brought up numerous times, not just in
+this hearing, as something that would need to be addressed to
+provide sufficient legal cover for organizations that are
+seeking to share, private organizations.
+I do think that, you know, some of our issues here are
+information sharing when there has been a breach versus before
+the breach, which is the vulnerability coordination type of
+information sharing. So when you are coordinating a
+vulnerability that affects a supply chain, ideally you're doing
+so ahead of a breach, so that is a different kind of
+information sharing that poses its own risks, in terms of, you
+know, investigations in progress up and down the supply chain,
+remediation plans in progress and being coordinated up and down
+the supply chain. The risks to that information sharing being
+accessed by an attacker is something that is of concern,
+especially with some of the Executive order breach notification
+requirements that are in place, because some of the deadlines
+would be occurring sort of mid-investigation of a potential
+vulnerability that could lead to a supply chain attack or a
+breach.
+Mr. Gonzalez. And how----
+Ms. Moussouris. Does that sort of answer your question?
+Mr. Gonzalez. Yeah, it does. How would you recommend we
+mitigate that risk, if at all? I mean, what ideas do you have
+on that?
+Ms. Moussouris. Well, you know, some of this has to be
+built out, in terms of capability. It is why I'm recommending
+maturity assessments for capabilities not just in regular
+cybersecurity practices, but also in the specialized internal
+practices that are required for multi-party vulnerability
+coordination. Microsoft itself, with its significant investment
+in cybersecurity, has only been tackling this problem head-on
+of supply chain vulnerability coordination with other entities
+since about 2008. When I created Microsoft Vulnerability
+Research to help coordinate Dan Kaminsky's DNS (Domain Name
+System) vulnerability was one of the first issues that we
+coordinated industry-wide, and including our government
+partners.
+Mr. Gonzalez. Thank you. And in your testimony you
+mentioned some improvements that could be made to the software
+bill of materials. Can you elaborate on some of the concerns
+with creating machine-readable inventory that is uniform?
+Ms. Moussouris. I have no issues with creating machine-
+readable inventory that is uniform. The concerns that I have
+around implementing SBOM is that, one, you know, it may yield
+dividends to us, in terms of speeding up vulnerability
+coordination across the supply chain in time. However, that
+working group has been at it for about 3 years, has not come up
+with a standard definition of what a minimum SBOM would entail,
+and that is part of NIST's big heavy lift to do as part of this
+Executive order, is defining what a minimum SBOM would be. An
+ingredient list alone does not give you actionable information,
+nor does a mapping to which CVEs (Common Vulnerabilities and
+Exposures), which vulnerabilities, apply to those ingredients.
+You actually need additional technical information, including
+the exploitability of a particular sub-vulnerability that may
+be included in the product package. So those are a summary of
+my concerns in that area.
+Mr. Gonzalez. Well, thank you, Mr. Chairman, and I yield
+back.
+Chairman Foster. Thank you. And we'll now recognize Mr.
+Beyer for five minutes.
+Mr. Beyer. Dr. Foster, thank you very, very much. This is
+really fascinating, I'm very grateful. Mr. D'Souza, how do you
+live with the frustration? Let me just point out that five
+months ago GAO recommended 23 agencies adopt these seven
+procedures. That's--seven times 23, that's 161 opportunities to
+succeed. 16 of them did it, so you've got a 10 percent
+completion ratio. As I read it, 14 did nothing. They complained
+about lack of guidance, and yet there was SCRM guidance from
+NIST in 2015, from OMB in 2016. You put out 145 recommendations
+in October 2020. As somebody who was never late with a paper,
+or unprepared for a test, even if I didn't do well on the test,
+how do you--well, is there any consequence for our public
+leaders who just don't do their job?
+Mr. D'Souza. I think--as I was commenting earlier, I think
+enhanced reporting and oversight here is really going to be key
+to making changes. Agencies always face, you know, more than
+they--more things to do than they have time for, so they have
+to make a decision about what are they going to devote the most
+time to. If the status of their supply chain security programs
+is routinely reported on, and measured by Congress, and
+measured by OMB, and there's more transparency around these
+issues, I think that they will make progress in these areas. I
+think that's basically the thing that has to happen.
+Mr. Beyer. Well, this slides right into a question for Ms.
+Moussouris. Luta Security, you had four very good suggestions,
+but the last was that Federal pay scales across the board,
+especially in cybersecurity, have to be able to compete with
+the private sector. I represent Northern Virginia, where every
+contractor I've talked to, every business I've talked to, says
+they can't find the sophisticated people that they need. How
+are we--do you see any plausible political way of paying
+Federal employees enough money to compete with the private
+sector? Like even a third of what they could make in the
+private sector?
+Ms. Moussouris. Well, I think that, especially those of us
+with offensive security skills that can hack into everything,
+money is not our deciding driver of what we choose to do with
+our talents. Mission is also very important. But even with such
+an important mission, and an honor to contribute to national
+security, I think there does need to be, you know, a--an effort
+to uplift the cybersecurity salaries in the Federal Government.
+But another part of that suggestion No. 4 in my testimony
+was actually hiring and training either existing employees in
+the Federal Government who desire to move into cybersecurity,
+but also providing a better national pipeline for hiring
+talent. Most of the cybersecurity job openings that you see are
+for senior and very experienced people. We do not have a great
+pipeline for entry level cybersecurity positions, which may
+help with some of the talent shortage, and some of the
+budgetary concerns.
+Mr. Beyer. And it sounds like the talent shortage and the
+budgetary concerns feed back into what Mr. D'Souza has to work
+with, when, if you have people that don't have enough time,
+they're overwhelmed by the challenges that they have and may
+not have the training either.
+As long as we're talking consequence, maybe, Ms.
+Moussouris, one more thought. When any of these supply chains
+things happen, or when they shut down Colonial Pipeline, and we
+see the consequence ripple through the economy, and, you know,
+with not much imagination, ripple through the fatality rates,
+you know, it hit the hospitals, it hits pharmacies, it--what
+should the consequences be? And I'm reminded of--in the Old
+West, when you stole a horse, you got hung, because it was life
+or death in that situation. It's life or death for so many
+people right now, and yet you never hear about anybody going to
+jail for violating cybersecurity. What you typically hear is
+they get hired.
+Ms. Moussouris. Was there a question in there for me?
+Mr. Beyer. I guess I'm asking you to lay out the criminal
+penalties for hacking, so----
+Ms. Moussouris. You know, the Colonial Pipeline issue, as
+you are aware, sir, was orchestrated by non-Americans. They
+were a Russian cybercrime group, so I do think that, you know,
+some additional pressure from this administration on not
+harboring cybercrime groups, or turning a blind eye toward
+their activities internationally, will go a long way. But in
+terms of domestic cybercrime--or domestic origin cybercrime, I
+do think that there's a lot of opportunity for reform in
+existing cybersecurity anti-hacking laws. There's been a lot of
+ambiguity and a chilling effect on good cybersecurity
+researchers who happen to be able to perform very bad
+activities against critical infrastructure, and only recently
+have vulnerability disclosure programs been in place in the
+Federal Government level, but certainly hasn't trickled down to
+all of critical infrastructure in terms of allowing the public
+to notify if they see something, say something in
+cybersecurity.
+So I do think that we need to take a look at ways to
+redirect young talent in cybersecurity domestically, especially
+if they got into a little bit of trouble when they were young.
+I think that is a potential huge source of cybersecurity talent
+eventually.
+Mr. Beyer. Thank you.
+Chairman Foster. Thank you. And we will now recognize Mr.
+Casten for five minutes.
+Mr. Casten. Thank you, Mr. Chairman, and thank you to our
+panelists. The--I want to start with my own experience, that
+I'm hoping is not too stale. Before I came to Congress I ran a
+company that we built and operated utility operations inside
+industrials, which is to say that we managed huge campuses that
+had a ton of dumb equipment, valves, traps, meters, lots of
+PLC- (programmable logic controller-) based systems. And we
+were sort of keenly aware that they didn't dispatch in the most
+efficient possible way, but when we tried to bring in an
+overarching system control to manage it, we never got
+comfortable that we could maintain, I think as you described,
+Ms. Moussouris, a--that hard, crunchy exterior. But we knew we
+had the creamy interior, if we let them in.
+And, you know, to take it maybe in less metaphorical
+language, we couldn't find the software to solve the problem,
+and so we're then backing up to saying, well, can we implement
+the processes that would allow this? And as a mid-sized
+company, we just couldn't get comfortable that we could have
+the human resources, the process RAM (random-access memory) to
+manage it. So my first question for you, Ms. Moussouris, is
+there's a whole set of these solutions that are technical in
+nature, software patches, standards, what have you. There's a
+whole other set of solutions that are process in nature. When
+you are advising companies in the private sector, is there a
+single answer to that or--for a given problem, or does it
+depend on the size of the organization?
+Ms. Moussouris. It depends on a number of factors. That's
+why we conduct maturity assessments, because an organization
+can be at a different maturity level for different areas of
+cybersecurity at a given time. Usually cybersecurity efforts
+are somewhere between the basement of compliance and the
+ceiling of whatever, you know, best practice trends were
+successfully marketed to the CISO (chief information security
+officer) of that organization. Whether or not those practices
+in between are effective at securing an organization, you know,
+it depends. And I've seen very large organizations struggle
+with maturity in vulnerability disclosure and coordination, for
+example, even when they are doing well in other areas of
+cybersecurity, so there are specializations and maturity
+changes over time. A recent study said that there were no magic
+bullets, no definitive correlations between certain best
+practices in cybersecurity and security outcomes.
+Mr. Casten. OK. So the--my district is a lot of small
+suburban towns, and I get--I've recently been getting the
+question from a lot of the, you know, small municipal water
+utilities, who are saying that they're grappling with this
+issue. They've got, you know, diverse assets, and are starting
+to get concerned that they're not going to be able to get the
+cyber insurance they need to protect their assets because
+there's no credible way that they can provide that scope of
+maturity that you describe. Are there good models out there for
+organizations banding together to provide some kind of an
+umbrella security, right? Or does that create a security
+vulnerability of its own? So, you know, should I be
+recommending to all these municipals to say, you know,
+everybody pitch in your 20 percent to hire a, you know, a
+cybersecurity unit, or does that create more problems that we
+have to be mitigating----
+Ms. Moussouris. Well, there may be some problems, you
+know, with having enough resources if you are relying on a
+single or very few shared resources, in terms of a shared
+cybersecurity team across some different organizations. But you
+also run into a--you know, a--sort of a single point of failure
+if that centralized security team is compromised in and of
+itself. And certainly all major organizations have been
+compromised at one point or another, and the adversaries do
+tend to go for, you know, highly valuable information systems,
+accounts, and leverage additional attacks from there. So
+aggregation may have some efficiencies gained, but it also may
+present an attack surface and a further overtasking of those
+resources.
+Mr. Casten. Well, you've maybe perfectly teed up my final
+question for Dr. Herr, which is, I'm going to confess, wildly
+outside the jurisdiction of this Committee. My roommate in
+college senior year, his dad was a New York City beat cop for a
+long time, and he joked with me at one point that he had no
+idea why criminals ever committed anything but white collar
+crime, because the risk/reward for white collar crime was so
+much better than everything else. And the--and I share that
+story because if our enemies wanted to attack and take Rhode
+Island from us, there are a whole lot of rules around kinetic
+warfare. But if they wanted to steal all the data from J.P.
+Morgan, it's probably a lot more valuable, and there's a lot
+fewer rules. So, you know, we can put all these standards in
+place, but I'm curious, Dr. Herr, do we need something like a
+Geneva Convention for cyber warfare that we have for kinetic
+warfare?
+Dr. Herr. I appreciate the question, sir, and as a native
+of Massachusetts, I suspect Rhode Island would be a tough
+fight. You know, I think the question that you ask about a
+broader geopolitical response is a good one. I think the Geneva
+Convention is a very bad model for what we talk about here for
+two reasons. One, the consequence scale of the events we're
+talking about on a daily basis do not come anywhere near close
+to--you know, to match the horrors of chemical warfare and
+nuclear conflict. The second, though, is that that sort of
+broad, you know, as much of the globe as possible kind of
+multi-stakeholder collaboration gets us to a point of very low
+accomplishment, right? We have as many people bought into a
+very small standard, a very little bit of progress, as
+possible, and I think, unfortunately, the cyber norms process
+has demonstrated that over the last decade.
+Instead, I would suggest that our thought process for this
+is, rather than a negotiated settlement or a set of rules, how
+do we get more competitive? How do we--as we think about this
+not as trying to prevent a catastrophe, but more like improving
+our batting average, how do we get up to the plate and start
+taking more walks? How do we start hitting just a few more
+singles each time? And if that's about protecting some of these
+lower hanging fruit--some of these targets, or if that's just
+competing against many of these adversaries more effectively, I
+think that gets us to a place where we're able to keep J.P.
+Morgan and Rhode Island safely at home at night, where they
+need to be, and avoid any sort of catastrophe down the line.
+Mr. Casten. Thank you so much, and I yield back.
+Chairman Foster. Thank you, and we will now recognize
+Representative Ross for five minutes.
+Ms. Ross. Thank you so much, Mr. Chairman, and thank you
+also to Chairwoman Stevens, for holding this very crucial and
+timely meeting. I'm from North Carolina, so I want to let you
+know I represent the Research Triangle area of North Carolina,
+and we have a lot of tech companies there, including SASS, Red
+Hat, Pendo, and the companies have a talent pipeline that comes
+through our colleges and universities. And, to Ms. Moussouris's
+issue of building this pipeline, we have a Secure Computing
+Institute at NC State University that has become a focal point
+for cybersecurity research, and at our community college, at
+Wake Tech Community College, we have a--it's been designated a
+National Center of Academic Excellence in Cyber Defense
+Education. So I think we need a field trip to my district. I
+just--I'm pitching that to the whole Committee.
+And while I recognize that ransomware isn't the topic of
+this hearing, the Colonial Pipeline has come up several times,
+and, because it affected my district so acutely, I just wanted
+to ask in particular, Dr. Herr and Ms. Moussouris, had the
+requirements articulated in the May 12 Executive order been
+adopted by private industry, do you think the cyber attack on
+the Colonial Pipeline would've unfolded the way that it did?
+Dr. Herr. I think there's no way to give a definitive
+answer, unfortunately, because much of the order, which is, I
+think, aspirational and positive in the direction that it's
+heading, is still to be decided, and it sets up processes and
+policy to be defined. But in--to your question, the focus on IT
+security, and on the security of software, certainly couldn't
+have hurt in the context of what Colonial faced.
+Ms. Moussouris. I would say that the Colonial Pipeline
+attack allegedly occurred because of a phishing--a successful
+phishing attempt that was an administrator clicking on a link
+that they shouldn't have. Internal network segmentation, asset
+management requiring robust multi-factor authentication, may
+indeed have helped slow down the ransomware attack, however,
+ransomware is opportunistic. It is just a--you know, it's an
+opportunistic monetization of vulnerabilities that exist, so
+whether they are partly due to human error is one thing, but
+certainly network segmentation and multi-factor authentication
+tagged to specific assets may have helped mitigate it. It might
+not have completely eliminated the possibility of that attack
+taking place.
+Ms. Ross. OK. Thank you both. And, Mr. Scholl, your
+testimony talks about the National Cybersecurity Center of
+Excellence, which is a public/private partnership that works to
+address business cybersecurity challenges. And I wanted to
+know, has the private sector shown any interest in the NIST
+standards and best practices, and what can we do to get them
+more on board? Because they just keep--can't, you know, wait
+for something bad to happen, or say it costs too much. What can
+we do to make them more robust participants?
+Mr. Scholl. So--yeah, thank you for the question.
+Mr. Baird. I'm moving, so I have turned my video off.
+Mr. Scholl. The private sector has shown great interest in
+NIST's work, in our--in the guidance that we've developed. This
+initially was seen in 2015, when we created the cybersecurity
+framework under a previous Executive order, which had
+outstanding participation from the private sector in its
+development. It--the cybersecurity framework, and all of NIST's
+work, is voluntary for use outside of the U.S. Government, so
+NIST is not a regulatory agency, nor do we wish to be one, but
+we find, because of that, participation and use of our work on
+a voluntary basis does seem to be rather robust. As far as
+furthering that participation through other mechanisms, I'm
+actually not sure what would be good leverage in order to have
+that from the private sector.
+Ms. Ross. OK. Well, maybe we should explore that. If
+anybody has any ideas for good leverage--yes, Ms. Moussouris?
+Ms. Moussouris. I think that, you know, adding Federal
+procurement guidelines, and leveraging the NIST framework, and
+requiring that companies that want to do business with the
+Federal Government comply with some of these NIST guidelines
+and standards is a good step in that direction.
+Ms. Ross. Thank you very much, and thank you, Mr.
+Chairman. I yield back.
+Chairman Foster. And now, without objection, we will
+attempt to recognize Representative Baird, despite his having
+video problems right now. If his--the audio is working, I'm--
+Jim, are you available here?
+Mr. Baird. I'm here. I'm here. Thank you.
+Chairman Foster. OK. You're recognized for five minutes.
+Mr. Baird. Thank you, sir, and good afternoon. And I
+really appreciate Chairwoman Stevens and Ranking Member Waltz
+of the Research and Technology Subcommittee, and Chairman
+Foster, I appreciate your efforts, and Ranking Member
+Obernolte, of the Investigations and Oversight Subcommittee for
+holding this important hearing over the SolarWinds incident.
+So I guess my first question goes to Dr. Herr. In your
+testimony you point out that since 2010 there have been at
+least 30 different state-backed software supply chain attacks
+on the United States from states including Russia, China, North
+Korea, Iran, as well as others. So the United States is
+increasingly being targeted with cyber attacks as the nation-
+states are focusing on using cyber capabilities for malicious
+intent. As the scale of our cybersecurity posture is growing at
+a slower pace than emerging threats, how can the United States
+shore up our cybersecurity in order to protect our networks
+from our foreign adversaries?
+Dr. Herr. Yes, sir, and I would point out only that those
+30 attacks impacted a variety of countries, although the U.S.
+was certainly a leading part of that whole. I think there's a
+whole host of answers, and we could hold a number of hearings
+on the topic, but I'll give you two. The first is better
+combining the activities of our offensively focused
+organizations with those focused on defense.
+The--part of the challenge that we face is where defense
+is rooted entirely on audits and compliance, it lacks the focus
+on where adversaries are attempting to push their own tactics,
+and their techniques, and their technologies. And so one of the
+failings that we recognized, and are reporting on Sunburst, is
+an inability for defenders to recognize software systems which
+were relatively small and innocuous, but incredibly value to--
+incredibly valuable to attackers, based on where they were
+placed on the network, or the permissions that they were
+granted. And so I think informing defenders with what offensive
+agencies--on a more regular basis, and trying to push that
+offensive mindset as defenders are choosing where to invest and
+prioritize, I think, is important.
+But the second, and it's been mentioned a number of times
+today, is that, as we seek to improve our defensive posture, we
+have to push to automate as many of these activities as
+possible. There's a really good piece of work that's been done,
+I think it was--the term was coined by Wendy Nather of Cisco in
+2011, the notion of the cyber poverty line. The majority of the
+organizations operating the technology that we care about, the
+potential targets of the next decade, don't have the resources
+or the internal maturity to operate at a high level of
+sophistication to make many of their own choices and judgments.
+They have the ability to plug things in, and hope for the best.
+And so what they plug in, and how they monitor it, has to be as
+capable as possible out of the box, and supported from as many
+directions as possible.
+So I would come back and suggest to you that while we do
+have reasonable threats in these high consequence attacks, and
+have a lot of conversations to be had about what the U.S. is
+doing with allies outside of its borders, that at home a key
+part of our focus should be trying to resource and support,
+with technology that's as usable as possible, those folks that
+are most likely to be the target of these events.
+Mr. Baird. Thank you. Dr. Foster, do I have any time left?
+I've got one more question for----
+Chairman Foster. You have 1 minute and 45 seconds, and----
+Mr. Baird. There we go, one minute----
+Chairman Foster. 20 seconds----
+Mr. Baird. 45----
+Chairman Foster [continuing]. After that.
+Mr. Baird. OK. So I have a joint question for Dr. Herr and
+Ms. Moussouris, and that is in the months since the SolarWinds
+incident it's become clear just how sophisticated this hack
+was, and, with some estimating, the operation involved over
+1,000 engineers. States like Russia and China they can deploy
+the manpower to carry out an operation like this. So what
+actions need to be taken to ensure that the United States is
+capable of defending our networks at this scale? Dr. Herr, you
+want to start?
+Dr. Herr. Sure. I'll say only that that 1,000 engineers
+number has come under significant, and I think fairly accurate,
+criticism. While there were likely a large number of people,
+perhaps more than 1,000, involved in processing all of the
+intelligence gathered in this operation, the number involved in
+actually building and maintaining the tools that targeted these
+U.S. Government agencies and private sector organizations was
+likely substantially smaller. What that suggests, though, is
+that manpower is not a good measure of impact, and I think
+we've seen that repeatedly in----
+Mr. Baird. OK. Ms. Moussouris?
+Ms. Moussouris. Absolutely agreed. The 1,000 engineers
+number, I believe, you know, was produced by Microsoft, and by
+their head lawyer, so I do not--I don't think that they're--
+that that number is realistic, in terms of what we're up
+against in that particular attack. I do think that our, you
+know, our numbers of people who can perform some of the most
+sophisticated attacks worldwide is actually a fairly small
+number. I can provide references after this hearing on the
+record for some of the labor market numbers that I and
+colleagues at MIT and Harvard had studied the vulnerability
+economy and exploit market, and estimated some of those numbers
+worldwide.
+So we are, you know, in the United States, obviously
+needing to create more of those elite cyber warriors to have
+the ability to create those types of attacks ourselves, but the
+number of them tends to be fairly small worldwide because the
+target gets harder and more sophisticated. The latest operating
+systems, the latest phone operating systems, get hardened
+further and further, and that enhances the technical needs and
+the bar to meet to carry out attacks of that sophistication
+level.
+Mr. Baird. Thank you very much for those responses. I wish
+I had time to question the other witnesses, but I'm sure I'm
+out of time, so thank you, Dr. Foster, and I yield back.
+Chairman Foster. Thank you. And--now, before bringing this
+hearing to a close, I want to thank our witnesses for
+testifying before the Committee. The record will remain open
+for two weeks for additional statements from the Members, and
+any additional questions the Committee may ask of the
+witnesses, and the hearing is now adjourned.
+[Whereupon, at 3:45 p.m., the Subcommittee was adjourned.]
+
+Appendix
+
+----------
+
+Answers to Post-Hearing Questions
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

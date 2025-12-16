@@ -1,0 +1,2314 @@
+- IMPLEMENTATION AND CYBERSECURITY PROTOCOLS OF THE CONSOLIDATED AUDIT TRAIL
+
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+
+IMPLEMENTATION AND CYBERSECURITY.
+PROTOCOLS OF THE
+CONSOLIDATED AUDIT TRAIL
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON CAPITAL MARKETS,
+SECURITIES, AND INVESTMENT
+
+OF THE
+
+COMMITTEE ON FINANCIAL SERVICES
+
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FIFTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+NOVEMBER 30, 2017
+
+__________
+
+Printed for the use of the Committee on Financial Services
+
+Serial No. 115-61
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+31-288 PDF                  WASHINGTON : 2018
+
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+JEB HENSARLING, Texas, Chairman
+
+PATRICK T. McHENRY, North Carolina,  MAXINE WATERS, California, Ranking
+Vice Chairman                        Member
+PETER T. KING, New York              CAROLYN B. MALONEY, New York
+EDWARD R. ROYCE, California          NYDIA M. VELAZQUEZ, New York
+FRANK D. LUCAS, Oklahoma             BRAD SHERMAN, California
+STEVAN PEARCE, New Mexico            GREGORY W. MEEKS, New York
+BILL POSEY, Florida                  MICHAEL E. CAPUANO, Massachusetts
+BLAINE LUETKEMEYER, Missouri         WM. LACY CLAY, Missouri
+BILL HUIZENGA, Michigan              STEPHEN F. LYNCH, Massachusetts
+SEAN P. DUFFY, Wisconsin             DAVID SCOTT, Georgia
+STEVE STIVERS, Ohio                  AL GREEN, Texas
+RANDY HULTGREN, Illinois             EMANUEL CLEAVER, Missouri
+DENNIS A. ROSS, Florida              GWEN MOORE, Wisconsin
+ROBERT PITTENGER, North Carolina     KEITH ELLISON, Minnesota
+ANN WAGNER, Missouri                 ED PERLMUTTER, Colorado
+ANDY BARR, Kentucky                  JAMES A. HIMES, Connecticut
+KEITH J. ROTHFUS, Pennsylvania       BILL FOSTER, Illinois
+LUKE MESSER, Indiana                 DANIEL T. KILDEE, Michigan
+SCOTT TIPTON, Colorado               JOHN K. DELANEY, Maryland
+ROGER WILLIAMS, Texas                KYRSTEN SINEMA, Arizona
+BRUCE POLIQUIN, Maine                JOYCE BEATTY, Ohio
+MIA LOVE, Utah                       DENNY HECK, Washington
+FRENCH HILL, Arkansas                JUAN VARGAS, California
+TOM EMMER, Minnesota                 JOSH GOTTHEIMER, New Jersey
+LEE M. ZELDIN, New York              VICENTE GONZALEZ, Texas
+DAVID A. TROTT, Michigan             CHARLIE CRIST, Florida
+BARRY LOUDERMILK, Georgia            RUBEN KIHUEN, Nevada
+ALEXANDER X. MOONEY, West Virginia
+THOMAS MacARTHUR, New Jersey
+WARREN DAVIDSON, Ohio
+TED BUDD, North Carolina
+DAVID KUSTOFF, Tennessee
+CLAUDIA TENNEY, New York
+TREY HOLLINGSWORTH, Indiana
+
+Kirsten Sutton Mork, Staff Director
+Subcommittee on Capital Markets, Securities, and Investment
+
+BILL HUIZENGA, Michigan, Chairman
+
+RANDY HULTGREN, Illinois, Vice       CAROLYN B. MALONEY, New York,
+Chairman                             Ranking Member
+PETER T. KING, New York              BRAD SHERMAN, California
+PATRICK T. McHENRY, North Carolina   STEPHEN F. LYNCH, Massachusetts
+SEAN P. DUFFY, Wisconsin             DAVID SCOTT, Georgia
+STEVE STIVERS, Ohio                  JAMES A. HIMES, Connecticut
+ANN WAGNER, Missouri                 KEITH ELLISON, Minnesota
+LUKE MESSER, Indiana                 BILL FOSTER, Illinois
+BRUCE POLIQUIN, Maine                GREGORY W. MEEKS, New York
+FRENCH HILL, Arkansas                KYRSTEN SINEMA, Arizona
+TOM EMMER, Minnesota                 JUAN VARGAS, California
+ALEXANDER X. MOONEY, West Virginia   JOSH GOTTHEIMER, New Jersey
+THOMAS MacARTHUR, New Jersey         VICENTE GONZALEZ, Texas
+WARREN DAVIDSON, Ohio
+TED BUDD, North Carolina
+TREY HOLLINGSWORTH, Indiana
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on:
+November 30, 2017............................................     1
+Appendix:
+November 30, 2017............................................    41
+
+WITNESSES
+Thursday, November 30, 2017
+
+Beller, Mike, Chief Executive Officer, Thesys Technologies, LLC..     5
+Concannon, Chris, President and Chief Operating Officer, Chicago
+Board of Options Exchange......................................     6
+Dolly, Lisa, Chief Executive Officer, Pershing, on behalf of the
+Securities Industry and Financial Markets Association..........    10
+Gellasch, Tyler, Executive Director, Healthy Markets Association.     8
+
+APPENDIX
+
+Prepared statements:
+Beller, Mike.................................................    42
+Concannon, Chris.............................................    50
+Dolly, Lisa..................................................    54
+Gellasch, Tyler..............................................    61
+
+IMPLEMENTATION AND CYBERSECURITY
+PROTOCOLS OF THE
+CONSOLIDATED AUDIT TRAIL
+
+----------
+
+Thursday, November 30, 2017
+
+U.S. House of Representatives,
+Subcommittee on Capital Markets,
+Securities, and Investment,
+Committee on Financial Services,
+Washington, D.C.
+The subcommittee met, pursuant to notice, at 10:06 a.m., in
+room 2128, Rayburn House Office Building, Hon. Bill Huizenga
+[chairman of the subcommittee] presiding.
+Present: Representatives Huizenga, Hultgren, Poliquin,
+Emmer, MacArthur, Davidson, Budd, Hollingsworth, Maloney,
+Sherman, Scott, Foster, Vargas, Gottheimer, and Gonzalez.
+Chairman Huizenga. The committee will come to order. The
+Chair is authorized to declare a recess of the committee at any
+time. This hearing is entitled, ``Implementation and
+Cybersecurity Protocols of the Consolidated Audit Trail.''
+And I want to thank our guests and witnesses for being here
+today.
+I now recognize myself for 5 minutes to give an opening
+statement.
+Until now there has been no single database that provides
+comprehensive and readily accessible data about market orders
+and executions across securities markets. Regulators tracking
+suspicious activity or investigating unusual events had to
+collect and aggregate large amounts of data from different
+markets and participants.
+Regulators needed one system that would permit them to
+track orders and executions across securities markets. The
+thinking was that a consolidated audit trail system or database
+that would help regulators keep up with new technology and
+trading patterns in the market would fit the bill.
+That is why, following the Flash Crash of 2010, the
+Securities and Exchange Commission (SEC) adopted a rule to
+require self-regulatory organizations (SROs), including
+national securities exchanges and the Financial Industry
+Regulatory Authority (FINRA), to develop and implement the
+Consolidated Audit Trail, or CAT, as a data repository to
+collect and accurately identify every order from origination
+through its entire lifecycle, including any cancellation,
+modification, and trade execution for all exchange-listed
+equities and options across the U.S. markets.
+In January 2017, the SROs selected Thesys Technologies, LLC
+to build the CAT as the Plan processor, and the SROs were to
+begin reporting trade and order data to the CAT on November 15
+of 2017, of this year. Exactly 1 year later, beginning in
+November 2018, the SEC's order currently will require broker
+dealers to submit data, including certain sensitive customer
+information, to Thesys, the CAT Plan processor.
+Many have voiced concerns about the cost of building and
+implementing such a system. Initial rough estimates by the SEC
+expect the CAT to carry a one-time implementation cost of $2.4
+billion, in addition to a $1.7 billion cost in ongoing annual
+reports, which will be passed on to customers.
+Most troubling, however, is the amount of personally
+identifiable information, or PII, that will be required to be
+collected by the CAT, in my opinion. Not only will CAT be
+collecting such data points as Social Security numbers,
+addresses, and dates of birth for individual customers, but it
+will also gather identifiable proprietary transaction data that
+could potentially be reversed engineered and used for nefarious
+activity, such as market manipulation.
+Let's not forget even the SEC was the victim of a data
+breach of highly sensitive personally identifiable information.
+April of 2016 the GAO identified weaknesses regarding
+information security protocols at the SEC and noted that the
+Securities and Exchange Commission's failure to implement an
+agency-wide data security program. Additionally, the SEC's own
+internal assessment, initiated once Chairman Clayton came on
+board, found that the agency had inadequate controls and that
+there were serious cyber and data risks.
+Concerns regarding data security are not unfounded. In
+September of this year, we learned of a software vulnerability
+in the test filing component in the SEC's EDGAR--or electronic
+data gathering, analysis, and retrieval system. Because of this
+lapse in security, hackers were able to gain access to highly
+sensitive material, including the names, dates of birth, and
+Social Security numbers of two individuals.
+A recent report from the Government Accountability Office
+highlights how the EDGAR data breach only underscores what is
+now even of greater concern: The sufficiency of risk control
+mechanisms for the SEC approved in the Consolidated Audit
+Trail. The CAT system will be the most comprehensive repository
+of market data we have ever seen for all exchange-listed
+equities and options across all U.S. markets. Some have
+indicated that this database will be the world's second-largest
+single database, only behind the National Security Agency.
+I continue to express very serious concerns about the
+security of such extraordinary amounts of personally
+identifiable information being collected and held by the CAT,
+as well as who might have access to such confidential and
+sensitive information. I think that is a vital question.
+While the CAT may be a helpful resource for the SEC and
+even the SROs once fully implemented, insufficient data
+security controls will only undermine confidence in our
+markets.
+Today's hearing will examine the status of the CAT's
+implementation and the adequacy of existing data security
+protections regarding the storage and use of CAT data by
+entities that are part of the CAT operating committee, the CAT
+Plan processor, and the SEC. It will also example whether
+additional cybersecurity protocols are necessary to properly
+safeguard collected data, including that PII--personally
+identifiable information.
+Additionally, the hearing will examine a discussion draft
+legislative proposal that we have titled, ``The American
+Customer and Market Information Protection Act,'' which would
+require the SEC, each SRO that is a participant of the CAT NMS
+(national market system) Plan, and the CAT Plan processor to
+develop comprehensive internal risk control mechanisms to
+safeguard and govern the security of information reported,
+stored, or accessed from the CAT.
+The legislation would prohibit the CAT Plan processor from
+accepting data until it develops such risk controls and the SEC
+certifies those controls. The legislation would also prohibit
+the SROs from accessing CAT data until each entity develops
+risk controls and the SEC certifies them, as well. Last, the
+discussion draft would require the SEC to conduct a cost-
+benefit analysis on the CAT's use of PII, as well as report to
+Congress whether such information is a necessary input for the
+CAT, the risks posed to investors by using that information,
+and alternatives that the SEC could consider.
+The importance of cybersecurity cannot be overstated. The
+ability of the SEC to safeguard nonpublic financial information
+and other highly sensitive data is paramount because it
+instills confidence in our markets.
+The Federal Government--namely, the SEC--cannot afford to
+get this wrong. In fact, SEC Commissioner Michael Piwowar
+recently commented regarding CAT that, quote, ``deadlines are
+important, but the SEC has one chance to get this right. We
+have to make sure we have everything locked down. We can get it
+done, or we can get it done right. We need to get it done
+right,'' end quote.
+I couldn't agree more.
+And I look forward to hearing from our distinguished panel
+today.
+So with that, the Chair now recognizes the Ranking Member
+for a very generous 5 minutes as well, as I went over for a
+bit. And the gentlelady has 5 minutes, as well. Thank you.
+Mrs. Maloney. You had a lot to say and it was all
+important.
+And I thank you for holding this important hearing and for
+all of our panelists for being here today with us.
+The so-called Flash Crash in 2010 was an extraordinary and
+terrifying event in which markets simply went haywire. They
+experienced a sudden inexplicable crash and then recovered most
+of their losses just as quickly.
+The entire episode lasted only 36 minutes, but it had a
+lasting effect on investor confidence in our markets. And I
+have always said that markets run more on confidence than they
+do on capital.
+In the aftermath of that wild-day market, participants,
+regulators, and Members of Congress were all asking the same
+questions: What happened, and why did it happen?
+To answer those questions the SEC and CFTC (Commodity
+Futures Trading Commission) attempted to reconstruct all of the
+trading activity that occurred that day. This should have been
+a relatively straightforward exercise to the agencies with
+oversight of the stock and futures market, but it took the
+agency over 4 months to issue a report on the Flash Crash, and
+even then the report was inconclusive.
+Why did it take the agency so long? Because they didn't
+actually have a comprehensive system in place to collect all of
+the information about the trading that takes place in U.S.
+markets.
+And I must share with you, when Fuld, head of Lehman, was
+testifying on the financial crisis I asked him, ``What is the
+one thing that we could do that would prevent it in the
+future?'' And it was to collect this trading information and
+have it in one place. So this is an important project for the
+stability of our markets and our economy.
+Instead, they were relying on a patchwork of audit trails
+operated by individual exchanges or other trading venues. And
+each of these audit trails had different types of information,
+which made it very difficult to track orders that were routed
+from one exchange to another.
+As a result of all of this, the SEC proposed to create the
+Consolidate Audit Trail, or CAT, which would serve as a
+comprehensive record of all trading activity in the U.S. equity
+markets. The SEC proposed the CAT back in 2010, and 7 years
+later we still do not have a fully functioning audit trail.
+We can go to the moon, but we can't figure out how to have
+a fully functioning audit trail. I would say that this is an
+American scandal.
+The creation of the CAT has been subject to endless delays
+and too many missed deadlines to count. The CAT was supposed to
+go live 2 weeks ago, on November 15th. But at the last minute
+the exchanges charged with implementing the CAT requested
+another delay and stated that they could not start submitting
+data to the CAT on time.
+SEC Chairman Clayton rejected the exchanges' request for
+another delay, but the reality is that even though the deadline
+has passed the CAT is still not up and running. I completely
+support Chairman Clayton in his demand to start right now.
+Some market participants have raised concerns about data
+security due to the large volume of confidential information
+that will be stored in the CAT. The plan for the CAT, which was
+approved by all of the exchanges and the SEC, does include data
+security standards, and I will be interested in hearing whether
+our panel believes these security data standards are strong
+enough or need to be enhanced.
+So I want to thank all of the panelists for appearing
+today.
+And I yield back my time, and I am under budget and on
+time.
+Chairman Huizenga. If you--
+Mrs. Maloney. That is what we need the CAT system to be--
+Chairman Huizenga. Yes, yes.
+Mrs. Maloney. --Right?
+Chairman Huizenga. If you average it out we took our 10
+minutes, so--
+Mrs. Maloney. OK.
+Chairman Huizenga. Thank you. Appreciate the gentlelady's
+attention to this.
+And today we welcome a great panel. Appreciate them all
+being here.
+First we have Mr. Mike Beller, CEO of Thesys Technologies,
+LLC. We also have Chris Concannon, President and Chief
+Operating Officer of the Chicago Board of Options Exchange.
+Welcome.
+We have Tyler Gellasch, Executive Director of Healthy
+Markets Association. And last but certainly not least, Lisa
+Dolly, who is the CEO of Pershing, LLC.
+And we welcome our panel. Thank you very much.
+And with that, Mr. Beller, you are recognized for 5
+minutes.
+
+STATEMENT OF MIKE BELLER
+
+Mr. Beller. Thank you, Chairman Huizenga, Ranking Member
+Maloney, and members of the subcommittee, for inviting me to
+testify.
+The Consolidated Audit Trail is a vital step forward to
+dramatically improve the regulation and protection of the U.S.
+capital markets, and I applaud the committee for organizing
+this hearing and playing an active oversight role in this area
+for the benefit of all investors. My name is Mike Beller and I
+am the Chief Executive Officer of Thesys Technologies, the
+parent company of Thesys CAT, which is the Plan processor
+designated by the CAT NMS Plan. I am a technologist and
+financial technology business executive with over 30 years of
+industry experience.
+In 2010, in response to the Flash Crash, the Commission
+began working on a rule to develop the CAT. As Chairman Clayton
+recently stated, ``The CAT is intended to enable regulators to
+oversee our securities markets on a consolidated basis and, in
+so doing, better protect these markets and investors.''
+The SEC's final rule was adopted with bipartisan support in
+July 2012. In accordance with the rule, in February 2013 the
+SROs, acting together as CAT NMS, LLC, issued an RFP for a firm
+to be designated as the Plan processor to build and operate the
+CAT system.
+We were one of over 30 companies that expressed an intent
+to bid. November 2016 the SEC unanimously approved the CAT NMS
+Plan, and in January 2017, after a 4-year bidding process,
+Thesys Technologies was selected as the Plan processor.
+On April 6, 2017, only 7 months ago, Thesys Tech and CAT
+NMS reached a contractual agreement, known as the Plan
+Processor Agreement, and Thesys established a subsidiary known
+as Thesys CAT to execute its responsibilities under that
+agreement.
+When we began this process we viewed the CAT as an
+opportunity to apply our expertise to meaningfully upgrade the
+regulatory infrastructure of the markets. This is a powerful
+expression of our mission of better markets through technology.
+The CAT improves on existing systems by significantly
+increasing the information available to regulators, allowing
+them to better track orders and identify the individuals
+involved in trading activity. And we believe the CAT will
+drastically reduce the amount of time and effort required to
+find and stop bad actors in the market.
+From the outset we have focused on cybersecurity as a
+unique challenge and responsibility in the context of CAT.
+While cybersecurity was our priority in developing a CAT
+solution, the project was hardly our introduction as
+professionals to the critical importance of cybersecurity.
+I personally was introduced to the issue in a very visceral
+way almost 30 years ago on November 2nd of 1988, when systems I
+managed were attacked by the first wide-scale Internet worm,
+the Morris Internet Worm. In 1988 there were only approximately
+80,000 computers on the Internet and the worm spread from one
+computer to another through the Internet with ease.
+The analogy I often use is that at the time none of us had
+good locks on our doors, but the Internet was like a small town
+30 years ago, and we could perhaps be excused for not locking
+our doors and not expecting anyone to break in. But times have
+changed.
+The Internet is now a global platform connecting billions
+of people. Very often, when building systems, firms focus
+heavily on securing the perimeter, making sure there are good
+locks on the doors; but once the perimeter security is breached
+systems inside the wall are entirely too vulnerable, as we saw
+in the case of the Equifax breach.
+In developing our solution for the CAT, we adopted best
+practices, using multi-factor authentication and encrypting all
+data, both at rest and in transit between systems. But beyond
+that, we determined to build the system with a security-first
+mindset, where cybersecurity is not an afterthought but is
+built into the systems and processes from the start.
+By building encryption technology into the very storage and
+query systems of the CAT from the ground up we have designed a
+system that not only has a very strong perimeter but, if
+breached, has an array of extra protections to limit the
+information a cybercriminal can obtain and to make it easier to
+detect a breach when it happens.
+So in conclusion, we at Thesys believe that the CAT is an
+important step forward in the regulation of our markets. From
+the time we signed the contract 7 months ago we have been hard
+at work assembling our team, working with the SROs and the
+industry to develop specifications, and building out the CAT's
+technical and operational components.
+We look forward to deploying and operating the CAT with all
+stakeholders having confidence that the system is safe and
+secure and having had sufficient time to discharge their
+various requirements and responsibilities.
+Thank you again for inviting me today, and I look forward
+to answering your questions.
+[The prepared statement of Mr. Beller can be found on page
+42 of the appendix.]
+Chairman Huizenga. Thank you.
+With that, Mr. Concannon, you are recognized for 5 minutes.
+
+STATEMENT OF CHRIS CONCANNON
+
+Mr. Concannon. Thank you.
+Mr. Chairman, members of the subcommittee, I am Chris
+Concannon, President and Chief Operating Officer of Cboe Global
+Markets. I have over 20 years of experience as an exchange
+executive, trading firm executive, and a regulator.
+Cboe operates six national securities exchanges consisting
+of four options exchange and four equity markets. We operate
+the largest U.S. options exchange; we are the second-largest
+U.S. equities exchange operator. Cboe also operates a U.S.
+futures exchange, the largest European exchange, and a foreign
+exchange platform.
+I would like to thank the subcommittee for inviting me to
+testify today regarding the Consolidated Audit Trail, or CAT.
+In August 2012 the Securities and Exchange Commission
+adopted rule 613 under the Securities and Exchange Act of 1934
+to require securities exchanges and FINRA to submit a national
+market system plan to create a consolidated order tracking
+system. The primary rationale behind the establishment of the
+CAT was to improve upon and consolidate a regulatory framework
+that at the time was supported by disparate audit trail
+sources.
+The SROs initially submitted a CAT Plan to the SEC on
+September 30, 2014. The Commission approved the CAT Plan on
+November 15, 2016.
+For several years, including during the last year since
+that approval, the SROs have been working diligently on
+execution of the CAT project. This has entailed, among other
+things, a comprehensive bidding process to determine the
+operator of the CAT Plan processor, selection of the CAT Plan
+processor, negotiations of a contract with the chosen entity,
+and commencement of the building of the CAT itself.
+Accomplishing each of these steps is no small feat, given
+that there are over 20 SROs operated by multiple holding
+companies that must effectively agree every step of the way.
+Per the milestones set forth in rule 613, the Plan
+processor was selected in January of this year. And the
+development of specific details in the CAT design framework,
+including data submission layouts and, in particular, security
+protocols, have taken some time.
+Pursuant to rule 613, the phase one implementation of the
+CAT reporting process was due to go live on November 15th of
+this year, 1 year from the approval order. Unfortunately, work
+on the CAT is not complete.
+In planning for the completion of the CAT project, the SROs
+have taken into account the heightened need to maximize the
+CAT's security planning and protocols, given the recent
+proliferation of data breaches that have occurred and the
+highly sensitive nature of the data that will be stored in the
+CAT. The SROs have also thoroughly consulted and forecasted
+with the CAT Plan processor and considered ample feedback from
+industry participants on deliverables and expectations.
+The proposed revised schedule takes into account these
+factors, as well as forecasting based on detailed framework
+plans.
+We continue to work toward expeditiously completing the CAT
+project. Indeed, our efforts on the CAT have been substantial.
+To date, Cboe has spent over $10 million on CAT, we have over a
+dozen employees regularly involved in the CAT project, and we
+have spent approximately 30,000 man-hours on CAT.
+I commend the subcommittee for conducting this hearing and
+for continuing to focus on ensuring that the CAT is developed
+efficiently and effectively while insisting that the data
+security around the CAT is vigorous and robust. I am concerned
+about the risks associated with storing PII in the CAT database
+and can assure you that Cboe is very interested in working with
+the Commission and other stakeholders on exploring alternatives
+around PII as a necessary component of CAT.
+While I recognize there are benefits to be derived from the
+CAT, I also must point out that costs associated with this
+project likely are ultimately funded by investors. We are
+committed to building the CAT as currently contemplated and
+remain committed to maintaining a strong regulatory program.
+While the CAT buildout continues, please let there be no
+doubt that our existing surveillance and regulatory framework
+is robust and our markets are well protected. Indeed, the U.S.
+financial markets are the most efficient and liquid markets in
+the world and the regulatory framework around those markets,
+led by the SEC, is second to none.
+The CAT will be an important component of that framework,
+and we look forward to the completion of a smart, secure, and
+efficient CAT system.
+Thank you for the opportunity to appear before you today. I
+am happy to answer any questions.
+[The prepared statement of Mr. Concannon can be found on
+page 50 of the appendix.]
+Chairman Huizenga. Thank you.
+Mr. Gellasch, you are recognized for 5 minutes.
+
+STATEMENT OF TYLER GELLASCH
+
+Mr. Gellasch. Thank you.
+Chairman Huizenga, Ranking Member Maloney, and other
+members of the subcommittee, thanks for having us here today. I
+am the executive director of a trade association of those
+investors, the pension plans, and investment advisors who
+believe that informed market participants and regulators are
+essential for healthy markets.
+Almost exactly 7 years ago--next week--then staffer Kara
+Stein staffed a hearing across the Capitol where the SEC and
+CFTC chairmen assured the public and our bosses that the
+Consolidated Audit Trail was going to be up and running by now
+and not be billions of dollars that had been projected in their
+recent proposal, and we are now still years away from that.
+We are ostensibly here to talk today about data security,
+but rather, I will assert that this hearing is really about
+whether for-profit market participants, some of whom may have
+the most to lose by the creation of the CAT, are able to
+exploit a convenient public fear to continue to deny regulators
+the basic tools to police the markets. After years of delays
+and exemptions, they have simply run out of other excuses.
+The exchanges and FINRA have not offered any significant
+new information as to why the provider that they selected and
+the expectations and standards that they set are somehow
+inadequate, other than repeating the words ``cybersecurity
+risk,'' ``PII,'' and ``breach'' as many times and in as grave
+of tones as they can muster. I don't know why the next major
+market participant--or the next major market event or
+manipulation will happen, but I can safely say that they will,
+and the real question is whether or not you are going to give
+the regulators the tools that they need to enforce and protect
+investors.
+Today, private market participants have a much more
+comprehensive view of the markets than the regulators tasked
+with overseeing them. Currently, if regulators want to see who
+is conducting trading they have to ask FINRA, who then asks the
+broker dealers for the personal identifying information. So the
+broker dealers have it and it is just the regulators who don't.
+But because there is no automated way to link the trading
+and the underlying beneficial owner, there is actually very
+little chance to identify and stop sophisticated market abuses
+without a whistleblower. In fact, it is only those who are not
+smart enough to spread around their trading who get caught.
+And in fact, we only need to look at the Flash Crash to see
+how this all works or doesn't. The Flash Crash was concerning
+for a lot of reasons. And it was months before the SEC or CFTC
+figured it out, and that is concerning in its own right.
+But it wasn't until 5 years later that we learned the role
+of one market manipulator outside of London in his parent's
+basement--5 years later, and that was only because of a
+whistleblower.
+By using the NMS Plan process to build the CAT, the SEC
+essentially outsourced every function for it, including who is
+going to pay. It puts some of the parties who stood to lose the
+most from the CAT's existence in charge of creating it.
+The SROs were supposed to have the CAT Plan by April 2013.
+When they weren't going to meet the deadline they asked for an
+extension; they got it. When they weren't going to meet the new
+deadline they asked for another extension; they got it.
+More years, more exemptions, more delays. Now we are
+finally about ready to have it, and we have reached the moment
+where it is about ready to happen, and it is not going to
+happen either. And the excuse is data security.
+After 7 years of planning and hundreds of meetings and tens
+of thousands of hours for some of these folks, what the heck
+have they been doing if not worrying about data security?
+Interestingly, they have been. They set detailed security
+protocols and information-handling, some that actually SIFMA
+(Securities Industry and Financial Markets Association) and
+others have called the gold standard.
+So I am not aware of any allegations that Thesys can't meet
+the standards that the SROs set or that the standards
+themselves are somehow inadequate.
+The legislation this committee has passed and is now
+considering would unquestionably delay the CAT and leave it
+tied up in legal complexities and red tape for years--frankly,
+if it doesn't kill it entirely. The new bill would prevent
+Thesys from accepting data until the SEC certifies that its
+required internal risk control mechanisms.
+To be blunt, do we really think the SEC are the experts on
+data security right now? Isn't that why--part of the reason why
+we are here?
+But there are dozens of other questions, including the
+adequacy: What is the SEC going to do? What is the standard?
+Are they going to test the adequacy of those mechanisms? Does
+that somehow inoculate Thesys from liability if there is a
+breach because the SEC blessed it?
+The bill would also require an entirely new and duplicative
+cost-benefit analysis and a report to Congress on the need for
+identifying information. That is not forwarding the process.
+That is not talking about data security. That is the primary
+reason for the CAT, to figure out who is doing the trading.
+I also want to take a couple of seconds here to point out
+that that is not the only thing that is delayed. Who is going
+to fund it is also delayed. The SEC has delayed that decision
+until January 2018, and I am sure you will be surprised to
+learn that the exchanges have decided to try to push most of
+that burden onto the broker dealers, not themselves.
+Longer term, I hope you push for the Consolidated Audit
+Trail to be implemented without delay to include futures, and I
+hope you end the NMS Plan process that got us into this mess.
+Thank you.
+[The prepared statement of Mr. Gellasch can be found on
+page 61 of the appendix.]
+Chairman Huizenga. Ms. Dolly, you are recognized for 5
+minutes.
+
+STATEMENT OF LISA DOLLY
+
+Ms. Dolly. Thank you, Chairman Huizenga, Ranking Member
+Maloney, and distinguished members of the subcommittee, for the
+opportunity to testify today on behalf of SIFMA and share our
+views on the implementation plan for the Consolidated Audit
+Trail.
+My name is Lisa Dolly. I am the CEO of Pershing, which is a
+bank of New York Mellon company. Pershing is custodian for over
+6 million U.S. institutional and retail clients, and we
+safekeep, on behalf for those clients, more than $1.5 trillion
+in assets.
+This subcommittee's review of CAT implementation is
+incredibly important and timely. There is a great value in a
+workable, secure CAT, but the implementation issues remain
+largely unaddressed and incomplete. Quite frankly, there is
+concern remaining over the security of privacy issues.
+When the CAT is fully operational, as mentioned before, it
+will capture all customer and order event information for
+equities and listed options from the time of execution,
+becoming one of the world's largest databases. In fact, every
+day the system will take in over 58 billion records--orders,
+executions, quotes--and will maintain this to become a 100
+million-data point database for institutional and retail
+investors and their unique customer identifying information.
+So despite the unprecedented amount of sensitive
+information being stored in the central repository and the
+associated data protection concerns, the technical
+specifications that have been released to date do not,
+alarmingly, include many details around data security and
+protection. And as the SROs' initial reporting deadline
+approached and passed, Thesys had not yet hired a chief
+information security officer, who would be responsible to
+review and implement the data security policies and procedures
+to ensure the protection of CAT data, as required by the CAT
+NMS Plan.
+The SEC and the SROs should make the case that PII is
+actually necessary for CAT. If sensitive identifying
+information is included in the CAT, then the SEC and the SROs
+must provide better assurances on the data security than they
+have to date. Financial firms and regulatory agencies share a
+common goal in securing and protecting the data entrusted to
+them by clients and financial institutions, and this issue
+trumps everything else.
+In addition to the question of the uses of CAT data, all of
+the 22 SROs and the SEC will be allowed to download any or bulk
+data from CAT into their own systems, and the NMS Plan requires
+the CAT to accommodate up to 3,000 users' access to that data.
+As a result, the protection of the data depends not only on the
+security of the CAT system but also the security of each of the
+SROs plus the SEC.
+SIFMA believes the draft legislation being discussed today
+would benefit the protection of this information. At this
+point, we think there should be a delay in the CAT
+implementation to allow the SEC to examine the need to include
+PII in the CAT, and if the SEC decides that such information is
+necessary it is absolutely imperative that the CAT's data
+security protocol be strong and secure.
+The CAT NMS Plan should also be amended so that no PII or
+identifying trade data can be extracted from the CAT processor.
+Rather, the regulators should perform surveillance within the
+CAT security perimeter.
+A delay is also required to allow additional time for the
+broker dealers' CAT implementation. Once the technical
+specifications have been finalized, broker dealers should have
+a minimum of 12 months to complete the implementation and
+testing based upon final specifications.
+Going forward, a collaboration among industry participants,
+the SROs, and Thesys could really provide the opportunity for
+CAT to be informed by the insights and interests of all those
+affected and all the market participants so they can be
+incorporated and provide for a successful CAT construction and
+implementation. There is still time to get this right.
+In conclusion, SIFMA appreciates the interest of the
+subcommittee and is supportive of further efforts to legislate
+improvements to the CAT. And I thank you for the opportunity to
+testify and look forward to answering your questions.
+Thank you.
+[The prepared statement of Ms. Dolly can be found on page
+54 of the appendix.]
+Chairman Huizenga. Thank you, Ms. Dolly. Appreciate that.
+And with that, I will recognize myself for 5 minutes for
+questioning.
+Many, including myself, have raised concerns about
+cybersecurity and the protection of data submitted to the CAT.
+Apparently some believe that it is, quote, ``just to exploit
+convenient public fear.'' I don't believe that is the case. As
+you know, the CAT NMS Plan requires a plan processor to appoint
+a chief information security officer who will be responsible
+for creating and enforcing appropriate policies, procedures,
+control structures.
+Mr. Beller, in your statement you said that Thesys
+developed three principles that guided the design of the CAT
+database. Specifically, you say, quote, ``third and most
+importantly, the CAT must be secure,'' close quote.
+If cybersecurity is top of mind for you and Thesys, why has
+a chief information security officer not been hired to date?
+Mr. Beller. Thank you, Chairman.
+The selection and approval of a chief information security
+officer is an activity that is collaborative between Thesys, as
+the Plan processor, and the SROs acting as CAT NMS. As yet, we
+have not agreed on a candidate.
+The role is a very challenging role to fill that has
+expectations in policy areas, in technology areas, in
+management areas. And we are working collaboratively to find
+the right person to fill that role. Our recent activities
+together lead me to believe that we should come to a positive
+conclusion shortly.
+Chairman Huizenga. OK.
+Mr. Concannon, is this simply private companies trying to,
+quote, ``exploit convenient public fear'' for the concerns that
+you have been expressing?
+Mr. Concannon. I think the evidence is pretty clear that we
+are not exploiting public fear when we see so many breaches
+that have taken place, including our own Government, which has
+been breached multiple times. And some of the most
+sophisticated agencies of our Government have been breached.
+So when I think about the information that we have planned
+under the current construct to put into the CAT, I am more than
+concerned that we are putting--in fact, all of your Social
+Security numbers, as designed, will be in the CAT. And so we
+all sitting around this table should be concerned how we
+protect that information.
+Chairman Huizenga. Has Thesys presented any CISO (chief
+information security officer)--he--Mr. Beller said it is a
+collaborative process. Have they presented any candidates for
+that CISO position? And if so, why have they been rejected or
+not--
+Mr. Concannon. First of all, that entire space is very
+difficult to find candidates. It is one of the hottest employee
+spaces. We have had difficulty trying to attract cyber
+specialists.
+So it is a very difficult role to fill. This is a senior
+cyber expert that we are trying to find.
+We have looked at candidates. We have a very high standard.
+All of the exchanges and SROs have a very high standard, and we
+are using our own cyber professionals to evaluate, and they
+have an even higher standard of one another.
+So we have evaluated candidates and we have rejected
+candidates.
+Chairman Huizenga. OK. Since the CISO has not been put in
+place and this agreement hasn't happened under the Plan, would
+SROs really actually be able to begin reporting trade data to
+the CAT?
+Mr. Concannon. The SROs are subject to numerous rules. Data
+protection is covered by Reg SCI (Regulation Systems Compliance
+and Integrity).
+Chairman Huizenga. So there may be--and just to get to that
+there may be the physical ability, but is there the legal
+ability? Is that what you are saying?
+Mr. Concannon. In fact, there is the physical ability
+today. We can put our data in the current CAT system.
+Chairman Huizenga. So I could collect all of your Social
+Security numbers and put them in my phone. Would that make you
+feel OK?
+Mr. Concannon. It would not make me feel--
+Chairman Huizenga. You would be OK with that? I loan my
+phone out to my kids once in a while. Is that--I think we made
+the point that just because you can do something, we have to
+make sure that it is prepared on that. And I am curious who
+actually verifies that Thesys is complying with all the
+cybersecurity requirements, as well.
+Mr. Beller or Mr. Concannon or Ms. Dolly?
+Mr. Beller. So there is a--the Plan itself lays out a very
+robust framework for security and a bunch of audits and
+approvals that must be completed in order for the CAT to go
+live and operate. We need to collaboratively select the chief
+information security officer.
+The chief information security officer then has a fiduciary
+duty, actually, to the SROs via CAT NMS, LLC. So that duty
+actually trumps that person's duties to Thesys CAT itself.
+Chairman Huizenga. And presumably the SEC, or no?
+Mr. Beller. I don't know of anything in the Plan that
+places an expectation that the CISO reports to the SEC. This, I
+think, has to do with how the Plan is structured and the
+relationship of the SROs to the SEC, so maybe--
+Mr. Concannon. I have had a rule throughout my career that
+nothing trumps the SEC.
+Chairman Huizenga. Spoken like a truly regulated entity.
+OK. So I am over, but let me just encourage you to move
+forward, both of you--collectively, not you individually, but
+collectively. We need to get this CISO in place so that we can
+start meeting with that.
+I am well over, but I recognize the Ranking Member for 5
+minutes.
+Mrs. Maloney. Thank you. And I join you in saying that we
+have to get this CISO appointed. I suggest that we have a
+hearing on this every month until we get them appointed and
+hear what the success of it is.
+Let me tell you, the stock market is exploding and many
+people are putting their faith and hope in it. And I think if
+we had a crash it would totally destroy the confidence of
+Americans in the system. So I think this truly, is probably the
+most important thing we could do in our Capital Markets
+Subcommittee.
+Where is Thesys located? You beat out 30 major companies.
+Where is your headquarters?
+Mr. Beller. Our headquarters is in New York City, and we
+have offices in Charleston, South Carolina additionally.
+Mrs. Maloney. OK. And where are you developing the CAT
+system? In New York City?
+Mr. Beller. In both locations.
+Mrs. Maloney. In both locations. And why is it taking so
+long?
+Mr. Beller. The CAT is taking a long time because it is a
+complex system with multiple stakeholders who need to act
+collaboratively in order to get this complex system up and
+secure. We obtained the contract to build the CAT 7 months ago
+and in that time have built out an organization, developed
+technical specifications, built out pieces of the CAT and the
+security program, and put them in place. And there are some
+items that remain that have to be done collaboratively by the
+stakeholders, including--
+Mrs. Maloney. I think we should have a collaborative
+meeting once a month and bring in all the stakeholders with the
+SEC and see how we can get an agreement so we can move this
+thing forward. I think this is a priority for our Nation.
+I would like to ask Mr. Gellasch, you noted that the CAT
+was developed in response to the Flash Crash, and certainly the
+CAT will help the SEC reconstruct another market crash like the
+Flash Crash. But apart from helping to reconstruct market
+crashes, will the CAT help the SEC perform their normal day-to-
+day oversight functions? What will the CAT allow the SEC to do
+that it cannot do today or that it is doing very inefficiently
+today?
+Mr. Gellasch. Thank you for that question.
+A couple of things. One is most people talk about the Flash
+Crash as the precipitating event for the audit trail. That is
+actually a little bit untrue, and here is why: As far back as
+early 2009 there was an effort underway to understand who large
+traders were and who was actually engaged in trading. And in
+fact, there was a large-trader reporting regime that preceded
+the Consolidated Audit Trail, and the Consolidated Audit Trail
+proposal was released on May 26th of 2010.
+The SEC didn't write that several-hundred-page document in
+3 weeks. The SEC doesn't do anything that fast. So I would say
+the Consolidated Audit Trail itself came together after the
+Flash Crash, and certainly that was the precipitating event in
+providing public feedback.
+The reason why the underlying concern existed even before
+the Flash Crash was because the SEC and FINRA--neither know who
+conducts trading in our capital markets. So the current audit
+trial systems tell you who the broker is but not whose trading
+underlies it.
+What does that mean? So assume for a moment you have those
+who--for example, a market manipulator engages with a couple of
+different brokers and trades in a couple of different venues--
+perhaps equities and maybe in options. Those things would not
+be seen in a coherent way.
+And so because you don't know who is doing the trading, the
+manipulations get lost in the noise of the markets. That is why
+it takes a whistleblower to find market manipulation cases.
+FINRA has incredible surveillance now that did not exist 7
+years ago either. They have actually put in--99.5 percent of
+equities trading goes into FINRA's pipe for surveillance. But
+even with that it is still only the stupid who get caught.
+Mrs. Maloney. OK. I would like to ask you what do you think
+of the proposed legislation that would prohibit the CAT from
+accepting personally identifiable information under the SEC
+has--unless the SEC has conducted a cost-benefit analysis? And
+is the collection of personally identifiable information
+necessary for a system like CAT?
+Mr. Gellasch. Well first, the whole point of the CAT is to
+find out who is doing the trading, and you have to have a
+certain amount of basic information about them in order to do
+that. Now, there are a number of ways that could be done.
+One would be to have all the personal identifying
+information in it. Another could easily be legal entity
+identifiers, which the CAT declines to do--doesn't do. I might
+argue that might be a more elegant way of solving some of these
+issues.
+But the cost-benefit analysis suggested by the proposed
+legislation, to me that cost-benefit analysis was done in 2009,
+2010, 2011, it was done in 2012 in the final rule for this. So
+it was done as part of the large-trader reporting analysis; it
+was done as part of the Consolidated Audit Trail analysis.
+It is long past settled that we actually need to know who
+is doing the trading in our markets. So I would argue that that
+is actually just to frustrate the purposes here.
+I 100 percent agree with trying to make sure that data
+security is important, and they should have someone there in
+that role. But it also requires cooperation.
+When we talk about what is taking so long to get this up
+and built, they have had it 7 years--or 7 months they have had
+the contract. They were involved in designing the
+specifications for years before that, along with the SROs, but
+that was only after several years of the SROs designing the
+specifications.
+Mrs. Maloney. OK. My time is up.
+I would be inclined to join the gentleman with his
+legislation if he removes the cost-benefit analysis, which,
+according to your analysis--2009, 2010, 2011--is past settled.
+I think this is a critical, critical issue.
+After the financial crash in 2008, the Flash Crash,
+everybody said, ``We have to know this information.'' If we
+care about the future of the financial system of our country we
+have to get this system up and running.
+All of you are going to be part of making that happen.
+I would like to get, if I could real quick, Mike Beller, to
+get from you exactly the elements that you will be collecting,
+send it to the committee. And I would like a monthly report on
+whether or not you have gotten the person assigned. Let us know
+or I will be calling you directly, because I think this is
+incredibly important to our financial security and to our
+country.
+I yield back.
+Chairman Huizenga. The gentlelady's time is expired.
+And the Chair right now recognizes the Vice Chair of the
+committee, Mr. Hultgren from Illinois, for 5 minutes.
+Mr. Hultgren. Thank you, Chairman.
+Thank you all. Grateful that you are here.
+It was stated that the SEC doesn't move too quickly. I
+think that is an understatement. And a big part of the delay
+has--it was over 2 years, I think, that this has stuck within
+SEC, so it is not just industry but there are other bureaucracy
+problems that are a challenge, as well.
+Mr. Concannon, I wonder if I could--first, welcome. Glad
+you are here. Thanks for your work.
+And if I can address my first couple of questions to you, I
+wanted to get your opinion on making sure the cybersecurity
+standards we are discussing today are really enforceable.
+As you know, the CAT operator is contractually obligated to
+be compliant with Reg SCI. Is there any reason to not make this
+a statutory requirement? Would this be an improvement to the
+discussion of the bill?
+And then also, do you believe compliance with Reg SCI, NIST
+(National Institute of Standards and Technology) standards, and
+other cybersecurity protocols would improve if the CAT operator
+were required to register with the SEC?
+Mr. Concannon. It is a great question.
+So Reg SCI is probably one of the most powerful rules I
+have seen by the SEC in a long time. The requirements that come
+with Reg SCI, because they are based on the NIST standards and
+they are global standards, require a great deal of work and a
+great deal of technical work included in that.
+So all of the SROs, all the exchanges have to comply with
+Reg SCI and, by definition, our vendors have to be in
+compliance with Reg SCI standards. So it would makes sense if
+the CAT was--obviously it has to be compliant with Reg SCI
+because of our own obligations and our vendor, but it would
+make sense if they were even a Reg SCI entity and registered
+with the SEC.
+That is really how the SIP, the securities information
+processor, where all the quotes come from our markets, is
+currently an SCI entity, as we call it. So it would make sense
+that others in the NMS Plan, including the surveillance part--
+and more importantly, if they are carrying all this critical
+information--not just PII, but proprietary trading information
+is critical information that needs to be protected--it would
+make sense that everybody in the chain is a Reg SCI registered
+entity.
+Mr. Hultgren. Thanks. I am going to shift a little bit, but
+stay with you, Mr. Concannon, if I could.
+I was hoping to see if you could speak to some of the
+opportunities and challenges of data standardization. I
+understand all the exchanges and broker dealers could
+potentially report data in different formats, which would make
+it extremely difficult for the CAT operator to transform this
+data--these data sets into useful information for its users.
+What steps should be taken to be sure data standardization
+processes are as frictionless as possible? It seems like this
+could be an opportunity to minimize costs. I wonder if you have
+any thoughts on that.
+Mr. Concannon. Yes. This is a critical element that is less
+talked about because it is in the technical details of how
+orders are--and information is sent into really any database
+that we use for surveillance today.
+We outsource all of our surveillance, or some of our
+surveillance and market manipulation requirements to FINRA,
+where they have become the master of normalization or data
+standardization. All of the exchanges and the brokers have
+different order types. There are thousands of different order
+types that we have registered with the SEC, unfortunately.
+Each order type becomes a new standard, a new piece of
+information for surveillance purposes. If we don't standardize
+all those order types it makes surveilling that database very
+difficult. So it is critical to performing adequate and
+superior surveillance to have data normalization or data
+standardization.
+Mr. Hultgren. Thank you.
+Ms. Dolly, if I can address to you, this database, as we
+are talking about, is going to contain every stock quote and
+trade in America. Apart from safeguarding personal information,
+what protections are being used to ensure the security of
+trading and quoting data?
+This information could be firm-specific and theoretically
+could be used to reverse engineer broker dealer strategies to
+serious detriment of not just the broker dealer but also the
+client and ultimately to the markets themselves.
+Also, this could all happen without a breach of the CAT.
+This is something we recently discussed in the committee when
+there were allegations of SEC staff illegally accessing trading
+source codes. Thousands of people have access to this data.
+Do you and does SIFMA share this concern? What do you
+believe should be done to address these concerns?
+Ms. Dolly. Our company doesn't really trade on a
+proprietary basis, but I do represent 6 million individual
+investors and institutions, and I can tell you that it is
+critically important and a very large concern of theirs how we
+handle their information and how we protect it.
+And I believe to date it is not just the chief information
+risk officer that hasn't been hired; I don't believe that
+proper procedures and policies and actually the Plan around
+securing that data has been shared, and so I don't have comfort
+around that yet.
+Mr. Hultgren. Thank you all.
+I yield back.
+Chairman Huizenga. Gentleman's time has expired.
+With that, the Chair recognizes the gentleman from Georgia,
+Mr. Scott, for 5 minutes.
+Mr. Scott. Thank you, Mr. Chairman.
+Ms. Dolly, I read your testimony and it is very
+interesting, and I agree with you. But I would like for you to
+highlight, if you could, when you did in your report some
+serious data security implementation concerns. Of course,
+paramount was the one in which the failure of the CAT system
+processor's not having a chief information security officer in
+place before the first reporting deadline.
+Also, I have been getting some calls from some of our
+friends in industry for a further delay of the November 2018
+reporting deadline, and I would like for you, if you could
+share with us that aside from maybe a full delay, could you
+talk about what can be done in the short term, in the next
+couple of months, that would make firms like yours and, quite
+honestly, all of us in America sleep a little better? Because
+there is some struggling as to how far to delay, what to delay.
+What can we do right now, what--in order to do this?
+Ms. Dolly, as you go through this, we do have people who
+may be tuning in on C-SPAN, American people. ``What is CAT,''
+they are probably saying. And of course we know it is the
+Consolidated Audit Trail, but if you could walk us through
+that, too, what we are talking about here and some suggestions
+from you as to what is most immediate that we need to do.
+Ms. Dolly. If I missed any of those questions just let me
+know.
+Mr. Scott. Sure.
+Ms. Dolly. So I think what we can do immediately is two
+things, maybe three. But first we need to work together in
+order to finalize the technical specifications for CAT.
+So I mentioned that the implementation deadline of November
+would be very difficult because firms need at least 12 months
+in order to implement. We haven't received the specifications
+to date and we are already a month into this now, so I am down
+to 11 months to be able to implement. And this is a large
+project for most firms, and we absolutely need a year to be
+able to design, create, and construct the solution.
+So that delay is not really sticking our feet in the mud;
+it is just reality that we need at least 12 months in order to
+be able to implement once we receive the technical
+specifications. So getting those technical specifications out
+will hasten our ability to comply and participate in CAT as an
+industry.
+Mr. Scott. Let me ask you, you also mention in your
+testimony a call for a serious cost-benefit analysis. Would
+that be helpful? And also with that analysis you wanted to add
+the consideration of whether personally identifiable
+information, or PII, should even be collected in the first
+place. Would you comment on that?
+Ms. Dolly. Certainly. I think that there are ways that we
+can move forward without PII being collected so that the
+regulators and the SROs can perform the surveillance that they
+need to perform and should perform to be able to provide for
+and promote a healthy and secure capital market for both
+institutions and investors. And it might be a more immediate
+way forward through the large-trader rule, through the legal
+entity identifier.
+If we could start there that might be a more immediate way,
+but what I would recommend is the collaborative effort on a way
+forward between the industry and the SROs and regulators.
+Mr. Scott. Yes. And I agree with you on that, and I think
+that is a very, very important point.
+Mr. Concannon, in your testimony you acknowledge that the
+work of CAT is incomplete and you cite data security concerns
+as a basis for that delay. Could you share with the committee
+today the efforts being done at the CAT operating committee to
+implement the data security protocols required by the CAT Plan
+before November 15th reporting deadline?
+Mr. Concannon. Great question. So the SROs that are
+responsible for delivering the CAT have been working diligently
+now for years, not only designing but also working with Thesys
+to build and implement. We meet not once a week but several
+times a week every week for hours on hours, and we have
+subcommittees that are meeting.
+We have built out a group of our own cybersecurity
+specialists to work, so we are in parallel working on the
+cybersecurity plan that the CAT will ultimately have while we
+are also out looking for a cybersecurity specialist to be
+employed by the CAT. So we are not standing still waiting
+around for this person to show up. Every SRO sitting at the
+table is hard at work and they are putting their highest
+professionals into the CAT process to make sure we deliver this
+CAT.
+Mr. Scott. Thank you very much, Mr. Chairman.
+Chairman Huizenga. Gentleman's time has expired.
+With that, the Chair recognizes the gentleman from Maine,
+Mr. Poliquin, for 5 minutes.
+Mr. Poliquin. Thank you, Mr. Chairman, very much.
+And thank you all very much for being here today.
+This is a very, very important issue. All of us here on the
+committee and here in the public sector have a responsibility
+to make sure our markets are protected and remain liquid and
+secure.
+This is still America. People like to invest, like to buy
+part of our economy, and they certainly have--should expect
+their data to be secure.
+And at the same time, I understand that the regulators are
+in the business of making sure that we have an opportunity,
+have the tools that we need, the data that we need to make sure
+you catch bad actors.
+I worry about everything. You do that when you come from
+rural Maine. I worry about our small investors.
+Let's say you are a nurse in Lewiston, Maine. And you are a
+single mom; you have a couple kids. You have aging parents and
+you see how expensive it is to care or help care for your
+parents as they get older.
+You are trying to save a little bit of money but you don't
+want to keep it under the mattress and you know you are getting
+almost nothing in cash, so you say, ``I want to buy 100 shares
+of Walmart and I want to buy it through my local broker,
+because I like Christmas and I buy my Christmas lights and my
+ornaments from Walmart, so that is a great way to invest in
+America.''
+So I am giving this information to my broker--who I am. He
+or she puts the order in. You get a confirmation back that, in
+fact, the trade has been executed at a certain price.
+Now, my question to you is the following: If something goes
+wrong with that mom who is a nurse in Lewiston, Maine with that
+trade or with her account, does that represent any disruption
+to our capital markets? I would say probably not.
+So my question is the following, is that, look, let's just
+call a spade a spade. We have a real problem with data security
+in America, whether it be the Federal Government, whether it be
+Equifax, or whether it be folks like Wells Fargo who have been
+misusing very sensitive personal data.
+Now, I have a concern that we are building a new system
+here to make sure we watch out for bad actors who could
+adversely or illegally influence market trends. I understand
+that. But you are putting a lot of data in one place--a lot of
+data in one place. And that concentration--maybe over-
+concentration--of the data concerns me.
+Mr. Gellasch, am I pronouncing your name right, or close
+enough?
+Mr. Gellasch. Close enough.
+Mr. Poliquin. Close enough.
+How many pieces of data per day would run through the CAT
+system when this thing is up and running, roughly? Billions?
+Mr. Gellasch. It is close to 60 billion events per day.
+Mr. Poliquin. 60 billion events per day. OK.
+And could someone tell me--Ms. Dolly, maybe you can--tell
+me why all kinds of sensitive personal information, including
+Social Security numbers, which are critical to making sure
+families can proceed with their lives with financial security--
+whether getting on an airplane, or getting a passport, or
+getting a job, or getting an interview for a job--why does that
+information need to be loaded up in one place where we know we
+have a problem everywhere and we are going to continue to have
+a problem with data security? Why is that information
+necessary?
+Mr. Gellasch. So if I can--
+Mr. Poliquin. Sure. Who wants to take a shot at it?
+Mr. Gellasch. Thank you. So the question is whether or not
+you need to know who that is or whether or not you need every
+piece of data about that person that is important to do that
+traveling along with that information. I would say those two
+things are different questions.
+Mr. Poliquin. And what is CAT doing now--what is being done
+so that the CAT will be up and running when it comes to this
+data? Is it necessary? Is it overkill? I am talking about for
+the little investor in rural Maine.
+Mr. Gellasch. Yes. I will say for the little investor--and
+I will also say, our members are also investors who have a lot
+of those people investing in them, too, it is their
+information, as well. So be it a large pension plan or
+something else, it is also a lot of those people.
+And I would say I 100 percent agree the information
+security is extremely, extremely important. What is equally
+important for them is to make sure that the market doesn't do
+something like a Flash Crash, because that will get them to
+lose their investment; that will also get them to say, ``I am
+not--I am going to put the money under the mattress again
+instead of buying my 100 shares of Walmart.''
+And that is what happened after the Flash Crash, actually.
+A lot of money did come out of mutual funds as a result of
+that.
+So one of the things I think we really need to focus on and
+say, look, what is the primary objective? The regulator needs
+to know who is doing the trading. That is a simple need. The
+regulators have known that now for decades. And they don't have
+that information.
+At the same time, how are you able to do that without
+having Social Security numbers traveling along with order
+information?
+I would say there actually was a somewhat elegant solution
+from legal entity identifiers and basic information and cross-
+referencing that. I thought that that would be a solution.
+Unfortunately, that is not the way the Plan was developed. That
+is not necessarily the way this has moved forward.
+I do think that FINRA has incredible capabilities on their
+current surveillance right now, but I think their surveillance
+team would probably also be the first to tell you that without
+knowing who is doing the trading they essentially have to have
+a whistleblower or they have to hit a screen and get very, very
+lucky.
+Mr. Poliquin. Thank you, Mr. Gellasch, very much.
+Mr. Chairman, thank you for your indulgement. I appreciate
+it. Yield back my time.
+Chairman Huizenga. Gentleman's time has expired.
+And we are getting some conversations going over here, too,
+because I think this is a critical point in this whole
+discussion: What is it that moves markets? Is it the individual
+investor or is it an institutional investor? And that may be
+some area where we need to explore that.
+So with that, the Chair recognizes the gentleman from
+Illinois, Dr. Foster, at this time.
+Mr. Foster. Thank you.
+Let's see. I guess this is a question for Mr. Concannon or
+Mr. Beller.
+I assume that there was a rather detailed cybersecurity
+specification as part of the vendor selection process for this.
+And did this include things like, the NIST specification for
+cyber procedures, and so on?
+Mr. Beller. Thank you. The CAT NMS Plan, as published,
+contains an enormous amount of prescriptive information on
+security. In fact, I would have to say that it is the most
+comprehensive information security program that I have ever
+seen specified in my life.
+It includes background checks and fingerprinting of
+employees and contractors; physical security of facilities; a
+requirement to encrypt all data in transit and at rest, meaning
+when it is moving through the system and when it is on
+computers themselves; to segregate personally identifiable
+information from all other information; and to ensure that
+personally identifiable information is not returned as part of
+the normal use of the CAT. In fact, there are special rules to
+protect the personally identifiable information so that only
+specific users can be empowered to have it, and those users
+must have a need to know, and there are further cybersecurity
+restrictions there.
+So it is a very comprehensive--
+Mr. Foster. --Personally identifiable information, that is
+at the firm level, the individual level?
+Mr. Beller. Individual level.
+Mr. Foster. Individual. So this is like one trader inside a
+firm, for example.
+Mr. Beller. Yes. Or one customer of a firm.
+Mr. Foster. Right. OK.
+And so I had a question of--your testimony refers to
+defense in depth, where you have cloud-based storage. When you
+refer to cloud-based operations does that mean there are other
+users on the same silicon of this, or do you have a dedicated--
+will all the CAT information, where--when it gets aggregated,
+be by itself in a room by itself, or are there going to be one
+of these things where you are selling computer time to anyone
+who is interested when--
+Mr. Beller. So some systems of the CAT are completely
+segregated. All the ones that involve personally identifiable
+information are completely segregated in data centers--tier one
+data centers, where the exchanges are located in Illinois and
+in New York--New Jersey, excuse me. And that data is all
+strictly in private data centers.
+Other data of the CAT, when encrypted, can exist in cloud
+systems that are inside the United States.
+Mr. Foster. OK. And the encryption-in-flight is with
+frequently renegotiated session keys and all this stuff?
+Mr. Beller. Absolutely.
+Mr. Foster. OK.
+Now, you also mentioned the query structure, that when you
+are querying--looking for abusive trading patterns, or whatever
+the data set will be used for, that you had some method of
+querying the data without just returning the entire
+unencrypted--give me all the trades for Renaissance or someone
+like that for the last 6 months. Do you have a way of querying
+it and identifying abusive patterns without actually pulling
+all the individual data for that?
+Mr. Beller. So let me clarify that the--just want to make
+sure that it is clear that the regulators, of course, have to
+do the querying, not Thesys. Thesys has to provide the system
+that permits the querying.
+But in answer to your question, as I understand it, yes,
+there are extensive query capabilities that allow the regulator
+to request a very narrow slice of the data very specifically.
+And to reinforce that I am--I repeat that in general queries
+against the CAT system will not return PII in any case, that
+that would be a separate query that would be specifically for
+authorized--
+Mr. Foster. A serial number for--that this was an
+individual. If you are looking at a correlation between things
+that look like market manipulation, where you have two
+allegedly separate traders--
+Mr. Beller. Yes.
+Mr. Foster. --And you are looking for correlations to find
+out if you are manipulating a price here and making a
+derivative bet there, or something like that.
+Mr. Beller. Exactly. So there would be a unique identifier
+for--
+Mr. Foster. There is a unique identifier, and so and the
+personally identifiable stuff is the translation of that to
+Social Security numbers and addresses. OK.
+Mr. Beller. So presumably that would happen--
+Mr. Foster. Identifying the existence of abusive trading
+doesn't require knowing who it is, just the pattern.
+Mr. Beller. At that point. The issue becomes figuring out a
+uniform identifier for the individual requires PII.
+Mr. Foster. OK. And then you have to understand if this
+person is actually the brother-in-law of that person, and I--
+there is no way to not go into addresses and names and other
+databases to figure that out.
+And so eventually a lot of the querying will actually have
+to get access to, I would presume, to the personally--this--
+there may be an illusory separation of this, is what I am--for
+the queries that actually take place.
+Let's see, and could you just quickly walk through how his
+query system would have identified the abusive behavior of this
+guy in London, whose name I forget, who actually went to jail
+over abusive trading around the time of the Flash Crash? What
+queries would have led to that?
+Mr. Beller. So I am not a regulator and wouldn't want to
+explain how a regulator does their job. The important point
+that I can state here is that without the ability to identify
+an individual then the orders just appear to be coming from a
+broker dealer, and how does one separate one person's trading
+activity from another?
+Mr. Foster. OK. Thank you.
+Yield back.
+Chairman Huizenga. Gentleman's time has expired.
+With that, the gentleman from Ohio, Mr. Davidson, is
+recognized for 5 minutes.
+Mr. Davidson. Thank you, Mr. Chairman.
+And thank you, to our guests. I really appreciate your
+expertise in this matter, and thanks.
+A couple of you talked about how--painted this as some
+draconian delay effort to sabotage CAT. And as the sponsor of
+the Market Data Security Act I can assure you that it is not.
+Frankly, I can't understand why it wouldn't take a simple
+memo, if it is as clean-cut as, Mr. Gellasch, as you say it is,
+as, ``Oh, well this has already been done. We have planned for
+6 years.''
+Great. Just send us a memo that says that. Piece of cake.
+Doesn't even take a week.
+But if you want to be thorough, in light of the new
+director at the SEC coming in and finding after the fact that
+there are data breaches in the SEC, as you point out, maybe
+they are not the best--someone is going to certify it. Shall we
+say that it is the chief information officer at Thesys? No.
+Mr. Beller, you have an organization to run, and certainly
+many other things to accomplish. In the absence of this
+position being filled, who fills the role now?
+Mr. Beller. So aspects of the role can be filled by other
+individuals. For example, we have security experts working
+together to build the security plan, and working
+collaboratively with the SROs on that. We have technologists
+who are experts in cryptography developing the cryptographic
+systems.
+But there are parts of the role that have to be fulfilled
+according to the Plan by a chief information security officer
+who has certain fiduciary duties and responsibilities, and
+those we can't--we have no way around.
+Mr. Davidson. Does that person somehow mitigate your
+responsibility as the CEO for everything that happens or fails
+to happen in your organization?
+Mr. Beller. Not at all.
+Mr. Davidson. Mr. Concannon, has Thesys presented any CISO
+candidates?
+Mr. Concannon. Yes. We have been evaluating a number of
+candidates for a period of time, and it is, as I mentioned
+earlier, it is quite a hard role to fill. It is quite a hard
+role to find adequate candidates.
+Mr. Davidson. What is the wisdom, in your mind, of going
+forward without someone who owns the responsibility for the
+security? Is the CEO at Thesys adequate accountability for data
+security, or should this position be filled?
+Mr. Concannon. As much as I will hold Mr. Beller
+responsible for anything that breaks in the CAT, we do need a
+cyber specialist sitting in the seat.
+I want to clarify something. We are very focused on this
+individual, but it is an entire process that that individual is
+responsible for.
+It is really network security; it is--and then it is also
+what we call penetration testing. So there has to be a third
+party that comes in--a professional third party that comes in
+and tries to penetrate the CAT network. And that is done by all
+of us--every SRO and hopefully most of the government agencies.
+We have these third parties that come in and try to hack our
+networks regularly.
+We have to get to that level of capability to ensure that
+this network that we are building, called the CAT, and all this
+proprietary information that we are putting in is protected,
+and even from our own hackers.
+Mr. Davidson. Thank you very much for that, because it
+highlights that it is not as simple as let's--``Yes, we have
+already been doing that. Let's just send a memo.'' It is
+something that would take a review.
+I am reluctant to say how long that review should take,
+whether it is a week or I would expect that it would be a
+matter of months or weeks, not a matter of months or years, in
+terms of making sure we have this well thought out.
+Ms. Dolly, you point out one of the critical pieces is, in
+most systems when there is a compromise, one of the most
+frequent collapses or breaches is inpoint security. There are a
+lot of inputs into this, and you pointed out that each entity
+that is involved in launching this product should also have
+some level of certainty in their data controls.
+And Mr. Concannon, you referenced that in a way.
+Could you offer your thoughts there, please?
+Ms. Dolly. Yes. As I outlined, the more places that this
+data resides the more requirements there are and the more
+complex the security and protection around it needs to be. The
+more users that have access to it and are able to do things
+like bulk download creates risk to the folks whose information
+is in there, and so it just creates more targets.
+Mr. Davidson. Thank you for that. And that is exactly it.
+It is risk-based.
+And I think my time is expired, so thank you for your
+testimony.
+Mr. Chairman, I yield.
+Chairman Huizenga. Gentleman yields back.
+With that, gentleman from North Carolina, Mr. Budd, is
+recognized for 5 minutes.
+Mr. Budd. I am going to yield to the gentleman from Ohio
+for a few moments.
+Mr. Davidson. Thank you.
+I just had one additional point there, because what we are
+asking in market data is that it be a risk-based assessment.
+And it is systemic, and maybe that has all been designed in.
+But when you have voids at the top, when everyone is
+responsible, as is often the case, no one is. And the concern
+is that this is going on; the concern is that it has gone on in
+the regulator, SEC, so doesn't it make sense?
+So what would be the downside of making sure that we get
+the product right? And when I think about it and I hear, ``We
+don't have the instructions,'' I think about other products
+like operating systems.
+Part of the reason these devices were so successful, when
+the one that I care to carry more wasn't, is they found people
+to be able to write apps for it. And so people had to have
+access to the code. However, having access to the code creates
+some security risks.
+So how do you keep that under control? What is the status
+of being able to get that and assure us that we have the risk
+controls, Mr. Concannon?
+Mr. Concannon. Thank you.
+Really I want to clarify one fact that we have been
+wrestling here and hasn't been mentioned. We have the most
+robust surveillance mechanism on the Planet. We have
+professional regulators across the country that are surveilling
+all of the data, every trade that takes place in our markets.
+So we are not--even though some other witnesses mentioned
+that--risk and there is manipulation going on, we are catching
+manipulation every day. We are catching manipulation across
+client accounts; we are catching manipulation across markets
+and across products. So we have some of the most robust
+surveillance.
+So when I think about getting it right I feel very
+comfortable that we are very protected. All of our investors
+are protected by the professionals that are defending our
+market.
+Mr. Davidson. Thank you.
+I yield back, Mr. Budd.
+Mr. Budd. Thank you.
+Mr. Concannon, to continue, so given the relatively limited
+Flash Crash activity since 2010 and the clearly increasing risk
+of cyber incursions that we have seen, it looks to me that the
+risk calculation concerning the CAT, or the Consolidated Audit
+Trail, truly changed. It looks like what we are trying to
+address, the Flash Crash, is less likely, and the problems that
+a single point of failure would cause are actually more likely.
+So is it your view, as well, and can you talk about the way
+that the risk environment has changed for this project and how
+that has changed over time?
+Mr. Concannon. Sure. First of all, there has been this
+misunderstanding that the CAT somehow stops flash crashes. It
+has nothing to do with stopping flash crashes. It is a
+database. It is a database where we house information.
+In fact, we had a mini flash crash in August 2015 and we
+were able to replicate the market behavior very quickly and the
+SEC was able to issue a report because they actually hired
+Thesys to write MIDAS (Market Information Data Analytics
+System), which is a database that they use to look at the
+market and study the market and analyze it.
+As I think about it, the material, the data that is going
+into CAT, both in phase one--and eventually PII data, but even
+just the phase one--is proprietary trading information of not
+only investors but market makers and proprietary trading firms.
+And it can be used to manipulate our markets.
+So the first phase of CAT is critical data going into a
+database that we need to protect. And I would agree with you
+that cybersecurity is the number one concern right now, given
+all of the evidence that we have seen by some of the most
+technically sophisticated operators that they, too, were
+hacked. So we need to have that as our first line of defense
+while we build this system.
+It is OK to take time to get it right because we have the
+best surveillance mechanisms today provided by the exchanges,
+the other exchanges that don't sit here, and FINRA.
+Mr. Budd. Thank you, Mr. Concannon.
+Ms. Dolly, in the remaining time I have, you note in your
+testimony that the draft CAT specs have been released today.
+They don't have a lot of detail on data security and
+protection.
+So in your opinion, what is missing in regards to what has
+been released so far?
+Ms. Dolly. Really just about everything. We haven't
+received very much around cybersecurity and the protection that
+we would demand and need to protect institutional and retail
+clients. So I don't believe that has been issued to date, and
+it would be a responsibility, I would imagine, of the CISO when
+they are hired.
+Mr. Budd. Thank you, Ms. Dolly.
+I am out of time. Yield back.
+Chairman Huizenga. Gentleman's time has expired.
+But we are hoping, if it is all right with our panelists,
+to do a quick second round, as well, if you have the time and
+the ability to stay. There is interest on--I think on our side
+as well as the minority's side. We do have one more person, I
+believe.
+Mr. Gonzalez, are you prepared?
+Mr. Gonzalez. Yes.
+Chairman Huizenga. You are recognized for 5 minutes.
+Mr. Gonzalez. Thank you.
+The question is for Mr. Beller, and the question is, the
+CAT Plan expressly requires that the CAT include industry
+standard data controls, including the cybersecurity framework
+established in the National Institute of Standards and
+Technology. Can you describe the specifics of the aspects of
+the CAT design that provide protections for personally
+identifiable information, such as customer data, that will be
+reported to the CAT?
+Mr. Beller. Thank you for the question. Absolutely.
+So first to point out that the--there are extensive
+cybersecurity requirements in the Plan. One of them is that the
+Plan processor has to build the system in accordance with the
+National Institute of Standards and Technology, or NIST,
+cybersecurity framework, which explains whole areas of control
+groups around many different aspects of security. It is a
+comprehensive plan and we are building to that structure.
+With respect to personally identifiable information in
+particular, there are an extra set of requirements that are
+specific to that data as opposed to or as distinguished from
+other data in the system. There is a special role-based access
+control that a regulatory user of the CAT is not necessarily
+permitted to access the PII except on a need-to-know basis. So
+that means there are extra access controls in the system that
+allow you to--allow an administrator to determine that an
+individual can be allocated access to that data or not,
+separate from access to the system.
+It is stored in separate areas, actually in separate
+physical data centers, and not stored in the cloud. It is
+encrypted in transit, at rest. There is an audit trail specific
+to the access to personally identifiable information over and
+above the auditing of everything else that happens. And in
+general, record displays in the CAT, they don't display the
+personally identifiable information.
+I also want to point out that personally identifiable
+information won't be collected in the CAT until phase two,
+when--not--it will not be collected in the initial deployment
+of the CAT, which only, in its initial phase, takes data from
+the participants themselves, which are the exchanges and FINRA.
+Mr. Gonzalez. Thank you.
+I yield back.
+Chairman Huizenga. Gentleman yields back.
+With that, the gentleman from California, Mr. Sherman is
+recognized for 5 minutes.
+Mr. Sherman. Ms. Dolly, what would it take for you to be
+comfortable resuming implementation of CAT, and what would it
+take for those of us whose data is in the hands of your
+customers to also be comfortable?
+Ms. Dolly. I would be much more comfortable if we
+understood what the technical specifications were so that we
+could make certain that we could build the house that we are
+being asked to build. If we don't know what we are building it
+is a little bit difficult to make certain that we meet the
+obligations.
+The second is that I would like a robust discussion around
+whether PII is actually necessary, or can we use patterns and
+other data so that we could identify things that may create
+uncertain markets or unsecure markets and be a risk to our
+markets, yet not create such a large database of personal
+information that is subject to cyber risk and other.
+And I would certainly be open to figuring out a way--a
+collective dialog that would help us to move implementation
+forward with insight and influence by all participants. We all
+have, quite frankly, a vested interest in a secure and healthy
+capital market, but we also have a vested interest and we have
+an actual duty to protect clients' and investors' private
+information.
+Mr. Sherman. Mr. Beller, I wonder if you could shed some
+light on how Thesys and the committee are approaching the
+hiring of a chief information officer. I assume you are
+recruiting someone with world-class experience in
+cybersecurity.
+Mr. Beller. Absolutely. We have engaged a prominent
+recruiter. We have 24 candidates under consideration, if I
+recall correctly just from memory. It could be changing day to
+day. A number have already been initially interviewed and we
+are now in the process of setting up interviews that would
+include both Thesys CAT personnel and SRO personnel.
+Mr. Sherman. Also, Mr. Beller, we should be focused on
+improving the data available to regulators without requiring
+market participants to engage in costly duplicative reporting.
+How do you tend to construct CAT so that the existing system,
+like OATS (Order Audit Trail System), can be retired as soon as
+possible after CAT is up and running?
+Mr. Beller. So it is our opinion that one of the real
+positive aspects of the Consolidated Audit Trail is it allows
+the retirement of several existing systems, one of which is
+OATS. And as I understand it, FINRA has published an
+explanation of the process by which, once the CAT has come up
+and is running and has, according to them, measured certain
+reporting quality standards, then they would be retiring OATS.
+Mr. Sherman. Ms. Dolly, is that a system that works for
+your members?
+Ms. Dolly. Yes. That would be fantastic if we got to that
+point so we didn't have duplicative reporting requirements.
+Mr. Sherman. Mr. Beller, could you provide a summary of
+Thesys' expertise with respect to management and security of
+market data, including expertise in responding to cyber
+attacks?
+Mr. Beller. Certainly. I personally have been involved with
+cybersecurity for an extended time. There is some information
+in my prepared testimony.
+In fact, as a researcher in the Bell Communications
+Research, which was the research organization of the telephone
+networks back in the day, I myself did research on the
+application of cryptographic protocols to securing
+communications.
+I have been involved in building such systems over--systems
+in the capital markets for quite a long time now. And one
+example of that--of course, it is not just me. My company has a
+large number of capital markets technology experts with a great
+deal of cybersecurity expertise.
+We have, for example, deployed the MIDAS system for the
+Securities and Exchange Commission starting in 2013. In fact,
+we received the contract in August 2012 and within 6 months had
+a system up compliant with the National Institute of Standards
+and Technology security framework and meeting all requirements
+required by that framework, and had authority to operate.
+That system has been operating for 5 years and we were
+recently renewed, showing renewed confidence in us.
+Mr. Sherman. Thank you.
+My time is expired. I yield back.
+Chairman Huizenga. Gentleman's time has expired, but we are
+going to move to a second round.
+And I will recognize myself here for 5 minutes to continue
+the conversation. A little bit of what Mr. Davidson was talking
+about, but certainly what the Ranking Member and I were talking
+about up here.
+Ms. Dolly, I would like to know, are retail investors
+typically involved in market manipulation?
+Or maybe, Mr. Concannon, you can address that, as well.
+Ms. Dolly. I don't know necessarily how to answer that
+question. I am sure they could be, but in the past there--it
+has been more of an institutional mechanism. For example,
+algorithms and trading platforms that kick off at certain
+points in a market movement generally have contributed more and
+are able to swing the market more, certainly, than a retail
+investor.
+Could there be a bad actor that is a retail investor? Of
+course. But the average retail investor, as described before,
+is not necessarily going to be able to move the market.
+Chairman Huizenga. Mr. Concannon?
+Mr. Concannon. Yes. In fact, when you look at the data--and
+Mr. Gellasch mentioned the large-trader ID--if we were to
+implement a large-trader ID we would probably capture the
+majority of what I will call the surveillance alerts that our
+regulators are seeing day in and day out. So retail investors
+generally are not involved in manipulation. There are retail
+investors that obviously get caught up in insider trading, and
+we capture those quite quickly.
+We are seeing an increase of--
+Chairman Huizenga. So just on that point, so you don't need
+PII at that point, that data, to necessarily catch somebody who
+is doing insider trading?
+Mr. Concannon. To be clear, we, the market and the
+regulators, always get PII. So the PII exists in the regulatory
+framework.
+Chairman Huizenga. But it wouldn't have to go into a
+database--
+Mr. Concannon. We don't need it--
+Chairman Huizenga. --To catch those inside traders.
+Mr. Concannon. --In the surveillance. There is not a
+surveillance mechanism in the U.S. that is surveilling Social
+Security numbers to look for insider trading.
+Chairman Huizenga. So have there been alternatives really
+considered? Mr. Gellasch talked a little bit about this large-
+trader ID, which has been talked about.
+Why could we not just do that--assign a certain threshold
+and above has to have this ID, then use that, load that into
+the database. It would seem to me that that covers what the SEC
+is trying to get at; it covers the tracing of market
+manipulation and other things; yet, it doesn't expose
+individual retail investors, Bill Huizenga going out and buying
+300 shares of, pick it, Gentex or, Steelcase, or whatever it
+might be--good West Michigan companies.
+A, I am not moving the market. B, I am not using any
+manipulation into that, but I am exposed. And information is
+the gold--personal information is the gold of the modern era,
+as I always say. And if we know that there is a--that the safe
+has been cracked and we say, ``cat burglar got away, or maybe
+we even caught the cat burglar but let's just load some more
+gold into that vault,'' which we know has been breached, why
+would we continue to do that?
+So--
+Mr. Concannon. There was a question in that--
+Chairman Huizenga. Yes. Here is the question--
+Mr. Concannon. I understand the question.
+Chairman Huizenga. OK.
+Mr. Concannon. The answer is there are alternatives to the
+current design of PII in the CAT, and I was encouraged by
+Chairman Clayton's recent statements, and he continues to make
+those statements that he is open to looking at alternatives on
+PII in particular. Among the industry and some regulators we
+have talked about a large-trader ID solution as a fairly--
+Chairman Huizenga. Which could be an individual, right? If
+it is--
+Mr. Concannon. It can be a professional trader--
+Chairman Huizenga. --Buying huge, massive blocks as an
+individual.
+Mr. Concannon. This is a method that is used in the futures
+market. There is a concept of large-trader ID. It follows every
+order into the surveillance system so you can track the large
+trader based on their activity.
+So yes, there are solutions that are being kicked around to
+avoid having that PII information in the database.
+We will always get access. Regulators have ample access to
+PII information under the blue-sheeting technology that we
+have.
+Chairman Huizenga. When it comes to enforcement?
+Mr. Concannon. Right.
+Chairman Huizenga. I am going to get to you.
+But real quickly, Mr. Beller, you are including PII because
+you are required to include PII, correct?
+Mr. Beller. That is absolutely correct.
+Chairman Huizenga. OK. So if we come back and, working with
+the SEC, or legislatively we say, ``Hey, let's develop a
+separate system,'' you have no problem being able to do that?
+Mr. Beller. Absolutely.
+Chairman Huizenga. All right.
+I am over my--I am going to try to do that. The Ranking
+Member, I would--believe would go to Mr. Gellasch here, but I
+am--with that, my time is expired.
+Mrs. Maloney. OK. If anyone would like to respond to the
+Chairman's statements--Mr. Gellasch, why don't you start and
+anybody else who wants to respond.
+Mr. Gellasch. Thank you for the opportunity. I wanted to
+actually echo and agree.
+Frankly, the FINRA had proposed using a large-trader ID
+reporting system as part of the Consolidated Audit Trail many,
+many years ago and actually wrote a white paper on precisely
+that point. I think when you convert to a different model like
+that two things have changed since that time.
+One is, what is the purpose in the abstract? Where do you
+set those thresholds, becomes a very, very, very important
+question in terms of volume thresholds and those types of
+things. I do think that there is significant opportunity there
+to reduce risk, perhaps, while still capturing the bulk of
+concerning things.
+Two, there actually is a system that would be valuable in
+the legal entity identifier--again, one that was not included
+with the CAT but something that I would argue should be
+included in the CAT.
+And I will actually make a third point, which Mr. Concannon
+brought up, which is that a system similar to that is used in
+the futures market, and I would argue remarkably effectively.
+Mrs. Maloney. Thank you.
+Mr. Beller, you noted in your testimony that the CAT is
+subject to very robust cybersecurity standards. Have you
+actually completed your work on implementing these
+cybersecurity standards yet?
+Mr. Beller. The work is not complete, and we have discussed
+today some of the key elements that are missing. And one of the
+most important is the naming of a chief information security
+officer who has very specific roles in the completion of the
+process.
+Mrs. Maloney. If the exchanges started submitting data to
+the CAT today would that information be protected?
+Mr. Beller. I believe that the Plan requires us to go
+through some steps before we can accept data.
+Have we built a technical system that can receive and
+secure data? Yes, I believe so.
+The Plan requires us to go through a number of steps to
+certify that, and those are collaborative steps between us and
+the SROs: Naming the CISO, approving all appropriate
+cybersecurity policies, and having what is called an
+independent third-party audit of both the code--that is to say
+the software code--and the third-party penetration testing.
+Those things all are steps that are required and they haven't
+been done as yet.
+Mrs. Maloney. Mr. Gellasch, in your written testimony you
+pointed out that the CAT bears many similarities to FINRA's
+Order Audit Trail System, or OATS. Can you walk us through some
+of those similarities? What are the similarities to OATS?
+Mr. Gellasch. Yes. So the Order Audit Trail System actually
+itself was a response to a crisis in market surveillance,
+actually, and created in the 1990's for that purpose.
+And what it does is it is a comprehensive audit trail
+system, but it doesn't include beneficial owner information; it
+doesn't include the types of precision you need to conduct
+modern surveillance. It was a product of the late 1990's.
+And it is the--you glue that together. What FINRA does is
+they glue that together with the consolidated prop feeds to
+really get an understanding. And they do fantastic
+surveillance, but without the benefit of the beneficial owner.
+So trying to figure out who is doing the trading isn't in
+OATS, but it would be in the Consolidated Audit Trail. But
+conceptually they are remarkably similar.
+They are also remarkably similar in something Ms. Dolly
+spoke about earlier, which is how many people access the system
+and how many people are inputting into the system. One of the
+greatest challenges with the Consolidated Audit Trail, it is
+not just the folks who get to access the data; it is actually
+one of the greatest challenges is something she has touched
+upon, which is the folks putting in the data.
+When you have thousands of folks putting data into a system
+a lot can go wrong. And that is actually one of the great
+challenges.
+And again, FINRA has been doing this a very long time, and
+actually that--they have learned from that over now several
+decades, and that--all of that knowledge has actually gone
+into, I think--
+Mrs. Maloney. So that is a very important point, so I want
+to go back to Mr. Beller.
+Who is going to be putting the data in, Mr. Beller, into
+your system? Who is going to have--be putting that data in?
+Mr. Beller. The broker dealers will each be responsible for
+transmitting their data into the CAT on a daily basis.
+Mrs. Maloney. And the basic difference between CAT and
+OATS, again? What is the basic difference between them?
+Mr. Beller. Oh, was this to me?
+Mrs. Maloney. I am talking to Gellasch right now, yes.
+Mr. Gellasch. Sorry. Most important to me is knowing who is
+doing the trading. And as Mr. Concannon referenced, the--
+Mrs. Maloney. In other words, you don't know who is doing
+the trading in OATS, right?
+Mr. Gellasch. You don't know who is doing the trading.
+Mrs. Maloney. OK.
+Mr. Gellasch. That is right. All they can say is whether or
+not it is principal or not, and so they--you don't know who the
+beneficial customer is.
+Mrs. Maloney. OK. Going back to the point of Ms. Dolly real
+quick, she says there is duplication.
+So in your view, is the CAT necessary in light of the
+similarities to OATS? I am talking to you, Mr. Gellasch. Her
+point is there is too much duplication.
+Mr. Gellasch. Sorry, I--
+Mrs. Maloney. Do you think it is necessary? Is the CAT
+necessary?
+Mr. Gellasch. One of two things I think is absolutely
+necessary. What I thought when people started this process of
+building the Consolidated Audit Trail in 2009, before it was
+even released, was that you could--the thought was to upgrade
+OATS: OATS 2.0. And most of the industry thought that was what
+would happen.
+We have gone down a very different path now where we are
+creating the Consolidated Audit Trail and maybe retiring OATS.
+But in either outcome it is a critically important and
+necessary step to understand who is doing the trades in an
+automated way so that the regulators can actually see, in an
+automated way, who that is.
+Mrs. Maloney. Thank you.
+Chairman Huizenga. Gentlelady's time has expired.
+With that, the Vice Chairman, Mr. Hultgren, for 5 minutes.
+Mr. Hultgren. Mr. Concannon, just real quick, can't they
+already get that information off the blue sheets?
+Mr. Concannon. Yes. To be clear, all the client information
+is available through blue sheets within 24 hours.
+Mr. Hultgren. Yes. That is what I thought.
+Mr. Concannon. And there has been a--more of a recent
+challenge for the regulators because what they are finding is
+certain traders, professional traders, usually sitting outside
+this country, are using their family account information to
+open up accounts to start manipulating markets. So today our
+regulators are already finding cross-market and cross-account
+manipulation. Having those identifiers flow through the CAT is
+helpful, but the bad actors have already found a way around
+that.
+Mr. Hultgren. Right.
+Mr. Beller, I wonder if I could address to you, your
+testimony and discussion generally is focused on preventing
+intrusions into the CAT database and also mitigating data loss
+in the event of such an intrusion. As you know and as we have
+talked about, the SROs and the SEC would be able to download
+data from the CAT into their own systems.
+I wondered, how can you protect the data once it has left
+your database that you have designed? It seems that once it is
+on another server that it would be susceptible to all the
+vulnerabilities that your cybersecurity efforts were designed
+to protect it against once it has left your database there.
+Wouldn't preventing the downloading of this information greatly
+reduce the risk of a data breach?
+Mr. Beller. Certainly we cannot control the data once it
+leaves the system. The Plan does call for the chief information
+security officer of the Plan processor to review the procedures
+that the SROs use to protect the data.
+We, in our original vision for the CAT and the vision that
+we are executing on, want to build a system that has as much
+functionality as possible on the platform so that the SROs can
+do their work on the platform and not have a great need to
+remove the data. But the Plan does require them to have the
+ability to remove the data.
+Mr. Hultgren. Seems like there is an obvious risk there
+that we need to continue to talk about and figure out.
+I am going to wrap up my time with Mr. Concannon and Ms.
+Dolly. And you have talked about this; Chairman Huizenga
+brought this up, but just maybe a little bit more. How could
+unauthorized access of identifiable proprietary transaction
+data be used for market manipulation if it even could? And
+wouldn't unauthorized access to identifiable proprietary
+transaction data run counter to CAT's goal of instilling market
+confidence?
+Mr. Concannon. So my biggest concern--and you raised it in
+your question, and it has nothing to do with PII. It has to do
+with the proprietary trading information of our members. These
+are firms who have spent millions of dollars developing just
+basic market-making code on how their market-making models
+perform.
+There are going to be people, bad actors that want access
+to that. And they can reverse engineer the information from the
+data in the database, and then they can trick the market-maker
+code to do bad things. And they can profit from that.
+And we see it every day. There are people that don't have
+access to the data that are trying to make market-makers lose
+money, and we are finding that behavior. But if they get access
+to that unique information it is much easier.
+Mr. Hultgren. Yes.
+Ms. Dolly, any last thoughts?
+Ms. Dolly. I don't know if this is manipulation of the
+market, but it is certainly manipulation of the investor: When
+access is penetrated what we have seen is that--what we call
+account takeovers, where bad actors come in and they are able
+en masse to be able to collect information that is personally
+identifiable, and even if it is simply their investing account
+they can go in and execute orders that would benefit them from
+a profitability perspective.
+Mr. Hultgren. Yield back the balance of my time to the
+Chairman.
+Chairman Huizenga. Gentleman yields back.
+With that, the Chair recognizes Mr. Vargas from California
+for 5 minutes.
+Mr. Vargas. Thank you very much, Mr. Chairman. Appreciate
+the opportunity.
+A question to Mr. Gellasch. You were saying that you
+expected there would be an OATS 2.0 as opposed to a--that we
+would go down this different avenue that we now have. So I
+would ask you this, then: Why is it so important that we know
+who is doing the trading? Is it because of--if you could expand
+a little bit on that, is it because of market manipulation, or
+because of data breach? Why is that?
+Mr. Gellasch. Yes, and I actually--this was something that
+Mr. Concannon also briefly touched upon. If you have the
+opportunity I encourage you to ask your staff, or you
+personally, to go speak with the market surveillance folks at
+FINRA. It is an incredibly impressive team that oversees the
+markets.
+And one of the most disturbing things I learned when I was
+a securities defense lawyer and had a number of firms as our
+clients, and I focused on trading cases--market manipulation
+cases, in fact. And one of the things that was really
+disturbing to me when I went to work for the government was I
+met with Tom Gira and the FINRA folks who are still there and
+they were able to show me how they--the trails went cold.
+They could see abusive trading; they could see
+manipulations. And the trails disappeared. And increasingly so
+if you were to have those conversations or your staff were
+today, they would disappear often in China, or Eastern Europe,
+or other places outside of the United States.
+And one of the things that is very, very, very hard to do
+is to track trading across markets. So they have gotten very,
+very good at trying to reverse engineer patterns. They have
+hundreds of them trying to reverse engineer patterns to
+basically solve a problem that would be readily solved and much
+more likely and consistently solved if they actually knew who
+was doing the trading in the first place.
+Mr. Vargas. Would anyone else like to comment on that?
+Mr. Concannon. Yes. Just in terms of the trail going cold,
+just to clarify--it isn't quite aware of how it works,
+unfortunately FINRA doesn't have the jurisdiction nor do the
+exchanges and the other SROs against an individual. And so
+those cases are passed to the SEC and the SEC then has full
+jurisdiction to go after individuals that perform manipulation.
+We have jurisdiction over only our members to prosecute our
+members.
+Trail going cold means there is an individual trader in a
+foreign jurisdiction trading in our markets doing bad things
+and it is at the hands of the SEC to go and prosecute that
+individual. That is very hard for them to do. When they think
+about all the resources that they have, there are a lot of
+bigger things for them to go after.
+And so trails do go cold, but we have rules in place now
+that will actually shut off the firm that actually allowed that
+individual into our market. So there is more detriment now
+because of some of the rules--recent rules that we have passed,
+where you lose complete access if you let bad actors into our
+market.
+Mr. Vargas. Mr. Gellasch, yes, sir?
+Mr. Gellasch. I might respond all of that is fantastic, and
+the market access rule is the one he is referencing, and
+others. I think that those are absolutely fantastic
+developments.
+The trouble is, again, in order for those things to happen
+you have to know that the manipulation is happening, and so
+when you look at some firms that may have thousands of
+customers all trading at real time, a lot of these
+manipulations actually just get lost in the noise, whereas if
+you are able to identify the individuals or individual firms
+they wouldn't.
+Mr. Vargas. OK.
+Mr. Gellasch, last to you, there are some people that
+believe that because of data breaches that the opponents of CAT
+say that things should be slowed down. Could you comment on
+that? Because we have known now for a long time there have been
+cybersecurity problems since 2010, I believe.
+Mr. Gellasch. Yes. Cybersecurity has actually been a
+significant concern for the years even before the Consolidated
+Audit Trail.
+And since then we--most recently we are certainly focused
+on Equifax and the SEC's decades-old EDGAR system, but we can
+go back in time, right? We can go back in time to things like
+Target with credit cards, or we can go back to JPMorgan Chase,
+or we can go back to a number of other very large--some of the
+most sophisticated firms in the world who, by the way, also
+have extremely valuable databases.
+Now, let's be clear: Is a database that may be worth
+billions of dollars and tens of billions of dollars to someone
+who wants to do bad things a bigger target than one that is
+worth maybe several billion dollars? The answer is yes.
+In both instances however, there is a pretty strong
+incentive and a pretty significant data risk associated with
+that. I think that those have existed now for years.
+Frankly, that is part of the reason why I find it
+interesting that I am on the panel defending the standards,
+protocols, requirements, and contract requirements that the
+SROs built into the Plan when they designed it along with
+Thesys and other data security experts, but that is where we
+are. They actually were very, very good about this and they
+have been for years, and they still are.
+What is interesting to me is to understand that they
+selected Thesys just a few months ago and it was only over the
+last several years--
+Chairman Huizenga. Gentleman's time has expired.
+Mr. Gellasch. --As this was evolving that those
+requirements were being established.
+Mr. Vargas. My time is expired.
+Thank you, Mr. Chairman.
+Chairman Huizenga. Gentleman's time has expired.
+With that, gentleman from Ohio is recognized for 5 minutes.
+Mr. Davidson. Thank you, Chairman.
+And thank you all for continuing to answer some good
+questions here so we can solve this problem, or at least be
+confident that it is solved.
+Mr. Beller, under the CAT NMS Plan, who verifies that
+Thesys is complying with all relevant cybersecurity
+requirements?
+Mr. Beller. The chief information security officer of
+Thesys CAT is also a fiduciary of CAT NMS, LLC, which is the
+consortium put together by the SROs. That duty, that fiduciary
+duty, overrides all other duties of that individual, and his or
+her activities are overseen by the operating committee of CAT
+NMS, LLC.
+Mr. Davidson. Thank you for that.
+And so when I look at that piece, one of the other pieces
+is--maybe, Mr. Concannon, you could answer--is what
+cybersecurity requirements the SEC itself or other users of the
+database obligated to implement in order to comply with the
+cybersecurity standards for access?
+Mr. Concannon. You are putting me in a difficult spot to
+suggest that the SEC has to have a higher standard of
+cybersecurity access.
+I will use Chairman Clayton's statement. He actually
+committed to not have anyone at the SEC access the CAT data
+until he was comfortable that they had the highest standard of
+cybersecurity protection, because under the CAT Plan the SEC
+has requested to have almost 1,000 users have access to the
+database through portals that will be provided by Thesys.
+So when we think about the complexity of this system it is
+not just putting data in a database that people have
+surveillance access, there are actual people, users, that will
+have access to this database sitting in front of a terminal in
+an office.
+Mr. Davidson. Yes. Thank you for that. And that goes to one
+of the inpoint security pieces that is so critical for any
+access control.
+And so one of the things, aside from great protocols and a
+lot of forethought given to it for years, and including in the
+specs that were released to even solicit bid references to
+cybersecurity, some voids still remain. And a lot of the
+question keeps coming back to personally identifiable
+information, and I get the tradeoff: If you don't know the
+beneficial owner, what is to prevent any one person from
+launching a dozen LLCs and, I know a dozen LLCs but you don't
+connect the dots.
+So you have to know some level of personally identifiable
+information. But, Mr. Beller you made reference to the fact
+that when this initially launches you don't have that. So I
+guess where is that balance supposed to be struck right now? We
+have talked around the issue a lot: What are the things that
+could be done while you are going live with the system before
+you begin to collect PII?
+Mr. Beller. Yes. So the reason there isn't PII in the
+initial phase of the CAT is because the reporters are just the
+exchanges themselves, and they are responsible--they receive
+incoming orders on the basis of what member of their exchanger
+is sending to them. So that is not--the number of members
+involved is very, very small relative to the hundreds of
+millions of personally identifiable information that we are
+talking about.
+In the second phase, where other broker dealers who are
+customer-carrying broker dealers come in, that is when the PII
+comes in.
+Mr. Davidson. Got it.
+Mr. Beller. And that does give a little bit--that gives
+extra time that is involved in the building of the CAT before
+the PII comes in.
+Mr. Davidson. So delaying that phase could accomplish a
+lot, if necessary. Frankly, it can be happening in parallel,
+not just sequentially.
+Ms. Dolly, you mentioned we are just now getting the
+technical specs. There is a lot of work left to be done.
+If there is a change in PII as you are in the process of
+doing said work, how big of a deal is that for compliance?
+Ms. Dolly. From an implementation perspective?
+Mr. Davidson. Correct.
+Ms. Dolly. Yes. We haven't actually gotten to the point
+where we have the specifications, so getting different
+specifications would not further delay it. So if we were able
+to figure out a way to remove PII, even if it was to put some
+other unique identifier for the client in there so that it was
+not exposing us, I don't think it would add anything to the
+implementation plan.
+And I also wanted to thank you for sponsoring this
+consideration of delaying it because we do have to get this
+right and I think an open and robust dialog around it will help
+us to get there.
+Mr. Davidson. Thank you all.
+My time has expired. I yield, Mr. Chairman.
+Chairman Huizenga. Gentleman's time has expired.
+And the gentleman from California, recognized.
+Mr. Sherman. Ms. Dolly, I am told that there are 58 billion
+records a day that we transfer to CAT. Does that mean there are
+58 billion stock and bond transactions every day?
+Ms. Dolly. No, those are elements of the transaction. So it
+is the order execution, it is the order details, it is quotes,
+it is--
+Mr. Sherman. So if I order my name, my address, the date,
+OK. How many transactions a day are we talking about being
+reported? Does any witness know?
+Mr. Concannon. So the bigger number is the quote and order
+information in our markets. So if you think about an ETF
+(exchange-traded fund), a very liquid ETF, there are thousands
+of quotes per second in an ETF. These are--
+Mr. Sherman. May not be a transaction; may just be an offer
+to buy or an offer to sell.
+Mr. Concannon. Exactly. No transaction, but many, many
+quotes.
+Mr. Sherman. So we are only dealing with a few billion
+transactions every--
+Mr. Concannon. Yes.
+Mr. Sherman. Glad our universe is small enough for us to
+deal with it.
+Let's see. Mr. Gellasch, CAT was created pursuant to the
+National Market System, NMS Plan. Could you describe how the
+NMS Plan model differs from traditional rulemaking? I know
+SIFMA has raised concerns that it allows the SROs and the
+exchanges and FINRA to minimize input from other industry
+participants.
+What do you think of how NMS is structured?
+Mr. Gellasch. Yes. Thank you for the question.
+I would argue the NMS Plan structure is a vestige of
+history that has long since passed its usable life. In the
+1970's, it was created with the idea of nonprofit SROs. We now
+have for-profit SROs, and when you have a set of for-profit
+regulators essentially empowered by the SEC to set the rules
+for market participants and set the cost structure for market
+participants, some of whom are their direct competitors,
+including broker dealers, other execution venues, you have a
+problem.
+So what we have is essentially, we have created a system
+where a handful of market participants--Mr. Concannon being one
+of them--essentially are able to dictate the terms of a
+significant amount not of just market structure but of costs to
+market participants. And if they agree, for example, with the
+goals of that--of what they have been tasked to do then they
+can execute that. However, they can also frustrate that, and
+that is how we see situations like the Tick Pilot or the
+Consolidated Audit Trail, I think, drag on for years.
+Mr. Sherman. Let me shift your attention a bit.
+If we delay we might do a better job and we will delay the
+costs. But if we delay we get the system later.
+Today the markets are operating. We don't have a CAT. What
+is the problem?
+Mr. Gellasch. Yes. I think that is--at some point we have
+boiled the frog when it comes to the CAT. It has been now 7-1/2
+years, and as every major--
+Mr. Sherman. What abuses are occurring--
+Mr. Gellasch. So this is--
+Mr. Sherman. --Because we don't have a CAT?
+Mr. Gellasch. Right. So market manipulations are occurring.
+I don't know when the next Navinder Sarao is going to cause
+the next flash crash, or significantly cause the next flash
+crash. But I do know that prior to him causing the next flash
+crash he was involved in a number of, what we later found out
+were, market manipulations.
+So once the whistleblower identified the bad actor and
+regulators were able to use the blue sheet process and others,
+they were able to reconstruct that he was someone that they
+could have identified and stopped a long time earlier.
+So the answer is I don't know what we are--we are now in
+a--
+Mr. Sherman. So it is not that the present system will
+catch it--the problem too late to stop it; the present system
+may never tell you that you had a problem.
+Mr. Gellasch. Both.
+Mr. Sherman. Both.
+Mr. Concannon?
+Mr. Concannon. I would vehemently disagree.
+The current system does capture manipulation. We capture it
+every day. We have hundreds of alerts, if not thousands of
+alerts, across all of the SROs and across FINRA, which is our
+not-for-profit regulator that sits at the middle of our
+markets.
+So we are capturing manipulation every day. We are well
+protected while we build a system that needs to be perfect. We
+can't make a mistake in building CAT. It has to be perfect.
+Mr. Sherman. I know my time is expired. I would just say
+that with the rules of the Cayman Islands, Switzerland, some
+other places, I would be surprised if you will ever know the
+beneficial ownership of some of the entities doing the trades.
+I yield back.
+Chairman Huizenga. Gentleman's time has expired.
+With that, I would like to thank our witnesses for sticking
+around, doing two rounds of questioning. I think this was very,
+very helpful. I think we made some progress.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+And with that, our hearing is adjourned.
+[Whereupon, at 12:04 p.m., the subcommittee was adjourned.]
+
+A P P E N D I X
+
+November 30, 2017
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]

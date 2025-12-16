@@ -1,0 +1,1602 @@
+- EXPLORING CYBER SPACE: CYBERSECURITY ISSUES FOR CIVIL AND COMMERCIAL SPACE SYSTEMS
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+EXPLORING CYBER SPACE:
+CYBERSECURITY ISSUES FOR CIVIL
+AND COMMERCIAL SPACE SYSTEMS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON SPACE AND AERONAUTICS
+
+OF THE
+
+COMMITTEE ON SCIENCE, SPACE,
+AND TECHNOLOGY
+
+OF THE
+
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+JULY 28, 2022
+
+__________
+
+Serial No. 117-66
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+48-138 PDF          WASHINGTON : 2023
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. EDDIE BERNICE JOHNSON, Texas, Chairwoman
+ZOE LOFGREN, California              FRANK LUCAS, Oklahoma,
+SUZANNE BONAMICI, Oregon                 Ranking Member
+AMI BERA, California                 MO BROOKS, Alabama
+HALEY STEVENS, Michigan,             BILL POSEY, Florida
+Vice Chair                       RANDY WEBER, Texas
+MIKIE SHERRILL, New Jersey           BRIAN BABIN, Texas
+JAMAAL BOWMAN, New York              ANTHONY GONZALEZ, Ohio
+MELANIE A. STANSBURY, New Mexico     MICHAEL WALTZ, Florida
+BRAD SHERMAN, California             JAMES R. BAIRD, Indiana
+ED PERLMUTTER, Colorado              DANIEL WEBSTER, Florida
+JERRY McNERNEY, California           MIKE GARCIA, California
+PAUL TONKO, New York                 STEPHANIE I. BICE, Oklahoma
+BILL FOSTER, Illinois                YOUNG KIM, California
+DONALD NORCROSS, New Jersey          RANDY FEENSTRA, Iowa
+DON BEYER, Virginia                  JAKE LaTURNER, Kansas
+CHARLIE CRIST, Florida               CARLOS A. GIMENEZ, Florida
+SEAN CASTEN, Illinois                JAY OBERNOLTE, California
+CONOR LAMB, Pennsylvania             PETER MEIJER, Michigan
+DEBORAH ROSS, North Carolina         JAKE ELLZEY, TEXAS
+GWEN MOORE, Wisconsin                MIKE CAREY, OHIO
+DAN KILDEE, Michigan
+SUSAN WILD, Pennsylvania
+LIZZIE FLETCHER, Texas
+------
+
+Subcommittee on Space and Aeronautics
+
+HON. DON BEYER, Virginia, Chairman
+ZOE LOFGREN, California              BRIAN BABIN, Texas,
+AMI BERA, California                     Ranking Member
+BRAD SHERMAN, California             MO BROOKS, Alabama
+ED PERLMUTTER, Colorado              BILL POSEY, Florida
+CHARLIE CRIST, Florida               DANIEL WEBSTER, Florida
+DONALD NORCROSS, New Jersey          YOUNG KIM, California
+
+C  O  N  T  E  N  T  S
+
+July 28, 2022
+
+Page
+
+Hearing Charter..................................................     2
+
+Opening Statements
+
+Statement by Representative Don Beyer, Chairman, Subcommittee on
+Space and Aeronautics, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................     8
+Written Statement............................................     9
+
+Statement by Representative Brian Babin, Ranking Member,
+Subcommittee on Space and Aeronautics, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    11
+Written Statement............................................    12
+
+Written statement by Representative Eddie Bernice Johnson,
+Chairwoman, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................    13
+
+Witnesses:
+
+Dr. Theresa Suloway, Space Cybersecurity Engineer, The MITRE
+Corporation
+Oral Statement...............................................    14
+Written Statement............................................    17
+
+Mr. Matthew Scholl, Chief, Computer Security Division,
+Information Technology Laboratory, National Institute of
+Standards and Technology
+Oral Statement...............................................    24
+Written Statement............................................    26
+
+Mr. Brandon Bailey, Senior Project Leader, Cyber Assessments and
+Research Department, The Aerospace Corporation
+Oral Statement...............................................    32
+Written Statement............................................    35
+
+Discussion.......................................................    44
+
+Appendix: Answers to Post-Hearing Questions
+
+Dr. Theresa Suloway, Space Cybersecurity Engineer, The MITRE
+Corporation....................................................    58
+
+Mr. Matthew Scholl, Chief, Computer Security Division,
+Information Technology Laboratory, National Institute of
+Standards and Technology.......................................    71
+
+Mr. Brandon Bailey, Senior Project Leader, Cyber Assessments and
+Research Department, The Aerospace Corporation.................    73
+
+EXPLORING CYBER SPACE:
+
+CYBERSECURITY ISSUES FOR CIVIL
+
+AND COMMERCIAL SPACE SYSTEMS
+
+----------
+
+THURSDAY, JULY 28, 2022
+
+House of Representatives,
+Subcommittee on Space and Aeronautics,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittee met, pursuant to notice, at 10:04 a.m., in
+room 2318 of the Rayburn House Office Building, Hon. Don Beyer
+[Chairman of the Subcommittee] presiding.
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Beyer. This hearing will come to order. Without
+objection, the Chairman is authorized to declare a recess at
+any time.
+And before I deliver my opening remarks, I want to note
+that, today, the Committee is meeting both in person and
+virtually. And I want to announce a couple of reminders to the
+Members about the conduct of this hearing. First, Members and
+staff who are attending in person may choose to be masked, but
+it is not a requirement. However, any individual with symptoms,
+a positive test, or exposure to someone with COVID-19 should
+wear a mask while present.
+Members who are attending virtually should keep their video
+feed on as long as they are present in the hearing. Members are
+responsible for their own microphones. Please keep your
+microphones muted unless you are speaking. And finally, if
+Members have documents they wish to submit for the record,
+please email them to the Committee Clerk, whose email address
+was circulated prior to the hearing.
+So good morning, and welcome to today's hearing ``Exploring
+Cyberspace: Understanding Cybersecurity Issues for Civil and
+Commercial Space Systems.'' I want to welcome our witnesses,
+both in person and virtual. We're pleased to have you with us.
+Getting to space and operating there involves risk. From
+the launch itself to micrometeoroids, orbital debris, and
+geomagnetic storms, space system developers and operators must
+mitigate against multiple risks that can impact their
+satellites. But today's hearing focuses on a much more
+nefarious risk: cyber threats to civil and commercial space
+systems. These risks have taken a center stage since the public
+announcement of a malicious Russian attack in February 2022 on
+Viasat's satellite internet user modems. The hack affected
+thousands of customers in Ukraine and tens of thousands across
+Europe. Other reports cited jamming of Starlink space broadband
+ground terminals, which were sent to Ukraine when its
+communications were disrupted by the Russian invasion.
+While the recent hacks have highlighted the issue, cyber
+threats to space systems are not new. In 2015, the
+Congressionally-established U.S.-China Economic Security and
+Review Commission reported on hacks in 2007 and 2008 to the
+Landsat-7 satellite. The Commission also noted that cyber
+actors targeted NASA's (National Aeronautics and Space
+Administration's) Terra Earth observation satellite on two
+occasions in 2008. The actors demonstrated, quote, ``the steps
+required to command the satellite,'' unquote, but did not do
+so.
+In 2014, a cyber attack on the National Oceanic and
+Atmospheric Administration's, NOAA's, satellite information and
+weather service systems actually led the agency to stop
+satellite transmission of weather data to the National Weather
+Service for two days while it responded to the incident.
+These hacks perpetrated by bad actors are chilling and
+serious. The importance of addressing them is amplified as our
+reliance on space for in-space and terrestrial infrastructure
+and services continues to grow.
+As examples, NOAA plans to procure space situational
+awareness data from commercial providers, and NASA plans to
+procure commercial space-based communication services to meet
+many of its communications requirements.
+To date, the government and Congress have taken steps to
+address the matter.
+In December 2020, the government issued Space Policy
+Directive (SPD)-5, ``Cybersecurity Principles for Space
+Systems.'' In May 2021, Chairwoman Johnson, Ranking Member
+Lucas, myself, and Ranking Member Babin requested that the GAO,
+the Government Accountability Office, conduct a review of the
+cybersecurity risk to the sensitive data associated with NASA's
+major projects and spaceflight operations. That review is now
+underway.
+Other Members of Congress have introduced legislative
+proposals on space and cybersecurity.
+More recently, following the Viasat incident, the
+Cybersecurity and Infrastructure Security Agency (CISA) and the
+FBI (Federal Bureau of Investigation) issued an alert on
+strengthening cybersecurity of satellite communication network
+providers and customers. The National Security Agency also
+issued a cybersecurity advisory to protect small ground
+terminals used to transmit and receive satellite
+communications. And the Department of Commerce's National
+Institute of Standards and Technology (NIST) has issued
+guidance on cybersecurity for commercial space systems.
+Today's hearing will give us an opportunity to review these
+efforts and the overall landscape of cybersecurity for civil
+and commercial space systems, including, what is the range of
+threats today? What is the status of the implementation of
+space director--Space Policy Directive-5? What role should the
+Federal Government have, and is there an agency in charge of
+space cybersecurity? And what are the issues for Congress?
+We need to make every effort to understand what further
+actions can be and should be taken to strengthen cybersecurity
+for civil and commercial space systems, including commercial
+space systems that provide mission-critical government data and
+services. Malicious disruptions to such systems would have
+significant impacts to critical services, our economy, and the
+growing $447 billion global space economy, including everything
+from weather and environmental forecasting, to forestry
+management, to communications, space science, and national
+security.
+I look forward to hearing from our expert witnesses on this
+important issue. And before I close, I want to note the
+groundbreaking progress that will be made with the House's
+voting on the Senate-passed CHIPS and Science Act of 2022. This
+act includes the first NASA authorization in five years. And I
+think I'm very proud that this NASA authorization includes many
+of the changes, the recommendations from both the GAO report on
+NASA and the Inspector General (IG) report on NASA. The core
+set of provisions provide direction across NASA's portfolio
+that will support the agency in continuing to lead, inspire,
+discover, explore, and carry the ambitious and challenging
+space and aeronautics missions.
+[The prepared statement of Chairman Beyer follows:]
+
+Good morning, and welcome to today's hearing, Exploring
+Cyber Space: Understanding Cybersecurity Issues for Civil and
+Commercial Space Systems.
+I want to welcome our witnesses. We are pleased to have you
+with us both in person and virtually.Getting to space and
+operating there involves risk. From the launch itself, to
+micrometeoroids, orbital debris, and geomagnetic storms, space
+system developers and operators must mitigate against multiple
+risks that can impair their satellites.
+Today's hearing focuses on a more nefarious risk--cyber
+threats to civil and commercial space systems. The risks have
+taken center stage since the public announcement of a malicious
+Russian attack in February 2022 on Viasat's satellite internet
+user modems. The hack affected thousands of customers in
+Ukraine and tens of thousands across Europe. Other reports
+cited jamming of Starlink's space broadband ground terminals,
+which were sent to Ukraine when its communications were
+disrupted by the Russian invasion.
+While the recent hacks have highlighted the issue, cyber
+threats to space systems are not new. In 2015, the
+Congressionally-established U.S.-China Economic Security and
+Review Commission reported on hacks in 2007 and 2008 to the
+Landsat-7 satellite. The Commission also noted that cyber
+actors targeted NASA's Terra Earth observation satellite on two
+occasions in 2008. The actors demonstrated the ``steps required
+to command the satellite'' but did not do so.
+In 2014, a cyber-attack on the National Oceanic and
+Atmospheric Administration's satellite information and weather
+service systems led the agency to stop satellite transmission
+of weather data to the National Weather Service for two days
+while it responded to the incident.
+These hacks perpetrated by bad actors are chilling and
+serious. The importance of addressing them is amplified as our
+reliance on space for in-space and terrestrial infrastructure
+and services continues to grow.
+As examples, NOAA plans to procure space situational
+awareness data from commercial providers and NASA plans to
+procure commercial space-based communications services to meet
+many of its communications requirements.
+To date, the government and Congress have taken steps to
+address the matter.
+In December 2020, the government issued Space Policy
+Directive-5, ``Cybersecurity Principles for Space Systems.''
+In May 2021, Chairwoman Johnson, Ranking Member Lucas,
+myself, and Ranking Member Babin requested that Government
+Accountability Office conduct a review of the cybersecurity
+risks to the sensitive data associated with NASA's major
+projects and spaceflight operations. That review is now
+underway.
+Other Members of Congress have introduced legislative
+proposals on space and cybersecurity.
+More recently, following the Viasat incident, the
+Cybersecurity and Infrastructure Security Agency and the FBI
+issued an alert on strengthening cybersecurity of satellite
+communications network providers and customers. The National
+Security Agency also issued a cybersecurity advisory to protect
+small ground terminals used to transmit and receive satellite
+communications. And the Department of Commerce's National
+Institute of Standards and Technology has issued guidance on
+cybersecurity for commercial space systems.
+Today's hearing will give us an opportunity to review these
+efforts and the overall landscape of cybersecurity for civil
+and commercial space systems, including
+
+What is the range of threats today?
+
+What is the status of implementation of Space
+Policy Directive 5?
+
+What role should the Federal government have, and
+is there an agency in charge of space cybersecurity?
+
+And, what are the issues for Congress?
+We need to make every effort to understand what further
+actions can be and should be taken to strengthen cybersecurity
+for civil and commercial space systems, including commercial
+space systems that provide mission-critical government data and
+services.
+Malicious disruptions to such systems would have
+significant impacts to critical services, our economy, and the
+growing $447 billion global space economy, including everything
+from weather and environmental forecasting to forestry
+management, communications, space science, and national
+security.
+I look forward to hearing from our expert witnesses on this
+important issue.
+Before I close, I want to note the ground-breaking progress
+that will be made with the House's voting on the Senate-passed
+CHIPS and Science Act of 2022.
+This Act includes the first NASA Authorization in five
+years. The core set of provisions provide direction across
+NASA's portfolio that will support the agency in continuing to
+lead, inspire, discover, explore, and carry out ambitious and
+challenging space and aeronautics missions.
+
+Chairman Beyer. Let me now turn to my friend, the good
+doctor from Houston and the Ranking Member, Mr. Babin.
+Mr. Babin. Thank you, Chairman Beyer. I really appreciate
+that very much. Good morning. Thanks for holding this important
+hearing.
+We've held a number of hearings on space cybersecurity over
+the last several years and unfortunately learned of many
+cybersecurity incidents related to civil and commercial space.
+The 2011 U.S.-China Economic Security Review Commission report
+to Congress indicated that hackers interfered with USGS's
+(United States Geological Survey's) Landsat-7 satellite in
+October 2007 and also in July 2008, and NASA's Terra satellite
+in June 2008 and October 2008. In 2014, we also heard of
+intrusions into NOAA's weather and satellite network. A 2019
+report from the NASA IG indicated that NASA Information
+Technology Security Managers remain concerned about potential
+infiltration into NASA's spaceflight systems to acquire launch
+codes and flight trajectories of spacecraft. More recently,
+senior NASA officials stated that the hack of a SolarWinds
+software of--excuse me--of SolarWinds software was a big wakeup
+call. Just a few months ago, the Secretary of State issued a
+formal statement attributing a cyber attack on a commercial
+satellite communication network to Russia.
+With the proliferation of commercial space operations and
+NASA's increased use of commercial services, this hearing is a
+timely update on the topic of cybersecurity in civil and
+commercial space. It is a continuation of longstanding,
+bipartisan oversight. Last year, the Committee and Space
+Subcommittee Chairs and Ranking Members jointly asked GAO to
+review NASA and NASA contract cybersecurity, and we look
+forward to reviewing that work very soon.
+The executive branch is also focused on space cybersecurity
+issues. In September 2020, the Trump Administration issued
+Space Policy Directive-5, which outlined the U.S. Government's
+first cybersecurity policy for space systems. Earlier this
+year--excuse me--earlier this spring, the Department of
+Homeland Security (DHS) updated their space policy for the
+first time since 2011. Last year, the Cybersecurity and
+Infrastructure Security Agency, or CISA, announced the
+formation of the Space Systems Critical Infrastructure Working
+Group to bring together stakeholders from across the sector to
+minimize risks to space systems. Industry coalitions are
+emerging to provide private sector information sharing and
+collaboration without government intervention.
+And last but not least, NIST continues to provide world-
+class services and standards, as they have done since the
+1970's on cybersecurity. All of these activities promote a
+bottoms-up approach to private sector cybersecurity issues that
+are focused on information sharing rather than proscriptive
+regulations. This is the correct path, as it ensures the
+industry remains at the cutting edge of innovation rather than
+generations behind our adversaries like China.
+As we continue our bipartisan oversight of this important
+topic, we should also reach out to space operators, launch
+providers, prime contractors, component subcontractors,
+software providers, antenna and ground station operators, and
+even end users to ensure that we understand the breadth of this
+topic. This will help inform how Congress responds to future
+questions such as whether space should be listed as an
+additional critical infrastructure protection sector. This is a
+complex question. Many aspects of space are already covered by
+other sectors like communications, defense industrial base,
+critical manufacturing, information technology, government
+facilities, emergency services, financial services, and even
+food and agriculture. Some space activities like suborbital
+tourism may not rise to the definition of critical. For this
+reason, both the Trump and Biden Administrations have chosen
+not to add space as an additional sector, instead focusing
+instead on critical functions.
+I look forward to hearing from our witnesses and continuing
+our conversation on how we as a nation can best secure our
+space cyber domain while also maintaining our leadership in
+space commerce. So thank you, Mr. Chairman, and I yield back
+the balance of my time.
+[The prepared statement of Mr. Babin follows:]
+
+Good morning and thank you Mr. Chairman for holding this
+important hearing.
+We've held a number of hearings on space cybersecurity over
+the last several years, and, unfortunately, learned of many
+cybersecurity incidents related to civil and commercial space.
+The 2011 US-China Economic Security Review Commission report to
+Congress indicated that hackers interfered with USGS's Landsat
+7 satellite in October 2007 and July 2008 and NASA's Terra
+satellite in June 2008 and October 2008. In 2014 we also
+learned of intrusions into NOAA's weather and satellite
+network. A 2019 report from the NASA IG indicated that NASA
+information technology security managers remain concerned about
+potential infiltration into NASA's space flight systems to
+acquire launch codes and flight trajectories of spacecraft.
+More recently, senior NASA officials stated that the hack of
+SolarWinds software ``was a big wakeup call.'' Just a few
+months ago, the Secretary of State issued a formal statement
+attributing a cyber-attack on a commercial satellite
+communication network to Russia.
+With the proliferation of commercial space operations and
+NASA's increased use of commercial services, this hearing is a
+timely update on the topic of cybersecurity in civil and
+commercial space. It is a continuation of long-standing
+bipartisan oversight. Last year the committee and space
+subcommittee chairs and ranking members jointly asked GAO to
+review NASA and NASA contractor cybersecurity, and we look
+forward to reviewing their work soon.
+The executive branch is also focused on space cybersecurity
+issues. In September 2020, the Trump Administration issued
+Space Policy Directive-5 (SPD-5), which outlined the U.S.
+Government's first cybersecurity policy for space systems.
+Earlier this spring, the Department of Homeland Security
+updated their space policy for the first time since 2011. Last
+year, the Cybersecurity and Infrastructure Security Agency
+(CISA) announced the formation of a Space Systems Critical
+Infrastructure Working Group to bring together stakeholders
+from across the sector to minimize risks to space systems.
+Industry coalitions are emerging to provide private sector
+information sharing and collaboration without government
+intervention. And last, but not least, NIST continues to
+provide world-class services and standards--as they have done
+since the 1970s on cybersecurity. All these activities promote
+a ``bottoms-up'' approach to private sector cybersecurity
+issues focused on information sharing rather than proscriptive
+regulations. This is the correct path, as it ensures the
+industry remains at the cutting-edge of innovation rather than
+generations behind our adversaries.
+As we continue our bipartisan oversight of this important
+topic, we should also reach out to space operators, launch
+providers, prime contractors, component subcontractors,
+software providers, antenna, and ground station operators, and
+even end-users to ensure we understand the breadth of the
+topic. This will help inform how Congress responds to future
+questions, such as whether space should be listed as an
+additional Critical Infrastructure Protection sector. This is a
+complex question. Many aspects of space are already covered by
+other sectors like communications, defense industrial base,
+critical manufacturing, information technology, government
+facilities, emergency services, financial services and even
+food and agriculture. Some space activities, like suborbital
+tourism may not rise to the definition of ``critical.'' For
+this reason, both the Trump and Biden Administrations have
+chosen not to add space as an additional sector, instead
+focusing instead on critical ``functions.''
+I look forward to hearing from our witnesses and continuing
+our conversation on how we as a nation can best secure our
+space cyber domain while also maintaining our leadership in
+space commerce. Thank you and I yield back the balance of my
+time.
+
+Chairman Beyer. Dr. Babin, thank you very much.
+If there are other Members who wish to submit additional
+opening statements, your statements will be added to the record
+at this point.
+[The prepared statement of Chairwoman Johnson follows:]
+
+Good morning,
+Thank you, Chairman Beyer, for holding today's hearing on
+cybersecurity for civil and commercial space systems. And
+welcome to our witnesses who will be testifying today on this
+important topic.
+Unfettered access and freedom to operate in space are vital
+to the advancement of the security, economic prosperity, and
+scientific knowledge of the United States, as emphasized in the
+United States National Cyber strategy. The growing threats to
+space assets and their supporting infrastructure is a matter of
+great concern for this Committee and Subcommittee.
+Commercial space systems play a crucial role in the United
+States and world economy, and one that is expected to grow as
+the government realizes plans to increasingly leverage
+commercial space capabilities.
+As was seen during the war in Ukraine with the hacking of
+Viasat's ground stations and subsequent communications outages,
+commercial space systems are exposed to cybersecurity threats
+that can degrade critical functions.
+In addition to cyber hacks to ground systems, cyber threats
+to satellites and their spacecraft, users, and the links
+between the two could cripple many of the services necessary to
+modern life in the United States. Those services include remote
+sensing and position, navigation, and timing systems that
+support many sectors of our economy and national security.
+We need to ensure that we understand this threat and what
+options we have to mitigate and address it.
+As Chairman Beyer noted, the government has begun taking
+steps to address cybersecurity in space systems with Space
+Policy Directive-5, which directs the government to work with
+the commercial space industry to establish cybersecurity norms
+and behaviors. In addition, the National Institute of Standards
+and Technology is applying its cybersecurity framework to
+different segments of commercial space systems.
+However, more needs to be done in this area. There are no
+universally accepted standards for cybersecurity in space
+systems. More work is also needed to translate high-level
+policy and guidance into practical engineering standards that
+commercial companies can apply to their systems.
+The issues and risks surrounding this topic are numerous. I
+look forward to hearing from our expert panelists on what is
+needed to increase cyber resilience in commercial and civil
+space systems. Preventing the crises that would result if cyber
+risks were to be realized must be a priority.
+Thank you, and I yield back.
+
+Chairman Beyer. At this time, I'd like to introduce our
+witnesses. Dr. Theresa Suloway is a space cyber subject matter
+expert at the MITRE Corporation. Dr. Suloway previously served
+as the Department Manager at the National Cybersecurity
+Federally Funded Research and Development Center (FFRDC) at
+MITRE, sponsored by the National Institutes of Standards and
+Technology, or NIST. She worked with NIST on developing several
+NIST Interagency Reports on commercial space and also serves as
+an alternate board member to the Space Information Sharing
+Working Group. Dr. Suloway has 15 years of technical experience
+in the DOD (Department of Defense) and the U.S. intelligence
+community, guiding R&D (research and development) and
+operational effort--activities. So, Dr. Suloway, welcome.
+Dr. Matthew Scholl, who's with us virtually, is the Chief
+of the Computer Security Division in the Information Technology
+Laboratory at the U.S. Department of Commerce's NIST. Mr.
+Scholl oversees a research program that cultivates trust in
+information technology and metrics by developing and
+disseminating standards, measurements, and testing for
+interoperability, security, usability, and reliability of
+information systems, including cybersecurity standards and
+guidelines for Federal agencies and U.S. industry. He also co-
+leads NIST's participation with the Cybersecurity National and
+International Standards Development Organization. He is a U.S.
+Army veteran and currently has more than 20 years of Federal
+service. Welcome, Mr. Scholl.
+Finally, Mr. Brandon Bailey is a Senior Cybersecurity
+Project Manager within the Cybersecurity Subdivision at The
+Aerospace Corporation. Mr. Bailey has spent much of his
+professional career supporting space agencies such as NASA,
+where he led various cybersecurity efforts. More recently, Mr.
+Bailey has published several articles and reports focusing on
+adding cybersecurity in the space systems to meet the evolving
+threat landscape, including a set of products that define risk-
+driven requirements. So, Mr. Bailey, welcome.
+And as our witnesses should know, you will each have five
+minutes for your spoken testimony. Your written testimony,
+which can be much longer, will be included in the record for
+the hearing. When you've all completed your spoken questions--
+your spoken testimony, we will begin with the difficult
+questions. Each Member will have five minutes to question the
+panel.
+We will start with Dr. Theresa Suloway. Dr. Suloway, the
+floor is yours.
+
+TESTIMONY OF DR. THERESA SULOWAY,
+
+SPACE CYBERSECURITY ENGINEER,
+
+THE MITRE CORPORATION
+
+Dr. Suloway. Thank you. Good morning, Chairman Beyer,
+Ranking Member Babin, and distinguished Members of the
+Subcommittee on Space and Aeronautics. Thank you for inviting
+me to testify before you on commercial space cybersecurity.
+Successful adoption of cybersecurity in the commercial space
+industry is a critically important issue, and I appreciate the
+opportunity to share insights from my work on this topic.
+My name is Theresa Suloway. I am a Space and Cybersecurity
+Engineer and Project Lead with MITRE. My testimony today comes
+from my 15 years of technical experience working at MITRE and
+in the industry-guiding research and development and
+operational activities across government. I also serve as an
+active member of the Space Information Sharing and Analysis
+Center or ISAC.
+My role with MITRE has involved support to NIST's National
+Cybersecurity Federally Funded Research and Development Center.
+This FFRDC administers NIST's National Cybersecurity Center of
+Excellence, or NCCOE, which MITRE has operated since 2014. I
+would like to make a brief statement and to submit my full
+remarks for the record.
+When discussing space systems, it is useful to divide the
+landscape into three manageable distinct components: the user
+segment, the ground segment, and the space segment. The user
+segment is the community that uses the services that the
+satellite provides, such as global navigation systems--for
+example, GPS (Global Positioning System) --and internet
+services. The ground segment is defined by the infrastructure
+that supports the tasking and operation of the satellites and
+its payloads, including the computer networks, antennas, and
+industrial control systems that support transmission to the
+satellite. The space segment represents the satellite that is
+in orbit. NIST has published interagency reports to address
+each segment, which I co-authored in my role with MITRE.
+The NIST cybersecurity framework consists of five core
+functions: identify, protect, detect, respond, and recover, all
+applicable to the space domain. First, we must identify the
+risks and vulnerabilities to the space ecosystem. For example,
+one of the most urgent cybersecurity risks that must be
+addressed from--for commercial space is the possibility that
+one or more satellites could be hijacked to cause a collision.
+A collision between satellites would not only destroy the
+satellites involved, but the resulting debris will permanently
+remove that orbit or region from use by any other satellite.
+This risk requires preemptive rather than reactive action.
+As dependence on commercial space services grow, our
+critical infrastructure is exposed to further cascading risks
+from our Nation's food supply to hospital communications to
+energy delivery. Rural locations, which are solely dependent on
+commercial satellite connectivity, are at higher risks if these
+services are disrupted.
+The ground segment is vulnerable because it is the easiest
+to access through traditional means. While harder to access,
+the space segment is vulnerable to corrupted commands or
+software being sent from either a trusted or malicious source.
+Adding encryption to the ground space link would mitigate some
+of the vulnerabilities by making it harder for malicious
+sources to send commands to the satellites.
+An attacker can be successful, regardless of the measures
+you put in place, making monitoring key. Monitoring and cyber
+situational awareness need to be built in now as part of the
+fabric of commercial space. You can't respond to and recover
+from an attack you're unaware of.
+The commercial space industry operates within the
+constraints of size, weight, power, and cost and needs to serve
+both customers and investors. Introducing burdensome, costly--
+potentially costly cyber requirements into this already high-
+risk, high-cost environment without a full understanding of the
+impacts of those requirements could force companies to move
+their operations abroad, affecting our Nation's standing as a
+leader in this burgeoning domain.
+Based on my experiences and observations, I recommend the
+Committee consider the following actions: Incentivize adoption
+of best practices by investing in R&D for cybersecurity
+technologies for space systems. If only one requirement is
+applied, ensure that it is encryption and encryption modules
+that can upgrade to postquantum algorithms. Formalize and
+strengthen the government's relationship with the space ISAC.
+In addition, incentivize commercial space companies to share
+information with the space ISAC. The space ISAC's watch center,
+coming online in Q-4 of this year, could provide both
+government and industry with needed awareness. Consideration
+should be given to the designation of space systems as critical
+infrastructure, which would provide additional emphasis to the
+cybersecurity and resilience of civil and commercial space
+systems.
+I remain committed to the success, safety, and growth of
+the commercial space domain through my work at MITRE and the
+space ISAC with--and with academia and private industry. I
+greatly appreciate the opportunity to come before you today and
+to provide my insights, and I look forward to your questions.
+[The prepared statement of Dr. Suloway follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Beyer. Dr. Suloway, thank you very much.
+Let me now introduce Mr. Matthew Scholl from NIST.
+
+TESTIMONY OF MR. MATTHEW SCHOLL,
+
+CHIEF, COMPUTER SECURITY DIVISION,
+
+INFORMATION TECHNOLOGY LABORATORY,
+
+NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+
+Mr. Scholl. Chairman Beyer, Ranking Member Babin, and
+Members of the Subcommittee, I am Matthew Scholl, Chief of the
+Computer Security Division at NIST. Thank you for the
+opportunity to testify today.
+NIST is the home to five Nobel Prize winners with programs
+focused on our Nation's priorities such as AI (artificial
+intelligence), advanced manufacturing, the digital economy,
+precision metrology, quantum sciences, biosciences, and of
+course, cybersecurity.
+In the area of cybersecurity, NIST has worked with our
+partners since 1972 when we published the data encryption
+standard. NIST's role is to provide standards, guidance, tools,
+data references, and testing methods that protect our Nation's
+information and information systems.
+As stated in the 2021 U.S. Space Priorities Framework,
+access to and use of space is of a vital national interest.
+However, cyber-related threats to space assets pose increasing
+risk to the commercial space emerging market. Space is a high-
+risk environment, so cybersecurity risks involving commercial
+space needs to be understood and managed to ensure safe and
+successful operations. Physical risks to space are generally
+quantifiable and have the most likely potential to adversely
+impact businesses that operate commercial satellites. While
+physical risks are generally the primary risk, continued growth
+in commercial space operation allows us the opportunity to
+address cybersecurity risks as well.
+As mentioned earlier, Space Policy Directive-5, the
+``Cybersecurity Principles for Space Systems,'' has established
+some key principles for cybersecurity in space. And it states
+that space systems are reliant on information systems and
+networks from design through launch and flight operations.
+These systems can be vulnerable to malicious activity. That
+includes spoofing of sensor data, corrupting sensor systems,
+jamming and sending unauthorized commands for guidance and
+control, the injection of malicious code, and conducting
+denial-of-service attacks.
+In order to assist with the need to address these issues,
+NIST has taken some actions. Now, NIST is not a space agency,
+but rather a measurement and metrology agency with a long
+history in cybersecurity. We provide our expertise to mission
+owners like space operators, where we couple our cybersecurity
+experience and expertise with their understanding and context
+of the mission area in order to create our applicable and
+effective resources. These resources include a foundational PNT
+(position, navigation, and timing) profile, applying
+cybersecurity framework for the responsible use of position,
+navigation, and timing services. Executive Order (EO) 13905,
+strengthening our Nation's resilience through responsible use
+of position, navigation, and timing services, directed NIST to
+develop this cybersecurity profile to assist with managing
+risks to systems that are dependent on PNT services.
+We also created the ``Introduction to Cybersecurity for
+Commercial Satellite Operations.'' This guidance provides a
+general introduction to cybersecurity risk management for
+commercial satellite operators. While it's not intended to be
+comprehensive, it presents basic concepts and provides sample
+references for additional information on cybersecurity risk
+management for use by this industry.
+We also created the ``Satellite Ground Segment'' applying
+the cybersecurity framework to assure satellite command and
+control. This guidance addresses risks specifically to the
+ground segment of space operations. It defines the ground
+segment and its components and presents mappings to relevant
+cybersecurity informative references to assist in the
+management of risk to this part of space operations.
+NIST also works with our partners and has co-hosted a
+series of external events, for example, the Space Cybersecurity
+Symposium Series. NIST, working with the Department of
+Commerce's Office of Space Commerce and the Department of
+Homeland Security, work together on a series of jointly hosted
+symposiums where we learn and share information about the
+latest cyber threats to space infrastructure. We learn from the
+industry's cybersecurity experiences, we hear about their needs
+and their acceptable mitigation strategies.
+Commercial space operations and opportunities continue to
+grow and provide an engine for our economy and expand our
+understanding of the world and the universe. This emerging
+nature of commercial space technologies gives us this new
+opportunity.
+Thank you for the opportunity to discuss NIST's activities
+today, and I'm pleased to answer any questions you might have.
+[The prepared statement of Mr. Scholl follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Beyer. Mr. Scholl, thank you very much.
+We'll now hear from Mr. Brandon Bailey, a NASA veteran and
+now with The Aerospace Corporation. Mr. Bailey?
+
+TESTIMONY OF MR. BRANDON BAILEY,
+
+SENIOR PROJECT LEADER,
+
+CYBER ASSESSMENTS AND RESEARCH DEPARTMENT,
+
+THE AEROSPACE CORPORATION
+
+Mr. Bailey. Thank you. Chairman Beyer, Ranking Member
+Babin, and distinguished Members of the Subcommittee, thank you
+for inviting me to join the discussion. Within the last decade,
+Aerospace Corporation has been performing analysis and research
+on space systems cybersecurity to protect against an evolving
+threat landscape. I've personally spent the majority of my 16-
+year career focusing on cybersecurity issues with commercial
+and civilian space systems. My submitted written testimony goes
+into much more detail, but I would like to cover several
+aspects within this testimony describing the current gaps in
+relation to cybersecurity of space technology.
+There's a critical need to protect space technology, which
+can lead to creating critical infrastructure sector for space
+technology. There's currently disjointed oversight in
+governance of cybersecurity, in addition to the lack of binding
+space cyber policy or widely adopted technical standards for
+commercial space, which is lagging behind the growth of the
+cyber threat. There continues to be significant gaps in
+technical cybersecurity solutions, technical-oriented standards
+and best practices for space technology, as well as the lack of
+cybersecurity information sharing, and research and development
+for space technology, as many efforts within space cyber are
+siloed and fragmented. This lack of research and information
+sharing has led to a significant lack of security-focused
+defensive capabilities onboard the satellites. There continues
+to be too much existing focus on the ground segment protections
+to limit access to the satellite.
+The release of Space Policy Directive-5 in September 2020
+and the fact we're having this hearing testifies to the
+importance of space technology, and cybersecurity. Space Policy
+Directive-5 stated that space systems contribute to the
+operation of the Nation's critical infrastructure, and when
+leveraging Presidential Policy Directive 21's definition for
+critical infrastructure, it's unquestionable that there is
+space technology that qualify for this definition.
+Space technology is important for industry and government
+activity, as well as everyday people activities. In fact,
+according to the Department of Homeland Security, all 55 of the
+national critical functions have some sort of dependency or
+enabled by space technology. However, simply stating thou shalt
+be a critical sector without proper planning on implementation
+could ultimately lead to creating unnecessary bureaucracy that
+could stifle the innovation that is necessary to ensure the
+United States remains the leader in space-based capabilities,
+along with it being secure.
+The space technology sector must contend with harsh
+environmental conditions of space, accommodate strict size,
+weight, and power constraints for operating in space.
+Therefore, ensuring a proper sector risk management agency is
+selected, along with support from other applicable Federal
+departments, agencies, and space domain-aware entities who
+understand the nuance of cybersecurity in addition to the space
+environment will be crucial to the successful implementation of
+identifying space technology as a critical infrastructure
+sector. If done properly, having a space domain-knowledgeable
+governance structure can help establish better cybersecurity
+standards and sharing information across the community.
+It has been openly communicated by the Defense Intelligence
+Agency that adversarial nations plan to target United States-
+based technology via cyber means. And we're entering into an
+era of space-based capabilities that are not driven by
+government, therefore, do not fall under existing regulation or
+governance. With this rapid commercialization of space-based
+capabilities, government-owned assets are no longer the only
+space systems being targeted by adversaries. As was witnessed
+during the Russia-Ukraine conflict, cyber attacks have no
+boundaries, and commercial entities will be targeted as well.
+Security considerations and solutions must be established
+as the United States continues to leverage commercial
+capabilities to augment or replace traditionally provided
+government space-based capabilities. The United States cannot
+simply hope for the best when it comes to security on
+commercial space systems. Action is needed to ensure commercial
+space systems have been built securely using threat-informed,
+risk-based engineering. It is also imperative that these
+security principles are flowed down appropriately through
+subsidiaries in the supply chain.
+One recent effort to fill standards and best practices gap
+was through the government agency-sponsored publicly releasable
+technical operating report by The Aerospace Corporation. This
+report documented the threat-informed risk-mitigation strategy
+to protect satellites. The report, titled ``Cybersecurity
+Protections for Spacecraft: A Threat-Based Approach,'' provides
+government and industry a background on space cybersecurity and
+the state of existing standards, the concept of technical
+defense-in-depth protection necessary to protect satellites,
+and the threat-oriented approach to space cyber risk
+assessment. This report has been submitted as a part of the
+record with this testimony.
+In summary, the need to protect space technology is very
+apparent. Therefore, we need to foster a whole-of-government
+solution working with industry to establish proper guardrails,
+creating binding policy and a new critical infrastructure
+sector for space technology and levering the space cyber-aware
+Federal agencies and entities like the Information Sharing and
+Analysis Center to improve cyber across the board will be
+imperative. The government sector has knowledge on how to
+protect space-based capabilities, but we need to foster better
+information sharing across the board. The United States needs
+to work toward a global consensus through stronger
+collaboration among space system manufacturers, suppliers,
+owners, and operators. Information sharing to the entire space
+technology sector about threats, vulnerabilities, corrective
+action is a must, which can lead to improved security across
+all segments of the space architecture.
+Thank you again for this opportunity to testify on this
+important topic, and I look forward to your questions.
+[The prepared statement of Mr. Bailey follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Beyer. Mr. Bailey, thank you very much.
+We'll now begin a round of questions. I first want to make
+sure that you're not discouraged that there's not a full dais
+up here. You know, with--Congress goes out--the House goes out
+tomorrow in theory for five or six weeks, so everyone's packing
+everything in to these last days. And especially with the huge
+CHIPS and Science Act of 2022 bill, which is dramatic in so
+many different ways, and which in theory will be coming for a
+vote later today. But so--but please know that there are tens
+of thousands of people watching C-SPAN across the country, and
+many--this is on TV in many offices across the Hill right now.
+And hopefully, more people will come up to answer--ask
+questions. Otherwise, Brian and Mr. Posey and I will grill you
+for a long time.
+Dr. Suloway, let me start with you. You mentioned three
+following actions. One was the incentive bias option--adoption
+of best practices, and you specifically said encryption modules
+that can upgrade to post-quantum algorithms. Do the encryption
+modules exist right now that--at industrial scale that can be
+adopted by the commercial and the government users? And since
+no one's broke through on the quantum algorithms yet, I don't
+think, how do you ensure that your encryption is going to be
+upgradeable when you don't know how the quantum computing is
+yet going to work?
+Dr. Suloway. Thank you for the question. So as far as the
+the need for encryption, there are often software-only
+encryption systems that you can deploy on your satellite, so
+you wouldn't have to physically buy a piece of hardware and and
+put it on your satellite. You would still need to be able to
+support the compute functions of that encryption software.
+From a perspective of post-quantum encryption, the
+algorithms have actually already--are being published by NIST,
+and so there are some of these available. I think the the
+concern with the post-quantum encryption and why I put that in
+my testimony is because we want to be able to upgrade in the
+future so satellites being launched cannot be physically
+altered once they're in space. And so the driver to try and get
+the capability in there, even if the technologies aren't
+available yet.
+Chairman Beyer. Yes, we certainly--we've had a lot of
+hearings in this Committee on blockchain, for example, which is
+just fascinating until you realize that blockchain's strength
+and impenetrability may go away right away once quantum
+computing happens.
+But, by the way, we're all a little intimidated by a Ph.D.
+in aeronautics and applied physics at Caltech, you know. Almost
+nothing more needs to be said.
+Mr. Scholl, you talk about the--how NIST did the
+introduction to cybersecurity, a bunch of really interesting
+things that NIST has done. And it says that the introduction
+has to move to the next big place, which is actual standards.
+Will NIST develop that? Are they the best people to develop it?
+And when do we go from just sort of suggesting, here's a way to
+approach, to actually mandating or laying out the very clear
+guidance needs that both the commercial and the government
+sector have to take? When do we move from an introduction to
+something that's actually real?
+Mr. Scholl. Yes, thank you for the question. So the intent
+of the document that we wrote on the introduction was to lay
+out the process steps that an individual organization will walk
+through in order to make it real for the technologies that
+they're using or the type of space operation that they're
+working under, either purely owned or outsourced or maybe some
+hybrid, as well as for the context of their business. Now,
+these all have wide variations and many differences, so our
+initial document was to introduce how an organization works
+through that risk management process to develop something
+that's real and that will be meaningful for their business and
+their mission to assure what their operations need to secure.
+The next steps, then, are to ensure that individual
+organizations really understand how to implement these
+processes and then potentially for us to work in an open
+standards body alongside industry to develop those next step
+things, so not necessarily NIST, internally, but now externally
+in a participative standards body alongside industry to grind
+out the next level of detail.
+Chairman Beyer. Thank you, Mr. Scholl.
+And, Mr. Bailey, let me pivot on almost--just follow up to
+that question. You talk about the lack of a binding space cyber
+policy for commercial space technology, and the Space
+Directive-5 exists, but it's nonbinding. Can it be--can we get
+a binding policy, cyber policy, for space for commercial and
+noncommercial? And is NIST the folks to develop that? Or is it
+Aerospace?
+Mr. Bailey. Thanks for the question. So I think we can
+create some binding level of policy to some degree based on--
+there's probably--there's definitely some minimum standard type
+of implementation for security that we could look to leverage,
+and Space Policy Directive-5 actually hints to many of those
+principles that we would--no one would disagree with that are
+good and can be binding. But it's--like I said, it's
+nonbinding, so you can't really force people to do it.
+Now a majority of people that are developing these systems,
+commercial and government, are doing many of the things that
+are listed in Space Policy Directive-5, but it's not
+necessarily a requirement. So there are some level--and NIST
+could be helpful, as well as some of the communities that are
+popping up within like the space ISAC, for instance, could help
+drive some of those policy implementation details, as well as
+aerospace being an FFRDC continue to help and assist with that
+as well because there definitely are some minimum standard
+things I think we could get into a policy document.
+Chairman Beyer. Great. Thank you very much. Let me now
+recognize the Ranking Member of the Space Subcommittee, Dr.
+Brian Babin.
+Mr. Babin. Thank you, Mr. Chairman.
+First question to all witnesses--and thank you for being
+here with us--the Cybersecurity and Infrastructure Security
+Agency, or CISA, is the primary Federal agency tasked with
+addressing the cybersecurity of our Nation's critical
+infrastructure. In May 2021, CISA announced the formation of a
+Space Systems Critical Infrastructure Working Group to bring
+together stakeholders from across the whole sector to minimize
+risk to space systems. And a very--just a short answer if you
+don't mind. How are each of you working with CISA on this
+effort? Let's start with Mr. Scholl.
+Mr. Scholl. Yes, certainly. So I have attended some of
+those meetings and discussed cybersecurity standards and tools
+that NIST has that could be applicable to space operations with
+this working group. But in general, we have an extensive
+partnership and collaboration with the DHS, the National Risk
+Management Center (NRMC), mostly through their space weather
+and space risk organization in the NRMC. So even outside of the
+work that--this specific working group, we do collaborate and
+work extensively with DHS, who is focused on this issue.
+Mr. Babin. OK. Mr. Bailey?
+Mr. Bailey. Yes, The Aerospace Corporation is involved in
+those working groups and meetings, so there is involvement
+there from The Aerospace Corporation side of the house. I've
+yet to see necessarily any output from that organization quite
+yet to understand what their--you know, what the goal will be
+in the end and how it's going to affect change in the future,
+but there is involvement with aerospace and that group.
+Mr. Babin. All right. Thank you. And Dr. Suloway?
+Dr. Suloway. Yes. We're supporting--I am supporting the
+CISA working group, as well as are the--one of the sub-working
+groups that is publishing a paper either end of this month or
+early next month around how to further the work from the NIST
+profiles that have been published within CISA, so that work is
+coming. And there's a lot of debate in that working group on
+the adoption of the critical infrastructure as a sector. So I
+think--there are reports going to be published in the next few
+months.
+Mr. Babin. All right, thank you. And, Mr. Scholl, the
+smaller companies in the space launch industry may not be
+familiar with the NIST cybersecurity framework, but it's been a
+sector that NIST has focused on through the National
+Cybersecurity Center of Excellence, the NCCOE. How is NIST
+engaging the space sector during the current process to update
+the new cybersecurity framework 2.0?
+Mr. Scholl. That's a great question. And so we've done some
+active and targeted outreach to some of these communities,
+especially as you said, small space operators, to ensure that
+we understand and get their feedback on the usability of the
+framework for their mission areas. And we reach out to both
+individual companies, as well as through organizations like the
+Satellite Industry Association, which helps us bring them
+together into one organization and it also amplifies our
+message back out to their members as well. The Chamber of
+Commerce has also been extremely helpful in reaching this
+community for us as well.
+Mr. Babin. OK. And then again--or once again, there, Mr.
+Scholl, in May 2021, President Biden signed Executive Order
+14028, ``Improving the Nation's Cybersecurity.'' As part of the
+EO, the Executive order, NIST was tasked with identifying ways
+to increase the security of software supply chains, which will
+be incorporated into new Federal Acquisition Regulation (FAR)
+for Federal contacts moving forward. In a July 2022 update,
+NIST indicated that it needs to continue to work to review the
+proposed FAR regulations to ensure they are consistent with the
+requirements of the Executive order. What is the status of this
+work, and when do you expect these FAR regulations to be
+released? And what's the expected timeline for compliance?
+Mr. Scholl. Yes, thank you for the question. So NIST has
+published a series of guidance, recommendations, and tools to
+improve the the security of our software supply chain. The
+publication and the update of the Federal Acquisition
+Regulation or the FAR is not the NIST responsibility within the
+executive order but rather will be conducted by GSA (General
+Services Administration), who has oversight on the FAR, and the
+implementation of that will come down through the Office of
+Management and Budget in policy directives to the agencies writ
+large. NIST has built the foundation in the guidance and the
+directives that will be used by both commercial and government
+software developers that both the FAR and the policy will cite
+for those requirements. So we've laid the foundations and the
+groundwork. Now the organizations that have responsibility for
+governmentwide policy and for acquisition regulation will be
+the next step. And those are external to NIST.
+Mr. Babin. OK, thank you very much. My time is expended, so
+I'll yield back, Mr. Chairman.
+Chairman Beyer. Dr. Babin, thank you very much.
+Let me now recognize the Member of Congress who will--whose
+district will oversee the Artemis launch to the Moon in the
+next 60 days or so, Mr. Posey.
+Mr. Posey. Thank you very much, Mr. Chairman, for holding
+this hearing.
+It seems the threats to our national security never ends.
+They just get greater and greater, and I thank the panelists
+for coming today and sharing your thoughts with us.
+The vast majority of space technologies are dual use. I
+mean, they can serve both in national security and a civil
+purpose. Companies like L3Harris, which is headquartered in my
+district, offers solutions to protect government systems. Many
+other companies manufacture, launch, and offer solutions to
+protect them as well. Are there any barriers that any of you
+see between the cybersecurity solutions provided for national
+security civil and commercial space sectors?
+Mr. Bailey. I'll jump in here. So one of the things I see
+is the barrier for information sharing between government
+national security and commercial. So there's been numerous
+times where I've been involved in conversations where they kind
+of have to stop because the proper caveats or access control
+and information can't be shared with certain commercial
+entities for certain reasons. So that leads to not
+understanding the threat necessarily, as well as maybe national
+security individuals may have, so that can lead to a
+misrepresentation, misunderstanding of what kind of threat
+they're actually trying to mitigate. So there definitely needs
+to be some breaking down the barriers there, getting some
+information sharing at the highest levels to individuals who
+need it so that the engineers and implementers that are
+actually doing the system engineering need the information.
+Mr. Posey. Do you see that there is a potential solution to
+the problem?
+Mr. Bailey. Yes, there's--there could be. Getting
+sponsoring access to certain contractors that build these
+solutions or temporary, you know, clearances for individuals,
+which they've done that in the past at certain levels, like
+getting, you know, read on the certain accesses for a certain
+meeting or something like that, so opening up that information
+flow. But I think one barrier--one avenue that could
+potentially help is with the standup in the last couple of
+years with the space ISAC. There could be--that could be an
+avenue to get information distributed out to a wider community
+who are members of that community. However, it has to be kind
+to--have to be certain--you know, certain things have to be
+done with the information to make it shareable. And that
+needs--work needs to be done, you know. So having someone to
+handle that part to get the information, declassified or
+demarked down to a certain level that can be shared will be
+critical.
+Mr. Posey. Great--that's a great answer. Again, to anyone
+on the panel, how are you working with the aerospace and
+defense sector to ensure government use applications have cyber
+protections built into the requirements?
+Dr. Suloway. So I actually have an answer to the previous
+question on barriers for DOD on civil and commercial. In my
+view, the DOD and civil agencies which have requirements are
+able to fund the--or the addition of security measures to their
+satellites. But for commercial vendors, they are driven by the
+consumers of the services that are being used, and so they may
+not be as willing to pay for security as a DOD or a civil
+agency would because they're required to do so. So I think it's
+important to remember that commercial--solely commercial
+entities won't have the ability to be competitive with other
+entities that don't include security if that's not somehow
+incentivized by the government to do so.
+Mr. Posey. That makes perfect sense. Do you see solutions
+to that?
+Dr. Suloway. I think when it comes to cybersecurity, the
+NCCOE has been able to help private industry adopt
+cybersecurity without a lot of additional costs by developing
+practice guides that show commercial entities that do the R&D
+to integrate security tools into a reference architecture to
+help kind of lower that entry into using commercial--
+commercially available cybersecurity products. And so I think
+similar R&D and guides that can help commercial space--the
+commercial space community adopt without having to do a lot of
+experimentation to implement cybersecurity tools would be
+helpful. So guides and additional references would help.
+Mr. Posey. I see my time is expired. Thank you, Mr.
+Chairman. I yield back.
+Chairman Beyer. Thank you, Mr. Posey.
+Let me now introduce the Chair of the House Administration
+Committee, Ms. Lofgren.
+Ms. Lofgren. Well, thank you very much, Mr. Chairman, and
+all the Members of the Committee. I think this is an extremely
+important hearing, and I'm grateful that we have organized it.
+You know, when you think about the space sector, the
+commercial side may not have the same protections that we have
+in the governmental side. And yet, a cyber attack could be
+simply devastating to the American economy and to the world
+economy, so this is hugely important. I'm wondering, especially
+since it looks like we will be taking up the CHIPS Act today,
+we know in other sectors that supply chains and third-party
+vendors can present significant cybersecurity vulnerabilities.
+So how much do we need to worry in space systems' supply chains
+posing cybersecurity risks, and what should we do about it? I
+mean, one of the concerns that's been raised publicly, I won't
+get into any of our classified briefings, but Huawei's
+vulnerability is some--well-known or has been publicly
+discussed. We hope to overcome that through the the CHIPS Act.
+Can any of you address that?
+Dr. Suloway. So at least from my perspective,
+cybersecurity--the supply chain risks that you would have in
+space systems, as you would in any other industry, are going to
+be there, and there are a few things you can do. But I think
+monitoring your systems because you are not going to be able to
+fully vet every single line of code that you could be bringing
+into your environment. So again, monitoring and sharing
+information, as Mr. Bailey mentioned earlier, is important to
+do for the commercial space industry in general, especially
+because--especially for space systems, it's harder to deal with
+things when--once systems are in orbit, so monitoring is really
+important.
+Ms. Lofgren. Correct.
+Mr. Scholl. I'm----
+Ms. Lofgren. Go ahead.
+Mr. Scholl. I'm sorry, if I may. Yes, information
+security--information supply chain risk management is a hugely
+important field, which has shown itself even more so after the
+Log4j vulnerability issue and SolarWinds. And so there's been a
+significant focus that can and should be applied to the supply
+chain and commercial satellites as well.
+This technology, though, has the potential to be monitored
+and managed a little tighter just because of the desire and the
+need for technologies that have a space pedigree. This is not
+necessarily a technology space that's as wide as commercial
+off-the-shelf technologies that are used in our IT systems.
+It's a smaller set. They have to survive the violence of launch
+and the environments of space. So people look for technologies
+that are specialized for that. So there's an opportunity here
+to understand and provide visibility into a supply chain.
+Mr. Bailey. I can say one thing real quick. So I agree with
+what Mr. Scholl said. However, on the commercialization of
+space that we're seeing and the influx is you are starting to
+see a little more commoditized standard technology that's being
+used, and open source software that's being used that we
+haven't seen in the past. So I think the supply chain aspect is
+going to be of increasing importance with the commercialization
+of space because now you're seeing entities run like real-time
+Linux on spacecraft where before you would never see that. And
+then you have the ASIC (application-specific integrated
+circuit), FPGA (field programmable gate array) hardware-based
+Trojan things that can happen if you offshore those and don't
+have those under a good lock and key so that--it's going to be
+increased importance for sure.
+Ms. Lofgren. I thank all of the witnesses, Mr. Chairman,
+and I yield back.
+Chairman Beyer. Ms. Lofgren, thank you so very much.
+We're now going to do a second round of questions for those
+Members who would wish to do so. And let me begin.
+Dr. Suloway, you had mentioned--I think Mr. Bailey
+mentioned also--that designating space systems as a critical
+infrastructure sector within DHS, that there are 16 existing
+already. My--our good friend, Congressman Ted Lieu from
+California, actually introduced legislation specifically to do
+that, which has not yet passed. Is this the right way to go?
+And how big a priority should this be for us?
+Dr. Suloway. There are several aspects to having space as a
+critical infrastructure, and I think the advantages of having
+it as a--space as a critical infrastructure allows there to be
+a focus location for commercial entities to kind of engage with
+the Federal Government. I know there is also a lot of concern
+that it would add additional burden to the commercial space
+industry, and that's why some people are concerned about
+bringing it as an additional sector. And so I think whatever is
+done, a centralized focus is important, and the implementation
+of it needs to be done carefully so that it doesn't have the
+opposite effect of driving commercial entities to not work
+within the United States and register abroad. And so I think
+that's my only concern.
+Chairman Beyer. You led very nicely into the second
+question. Of the three recommendations you made, the first one
+was that we incentivize adoption of best practices rather than
+regulate them. Is this the same concern that they would locate
+in other countries if we regulated?
+Dr. Suloway. Yes, that's the main concern is that we want
+them to be part of the conversation. And as Brandon mentioned,
+from a space information sharing perspective, we want them to
+bring their data into the fold so that the community itself can
+get stronger. But if commercial entities who have to serve
+customers aren't able to be profitable with adding in
+additional requirements, that's an issue. I will say the space
+community, at least the ones that participate with the ISAC,
+are very motivated to be involved and are applying their
+resources, so I just want to protect that community and with
+whatever is done from a critical infrastructure perspective.
+Chairman Beyer. Mr. Bailey, let me pile on because this is
+a constant debate here is how light, how heavy should the
+regulatory touch be. So if we're in a place where we're
+encouraging based on NIST recommendations and not mandating,
+not having a set policy, what's the danger of the bad actors
+slipping through in some five percent, 10 percent, 20 percent
+of the cases? How do we find that right balance?
+Mr. Bailey. Yes, I think incentivizing is one mechanism.
+Maybe there's a balance between minimum--a minimum implantation
+standard like encryption or other--or maybe some supply chain
+controls as minimum and then incentivize to increase maybe
+additional levels of security. And it's not a one-size-fits-all
+either. It's not every single satellite that gets launched
+needs needs a certain level of security. It's a risk-based
+decision. And so anything that's being leveraged to provide
+critical functionality for the country should meet, you know,
+these minimum standards, but maybe, you know, a small research
+CubeSats or nanosats that are running for universities may not
+have to be the same level of security. So it's going to have to
+be a risk-based decision. And as these things get used for
+critical functions in the country, I think the barrier and the
+minimum standard has to be established because, I mean, at a
+minimum, what we've already--I mean, encryption is super
+important. I think we all agree that should be done. And the
+fact that we don't have that as a binding requirement for any
+satellite that's launched in this country is a little
+concerning from my perspective.
+Chairman Beyer. Great. Great. Thank you very much.
+Dr. Scholl, you talked about formalizing and strengthening
+the government's relationship with Space ISAC. Tell us a bit
+more about Space ISAC. Is it governmental, quasi-governmental,
+private?
+Dr. Suloway. It's a private company, but they are--they do
+have relationship with DHS, so they're chartered by--I think
+they have a relationship of information sharing with with DHS.
+But right now, they don't have a formal Federal Government
+role, and I think that's where the--there can be confusion from
+a commercial space perspective of where--if they wanted
+information, where do they plug in? Do they go to the FBI or do
+they go to DHS or, you know, should they participate with the
+space ISAC? It's--I think it would help to formalize that
+relationship so commercial companies could feel comfortable
+providing that information and know that they were plugging
+into the appropriate part of the ecosystem because there isn't
+a central, I think, location to go to.
+Chairman Beyer. OK. Thank you. If if Dr. Babin is here--I
+don't believe he is. But, Dr. Babin, if you're here, we'd love
+to welcome you for a second round of questions.
+So moving on, let me--Dr. Suloway, let me also just follow
+up on that. ISAC--Space ISAC is it nonprofit?
+Dr. Suloway. I believe it is a nonprofit, but I do not know
+that off the top of my head. I would have to get back to you.
+Chairman Beyer. And how would the government formalize this
+relationship with ISAC?
+Dr. Suloway. So that is a good question. I am not as
+familiar with how the Federal Government formalizes
+relationships with ISAC, and so I would have to get back with
+you on what the specific mechanism would be for that.
+Chairman Beyer. Mr. Bailey, if I could just pivot on this
+same question, you talked about a proper sector-specific
+agency, SSA, a sector risk management agency working with
+something like ISAC. Is this something, again, that's created
+from scratch based on an earlier model or does it already
+exist?
+Mr. Bailey. Well, the real intent of that comment was
+ensuring that we select the proper, you know, sector agency and
+not affiliated with maybe agencies who aren't necessarily or
+can't tap into the space domain knowledge that does exist in
+the Federal space. Because currently we have--you know, between
+NASA, you know, Space Force, NRO (National Reconnaissance
+Office), NOAA, we have numerous agencies, professionals, and
+people who understand this domain and understand cybersecurity
+concerns and the nuance thereof. So the real crux of that
+comment is really ensuring that we leverage those agencies in
+addition to the community that the ISAC is building with the
+commercial sector to implement that properly. So what you don't
+want is, you know, necessarily some bureaucratic agency that
+has little domain awareness that relegates a whole bunch of red
+tape that just stifles innovation.
+So that's really the goal is making sure that you have the
+proper bounds of oversight with people who have domain
+expertise and then working directly with entities like the ISAC
+to the further the, you know, cybersecurity posture and prove
+it across the board. So if we were to do the critical sector,
+critical--space technology is a critical infrastructure sector.
+Whoever that, you know, agency is, that's probably where you
+could have that tie-in with the ISAC and have that kind of
+point-to-point communication in my opinion.
+Chairman Beyer. Great. Thank you, Mr. Bailey, very much.
+Let me yield to my good friend, the Ranking Member, Dr.
+Babin, for his questions. In the meantime, Congresswoman Kim
+will follow Dr. Babin.
+Mr. Babin. Thank you very much. I wasn't quick enough
+getting audio back on. I'm sorry, Mr. Chairman.
+Yes, I do have a couple more questions, this one to Dr.
+Suloway. How does MITRE support small- and medium-sized
+businesses in the space industry on cybersecurity standards and
+best practices? And how does MITRE work to explain what the
+attack framework is to the commercial space industry?
+Dr. Suloway. So MITRE works with several industry
+associations like AIAA (American Institute of Aeronautics and
+Astronautics) and engages with them on that front. As far as
+MITRE ATT&CK, there isn't a specific MITRE ATT&CK for space
+systems. But we do provide the MITRE ATT&CK framework because--
+generally to all. So we are engaging heavily in forums and
+conferences with the commercial space community, which is
+actually where we've heard a lot of the concerns from a
+regulatory perspective. And so those are the engagements we've
+had.
+And yes, MITRE ATT&CK is helpful, but it's important to
+remember that MITRE ATT&CK is based on tactics, techniques, and
+procedures that have been observed in other systems. And there
+hasn't--you guys have mentioned several of the incidents that
+have occurred for space systems, but there isn't that large
+body of knowledge as there are with traditional network
+systems, and so there's a lot of, I guess, predictive nature of
+looking at a tech and how it could apply to space systems
+because there isn't that knowledge base.
+Mr. Babin. All right, thank you. Thank you so much. And one
+more, Mr. Chairman, if you don't mind. This is addressed to Mr.
+Bailey. Information Sharing and Analysis Centers, or ISACs, are
+forums for private sector information sharing related to
+critical infrastructure and cybersecurity. According to the
+National Council of ISACs, they are typically nonprofit
+organizations which do not lobby. I think you all mentioned
+that a second ago. A new ISAC focused on space was recently
+established, and both aerospace and MITRE are members. Is the
+space ISAC a nonprofit or--and does it advocate for policy
+positions?
+Mr. Bailey. I also don't know 100 percent for sure if it is
+nonprofit, but I believe that is the case, given the--how ISACs
+operate. And yes, Aerospace and MITRE--and we support the ISAC.
+And we don't really lobby for anything. We've necessarily put
+out what we feel like is the appropriate, you know, guidance or
+position that the ISAC would want to have as it relates to
+cybersecurity.
+So one of the things that we've done in the ISAC community
+that we're currently working on--we haven't published anything
+yet--but is trying to translate Space Policy Directive-5 from a
+policy, even though it's nonbinding, to implementation details
+that can actually be shared in the community. So that's an
+ongoing effort. There's a Space Policy Directive-5 working
+group where we're trying to better articulate some
+implementation technical guidance as it relates to the
+principles that were outlined in SPD-5. So that's kind of
+where--we're more in the nuts-and-bolts area of this, but there
+is some----
+Mr. Babin. Yes.
+Mr. Bailey [continuing]. Policy aspect to that.
+Mr. Babin. OK.
+Mr. Bailey. And if I may, if I could answer your--the
+question you had before----
+Mr. Babin. Sure, go ahead.
+Mr. Bailey [continuing]. So the question you asked before
+about how MITRE supports--Aerospace does similar activities
+with--our focus is space. So MITRE does a lot of their work,
+great work with ATT&CK and other things. Aerospace is really
+focused mostly on space systems. And the way we collaborate
+with industry and things is like we published that technical
+operating report this year with a coordination through a
+government agency to get it in the public sector so that can be
+shared to commercial entities on the threats that could apply
+to a spacecraft, as well as countermeasures and ways to
+implement those and even get those into acquisition
+requirements and design details. So we're trying to put out
+additional low level guidance that can help mitigate some of
+the cyber attack threats that we see that could manifest itself
+onboard a vehicle. And we also have initiatives ongoing that
+kind--that try to leverage what the MITRE ATT&CK framework is
+but kind of translate that for what it would really mean to a
+space vehicle. And we're--we have ongoing research in that
+area. Thank you.
+Mr. Babin. OK, thank you. Thank you so much. Excellent.
+Mr. Chairman, I yield back, and I appreciate the second
+round.
+Chairman Beyer. Thank you, Mr. Babin, very much.
+Let me now recognize the gentlelady from California, Mr.
+Kim--Ms. Kim.
+Ms. Kim. Thank you, Chairman Beyer and Ranking Member
+Babin, for holding this hearing today. And I do appreciate the
+opportunity to ask our witnesses questions in the second round.
+Space already plays a very integral part in our lives, and
+with the commercial space boom, we have witnessed in recent
+years we should expect that our lives will be increasingly
+reliant on technology in Earth's orbit. This means we'll be
+increasingly reliant on cybersecurity. So I can ask this
+question to either Dr. Suloway or Dr. Scholl. In your written
+testimony, Dr. Scholl, you noted that examples of malicious
+cyber activities harmful to space operations include spoofing
+sensor data, corrupting sensor systems, jamming, or sending
+unauthorized commands for guidance and control, injecting
+malicious code, and conducting denial-of-service attacks. This
+is what you said Mr.--Dr.--Mr. Scholl. So based on your
+experience of working with the private sector to implement
+Space Policy Directive-5, would you say maligned state actors
+are the greatest threat to America's commercial space industry?
+Mr. Scholl. So, yes, thank you for the question. Nation-
+state actors are one of the most resourced and motivated to
+disrupt this infrastructure of the threat actors that exist. So
+certainly a nation-state actor has the resources, has the
+capability, and has the need from a competitive perspective as
+a threat actor that we should be prioritizing.
+Ms. Kim. Sure.
+Mr. Scholl. A lot of these attacks are described, absent of
+the actual threat actor. A tier down is the potential
+authorized and--person who has access but for whom there's an
+accidental input, a disruption, an interference with an
+adjacent band. So, yes, nation-state actors first, but there's
+also a whole other class of threat actors, which are known as
+the accidental but authorized as well.
+Ms. Kim. Sure. For the past year, our Committee has worked
+on legislation to increase the number of graduates entering
+STEM (science, technology, engineering, and mathematics)
+fields, including cybersecurity. So I want to ask you, Dr.
+Suloway, what is your assessment of the cybersecurity work
+force in the space industry and in the Federal Government's
+space agencies?
+Dr. Suloway. So it is a challenge to find individuals with
+both a space background and a cyber background. And I think,
+just anecdotally, it is hard to get both of those backgrounds
+together in a single person. So more investment in education
+would be--which would be helpful.
+Ms. Kim. Dr. Suloway, are you aware of any state-sponsored
+cyber attacks on American commercial space companies? And if
+so, what was the damage that you're aware of?
+Dr. Suloway. So I can speak to the two recent events that
+Chairman Beyer brought up in his testimony, which were the
+SpaceX terminals in Ukraine, as well as the Viasat. So from a
+Viasat perspective, it's interesting because the attackers were
+able to get in from the ground system and then move to the user
+terminals and then disable those systems. So it's interesting
+from a ground user space, getting into one allows you to pivot
+to the other. In that case, they disabled the terminals, which
+were able to be recovered at a later state but disrupted the
+service. So it was recoverable, but I don't know the full
+impact of what wasn't able to be done without that service.
+Ms. Kim. So I know the last question you asked you
+responded, and I wanted to just see what kind of attacks that
+you're aware of, and if so--but I do agree with you that we
+lack work force in the STEM-related fields. And I think that is
+the more reason why our government has to invest more in
+educating the next generation of future scientists, future--you
+know, the work force in the STEM field. So I know I'm working
+on legislation collectively with my colleagues, one of which
+was already included in the CHIPS legislation that we're
+working on this week. So I really agree that we need to build
+our work force in that development, and I'm really using this
+time to encourage my colleagues to think through it as we vote
+on that legislation today. Thank you.
+Chairman Beyer. Congresswoman Kim, thank you very much for
+coming and being part of this.
+Before we bring the hearing to a close, I really want to
+thank our witnesses for your testimony. As I understand, there
+are roughly 4,500 satellites in low-Earth orbit today. They
+project 100,000 by the year 2030, which is not far away. We're
+depending on them for communications, for weather, for
+agriculture, for national security, and probably most
+importantly for the internet for the whole world. And it's
+critical for life in the 21st century that we protect the
+satellites and the ground-to-satellite, satellite-to-ground
+communications.
+So this a really important hearing. Thank you so much for
+all of your input. Thanks for the ideas and the wisdom. We will
+try to figure out a way forward with your help.
+The record will remain open for two weeks for additional
+statements from Members and for any additional questions the
+Committee may ask of the witnesses. The witnesses are now
+excused. The hearing is now adjourned.
+[Whereupon, at 11:17 a.m., the Subcommittee was adjourned]
+
+Appendix
+
+----------
+
+Answers to Post-Hearing Questions
+
+Answers to Post-Hearing Questions
+
+Responses by Dr. Theresa Suloway
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Responses by Mr. Matthew Scholl
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Responses by Mr. Brandon Bailey
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

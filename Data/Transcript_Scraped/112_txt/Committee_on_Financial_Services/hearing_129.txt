@@ -1,0 +1,2309 @@
+- CYBER THREATS TO CAPITAL MARKETS AND CORPORATE ACCOUNTS
+
+[House Hearing, 112 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBER THREATS TO CAPITAL MARKETS
+AND CORPORATE ACCOUNTS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON CAPITAL MARKETS AND
+
+GOVERNMENT SPONSORED ENTERPRISES
+
+OF THE
+
+COMMITTEE ON FINANCIAL SERVICES
+
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED TWELFTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+JUNE 1, 2012
+
+__________
+
+Printed for the use of the Committee on Financial Services
+
+Serial No. 112-131
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+U.S. GOVERNMENT PRINTING OFFICE
+
+76-102 PDF                WASHINGTON : 2012
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC
+20402-0001
+
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+SPENCER BACHUS, Alabama, Chairman
+
+JEB HENSARLING, Texas, Vice          BARNEY FRANK, Massachusetts,
+Chairman                             Ranking Member
+PETER T. KING, New York              MAXINE WATERS, California
+EDWARD R. ROYCE, California          CAROLYN B. MALONEY, New York
+FRANK D. LUCAS, Oklahoma             LUIS V. GUTIERREZ, Illinois
+RON PAUL, Texas                      NYDIA M. VELAZQUEZ, New York
+DONALD A. MANZULLO, Illinois         MELVIN L. WATT, North Carolina
+WALTER B. JONES, North Carolina      GARY L. ACKERMAN, New York
+JUDY BIGGERT, Illinois               BRAD SHERMAN, California
+GARY G. MILLER, California           GREGORY W. MEEKS, New York
+SHELLEY MOORE CAPITO, West Virginia  MICHAEL E. CAPUANO, Massachusetts
+SCOTT GARRETT, New Jersey            RUBEN HINOJOSA, Texas
+RANDY NEUGEBAUER, Texas              WM. LACY CLAY, Missouri
+PATRICK T. McHENRY, North Carolina   CAROLYN McCARTHY, New York
+JOHN CAMPBELL, California            JOE BACA, California
+MICHELE BACHMANN, Minnesota          STEPHEN F. LYNCH, Massachusetts
+THADDEUS G. McCOTTER, Michigan       BRAD MILLER, North Carolina
+KEVIN McCARTHY, California           DAVID SCOTT, Georgia
+STEVAN PEARCE, New Mexico            AL GREEN, Texas
+BILL POSEY, Florida                  EMANUEL CLEAVER, Missouri
+MICHAEL G. FITZPATRICK,              GWEN MOORE, Wisconsin
+Pennsylvania                     KEITH ELLISON, Minnesota
+LYNN A. WESTMORELAND, Georgia        ED PERLMUTTER, Colorado
+BLAINE LUETKEMEYER, Missouri         JOE DONNELLY, Indiana
+BILL HUIZENGA, Michigan              ANDRE CARSON, Indiana
+SEAN P. DUFFY, Wisconsin             JAMES A. HIMES, Connecticut
+NAN A. S. HAYWORTH, New York         GARY C. PETERS, Michigan
+JAMES B. RENACCI, Ohio               JOHN C. CARNEY, Jr., Delaware
+ROBERT HURT, Virginia
+ROBERT J. DOLD, Illinois
+DAVID SCHWEIKERT, Arizona
+MICHAEL G. GRIMM, New York
+FRANCISCO ``QUICO'' CANSECO, Texas
+STEVE STIVERS, Ohio
+STEPHEN LEE FINCHER, Tennessee
+
+James H. Clinger, Staff Director and Chief Counsel
+Subcommittee on Capital Markets and Government Sponsored Enterprises
+
+SCOTT GARRETT, New Jersey, Chairman
+
+DAVID SCHWEIKERT, Arizona, Vice      MAXINE WATERS, California, Ranking
+Chairman                             Member
+PETER T. KING, New York              GARY L. ACKERMAN, New York
+EDWARD R. ROYCE, California          BRAD SHERMAN, California
+FRANK D. LUCAS, Oklahoma             RUBEN HINOJOSA, Texas
+DONALD A. MANZULLO, Illinois         STEPHEN F. LYNCH, Massachusetts
+JUDY BIGGERT, Illinois               BRAD MILLER, North Carolina
+JEB HENSARLING, Texas                CAROLYN B. MALONEY, New York
+RANDY NEUGEBAUER, Texas              GWEN MOORE, Wisconsin
+JOHN CAMPBELL, California            ED PERLMUTTER, Colorado
+THADDEUS G. McCOTTER, Michigan       JOE DONNELLY, Indiana
+KEVIN McCARTHY, California           ANDRE CARSON, Indiana
+STEVAN PEARCE, New Mexico            JAMES A. HIMES, Connecticut
+BILL POSEY, Florida                  GARY C. PETERS, Michigan
+MICHAEL G. FITZPATRICK,              AL GREEN, Texas
+Pennsylvania                     KEITH ELLISON, Minnesota
+NAN A. S. HAYWORTH, New York
+ROBERT HURT, Virginia
+MICHAEL G. GRIMM, New York
+STEVE STIVERS, Ohio
+ROBERT J. DOLD, Illinois
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on:
+June 1, 2012.................................................     1
+Appendix:
+June 1, 2012.................................................    39
+
+WITNESSES
+Friday, June 1, 2012
+
+Cantley, Michele B., Chief Information Security Officer, Regions
+Bank, on behalf of the Financial Services Information Sharing
+and Analysis Center............................................     4
+Clancy, Mark G., Managing Director and Corporate Information
+Security Officer, The Depository Trust & Clearing Corporation
+(DTCC).........................................................     6
+Graff, Mark, Vice President and Chief Information Security
+Officer, NASDAQ OMX............................................     7
+Smocer, Paul, President, BITS, Technology Policy Division of the
+Financial Services Roundtable..................................     9
+Weiss, Errol, Director, Cyber Intelligence Center, Citi, on
+behalf of the Securities Industry and Financial Markets
+Association (SIFMA)............................................    11
+Woodhill, James R., Advocate, Government and Public Relations,
+YourMoneyIsNotSafeInTheBank.org................................    12
+
+APPENDIX
+
+Prepared statements:
+Hurt, Hon. Robert............................................    40
+Cantley, Michele B...........................................    41
+Clancy, Mark G...............................................    64
+Graff, Mark..................................................    78
+Smocer, Paul.................................................    82
+Weiss, Errol.................................................    90
+Woodhill, James..............................................   100
+
+Additional Material Submitted for the Record
+
+Schweikert, Hon. David:
+Written responses to questions submitted to Errol Weiss......   120
+
+CYBER THREATS TO CAPITAL MARKETS
+AND CORPORATE ACCOUNTS
+
+----------
+
+Friday, June 1, 2012
+
+U.S. House of Representatives,
+Subcommittee on Capital Markets and
+Government Sponsored Enterprises,
+Committee on Financial Services,
+Washington, D.C.
+The subcommittee met, pursuant to notice, at 9:35 a.m., in
+room 2128, Rayburn House Office Building, Hon. Scott Garrett
+[chairman of the subcommittee] presiding.
+Members present: Representatives Garrett, Schweikert,
+Manzullo, Biggert, Neugebauer, Posey, Hurt, Grimm, Stivers,
+Dold; Lynch, and Maloney.
+Chairman Garrett. Today's hearing of the Subcommittee on
+Capital Markets and Government Sponsored Enterprises is called
+to order. Today's hearing is entitled, ``Cyber Threats to
+Capital Markets and Corporate Accounts.'' I appreciate the
+entire panel being with us today, and I look forward to an
+interesting, albeit at times, a somewhat technical hearing. So
+I look forward to the entire testimony of the witnesses and the
+questions that will follow. At this time, we will move to
+opening statements.
+I yield myself 4 minutes.
+Again, what we are talking about today is cyber attacks and
+the threat of cyber attacks against our economic interests. As
+we learned from this panel, as well as from people who have
+visited our offices, and the media, this issue is a growing
+concern to many here on the committee. And so, a better
+understanding of the potential dangers that cyber criminals, if
+you will, pose to consumers, financial institutions, and
+government agencies will help improve our chances to avoid
+disruption in the financial markets. There have been a number
+of high-profile cyber attacks over the past several years.
+Known intrusions into public Web sites have occurred at the
+Department of Defense; the International Monetary Fund; and
+Booz Allen Hamilton.
+In December 2011, the U.S. Chamber of Commerce reported
+that its computer networks had been compromised and that
+confidential communications and industry positions were
+accessed. A lot of financial services providers are big
+targets, of course--according to legend, Willie Sutton said
+that he robbed banks ``because that's where the money is.''
+Financial services businesses have been leaders in an effort to
+armor their data networks and to identify and deal with any
+actual breaches as quickly and as transparently as possible.
+The costs to business consumers are difficult to quantify,
+but we must ensure that we have the proper safeguards in place
+to thwart or minimize future attacks while simultaneously
+protecting the privacy of all the citizens. Consumer
+confidence, therefore, plays a significant role in any
+financial transaction or investment either by an individual or
+by a small business. Unfortunately, just as there have been
+numerous instances of identity theft out there where
+individuals have credit cards stolen or accounts looted, there
+has also been a significant rise in corporate account takeovers
+as well.
+Cyber threats come in many different shapes and sizes. We
+are all familiar with the threat of identity theft; I know
+about that. According to a recent Javelin strategy and research
+study, identity theft cost Americans $37 billion in 2010 alone.
+So today, I can't think of a less appetizing scenario than
+having someone other than myself accessing my personal banking
+information for their personal benefit.
+Additionally, there has been a significant increase in
+corporate account takeovers, which are essentially identity
+theft of a company instead of a business or an individual.
+Consequently, small businesses are seeking solutions to
+safeguard their information and their finances.
+Our financial markets and clearinghouses have largely been
+spared the high-profile attacks that have succeeded at some
+banks partially because of their hard work and partially
+because of the way they are constructed. But they are still
+vulnerable to denial of service attacks on public Web sites or
+on utilities that serve them.
+Fortunately, as we saw in the terrible attacks a decade ago
+in New York City, our markets are resilient, and I am confident
+they have only become more resilient and more reliable ever
+since. But it is important to let them tell their story today
+in their own words. And so, we are holding these hearings to
+discuss current and potential threats against our financial
+services industry and to discuss how we together can be better
+prepared against future attacks.
+We must remember that we always remain vigilant when we are
+protecting personal and financial information. So much of our
+economy is reliant on the Internet today that we must not be
+complacent in all of this. Our economy has always been a
+leading contributor to our national strength. We must ensure
+that it is protected against tomorrow's threats. So I thank you
+again for coming, and for your testimony which will follow, and
+at this point, I yield back and yield to the gentlelady from
+New York for 3 minutes.
+Mrs. Maloney. Thank you. I will be very, very brief.
+Certainly the security of our financial markets, our
+government, is incredibly important to our national and
+personal security, and today's hearing is part of a continuing
+oversight and dialogue we are having in Congress about the
+threats to our markets and the impact these attacks could have
+on our economy, on our individuals, and on our government. And
+with the rapid pace of technology and the growing number of
+threats across a wide range of businesses, both large and
+small, it is truly a huge, huge challenge and one that needs
+absolute total commitment and coordination between the public
+and the private sector to protect our markets, to protect
+individuals, and to protect our government.
+I do want to mention a recent report by Symantec, the
+``Internet Security Threat Report,'' which was excellent. It
+stated that half of our businesses in America, both big and
+small, were targeted by cyber attacks, and over 232 million
+identities were stolen in 2011, including my own. There is a
+``Carolyn Maloney'' running around Maryland. This is truly a
+wake-up call.
+In their report, they say that 5.5 billion total attacks
+were blocked in 2011. So not only do we have to look at ways to
+continue to block this, but we need to continue to look at ways
+to protect our capital markets and our industries, both public
+and private, the information that we have.
+I look forward to hearing from the witnesses today, and I
+yield back. Thank you.
+Chairman Garrett. Thank you. The gentlelady yields back.
+The gentleman from Arizona for 2 minutes.
+Mr. Schweikert. Thank you, Mr. Chairman. I will try to be
+fairly quick. What I am hoping to actually hear from the
+panel--actually, Mrs. Maloney, should I be worried that there
+is another one of you running around Maryland?
+Mrs. Maloney. There is. The FBI is looking for her.
+Mr. Schweikert. It is a combination of things. First off,
+right now, with the way we allocate liability, are we creating
+incentives or disincentives for some folks within, shall we
+say, the financial food chain to invest and others to not
+invest? This is sort of a side concern.
+Second of all, I would like to hear and understand how,
+throughout the industry, you coordinate talent, coordinate
+technology, and coordinate data and information of best
+practices. Third, I want you to either assuage me or agree with
+me; I am one of the Members of Congress who actually has a
+great concern that a growing governmental role in the whole
+issue of cyber attacks and data protection--that government so
+often becomes bureaucratic and moves so slowly that it will
+actually make reaction time worse, and therefore raise our
+exposure. That is a concern, and I would like some definition
+back of, in many ways, are we making it more difficult to react
+on an instant time? So with that, Mr. Chairman, I yield back.
+Chairman Garrett. Thank you. Mr. Dold is recognized now for
+2 minutes.
+Mr. Dold. Thank you. Mr. Chairman, I certainly appreciate
+you holding this hearing on a very important topic and I want
+to thank our witnesses for taking your time and joining us
+today. I believe our capital markets are a critical driver of
+our economy and our Nation's productivity, and our technology
+is the most advanced in the world. But today we are facing a
+constantly increasing threat of cyber crime and cyber
+intrusions. Sophisticated viruses and malware threaten our
+commercial businesses and individuals, costing us billions of
+dollars each and every year while also threatening our power
+grids and our national security.
+That is why it is so critical to focus on this issue and to
+strengthen the safety and integrity of our financial sector
+against cyber threats.
+Every day, literally hundreds of thousands of cyber threats
+hit our financial institutions. I think that is something that
+not many people really recognize, and it is something that we
+need to be prepared to act against.
+In that regard, I am confident that my colleagues and I
+share several bipartisan goals. First, we must maintain and
+improve our existing cybersecurity infrastructure and identify
+all cybersecurity breaches.
+Second, we must share all relevant cyber threat information
+to facilitate a fast and effective response. And we must do
+this in a way that does not unduly infringe upon privacy
+rights, consumer rights or the integrity of business contracts.
+Third, the private sector and the public sector must work
+together in leveraging existing institutions to evolve with the
+increasing cyber attack complexity.
+Finally, the private sector must be able to work
+confidently with law enforcement agencies to protect the
+existing systems while ensuring that sensitive information is
+handled securely and is used appropriately.
+Clearly, to maintain the public trust, the financial sector
+and government agencies must remain committed to protecting
+personal data and intellectual property. I want to thank you
+again for being here, and Mr. Chairman, I want to thank our
+witnesses for sharing their time, their testimony, and their
+experience with us today. That you so much. I yield back.
+Chairman Garrett. The gentleman yields back, and I echo
+those remaining comments of the gentleman to the panel as well,
+and seeing no other opening statements, I will now turn to our
+panel for your opening statements.
+As always, for those of you who have not been here before,
+you will be recognized for 5 minutes. Your complete written
+testimony will be made a part of the record, and you can
+summarize what you have in front of you.
+So, we will turn first to Ms. Cantley. Good morning. You
+are recognized for 5 minutes.
+
+STATEMENT OF MICHELE B. CANTLEY, CHIEF INFORMATION SECURITY
+OFFICER, REGIONS BANK, ON BEHALF OF THE FINANCIAL SERVICES
+INFORMATION SHARING AND ANALYSIS CENTER
+
+Ms. Cantley. Good morning. Chairman Garrett, Representative
+Maloney, and members of the subcommittee, my name is Michele
+Cantley. I am the chief information security officer for
+Regions Bank, and I am appearing today for the Financial
+Services Information Sharing & Analysis Center, FS-ISAC. I want
+to thank you for this opportunity to address the subcommittee
+on the important issue of corporate account takeover.
+I have been head of information security at Regions since
+2004. Regions is the 12th largest bank by deposits and loans
+and it serves customers in 16 States. Regions is a member of
+the FS-ISAC, an organization formed in 1999 by a Presidential
+order with the mission of protecting the financial services
+sector against cyber and physical threats and risk.
+Today, the FS-ISAC has more than 4,400 member organizations
+that represent the majority of the U.S. financial services
+industry.
+It is important to note that industry has spent much time
+and effort and has worked closely with its regulators and other
+interested parties to provide safe systems to its customers.
+The FS-ISAC is aware, through its information-sharing
+arrangements with both public and private sector organizations,
+that criminal actors are targeting our sector. Corporate
+account takeover is one method of attack. Corporate account
+takeover is the unauthorized use of online banking credentials
+typically obtained via malicious software, malware, that
+affects customers' computers, work stations, or networks. Cyber
+criminals continue to attack business customers' computers by
+phishing, which remains the most popular form of attack through
+malicious advertisements and by fraudulent messages on social
+media sites. In each case, the cyber criminals attempt to trick
+their victims into clicking on a bogus link that redirects the
+unknowing user to a server that then downloads malware onto the
+victim's computer.
+This software includes a program that captures the user's
+online banking credentials as he types them and allows the
+criminal to impersonate the customer and create fraudulent
+financial transactions.
+Over the past 2 years, losses experienced by financial
+institutions and their customers as a result of cyber-related
+fraud have declined even as the number of attacks has
+increased. The FS-ISAC and its members recognize the threat
+both to the affected institutions and to customer confidence
+posed by these criminal acts.
+In 2010, as part of our active efforts to counteract the
+threat of corporate account takeover, the FS-ISAC formed the
+account takeover task force. The task force consists of over
+120 individuals from financial firms and government agencies.
+Its recently completed report recommends three main areas of
+focus--prevention, detection, and response--in order to ensure
+and improve an effective defense against account takeover.
+The FS-ISAC and its membership have taken tremendous steps
+to limit cyber crime and corporate account takeover.
+Nonetheless, corporate account takeover attempts cannot be
+stopped solely by the financial institutions. All participants
+in the Internet ecosystem have roles to play. Banks, for
+instance, have no direct control over the end customer's
+computers nor can banks control what e-mails bank customers
+open or what Web sites they visit prior to accessing their
+online banking systems.
+Still, to increase the security of our customers' accounts,
+we must educate our customers on the risks, monitor for
+anomalous transactions, and stop fraudulent transactions we
+detect.
+Customers have a role to play in learning about these
+threats and practicing safe Internet habits. Internet service
+providers and e-mail providers can monitor traffic on their
+networks for much of this malware and alert their customers to
+these threats.
+Finally, the FS-ISAC believes that the private sector and
+government can continue to work together to improve Internet
+security. One area I would highlight is that law enforcement
+should continue to move aggressively against cyber criminals
+and that more work on international, legal, and diplomatic
+levels is needed so that all countries recognize this type of
+cyber crime.
+I look forward to any questions that you might have and
+thank you for the opportunity to appear before your
+subcommittee today.
+[The prepared statement of Ms. Cantley can be found on page
+41 of the appendix.]
+Chairman Garrett. And we thank you as well.
+Mr. Clancy, you are recognized for 5 minutes, and welcome.
+
+STATEMENT OF MARK G. CLANCY, MANAGING DIRECTOR AND CORPORATE
+INFORMATION SECURITY OFFICER, THE DEPOSITORY TRUST & CLEARING
+CORPORATION (DTCC)
+
+Mr. Clancy. Good morning, Chairman Garrett and Ranking
+Member Waters. My name is Mark Clancy, and I am the corporate
+information security officer at the Depository Trust & Clearing
+Corporation. DTCC is a participant-owned and governed
+cooperative that serves as critical infrastructure for the U.S.
+capital markets and financial markets globally.
+Our operations and processes are essential to mitigating
+risk and ensuring the safe and efficient operation of the
+financial system. Cyber crime poses a significant threat to
+capital markets globally. A study by the U.S. Treasury found
+that cyber crime accounts for more revenue than international
+drug cartel income, running into the hundreds of billions of
+dollars annually.
+There are three main types of cyber attacks aimed at the
+financial sector. The first involves the theft of confidential
+data. In its most insidious form, cyber criminals take over the
+accounts of innocent victims globally and either directly steal
+funds or use the stolen credentials for market manipulation by
+what is called ``pump and dump'' scams. Their goal is to move
+the market in a stock by bidding against themselves and anyone
+else they can lure into the scam.
+In recent years, DTCC has also witnessed data theft in our
+industry involving highly sophisticated social engineering
+techniques that attempt to give foreign entities a competitive
+advantage in negotiations often related to winning bids for
+natural resources or beating the offering price for an
+acquisition of a company.
+The second type of attack involves compromising the
+integrity of the National Market System, NMS, in the United
+States. The goal of these cyber crimes is to grind the
+financial system to a halt and disrupt national economies.
+While there are no public reports of the NMS directly being
+impacted today, an attack on the Hong Kong Stock Exchange in
+2011 reinforced the dangers of this threat.
+The third type of attack involves compromising the
+integrity of financial data, which today exists overwhelmingly
+in digital form. These attacks have the potential to be the
+most catastrophic. For example, the European market for carbon
+credit trading was the victim of such an attack in January 2011
+when cyber criminals changed the ownership information of
+individual carbon credits. This resulted in the theft of 30
+million euros' worth of credits from the European emissions
+market and the closure of the EU Emissions Trading System for
+more than a week.
+While financial institutions have robust information
+security programs in place to protect their systems from cyber
+threats, these programs are not foolproof. A critical resource
+the industry relies upon to safeguard the system is information
+sharing between Federal agencies and financial institutions,
+most notably via the Financial Services Information Sharing and
+Analysis Center.
+I would like to focus on a successful but now defunct pilot
+program known as the Government Information Sharing Framework,
+GISF, which targeted cyber espionage. Under the program, 16
+financial services firms were granted access to advanced threat
+and attack data as well as classified technical and analytical
+data on threat identification and mitigation techniques. The
+GISF program provided the sector with access to actionable
+information to search for similar threat activity in their own
+networks, access to contextual information to better understand
+risk implications to various threats, the ability to adjust
+assessments of cyber espionage using quantifiable information
+that had previously been unavailable, and a better
+understanding of the need to develop standards to support the
+automation of sharing and consuming threat data.
+The GISF program drove innovation and new initiatives in
+the industry and helped reshape the sector's approach to
+assessing cyber espionage risks. It also prompted pilot firms,
+including DTCC, to revise best practices.
+Unfortunately, the program was effectively terminated in
+December 2011 for reasons that were unclear. Since then, more
+than five financial institutions have experienced threat
+activity from actors first identified through GISF reporting.
+Furthermore, an assessment by the FS-ISAC found that these
+threats will continue to increase in the future. Information
+sharing like that which occurred under GISF represents the most
+critical line of defense in managing and mitigating cyber risk
+today.
+DTCC strongly supports restarting GISF's program, removing
+its pilot status, and expanding its reach within the financial
+sector.
+As the sophistication and technological means of cyber
+criminals increases, the financial sector in government needs
+to move from a static ``one-size-fits-all'' framework to a
+risk-based one that incorporates the dynamic nature of
+cybersecurity threat landscape.
+While the public and private sectors have taken important
+steps in recent years to enhance collaboration, a greater
+degree of information sharing and trust is needed to ensure
+that all resources are working in concert to protect and defend
+the financial sector from cyber attack.
+DTCC stands ready to work in partnership with this
+committee, the Congress, and the Administration to harden the
+sector's defenses against cyber crimes.
+Thank you for your time.
+[The prepared statement of Mr. Clancy can be found on page
+64 of the appendix.]
+Chairman Garrett. I thank you, as well.
+Mr. Graff is recognized for 5 minutes. Welcome.
+
+STATEMENT OF MARK GRAFF, VICE PRESIDENT AND CHIEF INFORMATION
+SECURITY OFFICER, NASDAQ OMX
+
+Mr. Graff. Thank you, Chairman Garrett, Ranking Member
+Waters, and members of the subcommittee. My name is Mark Graff,
+and I am the vice president and chief information security
+officer (CISO) for NASDAQ OMX. Although I am new to NASDAQ OMX,
+having arrived just this past April, I am no newcomer to
+information security with about 25 years' experience serving
+both the industry and government. Most recently, I was head of
+cybersecurity at Lawrence Livermore National Laboratory which
+is not only one of the crown jewels of research in this
+country, but also the repository of some of the Nation's most
+important secrets, including nuclear weapons designs.
+I moved to NASDAQ OMX to help protect another part of
+America's critical infrastructure--its financial markets. I
+changed industries, but most of the challenges remain just the
+same.
+NASDAQ OMX is committed to a vigorous defense of its
+critical infrastructure, and as an expert in the methods used
+today to defend this Nation's most critical, most highly
+classified systems from attack, I can tell you that many of
+these same techniques and technologies are used to defend
+NASDAQ OMX.
+One key method at both institutions is the isolation of
+critical systems from the Internet at large. While many of the
+servicers who deliver to customers worldwide are housed on
+Internet facing Web servers, our trading and market systems are
+safely tucked away behind several layers of carefully arranged
+barriers, such as firewalls and network isolation zones. This
+is an important distinction to remember, and we should all keep
+this in mind when we hear about denial of service attacks
+against one institution or another. Any troublemaker can run up
+to the front door of a house and ring the doorbell over and
+over again--and that is what most denial of service attacks
+amount to--if sometimes despite our best efforts, our customers
+are unable to reach one of our outward facing Web sites for a
+few minutes as a result of this kind of vandalism, I ask us all
+to remember that it doesn't mean, in my homely analogy, that
+someone has broken into the house. Market systems remain
+secure.
+But we don't rely on isolation alone. We have a
+comprehensive information security program using a multi-
+layered approach. For example, in developing software we treat
+information security as a critical element all the way through
+the life cycle of the software from design to implementation,
+and also in everyday use.
+These controls that I have talked about span our entire
+enterprise network. Our trading systems, though, are further
+protected by their overall resilient architecture. While these
+trading platforms, as I mentioned, are isolated from the rest
+of the network and from the Internet, the system also restricts
+the information that is allowed to be submitted to it through
+the use of a fixed set of formatted protocols that control
+inputs to the trading platform.
+It also is refreshed at the end of the trading day, every
+information trading system and no data is maintained in the
+trading platform beyond the trading day. This helps secure the
+trading markets which are so important to us.
+Now for all those steps, we do have serious concerns about
+the worldwide attacks on critical infrastructure that are being
+led not just by rogue hackers and organized crime but by
+national governments today. And it is our position that it is
+not reasonable to expect individual companies, no matter how
+large or sophisticated, to independently stave off cyber
+attacks that are coordinated and backed by a foreign
+government.
+So it is for this reason that we at NASDAQ OMX are very
+pleased that both Houses of Congress are looking at ways to
+protect our critical national infrastructure through improved
+sharing of information about cyber threats and vulnerabilities.
+We support the House passage of H.R. 3523, the Cyber
+Intelligence Sharing and Protection Act. Although there are
+some concerns about data privacy that certainly may be
+addressed, we think it is an excellent move forward in this
+area.
+NASDAQ OMX is and continues to be a willing partner with
+industry peers and government at every level, cooperating to
+protect the integrity of our critical infrastructure. And it
+would be my pleasure as NASDAQ OMX's new CISO to continue and
+expand such contacts and relationships.
+Thank you again for inviting me to testify.
+[The prepared statement of Mr. Graff can be found on page
+78 of the appendix.]
+Chairman Garrett. And thank you.
+Mr. Smocer is recognized for 5 minutes. Welcome to the
+panel.
+
+STATEMENT OF PAUL SMOCER, PRESIDENT, BITS, TECHNOLOGY POLICY
+DIVISION OF THE FINANCIAL SERVICES ROUNDTABLE
+
+Mr. Smocer. Thank you, Chairman Garrett, Representative
+Maloney, and members of the subcommittee. My name is Paul
+Smocer and I am the president of BITS, which is the technology
+policy division of the Financial Services Roundtable.
+As the recent passage of key legislation during cyber week
+indicates, the House clearly understands the importance of
+cybersecurity. Likewise, the financial services industry
+recognizes the serious and constantly evolving nature of cyber
+threats to its customers, its institutions, and the broader
+U.S. economy.
+Individual institutions conduct ongoing risk assessments to
+identify potential institutional and customer threats and to
+limit these risks for both their own operations and those of
+their key service providers. This includes providers of
+services such as clearings, settlements, and accounting within
+the capital markets environment.
+These assessments help assure that the institutions and
+financial infrastructure such as capital markets remain secure.
+In the battle over cybersecurity, however, no one institution
+can fight alone. Consequently, at the sector level, several
+collaborative efforts exist. The associations such as BITS and
+other institutions ban together to collectively identify cyber
+risk, and more importantly, to develop best practices to
+improve cybersecurity, reduce fraud, and improve resiliency.
+The largest of these industry collaborations is perhaps the
+sector's Financial Services Sector Coordinating Council,
+consisting of the major financial trade associations, the
+largest U.S.-based financial institutions, and key financial
+infrastructure participants.
+The Council works closely with its public sector partner,
+the Financial and Banking Information Infrastructure Committee.
+Chaired by the Treasury Department, this Committee includes 16
+government agencies with regulatory oversight for the financial
+sector including capital markets. Working together, Council and
+Committee members focus on key cybersecurity issues, including
+the ability to recover vital infrastructures impacted by cyber
+or physical incidents.
+The two groups sponsor industrywide resiliency exercises,
+the latest of which had a focus on the resiliency of the
+equities clearing and trading processes. BITS and other
+associations have also formed collaborative relationships with
+various law enforcement agencies to coordinate efforts in
+preventing and prosecuting cyber crime. The industry also
+conducts outreach efforts to other key sectors. One recent
+example is participation in the industry BOTNET group. This
+multi-industry, multi-stakeholder group is acting
+collaboratively to mitigate the problem of device takeovers by
+cyber criminals.
+These types of efforts are consistent with the financial
+services industry's recognition that today's cyber world is
+highly integrated and relies on multiple organizations and
+providers to effectively mitigate security risks. The industry
+also recognizes the importance of cybersecurity education.
+Consumers and businesses play a key role in cybersecurity and
+have a responsibility to protect themselves, though the
+industry and others have recognized that they often lack the
+skills and awareness to fully do so. As a result, institutions
+and associations have made significant educational investments.
+A key collaborative area of particular note is threat
+information sharing. Financial institutions currently share
+threat information via the FS-ISAC. Broader inter-industry and
+public-private information-sharing opportunities do remain.
+Because of the interdependency of sectors in key
+infrastructures such as capital markets, it is vital to share
+information across a broad swath of sectors to improve the
+responsiveness and the defense of all sectors.
+Maintaining the confidentiality of shared information,
+particularly between the private and public sectors, however,
+remains a concern. Organizations are concerned that revelation
+of information will impact their reputation and their
+customers' confidence. That is why the financial services
+industry was supportive of the passage of H.R. 3523 which, if
+enacted, offers additional protections to the confidentiality
+of shared information. We recognize that as H.R. 3523 was
+debated, legitimate concerns about protecting an individual's
+information and privacy were raised by several Members of the
+House.
+As you consider future cybersecurity legislation, however,
+we do urge you to consider solutions to allow sharing of this
+type of information under certain circumstances in a manner
+that protects individuals' privacy rights, but also facilitates
+their financial protection.
+There are legitimate reasons to share this information that
+benefits citizens. Sharing details about breached customer
+information and sharing it quickly would allow institutions to
+take action to prevent fraud against their commercial and
+retail customers.
+In closing, again, please accept my thanks for the
+opportunity to testify today. Cybersecurity is a vitally
+important issue for both the private and public sectors.
+Protecting companies, customers and infrastructures that
+support our economy is crucial. We commend the subcommittee for
+recognizing the importance of this subject and for your
+attention in the strengthening of the Nation's cybersecurity.
+[The prepared statement of Mr. Smocer can be found on page
+82 of the appendix.]
+Chairman Garrett. Thank you.
+Mr. Weiss, you are recognized for 5 minutes and welcome.
+
+STATEMENT OF ERROL WEISS, DIRECTOR, CYBER INTELLIGENCE CENTER,
+CITI, ON BEHALF OF THE SECURITIES INDUSTRY AND FINANCIAL
+MARKETS ASSOCIATION (SIFMA)
+
+Mr. Weiss. Good morning, Chairman Garrett, Representative
+Maloney, and members of the subcommittee. My name is Errol
+Weiss, and I am the director of Citi's Cyber Intelligence
+Center, which is responsible for collecting, analyzing, and
+exchanging threat intelligence to protect Citi's customers, our
+brand, global business operations, and technology
+infrastructure against threats worldwide.
+I am testifying on behalf of the Securities Industry and
+Financial Markets Association on how to safeguard the capital
+markets from emerging cyber threats.
+I will be focusing my testimony this morning on
+cybersecurity in the financial services sector and what we are
+currently doing to protect our infrastructure, and most
+importantly, our customers from cyber attacks. SIFMA supports
+the goals of the Administration and Congress to limit
+cybersecurity threats against the American people, businesses,
+and government through a more integrated approach. The increase
+in cyber intrusions and cyber crimes in the past decade is
+cause for great concern.
+SIFMA member firms are on the front lines defending against
+cyber threats to the financial markets, and we take this role
+very seriously. Consequently, SIFMA members currently comply
+with a number of stringent laws and regulations on the
+protection of personal data, including the Gramm-Leach-Bliley
+Act, the Fair Credit Reporting Act, and the Right to Financial
+Privacy Act. These laws and regulations are reinforced by
+regular, proactive review and audited by highly specialized
+regulators that are supported by the FFIEC, an interagency
+entity that issues data privacy and cybersecurity guidance and
+monitoring procedures.
+In addition, the financial services sector proactively
+founded the Financial Services Information Sharing and Analysis
+Center.
+Like Michele and Mark on this panel today, I currently
+serve on the FS-ISAC board of directors. We recognize that
+Congress shares our concerns regarding the Nation's current
+cybersecurity infrastructure.
+With respect to our industry, we believe it is important to
+keep the following five principles in mind: SIFMA recognizes
+the need for expanded information sharing with government
+agencies, including greater private sector access to threat
+data from Federal intelligence and law enforcement agencies;
+access to threat information must be administered in a manner
+that can provide broader cybersecurity protection without
+compromising ongoing investigations or the privacy of
+individual Americans; government agencies should leverage the
+existing ISACs and DHS US-CERT to facilitate two-way and cross-
+sector public-private information sharing that will help
+financial institutions better protect themselves and ultimately
+protect our customers; and our current regulators are best
+suited for designating or regulating critical infrastructure.
+The Treasury Department, as our sector-specific agency, and
+the regulatory agencies, through the Financial and Banking
+Information Infrastructure Committee, should determine what is
+considered critical infrastructure. A one-size-fits-all
+approach is not the right regulatory solution. As the amount
+and sophistication of cyber attacks increases, the need for new
+technologies, expertise, and talented personnel to combat these
+threats becomes paramount. Our Nation's universities must focus
+on developing the next crop of talented information security
+professionals so that the financial services industry and the
+Nation can adequately protect itself from cyber attack.
+Because cybersecurity is a global problem, and cyber crimes
+frequently occur across borders, cooperation with international
+partners is critical to preventing, investigating, and
+prosecuting cyber crime. The United States should seek strong
+cooperation with foreign governments to improve cybersecurity
+and punish those that are responsible for cyber crimes.
+SIFMA believes a single uniform Federal breach notification
+standard would reduce administrative oversight, establish clear
+notification guidelines, and most importantly, reduce customer
+confusion. We have played a leadership role in developing
+policies, procedures, and technology to protect customer data,
+and we look forward to maintaining that role as the Nation
+upgrades its cyber defenses. Thank you, Chairman Garrett,
+Representative Maloney, and other members of the subcommittee
+for this opportunity to testify today on behalf of SIFMA.
+[The prepared statement of Mr. Weiss can be found on page
+90 of the appendix.]
+Chairman Garrett. I thank you.
+Mr. Woodhill, welcome. You are recognized for 5 minutes.
+
+STATEMENT OF JAMES R. WOODHILL, ADVOCATE, GOVERNMENT AND PUBLIC
+RELATIONS, YOURMONEYISNOTSAFEINTHEBANK.ORG
+
+Mr. Woodhill. Thank you. Mr. Chairman, Vice Chairman
+Schweikert, Congresswoman Maloney, and members of the
+subcommittee, when I asked how to be a good witness for you, my
+good friend Billy Tauzin, former chairman of the Energy and
+Commerce Committee, told me that I needed to do two things: be
+brief; and then be gone.
+But before I am gone, I should tell you what the problem is
+and offer you at least one decisive solution. Thank you for the
+opportunity to testify before you today on behalf of the
+victims and potential victims of corporate account takeovers.
+My name is Jim Woodhill. I am a serial entrepreneur in the
+information security space. I was recruited in December of 2009
+to be the advocate for the victims of this new and fast-growing
+cyber crime by Gartner Inc.'s Avivah Litan, the most prominent
+analyst in the space.
+I am here today because your money is not safe in the bank,
+not if you are an American church, school district, small
+business, or political campaign fund; not if you bank online
+using Microsoft Windows. Many of you on this committee have
+heard from victims in your districts.
+The shocking thing to victims is that their organizations
+being vulnerable is an official financial services industry
+policy known as shared responsibility, your personal accounts
+are safe, protected by Federal Reserve regulation E, but the
+status of commercial accounts has been the subject of dozens of
+lawsuits over State law. The consensus of cyber law experts is
+that shared responsibility will not hold up long term.
+Today, there have been over 500 victims, and at least $100
+million has been stolen. Sometimes, the bank makes full
+restitution, and sometimes, it reaches a settlement with the
+losses split with the victim. But in hundreds of cases, the
+bank has evoked shared responsibility and stuck the victim with
+the entire loss. More than one bankruptcy has resulted. The
+latest lawsuit was filed on May 17th by TRC operating company,
+a California energy producer. No matter whose pocket this money
+comes out of, the stolen moneys are funding enemy R&D. The
+thefts must stop.
+This crime wave did not have to happen. The regulators
+issued guidance in October of 2005 that would have stopped the
+crime. Even back then, necessary solutions were expensive to
+acquire and operate, quickly implemented, and enjoyed wide
+customer acceptance. But they weren't adopted in great numbers,
+so that regulators issued much more detailed supplemental
+guidance last year.
+If the solutions were available and the regulators had told
+the banks to use them, why did United Security Bank sign up
+last month to spend more on lawyers to defend the lawsuit than
+the $300,000 it would cost to reimburse TRC?
+The answer is simple. America's small and medium-sized
+banks still have not gotten the memo. Why not? Examples from
+medicine and public health show that even when life and death
+are at stake, it takes 20 years to get new information through
+a medical specialty. As for educating the general public about
+infectious threats well enough to stop them, public health
+experience shows that it just can't be done.
+Fortunately, account takeover can be stopped by the
+processors, the 13 big and smart organizations that actually
+run online banking on behalf of their 5,000 small clients, just
+as it has already been stopped by the very largest banks who
+are their own processors.
+Weighing alternatives, moving the risk of this crime and
+responsibility for stopping it to the processors is the
+victim's first choice if fast government is not in the loop.
+But there are other solutions that would work. If banks were
+required to fully disclose the risks of online banking, then
+those customers moving online could either accept those risks,
+turn off online banking or move their accounts to where they
+are safe. I think banks would quickly turn to their processors
+for protection rather than admit that money is not safe in
+their bank.
+Another alternative is that if fiduciaries of public funds,
+taxpayer money like city and State treasurers simply refuse to
+risk taxpayer dollars by depositing them in banks with any
+history of unreimbursed losses, then those banks would do the
+same thing.
+Regulation E could be extended to all accounts, but I
+oppose this because disclosure or public fiduciary action would
+accomplish the same thing and is more free-market-oriented.
+Whatever the Congress does, we urge you to do it soon,
+before there are more victims and more trust lost in the
+banking system. We must work to make cyberspace a safe
+neighborhood. Thank you for inviting me to testify.
+[The prepared statement of Mr. Woodhill can be found on
+page 100 of the appendix.]
+Chairman Garrett. Thank you also for your testimony and for
+being with us today. I thank the entire panel.
+We will turn to questions, and within my 5 minutes, I will
+start from the left and move down as far as I can go.
+Ms. Cantley, you note in your testimony that one of the
+recommendations deals with the issue of making changes to the
+suspicious activity report. Can you briefly dig into that a
+little bit and say what changes need to be done there?
+Ms. Cantley. Yes, sir, and I would add that those have
+already been implemented by FinCEN. FinCEN has already
+implemented the recommendations from the account takeover task
+force. When we looked at the suspicious activity report that
+financial institutions are required to file, we noted that
+account takeover was not clearly labeled as a form of
+suspicious activity, and we recommended to FinCEN that it be
+appropriately labeled, and that has been accomplished as of the
+end of last year.
+Chairman Garrett. So what is being done with that
+information then?
+Ms. Cantley. Now, when financial institutions have a
+situation of account takeover and they reported on the
+suspicious activity report, then FinCEN can use that to do
+their analysis and also--
+Chairman Garrett. What did they do before they had that
+little check-off box?
+Ms. Cantley. I beg your pardon?
+Chairman Garrett. What was being done before you had a
+little check-off box?
+Ms. Cantley. Before that, it was not clear what was the
+method of attack, Mr. Garrett. And so we felt it was
+appropriate that the industry, through FinCEN, could reflect
+the volume and size of account takeover appropriately and we
+felt the suspicious activity reporting process would be a good
+method for that.
+Chairman Garrett. Okay, thanks. Mr. Clancy, and actually
+others might want to chime in on this--there is talk in the
+testimony of you and others with regard to the sharing of
+information between institutions and the government as well. In
+order to do so, you have to have a high level of trust there
+and usually in life, you want to earn trust before you execute
+on it.
+Do you want to briefly talk about ways to do that, to
+evidence the trust and to enhance ways to share that
+information between the levels?
+Mr. Clancy. Thank you, Mr. Garrett. Trust, as you
+mentioned, is slow to build and fast to be lost. The way we
+have looked at it in the financial sector is we started with
+anonymous reporting through the FS-ISAC where you can
+essentially remove the details of who was impacted but give the
+facts so that others can take action based on those facts.
+With that community, there are some limitations. And what
+we saw as we did this is we started to get a small volume of
+activity, but when a core, small group of us got together who
+knew each other socially, knew each other professionally, and
+we started saying, here is what really happened with that
+report that we made, the greater richer context came out. And
+we built what we called a concentric ring model where we had
+people who were in the center, most who started out with one-
+to-one personal relationships, we expand that network, that
+community shares with full attribution, that is what happened
+to me, this is what we did, this is what we didn't do, we
+distill out details of that, and honestly, share the broadest
+community in our sector and build those rings.
+Now, what we have done is we have built additional rings so
+we have started in 2011 an inner circle, if you would, called
+the Clearinghouse and Exchange Forum which is a subgroup of
+people like myself and Mr. Graff who are in the capital markets
+side of the industry and sharing information about attacks on
+us.
+As you get to know the people you are sharing with, you
+bring more people into that network and the network grows. It
+is a little bit like social media; the more friends you have,
+the more friends you get.
+Chairman Garrett. I have a bunch of questions, I have to
+get them all in.
+Speaking of social media, Mr. Graff, I read in the paper
+that there was a big thing with Facebook the other day. Do you
+want to just briefly, since you are here, tell us in your
+information that you have with regard to that transaction and
+that was reported: What the problem was, was there any
+cybersecurity aspect to that whatsoever, what is being done to
+make sure that doesn't happen again, and have the people
+involved been taken care of?
+Mr. Graff. Yes. Thank you, Congressman.
+As I think you note, my expertise is in cybersecurity and
+not in the trading systems, but what I know is that the
+Facebook IPO showed us a design flaw in the methods that are
+used to operate the IPO. It was a design that has been used
+successfully for years. Now, we have engineered a fix for that
+design. We are also taking a look at the processes we use to
+develop a software and test the software to see if we can
+improve those.
+In terms of cybersecurity and any potential involvement
+with the Facebook IPO, based on the information I have, which
+is substantial, there was no cybersecurity element in that IPO.
+Chairman Garrett. Thank you. I have additional questions,
+but my time has expired. I will now yield to the gentlelady
+from New York.
+Mrs. Maloney. I would like to ask Mr. Smocer or really
+anybody on the panel, when there is a cyber attack, how do you
+find out about it? Do your customers tell you about it? Does
+your internal division tell you? Does government tell you? How
+do you find out about it, and then what do you do? Do you
+report it to government so we are coordinating? Do you report
+it to other companies? How does it work now? We are hearing
+that half of the small and large companies are being attacked.
+How do you find out about it, and then what do you do about it?
+Mr. Smocer. The short answer to your question is yes, all
+those sources. The reality is that financial institutions are
+constantly monitoring their environment for indications of
+attack. So as Errol would tell you at Citi, and he is on the
+cyber intelligence side, so I will defer to him in a second
+here, but there are significant investments in monitoring tools
+to look at the environment to determine if there are attacks
+under way.
+Mrs. Maloney. These tools that you put in place, are they
+standards that are required by government? Are they standards
+that the private sector is putting in place? Are there any
+required standards? How are these standards being put in place?
+What are they? Are some companies going far above that with new
+technologies to protect this information?
+Mr. Smocer. The primary standard that is in place is an
+expectation from the regulatory agencies and it is within the
+GLBA, as well, the Gramm-Leach-Bliley Act, to have a strong
+risk assessment and risk management process in place.
+Regulation typically does not specify the exact tools that
+need to be used, and that, I think, is good because it
+recognizes that the environment is evolving fairly rapidly and
+the tool that worked yesterday may not work tomorrow. So it is
+largely up to the financial institutions to determine their
+best risk management practices.
+But I would quickly add that through the collaborations
+that we talked about earlier and frankly, most of us at this
+table have worked together over the last 5 to 10 years in terms
+of collaborative efforts, we do go through the process of
+identifying best practices that we would use and share
+information on tools that have been effective and try and
+enhance the industry beyond just our own institutions, and I
+will let Errol comment if he would like to.
+Mr. Weiss. Actually, I think you answered that really well.
+Mrs. Maloney. Thank you. I would like to ask Mr. Clancy
+from the Depository Trust & Clearing Corporation, you mentioned
+that three of DTCC's subsidiary companies have received notice
+from the FSOC that they are being considered as systemically
+important financial market utilities under the Wall Street
+Reform Act, and recognizing that the new risk management
+standards for the FSOC designated end user is still being
+developed, what is your expectation about the extent to which
+these standards will address information security issues?
+Mr. Clancy. I thank you, Mrs. Maloney.
+My expectation as it relates to the FSOC is their focus is
+very much on the financial aspects, so market risk, liquidity
+risk, and the like. It is uncertain to me whether or not they
+will delve into some of the cybersecurity issues. Those are
+substantially held in the existing frameworks that our
+regulatory agencies such as the Federal Reserve have, so my
+expectation is that is how it would be addressed.
+From a DTCC perspective, we have looked at the risk that
+those systems pose to the U.S. financial system and the global
+financial system and have been working to elevate our level of
+control and mitigation against those types of threats.
+Mrs. Maloney. In a general sense, when a cyber attack
+occurs, do you tell your customers, or if private information
+is extracted on some of your clients, what is the standard that
+you have? I guess, Mr. Weiss, informing people but keeping it
+private, how do you address this? Are there laws requiring any
+disclosure? Or what exactly happens?
+Mr. Weiss. Absolutely. If there is a breach of personally
+identifiable information, there certainly is regulation that
+requires us to provide that notification to customers.
+Mrs. Maloney. And just basically, what are the three things
+we have to do to make our country more secure? It is very
+unnerving to me to think that there are individuals and
+countries that have entire desks devoted into getting into
+private information in our financial markets and elsewhere, and
+what are the steps that private industry is taking to protect
+this, and I guess, Ms. Cantley, you play a key role in the
+coordination with government, how is that coordination working?
+Can it be improved on? How can we do better at protecting our
+companies, our individuals, and our country from this type of
+attack?
+Ms. Cantley. Thank you for that question.
+First off, we do have a high amount of public-private
+information sharing as has been noted in the oral and written
+testimony. I think we can do more. We would like the government
+to share more threat indicators that they have with us on a
+timely basis so that we can act on those and prevent cyber
+crime in our industry.
+We also would like to be in a position to share information
+safely with the government without having to go through the
+scrubbing steps so we would appreciate the opportunity for that
+to be exempted from the Freedom of Information Act. We would
+like some work done in the telecommunications industry.
+Currently carriers are required to, by law, deliver everything
+to the end user.
+The government we know knows that some of the traffic that
+is on our networks is malicious, and if they could give that to
+the telecommunications carriers, and they could be in a
+position to drop that traffic before it would be delivered to
+the end-user, then I think that would be an appropriate step
+forward.
+And then lastly, again, working internationally on legal
+and diplomatic levels so that when we say someone is a
+criminal, that individual is arrested, tried, and appropriately
+sentenced. Thank you.
+Mr. Garrett. I thank the gentlelady. And the gentleman from
+Arizona is now recognized.
+Mr. Schweikert. Thank you, Mr. Chairman. This is one of
+those occasions where it is an area of great interest, and
+there are a thousand questions and about 4 minutes and 50
+seconds to ask them.
+First, let's say Citi or a major institution, a regional
+money center bank is finding its systems under attack, someone
+is trying to somehow go up and down, how quickly does that get
+shared with others? Do you share it through government? Do you
+share it through the industry? Do you share it through the
+working groups? How quickly does that information get
+disseminated?
+Mr. Weiss. Actually, it gets shared very rapidly. It is not
+automated; there are humans who need to create the e-mails and
+messages, but it does happen very quickly. So in that case,
+through the FS-ISAC and the techniques and the trust that Mark
+and others talked about earlier about developing this over the
+past decade, we have been able to create the central rings of
+trust and to share that information quickly--
+Mr. Schweikert. But you hit on an important point there.
+Many of us have in the back of our head that there is an
+automated notification system saying hey, we are seeing this
+type of malware pinging our systems, boom, and that is
+electronically shared over some of the security centers. That
+is not how it works.
+Mr. Weiss. It is the first steps that we have taken is
+really to manually share that information, build that
+collaboration, and develop the threat indicators so we can
+share it with the broader audience and help protect our
+membership at large.
+We have recently taken steps in the past, literally in the
+past year, to build on automated methods so that we can share
+that information at network speed and protect ourselves at
+network speed so that we can take the humans out of the loop
+and get there. It requires significant investment and a lot of
+work to get there, but we have started that journey.
+Mr. Schweikert. To that point, how quickly is it moving?
+Mr. Weiss. It is moving, but again, it is going to take us
+time to get there. I don't have an answer as to when. I will
+get back to you.
+Mr. Schweikert. From some of the different organizations
+you spoke of that are out there, is this one of the areas they
+work on, automating the notification and the warning systems,
+and also it is not only the warning but here is the way to
+block the attack?
+Ms. Cantley. Yes, there are systems that exist today that
+do that automated blocking and many institutions have those in
+place across multiple sectors. What Errol is talking about, and
+what the FS-ISAC is driving and working with, the U.S.
+Government again is coming up with a standard template for that
+information so that it then feeds the systems that exist today
+and will come down the path.
+So we actually have a subcommittee that is addressing that
+taxonomy to move it forward. As Errol mentioned, though, that
+is going to require a capital investment, and this is one area
+where I think the government could assist us because we would
+like to cooperate together in moving that forward faster.
+Mr. Schweikert. And this is for anyone who would know the
+answer: How is the technology disparity between a money center
+institution, a financial trading platform, and my local
+community bank? How far behind are--is the local community bank
+more flexible? Are they more exposed? What do you see out there
+across the financial world?
+Mr. Graff. If I could, Congressman, let me try to address
+that.
+One thing I would like to--the point I would like to make
+is that, effectively, all the systems represented at this
+table, and, in fact, that systems that help Congress, they are
+all under attack all the time at some level. In contrast to the
+situation just a few years ago, today Internet attacks are a
+little bit like weather. We have a little bit more rain or a
+little bit less rain, sometimes there is a hurricane that comes
+at us, but, generally speaking, they are all under attack.
+I think, to get to the point of your question, the larger
+institutions that have more sophisticated staff typically will
+be less susceptible to sophisticated attacks. I think the
+smaller institutions, the local community institutions are at a
+disadvantage when it comes to defending against extraordinary
+attacks that perhaps have taken years to develop. And this is
+an area where government could assist, I think, quite
+effectively.
+Mr. Schweikert. And is there infrastructure within, sort
+of, your organizations for that data information, solution fix,
+patch fix, to be quickly disseminated all up and down that food
+chain?
+Mr. Clancy. There are two points. There is the
+dissemination piece, which I think groups are working to
+facilitate; then, there is the consumption piece. And what we
+found through the GISF program is that even for the large,
+complicated institutions, we had significant problems consuming
+threat data at the volume and frequency at which it arrived.
+That is going to be a big challenge for small institutions
+because they have one or two people who do this stuff, not--
+Mr. Schweikert. And, therefore, the need for sort of an
+automated platform--
+Mr. Clancy. Correct.
+Mr. Schweikert. --that builds the model.
+Mr. Clancy. And the service provider route, whether it is
+the telco or the firms that provide those institutions their
+financial products, are good ways to do that.
+Mr. Schweikert. Mr. Chairman, I see I am out of time. I
+look forward to another round. Thank you, sir.
+Chairman Garrett. Thank you.
+The gentlemen yields back. The gentleman from
+Massachusetts, Mr. Lynch, is recognized.
+Mr. Lynch. Thank you, Mr. Chairman. And I want to thank our
+witnesses for attending and helping this committee with its
+work.
+One of the other hats I wear is I am the co-chair of the
+Task Force on Terrorist Financing and Nonproliferation, so I
+work a lot with FinCEN, the Financial Crimes Enforcement
+Network. They do a terrific job on our behalf internationally,
+on behalf of Treasury and the American people. And they have
+done a good job, but they are working in a more limited
+environment than all of you.
+If--first of all, I want to try to understand. I know that
+the exchanges where you have more resources than some of these
+smaller institutions that Mr. Graff was talking about to
+protect themselves, where are we in terms of where we need to
+be with some of these smaller institutions, some of these local
+banks?
+We, as government, have put out there certain benchmarks
+where we want there to be minimal--at least minimal coverage
+and protection for some of these smaller institutions. But is
+that enough? Do we need to do more to require those smaller
+institutions to provide greater protection to their customers?
+And is there also a delta in terms of what we require the
+exchanges to do and where you think we need to be? Perhaps you
+do even more; I am sure that most of the big exchanges do more
+than the government requires. And so, I am trying to get a fix
+on where we are with the smaller and larger institutions and
+where we need to be.
+Ms. Cantley?
+Ms. Cantley. Thank you.
+Speaking on behalf of attempts to address the smaller
+institutions, the FS-ISAC thinks this is important. Part of our
+efforts, the last 2 years, have been strictly focused on
+education, both for customers and the smaller institutions. And
+we have held a number of seminars there.
+Another important step that we took, because we think it is
+critical to deal with the fact that most of these small and
+medium institutions use the same processors, so we built on the
+authentication guidance that came out in 2005 and then was
+updated last year and, actually, in some of our
+recommendations, got even more proscriptive to the service
+providers on, ``Here are things that you need to provide in
+your products that your institutions can take advantage of.''
+I would also like to point out to the committee, though,
+that I don't think additional regulation is the answer to this
+problem. I think the guidance that we have from the FFIEC is
+very good and it is applicable to all institutions. And it
+provides a method for dealing with these attacks in cost-
+effective means for financial institutions of all size.
+Mr. Lynch. What I am trying to get at is, I am reading the
+New York Times here this morning, and it has a front-page story
+about how the President has accelerated and amplified the cyber
+war that we are having with Iran. And as Mr. Graff has pointed
+out, this is an incremental thing, where it is ongoing, there
+will always be these attacks. Sometimes we have a shower, and
+sometimes we have a hurricane.
+What I am concerned about is that a state actor or a quasi-
+state actor could bring a significant part of the economy down
+or the financial services sector down, and that would cause
+great havoc at any time but especially right now where we are
+trying to build up a recovery.
+And are we anticipating that? Are we meeting that
+challenge?
+Mr. Weiss?
+Mr. Weiss. Yes, Congressman Lynch, I think one of the basic
+tenets of the FS-ISAC has been that we recognized a long time
+ago that all of the institutions in the banking and finance
+sector were elements of the chain and any one of those chain
+links represented a potential weakness. And one of the major
+tenets there was to be able to share incident information and
+share threat and vulnerability information with all of those
+members so that they can better protect themselves. And so that
+was, again, one of the basic tenets that we set out a long time
+ago to help those institutions, all the institutions.
+Mr. Lynch. Thank you.
+Mr. Graff?
+Mr. Graff. Yes, Congressman, a couple of quick points.
+One thing that I think would move us toward the situation
+you would like to see in terms of preparedness is more
+cooperation from computer manufacturers and software vendors in
+producing products that are perhaps easier to secure. And I say
+that as someone who used to work for a software manufacturer
+and computer vendor years ago. I have been beating that drum
+for a long time. There are a lot of issues, and it is a knotty
+problem. But I think if we make the systems with fewer
+vulnerabilities to begin with, then especially the smaller
+banks and other financial institutions would find themselves
+better placed.
+I also want to just point out quickly, in addition to
+information sharing, which is paramount, we don't have time for
+a lengthy discussion, but the supply chain problem, the threats
+of a supply chain attack are really, I think, perhaps the
+knottiest problem, the most serious issue that faces us, and
+the one that would be most susceptible to help from government.
+I have been working on it in the classified government sector
+for a long time, and I think it is one where the U.S.
+Government really could provide the most assistance.
+Mr. Lynch. Thank you. That is really helpful.
+I yield back, Mr. Chairman.
+Mr. Schweikert [presiding]. Chairwoman Biggert?
+Mrs. Biggert. Thank you, Mr. Chairman.
+And thank you all for being here. I have a couple of
+questions I hope I can get in.
+First of all, maybe, Ms. Cantley, you did address this a
+little bit, but I have a constituent who called several years
+ago, a CPA who had her own home business. She kept getting
+hacked into, and she kept trying to find the software. And it
+became very costly just for software. She would put another
+software in, and then she would be hacked again, and on and on.
+So what are some of the cost-effective measures that small
+businesses who do personal financial transactions online or via
+their smartphone, how can they minimize the risks of threat?
+Ms. Cantley. Specifically with customers who are using
+laptops or work stations to conduct business, small businesses,
+one of the recommendations that our industry has made to these
+customers is you can use a dedicated computer that you do not
+use for surfing the Internet or checking e-mail. The price of
+hardware and software has come down significantly, that this is
+a cheap insurance way for ensuring that you are save online
+until, as Mr. Graff pointed out, the industry can get to the
+point where some of the software in the supply chain is more
+robust.
+But also, I would like to commend companies like Microsoft
+who have stepped up to the plate and are now producing software
+that can remediate millions and millions of customers who are
+infected.
+Specifically, to the second part of your question,
+smartphones and other mobile devices are an emerging risk. And
+everyone at this table is listening to what is happening in
+other parts of the world and making sure that we are analyzing
+those threats and putting appropriate remediations in place and
+also working, again, on the education front to let people know
+of the risk there.
+The guidance that we have from the FFIEC, while it does not
+mention mobile phones, is applicable to that technology. So,
+again, no more regulation or guidance is needed there. We have
+what will work today, and, as the threats change, I anticipate
+that we will get additional guidance there.
+Mrs. Biggert. Okay.
+Then, are any of you familiar with ChicagoFIRST? This was
+something that was founded in 2003 by Chicago-area financial
+organizations, and it was to enhance the resilience of the
+Chicago financial community and critical infrastructure
+overall. And they have held a number of exercises exploring the
+threats, including cybersecurity threats, and focusing on
+preparedness.
+Mr. Clancy?
+Mr. Clancy. We are very familiar with ChicagoFIRST. They
+are what we call a regional coalition. So in the Financial
+Services Sector Coordinating Council (FSSCC) and the FS-ISAC,
+we partner with organizations like ChicagoFIRST. In fact, my
+institution, even though we are not based in Chicago,
+participated in a few of their exercises. And so, that
+community is one of our circles of trust.
+Mrs. Biggert. Great. Thank you.
+And then one more question. I think we worry about the
+government agencies adequately protecting the proprietary
+information of companies that voluntarily share security threat
+information. And the members of the European Union and the
+United States are in discussion about this, particularly as it
+relates to the G-SIFI banks or other financial firms, including
+insurance.
+Have any of you or your organizations been involved in
+these discussions with the United States and the international
+regulatory and standard-setting bodies?
+I guess I will have to seek the answer to that later on.
+Ms. Cantley, how does a small business entrepreneur--where
+do they go to get the information that they need? Is there a
+place online where they can go?
+Ms. Cantley. Yes, ma'am. Many financial institutions have
+information on their Web sites or they have held seminars for
+their customers.
+Also, the FS-ISAC, through its account takeover task force,
+has put together a number of joint bulletins which we have made
+available to our members. They can simply print those off and
+give those to their customers. And they include all the
+recommendations that we have for both consumers and businesses
+for operating safely in the online space.
+And then, as Paul Smocer mentioned, StaySafeOnline, which
+is a Web site that has a number of good recommendations.
+Mrs. Biggert. Thank you.
+I yield back.
+Mr. Schweikert. Thank you, Chairwoman Biggert.
+Mr. Dold?
+Mr. Dold. Thank you, Mr. Chairman. I certainly appreciate
+the time.
+Ms. Cantley, again, I am going to go to you first. And I
+certainly appreciate and agree that I am not sure we want
+additional regulations, but we are concerned, obviously, about
+cyber threat and trying to protect consumers, as well.
+So I guess my question to you is, what role should the
+government take in combating the attacks on the private sector
+or in private systems?
+Ms. Cantley. I think the key role that we are looking for
+from the financial services industry is that information
+sharing on a timely basis as unrestricted as the government can
+make it so that we can act upon it to protect our customers.
+And if the government has information about foreign actors as
+well as software vulnerabilities, we would like to be made
+aware of that.
+Mr. Dold. How quickly would you like to be made aware? What
+would be a timeline or a timeframe that you think would be
+appropriate?
+Ms. Cantley. As soon as they know about it, sir.
+Mr. Dold. Mr. Graff, I know you talked in your testimony
+before about--and I had mentioned before--there are hundreds of
+thousands of attacks that happen on financial institutions each
+and every day. You equated it to the rain. You equated it to
+somebody ringing the doorbell. I am not so concerned about
+somebody ringing the doorbell; I am concerned about somebody
+taking a crowbar to the side window or somebody going into the
+backdoor.
+So can you talk to me a little bit about how, for instance,
+the NASDAQ, you identify these threats that are coming in?
+Obviously, they are multiple and, obviously, at different
+sophisticated levels. What are you doing at NASDAQ to try to
+identify these?
+Mr. Graff. Yes, I would be happy to, Congressman.
+There are several ways to answer that, to approach that
+problem. I think one of the important steps is to become as
+aware as possible of who the potential actors are and what the
+most sophisticated attacks are that are out there. So we are
+very much interested in the kind of information sharing that we
+have been talking about today. So, information--first, we try
+to acquaint ourselves with who is attacking various financial
+institutions, to the best that we know or the best that the FBI
+can find out, and what tools they are using.
+Another approach is to try to build systems that can
+withstand, to use your analogy, the attack of a crowbar. We put
+a great deal of effort in to make sure that the critical
+systems are deeply isolated and are completely inaccessible to
+anyone coming from the outside except through very, very
+specific and very highly protected and regulated, specialized
+channels for the use of exchanging trading information. So one
+of the things we do, then, is to only allow a very narrow
+channel of communication into the trading systems that goes
+through several barriers that inspect it for appropriateness.
+And, for example, here is a point that may not be obvious.
+When you are talking about regulating information that flows to
+a network, there are two main ways you can do it. One is to
+constrain where the information comes from. We would call that
+the IP address, to be technical. And another way is to
+constrain what kind of information comes through. We could
+talk, therefore, about the network port it comes through.
+Firewalls do that both ways. We use several layers of firewalls
+to put the information that flows in and flows out through
+continually smaller and smaller filters to protect ourselves
+that way.
+Another point I would like to make in just a moment is
+that, if we think of the analogy of trying to protect inside
+our houses, our families and any precious items we might have,
+it is not necessary all the time to understand all the many
+ways somebody might try to get into the house. In many cases,
+the defenses we build are proof against many, many different
+kinds of attacks, even those we haven't yet anticipated. So we
+try to build as strong a ring of defenses as we can to make
+sure that we can defend successfully against unanticipated
+attacks as well.
+Mr. Dold. From each of your perspectives, I would be
+interested to find out, as we look at things that we are
+working on in the committee, what do you identify as the
+greatest threat that you are trying to deal with right now? And
+how can we in the Financial Services Committee in the United
+States Congress help by drafting legislation or highlighting
+some of the issues that are out there today? What do you view
+as the greatest threat that you are trying to deal with right
+now in terms of cybersecurity?
+Mr. Weiss, let's start with you.
+Mr. Weiss. I am going to go back to one of my tenets and
+really push on the international cooperation and essentially
+going after the bad guys and really getting the United States
+to pressure foreign governments that, if these governments want
+to compete, if they want to participate in the global economy,
+the barrier to entry, the cost of entry for them to participate
+is they need to demonstrate that they have enacted favorable
+cybersecurity legislation and demonstrate that they are
+actively prosecuting and punishing the people who are
+responsible for these cyber crimes.
+If I can get a little more technical, on the other side of
+the spectrum, the issue that we worry about today, certainly,
+is the advanced malware that we see today and the prevalence of
+it and it spreading not only to our customer computers but also
+now into the mobile space that we have mentioned as well today.
+Mr. Dold. Mr. Chairman, my time has expired. I yield back.
+Mr. Schweikert. Thank you, Mr. Dold.
+Mr. Stivers?
+Mr. Stivers. Thank you, Mr. Chairman.
+And I appreciate all of the witnesses being here and
+sharing your expertise with us.
+Ms. Cantley, earlier you talked about education and how
+that can help. Tell me, how much of this problem can be cured
+by good computer hygiene and good habits versus a much more
+active defense?
+Ms. Cantley. The Internet ecosystem requires a lot of
+players to act to make the Internet a safe place for financial
+commerce.
+Certainly, good computer hygiene is important. And
+Representative Maloney mentioned the Symantec report we have--
+consumers and business customers who don't patch their
+computers and aren't even running antivirus software, much less
+antimalware software. So that is critical. So we have to get
+the message out to people that that is an important step.
+And then the industry, telecommunications and financial,
+have a part to play, as well as the software manufacturers,
+there.
+Mr. Stivers. At what point, Ms. Cantley, to follow up, at
+what point will the industry determine that they can't allow
+consumers who don't run antivirus software and maybe malware
+software to connect to your institutions and perform
+transactions?
+Ms. Cantley. That particular step, to interrogate a
+customer's computer, to do that requires agents that an
+institution would have to put on a customer's computer so that
+some institutions may choose to go down that road to make that
+decision.
+What I would say is to go back to the guidance that we have
+from the FFIEC that says, look at layered security, look at
+what you are doing to validate. Is that the customer at login?
+Do you think that customer is doing that transaction? And is
+this transaction in keeping with that customer's pattern of
+behavior?
+So there are things that we can do without necessarily
+looking at the wholesomeness of that particular customer's
+computer.
+Mr. Stivers. Great. Thank you.
+How many companies--and I guess this is probably for Ms.
+Cantley and the gentleman from BITS and maybe others who want
+to answer--use cyber insurance to help protect against
+liability? I know it is still in its infancy. What percent of
+folks out there use that?
+Mr. Smocer. I don't have a specific answer. We can probably
+get back to you.
+As you noted, it is in its, I would say its second infancy,
+because there was some talk about it a decade or so ago, and I
+think it had some issues. But I think it is growing again. I
+think institutions are looking at it, but I don't have an idea
+on the number specifically or a percentage.
+Mr. Stivers. Since it didn't really come up in anybody's
+testimony, does anybody believe that cyber insurance can be an
+important part of creating essentially new requirements on
+folks without laws that we would pass, but a much more dynamic
+model to ensure that risk management is approached in a smart
+way, like it is done on workers' comp and many other issues out
+there?
+Mr. Smocer. I would answer that in the sense that I think
+it could be helpful particularly in other sectors that may not
+be as regulated or may not pay as much attention to
+cybersecurity issues. I think it could be helpful in terms of,
+obviously, the underwriting, forcing some improvements in the
+process.
+Mr. Stivers. Thank you.
+Several of you have mentioned the CISPA, the Cyber
+Intelligence Sharing and Protection Act. Does it allow you to
+share or the government to share information about risks with
+you in a way that you think happens soon enough or efficiently
+enough? And I know that it is not completely passed yet, but in
+its current form. And are there changes any of you would
+recommend to that bill?
+Mr. Weiss. Congressman, what I would say on that one is
+that we certainly, as an industry, support any improvements
+that we can make to the public-private information sharing that
+is happening today. We have some great examples of it, but we
+can certainly use more of it.
+And taking advantage of things like the private-sector
+clearance program through DHS, for example, is another one to
+help get access to even more information from the intelligence
+agencies. But things that we can also do to enhance information
+sharing even between entities within the private sector that
+are currently either perceived or real barriers, from a legal
+perspective, that are preventing some of the information
+sharing from happening today, we think that legislation could
+address those kinds of issues as well.
+And then, we also would like to see the existing ISACs that
+are working well--for example, we have talked a lot about the
+FS-ISAC here today that has over a decades worth of trust-
+building. We would like to see that those continue to be
+leveraged and not place any other additional hierarchy or any
+other essential clearinghouse of ISACs above that, that could
+potentially introduce more bureaucracy to it.
+Mr. Stivers. Thank you.
+Mr. Chairman, my time has expired.
+Mr. Schweikert. Thank you, Mr. Stivers.
+Mr. Neugebauer?
+Mr. Neugebauer. Thank you, Mr. Chairman.
+My subcommittee had a hearing a few months ago on the
+Office of Financial Research (OFR), which is this new entity
+that was created under Dodd-Frank to basically put as a
+clearinghouse or a storing house for a lot of financial data.
+And I was looking at some of our panelists today, and probably
+many of you are going to be providing some of that information.
+Mr. Clancy, what kinds of connectivity and what--one of the
+concerns we had--and this question came up during our hearing--
+was how secure is all of this data that the OFR is going to be
+mining from the financial markets? Can you kind of elaborate on
+your discussions with OFR and whether you have concerns about
+their ability to protect that data?
+Mr. Clancy. Okay, and I am going to focus my comments on
+the protection as opposed to the disclosures made by OFR.
+But the protection--OFR, as part of Treasury, will fall
+under the Federal Information Security Management Act (FISMA)
+and they will have cybersecurity standards that will apply.
+Right? That is kind of the macro picture.
+The more brass-tacks view of it is, we have to work out
+ways to securely send the information that protects the
+information while it is in transit. The methods being used
+today are somewhat ad hoc, mainly because of the newness of OFR
+as an entity in that function. So that is an area that we need
+to work on.
+And then I think they need to look at, from a risk-
+assessment perspective, the interest of other parties,
+including other nations, to getting into that data and defend
+it to that level of aggression.
+Mr. Neugebauer. Thank you.
+Mr. Graff?
+Mr. Graff. You put your finger, Congressman, on what I
+think is a central problem, which is, how do we share that
+information securely? And there are fairly sound methods I
+could talk about to protect it in transit. It is a challenge,
+but the technology is there.
+I think the more intense concern might be protecting it
+once it has arrived inside the Federal networks since they
+themselves, of course, are a very strong target. And that is,
+frankly, a concern of ours. We always want to work with the
+Federal agencies to make sure that the information we give them
+is sufficient but no more than they need and no more specific
+than they need.
+And, also, we like to hear assurances about the way that
+they protect those internal systems as well. I think that is an
+important problem.
+I am familiar with FISMA. It does encourage good security,
+but I think there is a lot of room for improvement there too.
+Mr. Neugebauer. Mr. Weiss?
+Mr. Weiss. I am sorry, Congressman, I am not familiar with
+that particular regulation.
+Mr. Neugebauer. Okay.
+I want to go back, then, to Mr. Clancy and Mr. Graff. So,
+basically, there are multiple aspects of that. The first is the
+transmission of the data. Second, once the data gets to OFR,
+how will it be protected? And then I guess the third piece of
+it and, I think, something that some of the market participants
+have brought up, is who will then have access to that data
+moving forward and how will they be able to use that data and
+access it?
+And those are areas that you have some concern in and are
+certainly--
+Mr. Clancy. Yes. I think access to the data itself is one
+of the key questions, both in terms of the appropriateness of
+what is done with the data, how it is used, where it is
+exported, as well as how you defend against it being misused.
+What we mentioned earlier on the panel is accounts are
+taken over. This happens to institutions and accounts inside.
+And so if someone at OFR's accounts were taken, access
+credentials were used, somebody else could potentially exploit
+the data that exists in those repositories. To that end, we
+would expect a high level of resilience to those types of
+attacks to be built into the design and system operation of the
+platforms used for the data analysis and mining by OFR.
+Mr. Neugebauer. Thank you for those comments.
+We are talking about market participants that provide
+financial services, and we are talking about those that use it.
+But, as well, I was going back to talking about small
+businesses and individuals, and their computers at home or
+their laptops. And there is a lot of discussion going on right
+now about using cloud-type systems to store your really
+sensitive data rather than storing it on your hard drives.
+I guess the question I have is, in your professional
+opinion, is my data more secure in a remote location or is it
+more secure on my computer?
+Mr. Clancy. Again, this is a simple example. I have a
+neighbor who is the CEO of an intellectual-property-based
+company. His IT group consists of two people. Anything he puts
+in the cloud will be better defended than he can do it himself.
+At my institution, however, we have significant skill and
+expertise and are a particularly interesting target. Our
+information in a public cloud would probably be very hard to
+defend with the basic level of service that most of the cloud
+providers offer.
+Mr. Neugebauer. Okay.
+Mr. Graff. I have to agree, Congressman. I think for the
+average person, their own home system is unlikely to be safe
+enough to give them the security they want. And it is a good
+practice in general, I think, to store that information with
+people who are professionally trained to do it. And, of course,
+one also can transfer some liability to them, as well, as they
+assume responsibility for the data. That is an important
+factor, too, I think.
+Mr. Neugebauer. So these providers have a much more robust
+infrastructure to protect your data than the individual at
+home, is that--
+Mr. Graff. Many of them would, sir, yes.
+Mr. Neugebauer. Yes.
+I thank the gentleman.
+Mr. Schweikert. Thank you. Thank you, Mr. Chairman.
+Mr. Manzullo?
+Mr. Manzullo. Thank you.
+I have a couple of questions as to the distinctions, if
+any, that occur on these cyber attacks. We are talking today
+about just banking online, is that correct? Or are we talking
+about accessing 401(k) information? So how broad does this get?
+Ms. Cantley. Cyber attacks are across our industry, so,
+yes, they could be going against your checking account, they
+could be addressed to your 401(k). We have had insurance
+companies report this. So it is not just that particular
+isolation.
+Mr. Manzullo. So is a 401(k)--that is identified by a
+Social Security number, is that correct?
+Mr. Clancy. A lot of the providers used to do that practice
+and have moved away from it, some of them more aggressively
+than others. And so the underlying, sort of, database entry is
+probably based on a Social Security number, but the
+authentication credentials are based on other data that is
+selected by the customer.
+Mr. Manzullo. Which means it is not covered?
+Mr. Clancy. The overall account is protected, but they are
+not using a Social Security number as the user name to sign on.
+Mr. Manzullo. Okay. All right. That answers my question on
+it.
+And then the issue, when at one time you would write a
+check, take it to a bank, and then not worry about covering it
+for a couple of days; of course, that has all stopped. It is
+done electronically now.
+What about these electronic transfers, as they were,
+between banks? Have these ever been hacked that you know of?
+Mr. Clancy. The platforms that perform the transfers have
+not, but, again, the access to accounts that authorize those
+platforms to perform a transaction, those front-end systems
+have been targeted.
+Mr. Manzullo. What about Social Security now that there are
+mandates that Social Security checks have to be deposited
+electronically into a person's checking account? Now that you
+have a Federal mandate, is that covered?
+Have there been instances where the Federal Government has
+gone to transfer a Social Security recipient's monthly check
+into a checking account and that the money has not showed up
+before it got into the actual account?
+Ms. Cantley. I am not aware of any instances of that, sir.
+Mr. Manzullo. Last year, on my e-mail account, someone came
+in, attacked the account, put out the statement that I was--
+maybe, Judy, you got it--I was trapped in Britain and needed
+people to send $1,500. And another Member of Congress, who was
+a Democrat, called to see if I was okay. I thought that was
+very generous on his part. But they took all of my addresses
+and went in there, and I had to reconstruct that.
+Is this what we are talking about, or is this more intense
+than this?
+Mr. Clancy. We have been talking about things that cover
+that and things at higher intensity.
+That particular example is, unfortunately, a somewhat
+common scam. And what happens is that the access to your e-mail
+account--you were maybe at a hotel and you signed in, and that
+had a keylogger and it took your password. And what they are
+really doing is a technique called social engineering. They are
+trying to create a context that your fellow Members of Congress
+might have known you were in London, might have been unrelated
+to that, and were sympathetic and would then take an action, to
+send money, that they wouldn't have otherwise done. And that is
+the underlying technique that these bad guys are using, is that
+sort of driving your behavior based on provocative messages.
+Mr. Manzullo. Some of my colleagues would have liked me to
+stay in Britain, not be able to get back on it.
+I think the broader issue really is--Secretary Rubin said
+that he simply does not bank online. Maybe this would be a
+revival for the post office, if people--no, I am serious. We
+don't bank online, my wife and I don't bank online, because I
+have always been sort of old-fashioned and would rather put
+that stamp on there to get it out.
+But, Mr. Woodhill, until you stopped by the office
+yesterday, I always presumed that even commercial accounts were
+safe. And you make a reference in here to accounts from Members
+of Congress and their campaign funds.
+How pervasive is this? And should American people really
+take a look at whether or not it is worthwhile to bank online?
+Mr. Woodhill. Congressman, that is the threat that my
+victims group is trying to head off, that cyberspace will
+become such an unsafe neighborhood that Americans will just
+decide that they can't bank online.
+My fellow panelists have made the point for me that
+individuals and small businesses and your campaign fund can't
+possibly have the cybersecurity expertise to secure online
+banking on their end. I further submit to you that if community
+bankers in your district become cybersecurity experts and spend
+their time studying FS-ISAC bulletins instead of out making
+loans to move our economy forward, the bad guys have won even
+if they don't make off with a dime.
+So your money is not currently safe at the bank except at a
+small number of very large banks, probably Mr. Weiss' for
+example, that employ multilayer fraud controls and have really
+brilliant people monitoring them. Otherwise, it just matters--
+it is whether you are randomly targeted, like your Yahoo
+account was. The same people who got to your Yahoo account
+could get, if you had commercial accounts and you were banking
+from that PC, they could get to your money.
+I do like the idea of buying a new PC to do online banking
+as a stimulus measure. However, as a $500 or $600 tax on our
+small organizations just for the privilege of using online
+banking, I am opposed.
+Mr. Manzullo. Thank you.
+Mr. Schweikert. Mr. Manzullo, I would have sent you money
+if I knew you were trapped in Europe.
+Mr. Manzullo. But there was another one that just came out
+this past week again.
+Mr. Schweikert. Were you trapped again?
+Mr. Manzullo. Well, no, I am not back stuck in Britain, but
+this one says, ``I have to share with you,'' this is TV 15.
+People click on it, and it is somebody selling a product at
+their house. And I guess the virus that went through again and
+didn't--I got back, 15 or 20 people saying you have been hacked
+into. I had answered a friend's e-mail, and I said, ``You have
+been hacked into,'' but I guess when I answered him, then I
+evidently picked up the virus myself.
+Mr. Schweikert. Your first mistake: Don't have friends.
+Mr. Manzullo. That is not hard when you are a politician.
+Mr. Schweikert. Ms. Cantley, there are a couple of
+questions I want to try to run through. One was given to me by
+the chairman, but one I have a personal interest in. And let's
+see if I can phrase it the proper way.
+A bot, we often--what we do is we will shut down the
+server. But there is legacy software still--or there is still
+software, often, out there in the world sitting on computers.
+And my understanding is, we will have the creative souls who
+will come in, set up anew, and hijack that. How much is that
+mechanic, because of the residency on computers around the
+world, also a threat?
+Ms. Cantley. I think that is a very large threat. And if
+you would allow me to defer to Mr. Weiss on this question,
+because he has been very active on the botnet takedown, sir.
+Mr. Schweikert. Mr. Weiss? And you might want to--am I
+phrasing it in the proper mechanics?
+Mr. Weiss. Yes, that is absolutely fine. And let me just
+elaborate on that a minute.
+So, just to really address that, one of the initiatives
+that we recently had within the financial services sector that
+we thought was a very proactive thing to do on behalf of our
+consumers to help them protect themselves was a partnership
+with the FS-ISAC and NACHA and others from the financial
+services sector partnered with Microsoft to go after three of
+the very dangerous botnets that were responsible for many of
+the account takeovers that we had in the industry.
+Mr. Schweikert. Now, just one point of reference. When we
+say ``go after,'' that is actually at the server level?
+Mr. Weiss. This was a civil action to go after the command
+and control infrastructure for those particular botnets.
+Mr. Schweikert. And the nature of my question is what is
+residency--
+Mr. Weiss. Right.
+Mr. Schweikert. --on individual computers and systems.
+Mr. Weiss. Right. So what we normally find is that when--we
+have talked a lot about all these e-mails that people are
+clicking on. When you click on one, you get infected with one
+of these variants. It is more than likely that is not the only
+thing that you have been infected with.
+So the thing that we took advantage of with this takedown
+project with Microsoft was that, now that we have the command
+and control infrastructure seized from the criminals, those
+computers are now phoning home or beaconing back to the good
+guys. So instead of being under the control of the bad guys at
+this point, those computers are--
+Mr. Schweikert. What you have done is a redirect.
+Mr. Weiss. Exactly. And the long-term hope here is that, as
+we continue to collect forensic evidence, we will at one point
+be able to clean those machines and get them back under the
+control of their owners.
+Mr. Schweikert. Okay. Interesting.
+There is one question that the chairman wanted me to ask,
+and he does this quite often. I am going to start with Mr.
+Woodhill.
+Quickly, tell me, if you were going to do one thing, what
+would it be, in cybersecurity?
+Mr. Woodhill. For my particular crime, we are blessed that
+it is easy to stop. The solutions are in place, so just move
+the responsibility, as, actually, Ms. Cantley spoke about, to
+the processors. She is working with the processors to implement
+the guidance.
+My number one is actually that we have to stop malware. If
+you look at all these attacks--on the Pentagon, on small
+businesses, on everybody--at the root of the attack is the fact
+that computers will run software that other people wrote who
+are not your friend. And we haven't figured out--the antivirus
+products have stopped working over 5 years ago. We haven't
+gotten them working again, and we can't detect the latest-model
+malware.
+Mr. Schweikert. Okay, so the threats of malware.
+Mr. Woodhill. We have to stop malware.
+Mr. Schweikert. Mr. Weiss?
+Mr. Weiss. I would go with, we have to keep the ball
+rolling on the information-sharing initiatives that we have in
+place today with the existing legislation that has been
+recently passed.
+Just to give you an example there, in June of 2011, the FS-
+ISAC became the third of the 18 ISACs to maintain a regular
+presence on the NCCIC floor with DHS. And from that point going
+forward, we have had the ability, on a daily basis, to share
+threat vulnerability information between the sectors, between
+our partners with government. And we have made great strides in
+improving the relationship between the financial services
+sector and our government partners.
+Mr. Schweikert. Okay, so threat sharing.
+Mr. Weiss. Yes.
+Mr. Smocer. I would take it one step further and say threat
+analysis. So, a lot of data flowing back and forth. More could
+come from other sectors. But taking that data and analyzing it
+to know when you have the incident that really matters, or,
+more importantly, when you see the trend that is coming out,
+that you know you need to act sooner rather than later.
+Mr. Schweikert. Can I say threat analytics?
+Mr. Smocer. Yes.
+Mr. Graff. I would take a slightly different approach. I am
+very concerned about, to reiterate, the supply chain problem--
+that is to say, the possibility that computer manufacturers or
+other nation-states may actually be able to introduce pieces of
+hardware or software into computer routers, network servers,
+even network cables, to be able to manipulate the computers
+that way, in a way that individual companies really aren't
+equipped to detect.
+And there are methods inside the Federal Government right
+now in the intelligence sector that are working on this
+problem. And perhaps if we could get some of the benefit of
+those--
+Mr. Schweikert. So, expansion of physical barriers. Are you
+speaking of, like, sonic walls or--
+Mr. Graff. Yes. It is a problem both in hardware and
+software, but I think the more pernicious problem is, in fact,
+hardware coming out of something that appears to be a router
+but actually has specialized chips in it. Very concerning.
+Mr. Schweikert. Forgive me for going so over my time, but
+Mr. Clancy?
+Mr. Clancy. It would be very simple. Take the program I
+mentioned, GISF, which does both threat sharing and threat
+analysis, and make sure that it continues and expands.
+Ms. Cantley. And engage the telecommunications industry in
+this discussion to help.
+Mr. Schweikert. Okay. Can you give me a little more
+definition there?
+Ms. Cantley. Yes, sir. Our telecommunications industry,
+because of the fact that they pass this traffic between us,
+between our customers and us, and between other sectors, are in
+a situation in our infrastructure where they see this traffic.
+And if they were given the authority to dump it, that would get
+rid of a lot of this.
+Mr. Schweikert. All right. Thank you.
+The gentlewoman from New York?
+Mrs. Maloney. Thank you very much.
+And thank you to all the panelists.
+Last year, the SEC came out with a guidance that financial
+firms had to disclose the cost of material cyber attacks and
+include a description of relevant insurance coverage to
+shareholders.
+How common is the use of cyber insurance by financial
+institutions now? Do they have this type of insurance now? Can
+someone answer? How common is it?
+Mr. Clancy. It is not very common. And in my institution,
+the question is, who would insure me against $1.66 quadrillion
+worth of transactions? That is the challenge.
+Mrs. Maloney. What factors are considered in determining
+whether or not an institution has a cyber risk?
+Ms. Cantley. The same factors that are used that are part
+of Gramm-Leach-Bliley and SOCs and all the other guidelines
+that we have are used to evaluate cyber risk, and going through
+that application process.
+Mrs. Maloney. There have been some reports about ``pump and
+dump.'' I would like to ask those of you in the private sector,
+what steps has the private sector taken, or Federal regulators,
+to prevent so-called ``pump and dump,'' these scams where
+thieves try to move the market by running up the price of a
+security with buy-and-sell orders in accounts they have taken
+over? How common is this practice? I have read about it in the
+paper. Is it common? Is it very uncommon?
+Mr. Clancy. I don't have a sense as to frequency. It
+certainly happens enough that there has been a group put
+together that is called the National Cyber Forensics Training
+Alliance out in Pittsburgh, Pennsylvania, which is a
+collaboration of private sector entities and law enforcement
+partners, where information specifically to those types of
+crimes is shared and then acted upon in law enforcement and
+then potentially referencing back to activity that is being
+worked through FinCEN.
+Mrs. Maloney. And I would like to ask Citi, Mr. Weiss, your
+great bank was the subject of a very high-profile cyber attack
+in 2011. Can you tell us what changes Citi has made since then
+to protect your cybersecurity systems? What is different now?
+Mr. Weiss. Sure. That breach that you referenced in May of
+2011 impacted our credit card operations business only, and no
+personally identifiable information was disclosed as a result
+of that breach.
+Since then, we have had many lessons learned and we have
+invested millions of dollars and a lot of people's time to
+improve the monitoring and detection systems that we have in
+place today to ensure that kind of a breach does not happen
+again.
+Mrs. Maloney. Okay.
+I would like to ask SIFMA or anyone who is familiar with
+their practices, SIFMA supports Federal preemption of State
+laws related to breach disclosures and notification. What
+specific differences in State laws pose challenges for SIFMA?
+And can you explain why you favor preemption?
+Mr. Weiss. I will take a first crack at that one.
+The issue that I think we really have, one of the major
+ones for us, is being able to reconcile the more than 50
+different State laws and local regulations that we have to deal
+with when it comes to notification. It is a time-consuming
+process to figure out which ones apply, what notifications we
+have to provide, when, and how much.
+And just the consolidation to a national breach-
+notification standard that we could rely on would eliminate
+that administrative overhead, that burden, allow us to turn
+around these notifications much more quickly, and, we think,
+end the confusion that the customers are getting today when
+they receive multiple notifications, different formats, and
+different remediation standards.
+Mrs. Maloney. I would like to ask Mr. Woodhill: In your
+testimony, you make it clear that you believe that account
+takeovers continue to be a challenge at financial institutions.
+To what extent could regulatory changes address your concerns?
+Or is legislation--or what actions are needed to address the
+problems that you perceive are there?
+Mr. Woodhill. Of course, if you read my bio, you would know
+I am not exactly a fan of regulation.
+Mrs. Maloney. Yes.
+Mr. Woodhill. In this particular case, to stop this crime
+by a date certain and that be close in, it appears that a
+small--or actually will reduce the net amount of regulation,
+because it will take the FFIEC guidance and not make these poor
+community bankers study it, but, as Ms. Cantley said, put that
+responsibility, those risks on their processor that is running
+the IP, that it is a huge organization and has a top security
+staff now.
+In one case, Representative, the bank had the necessary
+fraud controls in place, was paying for them to the processor,
+just was unaware of it. They were getting fraud alerts; they
+just didn't know to look at them. And that bank has spent a
+million dollars on legal fees to defend the notion that they
+weren't responsible for transfers that they were getting these
+red alerts from their processor about.
+Mrs. Maloney. My time has expired. Thank you.
+Mr. Schweikert. Thank you.
+Chairwoman Biggert?
+Mrs. Biggert. Thank you, Mr. Chairman.
+Following up on this a little bit, Ms. Cantley, there is a
+survey that is described in your written testimony which notes
+that there is a significant drop in commercial account
+takeovers between 2009 and 2010. To what do you attribute this
+large reduction in fraud?
+Ms. Cantley. The answer may surprise you, Congresswoman.
+When we polled our members with our most recent survey, they
+said that customer education was the most specific driver to
+that.
+Mrs. Biggert. Okay. Any idea about current fraud trends
+regarding corporate account takeovers?
+Ms. Cantley. That survey was specific to a corporate
+account takeover.
+Mrs. Biggert. Okay. Thank you.
+Mr. Smocer, in your testimony, in the list of various
+committees and information-sharing groups that you have in
+there, it seems like there might be too many of these groups,
+each slightly different, so that we might have a lot of
+information flowing back and forth, but potentially the correct
+information may never get to the right place.
+Is it possible to--should we be streamlining information
+sharing even as we seek to improve the flow of information?
+Mr. Smocer. I think the answer is probably at two levels.
+In terms of a lot of the initiatives that we take around best
+practices and improvements in resiliency, I think we do work
+very closely together across a number of the organizations and
+associations that we have. And we do try to make sure that each
+of us is focusing on key areas and we are not wasting resources
+in terms of time and effort.
+Specific to information sharing, I think within our
+industry we are doing a good job at the sharing through the
+ISAC, centering all that information on the ISAC. I think when
+we start to think about sharing between sectors and sharing
+between the public and private sector, having some of the
+standards that Mr. Weiss mentioned earlier in terms of how that
+data gets formatted, how we can look at it collectively will be
+important. Because I do think there is a risk that so much data
+will come in from so many different sources that we will miss
+the answer in the analysis and we won't be able to do it well.
+Mrs. Biggert. Thank you.
+And then just a quick question. We have been talking so
+much about what is happening with people who have been hacking
+in or attacking. And I think, Mr. Clancy, early on you said
+something about enforcement.
+Maybe this is beyond the scope, but how many of these
+people get caught? Or do they? What happens? What is the
+penalty, and what happens?
+Mr. Clancy. I don't have a specific answer on how many
+people get caught. But I think the way to think of the problem
+is, the attacks happen in a time scale of seconds, minutes, and
+hours, and the law enforcement activity, while very important,
+happens on a scale of months and years.
+And so I think the challenge that we have as a sector is
+the difference between those two points and the way you respond
+to them. The minute, second, hours front, you have to focus on
+mitigation. Mitigation is stopping an event from occurring,
+stopping it from expanding, and preventing others from being
+similarly targeted. And that is why we focus so much on
+information sharing.
+Mrs. Biggert. Would anybody else like to--okay.
+I yield back. Thank you.
+Mr. Schweikert. Thank you, Mrs. Biggert.
+Mr. Stivers?
+Mr. Stivers. Thank you, Mr. Chairman.
+My question, I guess, is for Ms. Cantley and Mr. Weiss.
+Under Regulation E, consumers get third-party liability
+protection up to--they can't lose more than $50 for
+unauthorized electronic transfers. And I know some people have
+talked about expanding that to business customers to help
+protect small businesses from these account takeovers. That
+would essentially shift the liability to the financial
+institutions and potentially, I suppose, make the small
+businesses less interested in some of their protection,
+although I guess Reg E does require them to immediately notify,
+which would maybe benefit the system.
+Is that a good idea or a bad idea?
+Ms. Cantley. Currently, commercial and small business
+customers are covered in every State by UCC 4A. And we feel
+that that has stood the test of time in addressing this issue.
+Mr. Stivers. What is the coverage amount under UCC--
+Ms. Cantley. That the standards need to be commercially
+reasonable.
+Mr. Stivers. Mr. Weiss, do you want to--
+Mr. Weiss. I really have nothing else to add to what
+Michele stated.
+Mr. Stivers. Looks like Mr. Woodhill--go ahead, sir?
+Mr. Woodhill. If I may, what ``commercially reasonable''
+means as a matter of law has been the subject of 12 lawsuits.
+Two of them were settling for 100 cents on the dollar just as
+soon as the bank saw what the judge had to say in its denial of
+their preliminary--motion for preliminary finding for the
+defendant. One was actually won, at least so far, by the bank,
+and one was won by the victim.
+The consensus at the big security conference this past
+spring, the consensus among cyber law experts was that, given
+the new 2011 guidance, going forward UCC 4A will be found
+currently to mean that the banks are liable. Our victims group
+has deep concerns about making small bankers liable for risks
+that they can't really understand and they can't really manage.
+So we would like to see those risks and responsibilities moved
+to these big processor organizations.
+Because it is possible that small banks would have to hold
+additional capital against the possibility that these large,
+manned accounts might have to do a refund because the big
+transfers were fraudulent, not going back 90 days. And this is
+just--this is too much for a small business, too much for small
+banks.
+Mr. Stivers. Thank you very much.
+I yield back.
+Mr. Schweikert. And one last--Mr. Manzullo will be our last
+questioner of the panel. And I do appreciate your patience, but
+this is an interesting area with lots and lots of layers.
+Mr. Manzullo?
+Mr. Manzullo. Thank you.
+I bought a new computer a couple of years ago, and the
+store recommended ``X'' company antivirus software. And for
+different amounts, you got different coverage. Does this stuff
+work?
+Mr. Clancy. It works to a point. And so, the challenge has
+been that the attackers innovate, and they run their attack
+software against the commercial products--all of them, not just
+the one you bought, but the one that everybody else buys and so
+on and so forth--and they make sure their attack code is
+resilient to detection. And so, it is a cat-and-mouse game.
+So, on the day that they create the software and send it,
+does your commercial tool that you bought or even the free
+tools that you use find it? Very often not. Does it 2 weeks
+later? Yes, very often it does. So there is this window-of-time
+problem that is very hard to address, and the attackers will
+continue to innovate.
+Mr. Manzullo. But it is worthwhile to buy some type of
+protection?
+Mr. Clancy. Yes. You are much better off with it than you
+are without it, but it is not a perfect defense.
+Mr. Manzullo. When my account got hacked into last year and
+my contact lists were stolen, I called a representative from
+this company--and I don't want to give the name of the company.
+It is a fairly responsible company; it just wouldn't be fair to
+name them publicly. But the lady said that because the
+information on the e-mail account was not stored in my PC but
+somewhere--I don't know if the word is the ``cloud'' or
+wherever else it was, is that this antispyware, whatever it is,
+was unable to protect it.
+You are nodding. Maybe you could explain to me what she
+tried to explain to me on the phone.
+Mr. Clancy. Sure.
+Mr. Manzullo. What happened there?
+Mr. Clancy. Essentially what happened, most probably--
+obviously, I am just basing it on what you said--is that the
+sign-in ID, the username and password you use to get into your
+mailbox, was compromised, and the bad guy logged in from some
+other system to that system in the cloud to pretend that they
+were you to send out these e-mails. Right? Or using a system to
+do that on their behalf, as opposed to actually attacking your
+own personal laptop or computer that you were using. And
+because their credential was stolen, it appeared to that mail
+provider as you signing in with your password so it must have
+been you. Right? So the client tool on your PC didn't come into
+play because it was external to you.
+Now, it would have potentially prevented the fact that that
+sign-in to your e-mail account was taken in the first place if
+that actually occurred when you were using your computer and
+not something perhaps when you were traveling or on another
+machine.
+Mr. Woodhill. But the question is, how did your log-on ID
+and password get compromised? The typical way is because they
+had malware on your PC that watched you enter your user ID and
+password, stole it, and transmitted it to the bad guys to use
+in that scam.
+There are other attack modes, however. You can recover a
+user ID and password on Yahoo by knowing some challenge
+questions that they can research about you. So there are other
+possibilities, but almost always it is malware.
+Mr. Manzullo. The reason I ask the question is that, is it
+an option to take and download what is in the cloud now
+directly onto your PC? And would that make it more secure? Or
+would that--the lady said it would actually open up everything
+else on the PC to that attack.
+Mr. Woodhill. Congressman, it would make it less secure,
+because the testimony here among the experts is that you can't
+secure your home PC. The Pentagon can't secure its desktop PCs.
+So it would be two places you could be attacked, not just one.
+And you could lose your PC, it could be physically stolen in a
+robbery of your house, and then the data would be on your hard
+disk.
+Mr. Manzullo. The final question is, do you remember--I
+guess it still goes on, with the robo-calling of the
+telephones, where computers would generate a list of seven
+numbers and then actually come up with a combination that it
+will ring? Do people who do this take a look at somebody's name
+and then try to figure out different combinations of that? How
+individual is this in the hacking that takes place? Or is it
+mostly on a broad base so that everybody gets hacked at one
+time?
+Oh, no, that is not correct because the Crystal Lake School
+District got hacked and had $340,000, and it was just their
+district that they hacked into.
+Mr. Clancy. I would say both. There are what we call
+commodity attacks that are broadly targeted based on an e-mail
+list that was found, whether your name is posted on a Web site
+or what not, based on people just trawling the Internet looking
+for identity. And then there are targeted attacks that are very
+convincing that are very personalized to the individual. And
+you have sophisticated criminals doing those attacks and more
+basic feeder farm team criminals doing the more commodity
+widespread things. So you have both.
+Mr. Manzullo. So then the Yahoo--my account is Yahoo--or
+Gmail, whatever it is, you really shouldn't have your name on
+that address. Would that be correct? Such as
+``
+[email protected]
+.''
+Mr. Woodhill. Actually, if you look at who lost money, it
+is random. Your school district was just randomly unlucky.
+Every time banks sign someone up like your school district for
+online banking, they get a kind of reverse lottery ticket, that
+if their number is selected by the criminals, they lose
+$300,000, as Crystal Lake does.
+And so in studies of the victimization patterns, it doesn't
+matter if your name is included or not, you are just randomly
+unlucky to end up with malware on your PC and getting your
+money stolen. So those kinds of things--the criminals try
+everything. They try every attack every which way, so you can't
+defend yourself.
+Mr. Manzullo. Thank you.
+Mr. Schweikert. Thank you, Mr. Manzullo.
+And thank you to the panel. This was interesting, and I
+have the feeling we are going to be spending a lot more time on
+this subject over the years to come.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection--I am always worried someone is
+going to walk in and just object at that moment--the hearing
+record will remain open for 30 days for the Members to submit
+written questions to these witnesses and to place their
+responses in the record.
+I can almost assure you there were two or three Members up
+here who had technical questions that will be coming to you.
+Thank you for your participation.
+This hearing is adjourned.
+[Whereupon, at 11:40 a.m., the hearing was adjourned.]
+
+A P P E N D I X
+
+June 1, 2012
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+

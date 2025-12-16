@@ -1,0 +1,2181 @@
+- CYBERSECURITY OF THE INTERNET OF THINGS
+
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBERSECURITY OF THE INTERNET OF THINGS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FIFTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+OCTOBER 3, 2017
+
+__________
+
+Serial No. 115-40
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://oversight.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+27-760 PDF                  WASHINGTON : 2018
+
+----------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+Committee on Oversight and Government Reform
+
+Trey Gowdy, South Carolina, Chairman
+John J. Duncan, Jr., Tennessee       Elijah E. Cummings, Maryland,
+Darrell E. Issa, California              Ranking Minority Member
+Jim Jordan, Ohio                     Carolyn B. Maloney, New York
+Mark Sanford, South Carolina         Eleanor Holmes Norton, District of
+Justin Amash, Michigan                   Columbia
+Paul A. Gosar, Arizona               Wm. Lacy Clay, Missouri
+Scott DesJarlais, Tennessee          Stephen F. Lynch, Massachusetts
+Trey Gowdy, South Carolina           Jim Cooper, Tennessee
+Blake Farenthold, Texas              Gerald E. Connolly, Virginia
+Virginia Foxx, North Carolina        Robin L. Kelly, Illinois
+Thomas Massie, Kentucky              Brenda L. Lawrence, Michigan
+Mark Meadows, North Carolina         Bonnie Watson Coleman, New Jersey
+Ron DeSantis, Florida                Stacey E. Plaskett, Virgin Islands
+Dennis A. Ross, Florida              Val Butler Demings, Florida
+Mark Walker, North Carolina          Raja Krishnamoorthi, Illinois
+Rod Blum, Iowa                       Jamie Raskin, Maryland
+Jody B. Hice, Georgia                Peter Welch, Vermont
+Steve Russell, Oklahoma              Matt Cartwright, Pennsylvania
+Glenn Grothman, Wisconsin            Mark DeSaulnier, California
+Will Hurd, Texas                     Jimmy Gomez, California
+Gary J. Palmer, Alabama
+James Comer, Kentucky
+Paul Mitchell, Michigan
+Greg Gianforte, Montana
+
+Sheria Clarke, Staff Director
+Robert Borden, Deputy Staff Director
+William McKenna General Counsel
+Troy Stock,  Subcommittee Staff Director
+Kiley Bidelman, Clerk
+David Rapallo, Minority Staff Director
+
+------
+
+Subcommittee on Information Technology
+
+Will Hurd, Texas, Chairman
+Paul Mitchell, Michigan, Vice Chair  Robin L. Kelly, Illinois, Ranking
+Darrell E. Issa, California              Minority Member
+Justin Amash, Michigan               Jamie Raskin, Maryland
+Blake Farenthold, Texas              Stephen F. Lynch, Masschusetts
+Steve Russell, Oklahoma              Gerald E. Connolly, Virginia
+Raja Krishnamoorthi, Illinois
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on October 3, 2017..................................     1
+
+WITNESSES
+
+Mr. Matthew J. Eggers, Executive Director, Cybersecurity Policy,
+U.S. Chamber of Commerce
+Oral Statement...............................................     2
+Written Statement............................................     5
+Mr. Tommy Ross, Senior Director of Policy, The Software Alliance
+(BSA)
+Oral Statement...............................................    18
+Written Statement............................................    21
+Mr. Josh Corman, Director of the Cyber Statecraft Initiative,
+Atlantic Council
+Oral Statement...............................................    30
+Written Statement............................................    32
+Mr. Ray O'Farrell, Chief Technology Officer, VMware
+Oral Statement...............................................    45
+Written Statement............................................    47
+
+APPENDIX
+
+Opening Statement of Representative Gerald E. Connolly...........    82
+Questions for the record for Mr. Eggers, submitted by Chairman
+Hurd...........................................................    84
+Questions for the record for Mr. Ross, submitted by Chairman Hurd    89
+Questions for the record for Mr. Corman, submitted by Chairman
+Hurd...........................................................    92
+Questions for the record for Mr. O'Farrell, submitted by Chairman
+Hurd...........................................................   102
+
+CYBERSECURITY OF THE INTERNET OF THINGS
+
+----------
+
+Tuesday, October 3, 2017
+
+House of Representatives,
+Subcommittee on Information Technology,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:19 p.m., in
+Room 2247, Rayburn House Office Building, Hon. Will Hurd
+[chairman of the subcommittee] presiding.
+Present: Representatives Hurd, Mitchell, Issa, Amash,
+Gianforte, Kelly, Raskin, Connolly, and Krishnamoorthi.
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order. And, without objection, the chair is authorized
+to declare a recess at any time.
+The very first hearing we held in the subcommittee just
+over 2-1/2 years ago was titled, ``Cybersecurity: The Evolving
+Nature of Threats Facing the Private Sector.'' Since that first
+hearing, we have held over a dozen hearings on a variety of
+cybersecurity issues facing the Congress and the country,
+including encryption technology, the risk posed by insecure
+legacy Federal IT systems, and the opportunities and challenges
+posed by connected vehicles.
+Today's hearing on the Internet of Things builds on all the
+work we have done over the last 2-1/2 years to better
+understand the innovations of the digital age and how to
+implement needed legislative updates to continue protecting
+consumers and allowing American creativity to grow.
+The Internet of Things presents an opportunity to improve
+and enhance nearly every aspect of our society, economy, and
+day-to-day lives. But in order for us to be able to fully
+harness this technology, the Internet of Things needs to be
+built with security in mind and not as an afterthought. When
+integrating these devices into our lives, people need to know
+that they are secure.
+Unfortunately, we are far from this ideal state because
+many IoT devices violate basic cybersecurity practices. Some
+IoT devices lack the ability to be patched or include hard-
+coded passwords that cannot be changed by the user. This
+lateral vulnerability was explored in the recent attack on Dyn,
+which took down Netflix, Spotify, Twitter, and a number of
+other websites for hours.
+Senators Mark Warner and Cory Gardner have recently
+proposed one way of potentially increasing the cybersecurity of
+these devices by introducing a bill that would set minimum
+security requirements for devices purchased by the Federal
+Government. I applaud them for the effort and the thought that
+went into this legislation.
+I look forward to getting into the details of that
+legislation in today's hearing to answer some questions like,
+is the definition of IoT in the bill too broad? Does the bill
+apply to mobile devices? Should it? The cybersecurity
+requirements for devices in the bill might make sense now, but
+will they soon become outdated?
+As I have said before, we have great challenges in front of
+us, but also a tremendous opportunity to be bold and decisive
+and reform the Federal Government. I thank the witnesses for
+being here today, and look forward to hearing and discussing
+bold ideas to increase the level of cybersecurity of the
+Internet of Things so that we can all benefit from the
+revolutionary opportunities it offers.
+And as usual, I'm glad to be able to explore these issues
+with my friend and ranking member, the Honorable Robin Kelly
+from Illinois. And when she arrives, we'll recognize her for
+her opening remarks.
+Mr. Hurd. But we'll go ahead and make introductions of our
+witnesses. We have Mr. Matthew Eggers, the executive director
+for cybersecurity policy at the U.S. Chamber of Commerce; Mr.
+Tommy Ross, senior director of policy for the Business Software
+Alliance; Mr. Josh Corman, director of the Cyber Statecraft
+Initiative at the Atlantic Council; and Mr. Ray O'Farrell,
+chief technology officer at VMware. And welcome to you all.
+And pursuant to committee rules, all witnesses will be
+sworn in before they testify, so please rise and raise your
+right hand.
+Do you solemnly swear or affirm the testimony you're about
+to give is the truth, the whole truth, and nothing but the
+truth, so help you God?
+Thank you.
+The record will reflect all witnesses answered in the
+affirmative.
+In order to allow time for discussion, please limit your
+testimony to 5 minutes. Your entire written statement will be
+made part of the record. And as a reminder, the clock in front
+of you shows your time remaining. And the light will turn
+yellow when you have 30 seconds left and red when your time is
+up.
+And now I would like to recognize Mr. Eggers to give your
+opening remarks.
+
+WITNESS TESTIMONIES
+
+TESTIMONY OF MATTHEW J. EGGERS
+
+Mr. Eggers. Thank you, sir.
+Good afternoon, Chairman Hurd, Ranking Member Kelly, and
+other distinguished members of the IT Subcommittee. My name is
+Matthew Eggers, and I'm the executive director of cybersecurity
+policy with the U.S. Chamber of Commerce. On behalf of the
+Chamber, I welcome the opportunity to testify before this
+subcommittee.
+Let me begin by noting our appreciation for your support
+and leadership regarding the Modernizing Government Technology
+Act. Its passage is a top chamber of priority. I recognize that
+you're considering legislation comparable to S. 1691, The
+Internet of Things Cybersecurity Improvement Act of 2017. I've
+combined my statements to the Chamber's thinking on IoT and
+cyber.
+The Chamber is optimistic about the future of IoT. Many
+observers predict that the connectivity of the IoT will bring
+positive benefits through enhanced efficiency and productivity
+across the economy. The Chamber is advancing roughly five
+principles to foster valuable outcomes in this area.
+First, the IoT is complex, and there's no silver bullet to
+cybersecurity. The IoT includes both devices and services, such
+as sensors and smartphone apps. It is composed of two major
+segments: consumer IoT and industrial IoT. There's a
+distinction emerging between managed and unmanaged IoT. Some
+IoT services and devices are consumer deployed, while others
+are administered by third parties, like a cloud provider. The
+advantages of the IoT will be realized in an environment that
+prioritizes industry managing cyber risks and government
+avoiding regulations that would stunt IoT innovation and
+deployments.
+Second, managing cyber risk across the internet in
+communications ecosystem is crucial to growing in the IoT and
+increasing businesses' gains. The Chamber wants device makers,
+service providers, and buyers to win from the business
+community leading the development of state of the art IoT
+technologies. Sound private sector-led IoT risk management can
+create a virtual cycle of security in which consumers demand
+secure devices and services and industry prioritizes security
+in their offerings. Different risk management practices will be
+relevant for different IoT audiences and situations.
+Third, the business community will promote policies
+favorable to the security and competitiveness of the digital
+ecosystem. Businesses cannot expand to create jobs if they are
+burdened by complex and expensive regulations. Leading industry
+stakeholders are attuned the importance that cybersecurity
+brings to the marketplace. Perfect security of network-
+connected devices is ambitious, but the Chamber urges all
+stakeholders to make the cybersecurity of the IoT a priority,
+not simply for security's own sake, but for the IoT ecosystem
+as a whole. It is crucial that policymakers approach new
+technologies with a dose of regulatory humility.
+Fourth, IoT cybersecurity is best when it's embedded in
+global and industry-driven standards. Cyber standards and
+guidance are optimally led by the private sector and adopted on
+a voluntary basis. They are most effective when developed and
+recognized globally. Such an approach averts burdening
+multinational enterprises in IoT adopters with the requirements
+of multiple and often conflicting jurisdictions.
+Fifth, public-private collaboration needs to advance
+industry interests. Two examples are worth highlighting. One,
+the NTIA. The telecom and information arm of the Commerce
+Department is working with businesses to assess what actions
+stakeholders should take to advance the IoT, including cyber.
+The agency is leading a multistakeholder process to address IoT
+security upgradability and patching of consumer devices.
+Two, missed, the department's standards body did an admiral
+job of convening many organizations to develop the popular
+cybersecurity framework, which was released in 2014, and the
+Chamber's built the national education campaign around it. The
+Chamber strongly believes the Commerce Department is well
+positioned to bring together stakeholders to identify existing
+standards and best practices to enhance the security and
+resilience of the IoT.
+Thank you for giving me a chance to convey the Chamber's
+views, and I'm happy to answer any questions. Thank you.
+[Prepared statement of Mr. Eggers follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Eggers.
+And now it is an honor and indeed a pleasure to introduce
+my friend and our ranking member, the Honorable Robin Kelly
+from the great State of Illinois.
+Ms. Kelly. Well, thank you, Mr. Chair.
+Chairman Hurd, thank you for calling today's hearing, and
+thank you to our witnesses for being here today. We are here to
+talk about a critically important bill and the security of IoT
+devices that the Federal Government uses. Senators Warner and
+Gardner recently introduced S. 1691, the Internet of Things
+Cybersecurity Act, to help ensure that Federal agencies procure
+secure IoT devices. I have been working on the discussion draft
+of the companion bill. I want to thank the Senators for their
+continued leadership on this important cybersecurity issue.
+IoT devices are incredibly helpful for American citizens,
+businesses, and our Federal Government. From drones to smart
+light bulbs to connected cars, hundreds of millions of
+Americans benefit from these devices every day. In fact, we
+expect to have more than 20 billion internet connected devices
+online by 2020.
+Unfortunately, the high demand and lucrative market for IoT
+devices has also attracted bad actors who crank out cheap
+products that are insecure, unreliable, and vulnerable to
+malware. We all know the dangers posed by unsecured devices.
+Even the least tech savvy among us learned about the
+consequences last October when a distributed denial-of-service
+attack, or DDoS, attack on DNS service provider Dyn shut down
+internet access for millions on the East Coast. We learned that
+the attack was carried out by a bot that composed of thousands
+of compromised IoT devices. It was a sobering reminder that
+everyday appliances like web cams, smart TVs, and even
+thermostats can be turned into cyberweapons. There is no doubt
+that these attacks are growing in frequency and severity. The
+proliferation of IoT devices makes these attacks that much
+easier.
+It is estimated that October's Dyn attack only used a
+fraction of the botnets' capabilities. We can only imagine the
+disruption that a larger cyber attack would cause. Lives are at
+stake in this matter. Given the gravity of this situation,
+Congress must be concerned about both disruptive cyber attacks
+and protecting sensitive data. Comprised devices can become
+access points for malicious actors to gain entry into the
+Federal Government's network.
+S. 1691 and my draft companion bill bakes security into the
+procurement process. These bills ensure that procured devices
+meet minimum security requirements. We are talking about basic
+cyber hygiene, like ensuring that devices are patchable, that
+they do not contain known vulnerabilities or hard-coded
+passwords.
+The legislation also provides agencies with flexibility to
+waive these requirements if they employ similar requirements or
+use third-party device certification standards. These
+requirements make our agencies more secure, while providing
+flexibility to vendors and agencies.
+We cannot predict the future of technology, which is why my
+discussion draft also includes the creation of emerging
+technology's advisory board to review and provide
+recommendations to update guidelines in realtime to address
+emerging threats.
+Importantly, these bills are not meant to provide extensive
+in-depth regulation. Sector-specific regulators will devise
+more precise rules to address the unique risks to each sector.
+Instead, they would establish minimal flexible standards for
+government procurement of IoT devices.
+I've long said that the Federal Government must be a leader
+in cybersecurity. This legislation takes us closer to that
+goal, but my bill draft is not finished. We need the input of
+people like our witnesses, other stakeholders, and the public
+to make my bill as strong as possible so that our Federal
+agencies can be safe and secure. It is a fine line to walk to
+secure our IT systems while encouraging innovation. I hope that
+at the end of this process we have struck that perfect balance.
+I look forward to hearing the witnesses' ideas and
+contributions to strengthen this bill.
+And again, thank you, Mr. Chairman.
+Mr. Hurd. I'd like to thank the ranking member. I always
+say that cybersecurity is one of the final remaining bipartisan
+issues in Washington, D.C.
+Ms. Kelly. No. Have hope. No, there's more.
+Mr. Hurd. There we go. I like that. PMA, positive mental
+attitude.
+So I'd like to now recognize Mr. Ross for your 5-minute
+opening remarks.
+
+TESTIMONY OF TOMMY ROSS
+
+Mr. Ross. Chairman Hurd, Ranking Member Kelly, members of
+the subcommittee, it's a real honor for me to be here with you
+today. My name is Tommy Ross, and I'm here on behalf of BSA/The
+Software Alliance. With operations in over 60 countries around
+the world, BSA is the leading advocate for the global software
+industry, which contributes over 10 million American jobs and
+over a trillion dollars to the U.S. economy.
+Our members are among the world's leading innovators of
+software and analytics capabilities that undergird the Internet
+of Things, or IoT. They are deeply invested in the success of
+the IoT because of its potential to transform and improve our
+lives. The Internet of Things is already generating new and
+improved business models and business processes in nearly every
+sector of the economy, from agriculture to cutting edge
+scientific research. And it's delivering unprecedented
+conveniences and opportunities to individual citizens.
+At the core of the Internet of Things is the ability to
+analyze, process, and move data in novel ways. If we are to
+realize the tremendous potential of the IoT, we must secure
+that data against malicious cyber activity.
+As the chairman said in his opening remarks, products must
+be developed with security in mind and not with security as an
+afterthought. For that reason, BSA's members are deeply
+committed to advancing strong cybersecurity throughout the IoT
+market. In fact, as we celebrate National Cybersecurity
+Awareness Month, BAS is launching a new cybersecurity policy
+agenda entitled, ``Security in the Connected Age,'' and our
+agenda asserts cybersecurity for the Internet of Things as a
+high priority for policymakers. I've included a copy of this
+agenda in my written testimony.
+Our agenda emphasizes five categories for policy
+development: promoting a secure software ecosystem,
+strengthening the government's approach to cybersecurity,
+driving international harmonization, developing a 21st century
+cyber workforce, and embracing emerging technologies to
+strengthen security.
+Drawing on this agenda, I offer several principles in
+concrete policy recommendations for securing the IoT in my
+written testimony. In my time before you now I'd like to focus
+on three of those recommendations.
+First, the calibrated approach to capturing the complexity
+of the Internet of Things will be essential to crafting
+effective IoT policies. IoT devices and the systems they
+support come with a broad range of characteristics, including
+widely varying levels of vulnerability and risk, a diversity of
+functions, and target markets of different types. An IoT-
+enabled pacemaker, for example, carries a much different set of
+risks than a connected toothbrush. Some devices, if compromised
+by malicious cyber activity, could pose direct risk to an
+individual's safety or the public health. Others are unlikely
+to cause physical damage, but could be commandeered by botnets,
+as the ranking member mentioned. Rather than a one-size-fits-
+all approach, we need a risk-based policy framework that
+accounts for these differences.
+Second, IoT policies should build on existing software
+industry best practices. We should not treat the Internet of
+Things as some wholly new and unexplored realm demanding new
+and different policies. IoT devices are built around hardware
+and software that have been regular features of the technology
+landscape for years, even decades. In the software industry,
+the private sector and the government have worked closely over
+many years to develop a robust set of guidelines, best
+practices, and international standards for developing and
+sustaining secure software. As you consider cybersecurity in
+the IoT we should begin here.
+Finally, effective IoT cybersecurity policies will
+recognize that the government has an important role, but it
+should be cautious in how it exercises its role to avoid
+interventions that will stunt the development of innovative
+products, including new cyber tools. In general, it should
+focus on convening and facilitating, rather than dictating
+solutions. The government can be most effective when it takes
+action to foster market-driven solutions, particularly those
+that can impact markets globally.
+The government can play a critical role by driving
+multistakeholder processes to confront the most critical or
+most challenging questions and to seek to harmonize policy
+frameworks across sectors based on the outcomes of those
+multistakeholder processes.
+Beyond that, though, the government must lead by example.
+As Ranking Member Kelly said in her opening remarks, the
+Federal Government must be a leader in cybersecurity. It must
+drive the market by demanding the most innovative security
+solutions private industry can provide and invest in emerging
+technologies that can reshape security architectures. Too often
+government acquisition is driven towards the lowest cost
+solutions rather than those that provide the best value. That
+must change.
+In summary, we argue that policies for the Internet of
+Things will be most effective when they are risk-based rather
+than one-size-fits-all, when they build on existing best
+practices instead of reinventing the wheel, and when they
+facilitate collaboration between government and industry to
+tackle a shared challenge.
+Thank you again for the opportunity to appear before you
+today. I look forward to your questions.
+[Prepared statement of Mr. Ross follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Ross.
+Mr. Corman, you're up. Five minutes for your opening
+remarks. Thanks for being here.
+
+TESTIMONY OF JOSH CORMAN
+
+Mr. Corman. Thank you.
+Chairman Hurd, Ranking Member Kelly, distinguished members
+of the committee, thank you for the opportunity to testify
+today. My name is Joshua Corman. I am a founder of
+iamthecavalry.org, a grassroots volunteer cyber safety
+initiative focused on where bits and bytes meet flesh and
+blood. Until yesterday I was the director of the Cyber
+Statecraft Initiative for the Atlantic Council, a nonprofit
+international policy think tank. And as of yesterday I am now
+the chief security officer for PTC to drive more maturity and
+safety into the industrial IoT sector. And lastly, relevant to
+today, I was testimony to the 2016 Presidential Commission for
+Enhancing National Cybersecurity and had the privilege of
+serving on the congressional task force for healthcare
+cybersecurity, which published in June.
+Beyond my written testimony, I'd like to highlight three
+things. One is the cost of inaction and the urgency of time.
+While some want to wait, time really is the enemy here, and
+delayed response will have consequences in breaches; in effect,
+public safety; in the confidence in our government; and in very
+large parts of our economy, and could cede our leadership
+position in the international policy response after the next
+major attack in ways I fear through my work at the Atlantic
+Council would be very deleterious to U.S. interests and to our
+economic interests.
+Number two, the Senate bill is promising because it focuses
+on an 80/20 rule type backbone of maximum benefit from minimum
+burden or on hovering around known vulnerabilities and
+reasonable cyber hygiene. These reasonable evergreen
+expectations both preserve and enable free market choice by
+definition. They are more descriptive than prescriptive,
+focusing on what is required versus how to do it, despite
+industry talking points. Further, they may even serve as a very
+necessary safe harbor rubric for inevitable software liability
+when we have our first casualties due to where bits and bytes
+meet flesh and blood.
+And then third, this rubric could be made even better with
+a software bill of materials. Enhancing the Senate bill with a
+software ingredients list, or also referred to as a software
+bill of materials, would add significant protections and better
+reflect insights and findings from prior initiatives like the
+Presidential Commission, which highlighted the need for food
+labels and transparency to enable better free market choice;
+our healthcare Cybersecurity Task Force, which is strongly
+urging a software bill of materials to reflect what Philips
+Medical and others are voluntarily doing to make medical
+equipment safer in life critical use cases. And while the
+industry has reacted negatively to such approaches in the past,
+many of those arguments have been weak or have failed to fully
+appreciate the benefits of such an approach, both of which I'd
+be happy to speak to in Q&A or followup.
+Further, we continue to misidentify as a Nation, especially
+when talking about the NIST cybersecurity framework, that
+cybersecurity is not only about confidentiality of data. It is
+about public safety, human life, capital expenditures, physical
+harm. And I think what we're seeing with NotPetya and other
+attacks is property damage, severe interruptions to our supply
+of vaccines for a national supply, et cetera.
+And while I appreciate, especially from the technology
+community, the need--the reluctance to regulate technology,
+it's hard to argue that private sector is doing a good job here
+even on the regulation of data. About 100 of the Fortune 100
+have lost intellectual property and trade secrets. Nearly every
+retailer has had a breach of credit card data several times,
+despite adhering to industry best practices, and I think the
+fact that we have a broad history of software security
+practices is part of the problem. We have failed secure low
+consequence use cases like replaceable data, and now we're
+increasingly dependent upon technologies where the consequences
+of failure could have a national security or public safety
+impact.
+The breaches are getting bigger, like Ashley Madison and
+Target. They're affecting government, like the Pentagon and the
+OPM breach. And now they're affecting hospitals. Initially,
+last February, with Hollywood Presbyterian shutting down
+patient care for a week due to an accidental ransomware
+infection, and more recently, 65 hospitals in the U.K., 65
+hospitals in one day were shut down, and it was 20 percent of
+their national capacity.
+And while we have been reluctant, the primary reason to be
+reluctant to regulate software IoT, including my own
+reluctance, has been a fear that doing so may stifle innovation
+or hurt the economy. And I think these uncomfortable truths are
+showing a failure to have some reasonable regulation of
+software and IoT is stifling innovation and hurting the
+economy.
+If we are cavalier about this, I do fear the international
+response. There's severe appetite to do things in Germany, in
+the U.K., and there are even attempts to break up the free open
+internet to have a U.N. takeover of governments. And the
+easiest solutions, the next Mirai botnet that we can't stop,
+are very dangerous to U.S. interests and may cede our current
+model and economic engagement with the internet.
+Lastly, on a personal level, I'm very encouraged to see the
+enthusiastic support for the value of white hat research in
+coordinated vulnerability disclosure, and there's been
+significant strides there, which are already bearing fruit for
+the voting hacking machines, for medical devices, and for
+automobiles, and I'd like to see that continue. I'd be happy to
+answer your questions.
+In closing, time is the enemy. The bill focuses on maximum
+benefit for minimum burden, and could be even strong with a
+bill of materials. I am encouraged by this hearing and the bill
+as a turning point that we might have the courage and will to
+do the technical solutions we've had available. Thank you.
+[Prepared statement of Mr. Corman follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Corman.
+Mr. O'Farrell, you're now recognized for 5 minutes.
+
+TESTIMONY OF RAY O'FARRELL
+
+Mr. O'Farrell. Chairman Hurd, Ranking Member Kelly, thank
+you for the opportunity to testify today at this important
+hearing. I am Ray O'Farrell, chief technology officer at
+VMware. I am head of VMware's IoT team. VMware is headquartered
+in Palo Alto, California, and is one of the largest software
+companies in the world, and is also part of the Dell Technology
+family of companies.
+The emergence of IoT, or the Internet of Things, is a
+technological step in which more and more aspects of the
+physical world, from manufacturing to banking to home
+monitoring to healthcare, transportation, and even smart cities
+are interconnected and coupled with analytics and intelligence.
+Some consider the Internet of Things to be the basis of the
+next industrial revolution.
+This level of IoT interconnect will lead to exciting new
+opportunities for American innovation and job growth. However,
+with the increased interconnect there is also a threat of cyber
+attack on this new infrastructure. We've already witnessed some
+of the security challenges for IoT. For example, just a year
+ago, an IoT distributed denial-of-service attack took down
+major internet platforms and disrupted the internet services of
+millions of Americans. And in May of this year, the WannaCry
+attack is estimated to have affected 100,000 organizations in
+150 countries, and in the context of IoT, that included
+healthcare-related IoT systems. The threat and the impact of
+IoT-based cyber attack is not theoretical, it is real.
+VMware is a leader in data center and IT infrastructure
+management, including the management of end-user devices such
+as cell phones. We do this for the Federal Government and the
+largest companies in the world. We extend this management and
+security approach to the world of IoT and to the IoT industry.
+We applaud Senators Warner and Gardner for introducing this
+proposal of the Internet of Things Cybersecurity Improvement
+Act of 2017, and the committee for releasing a discussion draft
+and holding today's hearings.
+There are several provisions of the proposal that VMware
+specifically supports. Firstly, we believe that IoT devices
+should from the outset be designed with vulnerability patching
+capabilities built in.A simple patching requirement would have
+drastically reduced or eliminated the WannaCry breach.
+Secondly, we support several of the cyber hygiene concepts
+in the proposal, including microsegmentation and multifactor
+authentication. The concept of microsegmentation plays a
+critical role in ensuring that IoT-related data and information
+are segmented and properly protected against IoT cyber
+breaches.
+Thirdly, we also support the consideration included in the
+proposal that leverages security benefits introduced by
+properly managed IoT gateways, eight systems which act as
+isolation and management gateways to help prevent and remediate
+any compromise of connected devices.
+In closing, the Internet of Things will have significant
+positive impact on American innovation and American jobs.
+Billions of IoT-connected devices will be on the free market
+for consumers, businesses, and government to consider
+purchasing. And the U.S. has a ripe opportunity to claim global
+leadership in this space. But security is the key principle
+that will enable and advance further adoption of IoT. If
+consumers, businesses, and government do not feel that IoT
+products are secure, it will only hinder U.S. global leadership
+in a growing and innovative IoT industry.
+The Internet of Things Cybersecurity Improvement Act of
+2017 provides a thoughtful framework modeled after the
+industry-recognized NIST framework. The specific proposal
+focuses narrowly and appropriately on the procurement process
+by the Federal Government of IoT technology. If the U.S.
+Government decides to spend American taxpayer dollars to gain
+the productivity and efficiency benefits that IoT technologies
+can bring to the government, then it is reasonable to assume
+that the government should be confident in the security levels
+of the IoT devices it is purchasing.
+Chairman Hurd and Ranking Member Kelly, I applaud the
+leadership of the committee for holding this hearing today.
+Thank you for the opportunity to testify. And I look forward to
+answering the committee's questions.
+[Prepared statement of Mr. O'Farrell follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. O'Farrell.
+Now, it's with great pleasure to recognize the gentleman
+from California, Mr. Darrell Issa, for his first round of
+questions.
+Mr. Issa. Thank you, Mr. Chairman.
+And I think the public, in hearing we're doing something on
+the Internet of Things, probably in spite of your testimony
+would consider that, well, this must be new. But, Mr.
+O'Farrell, I'm going to use you and a little bit of our gray
+hairs to establish something for a moment.
+When you began in the industry, people were dialing, auto
+dialing to find modems and then trying to invade people's
+systems that were connected by modems, correct?
+Mr. O'Farrell. That's correct, yes.
+Mr. Issa. And the advent of firewalls and private systems,
+VPNs, point-to-point connection was in response to that and
+other challenges, right?
+Mr. O'Farrell. Yes. Broadly bringing a level of security
+and protection.
+Mr. Issa. So is it fair to say that the products that the
+public is hearing today, the Internet of Things products, could
+be set aside in totality and we could have this discussion
+today only about connected--externally connected computers,
+whether mainframe minis, if they were still around, or micros?
+Mr. O'Farrell. So there are similarities in the existing
+data center infrastructure, and, in fact, you would see many of
+the same issues appearing, how do I secure my infrastructure,
+how do I protect it, feeding back out into the world of IoT. I
+think there is one difference, though, to highlight, and the
+difference is, unlike your typical data center infrastructure,
+you are not protecting just data; obviously, that's important
+to protect, but you're protecting physical infrastructure.
+These devices can be controlling equipment in a hospital.
+Mr. Issa. Sure.
+Mr. O'Farrell. So there's different aspects.
+Mr. Issa. But if you're controlling the electric grid,
+you're controlling thousands of hospitals, right?
+Mr. O'Farrell. Correct, yes.
+Mr. Issa. So using that as a reference, would you all
+agree, if you can, that, in fact, this is not a new problem,
+but what we're really dealing with is a problem that goes back
+to the first connected product that had access even by
+telephone to the outside? That's fair to say, right?
+Okay. I'll take no noes as a yes for now. But let me follow
+up by asking you all a question. When we look at a fully
+qualified domain name, in the IPv4 world, our problem was we
+ran out of numbers to distinctly connect points so we could
+identify a point and its effective location. Is that a fair
+statement, for those that have been around? And then we went to
+IPv6 in order to have enough points that we could identify
+uniquely. Anyone? Mr. O'Farrell?
+Mr. O'Farrell. Yes, IPv6 increases the number of available
+addresses enormously.
+Mr. Issa. So as we're here looking at the question of a lot
+of things that are going to be done, would it be fair to say
+that the ultimate solution for point-to-point connections and
+conversations is, in fact, to eventually have every point in
+some way be fully qualified and fully identified so that when
+the chairman has a product that's being addressed by a product
+asking it to do something, its chances of it being anything
+other than an approved product reasonably asking for that
+information can be dramatically reduced? In other words, you
+can no longer spoof the way the bots do, spoof an event to get
+somebody to do something that they wouldn't do if they knew who
+you were? Is that a long but fairly accurate statement?
+Mr. Corman. Such a maneuver would help certain aspects of
+the threat model, but not all. And to also respond to your
+prior point, while things like the NIST cybersecurity framework
+and things like remotely exploitable modems are familiar and we
+can glean from the past, there are material differences. The
+Cavalry has published a framework of six differences, which are
+at least good questions to marshal yourself through, and
+succinctly they are--they're different adversaries with
+different motivations. They're different consequences of
+failure, including public safety human life. Different
+environmental contexts where you're not going to have layered
+defenses. Different composition of goods. Different economic
+realities for margins and costs to goods, and different time
+scales for time delays.
+Mr. Issa. You know, I appreciate all of that, but that's
+sort of like saying that the horse and buggy has nothing in
+common with the car when you're just trying to get to church.
+The reality is that--the reason I asked this line of
+questioning with my limited 5 minutes is, what it appears to
+this member, who has been around since the 1970s as a manager
+of a computer facility in the military, is we have old problems
+that have never been resolved. We now are in a position where
+quicker, faster, and with greater devastation the problems can
+lead to catastrophic problems for our society, for human life,
+and yet in a sense we've never resolved that great question,
+which started off with the modem that said you can call me, but
+I'm only going to call back to the number that's programmed in
+me, that two-way authentication that came out back in the modem
+day.
+In a sense, the reason I ask the question, and I'll close,
+Mr. Chairman, is it appears as though unique and thorough,
+fully qualified identity with the appropriate authentications
+is going to have to be part of any solution or you're going to
+have exactly what happened to Jared Kushner's lawyer who
+emailed ``forward'' to a spoofer what he was supposed to send
+to the son-in-law of the vice president only a few days ago,
+because you've got to know who you're talking to or,
+inevitably, all the security in the world won't do you any good
+when you send it to the wrong place.
+Mr. Chairman, I'll take that as a yes if they don't revise
+and extend on it, but it's an area of concern, and thank you
+for continuing this.
+Mr. Eggers. You know, if I may, let me just throw in a
+couple of thoughts that, A, we share your concerns about
+security and making sure that as we go from, let's say, device
+to end user, as we expand and we want to the Internet of
+Things, we're doing it in a way that minimizes those risks.
+Authentication is a key topic. I know we at the Chamber, we
+have supported the TENS stick, the trusted authentication
+concept and effort that was launched in 2011.
+But I think to your bigger point, we do share your concerns
+about security and the need for increased security and risk
+management. One thing I think we would look to is some kind of
+a layered approach, right? No single one thing is going to get
+us to where we want to be. And I would also want to look
+closely at what kind of measure metric we look to get there. We
+at least in--at the Chamber, there are private sector-led
+efforts to look at whether or not a device, widget, gadget is
+more secure, let's say, than another. We probably would be a
+little skeptical or at least want to proceed with caution if
+government's going to put a thumb on the scale. It may be
+premature to at least select one certification model versus
+another.
+I'll finish there. Thanks.
+Mr. Hurd. Ranking Member Kelly is now recognized for her
+opening questions.
+Ms. Kelly. Thank you.
+As the IoT market continues to grow rapidly, there are
+concerns that it has grown without proper security standards or
+market incentives to safeguard against bad actors. We haven't
+done a good job of rewarding good actors who bake in security.
+But for the Federal Government uses, an unsecured device poses
+a great threat to information security and sensitive data.
+A 2017 report by the Government Accountability Office found
+that IoT device vulnerabilities can be caused by, and I quote,
+``a lack of security standards addressing unique IoT needs.''
+Mr. O'Farrell, would you agree that IoT devices pose a
+unique cybersecurity challenge?
+Mr. O'Farrell. Yes, I would. Partially because the impact
+of a cybersecurity breach on an IoT device, as we've noted, can
+affect something very real in the physical world, including
+human life.
+Second of all, IoT devices by their nature are not behind a
+brick wall in a data center. They're at the bottom of oil
+wells. They're in factories. They're in buildings, which means
+the ability to physically attack them or interface with them
+becomes possible. Therefore, I think that a layered approach as
+to how you secure it becomes more important.
+So the bill mentions, for instance, use of IoT gateways and
+microsegmentation. These are second order of protection, which
+can be used to protect those devices themselves, even if they
+become compromised in some way.
+Ms. Kelly. And so you agree that establishing at least
+minimal cybersecurity standards would help prevent IoT device
+vulnerabilities?
+Mr. O'Farrell. Yes. I think in the context of the bill,
+which is essentially highlighting the existing NIST standards
+from a cybersecurity point of view and applying them to IoT in
+the context of the Federal Government procuring those devices,
+yes, I do.
+Ms. Kelly. And, Mr. Corman, would you agree?
+Mr. Corman. I do. And there's several things we could do.
+We wanted to focus on things that were 80/20 rule-ish. And I
+think if you squint--everything really hovers around
+vulnerabilities that are known. Known vulnerabilities are more
+than 30 percent more likely to be attacked by adversaries than
+unknown. And we discussed this with Chairman Hurd in Las Vegas.
+We had this notion of IoT really should have five postures
+towards any failure. They're going fail. They're going to fail
+often. How do you avoid failure? By building security in versus
+building on. How do you take help avoiding failure? From
+willing allies like through coordinated disclosure. How do you
+capture, study, and learn from failure? With logging in
+evidence. How do you respond to failure? With security updates
+and patching. And how do you contain and isolate failure? With
+segmentation and isolation to fail safely.
+And those are really you must be this tall to ride the
+Internet of Things kind of concepts. Obviously, there's so much
+more we could do, but that's a really minimum viable--I once
+said unpatchable IoT are the lawn darts of the internet in that
+they are inherently unsafe.
+Ms. Kelly. Thank you.
+Both the House and Senate versions of the IoT Cybersecurity
+Improvement Act require minimum security requirements from
+vendors selling IoT devices to the government. These include
+basic best practices like federally procured devices being
+patchable and not using hard-coded passwords.
+Mr. O'Farrell, do you believe these standards are
+reasonable?
+Mr. O'Farrell. Yes, I do. I also note that the bill gives,
+under some circumstances, the ability to be able to waive those
+if a device does not support that, as long as another security
+technique is put in place.
+Ms. Kelly. Right. And can you describe how these practices,
+basic hygiene, can provide a reasonable level of security for
+the government to feel confident in purchasing IoT
+technologies?
+Mr. O'Farrell. So you've already heard to some degree how
+IoT, sort of the existing ways that you secure data centers and
+infrastructure, also applies and becomes applicable in some way
+to IoT. Many of the things which are described here,
+authentication, microsegmentation, least privilege access, all
+of those are core concepts described by NIST to secure data
+center infrastructure and cyber infrastructure, so the same
+would apply equally to IoT.
+Ms. Kelly. Thank you.
+Mr. O'Farrell. It just becomes an extension--I'm sorry. It
+just becomes an extension, essentially, of the existing data
+center infrastructure.
+Ms. Kelly. Okay. IoT devices promise exciting opportunities
+and benefits we cannot ignore, as all of you agree the security
+implications. Government data must be protected, and it is
+essential that we address the cybersecurity concerns now rather
+than retroactively. The IoT Cybersecurity Improvement Act
+provides basic security standards that are necessary for
+protecting government data and can set a positive example for
+the IoT industry at large. I believe the legislation serves as
+an excellent starting point for IoT security. And I yield back.
+Mr. Hurd. I'd like to thank the ranking member.
+And if my memory is correct, Mr. Gianforte, this is your
+first--this is your first hearing with us. It's great to have
+someone with your background, experience, and patents on this
+committee. And you're now recognized for your opening 5 minutes
+of question.
+Mr. Gianforte. Thank you, Chairman Hurd and Ranking Member
+Kelly. It's my pleasure to be here. Thank you for the testimony
+that you're providing for us today. I appreciate the effort. We
+need to make sure that our government is secure, and
+particularly the Internet of Things security is important.
+I want to ask questions in two areas. And as Chairman Hurd
+mentioned, I ran a cloud computing business for many years, and
+we had thousands of clients. We had over a thousand cyber
+attacks per day that we had to defend against, so I have some
+familiarity here.
+I'd like to talk a little bit about NIST vulnerabilities.
+How often does NIST publish updates on vulnerabilities? Just
+based on your knowledge, Mr. O'Farrell.
+Mr. O'Farrell. I don't actually know the exact number. I
+know we get vulnerabilities from NIST, but also from broadly
+across the industry. You know, large software companies like
+Microsoft and others would publish those vulnerabilities as
+well, and so it would not be unusual to see a steady stream of
+vulnerabilities coming in every month.
+Mr. Gianforte. Every month there would be new ones?
+Mr. Corman. Every day.
+Mr. Gianforte. Every day there's updates.
+So are all vulnerabilities, Mr. O'Farrell, created equal or
+are some more severe than others?
+Mr. O'Farrell. Some are more severe than others. The
+challenge with the vulnerabilities, you can't always tell or
+predict whether the vulnerability is going to be exploited in
+some way. Remember, a vulnerability simply says there is
+something here which could be a problem. It doesn't say this
+has been used to attack or exploit in some way. So you have to
+be careful with respect to how you rate vulnerabilities, but
+there is a rating for vulnerabilities and they are not all
+created equal.
+Mr. Corman. If I may add to that, we have a common
+vulnerability scoring system for various factors. We have
+recently learned it's insufficient for safety critical, and
+there's a special project through MICR to look at safety
+critical in hospitals, for example.
+Mr. Gianforte. But to your point earlier, Mr. Corman, some
+are more important than others from a risk perspective.
+Mr. Corman. Well, for consequence severity and context,
+yes, but there's also one more thing in the written testimony
+I'd like to call out, which is that for all known
+vulnerabilities there are a special subset that if they're in
+created attack tools or if they're in an exploited database,
+they're 30 times more likely. So your heavier risk-based
+clustering of this to enhance the yield.
+Mr. Gianforte. Mr. O'Farrell, where I'm driving here is, in
+a complex system that includes an operating system, maybe an
+application server, an application communication software, all
+of these systems are collections of various components. Given
+the frequency with which vulnerabilities are published, is it
+possible for a complex system to have no vulnerabilities over a
+12-month period?
+Mr. O'Farrell. I think it is highly unlikely. I think that,
+in fact, you have to expect and to some degree that there's
+probably some vulnerability in there. It's complex. It's got
+many pieces of software and products. And I think if at all
+possible, you need to build into your security stance the
+expectation that you're going to have to adopt and deal with
+some form of exploit should it occur. So control and second-
+layer protection is a part of the story.
+Mr. Eggers. Sir, if I could--go ahead, sir.
+Mr. Gianforte. And I raise this, because in the legislation
+as it stands today it says that all procurement by the Federal
+Government will have no vulnerabilities. And I just want to
+highlight that some are more important than others. We may want
+to differentiate in some way.
+Mr. Eggers. I think--I was just going to add that I think
+that a focus on, A, a definition of what we mean by ``internet-
+connected device'' I think is crucial. B, I would say that you
+are right, NIST, its database of vulnerabilities ranks low to
+high. US-CERT pushes out vulnerability and other update
+information, if you will, regularly. I get them.
+One of the things I think that's relevant, at least in
+terms of the conversation here, is I think everybody is right
+to focus on the vulnerabilities and to upgrade fix. One of the
+issues, at least in terms of if you are a provider, and one of
+the questions that we've got is there's a requirement for
+tracking notification.
+Mr. Gianforte. Mr. Eggers, if I could just claim my time
+back.
+Mr. Eggers. You may, sir. Of course.
+Mr. Gianforte. Thank you.
+And I just wanted to, in my remaining 50 seconds, Mr. Ross,
+I have a question about standard practices in the software
+industry. As in the legislation there are particular clauses
+that require manufacturers of Internet of Things to provide
+perpetual updates to software, and I think the process of
+providing a way to do update is good. In the software industry,
+is it standard practice that that's done as part of the initial
+purchase price of the product or is there typically a separate
+maintenance contract that is designated to ensure that you get
+updates to your products?
+Mr. Ross. I think that very much depends on the product.
+You know, so you see, obviously, we all have apps on our
+iPhones that get free updates, you know, without paying any
+extra, and other companies provide update services as a
+separate package.
+Mr. Gianforte. And if there was a requirement to provide
+perpetual updates, what impact would that have on the initial
+purchase price of the product itself?
+Mr. Ross. Again, I think it depends on the business and its
+sort of, you know, business model how it generates revenue, so
+I don't think there's a single answer for the entire----
+Mr. Gianforte. But if a vendor had to provide more
+services, typically prices would go up?
+Mr. Ross. You could certainly expect that in some cases.
+Mr. Gianforte. Okay. Thank you.
+And I yield back. Thank you for your patience, Mr.
+Chairman.
+Mr. Hurd. Thank you.
+Mr. Raskin, you're now recognized for 5 minutes.
+Mr. Raskin. And thank you very much, Mr. Chairman.
+So I'm interested in last year's cyber attack with the
+Mirai botnet, which took down the internet for most of the East
+Coast. And it was an attack that preyed on the Internet of
+Things connected devices like web cams and routers and so on.
+And as I understand it, it infected the IoT devices with
+malware, and then the hackers were able to gain control of the
+devices and use them to drive an overwhelming amount of traffic
+towards the target.
+Mr. O'Farrell, let me ask you, in the aftermath of the
+Mirai botnet attack, it was revealed that the attackers had
+used only about 20 percent of the computing power of 20 percent
+of the entire botnet, so in other words, a small fraction of a
+small fraction of the actual capabilities. How would a similar
+attack ramped up affect the Federal Government, if they came
+after us?
+Mr. O'Farrell. I think the ramp-up would have an equivalent
+ramp-up in terms of impact. Now, obviously, after that attack,
+organizations will have looked at other ways they can protect
+from such a denial-of-service attack, so it would have been
+some changes made to try and protect against that. But if the
+full force of that attack had been used at that time, with the
+internet as it stood at that time, it is likely the impact
+would have equally been proportionally large. So in terms of
+the Federal Government, it would have brought down major
+internet providers, and that in turn would have begun to affect
+what the Federal Government does day to day.
+Mr. Raskin. Gotcha. Many of the IoT devices are shipped
+with hard-coded passwords that are unable to be patched or
+updated. What risk does a hard-coded password or device present
+to our ability to respond?
+Mr. O'Farrell. So I think as Congressman Issa mentioned,
+you can identify these devices in terms of an IP address of
+some sort, whether it's IP6 of or IP4, however, the actual
+identification of the device in terms of--sorry, of somebody
+accessing the device is typically handled by a password of some
+sort.
+A hard-coded password is typically very early somebody
+posts that on the network. You'll get a message on the internet
+saying if you're accessing this camera, these types of camera,
+here's the type of hard-coded password. So effectively you have
+no password, which effectively means then those devices are
+open for people to access them and then try and exploit them in
+some way.
+Mr. Raskin. Thank you much.
+Mr. Corman, how does Senator Warner's bill address that
+issue? Are there other legislative measures that we should be
+contemplating to deal with that problem?
+Mr. Corman. One of the things I wrote in my written
+statement just in full disclosure is that Federal procurement
+alone won't stop the next Mirai botnet. The government does not
+buy enough of those devices, and the overwhelming majority of
+the ones that hit the internet that afternoon were from
+Vietnam, outside the country purchased by others.
+What we like about the bill is the fact that it sets, by
+example through purchasing power, a model that can be
+replicated by hospitals, other organizations, and the
+international policy community in a reasonable way. There are
+some very ugly and dangerous counterproposals, such as bricking
+devices; doing deep packet and inspection at the carrier, the
+edge, which could get into net neutrality issues; and
+balkanization and Geo-IP filtering that would play directly
+into the hands of Russia, China, and some of the people who
+tried to take over the free open internet a few years ago and
+nearly succeeded. So there are other things that can be done,
+some of them having very dangerous side effects for the economy
+and for U.S. interests.
+Mr. Raskin. Let me just follow up on that. The use of these
+IoT devices is expanding rapidly around the world. I think it's
+estimated that by 2020, there could be more than 20 billion of
+them. Does that increase our exposure? Does it make it a more
+dangerous situation?
+Mr. Corman. Yes. I used to be the director of security
+intelligence for Akamai, which handles the largest denial-of-
+service attacks in the world, and the math doesn't handle even
+Mirai. It certainly won't handle the growth rates.
+So while I really like some of the hygiene principles to
+lead by example, these have to be adopted by the private
+sector, whether through self-regulatory, through purchasing,
+through free market forces. But this bill alone won't stop the
+next Mirai, but it sets an example that could make more devices
+higher hygiene than lower hygiene.
+Mr. Raskin. Do you--and I could open this up, does the
+panel think that manufacturers are doing enough to ensure the
+security and the safety of the IoT devices?
+Mr. Corman. No.
+Mr. Ross. So I think some are and some aren't. And I think,
+you know, what we need to do is incentivize those who are, you
+know, providing good security and building it into their
+products to have more opportunities, including through
+government contracting, and to have that good work recognized.
+And then we need to find ways to incentivize those who are not
+doing a good enough job to do better. So I think they're not
+all the same, but certainly there are some actors out there who
+are not taking security seriously enough.
+Mr. O'Farrell. I mean, I think I would echo the sense that,
+one, they're not all the same, but, two, for those who do do
+the good job, you know, to make sure that they have the benefit
+of being able to, you know, fit the requirement policies of the
+Federal Government. That's a positive message to them, and it's
+rewarding the people who do the good job as opposed to those
+who do not.
+Mr. Eggers. If I may, I think the intent of the bill to
+bring more secure devices into the Federal Government is sound.
+Very sound. It is how we get there, I think, that's the trick.
+In terms of working with so many different businesses
+across multiple sectors, I think Tommy's right. We're kind of
+in a gray zone where I think, if anything, when I step back and
+I look at a bill like this, I say, how can we make sure that
+the companies that are making devices securely--and there's a
+lot of standards out there. There are a lot of companies
+building devices according to this or that standard, guidance,
+or best practice. I want to make sure that they're the ones
+that win and, ultimately, consumers, the purchasers, will too.
+Mr. Raskin. Thank you. I yield back, Mr. Chairman.
+Mr. Hurd. Thank you.
+Mr. Mitchell, you're now recognized for 5 minutes.
+Mr. Mitchell. Thank you, Mr. Chairman.
+Let me ask the panel, whoever wants to jump in on this
+question, you talk about government standards and those
+standards generating more confidence in the private sector as
+well. How much confidence do you have that, in fact,
+government-mandated standards are going to improve the
+circumstances?
+Mr. Corman. One of the things I like here is it's not the
+government mandating standards for the private sector, it's the
+government as a purchaser acting in their own selfish interests
+to protect the interests, not just against larger scale DDoS,
+but against the next OPM breach or against people surveilling
+your offices or any and other number of things where our smart
+TVs or smart gadgets could be a risk. So this is more leading
+by example than forcing something. It could catalyze
+innovation.
+Mr. Mitchell. Let's talk about--give me a second, and I
+want to hear from everybody else--leading by example to Federal
+Government. Last we had a hearing several weeks ago, maybe a
+couple months ago at this point, there were 143 chief
+information officers in the Federal Government; 143 of them was
+I think the count. How does that give us confidence? I mean, I
+ran a fair size private company. There was one CIO who I held
+directly accountable for our security of all things, not just
+our internet access, but all the other applications we used.
+I'm concerned that with 143, I'm not sure we're going to get
+anywhere near the level of concern we have. How do you feel
+that's going to help us?
+Mr. Corman. I think we're getting the critical mass slowly.
+The Presidential Executive Order on cybersecurity, two quotes,
+The Federal Government ``has for too long accepted antiquated
+and difficult-to-defend IT,'' and, ``Known but unmitigated
+vulnerabilities are among the highest cybersecurity risks
+faced.''
+The DHS' six strategic principles for IoT covers this. The
+Presidential Commission, FDA, Department of Transportation.
+There's a critical mass forming around what some of these are
+and an increased recognition that what we had been doing don't
+work across those federated CISOs to treat the Federal
+Government as an enterprise.
+Mr. Mitchell. Okay. Mr. Eggers?
+Mr. Eggers. Congressman Mitchell, if I may, to your point
+about standards, I think standards are really important. Our
+companies live and breathe by standards. They are successful
+because they use standards that are private sector led,
+industry driven, global in nature very often.
+The thing about the bill--again, the intent about bringing
+secure devices into the government is sound. I think one of the
+things we want to look at is are we scoping the device of the
+definition of internet-connected device adequately? And I think
+the answer is we don't know really yet. I think one of the
+things we'd like to do is talk with groups like NIST, NTIA to
+help inform how we make that decision. It's very broad. It
+could capture low-end devices that really aren't intended to be
+plugged into the bill. It does consider, obviously, devices
+that are at least capable, but should they? It's not clear. In
+many cases, they shouldn't be.
+One of the issues I will--and then I'll finish, is one of
+the issues about tracking vulnerabilities and making patches
+and upgrades is you could find a situation if you're a
+contractor--and that term too is vague--the lengths at which
+they've got to go to track virtually any known vulnerability,
+and there are a lot of avenues for finding those, and you would
+be beholden to quite a notification structure, and so that
+gives me pause. The idea about upgrading is sound, but the
+notification, among other things, gives me pause.
+Mr. Mitchell. Mr. O'Farrell, you had a comment?
+Mr. O'Farrell. Maybe two things. One of them, in terms of
+the--you know, as a taxpayer looking at the Federal Government
+purchasing IoT infrastructure, I would like to know that
+they're getting value for their money, and security is a key
+part of that.
+Mr. Mitchell. Absolutely.
+Mr. O'Farrell. So that's where I see those key guidelines.
+They represent what is a reasonable model around security.
+With respect to the broadness of the definition of IoT,
+yes, I think devices at the edge, they're difficult to
+describe, and they'll probably see opportunity to focus a
+little bit more on describing that, but the legislation does
+describe mechanisms that says, if devices are simple enough
+such that they cannot meet all of the requirements with respect
+to patching and so on, that there are some waivers associated
+with that.
+With respect to describing vulnerabilities, I think the
+bill specifically is trying to imply you should not be
+delivering equipment with known vulnerabilities, and then based
+on patching you get to fix those vulnerabilities, if and when
+they appear and when you find out about them. That's why the
+patching is a critical part of the story when combined with
+recognizing that vulnerabilities will occur.
+Mr. Mitchell. Mr. Ross, you had a comment. The last few
+seconds here.
+Mr. Ross. Sure. I will try to make it quick. But I think,
+you know, as you look at the Internet of Things, it really does
+describe a really broad array of devices, including, you know,
+at one end, sensors that don't even have operating systems and
+are designed to be cheap and mass-produced and can be so, while
+minimizing security risks, depending on how they're deployed in
+a network environment.
+And at the other end, you know, looking at, really, life-
+critical systems, as Mr. Corman has discussed. And I think that
+definition, it's really important that we capture it, because
+there is a cost-benefit equation here. And in some cases, the
+government is going to want to be able to buy devices that are
+inexpensive and mass-produced without having to build in a lot
+of security features that would drive up the cost and make them
+unsustainable. And you think about things like sensors and
+infrastructure that you want to put in place and leave for 50
+years just to tell you, you know, seismic activity over time.
+I think that security standards are very important, but
+being calibrated against risk is what allows us to drive
+security in the most sort of efficient and rational way.
+Mr. Mitchell. One other quick comment and I'll yield back,
+Mr. Chair, is that you mentioned incentivizing them, and in my
+mind, it's also creating systems that the general public
+understands what the government is doing so they can assess how
+they do that. And today's hearings raise concerns for me. I
+have a camera system in my house for security, and to be
+absolutely blunt with you, it's a small town, and I can access
+it on my phone, I'm not sure if it has patches and what they do
+to patch it. I should know better.
+So I'll yield back.
+Mr. Hurd. Mr. Corman, did you have a----
+Mr. Corman. Yeah, I'll be very brief. Some of
+Representative Gianforte's comments, and your own, they kind of
+make the case for what I said earlier about the value of
+software bill of materials. If it is unrealistic to perpetually
+update,if it might cost more money, if the company has gone out
+of business--the camera manufacturer--these things allow at
+least the procurer to assess, am I affected, where am I
+affected, should I unplug it? And there are a series of use
+cases that this would ameliorate or soften with that increased
+transparency.
+Just like a bill of materials or food label, like if you're
+allergic to peanuts or if you're allergic to some sort of food
+and, you know, having some sort of ingredients list allows me
+to make a choice. And if there were a recall, if we did find
+out there was a bad batch of a certain ingredient in the food
+we ate, we know to stop eating it. And such a function could be
+applied to IoT and software as well.
+Mr. Mitchell. Thank you, Mr. Chair.
+Mr. Hurd. Thank you.
+Now I recognize myself, and not necessarily for as much
+time as I may consume, but I'm going to take my time.
+Mr. Ross, maybe we pick up on a comment you just made. If a
+censor doesn't have an operating system, how can it be used in
+a DDoS attack?
+Mr. Ross. So, again, it really depends on--and I think one
+of the things that we need to think about when we're thinking
+about IoT security more broadly is not just how a device
+functions, but how a device fits into a broader network. And,
+you know, Mr. Eggers has mentioned taking a multilayered
+approach. How we build in security at different levels within a
+network can really shape outcomes far beyond the individual
+device. That said----
+Mr. Hurd. But should the person developing that censor take
+those concerns into, as they're developing, how that censor
+works?
+Mr. Ross. I think the person developing the censor needs to
+be able to respond to the demand for the product, and security
+ought to be part of that demand. But you can imagine a
+situation in which you might want to deploy, for example, a lot
+of sensors with limited security built into the devices
+themselves but adopting network solutions that allow you to
+manage security through cloud services, through network
+security mechanisms that use those devices in a controlled
+way,and even patch them through cloud-based services rather
+than patching individual devices.
+You know, the innovation around security approaches to
+securing IoT devices and other devices is incredible. And
+really, you know, we're seeing innovation in the security space
+keep pace with innovation in the product space. In other words,
+there's new approaches to security that we're seeing every day.
+And so I think it's really important, as we craft policy, not
+to limit the ability for those network-based solutions to sort
+of take hold.
+Mr. Hurd. And I'll ask this question again to you, Mr.
+Ross. And then, Mr. O'Farrell, I'd welcome your thoughts on
+this as the software guys here.
+How difficult is the code to have--to update a widget or a
+device that we're considering part of the Internet of Things?
+How difficult is that code to write? Is that standard code? Is
+it something that is open source information out--open sourced
+out there where you pull that module and say, hey, here's how
+we do it? Is there a commonly accepted way of doing that?
+Your thoughts on that. Mr. Ross first, and then Mr.
+O'Farrell, your opinions.
+Mr. Ross. Sure. The two gentleman to my left probably have
+a better technical background to answer that, but I would say,
+you know, 2016 IoT developers survey found about 25 percent of
+IoT devices don't have operating systems. So accepting patches
+and that kind of thing is--you know, without an operating
+system is much more challenging.
+That said, you know, I think the complexity of the codes
+sort of depends on the code base and the product itself and,
+you know, individual manufacturer's approach to coding. But I
+would defer to my more technically savvy colleagues.
+Mr. Hurd. I'll let Mr. O'Farrell and Mr. Corman and Mr.
+Eggers, if you have comments, I'd welcome that on this question
+too.
+Mr. O'Farrell?
+Mr. O'Farrell. So in terms of broader applicability of
+patching, your PC at home is constantly patched. Every cell
+phone that's out there, from evenmajor manufacturers, is
+constantly patched. The applications living on those are
+constantly patched. So the concept of being able to say, is
+patching a well-known function, yes, it is.
+I think where the challenge that Mr. Ross is pointing out,
+you may have a class of devices who are so simple that they
+don't necessarily have the ability to handle a software
+upgrade. They may not even have software at all. They might be
+a very simple device just relaying temperature or something.
+Under those circumstances, then you need to apply other
+techniques. You either need to have that device talk to a
+gateway, and then the gateway itself is patched and secured, or
+you do things with network segmentation or other network
+management capabilities to be able to secure that piece of
+infrastructure.
+Mr. Corman. Just to add to that, some of it's knowing how
+to do secure updates over the air without making that a
+security risk itself. And we do know how to do that. That
+information is available. Some of it is going to raise the cost
+of goods on some of these devices because they need to future-
+proof a larger image than they started with. There are some IoT
+platforms that anticipate and build in the ability to do
+updates securely with encryption. There are some that are
+cheap, maybe too cheap to be safely used. So it's not a zero
+cost, but we know how to do it. Technically, there are
+platforms that could do it, and if we reward those that do.
+And then lastly, the NTIA process for upgradability did say
+it could be an out of station based model, where you say, I am
+patchable, I commit to patching for X years. And that goes into
+the Federal Government's purchasing decision of, if I'm going
+to buy an unpatchable device, I'll have to spend more
+aftermarket, or just choose not to buy it.
+Mr. Hurd. Mr. Eggers, do you have an opinion?
+Mr. Eggers. Yes, sir. Quickly. So I was just going to add
+that I hear from members that much depends on the device and
+where it's supposed to be, with the kind of device, the
+operating environment in which it's supposed to function.
+I think one of the challenges with protecting the Internet
+of Things is we are dealing with legacy devices that really
+weren't ever meant to be connected to the internet. And our
+colleagues will say, hey, then we build a security appliance,
+some kind of protective system firewall, what have you, around
+there.
+So I think, at least in terms of engaging government,
+business to business, a lot of times they will work through
+these tough issues around software upgrading and so forth,what
+devices can do, what are their limitations. And I think that is
+really important to understand. There are certain devices that
+are meant to do some things and devices aren't supposed to do
+other things. And so I think our members, and generally what I
+hear is they're very cognizant about what devices can do and
+where they should go and how they should be protected.
+Mr. Hurd. So would it be fair--and I'll welcome all four of
+our illustrative panel's opinions on this. On this legislation
+when it says the IoT device must be patchable, would adding
+something to the effect of, if it has an operating system, and
+if not, then, X, Y, and Z?
+Mr. Corman. I think the existing bill in the Senate
+anticipates this and allows for waivers and allows for NIST to
+specify compensating controls for devices that can't do this,as
+opposed to maybe making some brittle assumptions that may not
+hold up over time. I do like Ranking Member Kelly's comment
+about keeping some sort of advisory board to keep these vibrant
+and evergreen. I think a lot of the ones in the bill right now
+are evergreen, but we do want to make sure that this is--you
+know, there's no unintended consequences or byproducts of this.
+Mr. Eggers. I would say one of the items about the bill
+that I've noticed that seems to be helpful is it's forward-
+looking, right?We're trying to say, hey, let's project forward
+and say how can we do some things that we know we should do?
+One of the issues that I think has come up with our members
+is the roll that third-party certifications may apply where
+that's applicable. We are in favor of private sector entities
+looking to different labels, certification models, if you will,
+but to have government possibly put a thumb on that scale seems
+to be premature----
+Mr. Hurd. Who is doing that right now?
+Mr. Eggers. Well, you've got different organizations.
+You've got UL. You've got different organizations providing, I
+think, approaches, let's say in Europe.
+The challenge, I think, with this is the speed of the
+threat, the dynamic nature of trying to put, let's say
+contents, we're not clear about what contents would be in that
+label. Would it be proprietary information? What kinds of maybe
+software-related information would be on that label? Can it
+keep up with the threat? And then, at least in our experience,
+once kind of a selection by parts of government take hold, it's
+hard to extract ourselves from that model. Right?
+Mr. Hurd. So is there any scenario current or in the future
+that you can think of where you need to have a password hard
+coded into a device?
+Mr. Eggers?
+Mr. Eggers. You know, I would say at least I've gotten
+positive feedback on the idea that once you receive a device,
+you should be able to change that pass code. That's helpful.
+But to your question, I'd have to get back to you.
+Mr. Hurd. So you've never had a member come to you and say,
+man, I really need to make sure that password is password in
+that device because it's not going to be able to function?
+Mr. Eggers. They would say that that is a bad idea
+uniformly.
+Mr. Hurd. Mr. Ross, do you have an opinion? I know there's
+like a bunch--we're on like three or four different kind of
+questions right now.
+Mr. Ross. Yeah, I know.
+Mr. Hurd. Throw it out there.
+Mr. Ross. Well, let me take your first question first on
+the patching. I think, you know, as you know, when product
+developers are considering how to approach a product, there's a
+few variables that are intentioned, you know. You have
+computing power, battery power, cost, size of the device. You
+add more computing power, you add more cost, you need more
+batteries, you increase size. So I think it's--I'm hesitant,
+when looking at the government's diverse needs for sensors and
+other IoT devices in a variety of different contexts, including
+national security, including infrastructure, I'm hesitant to
+say if you have an operating system, you need to be patched.
+There are tradeoffs that you should make. And considering
+risk in, you know, how you apply security measures I think gets
+you a better outcome. It gets you----
+Mr. Hurd. So on----
+Mr. Ross. --security, you know, built to--calibrated to the
+risk that the devices pose.
+Mr. Hurd. So is there a scenario in which you would advise
+the Federal Government that operating some system that has an
+operating system to not patch that software?
+Mr. Ross. There may be. I mean, there are very small
+operating systems on very small devices, and we may have a need
+as a government. Again, you know, I come from----
+Mr. Hurd. Based on the level of threat or the
+vulnerability?
+Mr. Ross. Right. So I come from a national security
+background. And as you I'm sure know, the Department of Defense
+and the intelligence community, they want to put sensors on
+everything. And I've heard goofy proposals about putting
+sensors on cows to track their movements with pneumatic herders
+and see where those herders go. It happens.
+The ability to deploy----
+Mr. Hurd. I may have been involved in a few of those
+conversations, by the way.
+Mr. Ross. Yeah. So, you know, the ability to deploy cheap
+mass-produced devices that may not pose a risk, a substantial
+risk to life, public safety, the economy and so on, may be a
+trade off that we want to be able to make for other purposes.
+And I think, again, it's not to say that there shouldn't be
+standards;it's to say that the standards should be more nuanced
+than one size fits all, that there should be a risk framework
+that governs how standards are applied.
+So back to your second question, I'm not sure that I can
+conjure up a scenario where a hard-coded password might be
+appropriate. The one thing I would say is that we have--you
+know, as you know, you're the champion of the modernizing
+government IT act that we desperately need. The government is
+using systems, and I'm sure I could read this off of the
+talking points around the legislation, that are 50 years old or
+older.That's true in a lot of different contexts. And many
+systems, you think about industrial control systems, are built
+to last a very long time. And what we're doing now is we're
+applying software and other devices retroactively to help
+manage those systems.
+I know that we've heard from some of our members that
+managing those systems that are, you know, themselves very old
+and based on out-of-date protocols and that kind of thing,
+require solutions that may not be, you know, within the
+confines of the security standards on this bill.
+That said, I don't have any specific use cases in which a
+hard-coded password would be necessary to the function of those
+kinds of devices.
+Mr. Eggers. And if I may, Mr. Chairman, come back to my
+answer about the need for, let's say, taking a device and
+changing the pass code so it's harder for a bad actor to
+commandeer that device. So I said uniformly it would be a bad
+idea. I think, generally speaking, most of our folks would say
+that's a bad idea.
+I do wonder, because it has been raised, about, let's say,
+the nature of a device, let's say in a medical situation where
+access to that device in an emergency setting, let's say, you
+need to get in, you need to operate it, and if there are
+challenges with, let's say, the credentials, what have you,
+it's one thing that's come up. So I would say maybe, like a lot
+of things where we operate really in a zone of gray, that's one
+thing I might just flag. But on balance, you don't want a bad
+actor to easily commandeer your device.
+Mr. Hurd. Mr. Corman?
+Mr. Corman. Just building upon what's been previously said.
+We looked at the medical device for safety critical emergency
+access extensively on the congressional task force for the last
+year and a half. There's a difference between having a hard-
+coded unchangeable fixed password that adversaries can guess
+and take advantage of and the ability to go back to a factory
+default or a safe mode or emergency override with physical
+access.
+So I hear that come up often as an excuse, I'm not saying
+it's being used that way this time, but no one's saying you
+shouldn't be able to get to a factory default mode. It's more a
+matter of are we making it incredibly easy to be herded into a
+botnet.
+And Mirai had to publish its source code after it was done.
+So even though the first attacks were cameras, one of my first
+calls was to the Food and Drug Administration to say that the
+three defining characteristics of Mirai were it was internet
+facing, it had a fixed password that was guessable, and it was
+unpatchable. And I just described most connected medical
+equipment, including half-million-dollar imaging systems and
+bedside infusion pumpshooked up to people. You can Google these
+passwords.
+So one thing I wanted to clarify is there's a difference
+between being able to reset them versus how exposed we are with
+the current condition.
+The second thing is, I'm fully onboard with a risk-based
+decision. It's come up several times. What I want to extend to
+that, though, and clarify is risk to whom. Because the risk of
+you buying your internet-based camera is--who cares if your
+camera gets hacked for you. The risk with the externalities and
+the tragedy of the commons, that the collective might of all
+those were able to hurt someone else.
+So we should absolutely do risk assessments. But if we
+narrowly hone in on what's the use case of the buyer as opposed
+to what's the collective hygiene public health issue of those
+being herded into a collective might, that must be part of that
+risk association.
+Mr. Hurd. Mr. O'Farrell, close out the time that I do not
+have.
+Mr. O'Farrell. Okay. With respect to the password question,
+I think if a device needs a password, a hard-coded password
+effectively means you've no password. So if the device has a
+password at all, then a hard coded one does not work for that.
+Thinking through to devices, yes, on the extreme sensor
+side of devices, your devices with no operating system, and I
+would argue, they are not really connected to the internet.
+They are in turn connected to other systems which connect to
+the internet, and they're the systems which then need to be
+protected. But if the device itself is connected to the
+internet or backed into a data center over TCP/IP or some
+equivalent protocol, broadly speaking, it will probably have an
+operating system or at least needs to be protected using a
+gateway or something else.
+Mr. Hurd. Thank you.
+And we're now round two. Robin Kelly, you're now recognized
+for your next 5 minutes.
+Ms. Kelly. Oh, only five for me, huh. Okay.
+There's no doubt in my mind that Congress must establish
+cybersecurity standards to protect internet-connected devices
+from hackers and bad actors, but I also understand the other
+side that, you know, there's concern about rigidly crafted
+regulations that would stifle innovation.
+Mr. O'Farrell, do you believe that the Federal Government
+can develop IoT cybersecurity without too much stifling of
+innovation?
+Mr. O'Farrell. So I believe that in the context of the
+proposal where you're trying to establish what are really
+pretty basic security rules are basically a kind of a rules of
+the road for what the Federal Government should be doing for
+procurement. I think the balance of being able to establish
+those rules and making sure that you're basically getting value
+for money against any potential curtailing of innovation, I
+think is a good balance. These are pretty basic rules. They are
+not going to some inappropriate level of constraint.
+Ms. Kelly. And Mr. Corman had made the comment he thought
+that the advisory board was a good idea. Do you agree with that
+assessment?
+Mr. O'Farrell. Yes, I do. I think partially one of the
+challenges with Internet of Things and anything having to do
+with cyber moving forward is, as several people have pointed
+out, you do not know what the threat of tomorrow is going to be
+and you do not know what adoptive level of security you're
+goingto have to bring. So an advisory board would help to be
+able to surface those and react to those before they become a
+real problem.
+Ms. Kelly. Okay. And, Mr. Corman, the Senate version
+already has the waiver process. Do you think that's a good idea
+and would ease some concerns?
+Mr. Corman. To a certain extent. One theory I have is the
+notion that you can't sell a product with known vulnerabilities
+unless you get a waiver. I think it'll be the norm that on any
+given day that you sell you will have some known vulnerability.
+So we want to make this as streamlined as possible. That's why
+I err on disclosing, in other words, avoiding a failure to
+warn. And, you know, the expectation of patching or the
+ingredients list to know if you need to, even if your vendor
+doesn't warn you or can't.
+So the ability to have a pressure release valve of a waiver
+process makes sense, because then the agency is explicitly
+accepting that risk and can do other things to swarm and
+surround that. But I'd want to make sure that the common path
+is the easy path is the safe path. And waivers may just be a
+way to undermine this, so I tend to favor carrot and stick. FDA
+did something where they essentially said, if you have a
+disclosure program and you can fix your issue in 30 to 60 days,
+then you don't have to go through a recall process. Kind of
+being very clever to say the safe thing is easy thing.
+So you can do it however you want, but you're going to want
+to do it this way. And my only comment on the waivers is let's
+make sure that they're rare and necessary as opposed to
+burdensome and slowing down the Federal Government.
+Ms. Kelly. And we all know that, as much as we try, no
+piece of legislation is perfect, so I wanted to give each of
+you a chance to make a suggestion toward this legislation.
+Mr. Eggers?
+Mr. Eggers. Yes, ma'am. Thank you for asking.
+I will confess I have not looked at the advisory board idea
+in detail, but I will. I'm more familiar with the Senate bill.
+I might even suggest, maybe if there's one thing to take away
+at least from my thoughts here today, it's that maybe going
+broader than an advisory board. And what do I mean by that is
+we found that the Commerce Department can play a really
+powerful role--NTIA, NIST in particular--to bring multiple
+stakeholders. The four of us are just a portion of that.
+What they can do--and I think the NIST cyber framework
+effort is a good model. They brought folks together. They're
+able to say, here's what our interests are. They were
+consulted. They provided input. There's a lot of back and
+forth, right? It was quality input-output. I think industry
+bought it in a major way. We may need to do that here. We are
+supportive of that.
+I think that the Commerce Department--I don't want to speak
+for them, but I think they would be open to that idea. One
+thing I might suggest is it's not clear if our friends at NIST
+and NTIA have the resources they need to carry that forward.
+One thing I might suggest is we look at what they may need, we
+may want to consult with them, hey, maybe it doesn't need to be
+as big as the framework effort where we have about maybe 5 to 6
+workshops in the span of about 13 months.
+But here's what I took away: Industry played a big role. So
+did government. Our members bought in, by and large. I can go
+out, and we do, we promote that framework to about six major
+chambers, State, local chambers, every year, lead up every year
+to a summit. So we're able to promote that tool, not only
+domestically to our businesses, but as a model globally. And
+that's one of the things we're aiming to, is that we have a
+process, a model that can work for business wherever they are
+on the globe. Thank you.
+Ms. Kelly. Thank you.
+Mr. Ross. Thank you, Member Kelly. If I might, I'd offer
+three things. First of all, I think it's a very promising piece
+of legislation, and, you know, we think the idea of the
+government using its purchasing power to drive security makes a
+lot of sense. So these are offered in the spirit of improving
+that legislation.
+Number one, the definition of internet-connected devices,
+as I've been suggesting, I think needs to reflect risk. And I
+know that NIST is working on looking at a risk-tiering or a
+categorization of IoT devices. I think that's maybe something
+that can be built upon in the definition.
+Second of all, I think we really like the emphasis on
+security research and coordinated vulnerability disclosure. But
+there are some refinements that we would like to see to make
+sure that patches can be fully deployed before vulnerabilities
+are disclosed to the public.
+And then the third thing, I'm not sure exactly how you get
+this in the legislation, but what we would not want to see is
+any set of standards become sort of the new lowest bar where,
+you know, that leads to acquisition workforce to buy products
+that are the cheapest possible as long as they meet the bar. We
+want to see competition for better cybersecurity and the
+government buying for value, not just for lowest cost. And I
+think the more we can do to incentivize that, the better off
+we'll be.
+Ms. Kelly. Thank you.
+Mr. Corman. I love the question. I appreciate it being
+asked. Thank you.
+I mean, clearly, I proactively mentioned there's tremendous
+value in a list of ingredients for free market choice at
+purchase time to tell better products from worse, to answer am
+I affected and where am I affected, when there's an active
+attack in the wild that you might be able to actually defend
+yourself against, and for the devices that have gone out of
+business, the manufacturers, the ability to defend yourself in
+those important use cases.
+And if I were to add to that, there is a technical standard
+being discussed called MUD, or Manufacturer Usage Description.
+It's a very elegant, very simple idea that a device--every
+device--would advertise to the network this is the man I need
+to talk to and this is the port I need to speak on. And if
+other devices in the network noticed it was doing something
+else, it must be compromised. It's something that on its own
+may not get as much adoption, but were this part of a
+government procurement wish list or fast track or incentivized,
+it could be promising. It's not very robust now, but I like the
+concept. And it could go even furtherand leverage free market
+innovation. I think this idea came out of Cisco, if I recall.
+And then just a little caution on the disclosure idea, I do
+agree that great care has to be done on the notion of safe
+harbor for coordinated vulnerability disclosure. And in my
+written testimony, I cautioned against MPVD reinventing the
+wheel. There's been significant and robust debate with the
+Librarian of Congress, the Copyright Office,who is recommending
+that the current exemptions to the MCA for research that
+allowed or enabled the voting machines, medical, to get the
+strength of law and be made permanent.
+I would not want to undo some of those really subtle
+nuances, nor would I want to tie that to the availability to
+patch first. There are many devices that cannot be patched, but
+it's still meaningful to know, to shield yourself, and insulate
+yourself. So rather than designing that right now, I would be
+happy to comment further, but I think that that last well-
+intended suggestion could backfire in unanticipated ways that I
+could articulate.
+Ms. Kelly. Thank you.
+Mr. O'Farrell. Thank you very much for the opportunity to
+comment on improvements to the bill.
+I think I see two areas. One of them is related to the
+definition of IoT devices themselves. As you can see, it's an
+area of quite a few questions, but specifically, it points to
+those IoT devices which are being procured by the Federal
+Government for use by the Federal Government. I think it would
+be good to clarify that, if that was to be extended further in
+some way, that that would be done in cooperation with industry.
+So the advisory board, part of that, or even strengthening
+that in some way to say that we're dealing in this world, which
+is going to be highly adoptive and highly volatile and,
+therefore, we need to constantly keep working with industry as
+we come up with new standards or new rules of the road. I would
+like to see that incorporated a little bit more strongly in the
+bill.
+Ms. Kelly. Thank you. And I'm done.
+Mr. Hurd. Mr. Raskin, you're now recognized for an
+additional 5 minutes.
+Mr. Raskin. Thank you, Mr. Chair.
+Ms. Kelly asked one of the questions I wanted to ask and
+maybe--no, it's an excellent question, Ms. Kelly.
+But I did want to ask a similar kind of question which is,
+at a time when the crises facing the country are multiplying--
+you know, we had the worst act of mass gun violence, random gun
+violence in our history a couple days ago; we've got millions
+of Americans still without power, without water, facing very
+perilous conditions in Puerto Rico and the Virgin Islands and
+so on--how would you express to the public the importance and
+the urgency of what it is you've come to testify about? How
+would you explain to people why this is something that really
+requires our attention?
+Mr. Eggers?
+Mr. Eggers. Sure. Yes, sir. Thank you.
+I think it's pretty simple:We want the IoT to expand and be
+successful. We think it's going to lead to economic growth and
+to jobs, but to do that we have to manage risks, smartly. I
+think that the bill here provides an opportunity for a dialogue
+around these important issues.
+One of the things that we're going to do is we're going to
+provide the committee, at least I anticipate that we'll do it
+relatively soon, thoughts on the provisions, at least in the
+Senate bill, and then we'll move on from there. But I
+appreciate the opportunity to provide our thoughts.
+But I think, if anything, we want to make sure businesses
+gain as they're producing securely, and so will consumers. But
+I think we have to manage risks as we expand the IoT. Thank
+you.
+Mr. Raskin. Anybody else? Mr. Corman?
+Mr. Corman. One of the lines I put in the Presidential
+testimony, which was in August last year, has become more true
+every single day with NotPetya, with WannaCry. And I'm going to
+read it verbatim. I said: Through our overdependence on
+undependable things, we have created the condition such that
+the actions of any outlier can have a profound and asymmetric
+impact on human life, economic, and national security.
+That was a concern of things coming. If you look at
+healthcare as a sixth of our economy, there's a promise and a
+peril to these things. But in a sixth of our economy, connected
+medicine is creating new cures, it's dropping the costs, it's
+increasing access.
+If we are cavalier about risks like this, any crisis of
+confidence in the public to trust these things could have a
+very deleterious effect on, not just patient safety, but the
+economy.
+And further, imagine something like the Harlem Presbyterian
+outage or the WannaCry outage, during a shooting, during a
+Boston Marathon bombing, during an earthquake or hurricane
+relief when we need it most. So this is something we have--back
+to overdependent on undependable IT. Our failure rate is about
+100 percent on highly replaceable assets like credit cards. And
+even though we haven't dramatically improved our cybersecurity
+on those tolerable losses, we have increased our dependence on
+these safety critical and national security things.
+So without being dire or doom and gloom, we've run out of
+runway for these low consequence failures. And I think it's not
+just that we want economic growth, it's that we want the
+confidence of the public and the national security intact.
+Mr. Raskin. Thank you.
+Mr. O'Farrell?
+Mr. O'Farrell. Yeah. Maybe to echo a little bit, I think
+the reason why this is important is because IT security today
+is, to a large degree, around privacy or ensuring that
+financial or other transactions take place securely.
+IT security in the context of IoT is going to be around
+real factories, healthcare, things which directly affect the
+economy, things that directly affect the day-to-day life within
+a city. And because of that, compromise or damage associated
+with those are going to real--and much more impactful in a
+very, very real way. You have an opportunity to react to a
+privacy breach of some sort. You do not have an opportunity to
+react if a factory is brought down or if there's real danger
+put into a city because of traffic system's been hacked or
+something like that.
+This is why it's important. We're early in the days. IoT is
+a fledgling story at this stage. So you have an opportunity to
+build in some security from the very beginning rather than
+dealing with it after something really bad happens.
+Mr. Raskin. Mr. Ross?
+Mr. Ross. Sir, I would say we can get this wrong in two
+different directions. One would lead us to lose the benefits of
+innovation, and the other would lose the benefits of
+globalization.
+You know, it's not just the physical risks that these
+devices turned against us can pose, it's also losing out on the
+cutting edge scientific research that these devices are
+offering or the benefits to public health or the benefits to,
+you know, critical infrastructure and that kind of thing. And
+if we don't protect them from cyber attacks, we lose those
+benefits.
+On the other hand, if we go too far and we adopt indigenous
+standards that put us at odds with the rest of the world, and
+we close off the internet and we segment and fragment, we lose
+the ability to transact business around the world and the
+benefit to our economy that that brings us.
+Mr. Raskin. Thank you.
+Mr. Chairman, I also wanted to take a second to thank you
+for calling this hearing today. Unsecure IoT devices pose
+significant risk to our national security and can have
+devastating consequences, as Mr. Corman said. So I think that
+the Internet of Things Cybersecurity Act is a great first step
+to protect federally procured IT devices and sensors from cyber
+attacks.
+And I want to thank Representative Kelly for excellent
+legislation, and I do strongly support her bill.
+Mr. Hurd. Thank you, Mr. Raskin.
+And some final questions from me. How do we prevent--if we
+say you have to be this tall, from that staying--that that's
+the floor--or that would be the ceiling, actually, how do we
+make sure that we continue--that industry continues to follow
+good digital hygiene?
+Mr. Corman. We did encounter this at the PCI data security
+center, the effort to set a minimum, and we got one, right. It
+almost caused a race to the bottom, and we don't want to cause
+that.
+I think that's why the language we use here is critically
+important. And I think it's an ``and.'' I don't think it's, do
+you do in this, private sector, public-private partnership or
+some minimum hygiene to protect your own interests right now,
+especially with time being the enemy.
+If these thing are evergreen, like never have a password
+you can't change, we can act on that and we can encourage best
+practices, carrots and sticks, preferential purchasing, with a
+parallel effort that does leverage things that can be layered
+on top of it. It is always a risk. We need to define a minimum
+that you get it. That's why we have to be very careful,
+conscientious here that this is something to do the 80/20 rule
+now. It can't be the finish line.
+Mr. Hurd. Mr. O'Farrell?
+Mr. O'Farrell. So I don't think we should be afraid to set
+the minimum. And some of these minimums here are pretty basic
+and----
+Mr. Hurd. Pretty minimum, huh?
+Mr. O'Farrell. Pretty minimum. And so we should not be
+afraid to set those as minimums because we fear, you know,
+we're not going to be able to do more as it is appropriate. I
+think the most important thing though, as it is appropriate,
+does require a lot of interface with industry.
+Obviously, I am part of a company who produces a lot of
+software. I want to be able to have a seat at the table to be
+able to say, what are the guidelines that we need to follow,
+how are we going to secure that, and so on. So being involved
+in that and involving industry is very important. That does not
+mean we should not be afraid to set this bare minimum, which
+is, you know, based on what NIST or what some basic cyber
+hygiene is in place today.
+Mr. Hurd. Mr. Eggers and Mr. Ross?
+Mr. Eggers. Mr. Chairman, I might just add that I'm always
+a little concerned, at least I hear concerns expressed from
+members about minimums and maximums, only because the
+environment moves so quickly.
+One of the things that I think we want to try to do is
+encourage demand for stronger devices, right. And that may mean
+that maybe they're more expensive, maybe not. We want makers of
+devices and those that provide manage services and so forth to
+gain from that extra security.
+One of the things I think about when I start hearing
+minimums and maximums is, are we in this space going to set
+some kind of check-the-box formula where it, A, might give us a
+false sense of security? Maybe with that false sense of
+security we are not deploying resources optimally. We've seen
+that happen.
+The other thing is, it's not clear where a minimum goes to
+maybe a higher level. Much depends on the implementation. One
+thing we have seen is once regulation sort of get going, they
+are hard to pull back and harmonize. And that's one of the
+things we're struggling with now.
+Mr. Hurd. I'm assuming Equifax didn't have a high enough
+minimum, right? You know, and so we--yes, there should be a--I
+get the fear. Because my goal is that Congress never gets in
+the way of entrepreneurship and growth, but it's being made
+hard when private sector companies are not following basic
+digital system hygiene. Nobody opted in for their information
+to be in Equifax, right? And so I get that frustration. But
+then your members need to get their act together.
+Mr. Eggers. So let me offer a thought. I think you're
+concerned--I'm not going to argue with your concerns, but
+here's what I hear from members. So I think one of the things
+we don't do a good job with is whether it's OPM, SEC, Equifax,
+and other entity,we're going to have more,we don't do a great
+job of creating a safe space where an organization can come in
+as soon as they think that there's something wrong and say,
+here's what's going on. Rather than having an environment where
+they're having a finger pointed at them, and you're saying, why
+did you let this happen,we say, hey, we'll get to that. What
+can we do to help make things better so we can pull in
+information, in a voluntary way, and we can learn and get that
+information out to other organizations?
+I honestly haven't learned enough about what's happened
+with some of these recent breaches to really have a firm sense
+that I can comfortably say that one organization did very, very
+poorly and one didn't. I understand that organizations have had
+challenge, but sometimes we don't know the full picture. And we
+haven't, at least one thing is, bills like this don't
+necessarily contemplate what are we going to do about the bad
+guys, right? What are we going to do about pushing back on bad
+actors?I think deterrence, at least through denial, stronger
+devices are some, but what are we also going to do to make an
+example of bad back actors?So they think, for example, hey, I'm
+not going to do this again.
+Mr. Hurd. Mr. Ross?
+Mr. Ross. Mr. Chairman, two points. I think one, you know,
+we focused a lot on minimum standards today. Part of my
+suggestion about a risk-based framework is thinking about
+higher risk devices as well. And, you know, we may decide we
+don't want to make sure certain devices are patchable or have
+hard-coded passwords at the very low end. But at the high end,
+not having a hard-coded password may not be enough. We may want
+to insist upon two-factor authentication or other identity-
+management approaches that are much stronger than just not
+having a hard-coded password. So I think that's one important
+thing.
+The second thing is, if we want minimum standards for
+government procurement or any other sorts of standards to drive
+or sort of race to the top for cybersecurity, market mechanisms
+are really important. And part of that means that consumers,
+both at the enterprise level and on an individual household
+basis, need to have information to make informed decisions that
+factor in security. And right now, we don't have sufficient
+tools to get information to consumers in ways that they can
+understand and act upon. So I think that's another really
+important part of the solution.
+Mr. Hurd. Mr. Corman.
+Mr. Corman. You know, I almost wanted to bring up Equifax,
+but obviously Equifax is not an IoT device. That said, the
+cause here was a known vulnerability that was able to be
+remediated but wasn't. It's very similar to this rubric, right?
+A known but unmitigated vulnerability.
+To the point raised just now, though, there is a tongue-in-
+cheek, much shorter bill we could do, if we want to avoid being
+prescriptive. We could have a bill that basically says, let the
+free market do whatever the heck it wants, you are liable for
+all damages caused by a known vulnerability or a default
+password.
+It's as free market and open to interpretation, as you
+want. You can be a risk taker, you can be a risk avoider, you
+can change the cost of goods. A little tongue-in-cheek, but to
+a certain extent, we have to decide what's reasonable and
+what's appropriate for the shared responsibility model of the
+goods that we're inheriting.
+So we don't have to necessarily tell them what to do. I
+think these ones are pretty evergreen, as we've testified thus
+far. That said, if we want the criteria to change over time,
+I'dlike to remind everyone listening, not just the committee,
+this is a statutory authority. I believe we're going to get
+software liability through case law. I think a jury of their
+peers is going to find that harm caused to a loved one due to a
+software defect is no different than harm caused by a physical
+defect. And we will get case law introducing something, whether
+or not there's a regulatory or a purchasing procurement
+document.
+So part of the virtue of this particular experiment and
+this leading by example with procurement guidelines, is I
+believe, and I said this in my testimony as well, this could
+create a rubric that could be a safe harbor clause for any case
+law around this.
+So rather than fighting it or wondering what it might do
+badly, I think it creates a very tenable, intractable building
+block for the private sector to insulate their harm and
+insulate their maximum liability. They don't like that at
+first. I think in the fullness of time, we're going to see this
+not come through statutory but through case law.
+Mr. Hurd. Thank you.
+Will the gentleman from the Commonwealth of Virginia be
+interested in asking questions or making comments?
+Mr. Connolly. I would. Thank you, Mr. Chairman.
+Mr. Hurd. And he is recognized for the final 5 minutes.
+Mr. Connolly. I thank the CHAIR.
+And let me follow up on what you were just saying, Mr.
+Corman. I take your point, and it may be the way to go. But on
+the other hand, statutory action influences case law. And not
+having a statute means that a court in some ways has to itself
+impose minimum standards if it's going to find liability. And
+so that's not always a desirable outcome from a legislative
+point of view.
+You may want to comment on that.
+Mr. Corman. There was a significant discussion on this in
+the Presidential Commission on Enhancing National
+Cybersecurity, which did ask the Department of Justice to
+explore the current state of the law with regards to software
+liability, just as an uncomfortable truth.
+One of the discussions that went in great detail is that if
+a court is doing this in a vacuum, if they place the liability
+in the wrong place, it could have devastating effects on the
+software industry. For example, most of these vulnerabilities
+that are exploited are in third-party, open-source code that
+are 100 percent volunteer. So if you were to place
+responsibility for all the harm caused by Heartbleed when it
+hit the Federal Government April a few years ago, on the poor
+guy who introduced the code at 4:00 a.m., on New Year's Day, no
+one will ever contribute to open source again. And since 90
+percent of the software in closed source in commercial goods
+it's open source, you would have just single handedly destroyed
+the software industry. And that's not actually a big stretch
+for a nontechnical jury.
+Mr. Connolly. True.
+Mr. Corman. Yeah.
+Mr. Connolly. But, you know, in some of this discussion one
+would think--let's take Equifax--that it's Equifax that's the
+victim. Well, 143 million people are also victims. They've had
+their data compromised. And where do they seek redress?
+Your argument that it's a free market, I heard you say,
+maybe tongue-in-cheek, but an absolute free market doesn't
+necessarily protect the other victims who've had their
+financial information compromised.
+Mr. Corman. It's my sincere belief that a few years from
+now, whether we chose to do it or are forced to do it, we're
+going to end up with a rubric that people are not responsible
+for zero day attacks from China, but they are absolutely
+responsible for known avoidable vulnerabilities. I think
+everything is going to hinge on what was known and avoidable.
+Mr. Connolly. Well, you know, GAO in a series of reports
+basically found, and I quote: ``While there are many industry-
+specific standards and best practices that address information
+security, standards and best practices specific to IoT
+technologies are still in development and not widely adopted.''
+Now, Congress, generally in this sphere, has been reluctant
+to legislate, actually. Some would criticize us for being too
+reluctant. But that kind of finding suggests, as the chairman I
+think was indicating, either industry adopt some industry-wide
+standards that people can adhere to that give us some comfort
+in protecting the citizens we represent, or we have to do it.
+Mr. Ross.
+Mr. Ross. Congressman, if I might. I think it's a great
+point. I think we will get maximum bang for the buck when those
+standards are international standards, because so many devices
+are produced overseas. And I think there is a gap. There's a
+gap, for example, you know, there is a proliferation of
+different types of operating systems for IoT devices, and that
+has a real impact on their security. Having a--you know, having
+international standards around IoT operating systems might be
+something we ought to explore. And I think the government can
+play a big role in supporting efforts to develop international
+standards.
+And that's something we haven't looked at nearly enough, in
+my view, because, you know, a lot of times international
+standards are developed on the side by people who, you know,
+work in the industry and try to come up with an international
+standard in their free time. That can't be how we approach
+security. We need a much more focused approach on identifying
+where there are gaps or where standards are out of date and
+really putting some support behind developing them in the
+international context.
+Mr. Connolly. And that's a good point. I would just say,
+keep in mind that if this isn't done with some robustness by
+the private sector, sooner or later the public sector will be
+under enormous pressure. For example, if there ever is
+something that we kind of agree is a cyber Pearl Harbor, the
+shutdown of the electric grid, or the banking system, writ
+large, the public pressure on us to do something will be
+enormous.
+And so some sense of urgency, it seems to me, is really
+important within the private sector to get some kind of basic
+standards that people buy into that are reassuring, that aren't
+just, you know, PR, but that actually provide some protection
+that is measurable and testable.
+Absent that, I fear that some day it will be done for you,
+because the pressure will be so great after some incident,
+Equifax apparently isn't it, but it was big enough that it got
+a lot of attention. And I just fear that when that day comes,
+absent private sector activity, you're going to see tremendous
+pressure on the legislative branch to protect the public.
+Mr. Ross. Congressman, I fear that too. I think the one
+thing I would say is that it doesn't necessarily have to be the
+private sector taking action versus the public sector, but the
+private sector and the public sector working together is really
+powerful. And I think what we've seen, you know, within this
+framework is that industry and government got together on a
+framework that has proved very valuable by all accounts. But
+it's now, you know, the government and the private sector
+together are also now taking it to the International
+Organization of Standardization and seeking to internationalize
+it as a standard. And I think that's a great model for how we
+can explore IoT cybersecurity, but also other areas where we
+really need to fill in the gaps on international
+standardization for security.
+Mr. Connolly. And I know my time is up, but I would agree
+with you. I think that's a preferable way to go, but it's got
+to be robust, it's got to be measurable and testable, it's got
+to be reassuring to the public and most of the stakeholders.
+Otherwise when something happens, that will be found to have
+been as inadequate as it is.
+Mr. Ross. Absolutely.
+Mr. Connolly. I thank the chair.
+Mr. Hurd. Thank you, sir.
+And I'd like to thank our panel of witnesses today. This
+really was an invaluable conversation. I always feel when I
+leave a hearing with just as many questions as answers, it's
+actually a good thing. And so thanks for taking the time,thanks
+for y'all's perspective.
+And the hearing record will remain open for 2 weeks for any
+member to submit a written opening statement or questions for
+the record.
+And if there's no further business, without objection, the
+subcommittee stands adjourned.
+[Whereupon, at 4:08 p.m., the subcommittee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

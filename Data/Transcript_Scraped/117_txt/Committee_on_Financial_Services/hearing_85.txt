@@ -1,0 +1,1245 @@
+- KEEPING UP WITH THE CODES: USING AI FOR EFFECTIVE REGTECH
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+KEEPING UP WITH THE CODES:
+
+USING AI FOR EFFECTIVE REGTECH
+
+=======================================================================
+
+HYBRID HEARING
+
+BEFORE THE
+
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+OF THE
+
+COMMITTEE ON FINANCIAL SERVICES
+
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+MAY 13, 2022
+
+__________
+
+Printed for the use of the Committee on Financial Services
+
+Serial No. 117-85
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+47-880 PDF           WASHINGTON : 2022
+
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+MAXINE WATERS, California, Chairwoman
+
+CAROLYN B. MALONEY, New York         PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York             Ranking Member
+BRAD SHERMAN, California             FRANK D. LUCAS, Oklahoma
+GREGORY W. MEEKS, New York           BILL POSEY, Florida
+DAVID SCOTT, Georgia                 BLAINE LUETKEMEYER, Missouri
+AL GREEN, Texas                      BILL HUIZENGA, Michigan
+EMANUEL CLEAVER, Missouri            ANN WAGNER, Missouri
+ED PERLMUTTER, Colorado              ANDY BARR, Kentucky
+JIM A. HIMES, Connecticut            ROGER WILLIAMS, Texas
+BILL FOSTER, Illinois                FRENCH HILL, Arkansas
+JOYCE BEATTY, Ohio                   TOM EMMER, Minnesota
+JUAN VARGAS, California              LEE M. ZELDIN, New York
+JOSH GOTTHEIMER, New Jersey          BARRY LOUDERMILK, Georgia
+VICENTE GONZALEZ, Texas              ALEXANDER X. MOONEY, West Virginia
+AL LAWSON, Florida                   WARREN DAVIDSON, Ohio
+MICHAEL SAN NICOLAS, Guam            TED BUDD, North Carolina
+CINDY AXNE, Iowa                     DAVID KUSTOFF, Tennessee
+SEAN CASTEN, Illinois                TREY HOLLINGSWORTH, Indiana
+AYANNA PRESSLEY, Massachusetts       ANTHONY GONZALEZ, Ohio
+RITCHIE TORRES, New York             JOHN ROSE, Tennessee
+STEPHEN F. LYNCH, Massachusetts      BRYAN STEIL, Wisconsin
+ALMA ADAMS, North Carolina           LANCE GOODEN, Texas
+RASHIDA TLAIB, Michigan              WILLIAM TIMMONS, South Carolina
+MADELEINE DEAN, Pennsylvania         VAN TAYLOR, Texas
+ALEXANDRIA OCASIO-CORTEZ, New York   PETE SESSIONS, Texas
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+NIKEMA WILLIAMS, Georgia
+JAKE AUCHINCLOSS, Massachusetts
+
+Charla Ouertatani, Staff Director
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+BILL FOSTER, Illinois, Chairman
+
+BRAD SHERMAN, California             ANTHONY GONZALEZ, Ohio, Ranking
+SEAN CASTEN, Illinois                    Member
+AYANNA PRESSLEY, Massachusetts       BARRY LOUDERMILK, Georgia
+ALMA ADAMS, North Carolina           TED BUDD, North Carolina
+SYLVIA GARCIA, Texas                 TREY HOLLINGSWORTH, Indiana
+JAKE AUCHINCLOSS, Massachusetts      VAN TAYLOR, Texas
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on:
+May 13, 2022.................................................     1
+Appendix:
+May 13, 2022.................................................    21
+
+WITNESSES
+Friday, May 13, 2022
+
+Greenfield, Kevin, Deputy Comptroller for Operational Risk
+Policy, Office of the Comptroller of the Currency (OCC)........     4
+Hall, Melanie, Commissioner, Division of Banking and Financial
+Institutions, State of Montana; and Chair, Board of Directors,
+Conference of State Bank Supervisors (CSBS)....................     5
+Lay, Kelly J., Director, Office of Examination and Insurance,
+National Credit Union Administration (NCUA)....................     7
+Rusu, Jessica, Chief Data, Information and Intelligence Officer,
+Financial Conduct Authority (FCA), United Kingdom..............     9
+
+APPENDIX
+
+Prepared statements:
+Greenfield, Kevin............................................    22
+Hall, Melanie................................................    38
+Lay, Kelly J.................................................    46
+Rusu, Jessica................................................    52
+
+Additional Material Submitted for the Record
+
+Foster, Hon. Bill:
+Written statement of the Alliance for Innovative Regulation..    60
+Written statement of the Data Foundation.....................    66
+Written statement of the National Association of Federally-
+Insured Credit Unions......................................   184
+Garcia, Hon. Sylvia:
+Written responses to questions for the record from Kevin
+Greenfield.................................................   187
+Written responses to questions for the record from Kelly Lay.   189
+Gonzalez, Hon. Anthony:
+Written statement of Security Scorecard......................   190
+Maloney, Hon. Carolyn:
+Written statement of Security Scorecard......................   190
+
+KEEPING UP WITH THE CODES: USING
+
+AI FOR EFFECTIVE REGTECH
+
+----------
+
+Friday, May 13, 2022
+
+U.S. House of Representatives,
+Task Force on Artificial Intelligence,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 9 a.m., in room
+2128, Rayburn House Office Building, Hon. Bill Foster [chairman
+of the task force] presiding.
+Members present: Representatives Foster, Sherman, Adams,
+Auchincloss; Gonzalez of Ohio, and Loudermilk.
+Chairman Foster. The Task Force on Artificial Intelligence
+will now come to order.
+Without objection, the Chair is authorized to declare a
+recess of the task force at any time. Also, without objection,
+members of the full Financial Services Committee who not
+members of this task force are authorized to participate in
+today's hearing.
+Today's hearing is entitled, ``Keeping Up with the Codes:
+Using AI for Effective RegTech.''
+I now recognize myself for 5 minutes to give an opening
+statement.
+Thank you, everyone, for joining us today for what should
+be a very interesting hearing of the task force. Today, we are
+looking to explore how different financial regulators have been
+leveraging AI technology to improve their regulatory and
+supervisory efforts. The use of artificial intelligence (AI)
+and machine learning (ML) by financial institutions, known as
+RegTech, as well as the use of AI and ML by financial
+regulators, known as SupTech, are two areas that are rapidly
+gaining regulatory focus.
+To give our audience some idea of what we are talking
+about, imagine that a regulator comes up with a simple, rules-
+based method for automatically generating, say, suspicious
+activity reports (SARs). Such a system will soon be flooded
+with false positives, that is, activities that appear
+suspicious but are in fact not. So, an experienced human
+regulator will then be assigned to sort through these to
+determine which are spurious and which are truly suspicious
+activities.
+And this will rapidly generate what is called a tag, a
+dataset that can be used by machine-learning algorithms to
+approximately replicate the human's complex judgment at scale
+and at low cost, which all sounds great until you encounter all
+of the classic problems with AI and machine learning. That is,
+if the human inspector was racist, the machine-learning
+algorithm will be racist. And sophisticated bad actors will
+have the ability to pollute the dataset with thousands of non-
+suspicious activities so as to trick the ML algorithm to give a
+pass to a small number of serious violations.
+This is a complex space, and taken together in the
+financial services space, RegTech and SupTech may help
+financial institutions and government regulators to monitor
+transactions, evaluate risk, detect noncompliance, identify
+illicit finance, and implement regulatory changes at a rate
+never seen before. The AI community anticipates that the use of
+RegTech and SupTech will grow significantly in the coming
+years, with a global RegTech market projected to reach over $55
+billion by 2025. This rapid growth exemplifies why it is so
+important that we get these technologies right, that we need to
+make sure that we leverage these powerful tools in the right
+way.
+Just as we work to ensure that private industries utilize
+AI and ML in a responsible manner, we need to be sure that our
+government regulators and entities embrace such technology to
+improve oversight and strengthen supervision of the financial
+services industry. Financial institutions' risk management and
+compliance operations rely heavily on synthesizing large
+datasets and detecting both trends and uncharacteristic
+activity. A large portion of this calculus depends on the
+ability of these firms and regulators to successfully predict
+whether wrongdoing or other risks may occur in the future.
+With this great predictive ability, AI must remain
+accountable to broad regulatory schemes. Those employing AI in
+their business processes or regulatory efforts cannot avoid
+responsibility when unintended or unwanted results occur. As
+with any AI, the use and implementation must be carefully
+monitored and evaluated in the end by a natural person in some
+capacity. Similarly, regulators and inspectors must be able to
+look under the hood of business operations utilizing AI,
+especially in sensitive and impactful industries such as the
+financial services space. These algorithms and programs must be
+accountable, explainable, and adjustable.
+So, I am glad we are gathered here to discuss such an
+important topic and to better ascertain how we can promote
+responsible innovation and adoption amongst both financial
+services participants and regulators.
+And with that, I would like to recognize the ranking member
+of the task force, my friend from Ohio, Mr. Gonzalez, for 5
+minutes.
+Mr. Gonzalez of Ohio. Thank you, Chairman Foster, and thank
+you, as always, for your leadership on this task force. It's
+always a pleasure to work together, and I share your interest
+and excitement for the possibilities of increased use of
+emerging technologies in our regulatory system.
+Technology has transformed the way that Americans interact
+with financial institutions, for the better. Today, Americans
+can access banking services, buy and sell stock, and get
+approved for a mortgage faster and cheaper than ever before
+without ever having to step foot into a local bank or credit
+union. In our work on this committee, we should be doing more
+to promote the adoption of new technologies to further optimize
+operations and open finance to more Americans. The expanded use
+of AI and machine learning will help financial institutions use
+data more efficiently and reach more Americans.
+That brings us to today's hearing. In one of my first
+hearings as a member of this committee, I advocated for our
+financial regulators to explore the applications of emerging
+technologies like AI and machine learning. As financial
+institutions have made great strides in innovation, so, too,
+are financial regulators.
+To me, the benefits are twofold. First, it will help
+decrease regulatory costs on financial institutions,
+particularly our smallest financial institutions which are
+often the bedrock of local communities. A 2015 Federal Reserve
+Bank of St. Louis study found that compliance costs are
+disproportionately high for small banks, at an estimated cost
+of 22 percent of net income. Globally, the cost of compliance
+for banks is estimated to be at least $100 billion. This
+prevents institutions from being able to invest those dollars
+into further innovations, but, most importantly, makes
+financial products more expensive for everyday customers. Our
+goal should be to reduce these regulatory costs and give
+institutions, especially smaller financial institutions, the
+flexibility to deploy their capital more efficiently.
+It is important to note that decreasing regulatory cost
+does not necessarily mean decreased regulation. This leads me
+to my second point. Increased use and deployment of RegTech and
+SupTech will lead to more effective and efficient regulations.
+As the financial institutions rapidly increase their use of AI
+and machine learning, we run the risk of traditional financial
+regulatory systems being vulnerable to failure. In my view, the
+use of RegTech can play a critical role in enhancing consumer
+protection, containing systemic risk, reducing financial
+crimes, and creating greater regulatory feedback between
+financial institutions and Federal agencies.
+In today's hearing, I am excited to hear from our witnesses
+on the current utilization of AI and machine learning by
+private industry and Federal agencies, and the barriers facing
+regulators, including whether agencies have sufficient
+technical staff resources and sufficient congressional
+authority. We must also confront the potential difficulties of
+the greater use of RegTech, including bias, algorithm
+challenges and implementation, and the protection of Americans'
+personally identifiable information.
+Again, I want to thank Chairman Foster for convening
+today's hearing. I look forward to hearing from our witnesses,
+and I yield back.
+Chairman Foster. Thank you. And today, we welcome the
+testimony of our distinguished witnesses: Kevin Greenfield, the
+Deputy Comptroller for Operational Risk Policy at the Office of
+the Comptroller of the Currency; Melanie Hall, the Commissioner
+of the Montana Division of Banking and Financial Institutions,
+as well as the Chair of the Board of Directors of the
+Conference of State Bank Supervisors; Kelly Lay, the Director
+of the Office of Examination and Insurance at the National
+Credit Union Administration; and Jessica Rusu, the Chief Data,
+Information, and Intelligence Officer of the UK Financial
+Conduct Authority.
+Witnesses are reminded that their oral testimony will be
+limited to 5 minutes. You should be able to see a timer on your
+screen that will indicate how much time you have left, and a
+chime will go off at the end of your time. I would ask that you
+be mindful of the timer, and quickly wrap up your testimony if
+you hear the chime, so that we can be respectful of both the
+witnesses' and the task force members' time.
+And without objection, your entire written statements will
+be made a part of the record.
+Mr. Greenfield, you are now recognized for 5 minutes to
+give an oral presentation of your testimony.
+
+STATEMENT OF KEVIN GREENFIELD, DEPUTY COMPTROLLER FOR
+OPERATIONAL RISK POLICY, OFFICE OF THE COMPTROLLER OF THE
+CURRENCY (OCC)
+
+Mr. Greenfield. Chairman Foster, Ranking Member Gonzalez,
+and members of the task force, thank you for the opportunity to
+appear today and discuss artificial intelligence tools used by
+national banks, Federal savings associations, and Federal
+branches and agencies of foreign banks supervised by the Office
+of the Comptroller of the Currency (OCC). I appreciate this
+invitation to discuss the opportunities, benefits, and
+challenges that artificial intelligence or, more commonly, AI,
+presents for banks, and our approach to supervising those
+activities.
+I serve as the OCC's Deputy Comptroller for Operational
+Risk Policy, and I am responsible for overseeing the
+development of policy and examination procedures addressing
+bank operational risk, which includes understanding and
+monitoring the risks of AI. I also represent the OCC in
+international forums, such as the Basel Committee on Banking
+Supervision's Financial Technology Group, which coordinates the
+sharing of regulatory practices on tech issues, including those
+related to the use of AI.
+Technological changes and rapidly-evolving consumer
+preferences are reshaping the financial services industry,
+creating new opportunities to provide consumers, businesses,
+and communities with more access to financial products and
+services. The OCC promotes responsible innovation in the
+banking industry to expand access to credit and capital,
+improve operations, and support full and fair participation in
+the American banking system. Over the years, we have adapted
+our supervisory approach to address the increase in banks' use
+of technological innovations, such as AI.
+Today, banks can use AI tools to strengthen their safety
+and soundness, enhance consumer protections, and increase fair
+access to products and services. AI can be used to enhance the
+customer experience, such as assisting with online account
+openings and product selection. AI can also be used to support
+more efficient credit underwriting and other banking
+operations. Used in appropriate ways, these approaches have the
+potential to promote greater access to banking services by
+underserved communities. Use of advanced analytical tools is
+not new, and banks have been employing mathematical models to
+support operations for some time. However, banks are now
+introducing AI tools to support even more complex operations
+and increased automation.
+While we have seen many large banks develop these tools
+internally, AI tools and services are becoming more widely
+available as third-party firms are increasingly offering AI
+products and services to banks of all sizes. While AI tools can
+present benefits, we must also be mindful of the risks that
+banks' use of AI is not properly managed and controlled.
+Potential adverse outcomes are caused by poorly-designed
+models, faulty data, inadequate testing, or limited human
+oversight. Banks need effective risk management and controls
+for model validation and explainability data management,
+privacy, and security, regardless of whether a bank develops AI
+tools internally or purchases through a third party.
+The OCC follows a risk-based supervision model focused on
+safe, sound, and fair banking practices, as well as focused on
+assessing compliance with laws and regulations. OCC examiners
+have significant experience in supervising banks' use of
+sophisticated mathematical models and tools. This includes
+evaluating fair lending concerns and other consumer protection
+issues, such as unfair or deceptive acts or practices. The OCC
+expects banks to monitor for and identify outcomes that could
+create unwarranted risks or adversely impact the fair treatment
+of customers.
+If we identify any concerns, risks, or deficiencies during
+our examinations, the OCC has a range of tools available and
+will take supervisory or enforcement action as appropriate. But
+just as banks are increasingly using sophisticated technologies
+and tools to enhance bank capabilities, the OCC is similarly
+engaged in assessing how innovative technologies can strengthen
+our supervisory processes. The OCC employs a number of
+analytical and technology tools to support banks' supervision,
+and work is currently underway to materially upgrade our core
+supervision systems to further enhance this ability to monitor
+risks in the banking system. Moreover, the OCC is considering
+the use of AI tools as part of this effort.
+I want to thank the task force for its leadership on this
+important issue and for inviting the OCC to testify today. I
+look forward to answering your questions.
+[The prepared statement of Deputy Comptroller Greenfield
+can be found on page 22 of the appendix.]
+Chairman Foster. Thank you, Mr. Greenfield.
+Ms. Hall, you are now recognized for 5 minutes to give an
+oral presentation of your testimony.
+
+STATEMENT OF MELANIE HALL, COMMISSIONER, DIVISION OF BANKING
+AND FINANCIAL INSTITUTIONS, STATE OF MONTANA; AND CHAIR, BOARD
+OF DIRECTORS, CONFERENCE OF STATE BANK SUPERVISORS (CSBS)
+
+Ms. Hall. Good morning, Chairman Foster, Ranking Member
+Gonzalez, and members of the task force. Thank you for holding
+this hearing. My name is Melanie Hall, and I am the
+Commissioner of Montana's Division of Banking and Financial
+Institutions, and the Chair of the Conference of State Bank
+Supervisors' Board of Directors. It is my pleasure to testify
+today on behalf of CSBS on how the State system uses technology
+today and how we see it shaping the future through networked
+supervision, a federated regulatory approach to further evolve
+and streamline the State system.
+First, I would like to address how States are using
+technology platforms as well as data analytics to enhance
+States' supervision today. CSBS operates a regulatory licensing
+platform called the Nationwide Multistate Licensing System, or
+NMLS, on behalf of State regulators. NMLS became part of the
+SAFE Act in 2008, but got its start in the early days of the
+mortgage crisis as State regulators recognized the need to stop
+bad actors from leaving one State just to move to another.
+Today, nearly 640,000 companies and individuals use NMLS
+annually to manage their business licensing and registration.
+These companies and individuals span the mortgage, consumer
+finance, debt, and money services business (MSB) industries,
+with the mortgage industry accounting for more than 80 percent
+of NMLS use.
+The NMLS is also used to register mortgage loan originators
+who work at banks and credit unions. This RegTech has helped
+State regulators become more efficient and risk-focused. NMLS
+data and information is used to identify trends in licensing
+and supervisory activities. In particular, the data has given
+State regulators a deeper perspective into the mortgage
+industry and helped to identify applications and companies that
+may require more scrutiny. NMLS data further helps State
+regulators analyze nationwide trends and identify risks through
+quarterly reports on both the mortgage and MSB industries. CSBS
+is also in the early stages of developing a call report for
+consumer finance.
+Building on the success of NMLS, in 2020, the States
+launched a new technology platform called the State Examination
+System (SES). SES is the first nationwide system to bring
+regulators and companies into the same technology space for
+examinations. State agencies can conduct exams and
+investigations, process consumer complaints, and do other
+supervision work through this secured platform, and share that
+information with industry and other States. SES provides
+uniformity and efficiency, reducing the regulatory burden for
+multistate companies.
+In addition to these two important technology platforms,
+CSBS has a dedicated data analytics team that works with State
+regulators to find new ways to anticipate and mitigate risk.
+Some of the areas that State regulators are exploring include
+using a technology tool to understand emerging trends from
+examiners in the field, using predictive modeling as an early
+detection tool for bank risk, and piloting a predictive
+analytics program, and understanding how AI could be used to
+review loan files for consumer compliance and more.
+Networked supervision will evolve the State system to one
+where communication occurs in real time. Knowledge and
+expertise flows across the States, and regulation becomes
+streamlined. Last year, the CSBS board identified networked
+supervision priorities to advance this wide-ranging initiative.
+The priorities laid the foundation for future collaboration,
+and further work started under Vision 2020 to streamline the
+licensing and supervision of money services businesses.
+Networked supervision requires timely and robust data and
+information sharing between State and Federal agencies. In
+addition to developing platforms that support this objective,
+CSBS is identifying and modernizing the necessary legal
+underpinnings to enable greater data sharing. The State system
+has information-sharing agreements with numerous Federal
+agencies, and we are pursuing and would appreciate your support
+of more of these arrangements.
+States are working toward a future where technology
+platforms and data analytics allow 54 State financial agencies
+to operate as one seamless supervisory network. This networked
+approach will transform financial regulation, giving State
+regulators an even greater ability to identify and understand
+local risks before they threaten consumers in the financial
+system at a national level. As noted in greater detail in my
+written testimony, the States are committed to implementing
+technology solutions and collaborating in new ways to improve
+oversight and enhance consumer protections while reducing
+regulatory burden.
+Thank you for the opportunity to testify today. I look
+forward to answering your questions.
+[The prepared statement of Commissioner Hall can be found
+on page 38 of the appendix.]
+Chairman Foster. Thank you, Ms. Hall.
+Ms. Lay, you are now recognized for 5 minutes to give an
+oral presentation of your testimony.
+
+STATEMENT OF KELLY J. LAY, DIRECTOR, OFFICE OF EXAMINATION AND
+INSURANCE, NATIONAL CREDIT UNION ADMINISTRATION (NCUA)
+
+Ms. Lay. Chairman Foster, Ranking Member Gonzalez, and
+members of the Task Force on Artificial Intelligence, thank you
+for conducting this hearing on the effective use of AI and
+RegTech, and for the opportunity to testify before you today.
+My name is Kelly Lay, and I am the Director of the Office of
+Examination and Insurance at the National Credit Union
+Administration (NCUA). I started my career with NCUA as an
+examiner in the field and have held various positions
+throughout the agency. Most recently, I was the NCUA's Director
+of the Office of Business Innovation, where I led the
+development and implementation of the agency's new examination
+platform, the Modern Examination and Risk Identification Tool,
+also known as MERIT.
+In my testimony today, I will first focus on the agency's
+examination modernization efforts. Second, I will highlight
+research NCUA has conducted in the realm of AI and RegTech and
+the NCUA's challenges to incorporate AI and RegTech
+technologies in the credit union industry. Third, I will
+discuss last year's request for information on the
+institutional use of AI. And I will conclude with a legislative
+request for the NCUA to receive third-party vendor authority.
+In 2015, the NCUA formed the Enterprise Solution
+Modernization Program to help NCUA staff regulate and supervise
+credit unions more efficiently. The program aims to modernize
+the NCUA's technology solutions to create an integrated
+examination and data environment and facilitate a safe and
+sound credit union system. As an initial step, the NCUA
+prioritized replacement of the legacy examination application,
+also known as AIRES, which was over 25-years-old.
+After several pilot phases, NCUA rolled out MERIT,
+including enhanced integrated analytics utilizing a business
+intelligence tool, and our new secure central user interface,
+called NCUA Connect, to the NCUA, State supervisory
+authorities, and credit unions in the second half of 2021.
+Currently, the NCUA has focused on helping users through this
+significant transition while deploying system enhancements. In
+2017, the NCUA board also approved virtual examination
+exploration and research funding. Currently, the virtual
+examination project is in the research and discovery phase.
+The agency's goal is to transition, within the next 5 to 10
+years, the examination and supervision program into a
+predominantly virtual one for credit unions that are compatible
+with this approach. The NCUA is in the testing phase of
+deploying a machine-learning model to perform data validation
+more efficiently, with quarterly call reports and profile
+submissions. Deployment of this new technique is expected to
+occur in the next 4 quarters and should result in more reliable
+and consistent call report filing across the industry.
+The NCUA recognizes the importance and benefits of
+technological changes and has incorporated organizational
+change management strategies into our initiatives. However,
+there are challenges. In addition to dedicated resources for
+development and testing, expanding the NCUA's use of RegTech
+and AI would require the agency to train examiners and credit
+unions, as applicable, and revise our examination policies and
+procedures. In addition, while the NCUA supports and encourages
+innovation and the growth of the industry, we also must protect
+the interests of credit union members in terms of privacy and
+security and not compromise the industry's safety and
+soundness.
+Furthermore, most federally-insured credit unions have less
+than $100 million in assets. These small credit unions fulfill
+a vital role in their communities but are usually short-staffed
+and lack the expertise and resources necessary to keep abreast
+of changing technology. Generally, the smaller institutions
+have neither the economies of scale nor the expertise necessary
+for sophisticated analytics.
+Last year, the NCUA joined the OCC, the FDIC, the Federal
+Reserve, and the Consumer Financial Protection Bureau (CFPB) in
+a request for information on the institutional use of AI and
+related challenges. We collectively received responses from
+financial institutions, vendors, industry trade groups,
+academic communities, and consumer advocacy organizations. In
+total, we only received 32 comments, and of those, only 4 were
+from the credit union industry.
+Finally, any examination of technology in NCUA is
+incomplete without discussing the significant challenges the
+agency has confronted since the 2002 expiration of its third-
+party vendor authority. While there are many advantages for
+credit unions to use these service providers, the continued
+transfer of operations to credit union service organizations
+and other third-party vendors diminishes the ability of the
+NCUA to accurately assess all of the risks present in the
+credit union system and to determine if current credit union
+service organization or third-party vendor risk mitigation
+strategies are adequate.
+I would like to thank Chairman Foster for introducing the
+Strengthening Cybersecurity for the Financial Sector Act to
+give the NCUA third-party vendor examination authority. I urge
+the members of this task force to review this legislation and
+consider adding their support to close this growing regulatory
+blind spot that the NCUA continues to confront.
+This concludes my statement. I look forward to your
+questions.
+[The prepared statement of Director Lay can be found on
+page 46 of the appendix.]
+Chairman Foster. Thank you. And Ms. Rusu, you are now
+recognized for 5 minutes.
+
+STATEMENT OF JESSICA RUSU, CHIEF DATA, INFORMATION AND
+INTELLIGENCE OFFICER, FINANCIAL CONDUCT AUTHORITY (FCA), UNITED
+KINGDOM
+
+Ms. Rusu. Good morning, Chairman Foster, Ranking Member
+Gonzalez, and members of the task force. Thank you for the
+invitation to appear virtually today. I am currently serving as
+the Chief Data, Information and Intelligence Officer at the
+Financial Conduct Authority (FCA). For the committee's
+background, the FCA is the conduct regulator for approximately
+51,000 financial services firms in the U.K. The FCA is
+responsible for ensuring that relevant markets function well,
+as well as operational objectives to protect consumers and
+promote effective competition.
+In my role at the FCA, I am focused on building digital
+supervision technologies and leveraging data science and
+intelligence capabilities. As stated in our 2022 business plan,
+we believe that an increasingly data-driven industry should
+have a regulator. Therefore, the use of AI both by industry as
+RegTech, and for the purposes of regulatory supervision, or
+SupTech, is an important area of focus for us. The data
+technology and innovation division that I lead engages with
+firms' subject matter experts and fellow regulators to drive
+positive transformation in how we regulate.
+The FCA's innovation services include TechSprints, digital
+and regulatory sandbox activities, innovation pathways, as well
+as our scalebox and early oversight for new firms. Our
+TechSprints are events where we convene industry experts to
+develop proofs-of-concept to address specific challenges, such
+as AML and financial crime. The regulatory sandbox allows
+businesses to test new propositions in the live market with
+real customers and regulatory oversight, whereas the digital
+sandbox enables proofs-of-concept to be developed using complex
+synthetic datasets. Recent digital sandbox participants have
+focused on ESG data and fraud prevention.
+Turning to the focus of today's hearing, we believe that
+new technologies can bring positive benefits to consumers and
+markets. As part of our work on AI, we want to facilitate
+debate on the risks and ethical questions associated with its
+use. The FCA is actively exploring how we can use AI techniques
+as well for supervisory and enforcement purposes, including
+leveraging advanced analytics techniques in our intelligence
+work, which seeks to extract insights from FCA data to increase
+the speed and accuracy of decision making, which we will
+further embed with triaging and intervention models.
+Externally, we have partnered with the Bank of England on
+the development of the AI Public-Private Forum, established in
+October of 2020, to share information and understand the
+practical challenges of using AI in financial services, as well
+as the barriers to deployment and potential risks. The FCA also
+collaborated with the Alan Turing Institute on a year-long
+project which explored the practical application of a high-
+level framework for responsible AI.
+Currently, we are working with the Bank of England to issue
+a joint public discussion paper on AI, supported by new
+research that will help us to deepen our understanding of how
+AI is changing U.K. financial markets. In terms of the high-
+level outcomes from the work thus far, we see that existing
+model risk management frameworks reinforced that organizations
+must take responsibility for algorithmic decision making,
+regardless of the technology used. And in terms of risk
+management, we see that AI forums are advocating that human-in-
+the-loop processes exist. Data is a key building block of
+responsible AI. We require firms to ensure they demonstrate
+robust controls, consider data quality, including provenance
+and recency of data utilized, as well as cyber and data
+security when implementing new technologies. Governance and
+accountability are, therefore, core to the way the FCA thinks
+about AI.
+The wider FCA and I would be happy to remain engaged with
+the committee and with U.S. regulators to continue this
+discussion. Thank you very much.
+[The prepared statement of Ms. Rusu can be found on page 52
+of the appendix.]
+Chairman Foster. Thank you, Ms. Rusu, and I want to thank
+you also for your excellent written testimony, including many
+interesting links to all of the great work, things like
+TechSprints that you are doing, that you are involved in.
+Unfortunately, it kept me awake way too late last night. Now,
+to our Members, I would like to say that we anticipate a second
+round of questions should be possible, so you can keep that in
+mind.
+I will now recognize myself for 5 minutes for questions.
+I would like to start by quickly responding to Ms. Lay's
+important points regarding third-party vendors. In FSOC's
+annual reports for 2015, 2016, 2017, 2018, 2019, 2020, and
+again in 2021, which happens to span two Democratic and one
+Republican Administrations, the Council has highlighted the
+fact that we have a regulatory blind spot with respect to the
+oversight of third-party vendors of NCUA and FHFA's regulated
+entities. Federal banking regulators are able to examine and
+oversee banks' third-party vendors, which can help ensure those
+third parties, especially technology firms that banks may
+utilize, so that they do not oppose cybersecurity vulnerability
+or other risks to the safety and soundness of the banking
+system.
+The Examination Parity Act gave NCUA and FHFA this very
+authority from 1991 until it was sunsetted in December 2001.
+And since then, both agencies, the GAO, and FSOC themselves,
+have repeatedly and explicitly requested that this authority be
+reinstated. And I have introduced the Strengthening
+Cybersecurity for the Financial Sector Act of 2022 to address
+these regulatory gaps at the NCUA.
+Ms. Lay, the NCUA report concludes that the NCUA's lack of
+authority over third-party vendors is a growing regulatory
+blind spot and has the potential to trigger cascading
+consequences throughout the credit union industry and the
+financial services sector that may result in significant losses
+to the NCUA. Can you elaborate a little bit on this issue?
+Ms. Lay. Yes. Thank you for the question, Chairman Foster.
+Currently, the NCUA does not have examination authority over
+third-party vendors, and so we are unable to implement
+corrective action on any third-party vendor if we find issues.
+We do go into third-party vendors of credit union service
+organizations voluntarily and can provide corrective or
+recommendations for corrective action. However, we have had
+instances where those third-party vendors of credit union
+service organizations do not respond to that corrective action
+that we put in place. We have a number of small credit unions.
+Over two-thirds of our credit unions are less than $100 million
+in assets, and they really would rely on our ability to provide
+help to them with our due diligence of third-party vendors if
+we could have this third-party vendor authority.
+Chairman Foster. Thank you, and I will probably get back to
+this issue in the follow-up questions. Ms. Hall and Ms. Lay,
+how do you handle the whole issue of explainability and--well,
+actually all of our witnesses? During the financial crisis, I
+talked to some gentlemen who had been running some of the banks
+that tragically failed and asked them what it was like as the
+regulators came in and closed their bank, and they at least
+knew the formulas and the tasks that they were failing. But if
+someone comes in to your bank or credit union and says, I'm
+sorry, our neural network predicts that you are going to fail,
+how do you explain this, and how do you handle that whole
+problem with explainability at all levels?
+Ms. Hall, do you want to take a swing at that?
+Ms. Hall. Chairman Foster, thank you for the question. I
+think that explainability in AI is something that can be
+challenging, particularly for community financial institutions.
+And ultimately, over time, we just have to continue to prove
+out what has been established by the theories. For instance, in
+Montana, we were one of a few States that did not have any bank
+failures during the financial crisis, despite some of those AI
+predictive technologies showing that we would have bank
+failures.
+And so, I think that we have to focus on the data inputs in
+order to ensure that those inputs are actually reflective of
+expected outcomes, and I think that requires constant change.
+And I think that is where AI could really help financial
+regulators if there is an effective feedback loop. I think
+that, in a lot of ways, the regulatory agencies have struggled
+with that feedback loop and plugging back in what the ultimate
+outcome was in order to determine whether the models themselves
+worked.
+Chairman Foster. Thank you, and my time has essentially
+expired. So, I will recognize the ranking member for 5 minutes.
+Mr. Gonzalez of Ohio. Thank you, Chairman Foster, and
+thanks again to our panel for being here and for your
+testimonies.
+As I mentioned in my opening statement, I believe we need
+to be doing more to encourage the use of AI for regulatory
+purposes, both by the financial institutions themselves, but
+also within our regulatory agencies.
+Ms. Lay, I am going to start my questioning with you. In
+your testimony, you discussed that the NCUA is investigating
+the use of natural language processing, which transforms
+unstructured data into structured data, increasing the uses and
+applicability of data. What are the barriers facing the NCUA in
+implementing this technology at present?
+Ms. Lay. Thank you for the question. I believe that one of
+the barriers we face is that AI is just very expensive and
+those costs would fall to our credit unions as they pay for our
+budget. Technology, AI, is very expensive. I think another
+barrier is just the fact that many of our credit unions are
+less than $100 million in assets, and so they also don't have
+the sophistication sometimes and the level of staff to be able
+to adopt these technologies. That would also be a barrier.
+Mr. Gonzalez of Ohio. What, if anything, are you all able
+to do to help mitigate those barriers? Like, the cost would
+make sense to me, for sure, but at the same time, if all of the
+bigger players are adopting the use of some of these
+technologies, we obviously don't want our credit unions to fall
+behind on that front. What, if anything, are you all able to do
+to help mitigate that cost issue?
+Ms. Lay. One of the things I think that we could do is, if
+the agency were granted a third-party vendor authority, that
+would allow us to conduct examinations of any third-party
+vendors that credit unions would be using to implement
+artificial intelligence technologies. And I think that would
+assist our credit unions in being able to have the ability to
+see our reports of examination of those third-party vendors and
+assist them in their due diligence process.
+Mr. Gonzalez of Ohio. Got it. So, help them on the front
+end in terms of the diligence side. That makes a lot of sense.
+Ms. Rusu, I am going to switch to you. On this committee,
+we often talk about the concerns of algorithmic bias and the
+potential impact it could have on decision-making processes.
+How do you all handle that in the U.K.? I am just curious,
+because we talk about it a lot, and I would just be curious for
+more of an international perspective on that issue
+specifically.
+Ms. Rusu. Sure. Thank you for the question, Ranking Member
+Gonzalez. In the U.K., I would clarify that there is a
+distinction between discrimination and bias. In the concept of
+algorithmic bias, we think about whether or not groups could be
+disproportionately impacted, primarily through bias that would
+exist in the underlying data. And I think it is important, and
+as you referenced in your earlier opening remarks, in terms of
+general model risk management, you have to control both the
+inputs that go into the model as well as the outputs. And that
+is how we are thinking about bias and algorithms. We understand
+the complexity and the challenges in understanding how bias and
+algorithms can lead to unfair outcomes that might privilege one
+group of users over another.
+Mr. Gonzalez of Ohio. Thank you. And, Mr. Greenfield,
+picking up on that line of questioning, how are regulators
+working with private industry to prevent the use of biases in
+their models?
+Mr. Greenfield. Through the ongoing supervision process
+with both financial institutions as well as our work with many
+of the banks' service providers, we are very focused on banks
+having effective risk management and governance in place for
+the use of these models, which will include controls for the
+model development, validation of the model, and testing of the
+model, both initially and when in production. But what is also
+very important is continued oversight of the model over time as
+assumptions change and data quality can change over time. We
+very much look at how that is being monitored, and those
+outcomes are very, very closely monitored. We also engage in
+those discussions with financial institutions as well as the
+model developers and we put out guidance such as the model risk
+management guidance that the banking agencies have been using
+for some time now.
+Mr. Gonzalez of Ohio. Thank you, and I yield back.
+Chairman Foster. Thank you. The gentlewoman from North
+Carolina, Ms. Adams, is now recognized for 5 minutes.
+Ms. Adams. Thank you very much, Mr. Chairman, and thank you
+to our witnesses, and to our ranking member as well.
+First of all, the Bank Secrecy Act (BSA) regulatory
+failures and penalties over the last 10 years have been due to
+a failure to detect and report suspicious activity, among other
+violations. I hear regularly that financial institutions,
+especially smaller entities, are both accountable for and at
+the mercy of the RegTech service providers.
+So, Mr. Greenfield, Ms. Lay, and Ms. Hall, in that order,
+for Bank Secrecy Act/Anti-Money Laundering (BSA/AML)
+compliance, if not in other areas, are your agencies' oversight
+activities appropriately balanced? Mr. Greenfield, first.
+Mr. Greenfield. Yes, I believe so. We are very focused on
+how banks are setting up their risk management compliance
+frameworks to manage the risk, and, as mentioned earlier, we
+take a very risk-based approach. So, depending on the size and
+complexity of the institution and the services it offers, that
+level of oversight and that level of risk management
+supervision would be commensurate with the activities of the
+bank.
+Ms. Adams. Go ahead. Finish.
+Mr. Greenfield. Okay. We do engage in ongoing
+communications. And we do encourage, especially smaller
+community banks, to work together to be able to leverage
+services more effectively, more efficiently, and more
+economically, and also do focus on the service providers to
+make sure that they are providing that level of service to
+those banks.
+Ms. Adams. Thank you. Ms. Lay, what would you say about
+that?
+Ms. Lay. Yes, thank you for that question. BSA and AML, for
+our smaller credit unions, is definitely burdensome and
+something that we know that they absolutely need to follow. For
+our smaller credit unions that only have one or maybe two staff
+persons, they will need to bring in artificial intelligence to
+help them with that compliance could certainly be a benefit. I
+think the agency--
+Ms. Adams. Okay. Thanks. How would you respond, Ms. Hall?
+Ms. Hall. Thank you so much for the question. I will just
+say, first of all, State regulators really appreciated Congress
+enacting BSA reform that supports greater use of technologies.
+State regulators supervise a large percentage of smaller banks
+and smaller credit unions, and BSA/AML compliance certainly is
+a tremendous cost to them, often without a solid feedback loop
+to let them know how that information is being used. BSA/AML is
+a perfect example of where AI could be really helpful, because
+AI is really good at anomaly detection. However, what we really
+need is a strong feedback loop with law enforcement in the
+Federal agencies in order to improve that AI and make it more
+accessible to smaller institutions in order to help with the
+costs of BSA compliance.
+Ms. Adams. Okay. Let me briefly ask each of you, should
+RegTech firms themselves regulate or engage in financial
+institution oversight in a different manner? Mr. Greenfield?
+Mr. Greenfield. If I understand the question, should
+RegTech firms be engaged with banks in a different manner or
+oversight of--
+Ms. Adams. Correct.
+Mr. Greenfield. We believe RegTech firms should be in
+communication with their client base, which would be the
+financial institutions, in meeting their needs to ensure
+compliance in an economical and efficient manner. We have
+conversations with--
+Ms. Adams. Okay. I just have a few more seconds left. So,
+Ms. Lay and Ms. Hall, I want to at least get a response from
+each of you as well.
+Ms. Lay. We are in the early stages of looking at AI for
+RegTech. We do believe that we would need to consult and speak
+with many of our credit unions in the industry before--
+Ms. Adams. Okay. Ms. Hall?
+Ms. Hall. Representative Adams, State regulators would urge
+passage of H.R. 2270, which would allow greater coordination
+and information sharing between the Federal and State
+regulators on third-party service provider exams. That bill is
+working its way through Congress. And a lot of States have
+their own laws that say they can regulate these third-party
+service providers, but the Federal agencies are unsure as to
+how much they can coordinate and share information with us. And
+so, that bill would really go a long way to helping to ensure
+that there is good coordination and information.
+Ms. Adams. Thank you, ma'am. I am out of time, and, Mr.
+Chairman, I yield back.
+Chairman Foster. Thank you. The gentleman from Georgia, Mr.
+Loudermilk, is now recognized for 5 minutes.
+Mr. Loudermilk. Thank you, Mr. Chairman, and I thank
+everyone on the panel for being here. Some of my colleagues and
+even other observers have raised concerns recently that
+artificial intelligence and machine learning can exacerbate
+bias. However, I believe that if used properly, artificial
+intelligence and machine learning can actually be used to
+reduce unfair bias. Some of the essential components for
+obtaining unbiased results are through recordkeeping of what
+goes into algorithms: robust testing and strong risk
+management.
+Ms. Hall, are there potential risks with using artificial
+intelligence exclusive to AI? Are they inherent to any model
+risk management framework?
+Ms. Hall. Congressman, I believe that bias is always a part
+of any kind of model and predictive modeling. I do think that
+there is the capacity for machine learning hopefully to
+eliminate that bias faster than we have been able to eliminate
+it in humans themselves. If there are appropriate feedback
+loops, if there is appropriate information and data gathering
+there, I do believe that machine learning could help to
+eliminate that bias readily as long as there are appropriate
+feedback loops.
+Mr. Loudermilk. So in reality, bias exists everywhere. It
+is not just in the artificial intelligence, but with proper
+testing, checking, and data analysis, you believe we can
+eliminate, for the most part, unfair bias?
+Ms. Hall. Congressman, I am not an AI or machine-learning
+expert myself, but I certainly would believe that it is faster
+than humans, as we have proven as humans to not be all that
+fast in our bias elimination. I would think that machine
+learning, with evidence showing the actual outcomes, could
+potentially be much quicker in eliminating that bias. And I
+don't think that there is a way to necessarily eliminate that
+bias on the very front end, but hopefully, the learning process
+of machines is faster than our own.
+Mr. Loudermilk. Okay. And I would submit that there is
+inherent bias in human opinion and decisions, and you can
+eliminate that through the machine if you have the proper data.
+Mr. Greenfield, can you describe how the existing bank
+regulatory structure already accounts for model risks
+associated with AI?
+Mr. Greenfield. Yes. I was going to say, so we do. Yes, we
+have extensive experience in history with model risk
+management. We have supervisory guidance that was jointly put
+out by the banking agencies that provide some expectations for
+banks as it relates to risk management, governance, testing,
+and validation, control, and oversight of these models. We have
+examination programs that focus on this as well as we take an
+integrated supervision approach that when assessing AI or model
+risk management within financial institutions, we will bring in
+Ph.D. economists, subject matter or topic experts, whether it
+be on fair lending, credit underwriting, or whatever the
+activity being conducted, as well as technology experts that
+work together in order to identify potential risks or concerns
+with model risk management and communicate that to the
+financial institution with expectations for corrective action.
+Mr. Loudermilk. When you do bring that to the attention of
+the financial services, business, or organizations, are they
+examined and supervised in a way that would require them to
+address these risks before they go forward? In other words,
+does the government oversee how they address those?
+Mr. Greenfield. Yes, we have a number of supervisory tools
+available to us, ranging from matters requiring attention and
+reports of examination to enforcement actions. But when we
+identify deficiencies, we will require corrective action and
+follow-up, and follow-through to ensure it has been done
+effectively.
+Mr. Loudermilk. Okay. Thank you. Ms. Lay, I have been
+concerned about the government's resistance to adopt certain
+technology. In fact, the FDIC CIO resignation a few months ago
+was alarming because he addressed the resistance to change. If
+financial regulatory agencies are technologically stagnant,
+doesn't that make it difficult to keep up with the changing
+nature of the companies they regulate?
+Ms. Lay. We agree the ability for NCUA and our credit
+unions to adapt to new financial technologies is very
+important. The NCUA does not want to hamper innovation in our
+agency or in our credit union industry. One of the things that
+I have testified here today is that many of our credit unions
+are small, less than $100 million in assets. And we will need
+to rely on artificial intelligence or rely on third-party
+vendors to get into the artificial intelligence space. So, for
+the agency to have third-party vendor authority to help those
+credit unions with our due diligence for those companies would
+be very helpful for the agency. I will just add that we have
+been going through a technology modernization at the NCUA for
+the past 5 years, and our NCUA Board and executive leadership
+have been very supportive of that modernization.
+Mr. Loudermilk. Thank you. I yield back.
+Chairman Foster. Thank you. The gentleman from
+Massachusetts, Mr. Auchincloss, who is also the Vice Chair of
+the Full Committee, is now recognized for 5 minutes.
+Mr. Auchincloss. Thank you, Mr. Chairman, for organizing
+this important hearing.
+My question is for Mr. Greenfield and for Ms. Rusu, but
+other witnesses are welcome to jump in, too. In these last 10
+days, we have seen that algorithmic stablecoins are not so
+stable. And it is clear that we are going to need both updated
+auditing and disclosure regulation from Congress for the
+stablecoin industry, but also for regulators to be able to
+track the redeemability of stablecoins, if these continue to be
+an important part of the modern economy.
+Mr. Greenfield, while it is not quite AI--obviously it is
+deep tech--what tools does the OCC have at its disposal to be
+monitoring the redeemability and liquidity of algorithmic
+stablecoins?
+And, Ms. Rusu, knowing that the United Kingdom has been
+really at the forefront of much of this legislation in the
+crypto space, what advice might you offer us here in the United
+States on this front?
+Mr. Greenfield. I will start off by just stating that I am
+not aware of any banks directly dealing with algorithmic
+stablecoins. However, as you note, it is very much a key topic,
+and the OCC is very focused on the development and use of
+stablecoins throughout the financial sector. We do have a
+number of policy initiatives and research underway looking at
+the use of crypto assets throughout the financial sector and
+within the national banking system. Our Office of Innovation is
+very focused on this, and we are currently engaged in what we
+have referred to as crypto policy sprints with FDIC and Federal
+Reserve colleagues.
+Mr. Auchincloss. Mr. Greenfield, if the OCC were vested by
+Congress with the authority and the mandate to supervise
+stablecoins, both algorithmic and non-fiat-backed, is it within
+the capabilities of the OCC to do that?
+Mr. Greenfield. We have put out recommendations on a
+framework for stablecoins as part of the Presidential Working
+Group report that was published last year. It is something that
+we are very focused on developing, and Acting Comptroller Hsu
+has spoken extensively on stablecoins. So, it is something that
+we are very focused on and looking at what a potential
+regulatory framework would look like.
+Mr. Auchincloss. And you think the OCC has an important
+part to play in that?
+Mr. Greenfield. Yes.
+Mr. Auchincloss. Ms. Rusu?
+Ms. Rusu. Yes. Thank you for the question. As you know, we
+do not yet regulate assets except through the anti-money
+laundering regulation, but we are following up on this area.
+And this week, I held the first crypto policy sprint, and we
+considered three problem statements around crypto asset
+disclosures to investors to address the inadequacy of
+information shared. We looked at centralized versus
+decentralized regulation approaches and gaps in the existing
+regulatory framework for custodians and the complexities of
+ownership around crypto assets, and we expect to share the
+findings from the policy sprint later this summer.
+We have also started a project using a web scraper to
+identify websites that are promoting crypto assets and using
+text analysis to identify risk indicators on the sites. So,
+just recognizing that it is a complex area for regulation and
+the algorithms involved share all of the same complexities that
+AI algorithms share as well and recognize--
+Mr. Auchincloss. Ms. Rusu, is it the opinion of the
+majority of U.K. financial regulators that algorithmic
+stablecoins have a place at all in a stablecoin ecosystem, or
+are you coalescing behind only fiat-backed stablecoins?
+Ms. Rusu. I don't think we have reached a decision yet on
+that point, but we are certainly looking at all of the
+different categories of crypto assets.
+Mr. Auchincloss. And, Mr. Greenfield, do you have an
+opinion on that question?
+Mr. Greenfield. To the point of our focus on stablecoins,
+we have been very focused on understanding the transparency in
+reserves, redeemability issues, as you have noted, as well as
+looking at the importance of having liquid assets in reserve as
+part of the stablecoin framework.
+Mr. Auchincloss. Do you think that there is a role for
+algorithmic alongside fiat-backed stablecoins, or is that a to-
+be-determined question?
+Mr. Greenfield. I believe that is to be determined. That is
+something as we look at the development--
+Mr. Auchincloss. I yield back my time, Mr. Chairman.
+Chairman Foster. Thank you. And now, we will begin our
+second and final round of questions here.
+Ms. Rusu, one of the most interesting links in your written
+testimony was dealing with efforts towards what is called
+federated learning. This addresses a problem that occurs really
+at all levels of financial regulation, where regulators have
+access to the detailed information on individual entities that
+they regulate. They would like to share that information with
+sibling regulators in other States or other countries, but
+privacy concerns prevents anything more than very general
+trends. And the federated learning, as I understand it, is an
+attempt to use access to encrypted datasets and to train the
+neural networks across regulatory boundaries or even national
+boundaries, and there is a potential solution to this.
+My question is, is this viewed as something that is really
+ready for prime time? Are there examples of real-world
+implementation of federated learning between different
+regulators, or does this feel like something that is at the
+talking stage?
+Ms. Rusu. Thank you for the question, Chairman Foster. We
+are participating with other regulatory bodies and looking at,
+for example, the Digital Regulation Cooperation Forum (DRCF),
+to share learning and approaches on this. We are also looking
+at AML through the course of TechSprints, and we are focused on
+building solutions and sharing common approaches.
+Chairman Foster. Okay. Are there any examples that any of
+our witnesses are aware of, where that is being looked at in
+detail in the U.S.? Going once, going twice?
+[No response.]
+Chairman Foster. Okay. I think that is a very promising
+area, which, if it works technically, is going to really solve
+a lot of the political problems with data sharing across
+national boundaries. There was also discussion, Ms. Rusu, in
+some of the struggles with determining ultimate beneficial
+ownership and how that works. The heart of that is the issue of
+having a secured digital ID for market participants that works
+across national boundaries. During all the discussions in your
+TechSprints and so on, is there any discussion of what amounts
+to a crypto driver's license or something that would allow
+participants to anonymously identify themselves in a way that
+the regulators could see, but market participants could not?
+Ms. Rusu. I know that some of the TechSprints have looked
+at privacy-enhancing techniques (PETs), as well as different
+types of encryption, like homomorphic encryption, and I think
+certainly there is a lot of work to be done in that area. I
+think we have some more focused areas coming up in TechSprints
+later this year to delve into some of that. And I would say
+that I also saw some of those solutions, or issues that you
+referenced in terms of ownership, were addressed this week in
+the 2-day crypto sprint that we held. So, it is something that
+we don't have an answer to, but we are certainly investigating.
+Chairman Foster. Okay. Were there any other high-level
+conclusions from that work?
+Ms. Rusu. In terms of the crypto, I think we will be in a
+position to share some of the findings later this summer.
+Chairman Foster. Thank you. Because the whole issue with
+crypto, and secure digital identity, and synonymous, but
+legally traced, but yet legally traceable access to crypto
+transactions is really, at least in the U.S., I think it is at
+the heart of the discussion going on right now.
+I will now recognize the ranking member of the task force,
+Mr. Gonzalez, for 5 minutes.
+Mr. Gonzalez of Ohio. Thank you. Mr. Greenfield, let's
+start with you. I have heard from advocates for greater use of
+emerging technology in the regulatory system and also from the
+private industry that it is sometimes difficult for regulators
+to work with private industry on testing and acquiring new
+technology for pilot programs. Is this something that you have
+experienced in the OCC, and what ideas might you have to help
+solve that?
+Mr. Greenfield. Sure. This is something that we have looked
+at extensively. Again, we support responsible innovation in the
+banking industry, and part of having that innovation is
+institutions' and industries' ability to develop and test new
+products and services. We do have supervisory guidance that
+helps set expectations for banks' engagement in new or modified
+products and services. It talks about the importance of risk
+management, governance, stakeholder review, as part of these
+processes.
+Our Office of Innovation is very engaged, not just with
+financial institutions, but many of the FinTech and emerging
+tech companies that are helping to develop these products and
+services, and bringing them in for one-on-one discussions or as
+part of office hours to discuss what it is like to operate
+within a banking environment, expectations around management
+control, and to really respond to their questions and allow
+them to better develop the products and services that they are
+going to be offering to the financial institutions that we
+supervise.
+Mr. Gonzalez of Ohio. Thank you. I think that makes a lot
+of sense, and, hopefully, those interactions are done in a
+productive way. I know for a lot of emerging tech companies,
+there is a fear of coming to Washington and working with
+regulators because what you will hear oftentimes is that some
+of these conversations turned into a predicate for an
+investigation, when they were really just looking to get some
+simple answers. That wasn't an accusation, by the way. I was
+just sharing observations about conversations I have had.
+Mr. Greenfield. Yes. It is one of the reasons why we have
+our Office of Innovation that is separate from our supervision
+group. It is an open invitation not only to come in to D.C. and
+speak with us, but there also will be office hours in many of
+the tech cities around the country.
+Mr. Gonzalez of Ohio. That is great. I am staying with you,
+Mr. Greenfield. One of the more interesting applications of AI
+and machine learning, in my view, is the ability to crack down
+on illicit finance. Can you discuss how banks are currently
+using these technologies to better track financial crimes, and
+what more our regulatory agencies can be doing to promote the
+use of this technology?
+Mr. Greenfield. Sure. I think one of the biggest areas of
+RegTech development that we have seen are advances in the
+products and services developed both by banks as well as being
+offered by third-party service providers to allow for better
+and more efficient identification and determination on
+suspicious activity, and for ensuring adherence with bank
+secrecy and anti-money laundering laws. Banks have often been
+challenged with, again, going back to the fundamentals of
+validation and testing, when it comes to ensuring not only that
+the model is picking up, but that it is also not overreaching
+and having a lot of false positives, and really being able to
+adjust those models over time.
+And it is something that banks continue to have challenges
+with, but we are seeing a lot of advancement in this area. And
+there is a lot of opportunity, because as many of the other
+panelists here today have commented, anti-money laundering laws
+are there for a reason, and they are very important. And it is
+important for adherence, but they can be challenging and
+burdensome, especially for smaller community banks. And use of
+these technologies can help provide the opportunity that we
+enforce these laws, and enforce them as they are intended, but
+also reduce the burden.
+Mr. Gonzalez of Ohio. Thank you. That is all I have. I
+yield back.
+Chairman Foster. Thank you, and that will conclude our
+second round of questions. I would like to thank the witnesses
+for their testimony today.
+The Chair notes that some Members may have additional
+questions for these witnesses, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+And this hearing is adjourned.
+
+[Whereupon, at 10:05 a.m., the hearing was adjourned.]
+
+A P P E N D I X
+
+May 13, 2022
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

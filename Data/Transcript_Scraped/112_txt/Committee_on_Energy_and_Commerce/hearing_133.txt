@@ -1,0 +1,2294 @@
+- IT SUPPLY CHAIN SECURITY: REVIEW OF GOVERNMENT AND INDUSTRY EFFORTS
+
+[House Hearing, 112 Congress]
+[From the U.S. Government Publishing Office]
+
+IT SUPPLY CHAIN SECURITY: REVIEW OF GOVERNMENT AND INDUSTRY EFFORTS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+
+OF THE
+
+COMMITTEE ON ENERGY AND COMMERCE
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED TWELFTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+MARCH 27, 2012
+
+__________
+
+Serial No. 112-131
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Printed for the use of the Committee on Energy and Commerce
+
+energycommerce.house.gov
+_____
+
+U.S. GOVERNMENT PRINTING OFFICE
+
+77-892 PDF                WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC
+20402-0001
+
+COMMITTEE ON ENERGY AND COMMERCE
+
+FRED UPTON, Michigan
+Chairman
+
+JOE BARTON, Texas                    HENRY A. WAXMAN, California
+Chairman Emeritus                    Ranking Member
+CLIFF STEARNS, Florida               JOHN D. DINGELL, Michigan
+ED WHITFIELD, Kentucky                 Chairman Emeritus
+JOHN SHIMKUS, Illinois               EDWARD J. MARKEY, Massachusetts
+JOSEPH R. PITTS, Pennsylvania        EDOLPHUS TOWNS, New York
+MARY BONO MACK, California           FRANK PALLONE, Jr., New Jersey
+GREG WALDEN, Oregon                  BOBBY L. RUSH, Illinois
+LEE TERRY, Nebraska                  ANNA G. ESHOO, California
+MIKE ROGERS, Michigan                ELIOT L. ENGEL, New York
+SUE WILKINS MYRICK, North Carolina   GENE GREEN, Texas
+Vice Chairman                      DIANA DeGETTE, Colorado
+JOHN SULLIVAN, Oklahoma              LOIS CAPPS, California
+TIM MURPHY, Pennsylvania             MICHAEL F. DOYLE, Pennsylvania
+MICHAEL C. BURGESS, Texas            JANICE D. SCHAKOWSKY, Illinois
+MARSHA BLACKBURN, Tennessee          CHARLES A. GONZALEZ, Texas
+BRIAN P. BILBRAY, California         TAMMY BALDWIN, Wisconsin
+CHARLES F. BASS, New Hampshire       MIKE ROSS, Arkansas
+PHIL GINGREY, Georgia                JIM MATHESON, Utah
+STEVE SCALISE, Louisiana             G.K. BUTTERFIELD, North Carolina
+ROBERT E. LATTA, Ohio                JOHN BARROW, Georgia
+CATHY McMORRIS RODGERS, Washington   DORIS O. MATSUI, California
+GREGG HARPER, Mississippi            DONNA M. CHRISTENSEN, Virgin
+LEONARD LANCE, New Jersey            Islands
+BILL CASSIDY, Louisiana              KATHY CASTOR, Florida
+BRETT GUTHRIE, Kentucky              JOHN P. SARBANES, Maryland
+PETE OLSON, Texas
+DAVID B. McKINLEY, West Virginia
+CORY GARDNER, Colorado
+MIKE POMPEO, Kansas
+ADAM KINZINGER, Illinois
+H. MORGAN GRIFFITH, Virginia
+
+_____
+
+Subcommittee on Oversight and Investigations
+
+CLIFF STEARNS, Florida
+Chairman
+LEE TERRY, Nebraska                  DIANA DeGETTE, Colorado
+SUE WILKINS MYRICK, North Carolina     Ranking Member
+JOHN SULLIVAN, Oklahoma              JANICE D. SCHAKOWSKY, Illinois
+TIM MURPHY, Pennsylvania             MIKE ROSS, Arkansas
+MICHAEL C. BURGESS, Texas            KATHY CASTOR, Florida
+MARSHA BLACKBURN, Tennessee          EDWARD J. MARKEY, Massachusetts
+BRIAN P. BILBRAY, California         GENE GREEN, Texas
+PHIL GINGREY, Georgia                CHARLES A. GONZALEZ, Texas
+STEVE SCALISE, Louisiana             DONNA M. CHRISTENSEN, Virgin
+CORY GARDNER, Colorado                   Islands
+H. MORGAN GRIFFITH, Virginia         JOHN D. DINGELL, Michigan
+JOE BARTON, Texas                    HENRY A. WAXMAN, California (ex
+FRED UPTON, Michigan (ex officio)        officio)
+
+(ii)
+
+C O N T E N T S
+
+----------
+Page
+Hon. Cliff Stearns, a Representative in Congress from the State
+of Florida, opening statement..................................     1
+Prepared statement...........................................     4
+Hon. Diana DeGette, a Representative in Congress from the State
+of Colorado, opening statement.................................     6
+Hon. Tim Murphy, a Representative in Congress from the
+Commonwealth of Pennsylvania, opening statement................     7
+
+Witnesses
+
+Gregory C. Wilshusen, Director of Information Security Issues,
+Government Accountability Office...............................     9
+Prepared statement...........................................    11
+Mitchell Komaroff, Director, Trusted Mission Systems and
+Networks, Department of Defense................................    24
+Prepared statement...........................................    26
+Gil Vega, Associate Chief Information Officer for Cybersecurity
+and Chief Information Security Officer, Department of Energy...    39
+Prepared statement...........................................    41
+Insert for the record........................................    60
+Lawrence Castro, Managing Director, The Chertoff Group...........    64
+Prepared statement...........................................    66
+Dave Lounsbury, Chief Technology Officer, The Open Group.........    71
+Prepared statement...........................................    73
+
+Submitted Material
+
+Report, dated March 2012, ``IT Supply Chain: National Security-
+Related Agencies Need to Better Address Risks,'' Government
+Accountability Office, submitted by Mr. Stearns \1\............
+
+----------
+\1\ The report is available at http://www.gao.gov/products/GAO-
+12-361.
+
+IT SUPPLY CHAIN SECURITY: REVIEW OF GOVERNMENT AND INDUSTRY EFFORTS
+
+----------
+
+TUESDAY, MARCH 27, 2012
+
+House of Representatives,
+Subcommittee on Oversight and Investigations,
+Committee on Energy and Commerce,
+Washington, DC.
+The subcommittee met, pursuant to call, at 10:04 a.m., in
+room 2123, Rayburn House Office Building, Hon. Cliff Stearns
+(chairman of the subcommittee) presiding.
+Present: Representatives Stearns, Terry, Myrick, Murphy,
+Bilbray, Gingrey, Scalise, Griffith, Barton, DeGette, and
+Green.
+Staff Present: Carl Anderson, Counsel, Oversight; Sean
+Bonyun, Deputy Communications Director; Karen Christian, Deputy
+Chief Counsel, Oversight; Andy Duberstein, Deputy Press
+Secretary; Andrew Powaleny, Deputy Press Secretary; Krista
+Rosenthall, Counsel to Chairman Emeritus; Alan Slobodin, Deputy
+Chief Counsel, Oversight; Lyn Walker, Coordinator, Admin/Human
+Resources; Alex Yergin, Legislative Clerk; Alvin Banks,
+Democratic Investigator; Tiffany Benjamin, Democratic
+Investigative Counsel; and Brian Cohen, Democratic
+Investigations Staff Director and Senior Policy Advisor.
+Mr. Stearns. Good morning, everybody. I call to order this
+subcommittee's third hearing on cybersecurity.
+
+OPENING STATEMENT OF HON. CLIFF STEARNS, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF FLORIDA
+
+With the growing reliance on the global economy for our
+goods and services, we are faced with the challenge that
+ensuring the security of those items has become even more
+difficult. As the global economy grows, so does the complexity
+of the global supply chain. The U.S. Government is increasingly
+reliant on commercially available products for information
+technology, IT services, and components. This reliance forces
+the U.S. Government to depend on the trustworthiness of the
+global commercial supply chain. Cyber or state-sponsored actors
+are capable of secretly inserting malicious code into both
+hardware and software during the manufacture of those items.
+Let me give you some specific examples:
+In July 2010, Dell announced that some of its PowerEdge
+motherboards contain malicious spyware that gathered
+information about a victim's Internet browsing habits and
+collected personally identifiable information.
+During a security conference in May 2010, IBM gave
+complimentary USB drives to attendees that contained two kinds
+of malware, including a keylogger program.
+In March 2010, the Spanish cell phone company Vodafone
+released a new version of a popular smartphone infected with a
+version of the Butterfly botnet in addition to other malicious
+software.
+These, my colleagues, and many other instances of supply
+chain poisoning are capable of causing damage to, allowing a
+cyber criminal unauthorized access to, or allowing the
+exfiltration of sensitive or personally identifiable
+information from a victim's computer system.
+Now, last week, the Government Accounting Office released a
+report examining the risk and threats to the supply chains of
+both commercial and Federal IT systems. The GAO studied four
+agencies involved in national security: Department of Defense,
+Energy, Homeland Security, and Justice and their ability to
+access the risk to their own IT supply chains and the steps
+they have taken to mitigate them. We are joined by the GAO
+today to discuss their findings and recommendations.
+While DOD and DOE and DHS and Justice each participated in
+interagency efforts to address supply chain security, some of
+these agencies had been more progressive than others in
+addressing IT supply chain security risks. In particular, I was
+troubled to find that the GAO concluded that the Department of
+Energy had not--had not developed clear policy that defined
+what security measures it needed to protect against supply
+chain threats. Clearly defined security measures with
+comprehensive implementing procedures are necessary and vital
+to the protection of Federal IT.
+One additional comment about the report, as a whole, is
+that there appears to be no integrated response amongst the
+Federal IT enterprise to address supply chain risks. Agencies
+are left to their own devices to address this risky and complex
+threat. I find this very troubling.
+Today, we will hear testimony from two panels of witnesses.
+On our first panel, we are joined by Mr. Gregory Wilshusen,
+Director of Information Security Issues at GAO and his staff
+who assisted in drafting this report. We are also joined by
+representatives of two agencies who are the subject of the
+report, Mr. Mitchell Komaroff, Director of the Trusted Mission
+Systems and Network at the Department of Defense, and Mr. Gil
+Vega, Associate CIO for Security and Chief Information Security
+Officer at the Department of Energy.
+I look forward to their testimony and getting a much better
+understanding of the work they do to ensure the integrity of
+their agency's IT supply chain.
+I also want to welcome our second panel of witnesses who
+will provide us with an overview of the private-sector approach
+to identifying IT supply chain risk and using industry's best
+practices to mitigate them.
+We are joined by Mr. Larry Castro, Managing Director at the
+Chertoff Group and former National Security Agency Central
+Security Services representative to the U.S. Department of
+Homeland Security. Also joining us is Dave Lounsbury, Chief
+Technological Officer at The Open Group and International IT
+Standards Board.
+We welcome all of the second panel, also.
+As I mentioned previously, this is the subcommittee's third
+hearing in this Congress on cybersecurity. The purpose of this
+hearing in particular is to understand the threats and
+vulnerabilities to Federal IT supply chains and how best to
+ensure their integrity. I have enjoyed working with the ranking
+member on this matter and the minority in particularly and look
+forward to our continuing cooperation on cybersecurity issues;
+and I yield to the distinguished ranking member, Ms. DeGette
+from Colorado.
+[The report is available at http://www.gao.gov/products/
+GAO-12-361.]
+[The prepared statement of Mr. Stearns follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+OPENING STATEMENT OF HON. DIANA DEGETTE, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF COLORADO
+
+Ms. DeGette. Thank you very much, Mr. Chairman. I also
+appreciate the work that you have done on this issue and
+working with the minority.
+Ensuring the integrity of our information technology supply
+chain is critical to protecting our Federal systems against
+terrorists, counterfeiters, hackers, and other enemies. In
+1997, the Government Accountability Office made government-wide
+information security part of its biannual high-risk series.
+Since then, the government, like the private sector, has become
+more and more technology dependent and more and more reliant on
+private-sector hardware and software.
+Just to think of one example, think about how the census
+worked 2 years ago. What used to be collected versus pad and
+paper is now collected and transmitted electronically.
+And with every new technology our Nation's infrastructure
+becomes more exposed to new threats and vulnerabilities. As
+more components are manufactured outside of this country, our
+technology systems become more vulnerable to infiltration by
+our foreign enemies. A few malicious lines of software code,
+cleverly hidden in a larger program, counterfeit hardware or
+software, and even malicious or unqualified service providers
+all present risk to the technology that drives our supply
+chain.
+In January of this year, President Obama launched the
+National Strategy for Global Supply Chain Security. I commend
+the President for taking supply chain issues seriously, but we
+as Congress also have an important role to play in ensuring the
+security and safety of these systems.
+Last month, as the chairman mentioned, this subcommittee
+held a hearing on cybersecurity threats to our electric grid.
+During that hearing, I asked our witnesses about the potential
+risk to the supply chain associated with devices connected to
+the grid. Richard Campbell, testifying on behalf of the
+Congressional Research Service, agreed if the wrong people were
+able to get improper access to these devices, they could do any
+number of dangerous things, including implanting a software bug
+in a smart meter's firmware and control its functions and the
+functions of the devices attached to it. A meter could be set,
+for example, to control the thermostat for a room containing
+servers, and a hacker could increase the temperature to destroy
+the servers.
+We know that counterfeit circuitry can cause critical
+devices or systems to malfunction. Logic bombs can be inserted
+into devices. These are systems that will lie dormant until a
+device engages in a certain activity, at which point they can
+overtake the device and any system associated with it.
+Our Federal Government, including the military, and the
+Department of Homeland Security is heavily reliant on the
+private sector to provide these devices and to vet them to
+ensure they are safe and secure. GAO's findings suggest that
+some of the agencies like the Department of Defense are on the
+right track to safeguarding their information systems from
+external threats, but other agencies, like the Department of
+Energy, still need to define supply line chain protection
+measures and develop implementing procedures and monitoring
+capabilities.
+However, this isn't just an issue for Federal agencies.
+Private companies also struggle to develop plans to prevent and
+respond to supply chain disruptions. That is why I am pleased
+to have the second panel here today to talk about how the
+private sector is addressing these issues. I look forward to
+learning about the threats and vulnerabilities they see in the
+hardware and the software systems companies purchase and sell
+and also what private companies are doing to ensure the
+products they provide to their customers are protected.
+In the cybersecurity context, we know that companies are
+not required to report these threats and vulnerabilities to the
+Federal Government, and we are aware that in certain instances
+companies have chosen not to do so, leaving Federal agencies in
+the dark about how widespread a problem is or whether it has
+been resolved. We need to hold everybody accountable for
+ensuring that our supply chain is safe, and that starts with
+ensuring that those who build and sell key supply chain
+hardware and software components are properly safeguarding
+their devices from threats.
+We must find ways to ensure that U.S. Suppliers are
+responsible for the security of their foreign-made devices and
+systems. We must make sure that manufacturers are reporting
+threats, vulnerabilities, and cyber attacks quickly so that the
+government and the private sector can take appropriate actions.
+And, finally, we must make sure that the Federal Government is
+carefully vetting the information technology products they
+purchase.
+Mr. Chairman, I look forward to hearing from both of the
+panels about what work we can do to ensure our Federal
+technologies are as secure as possible; and I yield back the
+balance of my time.
+Mr. Stearns. Thank you, gentlelady; and I recognize Mr.
+Murphy. The gentleman from Pennsylvania is recognized for an
+opening statement.
+
+OPENING STATEMENT OF HON. TIM MURPHY, A REPRESENTATIVE IN
+CONGRESS FROM THE COMMONWEALTH OF PENNSYLVANIA
+
+Mr. Murphy. Yes, thank you, Mr. Chairman.
+On December 11, 1941, despite some warnings of what was to
+come and despite seeing clear planes flying towards Pearl
+Harbor, we slept. As the Korean war started, an intelligence
+lapse also meant that South Korea was overwhelmed. And when the
+Marine barracks in Lebanon were bombed, it occurred in the
+midst of dozens, perhaps hundreds of warnings that something
+was about to occur. We are now facing similar threats in the
+area of cybersecurity, and it is important that we do not sleep
+as this dawn is upon us.
+When we look at a measure of cybersecurity, such things as
+resilience, an ability to send out an alert, defending against
+an attack, being able to launch a counterattack and recover
+from an attack, unfortunately, many of the sectors that we know
+of, inagriculture and food, military, transportation, health,
+finance, banking, telecommunication, and energy, are all
+woefully inadequate in how they can act.
+Our country is at war with an enemy we cannot see, but the
+battle has the potential to inflict an incalculable amount of
+damage on our economy, our national defense, and families. A
+looming terrorist attack may not come in the form of a hijacked
+plane hitting a building but from a terrorist cell lurking
+inside of our computers at work and at home, ready to strike
+our banks or energy grid and other sectors.
+Cyber terrorists and hackers are not just unaffiliated
+rogue actors. They are highly trained special operations agents
+being employed by foreign countries.
+These startling developments and how the cyber war is
+evolving were revealed to me this past summer when I sat on a
+special cybersecurity task force formed by Speaker Boehner.
+These threats from abroad can manifest themselves in mysterious
+ways. Consider the potential weaknesses in our national
+security when the Marine Corps, Air Force, Federal Aviation
+Administration, and Federal Bureau of Investigation purchased
+counterfeit Cisco products that originated in China. Or that
+Beijing's military apparatus is tightening its reign over the
+country's technology sector, when we realize the People's
+Liberation Army has formed IT workers into so-called cyber
+militias within thousands of companies across China.
+The threat of foreign nations waging cyber warfare against
+the United States is so real that the Defense Department is
+raising red flags about Huawei Technologies, the world's
+largest manufacturer of computer hardware, acquiring Symantec,
+a security company whose software is installed on computers at
+homes, business, and Federal agencies across the country.
+We have to make sure that we are on alert for all levels of
+cybersecurity and following the IT purchasing line all the way
+through as well as monitoring software and people's access to
+our computers. This threat is very real, and it is very active
+in our country and around the world. Failure to act means, once
+again, at dawn we sleep.
+And with that I yield back.
+Mr. Stearns. The gentlemen yields back.
+I don't see anyone on the minority side, so we will go
+right to the first panel.
+As you know, the testimony that you are about to give is
+subject to Title 18, Section 1001 of the United States Code.
+When holding an investigative hearing, this committee has a
+practice of taking testimony under oath. Do you have any
+objection to testifying under oath?
+Panel. No.
+Mr. Stearns. The chair then advises you that under the
+rules of the House and rules of the committee you are entitled
+to be advised by counsel. Do you desire to be advised by
+counsel during your testimony today?
+Panel. No.
+Mr. Stearns. In that case, will you please rise and raise
+your right hand, and I will swear you in.
+[Witnesses sworn.]
+Mr. Stearns. We now welcome each of you to give your 5-
+minute summary of your written statement. Start with you.
+
+STATEMENTS OF GREGORY C. WILSHUSEN, DIRECTOR OF INFORMATION
+SECURITY ISSUES, GOVERNMENT ACCOUNTABILITY OFFICE; MITCHELL
+KOMAROFF, DIRECTOR, TRUSTED MISSION SYSTEMS AND NETWORKS,
+DEPARTMENT OF DEFENSE; AND GIL VEGA, ASSOCIATE CHIEF
+INFORMATION OFFICER FOR CYBERSECURITY AND CHIEF INFORMATION
+SECURITY OFFICER, DEPARTMENT OF ENERGY
+
+STATEMENT OF GREGORY WILSHUSEN
+
+Mr. Wilshusen. Chairman Stearns, Ranking Member DeGette,
+and members of the subcommittee, thank you for the opportunity
+to testify at today's hearing on IT supply chain security.
+Mr. Stearns. I think you have to--do you have the mic on?
+Mr. Wilshusen. Yes, I do.
+Mr. Stearns. Just move it a little closer. That would be
+good.
+Ms. DeGette. You need to put it close.
+Mr. Wilshusen. OK.
+Thank you for the opportunity to testify at today's hearing
+on IT supply chain security.
+IT systems and the products and services that support them
+are essential to the operations of the Federal Government.
+These products and services are created and delivered through a
+complex global supply chain that involves a multitude of
+organizations, individuals, activities, and resources.
+My testimony today summarizes the contents of our recently
+issued report on IT supply chain risks and the extent to which
+the Departments of Energy, Homeland Security, Justice, and
+Defense have addressed these risks. But if I may first, Mr.
+Chairman, recognize some members of my team whose dedication
+and professionalism were instrumental to the development of
+this report.
+And this is Mike Gilmore.
+Mr. Stearns. What is Mike Gilmore's title? Can you give the
+title?
+Mr. Wilshusen. He is an assistant director for IT.
+Mr. Stearns. OK.
+Mr. Wilshusen. R.J. Hagerman, who is an analyst, and Kush
+Malhotra, who is also the analyst in charge for our engagement.
+Mr. Stearns. Thank you.
+Mr. Wilshusen. In addition, there are two members who are
+not here, Brad Becker and Lee McCracken, who are back in their
+offices, who also played a key role.
+Mr. Chairman, the exploitation of IT products and services
+through the supply chain is an emerging threat. IT supply
+chain-related threats can be introduced in the manufacturing,
+assembly, and distribution of hardware, software, and services.
+These threats include the insertion of harmful or malicious
+software and hardware, installation of counterfeit items,
+disruption in the production or distribution of critical
+products, reliance on unqualified or malicious service
+providers, and installation of software and hardware containing
+unintentional vulnerabilities.
+These threats can be exercised by exploiting
+vulnerabilities that could exist at multiple points in the
+supply chain. Examples of such vulnerabilities include
+acquiring products or parts from unauthorized distributors,
+using insecure transportation, storage, or delivery mechanisms,
+and installing hardware and software without sufficiently
+inspecting or testing them.
+These threats and vulnerabilities can potentially lead to a
+range of harmful effects, including allowing attackers to take
+control of systems or decreasing the availability of critical
+materials needed to develop or operate systems.
+The Departments of Energy, Homeland Security, Justice, and
+Defense varied in the extent to which they have addressed
+supply chain risks. Each of the four agencies participated in
+one or more interagency efforts to address supply chain
+security, such as developing technical and policy tools,
+collaborating with the intelligence community, and
+participating in the Comprehensive National Cybersecurity
+Initiative on supply chain risk management. These efforts are
+key to understanding and addressing global supply chain risk.
+However, with respect to establishing supply chain
+protection measures for their internal departmental systems,
+three of the agencies had not fully addressed Federal
+guidelines. These guidelines recommend that agencies, for their
+high-impact systems, define supply chain-related protection
+measures, develop procedures for implementing them, and monitor
+their effectiveness.
+However, Energy and Homeland Security had not yet taken
+these steps; and while Justice has defined supply chain
+protection measures, including a foreign ownership, control,
+and influence review, it had not yet developed implementing
+procedures or monitoring capabilities.
+The Department of Defense, on the other hand, has made
+greater progress. It has defined policies, requires program
+protection plans, issued a key practices and implementation
+guide, conducted pilot programs, and implemented a monitoring
+mechanism to determine the status and effectiveness of its
+supply chain protection pilots.
+In our recently issued report, we recommended that the
+Departments of Energy, Homeland Security, and Justice take
+steps as needed to develop and document policies, procedures,
+and monitoring capabilities that address IT supply chain risk
+to their internal systems. The departments generally agreed
+with our recommendations.
+In summary, Mr. Chairman, the global IT supply chain
+introduces risk that, if realized, could jeopardize the
+confidentiality, integrity, and availability of Federal
+information systems and adversely impact an agency's
+operations, assets, and employees. This risk highlights the
+importance for Federal agencies to take appropriate actions to
+develop, document, and implement the policies, procedures, and
+controls necessary to cost-effectively manage the associated
+risk.
+Mr. Chairman, Ms. DeGette, this concludes my statement. I
+would be happy to answer any questions at the appropriate time.
+[The prepared statement of Mr. Wilshusen follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Stearns. I thank you.
+Mr. Komaroff, you are welcome. Opening statement.
+
+STATEMENT OF MITCHELL KOMAROFF
+
+Mr. Komaroff. Good morning, Mr. Chairman and distinguished
+members of the subcommittee. Thank you for this opportunity to
+testify regarding the efforts of the Department of Defense
+pertaining to supply chain risk management.
+My name is Mitchell Komaroff, and I am the Director of
+Trusted Mission Systems and Networks within the office of the
+DOD Chief Information Officer. I provided a written statement
+for the record but would like to give you a brief overview of
+the globalization challenge facing the Department and to
+highlight----
+Ms. DeGette. Can you move your microphone a little closer?
+Mr. Komaroff [continuing]. To highlight key elements of our
+strategy for managing the risks presented by it.
+The Department relies heavily on custom and commercial off-
+the-shelf software, integrated circuits, computers,
+communication equipment, and other ICT, information
+communications technology, to stay on the cutting edge of
+technology development and to fulfill mission-critical
+operations. With increasing frequency, the Department and its
+commercial supplier base rely on foreign companies to produce
+the most advanced technology solutions.
+Although the globalization of the ICT sector has
+accelerated the pace of technical innovation, it has raised
+national security concerns. Through the increased globalization
+of the ICT supply chain, adversaries have more opportunities to
+introduce malicious code into the supply chain and to gain
+access or disrupt military systems. To address this challenge,
+DOD is implementing its trusted defense system strategy to
+improve the way we engineer and acquire systems and to reduce
+an adversary's ability to disrupt national security missions.
+For years, the Department has worked to better understand
+and manage the risk that DOD hardware and software may contain
+malicious code. We were first confronted with this problem in
+connection with the supply of trusted application-specific
+integrated circuits which we addressed through the Trusted
+Foundry program in 2003.
+The Department's strategy for achieving trustworthy systems
+in the face of supply chain risk contain the following core
+elements: one, prioritizing scarce resources based on mission
+criticality; two, planning for comprehensive program protection
+by identifying critical components and protecting them from
+supply chain risk informed by all-source intelligence; three,
+improving our ability to detect and respond to vulnerabilities
+in programmable logic elements; and, four, partnering with
+industry.
+I want to briefly highlight the importance of
+prioritization of our strategy. The difficulty of mounting and
+defending against supply chain exploitation focuses supply
+chain risk management on sensitive mission-critical systems.
+Accordingly, DOD policy levies additional supply chain risk
+management processes and practices on national security
+systems.
+Supply chain risk management represents a sea change in the
+acquisition process. It requires new institutional
+relationships between the acquisition and intelligence
+community and the application of operational security to the
+processes that historically we have sought to make transparent.
+It also requires engineering and test and evaluation
+capabilities that are still the subject of ongoing research.
+Recognizing these challenges would take time to implement,
+former Deputy Secretary Lynn directed an incremental
+implementation of supply chain risk management beginning with
+pilots in fiscal years 2009 and 2010, and requiring full
+operational capability by fiscal year 2016 for all national
+security systems.
+DOD is currently incorporating lessons learned during the
+piloting phase into permanent policy and practice. First, the
+Defense Intelligence Agency mission to support DOD acquisition
+with a supply chain threat analysis has been made permanent in
+DOD policy. To date, the Defense Intelligence Agency has
+performed approximately 520 analyses for DOD acquisition
+programs.
+Other key tenets have been institutionalized as well, such
+as directing that programs integrate criticality analysis, use
+of supply chain threat information, supply chain risk
+management key practices, and hardware and software assurance
+into program protection.
+DOD actively collaborates with industry on supply chain
+risk. One of our key goals is to facilitate the development of
+commercial global sourcing standards. DOD has been
+collaborating with other 20 government and industry
+organizations towards the development of standards under the
+umbrella of ISO, the International Organization for
+Standardization. DOD is also actively engaged in The Open
+Group's Trusted Technology Forum.
+Within DOD, we have made a significant start to
+institutionalizing supply chain risk management but still have
+a long way to go. Our key objective for fiscal year 2012 is
+fully incorporating these concepts into information assurance
+and acquisition policies and expanding these new processes from
+the military departments to defense agencies. DOD has
+collaborated on these issues within our agency regarding
+proposed policies and best practices, such as the NIST
+interagency report and the Committee on National Security
+Systems Directive 505, both entitled Supply Chain Risk
+Management.
+In conclusion, mitigating risk to U.S. Government missions
+arising out of the global supply chain from information and
+communications technology is vital to our national security.
+The Department looks forward to continuing the collaboration
+with our interagency and industry partners to manage this risk.
+Thank you for the opportunity, and I look forward to
+answering any questions you may have.
+[The prepared statement of Mr. Komaroff follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Stearns. Thank you very much.
+Mr. Vega.
+
+STATEMENT OF GIL VEGA
+
+Mr. Vega. Good morning, Chairman Stearns, Ranking Member
+DeGette, and members of the subcommittee. My name is Gil Vega,
+and I am the Associate Chief Information Officer for
+Cybersecurity at the Department of Energy. I also serve as the
+Department's Chief Information Security Officer. Thank you for
+this opportunity to testify today on the GAO report that is the
+subject of today's hearing.
+The Department of Energy appreciates the work performed by
+the GAO to identify opportunities to improve mission
+effectiveness by reducing IT supply chain risks. DOE shares
+GAO's concerns for these risks, which not only impact our
+missions but those of all Federal agencies and the private
+sector.
+DOE actively supports the goals outlined in the
+administration's recently released National Strategy for Global
+Supply Chain Security, and by leveraging the exceptional talent
+of the people in DOE we are committed to addressing these
+challenges.
+It is clear that supply chain, including IT supply chain,
+vulnerabilities threaten the missions of DOE and other
+agencies. As the Department's Chief Information Security
+Officer, I am briefed daily on the active and persistent nature
+of threats directed at DOE. One of my primary roles is to
+evaluate these threats to our unique full-spectrum mission from
+open science to energy research, to nuclear security, and
+establish effective agency-wide programs to mitigate the
+associated risks in a cost-effective manner.
+In my short time at DOE, I have been privileged to work
+with cybersecurity leaders in our National Laboratories and
+with interagencypartners who are committed to addressing this
+national-level challenge by partnering and sharing information
+and best practices with each other. Aligned with the
+Secretary's goals related to energy, economic, and national
+security, we are leveraging the expertise of our National
+Laboratories to develop processes and technology to effectively
+secure DOE's IT assets and to protect the Nation's critical
+infrastructure.
+To address cybersecurity threats, you must first build
+sound foundational components and by recognizing that no single
+organization can eliminate all risk. Recently, DOE has been
+successful in developing and delivering several key
+foundational elements to properly address the broader
+cybersecurity threats that we face while strengthening our
+ability to meet the wide range of mission goals.
+For example, DOE has developed and is implementing an
+agency-wide NIST-based risk management approach that raises
+corporate threat analysis and risk decision-making to senior
+management levels of DOE and serves as a corporate foundation
+for managing our mission and investments with acceptable levels
+of risk.
+DOE is also implementing the Joint Cybersecurity
+Coordination Center, which is delivering a new cybersecurity
+ecosystem based on consolidated monitoring and reporting,
+information sharing and analysis, and coordinated incident
+response capabilities across the Department. This is critical
+to the effective monitoring of mitigation strategies meant to
+address advanced cyber threats.
+As I previously stated, DOE recognizes the value and timing
+of the GAO review and concurs with GAO's recommendations.
+Specifically, we are already addressing these in a coordinated
+manner as follows: by actively participating in the national-
+level policy discussions on supply chain risk management; by
+developing a supply chain cybersecurity strategy and policy
+that will foster DOE's interagency relationships and support
+the unified approach described in the administration's
+strategy; by developing a plan to implement the requirements of
+the recently released Committee on National Security Systems
+Directive 505; by working closely with the National
+Counterintelligence Executive and the broader national
+intelligence and national security communities to stay abreast
+of and counter new and growing threats to the Nation's IT
+infrastructure; and, finally, by partnering with both DHS and
+DOD, industrial control system manufacturers, and energy-
+critical infrastructure operators to identify and mitigate
+risks to industrial control systems.
+We must also recognize the importance of the role played by
+DOE's National Laboratories, which have been at the forefront
+of identifying and mitigating vulnerabilities in the supply
+chain. DOE's National Laboratories have developed and are
+actively involved in improving capabilities in software and
+hardware assurance to mitigate risks, particularly to our
+national security systems and to the safety, security, and
+reliability of the Nation's nuclear weapons stockpile. DOE
+works closely with other agencies on these emerging
+capabilities.
+In conclusion, we believe that GAO understands the national
+challenge that IT supply chain risks pose to all Federal
+agencies as well as to the private sector and believe further
+congressional support for a nationally coordinated response is
+required.
+Again, DOE strongly supports the goals of the President's
+strategy, which seeks to align Federal activities across the
+United States Government, including in our partnerships with
+industry. DOE believes that this unified approach is the right
+approach and that policies and standards to address IT supply
+chain risk management must be coordinated at the national
+level.
+Thank you for this opportunity to discuss the report's
+findings.
+Mr. Chairman, this concludes my statement, and I look
+forward to answering all of your questions.
+[The prepared statement of Mr. Vega follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Stearns. Thank you, Mr. Vega.
+Let me just open up with just sort of a general statement
+when we are talking about IT supply chain. And this is a
+question for each of you. Would you think that the biggest
+emerging threat to the government and consumers is this IT
+supply chain? Just yes or no.
+Mr. Wilshusen. No.
+Mr. Stearns. No, OK.
+Mr. Komaroff? Yes or no?
+Mr. Komaroff. For some systems, yes.
+Mr. Stearns. Mr. Vega?
+Mr. Vega. I would say no.
+Mr. Stearns. No, OK.
+And when you talk about supply chain, I just want to define
+it. Are we talking about smartphones, computers, TPS devices,
+smart grid devices? Have I missed out anyone of the list I gave
+you?
+Mr. Wilshusen. It could be any--the whole--the whole slew.
+Mr. Stearns. A panoply of many devices.
+Mr. Wilshusen. So there are additional types of devices and
+components of those devices, to include servers----
+Mr. Stearns. Of the four I mentioned, you think there could
+be more.
+Mr. Wilshusen. Yes.
+Mr. Stearns. OK, and--I am just trying to get a general,
+what we are talking about, if I can.
+Mr. Komaroff. Yes, sir. So----
+Mr. Stearns. More than those four devices we could be
+looking at.
+Mr. Komaroff. Yes, there is a huge number.
+Mr. Stearns. OK, huge number. Can you give me maybe an
+ancillary one that we haven't thought about?
+Mr. Komaroff. Well, there are just dozens, and dozens of
+varieties of integrated circuits that----
+Mr. Stearns. Oh, OK.
+Mr. Komaroff [continuing]. Some systems integrators go out
+into the commercial marketplace to acquire.
+Mr. Stearns. OK, Mr. Vega?
+Mr. Vega. I am not sure if I heard you say, but the
+underlying telecommunications infrastructure is another one
+that we are concerned about.
+Mr. Stearns. OK. Mr. Wilshusen, this question is for you.
+You have identified risk to unprotected systems including
+malicious code on hardware and software, counterfeit hardware
+or software, reliance upon malicious or unqualified service
+provider. What do you see as the two greatest threats to our IT
+supply chain?
+Mr. Wilshusen. I would say first, one would be the
+introduction or insertion of malicious code to hardware and
+software and also, presently, counterfeits. Counterfeit items
+have been on the increase, and certainly they can have a
+debilitating effect on systems that are currently in operation.
+Mr. Stearns. Can you give the committee a list of specific
+examples?
+Mr. Wilshusen. Sure.
+Mr. Stearns. Examples of threats, I mean.
+Mr. Wilshusen. Well, threats and also incidents, if you
+will. You know, there is--back in 2010, the Department of
+Commerce issued a report that identified, did a survey of
+companies that participated in the DIB, Defense Industrial
+Base; and of the 387 companies that participated in the survey,
+39 percent of them encountered counterfeit electronics during a
+4-year period. And what's more, the number of incidents of
+those counterfeit items increased 140 percent over the 4-year
+period, from about 3,800 items in 2005 to over 9,000 in 2008.
+Mr. Stearns. All right. Mr. Komaroff, yesterday the GAO
+released a different report on counterfeit military parts
+manufactured overseas showing the prevalence of counterfeit
+parts in the DOD's Internet purchasing system. Has the work you
+have done led to a similar conclusion?
+Mr. Komaroff. Yes, sir. So I don't want to speak to the
+exact conclusions contained in that report, but within the
+report that we submitted to the Congress in 2010 in response to
+the 2009 Defense Authorization Act, the report entitled Trusted
+Defense Systems where we outlined our strategy, we did
+identify, you know, risks during the sustainment and, in
+particular, counterfeits as a strategic gap in our strategies.
+And since that time immediately began working it within the
+Department and then more recently in collaboration with the
+intellectual property coordinator. And policy has been issued
+within the Department identifying the Assistant Secretary for
+Supply Chain Integration as the lead for the Department on
+counterfeit issues, and the Department is pressing forward to
+work those issues.
+Mr. Stearns. What is the common specific threat to DOD
+supply chain that you have identified?
+Mr. Komaroff. The common threat, sir?
+Mr. Stearns. What is the most common threat to the
+Department of Defense's supply chain?
+Mr. Komaroff. The most common occurring threat, presumably,
+would be in the realm of the counterfeit issue because of its
+prevalence. Again, that is a different--typically, a different
+sort of threat actor and is more of a threat to the
+effectiveness of reliability engineering than the kind of
+threat that would be presented, for instance, with a--you know,
+an attempt by a foreign intelligence service to insinuate
+itself into a national security system of great importance.
+Mr. Stearns. Mr. Vega, can you specifically give me actual
+cyber attacks or threats to the Department of Energy's systems
+because of vulnerability? Can you give any specific examples?
+Mr. Vega. If I could----
+Mr. Stearns. Or are you aware of any cybersecurity threats,
+attacks to the Department of Energy? You don't have to get into
+detail, but, I mean, are you aware of any specific threats?
+Mr. Vega. Absolutely, and I would say, Chairman, that our
+number one concern at the Department of Energy are the
+coordinated efforts by some adversaries whose capabilities in
+the arena of computer hacking are world class. We have all read
+about these advanced persistent threats. We have had experience
+at the Department of Energy with incidents involving these
+threat actors, and that continues to be a major area of concern
+for us.
+Mr. Stearns. All right, my time is expired. The gentlelady
+from Colorado.
+Ms. DeGette. Thank you very much, Mr. Chairman.
+I am glad to see again Mr. Wilshusen. When you were last
+here, you talked about cybersecurity risks for the electric
+grid, and we talked then about the risk of cyber attacks on the
+electric grid supply chain. So now I am happy to have you back
+to talk about the threats and vulnerabilities in the IT supply
+chains.
+What are the key IT supply chain threats to Federal
+agencies?
+Mr. Wilshusen. Well, we would say that it would include the
+insertion of malicious or harmful software and hardware into
+the environment. The installation of counterfeit items
+certainly would be key to that and also any potential
+disruption in the production or distribution of these key
+items. Certainly, that would also have a role in the key
+threat.
+And also I would finally say, too, in terms of the
+installation of software, hardware that contains unintentional
+vulnerabilities, and these would be, for example, like design
+flaws in the equipment or software defects and coding defects
+into the software.
+Ms. DeGette. That could be taking advantage.
+Mr. Wilshusen. Yes. And indeed we often find that such
+defects are indeed taken advantage of once the software is in
+fact placed into operation at agencies.
+Ms. DeGette. And do you think most of the threats come
+through commercial items that are purchased by the Federal
+Government?
+Mr. Wilshusen. Yes, in some form or manner.
+Ms. DeGette. So why then are the Federal agencies relying
+so heavily on these commercial components? Are there incentives
+in place for them to purchase these commercial items versus
+developing IT products in-house?
+Mr. Wilshusen. Certainly. And I think it is the
+administration's policy to take full advantage of those
+commercial off-the-self products, both from cost savings as
+well as the functionality that they provide. It always gets
+back to kind of a risk management decision on whether or not we
+should use commercial products or potentially develop inside.
+Ms. DeGette. And, in fact, there is an OMB circular that
+encourages agencies to purchase the off-the-shelf items
+wherever possible, is that correct?
+Mr. Wilshusen. That's correct.
+Ms. DeGette. Mr. Komaroff, you are nodding your head yes,
+too.
+Mr. Komaroff. As I understand the matter, it has been a
+long-term Federal policy for so many years.
+Ms. DeGette. It is not just new under this administration.
+Mr. Komaroff. That's correct.
+Ms. DeGette. It has been in place for a long time.
+And even independent of the statutory incentives, is it
+even conceivable that Federal Government agencies would rely on
+noncommercial IT components for the majority of the source, Mr.
+Wilshusen?
+Mr. Wilshusen. For the majority of its equipment?
+Ms. DeGette. Right.
+Mr. Wilshusen. Probably not, but there certainly would be
+instances, they may want to do something in a trusted
+environment in terms of developing a system or components of
+systems, particularly for those that have a great deal of
+sensitivity and criticality to potential----
+Ms. DeGette. So we are talking today about addressing the
+IT supply chain threats, and that is important, but we
+shouldn't forget that these threats impact more than the
+Department of Defense and the Department of Energy. It is fair
+to say, isn't it, Mr. Wilshusen, that the threat you just
+described can also impact private-sector commercial purchasers
+of IT products, correct?
+Mr. Wilshusen. Absolutely.
+Ms. DeGette. And the issue of commercial impact is
+important, too, because much of our critical infrastructure,
+like the electric grid, for example, is run by private
+companies, and that is a network of private and public. So as
+the systems become more interoperable the repercussions of one
+single flawed component piece becomes more powerful, is that
+right?
+Mr. Wilshusen. I would agree.
+Ms. DeGette. So not all companies have the ability to
+closely vet IT supply chain threats to the product components
+they purchase, do they?
+Mr. Wilshusen. No.
+Ms. DeGette. And let me just give you an example. If there
+is a small business who is a contractor and they have one or
+two employees, they might not be able to make sure that the
+software they purchase isn't counterfeit or hasn't been
+infected with some kind of malware, is that right?
+Mr. Wilshusen. That is very likely.
+Ms. DeGette. So can you give us some advice about what the
+right balance is here? You know, the Federal Government can't
+always ensure the security of every single purchase by even
+every single one of their contractors or their subcontractors.
+So what is the best way for us to use Federal resources to try
+to, as best we can, achieve the goal of a secure supply chain?
+Mr. Wilshusen. Well, I think there are a couple of things.
+First of all, the Federal agencies and under the Comprehensive
+National Cybersecurity Initiative, which is led by DHS and DOD,
+and they have developed a working group to look at different
+activities, threat assessment tools, and other best practices
+that could potentially be used to assess and to try to mitigate
+the risk associated with supply chain. And certainly, to the
+extent--I should say a key focus of that initiative is to
+partner with the private sector. And certainly the private
+sector is a key part of the whole IT supply chain. And working
+with the private sector and using some of the tools developed
+by these agencies could be of benefit to others.
+Ms. DeGette. Thank you very much.
+Thank you, Mr. Chairman.
+Mr. Stearns. Mrs. Myrick is recognized for 5 minutes.
+Mrs. Myrick. Thank you, Mr. Chairman.
+I appreciate you all being here, and I appreciate your GAO
+report. It is an issue I have been spending a lot of time on
+lately. I am especially concerned about foreign, state-owned
+governments and militaries who are providing equipment, trying
+to get a foothold into this area. China is the main one that I
+have spent time on.
+And my concern is twofold. One, of course, with our
+government agencies, and I agree that the working groups are
+doing a much better job of trying to look over the whole
+spectrum of what is needed within the government.
+But going back to the question of the private sector and
+how we relate, because a lot of what we buy we buy from the
+private sector as well, and they maybe don't know that they are
+either buying a piece of equipment or a router or something
+that is not good. Do we--I know we work with them, but how are
+we looking at, across the industry, is there anything else that
+you think we can do relative to putting more certainty into the
+fact that they know what they are doing and what they are
+providing to us?
+That is one question.
+Mr. Wilshusen. OK, I would say certainly, you know, with
+the interagency working groups that are looking at this, and
+indeed the administration just came out in January with its
+National Strategy for Global Supply Chain Security, and one of
+the focuses of that particular strategy is to work with the
+private sector and State and local governments as well----
+Mrs. Myrick. Right.
+Mr. Wilshusen [continuing]. And other stakeholders to look
+across the entire spectrum in looking at the threats, the
+vulnerabilities, getting a better awareness of those, and then
+to work collaboratively and develop the tools and techniques
+try to mitigate that. So that certainly is a goal of this
+strategy.
+One of the things that we noted in looking at this
+strategy, however, is that it seems to focus on the movement of
+goods and services from point A to point B----
+Mrs. Myrick. Right.
+Mr. Wilshusen. --to point C and not really address the
+manufacture or the assembly and integration of those products
+and components into supply--or into full systems. And that's
+something that should probably be--something that we just
+notice in looking at it.
+Mrs. Myrick. Well, part of that also is price. Because
+everybody is looking at price today, and they want to buy
+cheap. And the foreign governments or the foreign militaries or
+the people who are part of these companies are literally
+dropping their price so low that our companies can't compete
+with them, and so people will buy it just because it is
+cheaper. And we see that over and over and over again. And it
+is very frightening to me, because we are at such high risk
+from the things that they can do to us.
+And so, you know, I just encourage all of you, I know you
+do it every day, but anything that you can do, you know, to
+look at this and your supply chain of what you buy and how you
+work with the private sector to help them, I would sure
+appreciate. Because it is not going to get better. It is going
+to get worse. The ways that they are trying to get equipment
+into here are frightening to me.
+So I yield back, Mr. Chairman.
+Mr. Stearns. Mr. Scalise is recognized for 5 minutes.
+Mr. Scalise. Thank you, Mr. Chairman. I appreciate you
+having this, and I appreciate the panelists who are here with
+us on the GAO report on supply chain.
+I apologize if this was already brought up. Mr. Vega, on
+the Department of Energy, there were some issues that they had
+brought up. I think they--you know, on DOD, they had a pretty
+good assessment there, but on DOE they had raised some issues.
+And, you know, especially when you look at some of the
+sensitive nature of some of the things that the Department of
+Energy has and, of course, management of our nuclear weapons
+stockpile, among other things. If you could just kind of give
+me your take on the issues that were brought up in that GAO
+report.
+Mr. Vega. Sure. I thank you for the question.
+I think the report brings up some very good
+recommendations, and I think there is some room at the
+Department of Energy to be more explicit about the policy
+relating to supply chain risk management and also about the
+processes and also the controls to the systems to monitor the
+implementation of those processes.
+But I will tell you that the Department of Energy is very
+active in delivering some very foundational elements that are
+associated with detecting, mitigating, and responding to many
+different types of threats targeted at the Department of
+Energy. We have many threats that we are concerned about.
+Supply chain risk management is certainly one of those. You
+heard me talk about the organized attackers that target
+government agencies. There is also trusted insiders that we are
+focused on detecting and responding to, a whole litany of
+different threats are pointed at not only to the Department of
+Energy but other Cabinet agencies as well.
+Our focus on supply chain, however, is in the broader sense
+related to the risk-management approach that the Department of
+Energy is embarking upon. Recently, in the past year, the
+Department of Energy has implemented this new risk-management
+approach which is mission-focused and allows--and directs those
+business owners to direct limited resources at the things that
+are most important to the mission and the most sensitive--the
+most sensitive data.
+My office has issued architectural frameworks that actually
+direct these business and system owners to account for supply
+chain risk management as part of their overall risk-assessment
+process.
+Mr. Scalise. In the last year, have you all had any
+reported incidents--and I open this up to everybody--you know,
+what kinds of things that have happened and, you know, have
+you--we hear in the private sector all the time a lot of high-
+profile examples of systems that were violated, breaches that
+occurred; and, in some cases, we have identified back to
+specific countries where this is happening, you know.
+Have you had any of those experiences as you encounter some
+of the things that are happening, in some cases possibly
+government-led, by foreign governments? Do you all talk to the
+State Department, you know, to try to get--to get some of those
+problems addressed at the State level where we know there's
+some foreign countries that are trying to break into our
+systems, both government and private sector?
+Mr. Vega. Without getting into too many specifics, the
+Department of Energy has experienced recent events that have
+been widely publicized in the past year at some of our National
+Laboratories. Without speaking directly to the nation-state
+implications of those events, I will tell you that the
+Department of Energy is engaged at the interagency level with
+the White House on a government-wide response to these advanced
+threats, and I would be more than happy to talk to you more in
+a closed session about what some of those discussions entail.
+Mr. Scalise. Sure. Mr. Komaroff?
+Mr. Komaroff. I would defer, you know, to others on the
+broad spectrum of cyber-related exploitation that could be
+affecting the Department's systems and networks. I think that
+that shades into the presence of counterfeits and components
+and what have you that have been identified within the
+Department. I don't think that there is strong enough evidence
+to present a no-kidding instance of what I would call a true
+supply chain exploitation accounting for any one of them.
+Malicious code account--malicious code, so-called, accounts
+for, which is generally code injected into systems, typically
+remotely, frequently exploits the kinds of weaknesses and
+security defects in devices that we acquire. That is kind of a
+different problem and is the basics of information assurance
+and cybersecurity.
+Supply chain risk, as we address it, represents a much
+smaller set and much more difficult to discern. There will be
+instances where we put two and two together, see a threat
+actor, and examine equipment and find weaknesses associated
+with it. Those weaknesses frequently could be explained as
+either security related defects or the failure to close
+engineering-type back doors and what have you.
+Ultimately, it is a subtle matter trying to discern whether
+or not a particular instance is the case of an explicable--an
+otherwise explicable defect or a no-kidding supply chain
+exploitation.
+Mr. Scalise. I see my time is up.
+Mr. Stearns. I appreciate it.
+The gentleman from Texas, Mr. Green, is recognized for 5
+minutes.
+Mr. Green. Thank you, Mr. Chairman.
+American manufacturers rely heavily on the global supply
+chain to build products and hardware, for the devices can be
+made and assembled in any country in the world. Software code
+can be written everywhere. This means that foreign governments
+can have access to these components at several entry points,
+and these components can make their way into any number of
+places via government entities or private-sector uses through
+critical infrastructure components and controls and even
+through personal electronics.
+Mr. Wilshusen, are most IT product components manufactured
+in the U.S.?
+Mr. Wilshusen. I would say no.
+Mr. Green. Do you know where a lot of these components are
+manufactured?
+Mr. Wilshusen. It could be anywhere--anywhere on the
+planet, generally.
+In the report we just issued, we have a diagram of a
+laptop, and from that we identified various different
+components of your basic laptop like the LCD, the motherboard,
+circuits, memoryS storage and hard drives, and each of those
+products could come from any number of multiple different
+countries, except for the motherboard. I think we only found
+that coming from Taiwan, but----
+Mr. Green. Oftentimes, the purchaser of the ultimate
+product isn't aware of where all the components are from.
+Because, again, even an individual, if you buy your cell phone
+or your--you know, BlackBerry or whatever. So a government
+entity could purchase a product from an American brand and not
+be--and be unaware of where all the component pieces in it were
+manufactured or assembled.
+Mr. Wilshusen. Yes, I would say definitely so.
+Mr. Green. This leaves government purchases heavily
+exposed, and right now companies are not obligated to inform
+the government in commercial or individual purchases of where
+the products they sell come from.
+Mr. Wilshusen, do government entities currently track where
+all of their components come from?
+Mr. Wilshusen. No, they don't. And particularly one of the
+objectives that we had in our report that we issued dealt with
+the extent to which the four agencies that we went to--Energy,
+Homeland Security, Justice, and DOD--on the extent to which
+they tracked the foreign location of these components, and none
+of them actually tracked those.
+But then again they weren't required to track it either,
+and there is a thought that trying to do so would be cost-
+prohibitive and that perhaps a more indicative--or an
+indication of the threat and risk would be not so much location
+of a facility where a component is prepared but more it is the
+influence that an either foreign intelligence service or some
+other organization may have over the entity, not its direct
+location.
+Mr. Green. So the obstacle is just the cost and the time
+frame. But is there a way that those four agencies have
+identified that they can make sure what they are purchasing has
+not been either compromised--or to the point of maybe even the
+quality, not to the point--I am not saying sabotaged but the
+quality would not be to the level we expect.
+Mr. Wilshusen. Well, one of the activities that these four
+agencies are conducting to an extent are threat assessments on
+certain level of acquisitions. Typically, these may be for the
+most highly sensitive acquisitions, and these threat
+assessments are for a particular product or service on a
+particular acquisition. And those threat assessments are then
+considered and, in some instances, are being provided to a
+database or repository that is being kept by the Office of the
+National Counterintelligence Executive.
+Mr. Green. OK, Mr. Komaroff and Mr. Vega, what are your
+agencies doing to address some of these obstacles on the
+quality or the concern of the products we are using?
+Mr. Komaroff. Do you want to go first?
+Mr. Vega. Sir, so at the Department of Energy, we rely on
+most of our competitively purchased IT commodity items. We rely
+on the General Services Administration through their
+contracting process to deliver those to the Department of
+Energy. While there is some assurance, I believe, in the
+processes at GSA to validate pedigree of some of these devices
+and technologies, we understand that there is more we can be
+doing.
+I will tell you that we are very much engaged with the
+Office of the National Counterintelligence Executive in some
+piloted procurement working groups to help--to better help
+understand what the actual threat to the Department of Energy
+is when dealing with some of these manufacturers.
+Mr. Green. Mr. Chairman, given our Nation's reliance on
+components manufactured outside the U.S., I think it is
+important that we do everything in our power to ensure that, at
+the very minimum, we know where the threats may lie. It is
+important for manufactures to be up front about where the
+products they sell come from. It is also important for Federal
+agencies to carefully vet the products they purchase. Securing
+our supply chain is not simply a private-sector problem or
+Federal Government agency problem, because it really affects
+all of us. And so I appreciate the chance to have this hearing.
+Mr. Stearns. I thank the gentleman.
+And the gentleman from Georgia is recognized for 5 minutes.
+Mr. Gingrey. Mr. Chairman, thank you.
+Mr. Vega, last year, Bruce Held, the DOE's Director of
+Intelligence and Counterintelligence, noted that if a malicious
+actor controls your hardware or software, they control your
+system. Held went on to explain that the military does check
+the hardware and software in these systems to security
+vulnerabilities and possibly malicious code but that this would
+be very costly for the private-sector companies. Do you agree
+with Mr. Held?
+Mr. Vega. I do agree with Mr. Held.
+Mr. Gingrey. Are the IT products and service providers that
+you deal with checking their products?
+Mr. Vega. Sir, I would have to answer that I believe some
+of our vendors have programs to vet their supply chains, and
+some do not.
+Mr. Gingrey. And are you attempting to verify that they do?
+Is that part of what you are doing?
+Mr. Vega. I think what we are doing, sir, is we are
+embarking on the process of developing explicit direction to
+our IT purchasers across the Department to do exactly that.
+Mr. Gingrey. Has DOE ever identified a cyber incident or
+control systems incident that could be attributed to corrupted
+hardware or software linked to a supply chain vulnerability?
+Mr. Vega. Sir, I would have to say in my short time at DOE
+I have not been made aware of any confirmed supply chain threat
+that has been realized at the Department. Doesn't mean there
+isn't. I am just not aware of one.
+Mr. Gingrey. And you told us in your opening testimony you
+have been with DOE in this position for how long?
+Mr. Vega. A little bit more than 8 months, sir.
+Mr. Gingrey. And before that?
+Mr. Vega. I was the Chief Information Security Officer at
+Immigration and Customs Enforcement in the Department of
+Homeland Security.
+Mr. Gingrey. Thank you, Mr. Vega.
+Mr. Vega. Thank you.
+Mr. Gingrey. I want to direct the next question, Mr.
+Chairman, to Mr. Wilshusen.
+To what extent will your report, the GAO's report work,
+shed light on critical infrastructure security? What role does
+the Department of Homeland Security, for example, have in
+coordinating information over supply chain challenges?
+Mr. Wilshusen. Well, with regard to your first question,
+with regard to the critical infrastructure protection in that,
+it would address it to the extent that as it relates to IT
+supply chain, the threats and vulnerabilities. What we found
+with regard to the supply chains that affect Federal systems
+and Federal agencieswould also likely affect private sector,
+because it is generally coming from the same global supply
+chain area.
+Mr. Wilshusen. And so in that respect it would be similar.
+Mr. Gingrey. Well, you know, it is one thing to ensure
+standards for off-the-shelf software used by U.S. Government,
+but how do you communicate supply chain risk to the purchases
+of specialized control systems software made internationally
+for use in very critical infrastructure?
+Mr. Wilshusen. Well, in terms of standards, the Federal
+Government is pretty much just setting up for what its agencies
+need to do in terms of securing its software, but if a
+particular agency needs a particular security requirement on
+its products and it is acquiring those from a private sector
+organization, it would typically identify what those are in the
+contractual mechanisms that exist with that particular company
+to determine we need these particular security requirements in
+our software, in our hardware, in our systems, and then assure
+that the private sector organization is able to deliver.
+Mr. Gingrey. What metrics do you have in measuring progress
+on this front?
+Mr. Wilshusen. I am not sure there are that many metrics in
+that particular area that exist.
+In terms of percentage of contracts that have security
+requirements, I don't know of that.
+Mr. Gingrey. Mr. Chairman, that's all the questions that I
+have, and I yield back the last minute.
+Mr. Stearns. I thank the gentleman. I think Mr. Gingrey
+made a good point, Mr. Vega. Will the Department of Energy
+finish its process of giving guidance to your suppliers for
+them to promote their supply chain's integrity? When is that
+date going to be?
+Mr. Vega. Sir, it is hard to predict how long it will take
+for the Department.
+Mr. Stearns. Isn't DOE in charge of our nuclear stockpiles?
+Mr. Vega. Yes, they are, sir.
+Mr. Stearns. OK. It seems like you should have an answer. I
+mean that's a strategic area that we want to be sure that you
+are protecting, and yet I would just like to actually get a
+date of when you are going to do something.
+Mr. Vega. Absolutely, our current----
+Mr. Stearns. This whole process.
+Mr. Vega. I am sorry. Our current risk management policy
+requires our under secretary organizations to account for
+supply chain risks within their risk management.
+Mr. Stearns. So you don't have a date then? Huh? That's OK,
+I understand. How long has this been going on then.
+Mr. Vega. I'm sorry, how long has what been going on, sir?
+Mr. Stearns. This whole process of trying to figure out, to
+give guidance to your suppliers. You can't give a date when you
+are going to complete it. Have you started it?
+Mr. Vega. We have started engaging the various programs----
+Mr. Stearns. Engaging? You started engaging.
+Mr. Vega. We have started engaging.
+Mr. Stearns. And how long has this process been going on?
+Mr. Vega. It has been going on since we were first
+contacted by GAO.
+Mr. Stearns. Which is when, how long ago?
+Mr. Vega. Since March of this year.
+Mr. Stearns. OK. So you have only started this month--this
+month you just started the whole process of guiding guidance to
+your suppliers to promote the supply chain integrity. So you
+have only being doing it for 2 weeks, is that true?
+Mr. Vega. With regard to the findings for the GAO report,
+that is true. However, there are a lot of other activities
+ongoing within the Department.
+Mr. Stearns. Because I think many of us are concerned that
+the GAO report shows that DOE is the furthest behind in
+developing IT supply. You have confirmed it today that it is
+only the last couple weeks that you've even thought about
+giving guidance to your suppliers dealing with supply chain
+integrity.
+Let me ask this question.
+Ms. DeGette. Can I just follow up?
+Mr. Stearns. Well, you can take your own time. You can have
+a second time on this.
+Ms. DeGette. But I just want to----
+Mr. Stearns. The gentlelady will suspend. I am involved
+with a question here.
+For example, DOD is in the process of using its
+intelligence authority in its procurement process. Does the
+Department of Energy have enough information, enough
+information to evaluate its vendors or could you benefit from
+more information?
+Mr. Vega. We can always benefit from more information, and
+we could always benefit from better collaboration. I will tell
+you that we are engaged in the interagency very actively with
+DOD, DHS, and the White House to share information and best
+practices, not only internally with DOE but also with our
+Office of Electricity Delivery and Energy Reliability.
+Mr. Stearns. OK. I think what happened is Mr. Gingrey had
+time and they kept my time, so I still have more time in the
+original 5 minutes which I was taking. So I assume I have
+another 2 minutes or so.
+Let me ask you this, Mr. Vega. Are you aware of any cyber
+attacks or threats to DOE systems that were because of a
+vulnerability a supply chain?
+Mr. Vega. I am unaware of any.
+Mr. Stearns. OK. What types of supply chain threats has the
+DOE ever faced?
+Mr. Vega. Well, I think we faced supply chain risk to our
+nuclear surety program.
+Mr. Stearns. To your what program?
+Mr. Vega. To our nuclear surety program.
+Mr. Stearns. How about your nuclear stockpile program, have
+you--yes or no.
+Mr. Vega. Yes, which is why the Department actually
+operates two trusted foundries at both Kansas City and Sandia
+to provide for the surety of that mission.
+Mr. Stearns. Well, based upon this I think you should have
+been ahead of curve instead of just the last 2 weeks giving
+guide against to the suppliers.
+What specifically is DOE doing to partner with industrial
+control system manufacturers and energy critical infrastructure
+operators to identify and mitigate risk to industrial control
+systems?
+Mr. Vega. Our organization has been working closely with
+the Office of Electricity Delivery and Energy Reliability to
+share lessons learned and best practices at the Department with
+the sector on control systems. However, that organization is
+led by an assistant secretary, Assistant Secretary Hoffman. I
+would be glad to take your questions back for the record to get
+more information on the lessons learned.
+Mr. Stearns. All right. What is the one risk or threat to
+Federal IT supply chains you are most concerned about and what
+are you doing to address it?
+Mr. Vega. I'm sorry, I couldn't hear the beginning of your
+question.
+Mr. Stearns. What is the one risk or threat to Federal IT
+supply chains you are most concerned about at DOE?
+Mr. Vega. I can't say that I am concerned more about a
+specific IT supply chain risk. I think we have heard many from
+our panelists here. There are many that can be manifested in
+our environment if we are not careful. As I said in my remarks,
+we have spent a lot of time and energy developing foundational
+elements to help us detect, mitigate and respond to that threat
+as well as many other threats we are facing.
+Mr. Stearns. I think we will recognize Ms. DeGette.
+Ms. DeGette. Mr. Chairman, I was just trying to follow up
+on the question you were asking of Mr. Vega. Mr. Vega, you said
+that you guys have just started this process with the
+contractors this month, correct?
+Mr. Vega. In response to the GAO report, that is correct.
+Ms. DeGette. And so when do you expect that process to be
+completed?
+Mr. Vega. We have--we expect that process to follow our
+internal----
+Ms. DeGette. Yes, I understand that, but when do you expect
+it to be completed? You wouldn't give the chairman a date, but
+perhaps you have a time frame.
+Mr. Vega. I would say, Ms. DeJette----
+Ms. DeGette. It's DeGette.
+Mr. Vega. I'm sorry, I apologize.
+Ms. DeGette. That's OK.
+Mr. Vega. Beginning of next calendar year we would have
+some good progress made.
+Ms. DeGette. Well, OK. What does that mean, ``good progress
+made''?
+Mr. Vega. The Department of Energy is a very diverse
+organization with varying missions and varying threats of
+varying appetites for threat and risk. The idea that the
+Department can quickly issue policies, procedures, and
+monitoring systems for that entire complex in a short amount of
+time is probably not a good assumption.
+Ms. DeGette. But Mr. Vega, here's our concern, and I think
+I can say the chairman shares this concern, is we understand
+all the complexities of the DOE, and this is what I was talking
+to Mr. Wilshusen about earlier, is that if there are threats we
+need to identify them, we need to identify the severity and
+where they occur so that we can begin addressing them. And
+vague answers like this are very disconcerting to people on
+both sides of this panel because, after all, it is the
+Department of Defense.
+So I think my suggestion--I am sorry, the Department of
+Energy. And so what I would suggest is that you folks, now you
+have got this GAO recommendation and you are putting a process
+into place, I would suggest that you put a clear timeline into
+place about goals and results culminating at the earliest
+possible convenience. We don't want corners to be cut or
+anything like that. But we think--and then work with this
+committee to inform us about what the plan is. I think our
+concern is that the plan seems a little vague just sitting here
+today.
+And with that, I will yield back.
+[The information follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Stearns. I thank the gentlelady. And Mr. Terry is
+recognized for 5 minutes.
+Mr. Terry. Thank you, Mr. Chairman. And Mr. Vega, I
+apologize that I was in--to all three of you--in an anteroom in
+a quick meeting that lasted a few minutes more. I walked in
+during your answer and didn't really hear what Mr. Gingrey's
+question is, so it piqued me, I was really interested.
+Just very bluntly then so I am clear in regard to having a
+cybersecurity plan for a critical infrastructure nuclear power
+plant, who is best to oversee that cyber plan, DOE or Homeland
+Security?
+Mr. Vega. Who is best to oversee a cybersecurity plan for a
+privately owned power generator, is that the question?
+Mr. Terry. OK, let's say a public power nuclear facility. I
+don't care, it is nuclear.
+Mr. Vega. Right.
+Mr. Terry. And it is under DOE.
+Mr. Vega. It is DOE. I have to say, sir, that my focus on
+cybersecurity is internal to the Department of Energy and the
+Federal M&O contractors that operate our National Labs. I am
+not that familiar to offer an informed opinion about who would
+be better overseeing the implementation of a cybersecurity
+plan.
+Mr. Terry. I was hearing that you were saying that perhaps
+Department of Homeland Security was better prepared to do that,
+and I am trying to figure out where their nuclear power plant
+expertise would be.
+Mr. Vega. I am not sure what you heard, sir.
+Mr. Terry. OK. I just want to clarify that.
+Evidently--were you suggesting, Mr. Wilshushen? I'm sorry.
+Mr. Wilshusen. That's OK, Wilshusen.
+Mr. Terry. Wilshusen, just like it is written, I am sorry.
+Did you suggest that Homeland Security would be better
+supervising overseeing cybersecurity techniques and plans for
+nuclear power plants which would obviously, because they are
+nuclear, would probably be defined as critical?
+Mr. Wilshusen. I did not suggest that, but I will mention
+that, and it is not part of this report on IT supply chain, but
+DHS does have a role in terms of being the sector under the
+National Infrastructure Protection Plan and program, DHS does
+have a role in providing guidance and overseeing the--I think
+it is the nuclear power industry. Also, Nuclear Regulatory
+Commission would be a member and would have insight into that
+since they are regulators of these nuclear power plants.
+Mr. Terry. Is the Nuclear Regulatory Commission under
+Homeland Security's umbrella or another agency's like DOE?
+Mr. Wilshusen. It is a separate, independent agency of
+Federal Government.
+Mr. Terry. Independent agency.
+Mr. Wilshusen. It is separate. And so they also specify
+some of the security requirements in its role as a regulator of
+nuclear power plants to give security. They do conduct certain
+reviews over that.
+Mr. Terry. Well, I am going to ask you one follow-up
+question that stood out to me during your testimony, but
+quickly, Homeland Security under my personal view has been a
+disaster. And to put them in charge of cybersecurity of any
+critical infrastructure scares the hell out of me frankly. And
+every time I go through an airport I think of how incompetent
+they are. So that's just my statement for the record. I am
+sorry I was looking at you when I said that.
+But you mentioned in the chain, supply chain that we are
+concerned about the unauthorized, which then led me to the
+question of how--what needs to be authorized? What parts of the
+supply chain, is it the individual parts at the assembly? Who
+is going to be able to have the authority to say that they are
+authorized to approved that this chip can go into this
+computer, that can be sold then to the Defense Department. I
+can't get my mind around who would have that level of
+authority, and you have 28 seconds.
+Mr. Wilshusen. First of all, when I mentioned the word
+``unauthorized'' it dealt with acquiring products or parts
+components if you will from unauthorized distributors as
+opposed to those companies or entities, either the original
+component manufacturer or their other approved, if you will,
+suppliers to provide it. So if an agency were to go to some
+other, through some other distributor that's not authorized to
+sell a particular product that was the vulnerability to which I
+was referring.
+Mr. Terry. All right. Thank you.
+Mr. Stearns. All right, we will let the first panel be
+dismissed and we will have the second panel come up. Thank you
+very much for your time.
+Mr. Stearns. Welcome the second panel. We have Mr. Larry
+Castro, Managing Director of the Chertoff Group, and we have
+Dave Lounsbury, Chief Technical Officer of the Open Group.
+Welcome each of you. And at your convenience, Mr. Castro, we
+will let you start with your opening statement.
+First we have to swear you in.
+As you know, the testimony that you are about to give is
+subject to Title 18, section 1001 of the United States Code.
+When holding an investigative hearing this committee has a
+practice of taking testimony under oath. Do you have any
+objection to testifying under oath?
+Mr. Castro. I do not.
+Mr. Lounsbury. No.
+Mr. Stearns. The chair then advises you that under the
+rules of the House and the rules of the committee you are
+entitled to be advised by counsel. Do you desire to be advised
+by counsel during your testimony today?
+Mr. Castro. I do not.
+Mr. Lounsbury. No, sir.
+Mr. Stearns. In that case will you please rise, raise your
+right hand and I will swear you in.
+[Witnesses sworn.]
+Mr. Stearns. Now if you would be so kind as to give your 5-
+minute opening statement. Mr. Castro, we will start with you.
+Welcome.
+
+STATEMENTS OF LAWRENCE CASTRO, MANAGING DIRECTOR, THE CHERTOFF
+GROUP; AND DAVE LOUNSBURY, CHIEF TECHNOLOGY OFFICER, THE OPEN
+GROUP
+
+STATEMENT OF LARRY CASTRO
+
+Mr. Castro. Good morning, Chairman Stearns, Ranking Member
+DeGette, and members of the subcommittee. I appreciate the
+opportunity to speak with you today regarding the important
+role of IT supply chain security and our Nation's approach to
+cybersecurity. I am appearing today in my personal capacity
+although for the record I am currently a Managing Director at
+the Chertoff Group, a firm that provides strategic advisory
+services on security matters, including cybersecurity.
+While my work at Chertoff Group informs much of my current
+insight into the cybersecurity threat environment, my basic
+understanding of information assurance in cybersecurity is
+drawn from my 44 years of Federal service at the National
+Security Agency. It is thus from these two perspectives that I
+offer my views for your consideration today.
+I commend the subcommittee for addressing this topic today
+as the GAO report well describes securing the supply chain is a
+challenging and complex task with many moving parts and
+dependencies. I would suggest, however, that it is not an
+intractable problem and it is one that can be addressed in the
+risk management framework.
+The GAO report documents that there's ample policy
+direction and implementing guidance from which one can start to
+build supply chain defenses. What is needed, however, is a
+framework that can build on that policy base and also support
+the implementation detail. Risk management offers such a
+framework. Risk management approaches security from the aspects
+of threats, vulnerabilities and consequences and can be used to
+unwrap some key supply chain issues.
+Let's first consider the threat actors who might both be
+able to benefit from and execute an infiltration of the supply
+chain, perhaps by inserting a modified component into the
+supply chain of a critical U.S. Government IT enterprise. To do
+so of course the adversary must be capable of penetrating the
+production process at a point far enough downstream to ensure
+that the right target has been infiltrated.
+In addition to performing the adversary's desired covert
+function, the modified component must also execute the
+component's function as originally designed. I would submit to
+you that across the spectrum of threat actors in cyberspace
+today the most likely players to have the motive and the
+capability to successfully accomplish such a deception would be
+nation-states.
+So who then would be the nation-states that might have the
+necessary qualifications and motives? The GAO report notes as
+you have heard already in testimony today about an outstanding
+organization on point within the Federal Government for
+identifying such threat actors. That organization is the Office
+of the National Counterintelligence Executive, or NCIX, within
+the Office of the Director of National Intelligence.
+In October 2011 NCIX published this eye opening report to
+the Congress, entitled Foreign Spies Stealing U.S. Economic
+Secrets in Cyberspace. The report convincingly presents the
+case that both the People's Republic of China and the Russian
+state apparatus have both the intent and capability to
+undertake economic espionage enhanced by cyber means. These are
+the key threat actors against whom our supply chain defenses
+should be aligned.
+What consequences do they seek to achieve by infiltrating
+the U.S. supply chain? The scope of objectives spans the full
+range of results achievable from malicious activity in
+cyberspace, some of which you all have already addressed this
+morning. They include the compromise of confidentiality leading
+to the loss of sensitive data and intellectual property, the
+loss of availability of critical national security systems, and
+the corruption of data residing in these critical systems.
+As has already been discussed today, there are numerous
+vulnerabilities in the supply chain that can be exploited.
+There are, however, well documented best practices and tools
+that may be implemented to address some of these
+vulnerabilities, and I believe the next speaker on the panel
+will address some of those. The use of these tools and
+resources, however, must be considered in the context of likely
+threat actors and the consequences that they seek to achieve.
+Finally, I would like to comment about a section of the GAO
+report again that you already discussed this morning dealing
+with the lineage of equipment used in U.S. Government networks.
+While the report concluded that emphasis is not given to
+determining if such networks contained foreign developed
+components, the intelligence community representatives quoted
+in the report offered the view that determining if a
+relationship exists between the supplier company and a foreign
+military or intelligence service, that would be a more reliable
+indicator of a potential security risk than simply ascertaining
+whether a specific product was manufactured or provisioned
+outside the United States. I strongly endorse this conclusion
+and note that the practice of conducting such due diligence
+audits of supplier sponsor links is well established in the
+private sector.
+For maximum effectiveness, however, this due diligence
+requires a good conduit to move high fidelity threat actor
+information between the U.S. Intelligence community and those
+in the private sector who would benefit from the intelligence
+community's insights. It is encouraging that many of the cyber
+bills under consideration by you all this session address the
+need for such improved information sharing.
+Again, thank you for the opportunity to address this topic,
+and I would be pleased to answer your questions at the
+appropriate time.
+[The prepared statement of Mr. Castro follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Stearns. I thank you. Mr. Lounsbury, your opening
+statement, please.
+
+STATEMENT OF DAVE LOUNSBURY
+
+Mr. Lounsbury. Chairman Stearns, Ranking Member DeGette,
+and distinguished members of the committee. On behalf of the
+Open Group and the Open Group Trusted Technology Forum, I want
+to thank you for the opportunity to speak at this IT supply
+chain security hearing to discuss how the Open Group's Trusted
+Technology Forum plans to address some of the challenges in
+securing the global supply chain that have been discussed
+today.
+A little background: The Open Group is a global consortium
+that enables the achievement of business objectives through IT
+standards. We have more than 400 members, spanning all sectors
+of the IT community from customers to vendors, to integrators
+and consultants as well as academics and researchers. And staff
+works with them to capture, understand, and address their
+current and emerging requirements and establish the policies,
+shared best practices, to facilitate interoperability and
+develop consensus around evolving and integrating standards.
+And to back this we operate an industry premier certification
+service operating a variety of certification programs over 20
+years.
+In 2008, the then current Under Secretary for the
+Department of Defense Acquisition Technology and Logistics
+posed the follow challenge to the Open Group members: How can
+the DOD safely procure IT technology from an increasingly
+global and sometimes unpredictable supply chain in a rapidly
+changing threat environment? The discussion focused on the
+challenges associated with an increased reliance on commercial-
+off-the-shelf information communication technologies in
+commercial and government enterprise, including the defense
+industry. The parties formalized those discussions in an
+initiative under the Open Group that we call the Open Trusted
+Technology Forum. And that is a forum, it is a global
+initiative that brings in government industry and other
+interested participants to work to develop an open technology,
+open trusted technology provider standard that's a public-
+private partnership to address this very clear cybersecurity
+challenge in a shared, multi-stakeholder risk environment like
+the global supply chain.
+Member organizations contributing to the work include a
+broad range of global suppliers, buyers of products and third
+party test labs. The open trusted technology provider standard,
+which is currently published as a snapshot, provides
+organization commercial best practices that when properly
+adhered to will enhance the security of the global supply chain
+and the integrity of COTS ICT products throughout the entirety
+of the product lifecycle. That is from the design phase through
+the sourcing of the components, build, fulfillment,
+distribution, sustainment and all the way to the disposal
+phase.
+Snapshot was released in March and is intended to become an
+Open Group standard which will be available to everyone, and
+this provides a set of best practice requirements and
+recommendation on two types of risk inherent in the acquisition
+and use of COTS ICT products. First is tainted product risk,
+and that is a product is produced by the provider and is
+acquired through legitimate reputable channels but has been
+tampered with maliciously.
+The second is the counterfeit product risk where a product
+is produced other than by or for the provider or is supplied by
+other than a reputable channel and is presented as being
+legitimate.
+The standards based on best practices have been contributed
+from the experience of very mature industry providers and the
+results rigorously reviewed through an open consensus process,
+standards sufficiently detailed and prescriptive enough to be
+useful in raising the bar for all the technology suppliers, and
+it really lends itself to an accreditation process that will
+provide assurance that it's being followed in a meaningful and
+repeatable manner. And by adopting the standard and committing
+to conform to these best practices, technology providers,
+whether it be hardware or software component suppliers and
+integrators, will help ensure the integrity of the COTS ICT
+products.
+Now given the very fast pace changes of technology and risk
+landscape, the OTPF plans to evolve the OTPF standard over
+time, and so as specific threats emerge or the market needs
+evolve then the forum will update the standard to address these
+threats or changes.
+It takes a very comprehensive view about the practices a
+provider should follow in order to be considered to be a
+trusted technology provider that builds with integrity allowing
+its customers to buy with confidence.
+Chairman Stearns, Ranking Member DeGette, and members of
+the committee, thank you again for the opportunity. I want to
+offer up the expertise of the Open Trusted Technology Forum to
+the subcommittee and other congressional committees as they
+continue to examine supply chain issues. We look forward to
+working together to address the critical problem of improving
+global supply chain security.
+Thank you.
+[The prepared statement of Mr. Lounsbury follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Stearns. And I thank you. And I will start with my
+first set of questions. I will ask you the first question that
+I am trying to get an answer to, which I asked the first panel,
+to each of you. Is the biggest emerging cybersecurity threat to
+consumers and government agency the cybersecurity threats to
+the supply chain, IT supply chain? Yes or no. Do you want me to
+repeat the question? Is the biggest emerging cybersecurity
+threat to consumers and government agencies the cybersecurity
+threats to the IT supply chain? Yes or no.
+Mr. Castro. My answer would be no.
+Mr. Stearns. And yours?
+Mr. Lounsbury. My answer would be no as well.
+Mr. Stearns. If not, what is? In the first panel one person
+said yes and two said no, but I forgot to ask them what is.
+What is, Mr. Castro, that preempts this in your opinion?
+Mr. Castro. The threat is the----
+Mr. Stearns. Could you have your mic on?
+Mr. Castro. The threat is the remote access threat enabled
+by poor practices on the intended victims either not having
+adequate defense in-depth and protection of critical data, and
+also quite frankly increasingly folks are just succumbing to
+pfishing attacks that are very well constructed. But those
+pfishing attacks are the entry point for remote access attack
+attempting to acquire mostly intellectual property.
+Mr. Stearns. Not in the supply chain?
+Mr. Castro. No, I would not put the supply chain in that.
+Mr. Stearns. OK, that's interesting. Mr. Lounsbury?
+Mr. Lounsbury. I believe the supply chain is part of the
+problem. I think the actually immediate risk is from external
+attack, whether from outsiders or people who have been placed
+inside organizations.
+Mr. Stearns. So you are not worried about malware or all
+these other things, you are worried about somebody externally,
+either through pfishing or some kind of overt action getting in
+and then having the piece of software placed there?
+Mr. Lounsbury. Malware is part of that problem. Malware
+takes advantage----
+Mr. Stearns. But you are not worried about the supply chain
+per se as you are worried about somebody overtly coming in?
+Mr. Lounsbury. Supply chain encompasses many phases.
+Mr. Stearns. OK, it gets complicated. All right. Each
+member, what are the current supply chain practices and
+processes that could prevent or detect corrupt, compromise or
+counterfeit components in the supply chain? Mr. Castro?
+Mr. Castro. Well, I mentioned the one that we observe most
+frequently with the clients that we support, and that is a very
+aggressive due diligence program, not quite frankly on every
+component that a company might buy but the identification of
+where the critical paths are, the tasks that lead to a
+company's crown jewels. And then ensuring that every component
+that might by compromised in that path has been vetted, not
+only in terms of the pedigree of the component but knowing who
+are the people responsible for servicing it and the other
+support structure around it.
+Mr. Stearns. Mr. Lounsbury?
+Mr. Lounsbury. There are many steps in the development and
+furnishing of a product. And what we look at is the
+organizational best practices to make sure that a supplier is
+using the best practices during their processes throughout the
+supply chain to make sure that they are doing everything they
+can to prevent those vulnerabilities from being there so they
+can't be exploited later.
+Mr. Stearns. Who in the supply chain should ensure tighter
+chain of custody controls, Mr. Castro?
+Mr. Castro. The question again is who in----
+Mr. Stearns. Who in the supply chain should ensure tighter
+chain of custody controls?
+Mr. Castro. Well, again, I would just go back to the simple
+thing that we practice every day in each of our lives and that
+is buyer beware. If there is a purchasing order that's cut on
+behalf of an engineer and a company, then we would look to the
+engineer to make sure that it is to the best extent possible
+that they have been able to vet the pedigree of the product.
+Mr. Stearns. Mr. Lounsbury?
+Mr. Lounsbury. I would concur with Mr. Castro. Each link in
+the chain has to look up to its suppliers and also downstream
+for its responsibility for the fulfillment, delivery,
+sustainment and eventual retirement of the products that it
+sells.
+Mr. Stearns. What can government do to create or
+incentivize the deployment of those additional capabilities
+that some of you folks would think is necessary? What can we
+do?
+Mr. Castro. Well, again, going back to my testimony, I
+think the biggest thing that the government provides is
+information with regard to the source of potential threats and
+activity that's seen in this space. Again the Office of the
+National Counterintelligence Executive Program has been
+commended as exemplary in this case. They have a very vigorous
+outreach to industry to try to provide both at the classified
+level and to the unclassified level an understanding of where
+the problems are.
+Mr. Lounsbury. Focusing on the ease of COTS ICT, the most
+important thing the government can do is in fact as said just a
+moment ago, is to make sure that it is using best practices
+when it does procurement to make sure that they have identified
+trusted technology partners.
+Mr. Stearns. My time has expired. The gentlelady from
+Colorado.
+Ms. DeGette. Thank you, Mr. Chairman. As we continue our
+reliance, to increase our reliance on technology, we need to
+really look at all the implications of its use and include any
+vulnerabilities and threats presented by new technologies. So
+Mr. Castro, I wanted to ask you, do you think that the threats
+due to the new technologies are increasing in scope and
+sophistication?
+Mr. Castro. I am sorry the threats are what?
+Ms. DeGette. The threats due to the new technologies are
+increasing.
+Mr. Castro. Oh, no question about it. An example would be
+smartphones and the applications that go on them. The
+application industry has just exploded. Some suppliers and some
+maintainers of application super supply stores do do some
+vetting, but quite frankly that is an area that we all should
+be concerned about as we buy a very cheap app to put on our
+phone, but yes, I agree with you.
+Ms. DeGette. Almost two-thirds of U.S. Firms report that
+they have been victims of cybersecurity incidents or
+information breaches. And as you allude to, the volume of
+malicious software on American networks has more than tripled
+since 2009. And so I am wondering in specific about the
+challenges the Federal Government faces in responding to those
+rapidly evolving threats.
+Mr. Castro. Well, again the role of the government in my
+view is education. There's a tremendous amount of information
+that the government holds, both open source and classified,
+that should be made available to the private sector through
+properly vetted information channels.
+Ms. DeGette. OK. Now James Clapper, who's the Director of
+National Intelligence, was talking to the Senate committee
+about a year ago and he talked about a new phenomenon known as
+convergence. Are you familiar, Mr. Castro, with network
+convergence?
+Mr. Castro. Yes, ma'am.
+Ms. DeGette. And can you talk about what that is?
+Mr. Castro. Well, I think in terms that we would understand
+it is where we rely upon each of the devices in an integrated
+way.
+Ms. DeGette. Right.
+Mr. Castro. So it may be that your BlackBerry might be
+linked or synched to your home personal PC or to your laptop.
+So the problem there is a vulnerability in one part of that
+chain is easily introduced into the other part.
+Ms. DeGette. Into the other parts. So it is because video,
+data, voice, everything are all converging on one common
+network, and that's part of this new technology that has
+developed that you talk about like with the iPhones and things
+like that, right?
+Mr. Castro. Right.
+Ms. DeGette. And I am wondering if both of you could talk
+about the risks of that type of convergence technology, the
+increased vulnerabilities if they are put into cyberterrorist
+hands.
+Mr. Castro. Briefly, although I will be repeating myself a
+little bit. But an example would be if you bought an app for
+whatever smartphone, mobile device you have that is corrupted,
+it is quite possible that that can be the front door that
+allows someone to have access to your own home personal machine
+where you might have some more sensitive data stored or you
+might have the keys to being able to get to your financial
+accounts and things of that nature.
+Ms. DeGette. And that can be extrapolated to problems on
+the government networks, too, right?
+Mr. Castro. Well, yes, but fortunately in most places in
+the government this whole notion of how to deal with mobile
+devices is undergoing quite a bit of scrutiny. Policies are
+being adopted that would provide some partitioning between
+mobile users and the enterprise that they support.
+Ms. DeGette. Well, I am thinking about--- I am glad they
+are putting policies into place, but I am thinking about like
+if there's a National Lab and there's a smart device being used
+to collect and process information for research at a National
+Lab, if somebody was able to get in there, that could cause
+significant harm, correct?
+Mr. Castro. Well, there is some potential for that, but
+since you talk about the National Labs, I will tell you that in
+my time and experience in government that they are some of the
+most very, very far in front, as Gil mentioned, with regard to
+constructing the kind of policies and actual hardware
+limitations to prevent that, particularly in dealing with some
+of the more sensitive things that the labs do.
+Ms. DeGette. That's good to know.
+Mr. Castro. But it's a point very well taken, the threat of
+mobile devices is one that has really mushroomed onto the
+landscape and it is one that we are all scrambling to find the
+right balance between providing the individual user the
+flexibility that the mobile device provides but also protecting
+the integrity of our data.
+Ms. DeGette. Mr. Lounsbury, do you want to comment on that
+briefly?
+Mr. Lounsbury. I think there are a couple of comments.
+First, the issue about the growth and capabilities of computer
+systems and networks is a coin with two sides. Of course the
+increase in complexity does come with an increase in
+vulnerability, yet it also adds the ability of the additional
+processing power and the additional awareness of what is going
+on to actually recognize attacks and proactively create
+defenses. I.
+I concur with the issue of convergence, sometimes we hear
+it called as, you know, bring your own device where there are
+new devices coming in that may bring their own vulnerabilities.
+And so this is why it is in fact essential to have not only
+policies of course beyond the supply chain but also in the
+supply chain to make sure that those devices that are coming in
+have undergone the scrutiny and correct practices to make sure
+that they are safe.
+Ms. DeGette. Thank you. Thank you very much, Mr. Chairman.
+Mr. Stearns. The gentlelady's time has expired. The
+gentleman from Nebraska, Mr. Terry, is recognized for 5
+minutes.
+Mr. Terry. Thank you, Mr. Chairman. And you're here as a
+different perspective from the first panel, kind of non-
+governmental perspective. And so I kind of want to follow
+through with your unique position here for today's hearing. And
+we heard the gentleman from GAO talk about unauthorized
+materials or whatever, computers, devices. And I want to work
+through that because I am still very concerned about how loose
+the authorizations may be. It seems to me the best practice
+that's being recommended here for any, for Department of
+Defense or DOE or whatever government agency that is dealing
+with critical issues is that they should only be allowed to
+purchase from an authorized vendor, of which evidently the
+vendor then has certified everything back, that they can then
+trust the individual parts, whether it is software, chips,
+hardware, have not been compromised in any way. So my question
+to you is, is that a best practice? Do we need to add more
+definition to it? And do we need further authorizations down
+the supply line? Mr. Castro and then Mr. Lounsbury.
+Mr. Lounsbury. I guess, if I may start, I would concur with
+what you say there. Ultimately people, use of COTS implies that
+an agency, in this case a government agency, purchases from a
+commercial marketplace. And so the question is what are the
+standards that your supplier uses to demonstrate that they can
+be trusted. Part of that would be the processes they have for
+themselves throughout their product development and fulfillment
+lifecycle, but also are they imposing those standards on those
+suppliers as well? You think about first you design a product,
+then you get sources for components, those components have to
+undergo the same standards or be held to the same standards
+that you would hold yourself to as a trusted vendor.
+Mr. Terry. And do you think that is sufficient, that they
+just--I don't have the confidence that the supplier actually
+has any level of control in India or China or manufacturing
+facilities. How do they have a level of surety that something's
+not being compromised way down the assembly line?
+Mr. Lounsbury. In the commercial world typically we look to
+some sort of a conformance program where a supplier would
+submit evidence, either through a third-party lab and certainly
+to an independent certification authority, to make sure that
+they have in fact given some evidence of those best practices
+before they are, you know, recognized as a trusted partner. And
+then, yes, there is the burden of everybody in the supply chain
+for making sure that their partners are trusted. It is a very,
+you know, fast branching supply chain, and it is really--you
+have to pick a scalable way of doing that.
+Mr. Terry. Mr. Castro, do you have anything to add?
+Mr. Castro. I would offer quite frankly, and this may be
+out of skew with the thrust of your question but I can't
+diverse my 44 years in government service either. I think this
+has to be approached with a really sensible sense of scale and
+scope, in that you are not going to test every resistor that
+goes into every motherboard of every computer. And I think the
+DOD program is exemplary in this in that they have started,
+they have prioritized those systems that they believe should
+have this extra scrutiny.
+The other thing that the customer can always do, that is to
+say the person at the end, is you pick every fifth Dell
+computer that comes out of the box and you really run it
+through its paces to the greatest extent you can. And there are
+folks who are very, very good at that, including looking for
+signs of tampering and things of that nature. So some random--I
+said every fifth, but it would be a random sampling of the
+devices that you get, but the point being that unless you are
+willing to authorize extraordinary amounts of money in this
+area it has to be done with some reasonable balance involved.
+Mr. Terry. Thank you.
+Mr. Stearns. I thank the gentleman. The gentleman from
+Georgia, Mr. Gingrey, is recognized for 5 minutes.
+Mr. Gingrey. Mr. Chairman, thank you. Mr. Lounsbury, how
+can the government and the private sector benefit from a
+public-private partnership in developing international
+standards?
+Mr. Lounsbury. I think there are a couple of ways that that
+can happen. First, the government quite often brings a unique
+set of needs and perspectives and set of requirements to the
+party. And of course, on the other hand, any provider who
+values their reputation wants to make sure that their products
+will meet those needs so they can frankly sell into that
+sector. Of course they have do it in a way that still keeps
+them in a commercial business. So there's that match of buyer
+need and supplier response.
+The other part is we have to recognize then, as we have
+heard many times, the supply chain is global. It says on some
+of our devices designed in California, made in China. Right?
+And so these have to be international standards so that the bar
+can be raised on a global basis so that if you know that you
+have seen a trusted technology provider here, and I do want to
+emphasize that when we look at this we talk about the
+organization, not a specific product. So we look at is that
+organization following these best practices in a verifiable and
+certified way. And you can look----
+Mr. Gingrey. Well, let me interrupt you just for a second
+because of the limitation of my time and I will cut right to
+the chase. More importantly, how do you envision other
+countries implementing the international standards of the Open
+Group?
+Mr. Lounsbury. The Open Group--first we--our standards are
+principally commercial standards. These are ones where
+companies voluntarily comply with them and enter into
+certification programs. We do, however, have liaison with ISO,
+the international standards body and specifically the working
+group within ISO that will take these standards and make them
+international. We are very active in making sure that that
+happens. So they are both de facto standards that can be
+adopted by industry and de jure standards that can be
+implemented by----
+Mr. Gingrey. If standards such as these are implemented
+internationally, should the United States refuse to do business
+with countries that don't implement those standards?
+Mr. Lounsbury. I think that when the United States procures
+things they should procure from suppliers that have taken the
+time to do the job right by following the international
+standards.
+Mr. Gingrey. Thank you. Mr. Castro, the current approach to
+IT supply chain risk is a patchwork of varying policies and
+procedures that are not coordinated across the government. What
+can be done to facilitate a coordinated approach that
+reasonably and adequately addresses the risk while avoiding
+excessive cost, burdensome regulation or marginal results?
+Mr. Castro. That's a tough one, Congressman. I think it
+begins with the fact that my sense from where I sit is that
+within the government there has been a very, very succinct
+wakeup call. It is evidenced in the testimony that General
+Clapper and others have provided to you and other committees.
+The other thing is that it is increasingly becoming threat
+based, and that was part of the essence of my oral statement,
+is that we simply can't go down every road, but we know where
+there are two very big roads that we have to watch. But clearly
+all the things that you asked for in that question represent
+the Nirvana at the end of the process. I am not sure we are
+anywhere close.
+Mr. Gingrey. Let me follow up on that with this. For
+example, the GAO report, it highlighted deficiencies of DOE,
+DHS, DOJ, I am sorry, Department of Justice, and rightly
+recommends corrective action. Their recommendations for
+executive action is directed at each department individually,
+if I understand the report.
+How should the government coordinate this solution for the
+entire Federal Government?
+Mr. Castro. Well, again I think that the way the Federal
+Government is organized that there's no doubt somebody in OMB
+who has this in their portfolio to coordinate across, but the
+other thing I think that's recognized in the report is that one
+size does not fit all. As the committee members have already
+pointed out, you have concerns about DOE because they have such
+a critical part of not only our national security structure,
+but our energy provision structure. The report also singled out
+DHS, but quite frankly DHS is not a big component in terms of
+driving the IT enterprise.
+Mr. Gingrey. Well, let me real quickly because my time is
+running out, I really respect the fact that you have got 44
+years of experience at the Federal level, but, you know, it
+would seem to me that lack of coordination would be more
+advantageous let's say to a company like the one that you
+currently work for, the Chertoff Group, whereas from the
+Federal Government perspective coordination would be better,
+more coordination. So where do you draw the line in regard to
+that?
+Mr. Castro. Well, again I think it is a balance. You want--
+there definitely needs to be a common set of standards, a
+common set of government regulations that OMB would administer
+and see just like they do FISMA and report in the same way as
+FISMA compliance is reported, but I think also that Mr. Vega at
+DOE has a set of problems, the DOD program has a different set
+of problems. As long as they meet the common standard then they
+can in their directions.
+Mr. Gingrey. OK, thank you. Thank you both and thank you,
+Mr. Chairman.
+Mr. Stearns. I thank you. The gentleman from Virginia is
+recognized for 5 minutes.
+Mr. Griffith. I don't think I will take the whole 5
+minutes, so if anybody else has other questions I would be
+happy to yield. But I do have one. I have been listening to the
+testimony and bringing myself a little education on this, which
+I like coming to these hearings. Thank you, Mr. Chairman, for
+holding it.
+You indicated, Mr. Castro, that one of the things we need
+to do is have the Department of Defense working with private
+industry and I agree with that. But my question is at what
+point do they step in? And do they need to be taking an active
+role in defending our private industries? Here is the dilemma
+I've got. In World War II the Allies broke the German code,
+they had to make some very tough choices and history looks back
+on some of the choices very critically. But they had to make
+some tough choices because they knew some things the Germans
+were doing, but they knew if they stopped it there might be the
+possibility that the Germans would figure out that they had
+broken the code and then that would endanger all kinds of other
+operations. So now we are faced in a slightly different
+situation. If the defense folks know that somebody is stealing
+our private information because they have tapped into it by
+their defensive measures in trying to protect our national
+security on the defense side, how do they work out balancing
+that out? And how do they tip off or do they just take measures
+on behalf of the private industry to defend our economic system
+without tipping off X, Y, Z country that we are on to them?
+That's the basic gist of my question. If you could help me on
+that.
+Mr. Castro. OK, very well founded. The difference where the
+analogy isn't quite possibly in synch is that the time frame
+that we are operating with regard to the breaking of Ultra and
+things like that you refer to in World War II, we had a much
+greater time frame, duty cycle. Today it moves much, much more
+quickly and therefore I do come very much into the direction
+that your question was going and that there needs to be greater
+transparency between what the intelligence community within the
+DOD sees and making that information available to the private
+sector. And again very, very--I think well spoken is the fact
+that there are bills before the House, particularly the one out
+of the HPSCI, the Rogers-Ruppersberger bill, that does attempt
+to address that issue and put quite frankly the DOD
+intelligence assets into the game, properly supporting through
+the DHS front door the private industry. So your analogy is
+very, very well taken and I understand and totally agree.
+Mr. Griffith. Thank you very much. Mr. Chairman, unless
+somebody wants me to yield time to them, I would yield back.
+Mr. Stearns. The gentleman yields his time back, and I will
+ask two questions and the gentlelady is welcome to offer her
+questions. A question for both of you, who should be the
+innovator in this place in developing a common criteria
+network; should it be the government or the private sector?
+Mr. Lounsbury. Mr. Chairman, I actually believe that the
+public sector does need to lead in this area.
+Mr. Stearns. The government should.
+Mr. Lounsbury. Pardon me, excuse me, the commercial sector.
+Sorry to be unclear.
+Mr. Stearns. The commercial sector, OK, and you, Mr.
+Castro?
+Mr. Castro. I would agree.
+Mr. Stearns. OK are there advantages basically because the
+private sector is more innovative?
+Mr. Lounsbury. I think it is a question----
+Mr. Stearns. It is closer to their bailiwick?
+Mr. Lounsbury. I think it is a question of market pressure,
+sir. I think the pace of innovation forces them to respond very
+quickly, and frankly they need to innovate and respond at the
+speed that is driven by the market and by the emerging threats.
+Mr. Stearns. Mr. Castro, do you agree?
+Mr. Castro. I agree.
+Mr. Stearns. Mr. Castro, if one begins from the premise
+that a supply chain vulnerability has already been exploited
+and currently exists within an IT enterprise, what should a
+supplier or that matter an agency do to mitigate this risk?
+Mr. Castro. OK, well, this in fact is the topic of the
+moment. It is called presumption of breach or operating under
+attack.
+Mr. Stearns. Presumption of----
+Mr. Castro. That your system has been breached and that's
+the way you go about constructing the defense.
+Mr. Stearns. OK.
+Mr. Castro. DOD put out their strategy for operating in
+cyberspace last summer. That is at the heart of it. What you
+then have to do, however, is to say if in fact the assumption
+is that the adversary is in my system, I need to identify very,
+very precisely what are my crown jewels that I hold in that
+system and I need to protect those to the maximum extent
+possible and I need to make sure that those who have
+authorization to be able to access those crown jewels, that
+their activity is very, very well accounted for. We call that
+data centric defense.
+Mr. Stearns. Mr. Lounsbury, you might want to comment on
+what Mr. Castro said.
+Mr. Lounsbury. Thank you. I would agree with the spirit of
+what Mr. Castro says, but I think one of the essential pieces
+of this is that you make the best practices commonplace. I
+think that everybody understands that there are issues about
+how you do security development and engineering, things like
+threat analysis, threat mitigation, how you respond to those
+threat analysis through a design, one-time protection
+techniques, vulnerability analysis, all those tings in the
+development phase, and then you actually must extend them to
+the supply chain, but it can't be treated as a product by
+product activity. It has to be something you internalize to
+your company's processes in order to not have to do it every
+single time, that you can look to a provider and say yes, we
+can deal with them and know their products are trustworthy.
+Mr. Stearns. All right, thank you, Ms. DeGette.
+All right, at this point, it appears our questions for the
+second panel are complete.
+I want to thank the witnesses for coming today and for
+their testimony and members for their devotion to this hearing.
+The committee's rules provide that members have 10 days to
+submit additional questions for the record to the witnesses.
+And, with that, the subcommittee is adjourned. Thank you.
+[Whereupon, at 12:02 p.m., the subcommittee was adjourned.]
+
+

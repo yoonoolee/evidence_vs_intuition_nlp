@@ -1,0 +1,2944 @@
+- REVIEWING THE FAFSA DATA BREACH
+
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+
+REVIEWING THE FAFSA DATA BREACH
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FIFTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+MAY 3, 2017
+
+__________
+
+Serial No. 115-46
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://oversight.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+28-504 PDF                  WASHINGTON : 2018
+
+----------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+Committee on Oversight and Government Reform
+
+Jason Chaffetz, Utah, Chairman
+John J. Duncan, Jr., Tennessee       Elijah E. Cummings, Maryland,
+Darrell E. Issa, California              Ranking Minority Member
+Jim Jordan, Ohio                     Carolyn B. Maloney, New York
+Mark Sanford, South Carolina         Eleanor Holmes Norton, District of
+Justin Amash, Michigan                   Columbia
+Paul A. Gosar, Arizona               Wm. Lacy Clay, Missouri
+Scott DesJarlais, Tennessee          Stephen F. Lynch, Massachusetts
+Trey Gowdy, South Carolina           Jim Cooper, Tennessee
+Blake Farenthold, Texas              Gerald E. Connolly, Virginia
+Virginia Foxx, North Carolina        Robin L. Kelly, Illinois
+Thomas Massie, Kentucky              Brenda L. Lawrence, Michigan
+Mark Meadows, North Carolina         Bonnie Watson Coleman, New Jersey
+Ron DeSantis, Florida                Stacey E. Plaskett, Virgin Islands
+Dennis A. Ross, Florida              Val Butler Demings, Florida
+Mark Walker, North Carolina          Raja Krishnamoorthi, Illinois
+Rod Blum, Iowa                       Jamie Raskin, Maryland
+Jody B. Hice, Georgia                Peter Welch, Vermont
+Steve Russell, Oklahoma              Matt Cartwright, Pennsylvania
+Glenn Grothman, Wisconsin            Mark DeSaulnier, California
+Will Hurd, Texas                     John P. Sarbanes, Maryland
+Gary J. Palmer, Alabama
+James Comer, Kentucky
+Paul Mitchell, Michigan
+
+Jonathan Skladany, Staff Director
+William McKenna, General Counsel
+Katie Bailey, Government Operations Subcommittee Staff Director
+Troy Stock, Information Technology Subcommittee Staff Director
+Sharon Casey, Deputy Chief Clerk
+David Rapallo, Minority Staff Director
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on May 3, 2017......................................     1
+
+WITNESSES
+
+Mr. James W. Runcie, Chief Operating Officer, Office of Federal
+Student Aid, U.S. Department of Education
+Oral Statement...............................................     4
+Written Statement............................................     7
+Mr. Jason K. Gray, Chief Information Officer, U.S. Department of
+Education
+Oral Statement...............................................    13
+Written Statement............................................    15
+Ms. Silvana Gina Garza, Chief Information Officer, Internal
+Revenue Service
+Oral Statement...............................................    21
+The Hon. Kenneth C. Corbin, Commissioner, Wage and Investment
+Division, Internal Revenue Service
+Oral Statement...............................................    22
+Joint Written Statement Mr. Corbin and Ms. Garza.............    24
+Mr. Timothy P. Camus, Deputy Inspector General for
+Investigations, Treasury Inspector General for Tax
+Administration
+Oral Statement...............................................    29
+Written Statement............................................    31
+
+APPENDIX
+
+National Association of Student Financial Aid Administrators
+Statement submitted by Mr. Russell.............................    76
+National College Access Network Statement submitted by Mr.
+Russell........................................................    82
+American Council on Education Statement submitted by Mr. Russell.    85
+Electronic Privacy Information Center Statement submitted by Mr.
+Russell........................................................    87
+Ms. Melissa Macko Constituent Email submitted by Mr. Duncan......    90
+Response from Mr. Sessa, Acting Chief lnformation Officer, Office
+of Federal Student Aid, U.S. Department of Education, to
+Questions for the Record.......................................    92
+Response from Mr. Gray, Chief Information Officer, U.S.
+Department of Education, to Questions for the Record...........   102
+Response from Mr. Corbin, Commissioner, Wage and Investment
+Division, Internal Revenue Service, to Questions for the Record   104
+Response from Ms. Garza, Chief lnformation Officer, Internal
+Revenue Service, to Questions for the Record...................   107
+
+REVIEWING THE FAFSA DATA BREACH
+
+----------
+
+Wednesday, May 3, 2017
+
+House of Representatives
+Committee on Oversight and Government Reform
+Washington, D.C.
+The committee met, pursuant to call, at 9:30 a.m., in Room
+2154, Rayburn House Office Building, Hon. Steve Russell
+presiding.
+Present: Representatives Russell, Duncan, Issa, Jordan,
+Amash, Gosar, Foxx, Meadows, Ross, Walker, Blum, Hice,
+Grothman, Hurd, Palmer, Mitchell, Cummings, Maloney, Norton,
+Clay, Connolly, Kelly, Watson Coleman, Plaskett,
+Krishnamoorthi, Raskin, Welch, DeSaulnier, and Sarbanes.
+Also Present: Representative Scott.
+Mr. Russell. Good morning. The Committee on Oversight and
+Government Reform will come to order. Without objection, the
+chair is authorized to declare a recess at any time.
+The chair notes the presence of our colleague, Congressman
+Bobby Scott from Virginia, and we appreciate his interest in
+this topic and welcome your participation today, sir. I ask
+unanimous consent that Congressman Scott be allowed to fully
+participate in today's hearing. And without objection, it will
+be so ordered.
+I would also like to ask unanimous consent to enter into
+the record statements from the following organizations: The
+National Association of Student Financial Aid Administrators,
+the National College Access Network, the American Council on
+Education, and EPIC.
+Mr. Russell. Today, we are here to talk about a data breach
+involving a Department of Education website and an IRS web-
+based application. Every day, literally, adversaries and
+criminals conduct an unknown number of sophisticated and
+devastating cyber attacks against our nation. To get the
+government ahead of the curve will require even more effort on
+the part of agency heads and chief information officers as we
+begin the task of modernizing old, outdated, and insecure
+Federal technologies and network architectures, but we cannot
+calibrate our defenses and buy the right security platforms
+unless we understand the threat. We must be honest and
+transparent about what risks that we face and what damage is
+being done. Ignoring the problem or underestimating the threat
+places our nation and its citizens in danger.
+Once again, we find ourselves on the Oversight Committee
+investigating a data breach. Hackers were trying to file
+fraudulent tax returns and steal refunds. To accomplish this
+crime, they turned to the Department of Education's FAFSA or
+Free Application for Federal Student Aid, .gov network and the
+data retrieval tool which was designed to try to aid in
+financial applications.
+To get the one piece of information that they desired that
+they couldn't buy in the marketplace, they came to the tool:
+specifically, taxpayers' adjusted gross income data. You need
+that AGI to authenticate your identity for the IRS and file
+your tax returns, so all hackers needed to do was go to the
+dark web, buy a cache of American taxpayer personally
+identifiable information, use that to get into the FAFSA.gov
+and the data retrieval tool, and then they had everything that
+they needed to steal taxpaying citizens' refunds.
+This is exactly the kind of hacking scheme that the Federal
+agencies must be aware of when they make their services
+available online. If sensitive data can be accessed through an
+online application, it must be secured with strong
+authentication measures and appropriately encrypted.
+We need to call these events what they are: data breaches
+and major incidents. Facing the truth is important not only
+because the incidents ultimately affect tens of thousands if
+not hundreds of thousands of American taxpayers and probably
+millions of students applying for student aid, but it also--
+because without understanding the threats we face, we can't
+protect ourselves.
+It took the Internal Revenue Service almost three months to
+determine that this was a major data breach incident that
+required congressional notification FISMA requirements. And the
+Department is still not calling this a major incident, and I
+would like to find out--and I am sure my colleagues-- why. This
+is not about wordsmithing. What we call these incidents helps
+us bring the full weight of the Federal Government to bear on
+the cyber response, getting help to those that have been
+impacted and making sure the vulnerabilities are defended.
+Cybersecurity is a team sport. A leak at one end of the
+pipe or the other still creates a leak. Agencies must safeguard
+their data and make sure it goes where they intend. If we have
+other organizations, tools, or technologies hooked up to our
+networks or websites, then we are responsible. It only takes
+one vulnerability and then everyone who is connected to that
+vulnerability is at risk.
+What is so troubling about this incident is that it was
+detected through suspicious activity accidentally. The hackers
+inadvertently targeted an IRS employee. Criminals do make dumb
+mistakes. But so do agencies. I would like to think our
+detection and defense abilities are more advanced than mistakes
+of criminals relying on the dumb mistakes that they make.
+We aren't going to win this fight unless we understand the
+threats that we face, the damage that hackers and enemies are
+doing to us, and what we as a Congress can do to empower agency
+heads and CIOs to protect our networks. The first step in
+fighting back is wearing our mistakes like a badge. We should
+follow it with some grit and determination to not let it happen
+to the areas of government that have been entrusted to our
+charge.
+Mr. Russell. And with that, I would like to yield to the
+ranking member, Mr. Cummings.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+No matter who may define it, this is a major incident, IRS
+or Education. I am just letting you know it is a major
+incident. You can put any kind of definition you want on it but
+I am telling you it is.
+I welcome this hearing today. This hearing is about the
+data retrieval tool, and that is a valid topic that several
+other committees are also addressing. And I, too, Mr. Chairman
+want to thank Representative Scott for joining us today. He is
+one who has addressed these issues for many, many years, and I
+thank him.
+Now, what nobody seems to be addressing is the unethical,
+abusive, and predatory actions of student loan companies. Last
+September, the inspector general issued a report finding that
+multiple student loan companies, which were supposed to be,
+supposed to be helping students were actually accessing and
+changing student logon information as part of predatory schemes
+to access their accounts, change their regular mail and email
+addresses, and even intercept correspondence. That is a major,
+major event.
+Specifically, the IG reported that the process for logging
+onto the Federal Student Aid website was, quote, ``being
+misused by commercial third parties to take over borrowers'
+accounts,'' end of quote. In one case the IG warned that a
+student loan company, and I quote, ``changed the mailing
+address, the phone number, and email address for borrowers so
+that it would be difficult for the borrowers to be contacted by
+loan servicers,'' end of quote.
+In another case, the IG found that a company charged
+borrowers monthly fees to, quote, ``put their loans into
+forbearance with the stated promise of eventually enrolling
+them in the Public Service Loan Forgiveness or some other debt
+reduction program even though the borrowers in some cases were
+not qualified for these programs,'' end of quote. This is
+major.
+The IG also found that these companies were able to, quote,
+``intercept all of the borrowers' emails, correspondence,
+including password resets via email, important email notices,
+and direct communication from FAFSA or the loan servicer,'' end
+of quote.
+Less than two weeks ago, on April 20, our committee staff
+conducted a transcribed interview with the special agent in
+charge of this investigation at the inspector general's office.
+This is what he told us. He warned that these companies, and I
+quote, ``were controlling thousands of accounts or creating
+thousands of accounts and controlling them,'' end of quote. In
+other words, the very companies that were supposed to be
+helping students were actually abusing their trust.
+These practices are reprehensible, but the IG reported that
+it could not prosecute these student loan companies because of
+technicalities. Apparently, these companies forced students to
+sign powers of attorney to get loans so the companies
+presumably could try to argue that they were authorized to
+engage in these abusive activities. Something is awfully wrong
+with that picture. It is outrageous that these companies
+effectively got away with behavior they must have known was
+wrong--no, not must have known, they knew was wrong.
+I am eager to hear from today's witnesses about
+improvements necessary to hold these student loan companies
+accountable for engaging in these deceptive and abusive
+practices.
+In addition, as we will hear today, criminals were able to
+compromise the data retrieval tool, which is used it to link
+student tax information to financial aid and student loan
+accounts online. These criminals then use this information to
+file fraudulent tax returns. It is unacceptable that students
+have to deal with the abusive practices of predatory loan
+companies, as well as the increased threats of identity theft.
+It is critical that we crackdown on these criminal elements
+and improve the security of the systems. Congress also needs to
+support these efforts. Severe budget cuts in recent years have
+made it more difficult to make critical improvements in
+information technology. President Trump's budget proposal and
+staff reduction directives would exacerbate these challenges.
+Finally, if we really, really want to protect students from
+the abuses we are addressing here today, Congress obviously
+cannot abolish the Department of Education, as some of my
+colleagues have proposed. We must support and increase our
+nation's investments in our students. As I often say, our
+children are the living messages we send to a future we will
+never see. The question is how will we send them? The question
+is how will we protect them? And this is that moment. This is
+our watch.
+And with that, Mr. Chairman, I yield back.
+Mr. Russell. Thank you.
+I will hold the record open for five legislative days for
+any members who would like to submit a written statement.
+We will now recognize our panel of witnesses. I am pleased
+to welcome Mr. James Runcie, the chief operating officer,
+Office of the Federal Student Aid, Department of Education; Mr.
+Jason Gray, chief information officer from the Department of
+Education; Ms. Silvana Gina Garza, chief information officer of
+the Internal Revenue Service; the Honorable Kenneth C. Corbin,
+Commissioner, Wage and Investment Division of the Internal
+Revenue Service; and Mr. Timothy Camus, the deputy inspector
+general for investigations, Treasury Inspector General for Tax
+Administration.
+We welcome all of you and thank you for being here this
+morning.
+Pursuant to committee rules, all witnesses will be sworn in
+before they testify. Would you please rise and raise your right
+hand?
+[Witnesses sworn.]
+Mr. Russell. Thank you. Please be seated.
+Let the record reflect that the witnesses answered in the
+affirmative.
+In order to allow time for discussion, we would appreciate
+it if you would please limit your oral testimony to five
+minutes each. Your entire written statement will be made a part
+of the record.
+And with that, I am pleased to recognize Mr. Runcie for
+five minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF JAMES W. RUNCIE
+
+Mr. Runcie. Thank you, Chairman Russell, Ranking Member
+Cummings, and members of the committee, for the opportunity to
+join you today. I will discuss the events that led to the data
+retrieval tool, or DRT, being disabled, the plan to securely
+restored the tool, and the actions we've taken to assist
+students, parents, borrowers, and schools.
+As the largest source of Federal student aid for
+postsecondary education in the U.S., FSA delivered more than
+$125 billion in aid to over 13 million students attending more
+than 6,000 schools last year. FSA is committed to safeguarding
+taxpayer interests as we provide access to Federal student aid
+for students and their families.
+During my tenure at FSA, we have securely managed the
+growth of the direct loan portion of the student loan portfolio
+from 9.2 million recipients and $155 billion to 32 million
+recipients and approximately $1 trillion. One of the critical
+resources that has assisted the Department in this growth is
+the DRT. It first became available in 2010 through the joint
+efforts of the IRS and FSA and provides FSA's customers an
+effective way to transfer required IRS tax information.
+Each year, about half of the 20 million FAFSA filers use
+the DRT and another 4.5 million borrowers use the tool for the
+income-driven or IDR plans. In total, over 55 million FAFSA and
+IDR applications have successfully utilized the DRT since
+inception. Using the DRT has saved millions of hours of
+applicants' time, reduced improper payments by billions of
+dollars, and lowered the verification hurdle for schools and
+their dedicated staff of financial aid professionals.
+Following a broader IRS security review last year, the
+agency contacted FSA about a potential DRT vulnerability. The
+joint goal of the IRS and FSA was to minimize the potential
+vulnerability without causing a major disruption to our
+customers. We agreed to keep the DRT operational while
+increasing the monitoring of the tool for suspicious activity.
+The IRS and FSA have evaluated many solutions that could be
+integrated with both applications and would increase the
+protection of taxpayer information. Many solutions did not meet
+the required security and privacy threshold or resulted in too
+many applicants being unable to access Federal Student Aid.
+In February, we agreed to develop and implement an
+encryption solution. This solution would be employed for the
+2018-19 award year beginning October 1, 2017. The IRS and FSA
+also agree that we would continue to monitor the applications
+for the current award years and still allow for DRT use.
+On March 3, the IRS alerted FSA of suspicious activity
+related to the DRT and suspended its use. The suspicious
+activity involved bad actors who illegally obtained personal
+information elsewhere and began filling out FAFSAs in order to
+access taxpayer information from the IRS through the DRT. This
+information could then be used to file fraudulent tax returns.
+I want to reiterate that we have no evidence that any
+personal information from the Department systems were accessed.
+However, with evidence that criminals were starting to exploit
+the potential vulnerability of the DRT using the tool was no
+longer an option. The solution to bring back the DRT allows tax
+information to be electronically transferred, but it will
+encrypt the information and hide it from applicants' view.
+For the DRT--for the IDR application, we are targeting the
+end of May to have the DRT functionality available to
+applicants. For the FAFSA we are scheduled to meet the October
+1st timing for the '18-'19 award year launch. Due to benefit
+and risk considerations, the current award year of '17-'18 will
+not have the DRT available for the remainder of the award year.
+Consequently, we are reminding students, parents, and
+borrowers that they can still apply for aid and repayment plans
+without the DRT. Our ongoing efforts involve utilizing all of
+our communications resources, digital properties and vendors,
+and also leveraging the financial aid community. The Department
+also issued a communication to schools extending flexibilities
+regarding verification procedures.
+I appreciate the opportunity to provide you with this
+information, and I welcome any questions you may have here
+today. Thank you.
+[Prepared statement of Mr. Runcie follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Russell. Thank you.
+And the chair now recognizes Mr. Gray for five minutes.
+
+STATEMENT OF JASON K. GRAY
+
+Mr. Gray. Thank you, Chairman Russell and Ranking Member
+Cummings and members of the committee. I am Jason Gray, CIO for
+the U.S. Department of Education, a position I have had the
+privilege of holding since June of 2016. I appreciate the
+opportunity to speak with you today on the cybersecurity
+incident that led to the shutdown of the IRS data retrieval
+tool.
+As the CIO, I embrace and support the Department's mission
+of promoting student achievement and preparation for global
+competitiveness, fostering educational excellence, and ensuring
+equal access by ensuring that we apply information technology
+effectively, efficiently, and securely. I take this
+responsibility seriously and understand that this includes the
+entire Department, including Federal Student Aid and all
+principal and support offices.
+When we became aware that the IRS had confirmed that tax
+data accessed through the FAFSA link to the DRT may have been
+used to fraudulently file tax returns, we immediately activated
+our incident response processes. This involved coordination of
+Security Operations Center resources to gather forensic data
+and to gain a better understanding of the incident. We held
+daily meetings to facilitate communication between the
+technical staff of my office, Federal Student Aid, and the IRS.
+Additionally, we reported the incident to the office--to our
+Office of the Inspector General and to the United States
+Computer Emergency Readiness Team at Homeland Security.
+While the Department systems were involved, this was in
+essence a scheme directed at retrieving tax data from the IRS.
+There is no evidence that the malicious actors were able to
+access any personal information from the Department systems. I
+am confident that the personal information the Department has
+on borrowers, students, and parents remains appropriately
+protected.
+I will describe several actions we have taken to further
+strengthen and enhance our cybersecurity program to protect
+sensitive data, including PII, that is managed by the
+Department.
+Incident response is a priority for the Department. In
+2015, we created an incident response planning workgroup to
+address cybersecurity incidents and data breach response
+processes. In 2016, the Department conducted two incident
+response tabletop exercises that helped us refine our incident
+response process through the development of lessons learned and
+identification of actions the Department needed to enhance our
+overall incident response process.
+The Department has implemented a number of technical
+controls and solutions to detect policy violations,
+unauthorized changes, and unauthorized access to the
+Department's primary network. These include a data loss
+prevention solution, which restricts users from sending emails
+that contain sensitive PII such as Social Security numbers
+outside of the Department.
+In 2016, the Department also implemented network access
+control, which prevents connection by any unauthorized device
+to the network. A third solution, web application firewalls,
+has been implemented, and we are transitioning web portals and
+web applications to be protected by those firewalls.
+The Department has partnered with DHS on the implementation
+of automated solutions for continuous diagnostics and
+mitigation, which will enable us to continuously monitor our
+network for intrusions and malicious activity. The Department
+also actively leverages multiple DHS-provided shared security
+services.
+I thank you for the opportunity to discuss the
+cybersecurity incident that affected the DRT. The Department of
+Education and the IRS continue working together to continuously
+enhance the security and privacy protections around this
+important capability. I am confident that the technical
+solution currently being worked will achieve this goal. I would
+be pleased to answer any questions you may have.
+[Prepared statement of Mr. Gray follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Russell. Thank you.
+The chair now recognizes Ms. Garza for five minutes.
+
+STATEMENT OF SILVANA GINA GARZA
+
+Ms. Garza. Chairman Russell, Ranking Member Cummings, and
+members of the committee, thank you for the opportunity to
+appear before you today to discuss the cybersecurity incident
+associated with the Federal Student Aid data retrieval tool, or
+DRT. I have been a public servant for over 32 years, and I am
+information technology executive for the last 17. Recently, I
+became the chief information officer, having served as the
+deputy CIO for the four years prior.
+During this time, I have seen a dramatic change in the
+number and types of attacks fraudsters and criminal enterprises
+use to try to get the data we are committed to protecting. As
+the tactics have changed, the IRS's attitude and approach
+towards cybersecurity and refund fraud have also changed. We
+understand that the enemy is ever-changing and that we must
+stay diligent in continually assessing our risk posture and
+improving our defenses. We know that we are--we all share the
+responsibility to ensure that cybersecurity is embedded in
+every part of our operation.
+Stepping into the role of CIO eight months ago, I
+established two priorities: cybersecurity and delivering a
+successful filing season. Having been an executive in the
+Business Operating Division, I appreciate the delicate balance
+between meeting taxpayer needs with quick and convenient access
+to online programs and securing our systems.
+We did not take lightly the decision to disable the DRT
+tool. We knew that doing so have the potential to disrupt
+millions of students applying for Federal financial aid. Even
+so, I believe we made a sound decision, one which would protect
+the data of approximately 175 million Americans. This is our
+highest priority.
+I appreciate your decision to conduct a public hearing on
+the subject, as I believe it is critical that we continue to
+raise awareness of the widespread cyber and identity theft
+threats we are facing across the globe today. Every day,
+thousands of individuals fall victim to identity theft.
+Government and private sector companies are all being bombarded
+with cyber attacks. We in the IRS have a front row seat. Every
+day, the IRS receives and defends on average a million attempts
+to penetrate our systems. Identity theft continues to be a
+major threat to our tax administration efforts.
+When we first became concerned with the level of
+authentication protecting the data retrieval tool, we assessed
+the risk to determine if we should shut down the application.
+Our practice has been to shut down the application of concern
+until we have mitigated the risk. In prior situations, no other
+agency was involved. This situation was different. The
+Department of Education was highly dependent on the data
+retrieval tool for the success of its program and to serve its
+customers. We would not make a decision to shut down the
+application without engaging the Department of Education in the
+decision process.
+We discussed the need to raise the level of authentication
+with the Department of Education. Additionally, we discussed
+the fact that this could be done at either the Department of
+Education website or at the point the applicant invokes the DRT
+tool. The Department of Education needed to have a user-
+friendly solution in place. This made it undesirable to
+implement a solution that would cause about 75 percent of
+applicants to be unable to complete the process. We continued
+to collaborate with the Department of Ed to find an alternative
+solution to protect the data.
+At that time, there was no evidence of data loss or fraud
+so we agreed to not shutdown the application while we worked on
+an acceptable solution. We were always clear that the moment we
+had evidence of data loss or fraud, we would turn off the data
+retrieval tool. On March 3, having confirmed an incident of
+fraud, we turned off the application. Details of the incident
+and activities leading up to the decision to shut down the
+application are in the written testimony.
+In conclusion, protecting data is our highest priority.
+This threat is persistent and ever-changing, and the IRS
+remains diligent and ever watchful. The portion of the funds
+Congress provided last year to support cybersecurity has helped
+us implement tools and processes that have enhanced our
+capabilities, but there will always be more work to be done.
+Chairman Russell, Ranking Member Cummings, members of the
+committee, this concludes my oral testimony. I will be happy to
+answer your questions.
+Mr. Russell. Thank you. The chair now recognizes Mr. Corbin
+for five minutes.
+
+STATEMENT OF KENNETH C. CORBIN
+
+Mr. Corbin. Chairman Russell, Ranking Member Cummings, and
+members of this committee, I am the new commissioner of the
+IRS's Wage and Investment Division, having started this
+position at the beginning of the year. My responsibilities
+include overseeing the processing of tax returns, issuance of
+refunds, preventing and detecting refund fraud, providing the
+best possible taxpayer service. Thank you for this opportunity
+to testify.
+My colleague, Ms. Garza, has described the work the IRS is
+doing in collaboration with the Department of Education to
+secure the DRT. I will put that in a broader context of how we
+are working to save at all of our programs where we share
+taxpayer information. I will also update the committee on our
+efforts to help taxpayers who may have been affected by the
+incident earlier this year involving the DRT.
+An important focus of the IRS's efforts to protect taxpayer
+data is the ongoing battle against stolen identity refund
+fraud. We have made steady progress of the last few years
+against this threat, but as many colleagues noted, this threat
+is constantly evolving. To address this challenge, the IRS has
+worked to increase our ability to monitor, detect, analyze
+suspicious activity within our systems. Congress helped us by
+approving $290 million in additional funding in 2016, which
+included $95 million to improve cybersecurity. We have used a
+portion of that funding for monitoring equipment and other
+capabilities that are more sophisticated than we previously
+had. This is helping us detect unusual activity in our various
+online tools and applications more quickly.
+Despite all this progress we've made, we realize we cannot
+relax the fight against identity theft. We are finding that, as
+the IRS enhances return processing filters, catches more
+fraudulent returns at the time of filing, criminals attempt to
+become more sophisticated at mimicking taxpayers' identities so
+they can evade those filters and successfully obtain fraudulent
+refunds. Therefore, the IRS is working not just to react better
+and faster but also to stay ahead of the criminals.
+In that regard, we've also undertaken a broad effort to
+review authentication practices for programs where we share
+taxpayer information and strengthen those practices where
+necessary. Student aid is an area where we have been concerned
+about the ability of bad actors to fraudulently obtain taxpayer
+information. That led us beginning last fall to more closely
+monitor activity on the DRT and work with the Department of
+Education to make the DRT more secure. In investigating the
+incident earlier this year involving the DRT, we found that the
+data obtained through unauthorized use of the tool was in some
+cases used to attempt to file false returns.
+Our strengthened fraud filters have stopped a significant
+number of questionable tax returns by filers who access the
+DRT. We are working to determine whether any of those returns
+are in fact fraudulent. Our analysis of the suspicious activity
+involving the DRT found approximately 100,000 individuals may
+have had their taxpayer information compromised.
+While we have indications that a large number of these
+taxpayers are--in all likelihood did not have any information
+compromised, in an abundance of caution, we have mailed letters
+to all of these taxpayers. We wanted to tell them about the
+possibility of unauthorized activity related to their personal
+information so they can take steps to secure their data. We
+also offered them free credit monitoring. Along with notifying
+these taxpayers, the IRS is marking their accounts to provide
+additional protection against the possibility that an identity
+thief could file a false return using their information.
+We also recognize that many families trying to apply for
+student aid have been inconvenienced by the decision to shut
+off the DRT while we work to improve security for the tool. In
+the interim, families can still complete the application for
+student financial aid by manually providing the requested
+financial information from copies of their return. Although we
+realize this is not as convenient as using the DRT, we have a
+responsibility to ensure the DRT and all of our online tools
+are fully protected from identity thieves.
+Chairman Russell, Ranking Member Cummings, and members of
+this committee, that concludes my statement. I will be happy to
+take your questions.
+[Prepared joint statement of Mr. Corbin and Ms. Garza
+follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Russell. Thank you.
+The chair now recognizes Mr. Camus for five minutes.
+
+STATEMENT OF TIMOTHY P. CAMUS
+
+Mr. Camus. Thank you. Chairman Russell, Ranking Member
+Cummings, and members of the committee, thank you for the
+opportunity to testify on the topic of the recent free
+application for Federal Student Aid data retrieval tool breach.
+On average, each year the IRS issues approximately $400
+billion in refunds, processes 242 million tax returns, and
+collects over $3 trillion in revenue. In addition to the
+significant amount of money that flows through the IRS each
+year, the taxpayers' IRS information is extremely valuable to
+identity thieves. As a result, the IRS has become a persistent
+target of cyber criminals located all over the world.
+Over the past several years, TIGTA has conducted numerous
+investigations of a variety of cyber attacks on the IRS. For
+example, in May 2015 criminals launched a coordinated attack on
+the IRS e-authentication portal that was estimated to impact
+110,000 taxpayers. Further investigation revealed that more
+than 700,000 taxpayers were impacted by abuses of the system by
+multiple bad actors over an extended period of time.
+In January 2016, the IRS e-file PIN application was
+exploited. The IRS estimates the exploitation resulted in the
+issuance of over 100,000 e-file PINs that were used it to file
+fraudulent tax returns seeking more than $100 million in
+fraudulent refunds.
+On January 25, 2017, the IRS noticed unusual activity on
+the FAFSA data retrieval tool. The IRS reported this
+observation to the Department of Education. The Department of
+Education advised the IRS that they believed the activity was
+legitimate activity.
+Then, on February 27, 2017, it was determined that the
+FAFSA data retrieval tool was in fact being used in order to
+steal taxpayers' adjusted gross income, or AGI, information.
+Taxpayer AGI information is extremely valuable to identity
+thieves as it is needed by criminals in order to authenticate
+themselves for the purpose of filing fraudulent tax returns and
+stealing refunds.
+Due to this activity, in early March 2017, the IRS made the
+decision to take the data retrieval tool offline. It is
+estimated at this time that as many as 100,000 taxpayers may
+have had their AGI information stolen through this
+exploitation.
+Through the benefit of hindsight, all of these cyber-
+related incidents that I've discussed reveal that although the
+IRS conducts electronic risk assessments of its tax information
+sharing sites, it has had difficulty in identifying proper
+levels of risk associated with the various applications. That
+is because the struggle with determining the risk, then
+necessary authentication requirements, all the while balancing
+the ease of use for taxpayers, continues to be the challenge.
+As we learn from our investigations how cyber criminals are
+defeating the various authentication and security requirements,
+we share what we learn with the IRS in order to help them shore
+up their applications. One thing is crystal clear. There is a
+determined criminal element paying close attention to
+electronic tax administration, and I believe these criminals
+will continue to present challenges to the future of efficient
+and secure electronic tax administration.
+In summary, we at TIGTA take seriously our mandate to
+protect American taxpayers and the integrity of the IRS. As
+such, we plan to provide continuing investigative and audit
+coverage in the area of cybersecurity, and we look forward to
+continued discussions on ways we can fight these types of cyber
+crimes in the future.
+Mr. Chairman, Ranking Member Cummings, and members of the
+committee, thank you for the opportunity to share our views,
+and I look forward to answering questions.
+[Prepared statement of Mr. Camus follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Russell. Thank you.
+The chair will now recognize himself or five minutes.
+Ms. Garza, you know, as I look at this situation--and you
+certainly have a lot of experience both in the CIO arena, as
+well as in public service, and we do appreciate that. A lot of
+times public servants are taken for granted. But with your
+broad experience, that is not taken lightly. But still, as we
+examine this issue, we are trying to get to who is responsible
+for making the operational and security decisions for the data
+retrieval tool?
+Ms. Garza. Sir, as I said in my opening testimony, we are
+all responsible for ensuring that cybersecurity is our top
+priority. As a group, we look at every risk assessment, we
+evaluate the situation, and we make the decisions as to what
+level of risk we're willing to take with the application that
+we are talking about.
+Over the last year since Get Transcript, we've become much
+more conservative, but we evaluate the situation, we discuss
+it, and we determine what actions we need to take.
+Mr. Russell. Now, in your testimony you had mentioned that
+this was unique because, unlike attempts or attacks on the IRS
+and the different departments within the IRS, this involved a
+different department. So you had one end of the pipe and the
+other end of the pipe. So when you learned in September 2016
+that it was possible to, with, quote, ``little stolen personal
+information,'' for a hacker to pose as a student and access the
+DRT tool and the data stored on that tool, why did you not move
+to immediately secure the tool through encrypting or otherwise
+masking the sensitive information accessible through the DRT?
+Ms. Garza. So there was a couple of actions that we took at
+that time. We--first of all, there was no data loss at the
+time. We had no evidence of fraud at the time. We immediately
+----
+Mr. Russell. Well, there was no evidence of fraud but that
+doesn't mean that there wasn't. I mean, you had a clear
+indication that something was awry, yes or no?
+Ms. Garza. We looked at the analytics and we looked at all
+of the data that we had available to us at the time, and we did
+not see anything suspicious. We contacted the Department of
+Education. Our--both cyber organizations started to work to
+look at the data, and the data did not reveal that there was
+any kind of penetration going on at that time.
+Mr. Russell. Well, didn't--and I guess--you know, and here
+is the information I am speaking at specifically. You know, the
+isolated case, did it not result in an indictment that is still
+processing in the courts from September 13?
+Ms. Garza. It was a single case, and they did not get the
+data.
+Mr. Russell. Well, I guess then let me follow on this vein
+because what I hear each of the panelists saying is that no
+data breach, no problem, and I hear Mr. Camus say 100,000,
+investigation ongoing, and fraudulent returns filed, and I will
+come back to some of that. But, Mr. Gray, to what extent do you
+think that the Department is responsible for securing the data
+accessible on FAFSA.gov and other web-based applications?
+Mr. Gray. One hundred percent we're responsible for
+securing our data.
+Mr. Russell. Okay. But yet we see what the Department of Ed
+saying, hey, give us the tool, we have the IRS saying here is
+your tool and you have got data coming out the spigot on one
+end, you think it is secure on the other, there is a leak, and
+yet it took you how many months from September to February to
+even recognize and say, no, we thought it was legitimate in
+September but now we think we might have a problem. That is a
+big period of breach. So would you say that you have a
+responsibility for--you do have that responsibility, but that
+wasn't perceived as such in September?
+Mr. Gray. It was perceived that there was a potential
+vulnerability in September, October, and the two departments
+worked together to create a solution that would prevent that
+vulnerability from being exploited. It did--when it became an
+exploited vulnerability, which was in March, is when we took
+the appropriate action to bring it offline.
+Mr. Russell. And yet it wasn't shut down when you had
+indication in the start of a new financial aid season. And I
+guess what I would like to do is--you know, Mr. Runcie, you
+said that there was no evidence that info was accessed, but
+were fraudulent returns filed with regard to this data?
+Mr. Runcie. Mr. Chairman, I can't tell you if fraudulent
+returns were filed or not. What I can tell you-- because we're
+not privy to that information. What we did was we analyzed the
+Social Security numbers, IP addresses. We did a pretty
+exhaustive examination looking at indicators of risk, and we
+returned that information to the IRS so that they could
+complete some of their analysis.
+In September, as I mentioned earlier in my oral comments,
+we at that point probably had filed 50 million applications
+using the DRT. So we filed a substantial amount of applications
+using the DRT going back seven years to 2010.
+It is an evolving landscape and it's quite possible, as
+we've said, that the criminals and the fraudulent activity, you
+know, they're innovative and so things change. But over that
+period of time there wasn't any documented material criminal
+activity on the DRT. When that was found and confirmed, it was
+shut down. So there's a history there that--one we relied on
+even though we continued to monitor it, and we balanced that
+against the risk of shutting off the tool and all the
+implications around shutting off the tool.
+Mr. Russell. Well, there is always a risk of protecting
+taxpayers, and I want to be respectful of the time here. But
+before I turn it over to the ranking member, you know, what it
+appears is that we are not identifying that we had a breach and
+it has made us more vulnerable. And with that, we will come
+back to some of that at a later time.
+I would like to recognize the ranking member, Mr. Cummings.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+Mr. Runcie, this past September, the inspector general
+issued a scathing report warning that student loan companies
+were using the Federal aid website to take advantage of
+students. The IG explained the tactics these companies were
+using to commit possible fraud. First, the loan companies would
+obtain the logon credentials students used to access their
+accounts. Then, the loan companies would change or create new
+credentials to let them take control of the student accounts.
+These loan companies took advantage of the students for
+commercial gain in many different ways. Now, Mr. Runcie, are
+you aware of that report?
+Mr. Runcie. Yes, I am.
+Mr. Cummings. And in one case the IG reported that a loan
+consolidation company, and I quote, ``changed the mailing
+address, phone number, and email address for borrowers so that
+it would be difficult for borrowers to be contacted by their
+own loan servicers.'' Another company charged students $60
+monthly service fee to, and I quote, ``put their loans into
+forbearance with the stated promise of eventually enrolling
+them in the Public Service Loan Forgiveness or some other debt
+reduction program even though the borrowers in some cases were
+not qualified for these programs.''
+Now, Mr. Runcie, when you read this report, were you
+troubled by these companies that did this to these students?
+Mr. Runcie. Ranking Member Cummings, yes. I think we were
+all troubled. And we continue to work with the IG. We have a
+potential solution or mitigating action that we're going to
+take later this month. So we understand what the issue is. But
+as you mentioned earlier, there is the technicality of someone
+who potentially signs up for these services. So whether it's
+through power of attorney or some other agreement, there is
+sort of that technical issue that we have to deal with.
+Mr. Cummings. So the IG reported that it could not
+prosecute these loan companies based on technicalities. For
+example, many of these companies required students to sign
+those powers of attorney in order to get the loans. The
+companies that used these powers of attorney to improperly
+access the student accounts. Now, Mr. Runcie, it should not be
+necessary for students to sign powers of attorney to get
+student loans. Do you agree with that?
+Mr. Runcie. Yes, I absolutely agree. And I think one of the
+approaches that we've taken is to go heavy on user education. I
+mean, ultimately, all these services that are being provided
+can be done free. But again, through aggressive marketing
+tactics and so forth, it's quite possible that there are number
+of people who are not aware that they can get these services
+done free. So we've been real focused on user education, and in
+addition, you know, we're going to make sure that there's
+information out there that the IG can leverage in terms of
+going after some of the bad actors that are out there, and
+that's what I referenced a little bit earlier without actually
+being specific.
+Mr. Cummings. I got you. Now, what other actions have been
+taken so that going forward these student loan companies will
+be held accountable for these abusive activities? I just think
+there is something about this that just tears at my heart
+because I see so many--a sit on the board of a college, and I
+see young people having to drop out of school because they
+don't have money and they are struggling. They just want to go
+out there and be all that God meant for them to be. And not
+only do they have to fight people who are supposed to be
+helping them, but then they lose the opportunity. And they
+don't lose it maybe for a week or a day. They lose it for a
+lifetime. That is why I am so concerned about this.
+Now, what assistance can Congress provide to help hold
+student loan companies more accountable? What can we do? Do you
+need some help?
+Mr. Runcie. Yes. I mean, you know--while I have some
+thoughts ----
+Mr. Cummings. Give us your thoughts because we have a duty.
+Once we find out that there are things that we can do, we need
+to explore to try to figure out whether they are practical to
+be done ----
+Mr. Runcie. Yes, well ----
+Mr. Cummings.--but we have got to know what they are.
+Mr. Runcie. Yes. I mean, so there is that technicality. I
+don't know if there is a way to sort of limit the ability to
+transfer the authority of giving away your password and your
+information so that others can provide those services. If there
+is some, you know, legislative process to address that, then,
+you know, I would be an advocate of it.
+I think the other thing, though, is you've got a balance
+that potentially with there may be a population--and I know
+it's--it would be a segment, a small segment of the people that
+are being contacted who may actually need some guidance for
+some--whether it's loan consolidation or providing some other,
+you know, value within the Federal Student Aid system. There
+may be some small amount, and we would have to sort of think
+about the impact on those that might need some level of
+assistance.
+But again, I think the bigger problem is what you
+indicated. There is the potential for people to be put in a
+situation where they're harmed for a very long period of time
+because they're not educated about some of the options out
+there to do it by themselves.
+Mr. Cummings. So would you think legislation regarding
+the--doing away with the power of attorney requirement would be
+appropriate?
+Mr. Runcie. I think it would be something that we should
+consider. You know, again, I--we'd have to do some analysis,
+you know, and it could be surveys or whatever. There are--like
+I said, there's potentially a group of some of the most needy
+who may need some assistance, and I can't calibrate that right
+now. But I think, as you said, the bigger problem is that
+there's a lot of them that aren't aware that they don't need to
+pay for these services and are being exploited.
+Mr. Cummings. Mr. Chairman, I would hope that we would
+pursue this even further. I think it would be legislative
+malpractice for us not to protect these students. It is
+ridiculous that we--we have got a do all that we can. I am sure
+that you will work with us and everybody up there on our panel
+work with us try to make sure that happens.
+The other thing that we have got to do, Mr. Chairman, we
+can't have just a hearing with these folks. We have got to
+bring in these people that are messing over our young people
+and playing games with their lives. And so I look forward to
+working with you and Chairman Chaffetz as we move forward.
+Mr. Russell. And I thank the ranking member and agree that,
+you know, it extends even beyond the students. It extends
+really to all Americans. This is very private data and even to
+their parents and others and look forward to working that
+effort.
+The chair would like to recognize now the gentleman from
+North Carolina, Mr. Walker, for five minutes.
+Mr. Walker. Thank you, Mr. Chairman.
+Mr. Camus, I want to ask you to describe the following
+three incidences, but I would just like for you to confirm them
+if you would, please, specifically the ones starting in
+September 2016. Was that incident involving the data retrieval
+tool, was that criminal in nature?
+Mr. Camus. Yes, it was.
+Mr. Walker. Okay. Did the incident result in an indictment?
+Mr. Camus. Yes, it did.
+Mr. Walker. Okay. There was also one that was identified in
+November 2016 and the third one was on January 25, 2016, by
+which a high number of taxpayer identification numbers were
+identified as being processed on the FAFSA that raised red
+flag. Did this result in a notification of a major incident to
+Congress?
+Mr. Camus. No, it did not.
+Mr. Walker. Okay. Ms. Garza, given the three separate
+incidents as described by TIGTA that predated the major
+incident that resulted in the DR tool not being taken offline
+on March 3, the question is why was the data retrieval tool not
+taken offline earlier?
+Ms. Garza. So ----
+Mr. Walker. Microphone, please. And if you would, just
+could you pull that microphone a little closer and speak into
+it there? Thank you.
+Ms. Garza. Thank you, sir. Congressman, in regard to the
+September incident, we took immediate action by analyzing the
+data that we have, and we found that there was no evidence of a
+breach. The data was not lost. And we started working with the
+Department of Education to strengthen the authentication
+process for the data retrieval tool.
+I am not aware of the incident in November and so I will
+have to go back and look at what the findings were for that.
+Mr. Walker. Yes. I don't understand the fact as far as
+saying, well it wasn't breached, it wasn't breached. I was just
+listening thinking of my family back home. If I have got a
+security system, yet we have still people trying to break into
+that, at some point I am going to be concerned, say, well, oh,
+nothing was taken, nobody was hurt, nothing was damaged. It
+doesn't make sense to me that there is not more action being
+taken here. Shouldn't the IRS be concerned about criminal
+misuse of the tool being sufficiently perked? Is that not
+something that is important?
+Ms. Garza. Protecting the taxpayer data is our top
+priority. We had to--we're trying to balance the protection of
+the taxpayer data with the use of the tool, and that is why we
+reached out to the Department of Education to have discussions
+about what we could take. We saw this is action that we needed
+to take immediately, and we did take that--those actions to
+come up with--to try to come up with a solution that would
+mitigate the risk.
+Mr. Walker. Now, the keyword is trying to come up with a
+solution. I am not sure we have arrived at that. And according
+to Mr. Runcie's written testimony, after the October 2016
+discovery that the DRT could potentially be vulnerable, the IRS
+increased monitoring of the tool for any suspicious activity.
+Could you describe what that increased monitoring looked like?
+Ms. Garza. That is correct. We--actually, we engaged with
+our TIGTA friends and asked them, as well as the new cyber
+analytics team that we have in place, to start looking for
+suspicious activity. And actually it was because of that
+increased monitoring that we had done that we identified that
+there was suspicious activity occurring in January.
+Mr. Walker. Yes. There was an incident also in February of
+this year, I believe. Was that discovered by accident?
+Ms. Garza. We have mechanisms in place, multilayer defense
+mechanisms. One of the mechanisms is a notification to the
+address of record to the individual whose data has been
+identified. That actually led us to identify that we had an
+issue. As we investigated that issue, we were able to find that
+in fact there was a fraud that had taken place and we
+immediately shut down the application.
+Mr. Walker. So for the record you are saying that no, that
+it wasn't discovered by accident?
+Ms. Garza. There was a notice that was generated to the
+taxpayer that had that taxpayer come in and notify us that
+there was something amiss.
+Mr. Walker. To me this is not only a question of taking
+responsibility for the IRS and Department's web-accessible
+services and data but of understanding the cybersecurity risks
+these online services and applications face. And I certainly
+agree with the Ranking Member Cummings. These are young
+people's lives at stake, and to--as they are coming out and
+getting started, to be able to put them on a path where they
+are having to unravel this, I hope there is more of a sense of
+urgency to deal with this issue than what presently seems to be
+at the time.
+With that, Mr. Chairman, I yield back.
+Mr. Russell. The gentleman yields back.
+And the chair would now like to recognize the gentlelady
+from New Jersey, Mrs. Watson Coleman, for five minutes.
+Mrs. Watson Coleman. Thank you very much, Mr. Chairman, and
+good morning to all of you.
+Mr. Runcie, in September the inspector general reported
+that student loan companies misused the Department's system to
+take advantage of students. As reprehensible as this finding
+is, this is not the first time student loan companies have
+acted against the best interests of the students they are
+supposed to be serving. In 2015, the Consumer Financial
+Protection Bureau and the Department conducted a public inquiry
+finding a vast universe of complaints regarding loan servicers.
+And even more concerning, this current administration has
+withdrawn a series of policy memos that have been issued from
+the previous administration that were put in place to
+strengthen protections for student loan borrowers. Mr. Runcie,
+what impact would this action have on student loan borrowers?
+And do you think that this could aggravate the issue of
+predatory lending practices?
+Mr. Runcie. Well, in terms of our focus, you know, our
+focus from a servicing perspective is to make sure that we have
+the highest quality outcomes for all the students and
+borrowers. And, you know, we've done a--we've put in place a
+series of actions over the years, and right now, we're going
+through a re-competition among the servicers that you
+referenced. Because we're in a procurement process, I can't
+really talk about specifics, but I will just reiterate that we
+are focused on having the highest quality product that we can
+from a servicing perspective and generating the best outcomes
+for students and borrowers.
+Mrs. Watson Coleman. Are you aware of the rollback of
+certain oversight and accountabilities that had been instigated
+or initiated in this administration that are overturning some
+of those accountabilities that were designed to protect
+students and vulnerabilities?
+Mr. Runcie. I personally am not aware of any rollbacks.
+Mrs. Watson Coleman. Is there anyone on this panel that has
+any knowledge of any recent actions on the part of either this
+administration through the White House or the Department of
+Education that will negatively impact the accountability of who
+is and who is not a good person or entity to work in this
+space? Is that a no? There is no one?
+Ms. Garza. No.
+Mr. Gray. No.
+Mr. Corbin. No.
+Mrs. Watson Coleman. Interesting. Okay. This January, the
+Consumer Financial Protection Bureau filed a lawsuit against
+one of the Nation's largest servicers of Federal and private
+student loan Navient. According to the lawsuit, Navient cost
+borrowers billions of dollars by withholding information about
+income-based repayment programs that could have lowered
+borrowers' monthly payments. Instead, they reportedly pushed
+borrowers into forbearance, suspending their payments but not
+the accrual of the compounding interest. Mr. Runcie, are you
+familiar with these allegations in CFPB's lawsuit?
+Mr. Runcie. Yes, I'm familiar with those allegations.
+Mrs. Watson Coleman. Navient services the student loans of
+more than 12 million borrowers and roughly 6 million of whom
+are serviced to contractors with the Department of Ed. Is that
+so?
+Mr. Runcie. I believe that's right.
+Mrs. Watson Coleman. And Navient sought to dismiss CFPB's
+complaint as part of its defense. It alleged, and I quote,
+``the servicer acts in the lender's interest and there is no
+expectation that the servicer will act in the interest of the
+consumer.'' Is that right?
+Mr. Runcie. I'm sorry. I didn't hear the last part.
+Mrs. Watson Coleman. The servicers--the servicer ----
+Mr. Runcie. Yes.
+Mrs. Watson Coleman.--acts in the lender's interest and
+there is no expectation that the servicer will act in the
+interest of the consumer.
+Mr. Runcie. Yes, I understand that statement. In the case
+of, you know, private lenders, a servicer would be acting on
+the behalf of private lenders. That's right.
+Mrs. Watson Coleman. Does it concern you that companies
+like Navient publicly claim they have no responsibility to act
+in the best interest of the students they are supposed to be
+serving?
+Mr. Runcie. We are currently in a procurement process and I
+can't make a comment on that, of which Navient is also in the
+procurement process so I can't make a comment on that. We're
+making decisions about our servicers.
+Mrs. Watson Coleman. All right then. I would expect that
+what you were going to do is to look at information such as
+this and not--we are not going to ask you again about someone
+like Navient even though you can't express whatever is
+happening with regard to the company right now.
+Mr. Runcie. You know, what I can say is, I mean, we look at
+past performance, we look at responsibility metrics. There are
+criteria that we have to look at in terms of the process but --
+--
+Mrs. Watson Coleman. Well, I don't know by number the
+executive order or the rollback that just took place as it
+relates to looking back at a company's business and reputation,
+but I think that is something you need to look at to see
+whether or not it does negatively impact your ability to ensure
+that the best is taking care of the best.
+Mr. Runcie. Absolutely.
+Mrs. Watson Coleman. Thank you. And with that, I yield
+back.
+Ms. Foxx. [Presiding] The gentlewoman yields back.
+The gentleman from Ohio, Mr. Jordan, is recognized for five
+minutes.
+Mr. Jordan. I thank the chair.
+Mr. Corbin, when did the IRS notify TIGTA that you guys had
+a problem?
+Mr. Corbin. Sir, the notification to TIGTA for the incident
+on February 27 happened that same day.
+Mr. Jordan. So you guys talked to Mr. Camus and his guys on
+February 27 of this year?
+Mr. Corbin. I did not personally talk to Mr. Camus ----
+Mr. Jordan. Someone at the IRS?
+Mr. Corbin.--but someone at the IRS did, yes, sir.
+Mr. Jordan. Got it. And how many taxpayers are potentially
+harmed by the hacking and the breach that took place?
+Mr. Corbin. Approximately 100,000, sir.
+Mr. Jordan. Hundred thousand people. And then the law
+requires you to notify Congress when something like this
+happens, doesn't it?
+Mr. Corbin. I'm not familiar with that, sir.
+Mr. Jordan. Well, I will read it to you. This is a letter
+from your boss, Mr. Koskinen. The Federal Information Security
+Modernization Act and criteria provided in the Office of
+Management and Budget guidance says this, that not later than
+seven days after the date of an incident you should notify
+Congress, right?
+Mr. Corbin. Correct. Yes, sir.
+Mr. Jordan. Okay. So you are supposed to do it and you are
+supposed to do it within seven days. Is that accurate?
+Mr. Corbin. That sounds accurate, yes, sir.
+Mr. Jordan. Okay. It doesn't just sound accurate. That is
+the law.
+Mr. Corbin. Yes, sir.
+Mr. Jordan. So when did you tell Congress?
+Mr. Corbin. Sir, I believe we notified Congress within that
+seven-day timeframe from what I know.
+Mr. Jordan. Really. Is that true, Mr. Camus?
+Mr. Camus. Mr. Jordan, I'm not sure when they made
+notification to Congress.
+Mr. Jordan. Because we don't have it until April 6, which
+is a lot longer than seven days. You learn on February 27, you
+tell Congress on April 6.
+Mr. Corbin?
+Mr. Corbin. I'd have to go back and check that,
+Congressman.
+Mr. Jordan. Well, that is important, right?
+Mr. Corbin. Yes, sir.
+Mr. Jordan. Mr. Koskinen testified on April 6 and that is
+when he told us.
+Mr. Corbin. Well, I ----
+Mr. Jordan. He testified in front of the Senate.
+Mr. Corbin. Yes, Congressman. I'd have to go back and take
+that back and confirm that for you, sir.
+Mr. Jordan. Well, I don't know that--well, we would
+appreciate that, but this is when Congress first learned was on
+April 6 that there had been an incident. And here is what the
+statute says. It says, ``not later than seven days after the
+date on which there is a reasonable basis to conclude that a
+major incident has occurred.'' Would you describe this as
+major, Mr. Camus?
+Mr. Camus. The fact that it impacted potentially 100,000
+people, I would say so.
+Mr. Jordan. Same here. So we are wondering why you waited
+so long.
+Mr. Corbin. I don't have an answer to that, Congressman.
+I'll go back and find out for you.
+Mr. Jordan. Well, we would like to get that because,
+frankly--well, let me turn to Mr. Camus.
+Mr. Camus, is this the first time the IRS has waited to
+tell Congress some important information?
+Mr. Camus. Mr. Jordan, I'm not aware. I can't answer your
+question.
+Mr. Jordan. Well, maybe I will refresh your memory. There
+was a little incident that happened over the last several years
+where the Internal Revenue Service systematically and for a
+sustained period of time targeted taxpayers based on their
+political beliefs. Are you familiar with that situation, Mr.
+Camus?
+Mr. Camus. I am familiar with that.
+Mr. Jordan. You did an investigation into that, didn't you?
+Mr. Camus. Yes, sir.
+Mr. Jordan. A couple of investigations ----
+Mr. Camus. A couple.
+Mr. Jordan.--didn't you?
+Mr. Camus. Yes, sir.
+Mr. Jordan. Yes. And was the IRS always forthcoming in a
+timely fashion with important information in that investigation
+you did, Mr. Camus?
+Mr. Camus. We found that there were some mistakes that were
+made and some materials that should have been turned over,
+that's correct.
+Mr. Jordan. Well, that is a nice way of saying it. I
+appreciate that. You have got maybe a career in politics after
+you are done at TIGTA, Mr. Camus, with that answer.
+Let me just refresh your memory. The IRS knew there was a
+gap in Lois Lerner's emails in February 2014. They did nothing
+to stop the destruction of backup tapes, actually 421 backups.
+You remember this, Mr. Camus?
+Mr. Camus. Yes, sir, I do.
+Mr. Jordan. Because it was your investigation that
+discovered they destroyed 421 backup tapes, right?
+Mr. Camus. That is correct, sir.
+Mr. Jordan. Potentially 24,000 emails, right?
+Mr. Camus. Yes, sir.
+Mr. Jordan. And that all happened in March 2014, a month
+after they knew there was a gap in her emails. And Mr. Koskinen
+testified in April of 2014, but what you know what he told
+Congress? June 13, 2014, is that right, Mr. Camus?
+Mr. Camus. That's correct.
+Mr. Jordan. So here we have again the Internal Revenue
+Service, an agency that has a little bit of influence and
+impact on American people's lives, with a major breach that the
+law says you are supposed to tell Congress within one week,
+within seven days. And what did they do? They wait 38 days. And
+you know what--to add insult to injury, think about what
+Congressman Walker just talked about, all the suspicious
+activity that took place before February 27.
+In fact, when Mr. Koskinen testified and said, oh, we are
+putting you on notice, Congress, that there has been a major
+breach, 100,000 taxpayers potentially impacted, look at what he
+said in that testimony. He said this: April 6, 2017, Mr.
+Koskinen testified in front of the Senate Finance and said,
+quote, ``We have started working with Education in October
+telling them we were very concerned,''--very concerned--``that
+the system could be utilized by criminals.''
+So Mr. Koskinen was on notice that there was problems,
+potential problems, potential big problems. He even used the
+term ``very concerned'' clear back in October of last year. We
+have the major breach take place on the 27th when the IRS tells
+you, hey, guys, we have got to look into this; this is real. We
+have had all these things happen, suspicious activities ahead
+of time, and they don't comply with the law and tell Congress
+within a week. They wait 38 days to tell us. It is not supposed
+to be how it works, is it, Mr. Camus?
+Mr. Camus. It doesn't sound so, sir.
+Mr. Jordan. No. And the IRS--once again, the IRS is
+treating taxpayers the way they are not supposed to, and it is
+why this committee has been so focused on trying to clean up
+the mess over there and frankly I have been so focused on
+saying Mr. Koskinen has to go.
+With that, I yield back, Madam Chair.
+Ms. Foxx. Thank you, Mr. Jordan.
+Ms. Plaskett, you are recognized for five minutes.
+Ms. Plaskett. I want to thank the lovely chairwoman this
+morning for the opportunity to speak.
+Thank you all for being here. Of course, everyone on both
+sides of the aisle are very concerned about this issue. Most of
+us have children and have our own student loans or have loans
+that we are helping with the children that we care very much
+about our future, as well as our constituents'.
+I did, however, just want to touch on something that I know
+one of my colleagues spoke about just a few moments ago, Mr.
+Runcie, when they talked about the lawsuit with Navient. It is,
+however, understood that this is a lawsuit so the interest of
+both parties--you know, they both have allegations raised. But
+Navient does have a lower default rate than some of the other
+users or loan companies that--and they do have a propensity to
+loan to minority and underserved communities, is that correct?
+I understood that the default rate of the students who have
+loans with Navient is a significantly lower potentially than
+some of the other loan companies.
+Mr. Runcie. I would have to confirm that. And a lower
+default rate is better, right?
+Ms. Plaskett. Right.
+Mr. Runcie. Yes.
+Ms. Plaskett. Yes.
+Mr. Runcie. But I'd have to confirm that.
+Ms. Plaskett. Okay.
+Mr. Runcie. And I know the portfolios aren't all the same.
+They have different compositions and so sometimes there would
+be natural, you know, differences in the default rates for the
+various services.
+Ms. Plaskett. Sure. Sure. Okay. So one thing that is really
+interesting as well, Mr. Runcie, when we are talking about the
+inspector general's report, it seems, you know, something that
+we are all very focused on. And the IG warned that the systems
+were, and I quote, ``being misused by commercial third parties
+to take over borrower accounts.'' This is something that
+Ranking Member Cummings talked about. These are things that we
+are really very keen on because these are of course students
+who are navigating a very difficult system. This is sometimes
+some of the first instances where they are really delving into
+their own finances, making decisions that are going to have an
+impact on them for the rest of their lives.
+So the commercial third parties are student loan companies
+and student loan consolidators. Is that correct when we are
+talking about ----
+Mr. Runcie. That is right.
+Ms. Plaskett.--the third parties that take over borrower's
+accounts? And less than two weeks ago this committee conducted
+an interview with the special agent in charge of conducting
+that investigation for the IG, and he explained to the
+committee that the information in these students' accounts is,
+quote, ``of commercial interest for loan consolidators.''
+Right?
+Mr. Runcie. Yes.
+Ms. Plaskett. And that word commercial interest is very key
+to me. He also told us that student loan companies, and I
+quote, ``were controlling thousands of accounts or creating
+thousands of accounts and controlling them.'' Mr. Runcie, is
+this true? Were student loan companies actually using the
+information of individuals they are there to serve in a manner
+to control for commercial interests those accounts?
+Mr. Runcie. Yes. My understanding is that they--it's a fee-
+for-service, and so to the extent that they've got 1,000
+clients, they're being charged for those services. So it would
+be a commercial endeavor.
+Ms. Plaskett. And do you have a list of the names of those
+companies that were doing that?
+Mr. Runcie. We've identified some. I don't know that we
+have an exhaustive list of those companies.
+Ms. Plaskett. Ms. Chairwoman, may I ask that we obtain a
+list of every student loan company that were involved in the
+activities?
+And, Mr. Runcie, how long would it take you to provide
+something like that to the committee?
+Mr. Runcie. I don't want to commit because I'm not sure how
+readily available ----
+Ms. Plaskett. Come on, you can't give me like, you know, an
+outside range time or anything like that? A week, two weeks, a
+month?
+Mr. Runcie. I'd say if you'd give us a month, that would be
+appreciated.
+Ms. Plaskett. Of course you would for the outside of what I
+requested.
+Mr. Runcie. Hey, I don't want to negotiate against myself.
+Ms. Plaskett. Got you. Got you. Got you. Very good.
+Ms. Plaskett. The special agent in charge also told us that
+student loan companies were, I quote, ``aggressively pursuing
+account holders and taking advantage of this.'' That sounds
+outrageous. And could you explain to me not just with the
+aggressively pursuing but what did he mean by taking advantage
+of them?
+Mr. Runcie. I don't want to speculate, but, you know, to
+the extent that they're providing services and they have
+account information, you know, they can receive correspondence
+on their behalf and make decisions on their behalf. And those
+decisions might benefit them commercially.
+Ms. Plaskett. And are any of these same companies still
+doing business with the Department of Education?
+Mr. Runcie. Not that I know of.
+Ms. Plaskett. Okay. Ms. Chairwoman, we have a
+responsibility to help protect students from the kind of abuse,
+and I am so very pleased that we are having this hearing to go
+through this. And I believe the entire committee is very keen
+on holding a follow-up hearing within the next--with the
+student loan companies that are actually engaged in these
+activities. And I hope that we can have the IG from the
+Department of Education testify about what they have found.
+Thank you very much for the information that you have
+provided us, and I hope, Ms. Chairwoman, we are able to do
+that. I yield back.
+Ms. Foxx. Thank you, Ms. Plaskett. First of all, I want to
+say thank you for your willingness to accommodate me on the
+Floor the other night. It wasn't necessary, but I appreciate
+that.
+And I believe under the committee rules you have the right
+to ask any witness for any information, and I am sure that will
+be followed up with the staff. So thank you very much.
+Mr. Hurd, you are recognized for five minutes.
+Mr. Hurd. Thank you, Madam Chairwoman.
+I apologize if I review some information that has already
+been discussed in this hearing. But raise your hand-- and this
+is for all five of you--raise your hand if you are responsible
+for FAFSA.gov.
+All right. Let the record reflect Mr. Runcie, Mr. Gray, and
+Ms. Garza raised their hand.
+Raise your hand if you are responsible for the DRT tool or
+also known as the FSA-D tool?
+All right. Let the record reflect Ms. Garza and Mr. Corbin
+raised their hand.
+In October 25, 2016 IRS, conducted an e-authentication risk
+assessment, and it concluded that the DRT tool was in need of
+stronger authentication measures. Is that correct, Ms. Garza?
+Ms. Garza. Yes, it is, sir.
+Mr. Hurd. And were steps taken to improve the
+authentication measures?
+Ms. Garza. We started to work with the Department of Ed --
+--
+Mr. Hurd. You started to work with the Department of Ed.
+What steps--what did you actually do since October 25, 2016 to
+strengthen the DRT tool?
+Ms. Garza. We increase monitoring on that application so
+that we could become alerted should something--we see something
+suspicious.
+Mr. Hurd. Were those efforts successful?
+Ms. Garza. In January it was those efforts that identified
+that there was a suspicious activity occurring, and at that
+time we partnered with the Department of Ed to get our two
+cyber teams together to review that suspicious activity. And we
+were informed by the Department of Ed that that was not--it was
+normal behavior.
+Mr. Hurd. What steps are being taken now to strengthen the
+authentication of DRT?
+Ms. Garza. We have already developed and implemented an
+encryption solution on the IRS side. We are working with the
+Department of Ed ----
+Mr. Hurd. How is encryption going to help with
+authentication if you have a user that has stolen credentials?
+Ms. Garza. The authentication solution that we had looked
+at was not satisfactory to provide the usability of the
+application, so we have moved to an encryption. So unless that
+----
+Mr. Hurd. But that doesn't answer the question. The
+question is how does encryption on the backend help with
+authentication of an attacker that is using stolen credentials?
+Ms. Garza. It does not improve authentication. What it does
+do is does not allow the data to be revealed to someone other
+than the actual applicant.
+Mr. Hurd. But if you have stolen credentials and you are
+able to spoof that, you have the credentials, what are you
+doing ----
+Ms. Garza. So ----
+Mr. Hurd.--to prevent that from happening?
+Ms. Garza. There are a set of keys that--on the IRS that is
+only shared with the Department of Education. So as the
+applicant comes in and releases--tells us to release the data
+to the Department of Education, they don't have access. They
+don't have a key to de-encrypt that data. Only the Department
+of Education, once it gets to their side, that they will be
+able to de-encrypt the data.
+Mr. Hurd. Okay.
+Ms. Garza. So that applicant ----
+Mr. Hurd. So, Mr. Gray, how--you are responsible for
+FAFSA.gov.
+Mr. Gray. Yes, sir.
+Mr. Hurd. What are you doing to strengthen authentication
+if somebody has stolen credentials to actually authenticate it
+to the end-user?
+Mr. Gray. We are looking at several proactive measures to
+----
+Mr. Hurd. We are looking portends that you are doing
+something in the future. Do you have a past tense verb that you
+can use on what you have done?
+Mr. Gray. For the Department, we follow Defense in depth
+and we have a whole series of actions that we're taking to
+ensure that we protect our systems.
+Mr. Hurd. And what are those series of actions?
+Mr. Gray. Some of them I referenced in my opening statement
+regarding data loss prevention, web access firewalls ----
+Mr. Hurd. So how does data loss prevention help with
+authentication?
+Mr. Gray. It would not. For authentication for FAFSA, the--
+this is the balance between--this is an application form where
+users are actually inputting their own data to gain access to
+apply for a student loan.
+Mr. Hurd. Yes, I get that. And ----
+Mr. Gray. So ----
+Mr. Hurd.--you have got to--it is your responsibility,
+right, to confirm that the person that is entering that data is
+indeed the person who owns the data. And I recognize this is a
+tough job, okay? I recognize that what you have to do is
+difficult. But you still haven't explained to me--we have
+proven and we have seen with the theft of over 100,000--or the
+impact on 100,000 students that the authentication mechanism
+within FAFSA.gov and the DRT tool is lacking. And my concern is
+that everybody is doing this. And I want to know what are you
+doing. And if there is not--if you need additional authorities
+to improve authentication on FAFSA.gov, I want to hear that,
+too.
+Mr. Gray. Thank you. The authorities that I have through
+FITARA has been very adequate. In terms of what we're doing,
+this is the balance between accessibility of the tool, which at
+this point is--it is a web application where students and
+prospective borrowers are coming in to apply. The level of
+authentication for that is currently set where it is so that we
+can cast the net as broadly as we can to potential borrowers.
+The identity proofing piece comes in when we are dispersing the
+funds.
+For the DRT, the challenge--or what we're doing is--we're
+looking at doing is masking and encrypting the data so that if
+an identity thief logs in through our system, they will not see
+that data, which would not allow them to exploit this
+vulnerability.
+Mr. Hurd. Madam Chairwoman, I apologize for going over my
+time.
+Ms. Foxx. No problem.
+Without objection, I am going to recognize Mr. Duncan for a
+unanimous consent request.
+Mr. Duncan. Well, thank you very much, Madam Chair. I
+realize you are not going to be able to get to me for question
+and so I simply want to make a unanimous consent request to
+include in the record at this point an email from one of my
+constituents, a Melissa Macko, who is the financial aid
+administrator at the Tennessee College of Applied Technology
+because she has four good suggestion to help with this problem
+in her email. Thank you very much.
+Ms. Foxx. Thank you, Mr. Duncan.
+Ms. Foxx. Ms. Kelly, you are recognized for five minutes.
+Ms. Kelly. Thank you, Madam Chair.
+In recent years, hacking, identity theft, and cyber crimes
+have been on the rise. I have been the victim myself. Federal
+agencies have to do their part to secure their systems, but
+Congress must acknowledge the impact its own actions have had
+on the ability of agencies to protect their IT systems. Many
+agencies face serious challenges in modernizing outdated legacy
+IT systems and implementing stronger cybersecurity measures
+under severe budget cuts that have been imposed by Republican-
+controlled Congresses.
+One of the agencies hit hardest by these cuts is the IRS.
+In May 2016, the IRS then-chief information officer Terence
+Milholland testified, and I quote, ``the IRS budget system is
+the most critical challenge facing IT modernization.''
+Mr. Corbin and Ms. Garza, what are the impacts of budget
+cuts on the ability of the IRS to modernize and secure IT
+systems? Are we putting taxpayers at greater risk?
+Mr. Corbin. So, Congresswoman, one of the things that
+Congress did do for us last year was appropriate the additional
+$290 million. We did take a portion of that funding to help us
+get the tools that Ms. Garza had described to help us identify
+and monitor our systems more closely.
+We also continue to invest in the return review program or
+RRP, and so that allows us to create rules and filters so that
+as returns come in, we're able to evaluate those returns and
+then--for potential fraud or identity theft and then stop those
+returns before they are actually paid out.
+Ms. Garza. So I want--I think it's on. I want to thank
+Congress for the money that we did receive. That was extremely
+beneficial. It allowed us to put new technologies in place that
+are actually protecting our systems at a much higher level than
+we had done in the past. In this incident itself, we were able
+to address the situation a lot quicker than we would have an
+able to in the past because of the new monitoring capability
+and the data analytics capabilities that were implemented using
+those resources.
+Ms. Kelly. And would you say more is needed or ----
+Ms. Garza. We would always be thankful for any additional
+resources and continued support in this area.
+Ms. Kelly. To make us more secure?
+Ms. Garza. Yes.
+Ms. Kelly. Okay. It is not just IT systems that have been
+affected by these resource lapses. Mr. Milholland testified
+last year that increased progress on systems modernization and
+cybersecurity measures, and I quote, ``will require significant
+sustained additional resources in the IT area. Do you agree
+with that assessment?
+Ms. Garza. I would agree with Mr. Milholland's assessment
+of our needs.
+Ms. Kelly. Mr. Corbin?
+Mr. Corbin. Yes, ma'am, I would agree as well.
+Ms. Kelly. Okay. Yet again, Congress has failed to ensure
+that agencies have the resources they need to carry out their
+missions. For instance, under the IRS Restructuring and Reform
+Act of 1998, Congress gave IRS the authority to hire a limited
+number of individuals to staff critical technical and
+professional positions at salary levels greater than general
+schedule rates. This critical pay authority was intended to
+help the agency attract highly qualified individuals with
+advanced technical expertise who might otherwise be available
+for government service at normal Federal salary levels. The IRS
+used its authority to fill 168 of these positions from 1998 to
+2013.
+Does critical pay play a role in making Federal Government
+jobs more appealing to highly qualified technical individuals
+who may be interested in public service but could be earning a
+much higher salary in the private sector?
+Ms. Garza. Congresswoman, the critical--streamlined
+critical pay authority that we've had was extremely beneficial
+to the IRS. Because of that authority, we were able to bring on
+board high-level architects, engineers, and cybersecurity
+experts. Over the last several years, they have helped us
+ensure that we were doing what was needed to secure our
+perimeter and make sure that our systems were running much
+better.
+The important component of this was the streamlined part of
+the critical pay. It allowed us to offer a job when we had--
+when we found somebody after the announcement was made and we
+identified somebody much quicker than the normal process would
+have been. A lot of times what we found was without the
+streamlined component, when we got back to the individual to
+see if they were still interested, the time had elapsed so long
+that we were not able--or they were no longer available or
+willing to come to work for us. So it is a critical component.
+Ms. Kelly. But this pay authority expired in 2013 and has
+not been reauthorized, so American taxpayers lose when Congress
+ignores its responsibilities. Congress can and should swiftly
+pass streamlined critical pay reauthorization and act to
+provide adequate resource levels for cybersecurity at all
+agencies.
+Thank you. Thank you, Madam Chair.
+Ms. Foxx. Thank you, Ms. Kelly.
+Mr. Issa, you are recognized for five minutes.
+Mr. Issa. Thank you, Madam Chair. And I look forward to the
+reauthorization if we can get the reforms that were required as
+of our last couple of hearings on the use of those 168 slots.
+But let me go on to the actual data breach. Ms. Garza,
+under your interpretation of the data breach, this is a data
+breach, right? It is a major incident and it is a data breach.
+Is that correct?
+Ms. Garza. Under the definition of data breach it is
+classified as a data breach.
+Mr. Issa. Okay. So we have had a data breach. Let me turn
+it around for a moment because both you and Mr. Gray said that
+you had no--and I think Mr. Runcie all said the same thing. You
+had no information that personally identifiable information had
+specifically been compromised. That is pretty--paraphrasing all
+of you?
+Ms. Garza. That's correct.
+Mr. Issa. Okay. Well, I will go to IRS first. Ms. Garza,
+you were there for the kickoff of the Affordable Care Act
+website. And, as you know, in that website if somebody looking
+at their information at the top of the screen simply went up
+there and changed the State, they might actually look at
+somebody's personally identifiable information. That was a
+vulnerability that was discovered right in there in the HTTP
+line, right? Do you remember that?
+Ms. Garza. That was on the CMS site ----
+Mr. Issa. Right.
+Ms. Garza.--and so I don't have any detail ----
+Mr. Issa. Okay. Well ----
+Ms. Garza.--specifics on that.
+Mr. Issa.--just for historical sake, I actually did it. You
+could--and somebody did it themselves. You could simply change
+the State and you could end up with somebody else's
+identifiable information on your screen.
+Now, they would have said that there was no breach, as Mr.
+Gray is sort of saying, because there was no proof anyone took
+that information and used it. But let me ask it another way. If
+you put a team of white knight hackers onto this vulnerability,
+could you have harvested information in your estimation?
+Ms. Garza. I think the evidence is that after the fact,
+yes, we--there were people that were accessing that application
+for bad reasons.
+Mr. Issa. Okay. So, Mr. Gray, I want to get you on the
+record under oath with an accountable statement. If there is
+evidence that people did nefariously gain some information,
+whether they used it or not, and that a team of white knight
+hackers or bad people could have harvested information, don't
+you have to admit that this is by definition a data breach, not
+just a hypothetical vulnerability but a vulnerability that was
+recognized that caused the shutdown of this tool?
+Mr. Gray. Thank you for the question and the request for
+clarification. I would say that when I am speaking about a data
+breach, I am speaking about the Department of Education's
+systems, and through our analysis, there was no Department data
+that was compromised or viewed through this. This was a case of
+unlawfully obtained information that was used to go through our
+system to pull information from the DRT.
+Mr. Issa. Okay. But in this case we are talking about you
+together represent like an automobile, and you are saying that
+your right-hand wheel didn't come off but the left-hand wheel
+did or could have. Ultimately, the construction of the entire
+product was brought to a halt as a result of a failure, right?
+Mr. Gray. Yes, sir. Yes.
+Mr. Issa. Okay. And both of you--I just want to make sure
+because I heard Ms. Garza say it--but both of you admit that
+under FITARA, under the reforms, as CIOs, you have budget
+authority and the authority necessary to shut down or to make
+what changes are needed to control the security and accuracy of
+your work. Is that right?
+Mr. Gray. Yes, sir.
+Mr. Issa. Okay. So now my question to you in the short time
+remaining is, although this is about education and it is about
+the tremendous impact on students who will have a burdensome
+time applying, if we are to do the next level of reforms that
+this committee would be required to, if we have given each of
+you authority and one of you says I have got a breach and the
+other says I don't, how do we resolve--within the hierarchy of
+the executive office of the President so to speak how do we
+resolve making sure that the failure of the whole is in fact
+controlled by somebody? In other words, I am looking at the two
+of you. You gave slightly different testimony. I think you have
+come together on testimony.
+But I want to know how in the future we do two things: one,
+make sure that somebody above you, sort of a super CIO, can
+make sure that this that this--that everyone--somebody is
+looking at the entire vehicle and not just a left tire and
+right tire; and then secondly, where were those white knights
+in this process? Where were the people who scrubbed this--third
+parties who scrubbed this data and system trying to find those
+vulnerabilities? Because somebody found it and it wasn't either
+of your teams. I will take an answer from either of you in the
+time that I am allowed.
+Mr. Gray. I don't know where those white knights were, sir.
+I do know that there were other entities within the government,
+USDS specifically, that was assisting with this as well. So I
+don't know where they were.
+Mr. Issa. Okay. So as Will said earlier, before the fact,
+you don't know. After the fact, of course, you could re-create
+it.
+Ms. Garza, the two questions to you. You are very senior in
+this position. You have had a lot of experience. One, how do we
+bring together organizations like you that have become
+interdependent to make sure there is oversight of the entire
+combined authority? And two, how do we make sure there are
+white knights proactively in the future to try to find these
+things and maybe to concurrently and constantly try to find
+them?
+Ms. Garza. Congressman, we actually do have processes in
+place that--where we do penetration testing where we have
+individuals that come in and test our applications to ensure
+that they are not subject to white hackers coming in and
+getting away with the data.
+Mr. Issa. Although, white hackers I am okay with.
+Ms. Garza. White hackers, black hats ----
+Mr. Issa. Bad guys.
+Ms. Garza. So we do have that process in place and we do
+use it. I don't recall right now if that process was utilized
+on this application. It clearly should have, and perhaps we
+would have been able to avoid this.
+As far as your other question, as the IRS continues to work
+with other agencies to provide data, it becomes more and more
+important that we actually address the concern that you have
+raised. I don't have an answer for you right now, but it's
+something we need to be very thoughtful about because I think
+this is going to start happening more often.
+Mr. Issa. Thank you. Thank you, Madam Chair.
+Ms. Foxx. The gentleman's time is expired.
+In the priority of the chair, I think will be helpful to
+this committee and to the Congress as a whole to get some sense
+of what kind of priority you put on testing your systems
+because it is pretty obvious that something like this should
+have been tested and should have been aggressively tested
+anytime you are sharing data with another agency. So I hope the
+committee will follow up on that.
+Mr. Raskin, you are recognized for five minutes.
+Mr. Raskin. And Madam Chair, thank you very much.
+Mr. Runcie, there has been a documented pattern of abuse
+with the student loan companies for many years now. Lots of
+scams have taken place. In 2012, the IG reported that a student
+loan company improperly accessed student borrower accounts to
+change the contact information of the borrowers in order to,
+quote, ``make it difficult for the borrowers to be contacted by
+their loan servicers. Why would they do that? What is the scam?
+Can you explain to us how that works for them?
+Mr. Runcie. Thank you. So they're commercial entities and
+they're fee-for-service entities, so they ----
+Mr. Raskin. These are legitimate businesses then? These are
+not internet scammers or ----
+Mr. Runcie. They're not Internet scammers but the nature of
+the interaction between, you know, those entities and the
+students and borrowers, I can't characterize that. But they're
+businesses that are formed to provide commercial services,
+whether it's loan consolidation or something else.
+It seems and it appears that in cases where they want to
+have a level of control to create a transaction or to continue
+through the process, they change email addresses and
+potentially mailing addresses and so forth to facilitate the
+process that they are taking the students and borrowers
+through.
+Mr. Raskin. But how do they profit from it? They take over
+the student's account?
+Mr. Runcie. They--it's a--they may charge it--and I'm just
+going to make up a number. Let's say they charge $100 for
+consolidation or more. So there's an agreement that they will
+consolidate the loans and create a lower payment amount or
+whatever the agreement is, and they would be paid for that.
+Mr. Raskin. So did this actually take place? I mean, in one
+example the IG reported in 2013 that a company charged
+borrowers a monthly fee--I think it was $60--in order to put
+their loans into forbearance with the promise of enrolling them
+in the Public Service Loan Forgiveness program eventually,
+which they weren't qualified for. But did that actually happen
+with people?
+Mr. Runcie. My understanding is that it--there are these
+companies that provide these services, and a part of that
+process sometimes is they put people into forbearance with the
+understanding that they're ultimately going to go into
+consolidation. So those are third-party entities involved in a
+transaction that doesn't include the Department, you know,
+except for the fact that they're using the email addresses and
+the resources that we have to facilitate transactions where
+they make money. As ----
+Mr. Raskin. So just to get you straight there, they are
+using your website essentially as the framework to access their
+victims. Then, they prey on the people. But as far as you know,
+they might still be in this scam relationship with the
+students?
+Mr. Runcie. Yes. We've looked at IP addresses and we've
+looked at some of the activity, and in some cases you will
+actually see loan consolidations. Whether it's 10 percent or
+100 percent of their clients, we don't know. What we've
+stressed is user education to make sure people are aware that
+they can get these services done for free by leveraging
+resources that the Department provides.
+Mr. Raskin. Well, I get complaints on a daily basis pretty
+much from my constituents who feel like the whole system is a
+scam, but you are talking about a scam on top of a scam in a
+way. You are talking about people who are in serious debt from
+college and then some of these kind of low-riding companies are
+able to access them--charge them more money to offer them
+either real or completely illusory services, right?
+Mr. Runcie. That's right.
+Mr. Raskin. Okay. Who is the ombudsman and champion of
+America's students and college graduates who is looking out for
+the scams in the IRS, the Department of Education, at every
+level of government? Is there anybody?
+Mr. Runcie. I think we play a role. The Department plays a
+role. So, you know, for instance, I mentioned user education.
+The IG has noticed that this is an issue, and we're doing some
+things with our systems to make sure that we give them an
+additional tool or lever that they can use to prosecute, you
+know, bad entities. So, you know, we play a role in that and --
+--
+Mr. Raskin. How many prosecutions have there been since
+this was revealed?
+Mr. Runcie. I don't have that information.
+Mr. Raskin. Have there been any prosecutions?
+Mr. Runcie. I--the--we don't prosecute. It would have to be
+through the IG or some other ----
+Mr. Raskin. And let me just say I know everybody up there
+is working hard for the American people and has a tough job,
+but the overall institutional sense that I get is one of basic
+passivity and reactivity to events rather than getting on top
+of it. We have got millions of people who are carrying these
+loans. I think there is more student debt in America than there
+is credit card debt now. It is more than $1 trillion. And
+obviously, there is a lot of money being made there, including
+by people who are going out and preying on people who are
+already laboring under the burden of these loans who--do we
+need to create an ombudsperson, somebody who is just a champion
+of the students and the graduates to make sure that they are
+not getting ripped off at every step of the process?
+Mr. Runcie. Yes, I mean, we have an ombudsman, but it's
+not--it's sort of a pervasive all-inclusive person that sort of
+challenge--you know, challenges resources across government,
+across, you know, IGs, across operations. So, you know, that is
+potentially something that can be useful, but ----
+Mr. Raskin. Where is that ombudsperson located? Is that --
+--
+Mr. Runcie. The ombudsman is located within FSA. They deal
+with complaints and issues that we can resolve. There are
+operational issues, so the customer service issues. They could
+be, you know, school-related issues. But in terms of ----
+Mr. Raskin. Did that person ever raise any of these issues
+with you about the scams being perpetrated on students through
+the website?
+Mr. Runcie. No. Those scams are done by third-party
+entities that are outside of our scope. And so ----
+Mr. Raskin. So basically, it was nobody's responsibility to
+try to identify that threat? Is that right? I mean, that is not
+a gotcha question. I am just trying to figure out ----
+Mr. Runcie. No, no ----
+Mr. Raskin.--to prevent this from happening again because,
+you know, there were cases of this going back four or five
+years now.
+Mr. Runcie. Yes. The--again, the commercial entities that
+are marketing to students to provide services to those students
+and the students agree to, you know, obtain those services, and
+the questionable nature and value of those services is not
+something that we police. What we've been trying to do was
+provide user education and let people know that, you know, they
+don't need to use these resources. And we've--you know, working
+with partner organizations and so forth, but we don't have any
+control over those entities.
+Mr. Raskin. Thank you very much for your answers, and I
+yield back, Madam Chair.
+Ms. Foxx. Thank you, Mr. Raskin.
+Mr. Hice, you are recognized for five minutes.
+Mr. Hice. Thank you, Madam Chair.
+Mr. Corbin, do you have any idea how much the IRS loses to
+fraudulent tax returns each year?
+Mr. Corbin. No, Congressman. I can bring that back for you
+or go back and get that information for you.
+Mr. Hice. Please do. But would it surprise you that in 2013
+alone it was over $5 billion? Does that come as a surprise to
+you?
+Mr. Corbin. It does not come as a surprise, Congressman.
+Mr. Hice. Okay. So it is no surprise that over $5 billion--
+let's just say that is the average year, $5 billion a year plus
+or minus in fraudulent returns--and now, as you--as has been
+clearly established, ballpark 100,000 taxpayers put at risk as
+thieves breach the DRT or--do you have any idea how many
+fraudulent returns resulted from those 100,000 taxpayers?
+Mr. Corbin. So, Congressman, what I know is that of the--
+we have received about 111,000 returns filed under those Social
+Security numbers. Of those returns, 80 percent of them were
+either stopped by our filters prior to their refunds being paid
+or they were the actual legitimate taxpayer.
+Mr. Hice. Well, that is good information, but that was not
+my question. I want to know how many fraudulent tax returns
+came from those 100,000.
+Mr. Corbin. Yes, sir. We have confirmed about 29,000
+returns as identity theft.
+Mr. Hice. Okay. And how many of those were fraudulent is my
+question. Commissioner Koskinen said it was about 8,000.
+Mr. Corbin. Yes, well, there are--so, Congressman, there
+are 8,000 returns that were not stopped by our filters that we
+have not been able to determine ----
+Mr. Hice. That were fraudulent?
+Mr. Corbin. That we have not been able to determine if they
+were fraudulent or the legitimate taxpayer.
+Mr. Hice. Okay. Well, that was my question. I would
+appreciate it if you would answer the question rather than run
+around it.
+Mr. Corbin. Yes, sir.
+Mr. Hice. Do you have any idea how much money was lost due
+to those 8,000 fraudulent returns?
+Mr. Corbin. I believe that is about $32 million, sir.
+Mr. Hice. It is about $30 million. Does the IRS reimburse
+the fraudulent tax returns from those who were victims?
+Mr. Corbin. So when a true taxpayer comes in and files a
+return, they do get their full refund that they're entitled to.
+Mr. Hice. Okay. And who pays for that?
+Mr. Corbin. That comes out of the Treasury, sir.
+Mr. Hice. So the taxpayers pay for it?
+Mr. Corbin. Yes, sir.
+Mr. Hice. So we had $32 million just out of this 100,000
+people, 8,000 fraudulent returns. So is that $30 million, does
+it include the reimbursement from the victims?
+Mr. Corbin. No, sir, it does not.
+Mr. Hice. All right. So we are talking 60, $65 million in
+this one incident. We are talking if we have $5 billion a year
+in fraudulent returns, we are probably talking $10 billion that
+it costs the taxpayers every year after the victims are paid
+back. Does that ----
+Mr. Corbin. So of the 32, Congressman, again, we have not
+confirmed whether that is a fraudulent return or the true
+taxpayer.
+Mr. Hice. Okay. I am just going by what Commissioner
+Koskinen said, and I would think that he would be accurate in
+that information.
+Ms. Garza, I am still scratching my head over your comments
+earlier, that as far as you are concerned, you didn't know of
+any breach whatsoever, and yet it is pretty well confirmed
+there was a breach here and you even came back around and
+admitted that a little while ago.
+Ms. Garza. It depends on the timing, sir. In September we
+----
+Mr. Hice. It depends on whether or not anyone broke into
+the system. That is what determines a breach. And it just--I
+tell you, I just struggle. It appears to me at the end of the
+day--you are either in denial of what happened or you are
+incompetent or you are just untruthful in what is happening
+here. And I go back with what has been shared, too. The abuse
+that has been inflicted on American citizens by the IRS is
+inexcusable and it is time that there is accountability and
+some change that takes place at the IRS. This is just--it is so
+bothersome it is indescribable.
+Mr. Gray, let me come to you. It is my understanding that
+the Department may have the data retrieval tool operation for
+the purposes of income-based repayment plans back up in May or
+June. Is that correct?
+Mr. Gray. That is my understanding, sir.
+Mr. Hice. Okay. That being said, if it is going--this has
+taken more or less three months to fix it, correct?
+Mr. Gray. Yes, sir.
+Mr. Hice. Okay. If it has taken three months, why in the
+world was this not addressed last fall?
+Mr. Gray. Unfortunately, I can't answer that question
+because I am not involved ----
+Mr. Hice. Who can answer that question?
+Mr. Gray. Mr. Runcie.
+Mr. Runcie. It wasn't addressed--I think it's what we'd
+said a little bit before, which was we were making a decision
+at the time based upon the fact that there wasn't any
+criminal--material criminal activity. What the commissioner
+said was we would continue to monitor the situation, and once
+there was confirmed criminal activity, we would take the system
+down. So that was the focus of it, and then March 3 when there
+was--when we were contacted, the system was taken down.
+Mr. Hice. The commissioner said that identity thieves used
+it to put forth false tax returns and made it clear that there
+was criminal activity, and that because of such, the system was
+going to have to be shut down. It looks like we are talking out
+of both sides of our mouth.
+Madam Chair, I thank you for indulging me extra time. I
+yield back.
+Ms. Foxx. Thank you very much, Mr. Hice.
+Mr. Clay, you are recognized for five minutes.
+Mr. Clay. Thank you, Madam Chair.
+And I find it deeply concerning that the Trump
+administration has started rolling back the protections that
+help ensure that students are not taken advantage of by
+predatory loan companies.
+Mr. Runcie, Secretary of Education DeVos recently rolled
+back a critical protection put in place during the Obama
+administration. This protection prohibited loan servicers from
+charging up to 16 percent in interest on overdue student loans
+if borrowers entered a loan rehabilitation program within 60
+days of default. Mr. Runcie, why did she rescind that
+protective order?
+Mr. Runcie. I'm not aware--there was a policy memo that was
+rescinded. Is that what you're referring to, Representative
+Clay?
+Mr. Clay. Yes.
+Mr. Runcie. Yes? So we--again, we're in the process of
+going through a competition for servicers, and the focus of
+that competition is to make sure that we have the best contract
+in place that's focused on high quality outcomes for students
+and borrowers. So that's what we're focused on. There hasn't
+been anything communicated from the Secretary that would change
+our ability to go forward and to make sure that there's a
+vehicle in place to make sure that we optimize outcomes for
+students and borrowers.
+Mr. Clay. Now, doesn't that action place the financial
+interest of the loan companies over the interest of our
+students?
+Mr. Runcie. That's not what we're doing, and that's not
+what's been communicated to us.
+Mr. Clay. Well, now, does it signal the loan companies that
+they can return to the predatory practices they engaged in
+before that take advantage of students? I mean, look, you and I
+know that people struggle to pay these student loans, so they
+came up with a way to give them some kind of relief, and now we
+are going to throw that out?
+Mr. Runcie. No, I--look, I share your focus on making sure
+that we have the best circumstances for borrowers and students
+and, you know, if you look at income-driven repayment plans,
+which is a tool that was put in place to make it easier for
+students to manage their obligations and their debt, that has
+risen substantially. Our servicers and the Department is
+focused on making sure people get into plans that allow them to
+maintain ----
+Mr. Clay. Okay.
+Mr. Runcie.--and manage their debt.
+Mr. Clay. Okay. Let's talk about those plans. Just last
+month, the Secretary withdrew another critical consumer
+protection afforded to student borrowers. Under the Secretary's
+order, contracts for debt collection will no longer be based on
+a loan company's history of helping borrowers but can again be
+based on a company's ability to collect debt. Can you explain
+why this change was made?
+Mr. Runcie. Actually, the evaluation--and again, we're in
+procurement mode so there are certain things I can't talk
+about--but the actual evaluation does include looking at past
+performance and responsibility, as well as operational
+performance. So it is--the process is more than just looking at
+the ability to recover.
+Mr. Clay. Yes, but doesn't that go back to allowing these
+companies to pray on borrowers, I mean, and make that the
+standard operating procedure, that at all costs collect the
+debt?
+Mr. Runcie. I can't speculate on that, sir.
+Mr. Clay. And, look, there have been troubling reports
+recently that the Department is reversing previous
+determinations that student loan borrowers qualified for a loan
+forgiveness program to encourage public service. Borrowers may
+have relied for years on these determinations to plan their
+educations, their careers, and their lives, and this program
+started in 2007. Under this program, borrowers can have the
+remainder of their Federal student loans forgiven after making
+10 years' worth of payments if they serve full-time in public
+service jobs. Is that what is going on?
+Mr. Runcie. Yes, I'm aware of the issue, and my
+understanding is that there is potentially some litigation
+around that. But, you know, the Public Service Loan Forgiveness
+is a vehicle that's out there. If you make payments for 10
+years on time, you could be forgiven the remainder of that.
+That program is in place and we operationalize it.
+Mr. Clay. And are you intending on changing it?
+Mr. Runcie. I'm not aware that there's any intention to
+change it. You know, that's an overall departmental
+perspective.
+Mr. Clay. It all comes down to let's scam these students,
+let's scam these borrowers, and let's take care of the
+servicers. And I think you should be ashamed of yourselves.
+Mr. Runcie. Well, what I can say is that--and I can say
+this personally--is that there is a dedicated staff at the
+Department that's been there for quite some time, and our focus
+is not to facilitate or aid and abet any situation that
+compromises students and borrowers. We're committed to making
+sure they have the resources to be successful. We know it's
+difficult. It's a huge portfolio. But my intention is the same
+as your intention, which is to make sure that we don't have a
+structure that compromises any ----
+Mr. Clay. God help the borrowers.
+Ms. Foxx. The gentleman's time is expired.
+The ranking member is recognized for a unanimous consent
+request.
+Mr. Cummings. Thank you very much, Madam Chair. I want to
+just submit for the record a letter dated May 1, 2017, to the
+Honorable Kathleen Tighe just requesting certain documents with
+regard to this hearing.
+Ms. Foxx. Without objection.
+Ms. Foxx. The chair will recognize herself for five
+minutes.
+I have to say that I agree with my colleague from Georgia
+who was here a few minutes ago that this situation of none of
+you all or people in your agency has been willing to take
+responsibility for what has happened. Either you are in denial
+or incompetent. I think the American people watching this are
+feeling the same way. I am troubled by my colleagues wanting to
+distract from the incompetence of the FSA and the IRS on
+display here today.
+I want us to go after any bad actors outside the system,
+but our number one priority is to protect the American people.
+And everybody who works in this country is affected by the IRS.
+So, yes, we want to protect students from any unsavory
+characters, but all Americans are affected by the IRS if they
+file their taxes, and most of them do. Thank goodness we have a
+system where most people voluntarily do what they are supposed
+to do.
+So the problem we have with our government agencies is
+there is no accountability for any of you individually, and
+that is a shame, a real shame on this country, that you all can
+ignore the continued incompetence and not be held responsible.
+I do have some questions. The Department has taken some
+steps, Mr. Gray, Mr. Runcie, to mitigate the burdens on
+students' families and institutions caused by the DRT
+suspension, but I am concerned about the potential fraud the
+flexibilities you have put in place may cause. How is the
+Department protecting against fraudulent income reporting or
+ensuring that no new doorways to fraud are opened in this
+process? And I would like specifics, please.
+Mr. Runcie. Well, in terms of--and thank you, Chairman
+Foxx--Chairwoman Foxx. In terms of specifics, you know, as you
+know, the verification--the backend verification is something
+that we've used along with, you know, the schools. So we do
+regression analysis and we come up with a formula that
+indicates a level of risk.
+And so what we've done in terms of giving flexibility is we
+would reduce the lowest-risk element based upon a regression
+analysis so that even if we lessen the verification burden, it
+would be on a risk-mitigated basis. So we would only eliminate
+the lowest-risk applicants potentially.
+So the other part is that we're going to do this for a
+limited period of time, right, because we're going to get the
+tool back up October 1. And so for all the FAFSA cycles going
+forward, that won't be an issue. So it's somewhat of a
+temporary way to address the--to balance the burden to the
+schools against the risk to taxpayers.
+Ms. Foxx. Mr. Gray, do you have anything to add to that?
+Mr. Gray. I would--yes, ma'am. I would say that there are
+also technical controls that we are looking at putting in
+place, and I would be happy to give more in-depth details about
+those controls specifically, but I would not want to reveal
+sensitive information right here.
+Ms. Foxx. I understand.
+So, Mr. Runcie, you touched on this a minute ago, that you
+are trying to get the system back up for the 2018 FAFSA filing
+period. Recognizing the balance between security and access,
+can you make the commitment to ensure there is no opportunity
+for the DRT to be misused again when it is once again
+operational? And I want to ask each one of you answer that
+question yes or no. Mr. Runcie?
+Mr. Runcie. Yes, because the ----
+Ms. Foxx. That is all I need to know.
+Mr. Runcie. Okay. Yes.
+Ms. Foxx. Mr. Gray?
+Mr. Gray. Yes, ma'am.
+Ms. Foxx. Ms. Garza?
+Ms. Garza. I'm unsure.
+Ms. Foxx. You are not sure?
+Mr. Corbin?
+Mr. Corbin. I'm also unsure.
+Ms. Foxx. Mr. Camus?
+Mr. Camus. We will be watching closely.
+Ms. Foxx. I think you have given the American people great
+confidence today from the IRS when you tell us you cannot
+secure the systems.
+Mr. Runcie, I want to come back to you. I have been hearing
+troubling reports regarding the collection of defaulted student
+loans, and we have been hearing a lot about that in here this
+morning. Currently, struggling borrowers in default are without
+the critical services needed to rehabilitate their loans or
+access other benefits designed to lessen the impact of default.
+This is the responsibility of the Department. Can I get a
+commitment from you and the Department to provide my staff with
+critical information needed to assess the current loan default
+situation?
+Mr. Runcie. Absolutely.
+Ms. Foxx. And when?
+Mr. Runcie. Two weeks.
+Ms. Foxx. And when? Can we get--when will we know what the
+critical information is? When will you get that to us?
+Mr. Runcie. So we can define what the critical information
+is within two weeks, and we could get you the information
+within a month because--so we'll have that to you within a
+month.
+Ms. Foxx. Thank you for telling us that. We will hold you
+to it.
+Mr. Runcie. Thank you.
+Ms. Foxx. Mr. Connolly, you are recognized for five
+minutes.
+Mr. Connolly. I thank the chair.
+I just want to say the breach at the Department of
+Education is something we have been warning about on this
+committee for quite some time. The Department of Education
+holds data on 139 million individuals. And I would echo what
+our colleague from Ohio, Mr. Jordan, said that the Department
+of Education may very well be in breach of law, and we are
+going to explore that.
+However, what--Mr. Scott? I was just going to yield to Mr.
+Scott. Is he--all right. Sorry. Then I will pursue.
+Mr. Gray, are you familiar with FISMA?
+Mr. Gray. Yes, sir, I am.
+Mr. Connolly. And what does FISMA require you to do, the
+Department of Education?
+Mr. Gray. To protect our information assets for the
+Department.
+Mr. Connolly. Well, that is not all it does. Doesn't it
+have a reporting requirement with respect to the legislative
+branch?
+Mr. Gray. Yes, sir, it does.
+Mr. Connolly. And what is that reporting requirement?
+Mr. Gray. Within seven days of an incident to report ----
+Mr. Connolly. And did the Department of Education comply
+with that seven-day reporting requirement?
+Mr. Gray. Sir, through our analysis of nearly 89,000 Social
+Security numbers, we did not identify that Department data was
+compromised in this situation. This was a situation where
+unlawfully obtained information was used to go through our
+system to access information through the DRT, which is why we
+did report it to US-CERT, and when it was identified that the
+compromise was through the DRT, we--that is when we did not
+report this as a major incident because our information--the
+information that the Department holds was not compromised.
+Mr. Connolly. And is that still your position?
+Mr. Gray. Yes, sir.
+Mr. Connolly. So from your point of view FISMA has not been
+triggered?
+Mr. Gray. A major breach of Department information was not
+compromised.
+Mr. Connolly. Is that the language of the law, that a major
+breach has to be compromised? That is to say a major breach has
+to lead to the compromise of data?
+Mr. Gray. No, sir. The--when the IRS reported this and we
+were notified on March 3, it was identified as an--the--an IRS
+system. It was not a Department of Education system. We did a
+thorough analysis of all of our system through FAFSA and
+nothing indicated to my knowledge that any of our information
+was compromised.
+Mr. Connolly. Mr. Camus, is that your view?
+Mr. Camus. We have yet to determine the timeliness of the
+reporting of the incident, sir.
+Mr. Connolly. No, that is not my question. My question is
+do you concur with Mr. Gray that there was no breach of data?
+Mr. Camus. We ----
+Mr. Connolly. Compromise of data?
+Mr. Camus. We would view it as once somebody was able to
+see somebody else's data, that that in fact has been a breach.
+Mr. Connolly. I would, too, and therefore, I would argue
+FISMA is triggered. Would you agree?
+Mr. Camus. Yes, sir.
+Mr. Connolly. Well, Mr. Gray, it sure does sound like you
+are splitting hairs and you are coming up with a criterion that
+was not envisioned in the law itself, nor was it reflected in
+the language of the law itself. I mean, we don't have traffic
+laws that allow you to decide, well, I didn't hurt anyone. Yes,
+I was speeding, but I didn't hurt anyone, so therefore, I
+shouldn't get a ticket. I mean, the law is there to make sure
+that the legislative branch is informed in a timely fashion
+when this kind of activity occurs. And the reason isn't so that
+we are keeping score. It is to make sure that we are doing what
+we can on our part to protect sensitive data of American
+citizens.
+And it seems to me that it was incumbent upon the
+Department of Education to inform us in a timely fashion. In
+fact, I would even argue if I were managing the Department of
+Education, you know, the better part of wisdom would dictate
+that I inform them even if I didn't believe FISMA was
+triggered.
+But the fact that months could go by and, as Mr. Camus just
+said, a breach is a breach. Once it is breached, you have to
+assume that data is compromised, if not today, tomorrow,
+because it can be. And I just don't find your explanation very
+credible, and I frankly think it is a disservice to, you know,
+the people whose data you possess. And it is an end around with
+respect to the legislative branch, and I think it is in
+violation of the law.
+I know we are going to pursue that more, but I don't think
+that is something that puts the Department of Education in any
+kind of good light.
+My time is up. And I am sorry I missed Mr. Scott. I was
+going to defer to him. I thought I was being asked to.
+Thank you, Madam Chairman.
+Ms. Foxx. Thank you, Mr. Connolly, and thank you for honing
+in on the issue of the day and looking for what remedies we
+might have under the law.
+Mr. Meadows, you are recognized.
+Mr. Meadows. Thank you, Madam Chairman.
+We are going to follow up, Mr. Gray, right now, because I
+can tell you that Mr. Connolly is spot on. And this is not your
+first rodeo. You know, we have had these other issues before
+with regards to privacy. And is it your sworn testimony today
+that this did not actually require notification of Congress?
+Mr. Gray. No, sir. My understanding is that the IRS had
+reported the incident and that it was a breach, but the
+Department of Education, my understanding when I was notified
+on March 3 that the notification had already happened. I have
+learned in this hearing that it did not happen.
+Mr. Meadows. Well, how can the American people, actually
+people who share private information with you who expect it to
+be protected have confidence when you are here today and you
+don't even know the full story, that you are finding it out in
+a hearing when you knew that we were going to be looking at
+this?
+How can you find a hacker who truly wants to come in and do
+harm and you can't even be prepared for sworn testimony today
+on questions that I presume that you knew we were going to ask?
+Mr. Gray. I understand, sir. The challenge ----
+Mr. Meadows. Where is the outrage? Where is the outrage,
+Mr. Gray? Are you not outraged?
+Mr. Gray. I absolutely am. Our ----
+Mr. Meadows. Why didn't you notify Congress?
+Mr. Gray. My understanding was this was not a Department of
+Education ----
+Mr. Meadows. Well, you realize that was not--did you have
+your counsel that said you don't have to notify us? Who did you
+check with who said you don't need to notify Congress?
+Mr. Gray. We went through our incident response process,
+who did an assessment ----
+Mr. Meadows. So why did you refer something to an outside
+agency before you notified your own IG within your Department?
+Mr. Gray. Our IG was notified right after we ----
+Mr. Meadows. Well, but according to my documents, you
+actually notified US-CERT first, according to your testimony.
+Why would you do that and wait to get the IG involved?
+Mr. Gray. Because when we notify US-CERT, it's to let them
+know that we were investigating something that had occurred. At
+that time, we weren't sure what had happened.
+Mr. Meadows. Okay. So the IG, you go, you notify the IG. It
+was important enough to notify the IG but it was not important
+enough to notify Congress?
+Mr. Gray. Hindsight, sir, yes, it was important enough to
+notify Congress.
+Mr. Meadows. Well, at what point are we going to get this
+right? Because we continue to have breaches. Mr. Connolly and I
+have had a number of hearings where we have raised this as a
+concern, and yet what happens is is we are always coming in
+after the fact to look at this. Do you not see a problem with
+that?
+Mr. Gray. I do see a problem with that.
+Mr. Meadows. Well, when are we going to get it fixed?
+Mr. Gray. Sir, we receive on average more than 1.5 million
+intrusion attempts every single month at the Department, and
+what my team does is we assessed to determine whether or not
+something had happened, nothing happened, and logistically--I
+mean, I know in this case it's easy to look and say, okay, this
+should have been reported. I understand that.
+Mr. Meadows. So you're saying it's a matter of logistics on
+why you didn't report it? Because that's different than what
+you said earlier. Earlier, you said you didn't think you had to
+report it.
+Mr. Gray. Based on the analysis that my team did, we--our
+information, the information that I am--that our ----
+Mr. Meadows. So how confident are you that there was only
+89,000 people that were affected?
+Mr. Gray. Based on the logged analysis that was done at the
+Department, very confident.
+Mr. Meadows. All right. A 10?
+Mr. Gray. Yes, sir.
+Mr. Meadows. So if we find out there is more than that, are
+you willing to resign?
+Mr. Gray. If it's--if I don't know the information, no,
+sir. I mean, from what I have ----
+Mr. Meadows. Well, you said you are confident at a level of
+10, so I guess I would stake my reputation on that if you were
+confident at a 10. So if there is more than that-- because the
+IRS knows that sometimes we find out that there is actually
+more people that were affected than was originally thought. So
+if you are confident at a 10, are you willing to stake your
+reputation and your job on it?
+Mr. Gray. So, sir, the challenge here is that when we ----
+Mr. Meadows. Sir, I am representing people back home in
+North Carolina, as every member here is, and you know what,
+they fail to realize that you can't protect sensitive
+information that they give you, and they don't understand that.
+I don't understand it. At what point are we going to have the
+confidence when people share their information with the
+government that it is not subject to being shared with another
+party? Isn't that what your job is all about as CIO?
+Mr. Gray. Yes, sir.
+Mr. Meadows. All right. The next time, are you going to
+inform Congress when there may be a doubt? Will you inform us
+within the seven days?
+Mr. Gray. Absolutely.
+Mr. Meadows. All right.
+Ms. Garza, last question to you. Why didn't you inform us?
+Ms. Garza. Congressman, we briefed the staff shortly after
+we brought down ----
+Mr. Meadows. You didn't brief our staff. Why didn't you
+inform Congress? That is the question of the day. Because
+according to your TIGTA, it is 100,000, so it is certainly--
+even meet the threshold, but why wouldn't you inform us?
+Ms. Garza. So, Congressman, we did inform the Congress that
+this was a data breach. The reason why it took as long as it
+did is because we were going through analyzing the information.
+The initial population was much smaller than 100,000 that we
+thought were impacted. We also needed to coordinate with the
+Department of Education to determine whether ----
+Mr. Meadows. But didn't you find it just based on dumb
+luck? It was actually just one of your IRS employees that
+actually got a transcript request and they said, hey, something
+doesn't smell right here?
+Ms. Garza. Congressman, we have multiple layers of ----
+Mr. Meadows. That is not the question. Wasn't it dumb luck
+that you happened to find this?
+Ms. Garza. No.
+Mr. Meadows. So it wasn't an IRS employee that happened to
+get a transcript? Be careful; you are under sworn testimony
+here.
+Ms. Garza. The--it was an IRS employee. He received a
+notification as part of one of our defense mechanisms that his
+account had been accessed.
+Mr. Meadows. So it was an IRS employee who happened to have
+his stuff that was notified and we said, hold on, we got a
+problem here? Do you not see that that is almost laughable?
+Ms. Garza. One of our mechanisms to determine whether
+something has gone wrong is a notification to the taxpayer. Our
+systems automatically send out a notification ----
+Mr. Meadows. So you purposely embed IRS employees in all
+this so that they might get a personal notification so they can
+highlight this? Come on.
+I will yield back.
+Ms. Foxx. The gentleman's time has expired.
+Mr. Sarbanes, you are recognized for five minutes.
+Mr. Sarbanes. Thank you, Madam Chair. I thank the panel.
+Ten years ago, I was proud to lead the effort here in the
+House and we teamed up with Senator Kennedy on the Senate side
+to create the Public Service Loan Forgiveness program. And we
+have paid close attention to that over the last 10 years,
+working with U.S. Department of Education along the way, to
+create online resources to help borrowers understand whether
+they are going to qualify for this program, which includes
+reduced monthly payments, as well as ultimate forgiveness of
+their outstanding principal if they commit 10 years to public
+service.
+That includes the need to be assured that the employment
+you have, the particular employer that you are working for,
+qualifies under that public service category and that you can
+count the time spent with that employer towards your 10 years
+and ultimately earn the forgiveness.
+Congressman Clay alluded a moment to go to the fact that
+there is some troubling position that the U.S. Department of
+Education has been taking over the last 18 months with respect
+to certain categories of employers. They are now telling
+borrowers who relied on an assurance that that employer would
+qualify, being told now that it won't, and there is some
+litigation around that, Mr. Runcie, as you indicated. And we
+need to get to the bottom of that because our borrowers that
+have relied on assurances that have come from the Department
+and they need to be able to count on that. Otherwise, the rug
+is being pulled out from under them.
+I know that some of us here have been trying to get a
+briefing from the Department over the last few weeks. That has
+not yet happened. Could you commit to us today that the
+Department would be willing to brief us on this issue and what
+is happening with that?
+Mr. Runcie. So I--it's not just FSA. I mean, we obviously
+operationalize it and we put the resources out there so people
+can avail themselves of Public Service Loan Forgiveness. But I
+think that briefing would include other entities such as ODC
+and policy, some other folks. I can't ----
+Mr. Sarbanes. Well, that is fine. Can you help us arrange
+to get that briefing done and get it done quickly so we know
+what is happening with this and then we can take appropriate
+steps in our oversight capacity?
+Mr. Runcie. Absolutely. It is an important issue, and I
+think we're real focused on it, so I will absolutely commit to
+working, you know, with my colleagues to ----
+Mr. Sarbanes. Now, let me stay focused on the Public
+Service Loan Forgiveness piece and loan-driven repayment,
+because when you talk about the universe of borrowers out there
+that are impacted by the breach that we are talking about
+today, using this data retrieval tool, you have the part of
+that universe that are folks that are, you know, involved with
+standard repayment, and then you have those who are in a loan-
+driven repayment situation based on one program or the other.
+That includes Public Service Loan Forgiveness. And they have to
+be handled differently because they are impacted differently.
+And you have indicated that with respect to the standard
+repayment world that you are going to try to get this tool back
+in service by the beginning of the next year, so October is the
+goal. But with respect to loan-driven repayment, you are trying
+to get that back up by May.
+So can you tell us how confident you are that--I mean, it
+is May now. I mean, how confident are you that that is going to
+be available to folks that are benefiting from loan-driven
+repayment arrangements? Is that going to happen?
+Mr. Runcie. Yes, we are very confident. You know, as the
+IRS mentioned, they've completed the encryption part, and we
+have a timeline that gets us to a place where it's up and
+running by the end of this month. So we know it's only another
+few weeks but we can commit to that.
+Mr. Sarbanes. I appreciate that. Could you also let me
+know--I know one of the remedies or sort of stopgap remedies
+when someone is in a situation perhaps not being able to access
+a tool that allows them to do things in a timely fashion is
+forbearance for, you know, two months, three months, what have
+you. That can work okay for the standard repayment folks
+because there is really no downside to losing a couple months
+in terms of your repayment.
+But if time is of the essence in the sense that you are
+accruing time towards this 10-year repayment period, then
+forbearance isn't necessarily going to be a great solution for
+people that are in the loan-driven repayment category. Is that
+something that the Department has considered, and is there a
+way to provide a remedy there that doesn't complicate the lives
+of these folks that are in a particular program like that?
+Mr. Runcie. Yes. I'll make sure that we are--I know we're
+considering a lot of different issues around it, and I believe
+that's one, but we'll certainly make sure that we're focused on
+that because I do understand the issue around that.
+Mr. Sarbanes. Okay. I yield back.
+Mr. Runcie. I wanted to add one thing, and we're pretty
+firm on the end of May unless potentially some requirements
+change, but I think we're committed to the end of May for the
+tool being back up for the income-driven repayment plans.
+Ms. Foxx. Well, thank you, Mr. Sarbanes.
+Thank you, Mr. Runcie.
+Mr. Mitchell, you are recognized.
+Mr. Mitchell. Thank you, Madam Chair.
+I join your dismay that rather than discuss the data
+breach, the impact it has on the ability of students to get
+assistance, how we deal with the data breach going forward,
+avoided that some wish to talk about issues that we are now
+going to investigate as well, which is potential bad actors to
+obfuscate with the current issue is, which is the IRS and the
+Department of Ed's inability to have this tool work and not
+have it breached but rather talk about other issues.
+We only have so much time here. We only have so many things
+we do simultaneously. Let's talk about the issue we put on the
+table. So I am dismayed, and I guess I shouldn't be surprised.
+Mr. Connolly, you have--I am sorry, Mr. Gray. You have seen
+the Wizard of Oz, right?
+Mr. Gray. Yes, sir.
+Mr. Mitchell. Did you see the part where they talk with the
+scarecrow and they ask him which way the yellow brick road is?
+Do you remember that part?
+Mr. Gray. Yes, Representative.
+Mr. Mitchell. And the scarecrow goes like this? Do you
+remember that part?
+Mr. Gray. Yes, sir.
+Mr. Mitchell. In my opinion, frankly, sir, that is exactly
+what you are doing when you talk about, well, the data breach
+happened at the IRS and we didn't think it was us so we didn't
+need to worry about notification. You know, when you have got
+something as sensitive as personal information for the number
+of students that you have, the moment in time that you think
+your data has been breached, you have a legal if not moral--
+moral if not legal responsibility to notify Congress. That is a
+lot of information. And it wasn't done.
+And it is not the first time it wasn't done. And I don't
+understand that. And I don't know how it is we get across to
+the Department that that is your responsibility by law if not
+morally. What does it take to get someone to understand that
+over there? Can you explain that to me?
+Mr. Gray. I have committed that going--that I will do that,
+sir.
+Mr. Mitchell. I ran a private career school group that had
+6,000 students a year, close to 7,000 students a year for six-
+and-a-half years as a CEO. Ms. Garza, do you know what-- the
+CIO reported to me for a reason. Do you know the deal I had
+with the CIO if we got hacked? And we didn't have as many hack
+attempts is the Department of Ed, I will just be honest about
+it. Do you know what the deal was? Do you want to guess what
+the deal was if we got hacked?
+Ms. Garza. You held the CIO accountable.
+Mr. Mitchell. The CIO's resignation was on my desk. That is
+how sensitive that information was. And I am serious. I am
+absolutely serious. I will give you his phone number. You can
+call him. His resignation was on my desk. His cell phone got
+buzzed any time there were certain sets of activities, whatever
+hour of the night.
+Now, who on your staff gets called in the middle of the
+night or gets a buzz if in fact data goes out of whack?
+Anybody?
+Ms. Garza. The CISO is the first one that gets a call, and
+then depending on the type of breach, she will call me.
+Mr. Mitchell. Let me change the subject for moment here
+because time is limited. I have heard repeatedly budget
+concerns, budget concerns. I come from the private sector, and
+I am absolutely amazed. The first time a problem comes up,
+everyone wants to whip out the taxpayers' checkbook because,
+hey, just spend more money. From the world I come from, we
+first identify the problem and what it takes to solve it and
+not just throw money at it.
+So answer a question for me, Ms. Garza. And by the way, I
+mean, we all know how many people have had their data hacked,
+false tax returns. I had it happen to me. My youngest son is
+dealing with it right now this year. How much money do you need
+to tell this group, to tell Congress that you can secure this
+system? Exactly how much do you need in your budget that you
+will put your letter of resignation there if you get hacked?
+How much money?
+Ms. Garza. I don't know how much money it would take.
+Mr. Mitchell. But you ask for more money all the time.
+Ms. Garza. We ask for additional resources to continue to
+fortify ----
+Mr. Mitchell. Every year.
+Ms. Garza.--our systems.
+Mr. Mitchell. Every year.
+Ms. Garza. That's correct.
+Mr. Mitchell. I asked you a question. How much money do you
+need in your budget for data protection that you will put that
+budget request in and simultaneously you will tender your
+resignation that if you get hacked, you go home?
+Ms. Garza. I don't have that dollar amount in my mind. What
+I do know is that criminal enterprises are constantly changing
+----
+Mr. Mitchell. Oh, I understand that.
+Ms. Garza.--and their tactics, and so to make the statement
+that we can guarantee a system is secure quite frankly is a
+little bit folly. We are doing everything that we can to make
+sure that our systems are secure. We have not had a breach of
+our internal systems, although we have had data loss. And so to
+put--to try to come up with a dollar amount that would
+guarantee that something will not occur I think--at that point
+I would think that we are probably not going to end up being
+secure.
+Mr. Mitchell. And my time is expiring and I appreciate the
+patience. Anywhere else in the world in the private sector at
+least somebody says we really screwed up here. At least someone
+says, well, hey, we missed--you know, they take accountability
+for it. My technology staff took it personally when someone
+tried--you know, when we had people trying to hack it, when we
+had--how we secured it. It was the game. It was their life. And
+the fact that folks can sit here and say, well, basically,
+stuff happens. But when you are talking about people's
+information to the Department of Education or IRS, it is not
+just stuff happens. This is their life. It is their tax return.
+It is their personal information used to get credit elsewhere.
+This is not minor stuff, and I don't see the perspective or
+concern that, well, we do the best we can. If it is wrong, we
+may notify, we may not notify. We may not think it is our
+problem because it is the IRS's problem. Again, they went that
+way. Somebody needs to be accountable for it, folks. And I will
+join Mr. Connolly and others in finding a way we have got to
+hold folks accountable because we can't have this kind of data
+leaking out, people taking it and using it for adverse
+purposes. You should be ashamed.
+I yield back. Thank you.
+Ms. Foxx. The gentleman's time has expired.
+Mrs. Maloney, you are recognized for five minutes.
+Mrs. Maloney. Thank you, Lady Chair.
+We need to do everything we can to prevent cyber attacks
+from occurring, but when they do occur, it is critical that we
+take it as seriously as the gentleman said and also that we
+learn from them.
+In 2015, criminal elements attacked the IRS and its Get
+Transcript application, the tool that allows taxpayers to
+obtain copies of prior tax returns using a collection of
+personal information. An organized crime syndicate accessed
+this application using stolen personal information of
+individuals and obtained tax data for a staggering 300,000
+individuals. Is that correct, Mr. Corbin?
+Mr. Corbin. That is correct, Congresswoman.
+Mrs. Maloney. And since that incident, the IRS has been
+working diligently to increase the security of its systems. In
+January 2016, a result of cybersecurity improvements, the IRS
+stopped an attempt to acquire the e-filing PIN number of
+taxpayers. Mr. Corbin and Mrs. Garza, is that correct? And can
+you describe what the improvements were that were able for you
+to stop this other attempt?
+Mr. Corbin. So for--so, Congresswoman, for Get Transcripts,
+we took that application down and did an assessment level of
+risk, and we put in place what we call secure access
+authentication. It is a higher level of authentication that
+requires ID proofing, financial verification, and then an
+activation code in order to be able to get access to your
+transcript.
+We continue to take the dollars that were provided by
+Congress, the $290 million, to invest in additional cyber tools
+that allowed us in this case to be able to detect when there
+was activity occurring on tools that we have that are outside
+the IRS network.
+For the e-file PIN, Congresswoman, we looked at that and
+again identified that that would be a vulnerability. The e-file
+PIN application is not back up. We eliminated the e-file PIN
+application and now require AGI or the self-select PIN, which
+taxpayers have.
+Mrs. Maloney. Okay. After the 2015 incident, you did a
+reassessment of the security of all of your online
+applications, including the data retrieval tool. And as you
+stated in your testimony, that assessment--and I am quoting
+from your testimony--indicated the need for strengthened
+procedures and led to collaboration with the Board of Education
+to best implement those procedures. Now, is that correct?
+Ms. Garza. That is correct.
+Mrs. Maloney. Okay. Now, I want to turn to the 2017 data
+retrieval tool incident where criminals were able to use
+personal information gathered elsewhere to create student aid
+accounts on the Department of Education's websites and obtain
+individuals' sensitive tax information. So, Mr. Corbin and I
+would say Mrs. Garza, is it right to say that, much like in
+2015, individuals were seeking the information necessary to
+file fraudulent returns?
+Ms. Garza. That's correct.
+Mrs. Maloney. Yet this time, individuals were much less
+successful in obtaining the returns, and according--would you
+like to comment on that?
+Mr. Corbin. No, Congresswoman. Go ahead.
+Mrs. Maloney. According to GAO, identity theft at the IRS
+has decreased in recent years because the IRS has improved its
+ability to detect fraud before processing returns. This
+approval detection ability is illustrated by the fact that
+automatic security filters were able to stop almost 65 percent
+of potentially fraudulent refunds from being issued in the data
+retrieval tool incident. Is that correct?
+Mr. Corbin. That is correct.
+Mrs. Maloney. So we can't stop all cyber attacks. That is
+just the reality of today. But we can learn from them. So I
+think you have shown your ability to do that.
+So, you know, when you file--why would somebody want to
+file a fraudulent return? What was the purpose of it for the
+purpose ----
+Mr. Corbin. So, Congresswoman, most people file fraudulent
+returns with the hopes of obtaining a refund ----
+Mrs. Maloney. Whoa, okay.
+Mr. Corbin.--from that return.
+Mrs. Maloney. And are they successful?
+Mr. Corbin. Congresswoman, fraudsters are successful, but
+we have gotten so much better over the years. The IRS has a
+public-private partnership called the Security Summit where we
+work to protect the tax ecosystem, working with State
+Departments of Revenue, with software developers so that we can
+build better systems to help protect the tax ecosystem.
+As you stated in this case with the data retrieval tool, we
+have new data elements or information that we are using in our
+filters. It did allow us to stop 80 percent of the returns that
+were filed in this event that were either potentially
+fraudulent or before the refunds were able to be paid.
+Mrs. Maloney. Well, thank you. My time is expired, but I
+hope we can continue to fund the IT improvements that the IRS
+requests so we can continue going forward in being more
+effective in stopping fraud and helping taxpayers.
+Thank you for your testimony today.
+Ms. Foxx. Thank you, Mrs. Maloney.
+Mr. Grothman, you are the one we have been looking for, the
+last one.
+Mr. Grothman. Good.
+Ms. Foxx. You are recognized for five minutes.
+Mr. Grothman. Mr. Gray, I will give you a few questions.
+How long have you been the chief information officer over at
+Education?
+Mr. Gray. Eleven months, sir.
+Mr. Grothman. Okay. And since November of 2015, this
+committee has uncovered what we feel are significant
+shortcomings in your IT security plans before you were even
+there, as well as corruption of the former CIO. As newcomer,
+what concerns you the most, and what were your first actions as
+CIO to clean this up?
+Mr. Gray. There were several--I had five focus areas when
+it came to the Department. One was on security, another was
+FITARA and organizational health, so there were policy
+challenges. There was numerous things that we need to improve.
+And I will say in the last 11 months we have made significant
+progress at the Department in terms of implementing processes,
+implementing policies, changing personnel.
+Mr. Grothman. Okay. Last year, US-CERT reported 192
+incidents in your Department. Can you tell us what information
+leaked out in those 192? Give us, say, how many files and what
+they covered?
+Mr. Gray. I would have to get that information for you,
+sir. I do have a list of the information and--but I'd want to
+verify.
+Mr. Grothman. Give me a broad--you know, there must be some
+that stuck in your mind. What are the type of things that get
+out there?
+Mr. Gray. Typically, Social Security numbers that were
+inadvertently sent from one individual to an individual it
+wasn't supposed to or it wasn't encrypted.
+Mr. Grothman. Anything beyond that? Any information
+connected with the Social Security numbers?
+Mr. Gray. I would--I'd want to verify, sir, but to my
+knowledge I would ----
+Mr. Grothman. You can't think of any example?
+Mr. Gray. Not at this moment.
+Mr. Grothman. Okay. Is this--I guess we will call this
+OCIO-14 handbook?
+Mr. Gray. Yes, sir.
+Mr. Grothman. Okay. You know how recently this was updated?
+Or I've got one that I believe is right now the current one
+that you must give your employees. Do you know how recently it
+was--or how recent the most recent update was?
+Mr. Gray. There is a draft going--circling right now to--
+that is being updated, that has been updated and that is being
+routed for concurrence right now.
+Mr. Grothman. Yes, but do you know how long--how old this
+is?
+Mr. Gray. Several years, sir, too many.
+Mr. Grothman. A little over six years now. Okay. Do you
+think that is satisfactory?
+Mr. Gray. No, sir.
+Mr. Grothman. Okay. Could you give us a hard number as to
+when you feel you have got something new available for your new
+employees?
+Mr. Gray. For OCIO-14?
+Mr. Grothman. Correct.
+Mr. Gray. The concurrence process within the Department
+takes an amount of time, so I can't comment on that, but I will
+say that I have a solid draft that is going through concurrence
+right now.
+Mr. Grothman. Can you give us a guess? A month, four
+months, a year?
+Mr. Gray. My understanding is the process is about six
+months to a year to go through formal concurrence.
+Mr. Grothman. And how far are you through the process now?
+Mr. Gray. We started last week. We started the actual
+concurrence process last week, sir.
+Mr. Grothman. Okay. So you began something but it could be
+a year before we get something that is more than six years old?
+Mr. Gray. I will expedite it because I know it's critical
+to the Department.
+Mr. Grothman. And critical to us and critical for the
+public.
+Could you give us--when we talk about the files with the
+Social Security number, can you tell us what else is in those
+files?
+Mr. Gray. I would have to look specifically at them. I-- at
+this point--I mean, sometimes they're Excel spreadsheets that
+contain Social Security numbers. I would have to look to
+verify.
+Mr. Grothman. Okay. I will try Mr. Runcie. Have there been
+breaches of your ----
+Mr. Runcie. Not to my knowledge, no. There was I think
+about--it might've been four years ago there was a time where
+the system was open for a few minutes, and there were 6,000
+cases of information that was viewed that shouldn't have been
+viewed, but that was the only systemic breach or exfiltration
+of--it wasn't even an exfiltration but it was an incident that
+occurred at that time.
+Mr. Grothman. How long ago was that? How long ago was that?
+Mr. Runcie. It was a few years ago. I'm not exactly sure.
+Mr. Grothman. So you have had nobody breach anything for
+the last four or five years, do you think, three or four years
+we will say?
+Mr. Runcie. Well, there has been no material breach. There
+is a possibility that there might have been an incident here or
+incident there in terms of student aid data but none to my
+knowledge.
+Mr. Grothman. Okay. They don't tell you?
+Mr. Runcie. I would be informed if there was, and I'm not
+aware of any.
+Mr. Grothman. Okay. I yield the remainder of my time.
+Ms. Foxx. Thank you very much.
+I am ready to close. I have none of my colleagues on the
+Democrat side, so I will make some very brief comments.
+To not broach our protocol, I will not ask questions, but I
+will let Ms. Garza, Mr. Corbin, Mr. Camus know that we will be
+asking you exactly how many fraudulent returns were filed as a
+result of the breach and when those people obtained that
+information. And we will want an answer in what most of us
+would consider reasonable time.
+It has been extraordinarily difficult today to get any kind
+of specific answer out of any of you. And I think Mr.
+Mitchell's comments about the scarecrow were entirely apt. You
+are blaming each other. The American people frankly are tired
+of this kind of display of incompetence again. You all cannot
+answer questions or will not answer questions. It is a little
+difficult to know.
+And let me tell you something. In my world, $30 million is
+a lot of money, a lot of money. And you all don't seem to take
+it seriously at all, that as a result of your not being able to
+take action when a breach is made and you are not following the
+law to let Congress know, it is even more troubling to me that
+you take so long to do anything.
+Mr. Grothman's comments about a document that is very
+important taking seven years to update, it is pure
+incompetence.
+And I would venture to say that we might be able to get
+better people coming into your agencies to do the work that
+needs to be done regardless of the pay if they thought they
+could get something done. But the bureaucracies are so
+impossible to change.
+And I do want to note that both Mr. Gray and Mr. Runcie
+came to the Department and all of you all, too, in the IRS
+under the Obama administration. Our colleagues are going to
+raise Cain with the existing Departments and make it appear as
+though this is the responsibility of the current
+administration. And I think it needs to be made abundantly
+clear that you all came into these agencies under the previous
+administration and have been kept on by the previous
+administration.
+We will also put into the record the expanded timeline in
+terms of when these problems began occurring and point out
+where we possibly can the inaction of the people who are
+supposed to be working for the American people and keeping
+their data confidential.
+So I thank you all for being here today, and this hearing
+is dismissed.
+[Whereupon, at 12:07 p.m., the committee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

@@ -1,0 +1,1709 @@
+- CYBERSECURITY AT NASA: ONGOING CHALLENGES AND EMERGING ISSUES FOR INCREASED TELEWORK DURING COVID 19
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+CYBERSECURITY AT NASA:
+ONGOING CHALLENGES AND EMERGING ISSUES
+FOR INCREASED TELEWORK DURING COVID 19
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON SPACE AND AERONAUTICS
+
+OF THE
+
+COMMITTEE ON SCIENCE, SPACE,
+AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SIXTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+SEPTEMBER 18, 2020
+
+__________
+
+Serial No. 116-81
+
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+41-348 PDF           WASHINGTON : 2021
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. EDDIE BERNICE JOHNSON, Texas, Chairwoman
+ZOE LOFGREN, California              FRANK D. LUCAS, Oklahoma,
+DANIEL LIPINSKI, Illinois                Ranking Member
+SUZANNE BONAMICI, Oregon             MO BROOKS, Alabama
+AMI BERA, California,                BILL POSEY, Florida
+Vice Chair                       RANDY WEBER, Texas
+LIZZIE FLETCHER, Texas               BRIAN BABIN, Texas
+HALEY STEVENS, Michigan              ANDY BIGGS, Arizona
+KENDRA HORN, Oklahoma                ROGER MARSHALL, Kansas
+MIKIE SHERRILL, New Jersey           RALPH NORMAN, South Carolina
+BRAD SHERMAN, California             MICHAEL CLOUD, Texas
+STEVE COHEN, Tennessee               TROY BALDERSON, Ohio
+JERRY McNERNEY, California           PETE OLSON, Texas
+ED PERLMUTTER, Colorado              ANTHONY GONZALEZ, Ohio
+PAUL TONKO, New York                 MICHAEL WALTZ, Florida
+BILL FOSTER, Illinois                JIM BAIRD, Indiana
+DON BEYER, Virginia                  FRANCIS ROONEY, Florida
+CHARLIE CRIST, Florida               GREGORY F. MURPHY, North Carolina
+SEAN CASTEN, Illinois                MIKE GARCIA, California
+BEN McADAMS, Utah                    THOMAS P. TIFFANY, Wisconsin
+JENNIFER WEXTON, Virginia
+CONOR LAMB, Pennsylvania
+------
+
+Subcommittee on Space and Aeronautics
+
+HON. KENDRA HORN, Oklahoma, Chairwoman
+ZOE LOFGREN, California              BRIAN BABIN, Texas, Ranking Member
+AMI BERA, California                 MO BROOKS, Alabama
+ED PERLMUTTER, Colorado              BILL POSEY, Florida
+DON BEYER, Virginia                  MICHAEL WALTZ, Florida
+CHARLIE CRIST, Florida               MIKE GARCIA, California
+JENNIFER WEXTON, Virginia
+
+C  O  N  T  E  N  T  S
+
+September 18, 2020
+
+Page
+
+Hearing Charter..................................................     2
+
+Opening Statements
+
+Statement by Representative Kendra Horn, Chairwoman, Subcommittee
+on Space and Aeronautics, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................    10
+Written Statement............................................    11
+
+Statement by Representative Brian Babin, Ranking Member,
+Subcommittee on Space and Aeronautics, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........    12
+Written Statement............................................    14
+
+Written statement by Representative Eddie Bernice Johnson,
+Chairwoman, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................    15
+
+Witnesses:
+
+Mr. Jeff Seaton, Chief Information Officer (Acting), National
+Aeronautics and Space Administration
+Oral Statement...............................................    16
+Written Statement............................................    19
+
+The Honorable Paul K. Martin, Inspector General, National
+Aeronautics and Space Administration
+Oral Statement...............................................    28
+Written Statement............................................    30
+
+Dr. Diana L. Burley, Ph.D., Vice Provost for Research, American
+University
+Oral Statement...............................................    39
+Written Statement............................................    41
+
+Discussion.......................................................    46
+
+Appendix: Answers to Post-Hearing Questions
+
+Mr. Jeff Seaton, Chief Information Officer (Acting), National
+Aeronautics and Space Administration...........................    62
+
+The Honorable Paul K. Martin, Inspector General, National
+Aeronautics and Space Administration...........................    71
+
+Dr. Diana L. Burley, Ph.D., Vice Provost for Research, American
+University.....................................................    73
+
+CYBERSECURITY AT NASA: ONGOING
+
+CHALLENGES AND EMERGING ISSUES FOR
+
+INCREASED TELEWORK DURING COVID-19
+
+----------
+
+FRIDAY, SEPTEMBER 18, 2020
+
+House of Representatives,
+Subcommittee on Space and Aeronautics,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittee met, pursuant to notice, at 11:01 a.m.,
+via Webex, Hon. Kendra Horn [Chairwoman of the Subcommittee]
+presiding.
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairwoman Horn. Good morning, everyone. I'd like to
+welcome our distinguished panel of witnesses, Members, and
+those viewing remotely, to today's Space and Aeronautics
+Subcommittee hearing on ``Cybersecurity at NASA: Ongoing
+Challenges and Emerging Issues for Increased Telework During
+COVID-19''.
+In early 2020 the world was caught off guard with the
+rapid and dramatic onset of the coronavirus. NASA (National
+Aeronautics and Space Administration), like many Federal
+agencies, and consistent with the Office of Management and
+Budget (OMB) Guidance, rapidly shifted to telework operations
+to ensure the health and safety of its more than 17,000 civil
+servant employees and extensive contractor workforce. To its
+credit, NASA prepared for the transition, having held an
+agency-wide telework exercise in early March to test expanded
+telework operations, and today 75 to 80 percent of NASA civil
+servants continue to work remotely, handling proposal reviews,
+project oversight and inspections, development work,
+engineering analysis, and other activities.
+The shift to increased telework at NASA raises many
+questions, front and center, cybersecurity. What does the
+increase and extended use of telework mean for protecting
+NASA's intellectual property, personally identifiable
+information (PII), and mission operations? How do the cyber
+challenges related to increased telework affect the agency's
+overall cybersecurity risk posture, and what steps is NASA
+taking to ensure the effectiveness of its cybersecurity efforts
+during the pandemic and beyond? These are some of the questions
+today's hearing will explore, because what's clear is that NASA
+is a target. And I want to pause here for a moment to note an
+article in The Hill today where the Justice Department has
+brought charges against Iranian nationals for hacking U.S.
+satellite companies, so I think this is incredibly timely. And
+a recent NASA IG (Inspector General) report stated that, given
+NASA's mission, and valuable technical and intellectual capital
+it produces, the information maintained within the agency's IT
+(information technology) infrastructure presents a high value
+target for hackers and criminals.
+In 2019 NASA Administrator Jim Bridenstine stated at an
+agency town hall that NASA is the most attacked agency in the
+Federal Government when it comes to cybersecurity. Past data
+breaches and system intrusions at NASA and its facilities have
+resulted in large amounts of stolen data, installation of
+malware, copying, modifying, and deleting sensitive files, and
+accessing NASA servers, including those supporting missions.
+The Department of Homeland Security's (DHS's) Cybersecurity
+Infrastructure Security Agency, which is a mouthful, of
+course--but a very important agency has issued specific alerts
+on vulnerabilities related to telework during the pandemic, and
+encourages organizations to adopt a heightened state of
+cybersecurity.
+In April 2020 the agency's then Chief Information Officer
+(CIO) notified employees of increased hacking attempts on the
+agency's systems, and in June 2020 media articles reported that
+malicious actors congratulated NASA and SpaceX on a crewed
+demonstration flight, and then announced they had allegedly
+breached and infected a NASA contractor, specifically one that
+provides information technology cyber securities--and
+cybersecurity services to the agency. If true, that's a
+concerning report, and part of the reason we're here today.
+Protecting NASA's IT and data during the pandemic demands
+vigilance, however, NASA's cybersecurity challenges don't begin
+and end with the COVID-19 crisis. Multiple NASA IG and GAO
+(Government Accountability Office) reports have identified
+weaknesses and ongoing concerns with NASA's information
+security. Further, they've ranked this issue as a top agency
+challenge. Ensuring effective cybersecurity at NASA becomes
+even more pressing given rapid advances in IT supply chain
+risks, NASA's culture of openness and partnerships, and the
+overall increase in space activities.
+NASA is a national treasure. Its missions continue to
+inspire both young and old, and NASA's cutting edge space
+technologies, research, and space flight experience are the
+envy of the world. NASA's accomplishments wouldn't be possible
+without computers, software, and information systems. Will
+NASA, or any organization, ever be 100 percent risk free from
+cyber threats? Probably not. Is there room for improvement?
+Absolutely there is. I hope that today's hearing will give an
+understanding of the challenges and risks posed by increased
+telework, and whether or not NASA is organized and resourced
+sufficiently and effectively to mitigate those risks. The
+bottom line is we need to ensure that NASA has the tools that
+it needs, and takes the necessary actions to ensure the
+agency's success, safety, and security during COVID-19 and
+beyond, and I look forward to our witnesses' testimony today.
+[The prepared statement of Chairwoman Horn follows:]
+
+Good morning. I'd like to welcome our distinguished panel
+of witnesses, Members, and those viewing remotely, to today's
+Space and Aeronautics Subcommittee hearing on ``Cybersecurity
+at NASA: Ongoing Challenges and Emerging Issues for Increased
+Telework During COVID-19''.
+In early 2020, the world was caught off guard with the
+rapid and dramatic onset of the coronavirus. NASA, like many
+Federal agencies, and consistent with Office of Management and
+Budget guidance, rapidly shifted to telework operations to
+ensure the health and safety of its more than 17,000 civil
+servant employees and extensive contractor workforce.
+To its credit, NASA prepared for the transition, having
+held an agency-wide telework exercise in early March to test
+expanded telework operations. Today, 75 to 80 percent of NASA
+civil servants continue to work remotely handling proposal
+reviews, project oversight and inspections, development work,
+engineering analysis, and other activities.
+The shift to increased telework at NASA raises many
+questions. Front and center is cybersecurity.
+
+What does the increase and extended use of
+telework mean for protecting NASA' intellectual property,
+personally identifiable information, and mission operations?
+
+How do the cyber challenges related to increased
+telework affect the agency's overall cybersecurity risk
+posture?
+
+And what steps is NASA taking to ensure the
+effectiveness of its cybersecurity efforts during the pandemic
+and beyond?
+These are some of the questions today's hearing will
+explore, because what's clear is that NASA is a target.
+A recent NASA IG report stated, ``Given NASA's mission and
+the valuable technical and intellectual capital it produces,
+the information maintained within the Agency's IT
+infrastructure presents a high-value target for hackers and
+criminals.''
+In early 2019, NASA Administrator Jim Bridenstine stated at
+an agency town hall that ``NASA is one of the--it is the most
+attacked agency in the Federal government when it comes to
+cybersecurity.'' Past data breaches and system intrusions at
+NASA and its facilities have resulted in large amounts of
+stolen data; installation of malware; copying, modifying, and
+deleting sensitive files; and accessing NASA servers, including
+those supporting missions.
+The Department of Homeland Security's Cybersecurity and
+Infrastructure Security Agency--CISA--has issued specific
+alerts on vulnerabilities related to telework during the
+pandemic and encourages organizations ``to adopt a heightened
+state of cybersecurity.''
+In April 2020, the agency's then-chief information officer
+notified employees of increased hacking attempts on the
+agency's systems. And in June 2020, media articles reported
+that malicious actors congratulated NASA and SpaceX on a crewed
+demonstration flight, and then announced they had allegedly
+breached and infected a NASA contractor, specifically one that
+provides information technology and cybersecurity services to
+the agency. If true, that's a concerning report, and part of
+the reason we're here today.
+Protecting NASA's IT and data during the pandemic demands
+vigilance. However, NASA's cybersecurity challenges don't begin
+and end with the COVID crisis. Multiple NASA IG and GAO reports
+have identified weaknesses and ongoing concerns with NASA's
+information security; further, they have ranked the issue as a
+top agency challenge.
+Ensuring effective cybersecurity at NASA becomes even more
+pressing, given rapid advances in IT, supply chain risks,
+NASA's culture of openness and partnerships, and the overall
+increase in space activities.
+NASA is a national treasure. Its missions continue to
+inspire both young and old and NASA's cutting-edge space
+technologies, research, and spaceflight experience are the envy
+of the world. NASA's accomplishments wouldn't be possible
+without computers, software, and information systems.
+Will NASA or any organization ever be 100 percent risk-free
+from cyber threats? Probably not. Is there room for
+improvement? Most definitely, yes.
+I hope today's hearing will give us an understanding of the
+challenges and risks posed by increased telework, and whether
+or not NASA is organized and resourced to effectively mitigate
+those risks. Bottom line: we need to ensure that NASA has the
+tools and takes the necessary actions to ensure the agency's
+success, safety, and security, during COVID, and beyond.
+I look forward to our witnesses' testimony.
+
+Chairwoman Horn. So I think we are--there he is----
+Mr. Babin. Hey, Chairman.
+Chairwoman Horn. Ranking Member Babin, I'm glad you were
+able--I know that technology can sometimes, speaking of
+technology, be a little bit of a challenge, but glad you made
+it through. So the Chair now recognizes Ranking Member Babin,
+and my good friend from Texas, for an opening statement.
+Mr. Babin. Absolutely, thank you. We have three computers
+here. We couldn't get on, but I got on with my telephone, any
+way we can do it, I'm glad to be with you.
+Chairwoman Horn. And--innovation and ingenuity, I love it.
+Mr. Babin. Absolutely. OK. Well, thank you so much. NASA
+is one of the best-known organizations in the entire world. Its
+successes with the Mercury, Gemini, Apollo, Shuttle, and
+International Space Station programs, along with its
+breathtaking scientific discoveries and jaw-dropping robotic
+probes attract worldwide attention. Unfortunately, that
+attention comes with many challenges. The technologies that
+NASA develops are also sought after by criminal entities,
+unscrupulous foreign governments, and destructive vandals.
+Because many of these technologies have both civil and military
+applications, these challenges are particularly great, and this
+is a topic that this Committee has focused on for decades.
+Mr. Martin testified before the Investigations and
+Oversight Subcommittee almost 10 years ago on the topic of
+information security. At that hearing he testified that an
+unencrypted laptop was stolen from NASA that resulted in the
+loss of the ``algorithms'' used to control the Space Station,
+as well as personally identifiable information, and
+intellectual property. Similarly, the U.S.-China Economic and
+Security Review Commission noted, in its 2011 report to
+Congress, that the Terra and Landsat 7 satellites experienced
+at least two separate instances of interference apparently
+consistent with cyber activities against their command and
+control systems.
+More recently the NASA IG issued its yearly FISMA (Federal
+Information Security Management Act) report in July, which
+found that ``Information systems throughout the agency face an
+unnecessarily high level of risk that threatens the
+confidentiality, the integrity, and availability of NASA's
+information.'' The report concluded that, ``It is imperative
+the agency continue its efforts to strengthen its risk
+management and governance practices to safeguard its data from
+cybersecurity threats.'' And last month the IG issued another
+report on NASA's use of non-agency IT devices and found that
+NASA, ``is not adequately securing its networks from
+unauthorized access by IT devices.'' The NASA IG is currently
+tracking 25 open recommendations for the Office of the Chief
+Information Officer. These do not include IT and cybersecurity
+recommendations to mission directorates or other organizations
+in the NASA enterprise.
+And while this may seem startling, there are specific
+reasons that many of the recommendations remain open. For
+instance, agency-wide guidelines and best practices are often
+general rules and principles that are not optimized to specific
+agencies unique capabilities, expertise, and challenges. For
+instance, NASA is the world leader in designing, building,
+operating, and communicating with spacecraft. This expertise
+resides within the mission directorates, and at the centers who
+have cultivated this expertise over many decades. In some
+instances they actually developed the software, information
+systems, and underlying technologies that industry and the rest
+of the government adopted and embraced. In even more extreme
+circumstances, they continue to use one-off operating systems
+that, while perhaps not compliant with OMB derived
+governmentwide guidance, are arguably more secure because of
+their uniqueness and their obscurity. Efforts to bring these
+systems and technologies into compliance with a one-size-fits-
+all cookie cutter approach developed for commercial enterprise
+systems could actually introduce more risk into the system.
+This isn't to excuse NASA's cybersecurity shortcomings, as
+identified by the IG and GAO over the years. Lost laptops,
+unsecured devices, unauthorized access to systems, and lapsed
+ATOs, or authorization to operate, and poor inventory
+management are all cause for concern. Which brings us to the
+situation that NASA currently faces.
+The COVID-19 challenge requires most of NASA's employees
+and contractors to work remotely. And while NASA has embraced
+teleworking for years, the expansion of this practice
+introduces a larger target and more vulnerabilities for
+malicious actors to exploit. In addition to teleworking
+challenges, I'm also interested in understanding what level of
+insight that NASA has on contractor cybersecurity as NASA moves
+more to public-private partnerships. And finally, it's worth
+noting that President Trump recently issued Space Policy
+Directive Number Five, focused on cybersecurity principles for
+space systems. And while it is not COVID-focused specifically,
+it is particularly timely, given today's hearing and
+demonstration of the administration's forward-looking
+leadership on this very topic.
+I look forward to hearing more about these important
+issues, and what NASA plans to do to mitigate them, as well as
+what Congress and the administration can do to help. So, with
+that, Madam Chair, I yield back.
+[The prepared statement of Mr. Babin follows:]
+
+NASA is one of the best-known organizations in the world.
+Its successes with the Mercury, Gemini, Apollo, Shuttle, and
+International Space Station programs--along with its
+breathtaking scientific discoveries and jaw-dropping robotic
+probes--attract worldwide attention. Unfortunately, that
+attention comes with challenges. The technologies that NASA
+develops are also sought-after by criminal entities,
+unscrupulous foreign governments, and destructive vandals.
+Because many of these technologies have both civil and military
+applications, these challenges are particularly grave.
+This is a topic that this Committee has focused on for
+decades. One of our witnesses, NASA Inspector General Martin,
+testified before the Investigations and Oversight Subcommittee
+almost ten years ago on information security. At that hearing,
+he testified that an unencrypted laptop was stolen from NASA
+that ``resulted in the loss of the algorithms'' used to control
+the space station, as well as personally identifiable
+information and intellectual property.
+Similarly, the U.S. China Economic and Security Review
+Commission noted in its 2011 report to Congress that the Terra
+and Landsat-7 satellites ``experienced at least two separate
+instances of interference apparently consistent with cyber
+activities against their command and control systems.'' More
+recently, the NASA Office of the Inspector General issued its
+yearly FISMA report in July, which found that ``. . .
+information systems throughout the Agency face an unnecessarily
+high level of risk that threatens the confidentiality,
+integrity, and availability of NASA's information.'' The report
+concluded that ``. . . it is imperative the Agency continue its
+efforts to strengthen its risk management and governance
+practices to safeguard its data from cybersecurity threats.''
+And last month, the NASA Office of the Inspector General issued
+another report on NASA's use of non-agency IT Devices that
+found that ``NASA is not adequately securing its networks from
+unauthorized access by IT devices.'' The NASA Inspector General
+is currently tracking 25 open recommendations for the Office of
+the Chief Information Officer. These do not include IT and
+cybersecurity recommendations to Mission Directorates or other
+organizations in the NASA enterprise.
+While this may seem startling, there are specific reasons
+that many of the recommendations remain open. For instance,
+agency-wide guidelines and best practices are often general
+rules and principles that are not optimized to specific
+agencies unique capabilities, expertise, and challenges. For
+example, NASA is the world leader in designing, building,
+operating, and communicating with spacecraft. This expertise
+resides within the Mission Directorates and at the Centers who
+have cultivated this skillset over decades. In some instances,
+they actually developed the software, information systems, and
+underlying technologies that industry and the rest of the
+government adopted and embraced.
+In even more extreme circumstances, they continue to use
+one-off operating systems that, while perhaps not compliant
+with OMB-derived government-wide guidance, are arguably more
+secure because of their uniqueness and obscurity. Efforts to
+bring these systems and technologies into compliance with one-
+size-fits-all, cookie-cutter approaches developed for
+commercial and enterprise systems could actually introduce more
+risk. This isn't to excuse NASA's cybersecurity shortcomings as
+identified by the IG and GAO over the years. Lost laptops,
+unsecured devices, unauthorized access tosystems, and lapsed
+ATOs (or ``Authorization to Operate''), and poor inventory
+management are all cause for concern.
+Which brings us to the situation NASA currently faces. The
+COVID-19 challenge requires most of NASA's employees and
+contractors to work remotely. While NASA has embraced
+teleworking for years, the expansion of this practice
+introduces a larger target and more vulnerabilities for
+malicious actors to exploit.
+In addition to teleworking challenges, I am also interested
+in understanding what level of insight NASA has on contractor
+cybersecurity as NASA moves more to public-private
+partnerships. Finally, it's worth noting that President Trump
+recently issued Space Policy Directive 5 focused on
+cybersecurity principles for space systems. While it is not
+focused on COVID specifically, it is particularly timely given
+today's hearing and demonstrates the Administration's forward-
+looking leadership on the topic.
+I look forward to hearing more about these critical issues,
+what NASA plans to do to mitigate them, as well as what
+Congress and the Administration can do to help.
+Thank you, I yield back.
+
+Chairwoman Horn. Thank you, Ranking Member Babin, for your
+opening statement. I think it's safe to say we share many of
+the same concerns in this area, and I'm excited and grateful
+for the opportunity for this hearing today. If there are any
+Members who wish to--at this point, if there are any Members
+who wish to submit additional opening statements, your
+statements will be added to the record at this point.
+[The prepared statement of Chairwoman Johnson follows:]
+
+Good morning Chairwoman Horn, Ranking Member Babin, and
+Members of the Subcommittee. To our witnesses, welcome and
+thank you for being here.
+As we ushered in 2020 and a new decade, none of us could
+have predicted that we'd be here today, six months into a new
+way of living and working in order to protect our own and
+others' health from COVID-19.
+Thanks to the internet, information technology, and
+communication services, many Americans can continue to interact
+with family and friends-albeit virtually-and work remotely.
+That includes NASA's workforce.
+To its credit, NASA is accomplishing a lot in this virtual,
+telework environment, though some mission-essential employees
+are still working on-site.
+
+NASA and its partner, SpaceX, successfully carried
+out a commercial crew demonstration mission to the
+International Space Station;
+
+the Orion program completed key reviews to certify
+that the crew vehicle is ready for flight;
+
+engineers are operating some science spacecraft
+from their homes; and
+
+the OSIRIS-REx team successfully completed a final
+dress rehearsal in advance of collecting samples from asteroid
+Bennu next month.
+I'm pleased that NASA's can-do spirit is prevailing,
+despite the challenges of this pandemic. But with so many
+important NASA operations being carried out away from the
+institutional security of NASA facilities, I'm concerned about
+cybersecurity.
+Space is hard and risky, and NASA has exceptional skills at
+managing risk. When it comes to cybersecurity and information
+technology management, however, NASA struggles.
+The agency continues to lack a cybersecurity risk
+management strategy, as recommended by GAO, and both GAO and
+the NASA Inspector General have cited information security as a
+top challenge for NASA.
+Unfortunately, NASA's lagging performance on cybersecurity
+isn't new, it's a continuing problem. For many years, NASA IG
+and GAO reports have identified deficiencies and management
+challenges in NASA's information security.
+And now, with COVID, NASA-like other organizations-must
+protect against cyber criminals and malicious actors who are
+increasing their efforts to access government, business, and
+personal data and IT systems while employees work from home.
+I have no doubt that NASA officials are working hard to
+keep the agency's IT systems and data safe, and I understand
+they are making some progress.
+However, long-standing, recommended actions to improve
+NASA's cybersecurity have been left undone. In addition, the
+agency's approach to IT security is fragmented and the Chief
+Information Officer continues to lack the ability to manage
+NASA's cybersecurity efforts across the agency. NASA can and
+must to better.
+In closing, NASA is a catalyst for inspiration, an engine
+of discovery and innovation, and a world leader in the peaceful
+uses and exploration of outer space.
+We can't afford to let bad actors and cyber criminals
+threaten the safety and success of NASA's science, aeronautics
+research, space technology, and human spaceflight programs.
+I look forward to hearing from our witnesses on what is
+needed to ensure that robust and effective cybersecurity
+protections are in place at NASA now, during COVID-19, and into
+the future.
+Thank you, and I yield back.
+
+Chairwoman Horn. And now I'd like to introduce our
+witnesses. Our first witness today is Mr. Jeff Seaton. In April
+2020 Mr. Seaton was named NASA's Chief--Acting Chief
+Information Officer--Acting Chief Information Officer, let's
+see if I can get that out right. Prior to his current position,
+Mr. Seaton served as NASA's Deputy Chief Information Officer,
+and spent 7 years as the Chief Information Officer at NASA's
+Langley Research Center. He began his career with NASA in 1991
+as a research engineer, designing robotic systems for space-
+based applications, and also served as Langley's Chief
+Technology Officer and Deputy CIO. Mr. Seaton received a
+Bachelor's Degree and Master's Degree in Electrical Engineering
+from Virginia Tech. Welcome, Mr. Seaton. We're glad you're with
+us today.
+Our next witness is Mr. Paul Martin, Inspector General for
+the National Aeronautics and Space Administration. Mr. Martin
+has been the NASA Inspector General since 2009, and prior to
+his appointment at NASA, he served as the Deputy Inspector
+General at the Department of Justice. He also spent 13 years at
+the U.S. Sentencing Commission, including 6 years as the
+commission's deputy staff director. Mr. Martin received a
+Bachelor's Degree in Journalism from Pennsylvania State
+University, and a Juris Doctorate from Georgetown University
+Law Center. Welcome, Mr. Martin.
+Our third and final witness today is Dr. Diana Burley. In
+July 2020 Dr. Burley was appointed as Vice Provost for Research
+and Professor of Public Administration at American University.
+Prior to her current position, Dr. Burley spent 13 years as a
+professor of human and organizational learning at George
+Washington University, where she was the inaugural Chair for
+the Human and Organizational Learning Department, and the
+Director of Executive Leadership doctoral program. She has also
+managed a multi-million-dollar computer science education and
+resource portfolio for the National Science Foundation. Dr.
+Burley received a Bachelor's Degree in Economics from The
+Catholic University of America, a Master's in Public Management
+and Policy from Carnegie Mellon University, and Master's and
+Doctoral Degrees in Organizational Science and Information
+Policy, also from Carnegie Mellon University. Welcome, Dr.
+Burley.
+As our witnesses, you should you know you each have 5
+minutes for your spoken testimony. Your written testimony will
+be included in the record for this hearing. When you have
+completed your spoken testimony, we will begin with questions,
+and each Member will have 5 minutes to question the panel.
+We'll start today with Mr. Seaton. Mr. Seaton, you're
+recognized for 5 minutes.
+
+TESTIMONY OF MR. JEFF SEATON,
+
+CHIEF INFORMATION OFFICER (ACTING),
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+Mr. Seaton. Thank you, Chairwoman Horn, Ranking Member
+Babin, and Members of the Subcommittee on Space and
+Aeronautics, for allowing me to appear before you today and
+talk about NASA's information technology infrastructure, and
+our efforts to manage and protect that infrastructure during
+the COVID-19 pandemic. Thankfully, due to strategic investments
+made over the last several years, NASA was well positioned to
+keep our missions moving forward by shifting the majority of
+our workforce to telework last March. As a result, NASA has
+never been closed, and our workforce has continued to work
+remotely in a productive, and often creative, manner, despite
+the highly contagious COVID-19 virus. With strict safety
+protocols in place, NASA is now gradually allowing more
+employees onsite, based on factors such as local conditions,
+and guidance from the CDC (Centers for Disease Control) and
+other Federal partners. Let me assure you, the safety of our
+workforce remains our top priority. At the same time,
+protecting and effectively operating our IT infrastructure
+continues to be another top, massive focus.
+IT plays a critical role of every aspect of NASA's
+missions. However, effective IT management is not an easy task.
+As NASA's Acting Chief Information Officer, it's my job to
+balance implementing innovative, mission-enabling IT
+capabilities with operational efficiency and effective
+cybersecurity to guard against evolving threats. During the
+pandemic the demands and expectations placed on NASA's IT
+infrastructure have been incredibly high, and the threats from
+external actors remain an ongoing concern. However, with hard
+work, dedication, and innovation, NASA's CIO team has risen to
+the challenge of keeping our missions moving forward. For
+example, OCIO (Office of the Chief Information Officer) helped
+rapidly develop software to track cases of onsite COVID-19
+exposures, while also meeting all security and privacy
+requirements. Additionally, with OCIO's help, NASA continues to
+hire and onboard new employees, contractors, and interns with
+innovative approaches to provisioning and maintaining IT
+systems and tools remotely.
+For NASA employees the pandemic has dramatically changed
+the way that we work. While many employees already teleworked
+at least occasionally before the pandemic, having 90 percent of
+employees teleworking at the same time has been game changing.
+NASA employees have significantly increased their use of
+virtual collaboration tools, such as Webex and Microsoft Teams,
+so we can interact with each other face to face while sharing
+virtual collaborative workspaces. Employees are dependent on
+NASA's virtual private network (VPN) to connect securely to
+internal networks and systems. Before the pandemic, our highest
+VPN connection rate was about 12,000 users in a single day.
+Today our VPN is supporting almost 40,000 daily users, with an
+availability exceeding 99 percent, thanks to architectural and
+capacity improvements implemented over the past 24 months.
+Like other Federal agencies, NASA's IT infrastructure is
+under constant attack from well-resourced and highly motivated
+domestic and foreign adversaries, and we remain a popular
+target today. Therefore, we continue to strengthen our
+technical and procedural capabilities to proactively defend and
+protect our systems and data. While the reported number of
+attempted cyber incidents continues to increase partly because
+we have greater visibility into our network today, I'm
+confident that NASA is appropriately addressing and
+strengthening our response to these threats.
+In Fiscal Year 2020 NASA developed a continuity of
+operations capability to further enhance our security
+operations center (SOC), located at the Ames Research Center.
+Previously, if SOC operations were disrupted, we had a limited
+ability to identify, detect, and respond to incidents. Today
+NASA SOC operations span multiple centers, allowing us to
+maintain 24 by 7 SOC operations at all times, even if there is
+an isolated disruption. With strengthened tools and
+capabilities, NASA is transitioning from a largely reactive to
+a more proactive cybersecurity posture. As the pandemic
+worsened in April, NASA even moved the SOC to remote operations
+to ensure employee safety, and we did so without negatively
+impacting our network or our cybersecurity capabilities.
+In closing, I want to personally thank not only my OCIO
+staff and leadership, but the entire NASA workforce for their
+hard work, and the personal sacrifices they've made during this
+challenging time. Our employees are finding new ways to keep
+missions moving forward, support each other, balance work and
+family pressures, and even dedicate their expertise and
+personal time to developing technologies that are aiding in the
+national response to the coronavirus. While no one is sure what
+the future holds, NASA's senior leaders, including myself, are
+committed to keeping the NASA workforce safe, and providing
+them with the IT tools and infrastructure they need to continue
+executing our missions. I want to assure you that protecting
+and evolving NASA's IT infrastructure is, and will remain, a
+top agency priority. Thank you for the opportunity to testify
+before you today, and I look forward to answering any of your
+questions. Thank you.
+[The prepared statement of Mr. Seaton follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairwoman Horn. Thank you very much, Mr. Seaton. Mr.
+Martin, recognized--you are now recognized for your testimony.
+
+TESTIMONY OF THE HONORABLE PAUL K. MARTIN,
+
+INSPECTOR GENERAL, NATIONAL AERONAUTICS
+
+AND SPACE ADMINISTRATION
+
+Mr. Martin. Thank you, Chairwoman Horn, Ranking Member
+Babin, and Members of the Subcommittee. The NASA Office of
+Inspector General has conducted a significant amount of
+oversight work to help NASA improve its information technology
+governance, while securing its networks and data from cyber
+attacks. Over the past 5 years we issued 16 audit reports, with
+72 recommendations related to IT governance and security.
+During this same period we've conducted more than 120
+investigations involving intrusions, denial of service attacks,
+and data breaches on NASA networks, several of which have
+resulted in criminal convictions. My testimony today is
+informed by this body of audit and investigative work.
+The soundness and security of its data and IT systems is
+central to NASA's success. The agency spends more than $2.2
+billion a year on a portfolio of IT assets that include
+hundreds of information systems used to control spacecraft,
+collect and process scientific data, and enable NASA personnel
+to collaborate with colleagues around the world. Given the
+valuable technical and intellectual capital NASA produces, its
+IT systems present a high value target for cyber criminals. The
+past 6 months in particular has tested the agency, as more than
+90 percent of NASA's workforce moved from onsite to remote work
+due to the pandemic. During this period, NASA has experienced
+an uptick in cyber threats, with phishing attempts doubling,
+and malware attacks rising substantially. This morning I offer
+three observations about the state of NASA's IT security and
+governance to provide context for the scope of its challenges.
+First, our concerns with NASA's IT governance security are
+wide-ranging and longstanding. For more than 2 decades NASA has
+struggled to implement an effective IT governed structure that
+aligns authority and responsibility commensurate with the
+agency's overall mission. Specifically, the agency's CIO has
+limited oversight and influence over IT purchases and security
+decisions within mission directorates and at NASA centers. This
+de-centralized nature of NASA's operations, coupled with its
+historic culture of autonomy, have hindered the CIO's ability
+to implement effective enterprise-wide IT governance. Moreover,
+NASA's connectivity with educational institutions, and other
+outside organizations, and its vast online presence of 3,000
+web domains, and more than 42,000 publicly accessible data
+sets, offer cyber criminals a larger target than most other
+government agencies.
+Second, despite positive forward momentum, the agency's IT
+practices continue to fall short of Federal requirements. For
+example, in 2019, for the fourth year in a row, NASA
+performance during our annual FISMA review remained at level
+two out of five, meaning the agency has issued, but has not
+consistently implemented, important policies and procedures
+defining its IT security program. And third, like many other
+public and private organizations, NASA struggles to find the
+right balance between user flexibility and system security. For
+example, for years NASA permitted personally owned and partner
+owned mobile IT devices to access non-public data, even if
+those devices did not have a valid authorization. Today NASA
+employees and partners can use non-agency mobile devices to
+access e-mail if the user installs security software known as
+mobile device management.
+However, an OIG (Office of Inspector General) audit last
+month found that NASA was not adequately securing its e-mail
+networks from unauthorized access by these personally owned
+devices. Although NASA has deployed technologies to monitor
+unauthorized connections, it has not fully implemented controls
+to remove or block those devices. Moreover, the agency's
+December 2019 target for installing these controls was delayed
+due to technological issues and pandemic-related center
+closures. Until these enforcement controls are fully
+implemented, NASA faces an elevated risk of a breach.
+Finally, as part of its MAP (Mission Support Future
+Architecture Program) initiative, NASA plans to centralize and
+consolidate IT capabilities. The CIO's office expects to
+complete its MAP assessment by March 2021, with implementation
+on its institutional systems beginning later that year. As MAP
+unfolds, we plan to assess whether this enterprise-level
+alignment has strengthened cybersecurity at NASA. I look
+forward to your questions.
+[The prepared statement of Mr. Martin follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairwoman Horn. Thank you, Mr. Martin. Dr. Burley, you're
+recognized for your testimony.
+
+TESTIMONY OF DR. DIANA L. BURLEY, PH.D.,
+
+VICE PROVOST FOR RESEARCH, AMERICAN UNIVERSITY
+
+Dr. Burley. Thank you. Subcommittee Chairwoman Horn,
+Ranking Member Babin, and distinguished Members of the
+Committee, thank you for the opportunity to appear before you
+today. As the Nation continues to navigate the complex and
+uncertain environment of the global pandemic, it is vital that
+we engage in a robust discussion on the cybersecurity related
+challenges and emerging issues for increased telework during
+this time. At American University we are guided by our
+strategic plan, Changemakers for a Changing World. AU empowers
+graduates to navigate, shape, and lead the future of work, and
+AU researchers are pushing the boundaries of discovery in
+healthcare, data science, social equity, and security. In my
+remarks today, which are shaped by a decades-long career
+leading cybersecurity initiatives, I will highlight how the
+interplay of these areas supports the development of a holistic
+strategy to address cybersecurity issues surrounding the
+exponential growth in telework during this unprecedented time.
+Concerns over exposure to COVID-19 have accelerated a mass
+migration to virtual settings. While teleworking arrangements
+have existed for years, never before had we seen the range and
+volume of remote workers or remote working environments.
+Employees across the spectrum of demographic categories and
+technical abilities are now working remotely, and engaging with
+their employers, colleagues, and customers through a digital
+interface, and on a range of devices. Securing this activity
+necessitates that we recognize both the technical needs and the
+environmental factors that shape that behavior. Consider the
+following. Novice users and novice experiences create
+vulnerabilities. In the hurried transition to remote work,
+agencies did not have sufficient time to prepare novice users
+for the complexity of their newly virtual working environments.
+Where overall security is more reliant upon individual
+decisions made by employees and non-employees alike, even
+seasoned users who have developed behaviors in accordance with
+onsite protections face new challenges, and can find themselves
+less prepared to avoid the vulnerabilities exposed by the
+remote working environments. Employees are working under
+duress. COVID-19 continues to drive economic instability,
+health-related concerns, anxiety, and confusion. Employees are
+worried about meeting their basic needs, and are less likely to
+attend to seemingly lower priorities like cybersecurity. Cyber
+criminals exploit targets of opportunity. The shift in activity
+provides a larger attack surface, and leads to more
+opportunities for cyber criminals to use social engineering
+techniques such as fraud, misdirection, and disinformation to
+exploit those vulnerabilities.
+Users bring their entire selves online. If we use the
+public health analogy of treating the whole patient, we can
+strengthen the efficacy of guidance to engage in robust cyber
+hygiene activities. In public health practice, successful
+treatment is inextricably linked to the social and
+environmental conditions of its patients. Today, in the midst
+of the COVID-19 pandemic, we must recognize that while basic
+cyber hygiene practice is relatively doable under normal
+circumstances, these are not normal times. Our workers are
+distracted, frightened, and fatigued. This is especially true
+for the most vulnerable users. As such, strategies to
+strengthen the cybersecurity of teleworkers must consider the
+full spectrum of user experiences and address the complex
+realities of their needs.
+The points I have just outlined represent only a snapshot
+of the benefit of using a holistic approach to reduce the
+impact of cybersecurity related vulnerabilities. I have long
+advocated for this type of approach. Now, and with a greater
+sense of urgency, we must collaboratively develop interventions
+that address the dynamic interplay between technical and
+environmental variables that shape the cybersecurity posture
+across the broad range of teleworkers as they navigate the
+COVID-19 environment. I look forward to continued engagement
+with this esteemed Committee to develop concrete strategies
+that raise awareness of the threat, encourage actions that
+increase the cybersecurity of the Nation's employees, and
+protect our most vulnerable citizens. Thank you.
+[The prepared statement of Dr. Burley follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairwoman Horn. Thank you very much, Dr. Burley. At this
+point we will begin our first--with our first round of
+questions, and the Chair recognizes herself for 5 minutes.
+Thank you to our witnesses today. It's clear that these
+are important issues, and there's a lot of things to tackle.
+And I want to start, Mr. Seaton, with some questions about
+contractors, as--and cybersecurity contractors, especially
+given the increased use, and the significant use of contractors
+within NASA's workforce. So I have a number of questions, I'm
+going to try and get through as many as we can. Some of them
+are just yes or no, then we'll get to a few other things.
+So what we know, and I mentioned the article today in The
+Hill, is that our systems are--there's a lot of information
+that hackers are very interested in, and the contractors that
+NASA works with are integral to our Nation's space agency. So
+my first question is, are there FAR clauses, Federal
+Acquisition Regulation clauses, that specifically refer to
+contractor cybersecurity requirements?
+Mr. Seaton. Yes, there are, and we include those in our
+agency contracts to ensure that our providers follow the
+cybersecurity requirement.
+Chairwoman Horn. OK. So let me follow up on that for a
+moment, because--so those are NASA cybersecurity requirements?
+Because we asked earlier this year about associated FAR
+language, and NASA's response was that there are no FAR
+requirements, there are no FAR clauses. But to--do those fall
+under NASA requirements in contracts?
+Mr. Seaton. We have a NASA FAR supplement, and to get
+specifics on what those requirements are included via that, I
+can certainly take a question for the record to get that.
+Chairwoman Horn. OK. Absolutely. And so, when those
+clauses are included, is it NASA that signs off on the
+cybersecurity? Are there waivers? What--who signs off on the
+requirements for cybersecurity, that they've been met?
+Mr. Seaton. Well, we have automated tools to be able to
+ensure that our contractors are complying with the requirements
+when they're connecting to any NASA system, just as any NASA
+employee would. So, as was mentioned in the earlier testimony,
+we've put in place controls, and are continuing to strengthen
+those controls, to ensure that only authorized devices can
+connect to our networks and systems.
+Chairwoman Horn. OK. And who has oversight of contractor
+cybersecurity protocols? Is that through your office? Are you
+able to conduct oversight and audits of cybersecurity practices
+by contractors?
+Mr. Seaton. Ultimately. I am the Acting Information
+Officer, and so cybersecurity is my responsibility, and so it
+would be me and my team that ensures compliance with the
+cybersecurity requirements.
+Chairwoman Horn. OK. And do you feel like you have
+sufficient oversight, and insight, and ability to do that
+within your authorized--within your authorities?
+Mr. Seaton. Yes, I would say that I do believe that,
+within NASA, I've been given the appropriate authority and
+support, but I will say that the environment is continuing to
+change, and it's a dynamic landscape, as IT is no longer just
+the computer and the laptop on your desk, but expands to
+operational technology work. IT is embedded within systems, and
+so I would say it's challenging with that evolving landscape,
+and so we continue to mature our processes.
+Chairwoman Horn. OK. Thank you. Stepping back to the
+challenges from this year during COVID-19, I'll have a question
+for Mr. Martin and Mr. Seaton, and hopefully we'll have time to
+get to Dr. Burley, about a broader--the memo, Mr. Seaton, that
+your predecessor published on April 8 warned of increased
+attempts in cyberattacks, and--especially during COVID-19, and
+I'm--my first question is--to you, actually, then to Mr.
+Martin, how has the rate of cyberattacks changed since that
+memo in April, and what steps has the OCIO taken to respond to
+those increased attempts?
+Mr. Seaton. Well, we have seen an increase in phishing
+attacks, and a lower level of some other attacks, but honestly,
+the change to the pandemic operating model is consistent with
+how NASA has operated in the past. We've supported a mobile
+workforce, and so have put in place controls and technologies
+to mitigate against some of these threats, including automated
+prevention of phishing attacks. Because, when it comes down to
+it, you and I are the most vulnerable part of our IT security
+environments, the people, and so we try to put in place
+automated controls to actually make that easier for our
+employees, and I've, seen significant improvements in phishing
+protections over the last 2 years.
+Chairwoman Horn. Thank you, and quickly, Mr. Martin, my
+time is coming to an end, but what is your confidence level in
+NASA's ability to sufficiently address and increase--the
+increase in cyber threats as reported by the OCIO?
+Mr. Martin. Overall I think they're making incremental
+improvement. They're heading in the right direction, but--and I
+think there's a real--new realization over the last couple
+years of the expanse and significance of the challenge, so I
+think we're very, very cautiously optimistic.
+Chairwoman Horn. Wonderful. Thank you very much. I now
+recognize Ranking Member Babin for 5 minutes of questions.
+Mr. Babin. Thank you, Madam Chair. I think I'm unmuted.
+Hopefully I am. I want to address this to Chief Information
+Officer Mr. Seaton. Two weeks ago President Trump signed Space
+Policy Directive Number Five, which focused on cybersecurity
+principles for space systems. SPD-5 states, ``It is the policy
+of the United States that executive departments and agencies
+will foster practices within government space operations, and
+across the commercial space industry, that protect space
+assets, and their supporting infrastructure, from cyber
+threats, and ensure continuity of operations.'' My question is
+this. As NASA increases its use of public/private partnerships,
+how will it ensure that contractors comply with this policy
+without implementing regulations?
+Mr. Seaton. Yeah, thank you for the question. Yeah, so
+SPD-5, we appreciate the administration and this Congress's
+focus on space cybersecurity, because that's critically
+important to us. We're currently in the process of reviewing
+and analyzing SPD-5, but the good news is we see a lot of
+consistency with best practices that we are already
+implementing, and will continue to look to strengthen our
+cybersecurity, both within our missions, as well as with our
+contract partners.
+Mr. Babin. Absolutely. Thank you so much. My next question
+would be to Inspector General Paul Martin. Your office issued a
+report on JPL, Jet Propulsion Laboratory's, cybersecurity
+management last year. JPL, unlike other NASA centers, is
+managed by a contractor, of course that's Cal Tech. The report
+highlights the fact that NASA's contract with Cal Tech did not
+include relevant requirements from NASA IT security policies.
+And so has the OIG conducted a review of other NASA contractors
+to determine if their contracts include necessary clauses
+pertaining to IT security, and if so, how many has your office
+conducted?
+Mr. Martin. Thank you, Mr. Babin. We have not conducted a
+separate audit looking at that specific issue. Although, if I
+could double back, the concerns we had when NASA entered into a
+new 5-year contract with Cal Tech, that the contract was absent
+the significant IT oversight provisions. We have since followed
+up and found out that JPL has issued, and NASA has accepted,
+and we've reviewed, and they do meet the criteria that we were
+concerned about. So the Federal imposed oversight, IT
+oversight, is going to happen at JPL, so we're pleased for
+that.
+Mr. Babin. OK. Thank you. And does the OIG conduct
+compliance audits to determine if contractors are fulfilling
+their contractual obligations pertaining to information
+security, and if so, how many has your office conducted there?
+Mr. Martin. Again, we conduct a significant number of
+program audits that look at the programs that are run by these
+contractors, and part of that review includes a detailed dive
+into the contracts to make sure that the IT security
+requirements are not only in the contract, but they're actually
+followed.
+Mr. Babin. Is this a more appropriate role for the NASA
+CIO or procurement office to conduct, rather than the OIG?
+Mr. Martin. Well, I think the--certainly the CIO's office
+and procurement have to ensure at the outset that the
+appropriate security issues and safeguards are contained in the
+contract themselves, and ongoing--good contract management
+would show that you need to ensure that they're being
+effective. Now, the OIG has limited capacity, like most
+organizations, and so we're going to try to target the more
+high risk, high value operations that NASA has to do a deep
+dive audit.
+Mr. Babin. OK. And then, as this very hearing
+demonstrates, NASA and the Nation have adopted
+videoconferencing to adapt to social distancing requirements.
+Has NASA identified any vulnerabilities with commercial
+videoconferencing platforms? Are certain videoconference not
+allowed for NASA use based on technical characteristics or
+concerns over foreign influence? I would just say--what every
+one of you have to say. Just a short, concise answer.
+Appreciate it.
+Mr. Seaton. Yes, I'll start with that, and say we have a
+set of approved tools that have gone through the appropriate
+security validation, which includes assessing any threats
+externally to those environments, and, outside of that, other
+tools are not approved for use within NASA.
+Mr. Babin. OK. And then----
+Mr. Martin. NASA OIG is using those approved tools.
+Mr. Babin. OK. All right, good. And, Dr. Burley, did you
+want to add to that at all?
+Dr. Burley. Most agencies and other organizations have
+their list of approved tools.
+Mr. Babin. OK. Well, Madam Chair, I've spent all my time,
+so I will yield back, and I want to thank all the witnesses. We
+appreciate it very much. Yield back.
+Chairwoman Horn. Thank you very much, Ranking Member
+Babin. And, Mr. Perlmutter, you're recognized for 5 minutes.
+Mr. Perlmutter. Thank you, Madam Chair, and I think one of
+the biggest problems with this remote stuff is when somebody
+like Dr. Babin is walking around with his phone, and I feel
+like we're in The Blair Witch Project, but that's a whole other
+problem. My questions are for you, Dr. Burley, and Mr. Seaton
+mentioned the most vulnerable spot for, you know, hacking and
+cybersecurity is the individual, the person. And when you were
+testifying, you talked about novice users, you know, not
+familiar with the equipment or security protocol, employees
+under duress, worried about their basic needs, and not the more
+refined things like cybersecurity, you know, that folks are
+having trouble because they're distracted, frightened, and
+fatigued, I think were your terms. So what--I mean, it almost
+feels not that the CIO should be involved, but the Personnel
+Department is really the--one of the keys here. So what do you
+see, whether it's NASA, or generally across the agencies, being
+done to help the individuals kind of get through this very
+anxious period and maintain cybersecurity?
+Dr. Burley. Thank you for your question. But--so you're
+absolutely right in that it needs to be a collaboration between
+the IT Department and the H.R. (human resources) Department.
+So, first, every agency has a set of cybersecurity awareness
+programs that they have in place, and that really guide not
+only behavior within the organization, within the walls, but
+also outside. Those awareness programs need to be adapted,
+recognizing that the employees are working in a different
+environment, they're working remotely, and they're working
+around other people. It's not just them. It's also----
+Mr. Perlmutter. Right.
+Dr. Burley [continuing]. Family members, and others who
+are in their environments. And so we have to take a hard look
+at those awareness programs, and recognize that they need to be
+adapted based on the current realities of work. And second,
+yes, absolutely, human resource professionals need to be
+involved to provide the kind of support to our employees that
+they need so that they are able to focus on not only doing
+their work, but doing their work in a secure manner.
+Mr. Perlmutter. And I guess I hadn't even thought of it,
+but obviously we should think of it, people are working from
+home, the kids are in the background, or, you know, whoever
+might be in the background, so it isn't like you're in the
+office at NASA headquarters, where everything's pretty safe and
+secure. So I think, Madam Chair, I'm going to yield back, but I
+do think this really is cooperation, certainly between the H.R.
+Department and all of the technology folks. And Mr.--I mean,
+all three of our speakers have sort of focused on that, but I--
+in this pandemic, that's critical, and I yield back.
+Chairwoman Horn. Thank you very much, Mr. Perlmutter. Mr.
+Posey, you're recognized for 5 minutes.
+Mr. Posey. Thank you, Madam Chair, for holding this
+hearing on this important issue regarding cybersecurity at NASA
+during COVID-19. Just to recap, in June 2020 NASA's Inspector
+General stated NASA's high profile and sensitive technology
+makes the agency an attractive target for computer hackers and
+other bad actors. And, as stated earlier, during the COVID-19
+pandemic, many NASA and contractor employees are teleworking,
+and possibly making the agency a bigger target. In June 2020
+report the Inspector general said it's vital that the agency
+develop of its information security program to protect the
+confidentiality, integrity, and availability of its data,
+systems, and networks. This is not a new problem facing NASA.
+An assessment by the National Academy of Public Administration
+(NAPA) concluded back in 2014 that NASA networks are
+compromised, and that individuals are not being held
+accountable.
+It's not a new concern for us either. I included language
+in the House-passed NASA authorization bill back in 2015 to
+address this by requiring a report on how NASA would safeguard
+its networks and protect against control violations. The
+Inspector General also made the nine recommendations to NASA,
+including making sure the risk information security system
+compliance and data protection capabilities are updated to keep
+the data secure. And the Inspector General concluded that the
+threats are increasing, and that it is imperative for NASA to
+continue its efforts, and strengthen its risk management
+government practices to safeguard its data from cybersecurity
+threats.
+So, Inspector Martin, first, it was noted that NASA is an
+attractive target for computer hackers and bad actors. Is China
+one of those bad actors, and does China present a cybersecurity
+threat to NASA? And, besides securing its information
+technology, what steps has NASA done to secure its supply chain
+from China hackers? And has NASA, or the Inspector General,
+criminally reported a cybersecurity case involving China to the
+Department of Justice yet?
+Mr. Martin. Yes, yes, no. I'm joking. That was a lot of
+questions. China is one of the foreign entities out there.
+China's not the sole entity, country, out there that is seeking
+NASA's very valuable intellectual property. NASA is taking
+steps, and has been, to secure its intellectual property and
+its networks from attack both from China and from a series of
+other countries, and also local hackers. So yes, NASA is--we
+have conducted a series of criminal investigations, and we work
+with the FBI (Federal Bureau of Investigation) and
+counterintelligence officials when we get leads on these
+issues.
+Mr. Posey. Good, thank you. And Mr. Seaton, with
+cybersecurity threats increasing, has NASA taken the necessary
+actions to address the assessment of the National Academy of
+Public Administration back in 2014, and the nine
+recommendations identified by the Inspector General, to keep
+the data security?
+Mr. Seaton. Yes. I'm happy to report that we closed out
+all of the recommendations, there were quite a few, in the NAPA
+report, and those have been implemented, and I do think that
+they improved our security and our practices.
+Mr. Posey. OK, thank you. Dr. Burley, should the National
+Academy do another study to examine the vulnerabilities that
+teleworking presents?
+Dr. Burley. The opportunity for associations and National
+Academies to do studies gives us an in depth look, and so I
+would say yes.
+Mr. Posey. Thank you, Madam Chair. I yield back the
+remainder of my time.
+Chairwoman Horn. Thank you, Mr. Posey. The Chair now
+recognizes Mr. Beyer for 5 minutes.
+Mr. Beyer [continuing]. My mute button. Thank you, Madam
+Chair, very much. Mr. Seaton, thank you very much for joining
+us today. In your testimony you mentioned that in the course of
+the pandemic you were able to onboard new employees, new
+interns, and, amazingly, our office has been able to do the
+same, wonderful interns and new staff. We've also been able to
+safely ensure that all staff and interns have House-issued
+equipment, including laptops and phones. So the--in the OIG
+report, I was surprised that personally owned devices could
+connect to internal systems, and that OIG was critical of your
+not monitoring--enforcing the rules associated with granting
+access to the NASA networks. So how do you make sure that new
+employees will be given the proper equipment, and if they're
+not getting NASA issued equipment, how do we ensure that those
+personal devices are secured?
+Mr. Seaton. Yes, thanks, great question. We actually do
+require the use of NASA-provided equipment for our new
+employees and interns, so we do provide them with the tools
+that they need. Recently, within the last 2 years, it was my
+office that changed the policy that was referred to earlier,
+where, yes, previously we did allow personal devices to
+connect. That is no longer allowed by policy. The only
+allowance is for a mobile device that has a mobile device
+management software that we provide that creates a secure
+container, and a secure connection, back to our e-mail and
+calendaring systems, if an employee will consent to us managing
+their personal device with that software. That's the one case
+where we do allow that.
+Where we do have opportunities to continue to strengthen
+our architecture is implementing the automated controls to
+ensure that that is what's happening. So network access
+control, and the pandemic, has actually impacted our
+implementation there, pushing out that schedule into next year,
+but we've made significant progress through DHS, the CDM
+(Continuous Diagnostics and Mitigation) Program, to know what's
+on our network, and who's on our network, and have a little bit
+more to do there.
+Mr. Beyer. Good, good. Thank you. That's encouraging to
+know, because I'm sure the stuff you have is much more
+important than the thing that's on my network. Mr. Martin, you
+talked about the malicious intrusions in the NASA systems, you
+know, unauthorized access to Deep Space Network. Other than the
+personally identifiable information, what are they after, and
+how much of this is China, Russia, the other nations that are
+interested in space, and will this affect, or could this
+affect, our lunar missions or Mars mission, James Webb, and
+some of the really big important things that NASA's doing?
+Mr. Martin. Thank you, Congressman Beyer. NASA has vast
+troves of important intellectual capital that it has spent
+decades amassing, and so I think folks are--country actors are
+after that information, the innovations that NASA's so famous
+for around the world. There's everything from PII, there's
+contractual data on the systems, so there's just a vast and
+wide array. And, again, we've had--NASA, unfortunately, has
+been under attack from both domestic and foreign cyber
+criminals, and so it is just an ongoing, incredibly difficult
+issue to keep NASA's defenses up.
+Mr. Beyer. OK, thank you very much. And, Professor Burley,
+you know one of the challenges NASA has, obviously is that
+they're so decentralized. So many of us have NASA facilities
+near or close, and so a one size fits all is always going to be
+difficult. Are there other examples of systems, especially
+Federal systems, that are similarly decentralized that have
+been able to effectively secure their IT systems? Are there
+anybody for NASA to imitate or emulate?
+Dr. Burley. I think that the CIO from NASA would know
+better, but there are many different decentralized systems,
+both within the Federal Government and outside, that could be
+used as a guide to at least begin to think about best practices
+and other strategies for securing the networks.
+Mr. Beyer. Let me pivot to Mr. Seaton, then, quickly,
+because I know, like, Department of Commerce had 13 different
+CIOs. Do you have the same challenge within NASA?
+Mr. Seaton. Yeah. So there's one CIO, but there are center
+CIOs. They all report to me. We have a single IT strategy, and,
+for almost a decade now, we've been working to integrate and
+operate as a cohesive unit, acknowledging that there are some
+uniquenesses at our centers, but implementing consistent
+policies, and moving toward enterprise services and contracts.
+So I think we are moving in the enterprise direction very
+significantly.
+Mr. Beyer. Thank you very much. And, Madam Chair, I yield
+back.
+Chairwoman Horn. Thank you very much, Mr. Beyer. Mr.
+Garcia, you're recognized for 5 minutes.
+Mr. Garcia. Thank you, Madam Chairwoman, appreciate it,
+and appreciate the testimony and the witnesses today. Very
+exciting times for NASA, and also very challenging, with very
+unique dynamics in play here. I guess I've got a few questions,
+and probably directed to all of you, Mr. Seaton, Mr. Martin,
+and Dr. Burley. I come from a company where I was a program
+director for a large air breather program, and it was both
+classified and unclassified elements to it. One of the big
+challenges that we had as a large prime was that the classified
+elements fell under NISPOM (National Industrial Security
+Program Operating Manual) requirements, which I think were
+effectively what Chairwoman Horn was asking about on the
+classified side, as far as our compliance and requirements.
+Those requirements led to onerous costs to suppliers, and to
+the lower level supply chain folks.
+What is NASA doing, I guess, to make sure that the small
+businesses that are a critical element of your supply chain
+aren't necessarily getting overwhelmed with either
+cybersecurity requirements, or cybersecurity development work,
+software development work, and therefore almost being dissuaded
+from entering into this industry, into this support chain? Are
+we able to provide GFI, or government furnished IP (Internet
+Protocol) to make sure and flow down to the lower level
+suppliers to make sure that they're baking in some of these
+cybersecurity elements into their respective programs, or how
+do we communicate, I guess, with those lower tier supply chain
+folks? I guess, Mr. Seaton, we can start with you.
+Mr. Seaton. Sure. I will say that is a challenge. Making
+sure that all of our suppliers and providers appreciate the
+significance of cybersecurity, and are building that into the
+solutions they deliver, is a requirement of doing business
+today, right, today with supply chain risk management. Just in
+August Section 889 was enacted, that requires us to certify
+that anybody we're doing business with complies with supply
+chain restrictions that are Federal-wide. So we're working with
+our providers and suppliers to make sure they understand, and
+that they build that into their practices.
+Mr. Garcia. Yeah, I just, you know, we ought to just make
+sure we're balancing the risk mitigation efforts, which are
+absolutely critical and essential. We have to do it with the
+cost elements, and the, you know, just making sure that we're
+not driving some of these key suppliers out of business, or out
+of our industry, or out of your business, right? I know that's
+a delicate balancing act as well.
+Mr. Seaton. True. The cost of having a compromise is
+significant too, though, so you're right, it is a balancing
+act, and we'll continue to try to work.
+Mr. Garcia. Are the primes, or tier one suppliers,
+actively looking to package up programs or software, you know,
+programs to download to the lower level suppliers, or is it
+sort of ad hoc, depending on what the threat is, and what the
+threat mitigation measure is?
+Mr. Seaton. Yeah. Unfortunately, I really can't speak to
+the individual practices of the companies and suppliers.
+Mr. Garcia. OK. And then I guess just characterizing
+classified versus unclassified, are you able to speak to what
+percentage of your networks are on unclassified networks, and
+is one of the sides lagging the other? In other words, do you
+see, you know, more threats on the classified side, or fewer
+threats, but maybe more, you know, more critical impact to
+those networks? Or how would you characterize the deltas there
+between unclassed versus the high side?
+Mr. Seaton. Yes, and my office is responsible for the
+unclassified side. We work with our Office of Protective
+Services on the classified side. I can't really speak in this
+forum to kind of the division there, but I will say that
+oftentimes compromises on the unclassified side can be used to
+propagate to other systems that--and so that's a concern, even
+on the unclassified side.
+Mr. Garcia. OK, great. Yeah. And, Mr. Martin or Dr.
+Burley, I don't know if you guys care to comment on either of
+those topics there.
+Mr. Martin. We have little or no work on the classified
+side at NASA.
+Mr. Garcia. OK. That's good to know. OK. So I would just,
+you know, we hosted a small business summit with Kevin McCarthy
+as well, and with the NASA Administrator Bridenstine a couple
+of weeks ago. The cost of entry into the supply chain for all
+space programs is pretty high for some of these small
+suppliers, so I would just end with let's try to enable them,
+let's make sure we're giving them the tools to be successful
+and be able to defend not only their networks but yours,
+obviously, as your suppliers as we navigate this challenge, and
+hopefully look to synergize lessons learned and download those
+through contract requirement flow-down documents accordingly.
+So, really appreciate your guys' time, and good luck with the
+upcoming launches as well, guys, thank you. I yield back.
+Chairwoman Horn. Thank you, Mr. Garcia. And now, for the
+honorary Member of our Subcommittee, who is reliable and with
+us, Mr. Weber, you're recognized for 5 minutes. If we can get
+you unmuted. There you go.
+Mr. Weber. There we go. There's a lot of people who want
+to mute me, but nonetheless, thank you for that, Chairwoman,
+and I appreciate the opportunity of being here. You actually
+asked a question to Mr. Seaton earlier, I think, about how many
+intrusion attempts per month that NASA identified last year,
+and I want to kind of follow up on that by saying how does that
+compare, Mr. Seaton, to the intrusion attempts per month this
+year during COVID? Are you making a distinction there?
+Mr. Seaton. Yeah, so--not that direct comparison, and we
+see fluctuations based on our insight, and that insight, as I
+mentioned, is increasing, so sometimes that is the cause for a
+higher number. But we have seen an increase in phishing attacks
+and malware attacks at various times throughout the pandemic.
+That hasn't been steady, it's been fluctuating.
+Mr. Weber. Any idea or guess, 10 percent, 20 percent, five
+percent, increase?
+Mr. Seaton. At one point, over a given period of time, we
+saw a doubling of phishing attacks, but, again, there have been
+other weeks where it's been lower. So I do think, because of
+the pandemic, people are looking for the opportunity to attack,
+and will continue to.
+Mr. Weber. Well, there's been a lot of discussion about,
+you know, having personal devices, and being at home, and those
+kinds of security firewalls, if you will. And if it's sensitive
+information, I know you said you worked with the FBI and some
+of their forces, or task force, I forget the terminology you
+used, that sensitive information, if you could get it to us, it
+would be interesting for us to have, get it to my staff. And I
+want to follow up in your discussion with Mr. Garcia. You all
+talked about, well, before I do that, let me go to Mr. Martin
+really quick.
+Mr. Martin, understanding that this hearing is supposed to
+be merely focused on cyber threats during COVID, since you're
+here with us, I thought it'd be appropriate to discuss some of
+the things we've been talking about with China, for example.
+Intellectual property threats to the aerospace U.S. supply
+chain, you all talked about it a little bit, I think, with Mr.
+Garcia. During this week's Air Force Association Aerospace and
+Cyber Conference it was revealed that a longtime DOD
+(Department of Defense) and NASA launch provider, UL Lab,
+proactively, I don't know if you're familiar with this,
+proactively identified and cut ties with the supplier that was
+a security risk due to Chinese ownership. Were you aware of
+that, Mr. Martin?
+Mr. Martin. I was not, Congressman.
+Mr. Weber. OK. Well, in comments earlier, I think I'll go
+back to Mr. Seaton, with his exchange with Garcia, he said he
+couldn't speak to suppliers or speak for the suppliers. Is that
+what you were saying to Mr. Garcia?
+Mr. Seaton. I said that I could not speak to how they were
+structuring their business operations to meet the Federal
+requirements.
+Mr. Weber. Shouldn't that be something that we're looking
+at? I mean, I don't mean to sound too skeptical, but shouldn't
+NASA and actually, all of our U.S. space and defense companies
+should be taking a proactive posture to know exactly what
+safeguards are in place for a supply chain?
+Mr. Seaton. Totally agree. So how they go about doing it,
+is what I'm saying, that we're not in their business
+operations. Validating that they are complying with the
+requirements is something that we've been doing for years with
+our supply chain risk management efforts, ensuring the things
+that we buy are free of risks through coordination with the
+FBI, and now making sure that, even within their organizations,
+they do not have IT equipment provided by prohibited providers.
+So, yes, we are actively involved in ensuring that level of
+compliance.
+Mr. Weber. Well, you say how they go about it you're not
+necessarily involved in, but shouldn't there be some level of
+protocol, for lack of a better term, some threshold, some
+safeguard, they have to meet minimum safeguards, and somebody
+has to be looking over their shoulder in that regard? Is that
+fair to say?
+Mr. Seaton. Yeah. Again, compliance with our cybersecurity
+requirements is absolutely critical, and that is our
+responsibility. How they--their business practices is what I'm
+saying that we are not getting in the middle of.
+Mr. Weber. Would you say that, in this particular
+instance, where that supplier was identified, that it would be
+worthwhile to go back and see exactly how that happened, how
+that supplier got the proverbial camel's nose under the tent?
+Mr. Seaton. I think it's in the Federal Government's best
+interest to understand where vulnerabilities emanate from, so,
+certainly.
+Mr. Weber. Whose responsibility is that?
+Mr. Seaton. I think it's a shared responsibility.
+Mr. Weber. Between who?
+Mr. Seaton. Between the Federal agencies that are
+responsible for our cybersecurity policy, as well as an agency
+that would be interacting with a specific provider.
+Mr. Weber. Is that something you could follow up with our
+office on, and tell us who those agencies are, and who has
+responsibility for that agency? And I'm talking about
+addressing this particular instance, and how it was discovered,
+and how we got there, and what steps are going to be taken to
+prevent similar occurrences. Can you follow up with us on that?
+Mr. Seaton. Certainly. We'll take that as a question for
+the record, yes.
+Mr. Weber. OK. Well, I appreciate that. Madam Chair, I
+yield back.
+Chairwoman Horn. Thank you very much, Mr. Weber.
+Appreciate your questions, and, as always, your participating
+in the Subcommittee. I think--I have a few more questions I
+want to follow up with, and we'll have an opportunity for the
+Members to do another round of questions, if everyone is
+available to stay, since we're still--we still have time.
+I have--I want to follow up on a couple of things, going
+back to some of the earlier questions about--one about the
+unauthorized devices, or personal devices, and then I do want
+to follow up Mr.--on Mr. Weber's line of questions a little bit
+more. Mr. Martin, the August 2020 IG report on unauthorized
+devices, which was of course just this year, on NASA's network
+cites CIO's office, saying that there--currently no
+authoritative way to obtain the number of partner-owned IT
+devices. And I know, Mr. Seaton, you mentioned that you're not
+allowing that anymore, but it seems that that's still
+happening. So, Mr. Martin, I'm wondering what the risks are of
+not being able to identify, and why that may be the case, from
+your perspective, in this report? And then, Mr. Seaton, I want
+to follow up with you about what NASA's doing to improve its
+understanding and insight into those devices. So, Mr. Martin,
+if you want to start with that?
+Mr. Martin. Sure. If I could say at the outset, NASA--as I
+said in my oral remarks, NASA has been searching for that
+balance between user flexibility and system security, and
+during the 10 years that I've been at NASA, it has somewhat
+wildly lurched from those extremes. I remember early on, a
+number of years ago, where they had a BYOD policy, which was a
+bring your own device policy, and that's how sort of forward
+leaning NASA was about allowing employees, and even
+contractors, to use their personal devices.
+Now, in the last couple years, NASA has taken a much more
+measured approach, and have focused recently, but there are
+still gaps that remain in the security of these mobile devices.
+So, as you indicated, in the report that we issued just last
+month, they have implemented software, but they haven't fully
+implemented the controls to remove or block devices from NASA
+systems that shouldn't be on that NASA system. And they're also
+not adequately monitoring the business rules for granting
+access with a personal device to NASA's network. They're not
+enforcing consistently the business need for that, and they're
+also not ensuring that each of the mobile devices, the personal
+mobile devices that connect to the system, don't violate supply
+chain rules.
+Chairwoman Horn. OK. Thank you very much, Mr. Martin. Mr.
+Seaton, I know you've taken steps in that direction. Can you
+speak to, I know there's been a delay, but the--what you're
+doing, what NASA's doing, to address these holes? It sounds
+like you've made progress, but what are--what is NASA and what
+is the CIO doing to address these other outstanding issues?
+Mr. Seaton. Sure. Actually, as an agency, I believe--I
+think we have been a leader in implementing the--DHS's
+continuous diagnostic and mitigation program, where CDM phase
+one identified what was on the network, and so we had tools in
+place to automatically detect what's on the network. Phase two,
+which we are in the middle of implementing right now, is
+controlling who is on the network, and that gets to the network
+access control element that Mr. Martin spoke of. And, again, I
+think in the--we will in the coming year, be able to enable
+those controls to be able to have a technology-based way to
+enforce the policy that has been issued by my office.
+Chairwoman Horn. Thank you very much. And, just following
+up on a couple of Mr. Weber's questions, in terms of the
+insight, getting back to the--some of the first questions about
+contractor requirements, and how we control for suppliers and
+information, there's a balance between overly burdensome
+requirements and the opportunity for bad actors to influence or
+to gain access, and I'm wondering, Mr. Martin, what you see as
+potential authorities that NASA may need to be able to have
+additional insight, or control, or contracting provisions to
+ensure that there's compliance all the way up and down the
+supply chain. Is it with the primes, or are there other
+provisions that may be needed?
+Mr. Martin. I'm actually going to answer that question by
+focusing in house on NASA. We have commented for the last--we
+did an audit in 2014, and a follow-up in 2017, and one of our
+concerns was just how NASA is structured, where--is Jeff, or
+whoever's sitting in the CIO's position, doesn't have full
+insight into all of NASA's systems. In fact, doesn't have full
+control over the IT spend, and enforcing the IT security
+requirements, particularly in mission systems and center
+systems. Jeff and his colleagues have full control over what's
+known as the institutional systems, but they make up about 25
+or 30 percent of NASA's overall budget, so the lack of insight
+and oversight wielding the stick that controls the money on the
+end of it is a real governance issue.
+Chairwoman Horn. Thank you very much, Mr. Martin. And, Mr.
+Seaton, do you want to speak to that quickly? It sounds like
+you need--to be able to do that you need additional
+authorities, or insight and oversight.
+Mr. Seaton. Actually, I think that that has been changing.
+I sit on the Agency Program Management Council, the Mission
+Support Council, and the Acquisition Strategy Council as a full
+member, so I have insight into major agency decisions, and the
+administration fully supports the programs and plans that we're
+putting in place, and then the collaboration with the missions
+to ensure their systems are secure, where we now have much more
+widespread, effective, consistent approaches to authorities to
+operate. And I've been working with the Council of Deputies
+within NASA to ensure that we have the appropriate mission
+leadership, senior executives, designated as authorizing
+officials for those mission systems. So I do think we're making
+significant progress, excuse me.
+Chairwoman Horn. Thank you very much, Mr. Seaton. Mr.
+Babin, you're recognized for 5 minutes. Do you have more
+questions?
+Mr. Babin. Yes. Can you hear me? OK, thank you. I do have
+some more questions. I wanted to address this to all the
+witnesses, if possible. How many intrusion attempts per month
+did NASA identify last year? How does that compare to the
+intrusion attempts per month this year, during COVID? And if
+this information is sensitive, please provide a response to the
+staff after the hearing concludes.
+Mr. Seaton. Yeah. If I could take the specifics as a
+question for the record, but I can speak in more general terms.
+As I mentioned before, I think the measurement of intrusions
+continues to fluctuate based on our insight into the network,
+and that has increased. So, in some cases, where we see an
+increase in intrusions, it's because we're seeing more of
+what's happening, and we're to the point now we've got, I
+think, a pretty solid visibility into our network today. But
+then a comparison of specific month by month, we'll have to
+take that and get back to you.
+Mr. Babin. OK. All right. Thank you. I think I will yield
+back for Madam Chair.
+Chairwoman Horn. Thank you very much, Mr. Babin. Mr.
+Beyer, you're recognized.
+Mr. Beyer. Madam Chair, I have no more questions. I keep
+learning, but I yield back.
+Chairwoman Horn. Excellent. Thank you. Mr. Garcia?
+Mr. Garcia. Thank you, Madam Chair. Just a real quick
+question. You know, the old adage that the best defense is a
+good offense is kind of appropriate here. Mr. Seaton, are you
+happy with the support that you're getting form other
+government agencies? In terms of the development at a national
+level we develop offensive cyber capabilities. That informs
+your defensive cyber techniques and vulnerabilities. Are you
+comfortable and satisfied with the communications, I'll just
+say, to other government agencies that should be informing you
+as to where the state-of-the-art is going, in terms of
+offensive cyber capabilities which may, you know, be in the
+hands of the bad guys, and be within our own domestic networks?
+If not, where can we help to maybe, you know, improve your
+ability to leverage the developments of other equities outside
+of NASA?
+Mr. Seaton. Yeah, I think the administration's been very
+supportive of our need to continue with the appropriate focus
+on cybersecurity, and I think that NASA has effective
+relationships with our counterparts that can provide us
+counterintelligence information, as well as, you know, best
+practices on cybersecurity, the Federal CIO Council, the CIOs
+across the Federal agencies engaging to share information is
+another effective mechanism for that information sharing.
+Mr. Garcia. OK. So the historical, I'll call it just
+historical evidence over the last call it two years, though,
+have there been any surprises, I guess, from the threats where
+it was a completely unknown rider coming in through an unknown
+technique or vulnerability that really hadn't been discussed? I
+know that there's sensitivities around how much you can say
+here, but, you know, any sort of unknown riders that just
+completely caught you off guard that we ultimately found out
+another equity throughout the government maybe had been aware
+of?
+Mr. Seaton. Yeah. I think, because of the dynamic
+landscape, we're going to face surprises. We want to minimize
+those, right?
+Mr. Garcia. Sure, sure. Yeah.
+Mr. Seaton. But I will say that there have been times when
+other agencies have observed activity, and contacted NASA, and
+then we would partner on that. So, again, I think the
+communication mechanism--mechanisms are there.
+Mr. Garcia. That's good. Well, that's encouraging to hear.
+A lot of these lessons learned have been learned, you know,
+several times before, so we can avoid duplication of lessons
+learned, especially in this cyber domain. That's a huge benefit
+to you guys.
+Mr. Seaton. Certainly.
+Mr. Garcia. Thank you. I yield back, Madam Chair.
+Chairwoman Horn. Thank you very much, Mr. Garcia, and
+thank you to all of our Members for their thoughtful,
+intentional questions, and to all of our witnesses. It's clear
+that these are critically important issues that NASA is facing,
+as well as some important lessons learned during COVID-19, as
+Dr. Burley stated, that these are not normal times, so our
+strategies during COVID-19 are important, but also inform
+cybersecurity more broadly. And I think that it sounds as--that
+NASA is making progress, but that, as a--as the authorizing
+Committee, we want to ensure that you have sufficient
+authorities and funding capabilities to have strong
+cybersecurity practices and protocol in place, and we continue
+to move forward with the recommendations and implementations
+from the GAO, and other strategies that ensure not just the 25
+percent that you have authority--direct authority over, but the
+contractors, especially given some of the things that we have
+seen.
+So, unless any of our Members have further questions,
+we'll bring this hearing to a close today. I want to thank
+again the witnesses for your testimony, and for your time, and
+for what you do. The record will remain open for 2 weeks for
+additional statements from the Members, and additional
+questions of the Committee, or that the Committee or Members
+may ask of the witnesses. Thank you all again for your time.
+The witnesses are excused, and the hearing is now adjourned.
+Thanks, everybody.
+[Whereupon, at 12:20 p.m., the Subcommittee was
+adjourned.]
+
+Appendix
+
+----------
+
+Answers to Post-Hearing Questions
+
+Answers to Post-Hearing Questions
+
+Responses by Mr. Jeff Seaton
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Responses by the Honorable Paul K. Martin
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Responses by Dr. Diana L. Burley, Ph.D.
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

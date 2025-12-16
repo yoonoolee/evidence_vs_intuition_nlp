@@ -1,0 +1,1483 @@
+- OVERSIGHT OF IT AND CYBERSECURITY AT THE DEPARTMENT OF VETERANS AFFAIRS
+
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+
+OVERSIGHT OF IT AND CYBERSECURITY AT THE DEPARTMENT OF VETERANS AFFAIRS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FIFTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+DECEMBER 7, 2017
+
+__________
+
+Serial No. 115-59
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://oversight.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-246 PDF                  WASHINGTON : 2018
+
+----------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+Committee on Oversight and Government Reform
+
+Trey Gowdy, South Carolina, Chairman
+John J. Duncan, Jr., Tennessee       Elijah E. Cummings, Maryland,
+Darrell E. Issa, California              Ranking Minority Member
+Jim Jordan, Ohio                     Carolyn B. Maloney, New York
+Mark Sanford, South Carolina         Eleanor Holmes Norton, District of
+Justin Amash, Michigan                   Columbia
+Paul A. Gosar, Arizona               Wm. Lacy Clay, Missouri
+Scott DesJarlais, Tennessee          Stephen F. Lynch, Massachusetts
+Blake Farenthold, Texas              Jim Cooper, Tennessee
+Virginia Foxx, North Carolina        Gerald E. Connolly, Virginia
+Thomas Massie, Kentucky              Robin L. Kelly, Illinois
+Mark Meadows, North Carolina         Brenda L. Lawrence, Michigan
+Ron DeSantis, Florida                Bonnie Watson Coleman, New Jersey
+Dennis A. Ross, Florida              Stacey E. Plaskett, Virgin Islands
+Mark Walker, North Carolina          Val Butler Demings, Florida
+Rod Blum, Iowa                       Raja Krishnamoorthi, Illinois
+Jody B. Hice, Georgia                Jamie Raskin, Maryland
+Steve Russell, Oklahoma              Peter Welch, Vermont
+Glenn Grothman, Wisconsin            Matt Cartwright, Pennsylvania
+Will Hurd, Texas                     Mark DeSaulnier, California
+Gary J. Palmer, Alabama              Jimmy Gomez,California
+James Comer, Kentucky
+Paul Mitchell, Michigan
+Greg Gianforte, Montana
+
+Sheria Clarke, Staff Director
+Robert Borden, Deputy Staff Director
+William McKenna General Counsel
+Sean Brebbia, Senior Counsel
+Kiley Bidelman, Clerk
+David Rapallo, Minority Staff Director
+------
+
+Subcommittee on Information Technology
+
+Will Hurd, Texas, Chairman
+Paul Mitchell, Michigan, Vice Chair  Robin L. Kelly, Illinois, Ranking
+Darrell E. Issa, California              Minority Member
+Justin Amash, Michigan               Jamie Raskin, Maryland
+Blake Farenthold, Texas              Stephen F. Lynch, Massachusetts
+Steve Russell, Oklahoma              Gerald E. Connolly, Virginia
+Raja Krishnamoorthi, Illinois
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on December 7, 2017.................................     1
+
+WITNESSES
+
+Mr. David A. Powner, Director, IT Management Issues, U.S.
+Government Accountability Office
+Oral Statement...............................................     4
+Written Statement............................................     6
+Mr. Scott Blackburn, Acting Chief Information Officer, Department
+of Veterans Affairs
+Oral Statement...............................................    39
+Written Statement............................................    41
+Mr. Bill James, Deputy Assistant Secretary for the Enterprise
+Program Management Office, U.S. Department of Veterans Affairs
+Oral Statement...............................................    58
+Mr. John Windom, Program Executive for Electronic Health Records
+Modernization, U.S. Department of Veterans Affairs
+Oral Statement...............................................    58
+Mr. Dominic Cussatt, Chief Information Security Officer,
+Department of Veterans Affairs
+Oral Statement...............................................    74
+
+APPENDIX
+
+Ranking Member Kelly Opening Statement...........................    78
+Mr. Connolly Opening Statement...................................    80
+GAO Chart submitted by Chairman Hurd.............................    82
+
+OVERSIGHT OF IT AND CYBERSECURITY AT THE DEPARTMENT OF VETERANS AFFAIRS
+
+----------
+
+Thursday, December 7, 2017
+
+House of Representatives,
+Subcommittee on Information Technology,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittee met, pursuant to call, at 2:38 p.m., in
+Room 2154, Rayburn House Office Building, Hon. Will Hurd
+[chairman of the subcommittee] presiding.
+Present: Representatives Hurd, Amash, Gianforte, Kelly,
+Lynch, Connolly, and Krishnamoorthi.
+Mr. Hurd. The Subcommittee on Information Technology will
+come to order. And without objection, the chair is authorized
+to declare a recess at any time.
+Good afternoon. Thank you for being here today.
+Seventy-six years ago to the day, Japan launched a sneak
+attack on the U.S. naval base at Pearl Harbor. By the time the
+sun had set on that infamous day, 2,335 U.S. servicemen had
+been killed and 1,143 had been wounded. The next day, the
+United States of America declared war on Japan. Three days
+later, the world was at war. Over 16 million Americans
+eventually served in that war, the so-called war to end all
+wars. There are only around 624,000 World War II veterans left.
+Most are in their 90s. I want to take this opportunity today to
+thank all of them for their service and their courage.
+Sadly, that war did not end all wars. In 2016, Gulf War
+veterans became the largest group of veterans at over 7
+million. The total number of veterans enrolled in VA's
+healthcare system rose from 7.9 million to almost 9 million for
+fiscal year 2006 through fiscal year 2016. The total veteran
+population currently stands at 20 million people, 20 million of
+our fellow citizens who are willing to put their lives on the
+line for this country and for the rest of us. And for that
+sacrifice, we should honor our promise to provide them with
+world-class health care.
+But the modernization of the VA's legacy technology has
+been a persistent concern that is affecting millions of
+veterans. A veteran should be able to go from active duty on
+base to the VA to a private-sector provider seamlessly. The
+health records should be available and up-to-date no matter
+where the veteran chooses to get health care. A fully
+functional modernized healthcare information system is the
+goal, and today, we are going to talk about some of the
+specifics on how the VA will modernize and upgrade its
+information systems and how we can learn from past mistakes so
+that this time it is going to be a success.
+But let's be honest. There is not a track record of
+successes here. As a result of a GAO review requested by this
+committee back in May of 2016, we have learned that during
+fiscal years 2011 to 2016, VA obligated about $1 billion for
+previous VistA modernization contracts. Seven hundred and forty
+million went to 15 key contractors. Without objection, I would
+like to enter into the record a chart from GAO that lists the
+15 contractors and the amount they received to work on VistA
+modernization and interoperable electronic health records. So
+moved.
+Mr. Hurd. On that list of 15 contractors is the Cerner
+Corporation, which was recently chosen by the VA to provide an
+electronic health record that will be interoperable with the
+Department of Defense and then ultimately be interoperable with
+the private sector. Also on the list are the Mitre Corporation
+and Booz Allen Hamilton. According to the GAO, these companies
+have been awarded program management contracts to develop
+planning and support for the electronic health record
+modernization effort.
+Given the amount of money spent on VistA modernization, the
+lack of return on that investment, we have concerns about this
+rollout. It needs to succeed. The whole country is rooting for
+the VA to succeed. Previous initiatives to modernize VistA and
+to develop and interoperable electronic health record with the
+Department of Defense have been full of missed deadlines, cost
+overruns, and failures to produce. According to the GAO, from
+2011 to 2016, the VA spent about $1 billion for contractors'
+activities on their health information technology systems.
+Additionally, veterans have had difficulties with
+scheduling appointments for far too long. The VA has been
+trying and failing to develop a scheduling system that is
+compatible with VistA since 2000. That is 17 years spent
+working on developing a scheduling system. It is a whole lot of
+money, a whole lot of time, and very little to show for it.
+VA Secretary Shulkin has said that the VA, and I quote,
+``should focus on the things veterans need us to focus on and
+work with companies who know how to do this better than we
+do,'' end of quote. The Secretary is absolutely right. The
+technology and tools to improve the VA's technology and
+cybersecurity exist. What is required is strong leadership at
+the VA to make the tough decisions about pursuing that
+technology. Our veterans deserve a state-of-the-art scheduling
+system, they deserve an interoperable and longitudinal
+electronic health record, and they deserve good quality
+information technology at the agency that exists to serve the
+ones who served.
+I am looking forward to our hearing today. I am looking
+forward to hearing from our witnesses about the future of
+modernization, improvement, and technology at the VA.
+Mr. Hurd. And now, as always, it is my pleasure to
+recognize my friend Robin Kelly for her opening statement.
+Ms. Kelly. Thank you, Mr. Chairman.
+Information technology is critical to improving the service
+and performance of the Federal Government. This is especially
+true at the Department of Veterans Affairs, which is one of the
+largest integrated healthcare systems in the United States,
+serving millions of veterans and their families. The VA's goal
+for modernizing its healthcare IT is full of interoperability,
+which would allow seamless sharing of health information
+between the VA and the Department of Defense, as well as
+private healthcare providers.
+The VA is now in its fourth attempt since 2001 to modernize
+its healthcare IT system. The record has not been good. The VA
+abandoned two earlier attempts at spending billions of dollars.
+This summer, the VA announced that it would scrap its third
+attempt in favor of acquiring the same healthcare IT system as
+the DOD. I do not know what we should make of that since the VA
+previously abandoned the same approach four years ago.
+Chairman Hurd and I requested that GAO examine the VA's
+modernization efforts because of these red flags. We discovered
+that, right now, the VA is relying on 138 contractors to help
+it modernize. Some of them are the very same contractors VA had
+hired and fired after their previous attempts had failed. In
+fact, 34 through 38 repeat contractors make up about $793
+million of the $1.1 billion of the contractual obligations
+related to modernization between fiscal years 2011 through
+2016. This raises serious concerns. Every change in strategy
+delays actually modernizing and makes it harder on veterans who
+rely on the agency for health care. We need to understand
+whether these changes are justified.
+I want to hear today what the agency is doing to hold this
+army of contractors accountable. I also want to hear about the
+progress made toward its interoperability and improving the
+ability to track patient outcomes. Getting these efforts right
+and improving VA operations and information security are
+essential to regaining the trust and confidence of the American
+public that the VA is taking care of our nation's veterans.
+Thank you so much. Thank you for being here, and thank you,
+Mr. Chair.
+Mr. Hurd. The gentlelady yields back.
+And I now am pleased to introduce our witnesses: Mr. Scott
+Blackburn, acting chief information officer at the VA; Mr.
+Dominic Cussatt, is that correct, sir? He is the CISO at the
+Department of Veterans Affairs, the chief information security
+officer; Mr. Bill James, the deputy assistant secretary for the
+Enterprise Program Management Office at the Department of
+Veterans Affairs; and Mr. John Windom, program executive for
+Electronic Health Records Modernization at the Department of
+Veterans Affairs; and the person that wins the award for most
+times testifying in front of OGR, Mr. David Powner, director of
+IT Management Issues at the U.S. Government Accountability
+Office.
+Welcome to you all. And pursuant to committee rules, all
+witnesses will be sworn in before you testify, so please rise
+and raise your right hand.
+[Witnesses sworn.]
+Mr. Hurd. Thank you. Please let the record reflect that all
+witnesses answered in the affirmative.
+And in order to allow time for discussion, please limit
+your testimony to five minutes. I recognize there are only can
+be two statements. And your entire written statement is going
+to be made part of the record. As a reminder, the clock in
+front of you shows your remaining time. The light will turn
+yellow when you have 30 seconds left, and the red when your
+time is up. Please also remember to press the button to turn
+your microphone on before speaking.
+We are going to actually start with Mr. Powner. Mr. Powner,
+it is always a pleasure to have you here, sir. No-shave
+November is over, just for the record. And you are now
+recognized for five minutes, sir.
+
+WITNESS STATEMENTS
+
+STATEMENT OF DAVID A. POWNER
+
+Mr. Powner. Chairman Hurd, Ranking Member Kelly, and
+members of the subcommittee, thank you for inviting GAO to
+testify on VA's FITARA progress and their efforts to modernize
+their aging electronic health records system.
+Technology can help make improvements so that ultimately
+our veterans will face shorter wait times to schedule care,
+receive higher-quality care, and have claims processed quicker
+and more accurately. The Department will spend over $4 billion
+on IT this year. That makes them the fifth-highest IT spender
+in the government. Of the $4 billion, only about $360 million
+goes towards developing or acquiring new systems. The remaining
+goes towards operational systems and payroll. Many of these
+operational systems are old, inefficient, and difficult to
+maintain. In addition to its 30-plus-year-old medical
+information system known as VistA, VA has an accounting system
+and a claims processing system that are both more than 50 years
+old.
+In 2015, GAO added two new areas to our high-risk list:
+managing VA health care and managing IT acquisitions and
+operations, which both highlight concerns with VA's IT
+management, including past failures where hundreds of millions
+of dollars were wasted.
+Turning to VA's FITARA progress, VA has historically done a
+good job planning for incremental development and continues to
+do so. Also to their credit they are only one of seven agencies
+to have a complete software license inventory. The area that
+needs the most work is data center optimization. VA has closed
+about 40 of its 415 centers, saved just over $20 million, and
+reports meeting one of OMB's five optimization metrics. Their
+closure savings and optimization metrics all fall short of
+OMB's goals. VA needs to consider more comprehensive data
+center optimization strategy that coincides with their new
+approach of reducing the 130 instances of VistA.
+Now turning to the EHR modernization initiative, I will
+briefly summarize the work we did for you looking at
+contractors involved in previous VA EHR efforts, current plans
+for the new approach, and suggestions for success moving
+forward. My written statement provides details on specific
+contractors and the amounts obligated to VA's EHR efforts over
+the previous six years.
+Here are the highlights: VA obligated approximately $1.1
+billion to 138 contractors between 2011 and 2016. About $740
+million or almost 70 percent of this went to 15 contractors.
+Clearly, we did not get the return needed to modernize
+electronic health records with these previous efforts, but
+that's water over the dam. What's important now is how can we
+improve contractor oversight, performance, and delivery with
+the new effort. The decision by Secretary Shulkin in June to go
+with the same commercial electronic health records system as
+DOD is a good one. Contract award is expected this month. Plans
+are to follow within 90 days, and we understand that initial
+deployment is expected within 18 months with subsequent
+deployments to occur over the next 10 years.
+This is a massive undertaking, and I'd like to mention five
+keys to success. One, continuity of leadership and Executive
+Office of the President involvement. This continuity includes
+the Secretary, CIO, and others. Of particular concern is VA's
+CIO tenure, which is less than two years. They have had nine
+CIOs since 2004. Since leadership change is inevitable, having
+White House involvement could help mitigate setbacks associated
+with this. The current administration has several EOP offices
+whose involvement can help with this important acquisition.
+This includes the Office of Innovation and the American Tech
+Council. We also think that the Federal CIO's involvement is
+important.
+Number two, governance in building a robust Program
+Management Office. We understand that both interagency
+governance is planned, as is governance run by VA's Deputy
+Secretary. In addition, it is important that the PMO ensure
+better collaboration between the Veterans Health Administration
+and the CIO shop than has occurred historically. Also, this PMO
+needs to have a strong focus on contract management to ensure
+that contractors have high levels of productivity, quality, and
+delivery.
+Number three, business change management. A major issue
+with Federal agencies adopting commercial products is their
+unwillingness to change their business processes. This is
+definitely a high-risk area for VA.
+Number four, leveraging lessons from DOD. Since DOD is
+ahead of VA, learning from their experience is essential.
+And lastly, number five, building in appropriate cyber
+security measures. VA's FISMA audit shows several cyber areas
+that need strengthening. Many of these are extremely important
+to the new EHR acquisition, including controls associated with
+network security and controls for monitoring systems hosted by
+contractors.
+Mr. Chairman, this concludes my statement. I look forward
+to your questions.
+[Prepared statement of Mr. Powner follows:]
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, sir.
+Mr. Blackburn, I have been advised you are going to speak
+for the entire VA team. You are now recognized for five
+minutes. Welcome.
+
+STATEMENT OF SCOTT BLACKBURN
+
+Mr. Blackburn. Will do. Chairman Hurd, Ranking Member
+Kelly, members of the subcommittee, thank you very much for the
+opportunity to discuss OIT transformation with an emphasis on
+IT modernization, cybersecurity, FISMA and FITARA compliance,
+and the electronic health record management initiative.
+I'm accompanied by Mr. James, Mr. Cussatt, and Mr. Windom,
+and then also available to answer questions behind me as Mr.
+John Short, executive director of Information Technology
+Systems Modernization.
+Also, thank you all for the opportunity to meet with you
+one-on-one. The feedback we received was very positive, very
+constructive, and we really appreciate that. We especially
+appreciate your interest to help ensure we get the electronic
+health record modernization effort off on the right foot, along
+with other pressing VA matters.
+VA is in the midst of a turnaround. Trust was broken in
+2014, and helping re-earn that trust is why I left the private
+sector to join the VA in November of 2014. This is personal to
+me as a disabled veteran and as one of five siblings who are
+all either veterans or still serving today in uniform.
+Our first quarterly survey to measure veteran trust two
+years ago revealed that only 47 percent of veterans said that
+they trusted the VA to fulfill our country's commitment to
+veterans. Today, that number is 69 percent with an uptick in
+each of the last seven quarters. OIT has played a major role in
+that improvement. And while 69 percent is great compared to
+where we started, that still means that 31 percent of veterans
+do not trust VA, which means we still have a long way to go,
+and OIT will play an even more important role closing that gap.
+We have a comprehensive IT modernization plan, which is the
+foundation for reducing reliance on the VA legacy systems. We
+will leverage modern technology such as telehealth, cloud,
+robotics, machine learning, mobile, digital services, and
+blockchain. We will stop or migrate 240 of our 299 current
+projects and leverage a buy-first strategy, getting us out of
+the software development business and ensuring we are
+positioned to manage the influx of new technologies and
+innovations.
+I'd like to highlight four areas which align with the
+Secretary's priorities. Number one, the selection of the new
+electronic health record is a major step for VA. A veteran will
+have one single longitudinal lifetime medical record. That
+means a single common system from the time of enlistment or
+commission throughout their service and the remainder of their
+life as a veteran. We realize implementing Cerner Millennium
+across the country's largest integrated healthcare system will
+not be easy, but we strongly believe it is the right thing to
+do. Our new electronic health records system will enable VA to
+keep pace with the improvements in health IT and cybersecurity,
+which the current system VistA is unable to do. Continuing to
+maintain VistA is costly. Transition solutions for nearly all
+VistA modules have been identified with the majority to be
+replaced by the Cerner solution.
+Number two, modernizing our scheduling systems is something
+I am extremely passionate about as a veteran who's received
+treatment at the Washington, D.C., VA Medical Center. This is
+an area where we have made improvements, but much more must be
+done.
+Number three, another OIT commitment is modernizing the
+legacy COBOL-based financial management system to standardize
+and improve accounting and acquisition services.
+And number four involves our benefits delivery network,
+BDN, and modernizing BDN will ensure that VBA-wide--that's our
+benefits administration--wide monthly payment and processing of
+4 million checks remains feasible and that veterans receive
+benefits quickly.
+Additionally, VA cybersecurity program enables data
+protection in the face of threats and is committed to
+safeguarding veteran information. We have recently achieved
+various program capability and policy milestones to advance
+cybersecurity to include just a few hours ago receiving from
+the Federal CIO this memo closing 11 open cyber stat activities
+with OMB.
+VA received a B-plus grade from your FITARA scorecard, and
+while we are proud of that score, we acknowledge that our data
+center consolidation, as Mr. Powner noted, is nowhere near
+where it needs to be, and we are working to fix it. The
+establishment of an OIT-based strategic sourcing division will
+ensure FITARA compliance for all IT acquisitions.
+Thank you again, Chairman and Ranking Member, for the
+opportunity to discuss OIT's transformation efforts. As a note,
+if there are any questions that are acquisitions-sensitive to
+our EHR efforts, we will not be able to discuss those in a
+public session, but we can provide those--that information to
+you in a closed session at a later date.
+Ensuring a safe and secure environment for veteran
+information and improving their experiences our goal. I look
+forward to your questions.
+[Prepared statement of Mr. Blackburn follows:]
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Hurd. Thank you, Mr. Blackburn.
+And before we turn to Mr. Gianforte for the first round of
+questions, Mr. Cussatt, we know what a CISO does. Mr. James and
+Mr. Windom, can I get you all to explain to the committee what
+your exact role is, who you report to directly? Just take 30
+seconds.
+Mr. James. Yes, Chairman, thank you. The Enterprise Program
+Management Office inside the CIO's organization at the VA,
+we're the control tower for all of the projects, the ongoing
+projects with the exception of the EHR project, which has its
+own BEO. So we track all the project's costs, schedule
+performance that are ongoing today in the IT organization.
+Mr. Hurd. And who is your direct supervisor?
+Mr. James. Scott Blackburn, sir.
+Mr. Hurd. Got you. Mr. Windom?
+Mr. Windom. Sir, recently retired, Captain John Windom, 33
+years United States Navy. I was a program manager that oversaw
+the DOD successful acquisition of the Cerner Millennium
+product. I was brought over in uniform about six months ago at
+the request of Secretary Shulkin from Secretary Mattis to kick
+off if you will the DNF activities and negotiations with
+Cerner. I've been leading that and now in a retired capacity as
+a--as the executive overseeing the entire electronic health
+record modernization, direct report to the Deputy Secretary,
+and so he is who I consider my boss.
+Mr. Hurd. Well, welcome. It is good to have you here.
+Mr. Windom. Thank you.
+Mr. Hurd. It is a mess, and we are glad we have you on
+board to work on this project.
+Mr. Windom. Great to be here, sir.
+Mr. Hurd. The distinguished gentleman from Montana is now
+recognized for five minutes.
+Mr. Gianforte. Okay. Thank you, Mr. Chairman. I want to
+thank each of you for being here. This is a critically
+important topic for us to be discussing. In Montana, we are the
+second-largest per capita of citizens that have served in the
+military. And as I travel the State, the number-one issue I
+hear is health care from the VA in every single meeting, so I
+appreciate you being here.
+And in a rural State like Montana, it can take hours to
+drive to a VA hospital or clinic, so scheduling becomes
+extremely important, particularly advanced notice. It could
+take three days to go to an appointment and come back again.
+So, as we have heard, clearly we can do better, and I
+appreciate your efforts in that regard.
+I come from a software background. I have done literally
+thousands of enterprise-class deployments. One particular one
+was for the Air Force Personnel Center. It was their entire
+records systems for processing all the stuff, so have some
+experience. And that handled all active-duty and all retired
+Air Force personnel, so it was of some scale.
+You have shared that this new Cerner system, Mr. Blackburn,
+will be $10 billion and 10 years to complete. Is that correct?
+Mr. Blackburn. That's correct, sir.
+Mr. Gianforte. Okay. I haven't been through a lot of sales
+cycles on the software side. If I had walked into a boardroom
+and asked for $10 billion and 10 years before we could get a
+system deployed, honestly, I would have gotten laughed out of
+the boardroom. It is difficult to fathom it could take that
+long. And comparing my own experience with the Air Force system
+that we deployed, granted, the entire VA is larger, but what
+you are proposing is not 10 times more expensive, it is not 100
+times more expensive, it is 1,000 times more expensive, three
+orders of magnitude, which provides some level of sticker
+shock.
+Where I want to focus my questioning, Mr. Blackburn, is
+just on what steps you are taking to minimize the cost and get
+functionality in the field so that we can retire this VistA
+system and move on. So the first area I want to speak about is
+just customization of applications. When large enterprise-class
+applications are customized, they tend to become brittle.
+Integrations don't work as well. What percentage--and one
+measure of that is how much of the total fee is going into
+customization versus licenses versus operation and maintenance.
+Can you share with me a little bit of how that $10 billion
+breaks out between license and customization?
+Mr. Blackburn. Well, first of all, thank you for the one-
+on-one time. That was very productive, and I really appreciate
+it.
+This is going to be the largest implementation of a
+healthcare system, EHR, ever, and it's going to be a really big
+undertaking. The key difference between previous efforts is
+we're going to be buying the commercial off-the-shelf solution
+and absolutely minimizing the customization.
+I'll ask Mr. Windom to kind of get into some of the
+specifics there.
+Mr. Windom. Sir, I appreciate your question, appreciate the
+opportunity.
+The--I need to make sure there are some facts brought to
+the table. Number one is the VA is three times larger than DOD.
+We awarded the contract for DOD at $4.33 billion, and so the
+complexity is deemed about four times larger in that we have
+well over 100 interfaces. DOD had approximately 25 to 27
+interfaces.
+The $10 billion is not what's needed at contract award. The
+$10 billion is for the duration of the contract. And I'm really
+not at liberty to talk about specifics of the price
+negotiation. We'll gladly come brief you in whatever detail
+you'd like personally and give you a complete breakdown of the
+pricing structure.
+Mr. Gianforte. So just in the initial acquisition, what
+percentage is professional services versus license?
+Mr. Windom. The--sir, that would be crossing me over to
+Procurement Integrity Act because I would be giving you
+contract values. Again, sir, prepared to give you that
+granularity in a private session outside ----
+Mr. Gianforte. Okay.
+Mr. Windom.--the public forum, so I apologize. I guess ----
+Mr. Gianforte. I think with a number that large we are just
+asking to understand.
+Mr. Windom. Well ----
+Mr. Gianforte. And, Mr. Blackburn then, if we--one of the
+recommendations from the GAO here was item 3 to redesign
+business process to conform with commercial off-the-shelf
+software as a way to bring costs down and reliability. What
+business process redesign efforts are you undertaking inside VA
+to conform with best practices and maybe leave behind some of
+those 30-year-old processes and pick up new ones that are
+available to us?
+Mr. Blackburn. Well, one of the big issues that we have is
+we have different processes at each one of our 168 medical
+centers, and so we're not standardized right now across our own
+medical system. What this will force us to do is standardize
+across our medical system and then also in line with the
+workflows of DOD in order to implement this off-the-shelf
+solution.
+Mr. Gianforte. And, Mr. James, is that a primary focus of
+the PMO in doing business process redesign to bring conformity
+across the ----
+Mr. James. Congressman, that would be better addressed by
+the PEO Mr. Windom.
+Mr. Windom. Sir, my primary responsibility is program
+management oversight, as you alluded to. You get what you
+inspect, not expect. I have led to a number of multibillion-
+dollar programs and understanding that though we have selected
+a phenomenal partner in Cerner or will award a contract, we've
+got to have the mechanisms in place to oversee their efforts to
+protect the taxpayers' interest and obviously the interest of
+our veterans. So our Program Management Office is going to
+consist of what I believe is you need physics, physicists to
+grade physics homework. So we're going to have the full breadth
+of clinical capabilities and technological capabilities at our
+disposal to oversee the implementation, sir.
+Mr. Gianforte. Okay. Well, I would encourage you that as
+much standardization would be ----
+Mr. Windom. Yes, sir.
+Mr. Gianforte.--helpful in keeping the cost down.
+The last point I just want to ask Mr. Blackburn is we have
+heard before this committee a number of other agencies testify
+about the cost savings increase in reliability and speed to
+deployment when solutions are in the cloud. What percentage of
+the Cerner system will be native in-the-cloud technology?
+Mr. Blackburn. The--Mr. Windom will probably have the best
+information for that, but it's the majority.
+Mr. Windom. Sir, so we're involving with technology. As you
+know, there are a number of inhibitors associated with the
+movement of PII data into the cloud. I can assure you we're
+working ----
+Mr. Gianforte. So is there a percentage?
+Mr. Windom. Sir, I don't have a percentage, but we're going
+to be on premise and in the cloud simultaneously in delivering
+that support. What the ----
+Mr. Gianforte. We have had other agencies testify that
+there are 100 percent in the cloud now.
+Mr. Windom. That's not the case, sir.
+Mr. Gianforte. Okay. Well ----
+Mr. Windom. That would not be the case for us.
+Mr. Gianforte.--I just want to--I will just finish up. I
+have run past my time. Thank you, Mr. Chairman. It is just the
+work you are doing is critically important for our veterans.
+They are not--we all know they are not being served well today.
+Let's work together to make this happen.
+Mr. Blackburn. Absolutely. Absolutely, sir.
+Mr. Gianforte. I yield back.
+Mr. Hurd. The gentleman yields back. Now, I recognize the
+ranking member for her first five minutes of questions.
+Ms. Kelly. Thank you, Mr. Chair.
+The number-one mission of the VA is to care for our
+veterans, and a central part of that mission in delivering
+quality healthcare generally is tracking outcomes. The ability
+to track outcomes help both prevention and treatment. Mr.
+Blackburn, the VA cannot properly care for our veterans and
+track outcomes without the ability to communicate with DOD and
+share information. Can DOD and the VA currently exchange
+patient health data between one another?
+Mr. Blackburn. Thank you, Ranking Member Kelly, and thank
+you also for our one-on-one session.
+The--yes. The answer is yes, that we currently can. My
+doctor in the Orange Clinic of the Washington VAMC, we have
+something called Joint Legacy Viewer in--which allows
+clinicians within DOD and VA to be able to see each other's
+medical records. It's not perfect. It's read-only. It's as good
+as it could possibly get it. I think we have roughly almost 8
+million or so medical records that have been viewed on Joint
+Legacy Viewer.
+Ms. Kelly. Thank you. Do all users have access to
+interoperable electronic health records, the system?
+Mr. Blackburn. The--I think most. John Short, is that all?
+All.
+Ms. Kelly. All? Okay, great.
+Mr. Blackburn. Yes.
+Ms. Kelly. VistA evolution showed progress in achieving the
+ability to share data between DOD and VA. In June of this year,
+however, the Secretary announced that the VA would now acquire
+the same health system as the DOD. This is a rather remarkable
+shift since it was previously planned that DOD and VA would
+have the same healthcare system and that efforts were
+abandoned. Why is the VA going back to this plan that it
+previously abandoned, and why does it believe this is the best
+course of action at this time?
+Mr. Blackburn. The--maintaining our current VistA system is
+not an option. It will be incredibly costly. Matter of fact, we
+had a third-party estimate that took a look at it and estimated
+it would be roughly up to $19 billion to maintain and to
+upgrade our current VistA system. And that would not get us the
+seamless interoperability of--that we're looking for with
+veterans. With--by moving to the same exact product, the same
+exact instance that DOD has, it will all be one record. It will
+be DOD doctors and VA doctors going into the exact same record,
+which will make that seamless.
+Currently, as a veteran, most of my records as a soldier
+were on paper. Those were lost when my parents' basement was
+flooded, so my VA doctor does not have that information. That
+will not be the case for my kids when they go to serve.
+Ms. Kelly. Okay. And, Mr. Blackburn, will the transition
+away from the health management platform that was the key part
+of the VistA evolution affect the interoperability with the
+Department of Defense?
+Mr. Blackburn. Please repeat the question.
+Ms. Kelly. Will the transition away from the health
+management platform that was a key part of VistA ----
+Mr. Blackburn. Yes.
+Ms. Kelly.--evolution, will that affect the
+interoperability with the Department of Defense?
+Mr. Blackburn. We will maintain that ability on Cerner to
+be able to view those records within the Joint Legacy Viewer,
+so we will not lose that data. That will be a key part of our
+implementation.
+Ms. Kelly. And what is your timeline?
+Mr. Blackburn. The timeline overall for implementation of
+Cerner is roughly 10 years ----
+Ms. Kelly. And ----
+Mr. Blackburn.--for the entire thing.
+Ms. Kelly. And what are you doing to achieve
+interoperability with healthcare providers outside of the VA
+and DOD?
+Mr. Blackburn. That's a great question, and that's actually
+something that we're working with the Office of American
+Innovation and the White House on. The Cerner solution, that
+will give us interoperability within the VA, first of all.
+Second, it will give us interoperability with the DOD because
+it's the same record. And then thirdly, the--Cerner has a
+CommonWell solution in which they have their network of private
+hospitals that that will--but it won't give us 100 percent. No
+solution right now will give us 100 percent with the private
+sector. That solution does not exist right now, but I think
+that would be a longer-term goal for our country so that it
+would be completely seamless. And that's actually a problem
+that we're working with the White House on.
+Ms. Kelly. Okay. Thank you. In previous testimony before
+this committee GAO has stated that agencies need, and I quote,
+``To define what they aim to accomplish through these efforts
+and identify meaningful outcome-oriented goals and metrics.''
+DOD and VA, do you agree with GAO's assessment that outcome-
+oriented goals would help measure progress toward
+interoperability and hold your departments accountable for
+their progress?
+Mr. Blackburn. Absolutely. Absolutely agree.
+Ms. Kelly. And what do--well, what does your respective
+agency aim to achieve regarding improved health outcomes and
+delivery from your interoperability efforts?
+Mr. Blackburn. Ask Mr. Windom for specifics there.
+Mr. Windom. The metrics--the right metrics, ma'am, I would
+offer are our primary concerns, so KPPs, SLRs, SLAs, things
+that we can use to clearly identify that we are achieving our
+quality goals on behalf of our beneficiaries.
+We've got what's called a quality assurance surveillance
+plan as part of the contract. Those contracting officer
+representatives, quality assurance representatives will be
+overseeing the delivery of those metrics as the product is
+being rolled out to ensure that we're in fact getting what we
+paid for. So there's a myriad of metrics that add value that
+are not only aligned with the commercial standards that kind of
+reduce that customized problem that we often have when
+implemented business systems but also to leverage what's
+important within the VA with regards to value metrics. So a
+combination of the two, ma'am, and we use the quality assurance
+surveillance plan as that tool to oversee those metrics.
+Ms. Kelly. Can I just ask one more question?
+When I asked about how you are working with outside ----
+Mr. Blackburn. Yes.
+Ms. Kelly.--entities, now in the State of Illinois I
+believe they passed legislation where a veteran could go to
+another hospital or at least they were working on it.
+Mr. Blackburn. Yes.
+Ms. Kelly. How many States is it, do you know, that ----
+Mr. Blackburn. The whole ----
+Ms. Kelly.--can do that? The whole ----
+Mr. Blackburn. The whole country. That's the Veterans
+Choice Program, which has not been perfect. I know in Montana
+it has not been good. It's been terrible. But that's something
+that we're working on, and actually, there's draft proposals of
+bills in place to improve that program right now.
+Ms. Kelly. Okay. Is this--like where I live in the suburbs
+or the south suburbs of Chicago and where the VA hospitals are
+----
+Mr. Blackburn. Yes.
+Ms. Kelly.--downtown and west, so it is an effort to get
+there, not like Montana but ----
+Mr. Blackburn. Yes. So, ma'am, I'm actually a good example.
+I get my primary care at the Washington VAMC, but I get
+physical therapy through the Veterans Choice Program in
+Bethesda closer to where I live. The--and it makes a big
+difference.
+Ms. Kelly. Okay. Thank you.
+Mr. Blackburn. Yes.
+Mr. Hurd. All right. I recognize myself ----
+Mr. Connolly. I am sorry, Mr. Chairman. Did I just hear
+Maryland, not Virginia?
+Mr. Blackburn. That is correct, Mr. Connolly.
+Mr. Connolly. Oh, my Lord. All right.
+Mr. Hurd. Bad move, Mr. Blackburn.
+I recognize myself for five minutes, and I yield to the
+gentleman from Montana.
+Mr. Gianforte. Okay. Thank you, Mr. Chairman.
+I just want to continue the conversation a little bit. And,
+Mr. Blackburn, you testified again this Cerner implementation,
+$10 billion, 10 years, and I understand the VistA system then
+has to stay in place for that entire period of time. And as I
+understand the cost to--annual cost currently for the system is
+between 800 and $900 million a year. Is that correct?
+Mr. Blackburn. Roughly. Roughly. It's multiple hundreds of
+millions of dollars, way too expensive.
+Mr. Gianforte. And aspects of that system are pretty long
+in the tooth, is that correct? It has been around a long time?
+Mr. Blackburn. Oh, it's been around for about 40 years.
+Mr. Gianforte. And it is not working that well?
+Mr. Blackburn. It has worked for 40 years, but it's not
+sustainable. It can't go forward into the future.
+Mr. Gianforte. It has lost its luster at a minimum ----
+Mr. Blackburn. It has.
+Mr. Gianforte.--the 40 years. So here is my--one strategy I
+have seen used in the private sector when you have these
+massive boil-the-ocean kind of projects like the one we are
+undertaking that is 10 years and $10 billion is to use on an
+interim basis best-of-breed technologies to pick off high-value
+components that may be excessively costly or of high value in
+terms of functionality. You mentioned scheduling.
+Mr. Blackburn. Yes.
+Mr. Gianforte. It happens that I had served on a board of
+directors of a medical scheduling company. I am not here to
+advocate for them, but we did scheduling for tens of thousands
+of doctors across the United States completely in the cloud. If
+you were able to spend a small amount of money to do something
+and then throw it away when utopia arrives in 10 years, have
+you considered strategies like this to use best-of-breed
+technology on an interim basis to deliver more value to our
+vets in the short term and save operation and maintenance costs
+out of this $8-900 million a year you are spending on VistA?
+Mr. Blackburn. We have. And scheduling's been a massive
+issue for us. As a matter of fact, we have a board, a visual
+that shows what our previous scheduling system looked like,
+right? This is what doctors had to go and use. What we're
+currently doing right now in 151 out of our 158 facilities is
+we've moved under Mr. James, who has lead this program, to what
+we're calling VSE, VistA--it's an upgraded VistA GUI system on
+top of that. That is a shorter-term bridge as one of the
+efforts we've done on there. There are also a couple of other
+efforts that we have. One is an online scheduling application,
+again, a homegrown system, so ----
+Mr. Gianforte. Okay.
+Mr. Blackburn.--the VSE system is homegrown.
+Mr. Gianforte. To what extent have you looked at commercial
+off-the-shelf ----
+Mr. Blackburn. Yes.
+Mr. Gianforte.--best-of-breed applications to pick off
+either high-cost or high-value components of VistA just on an
+interim--I mean, because 10 years is a long time. I am not sure
+any of us are going to be sitting here in 10 years, but we are
+going to have veterans looking for services. To what extent
+have you implemented that sort of strategy?
+Mr. Blackburn. Yes. Mr. James, do you want to talk a little
+bit about that?
+Mr. James. Sure. We've looked at that over and over again,
+and we can apply, for example, with the VSE, VistA scheduling
+enhancement outlook like GUIDANCE, that type of best-of-breed
+at the top layer, but the problem comes when you have to
+interface it to the 130 different versions of VistA across the
+country, each one of which has 140 to 150 old ----
+Mr. Gianforte. Does that ----
+Mr. James.--applications.
+Mr. Gianforte. That VistA GUI, does that work on mobile
+devices?
+Mr. Blackburn. Yes. Yes, sir.
+Mr. Gianforte. And it works on a web browser?
+Mr. James. Yes, sir.
+Mr. Gianforte. So a veteran can access it from anywhere?
+Mr. James. Yes, sir.
+Mr. Gianforte. And is that deployed in Montana?
+Mr. James. I believe it is. I'd have to confirm ----
+Mr. Blackburn. It's currently deployed in 110 of our sites.
+We'll have to check and make sure Fort Harris ----
+Mr. Gianforte. I am more interested--I ask more from the
+perspective of a rural State ----
+Mr. Blackburn. Yes.
+Mr. Gianforte.--that has a lot of veterans. So I would just
+encourage you to do that. And just in our conversation, to
+summarize, I think--and you have mentioned these things. I
+would just encourage you, minimize customization.
+Mr. Blackburn. Yes.
+Mr. Gianforte. Change business practices to standardize
+them so you are not doing the customization. Get to the cloud.
+That is where the puck is going to be.
+Mr. Blackburn. Yes.
+Mr. Gianforte. We need to skate there. And then I would
+highly encourage you to look at best-of-breed commercial off-
+the-shelf apps as gap-fillers between now and utopia that is
+going to show up in 10 years from now.
+Mr. Blackburn. Absolutely. I appreciate that feedback.
+Mr. Gianforte. And, Mr. Chairman, I yield back.
+Mr. Hurd. Reclaiming my time. Mr. Powner, there is a lot of
+conversations going on, a lot of topics hit. Do you have any
+opinion on the comments so far?
+Mr. Powner. Yes. I think clearly the word minimize is--
+that's a scary word, okay, because we've heard minimize
+customization with a lot of commercial products in the Federal
+Government, and that's--minimize means a range of activities. I
+think you want to really try to almost eliminate customization.
+You're going to change your business processes anyway
+significantly, so go full bore and eliminate.
+Mr. Hurd. Thank you, Mr. Powner.
+Now, it is a pleasure to recognize my friend from the
+Commonwealth of Virginia, Mr. Connolly, for your round of
+questions.
+Mr. Connolly. I thank my friend from Texas, Mr. Chairman.
+Thank you.
+And welcome. And Mr. Blackburn was also--you made the
+rounds, and good for you.
+Mr. Blackburn. Thank you.
+Mr. Connolly. Mr. Powner, let's begin by--can you summarize
+what kind of performance did we see in the FITARA scorecard for
+VA this time?
+Mr. Powner. Well, on the FITARA scorecard overall B-plus.
+They've consistently scored well on incremental development to
+their credit. Software licensing, they were one of seven
+agencies to have that inventory and do something with it, so
+those areas are very strong. The one area that everyone
+acknowledges that they have a lot of work to do is on data
+center optimization. They fall far short of OMB's goals on
+closures, savings, and also with the optimization metrics.
+Mr. Connolly. And, by the way, just putting that in
+context, if I am correct, GAO reported that, as of August 2017,
+we have identified a total of 12,062 data centers. That is
+2,000 more than a year ago.
+Mr. Powner. Yes, we've been back and forth on the total
+number here. A lot of that's attributed to Treasury where
+you've ----
+Mr. Connolly. Those people ----
+Mr. Powner. They had a number in the inventory, off the
+inventory. They're back in the inventory, so now we are up to
+about 12,000. The good news government-wide is we've closed
+almost half of those, close to 6,000, so that's the good news.
+Mr. Connolly. Right. Okay. And let me see. And, Mr.
+Blackburn, if I understand your inventory, you have got 415
+data centers, correct?
+Mr. Blackburn. Roughly. I think we started with 386, but
+it's an awful lot, way too many.
+Mr. Connolly. And you have closed only 39 as of August?
+Mr. Blackburn. I had 24 but the--roughly correct.
+Mr. Connolly. Mr. Powner, do you want to comment on that?
+Mr. Powner. My numbers are close to about 40 of the 415 --
+--
+Mr. Connolly. Right.
+Mr. Powner.--as of August.
+Mr. Connolly. I mean, I am kind of following his numbers,
+but ----
+Mr. Powner. Sure.
+Mr. Connolly.--if your performance is even less stellar --
+--
+Mr. Powner. I have even less closures.
+Mr. Connolly. All right. Now, in our conversation you set a
+metric for yourself, and do you want to share that with us? So
+let's call the number somewhere around 400 data centers.
+Mr. Blackburn. Yes.
+Mr. Connolly. What do you want to get it down to and in
+what time frame?
+Mr. Blackburn. We would like to get down to 14 core data
+centers by the end of 2020. In addition to that, we would have
+42 special-purpose data centers. These are things like for our
+mail-order pharmacy and things of that nature, but even that to
+me feels it might be a little high, so I would like to go and
+kind of scrub those with my team. But that would be our goal by
+the end of 2020.
+Mr. Connolly. That is a pretty strong stretch goal to go
+from 400-plus to 20. Mr. Powner, realistic goal?
+Mr. Powner. I believe--here's what's--that makes it
+realistic. When you look at the 130 instances of VistA and a
+lot of the data centers are co-located at these facilities, I
+think the data center consolidation really needs to go hand-in-
+hand with this migration to the commercial Cerner product.
+That's where there's a real opportunity to save a lot of money
+in the data center area. We're spending a lot of money, but we
+can get a huge return from a data center point of view.
+Mr. Connolly. What is the estimated savings if Mr.
+Blackburn achieves this goal in three years for the data center
+consolidation? Any estimate?
+Mr. Powner. I don't have a good estimate on that.
+Mr. Connolly. Are you operating on any kind of assumption
+it will save us X?
+Mr. Blackburn. I haven't been able to get an estimate yet.
+I think that's one of the reasons why we have such a low grade
+on FITARA.
+Mr. Connolly. Yes, I think that is really important both
+for ----
+Mr. Blackburn. Yes.
+Mr. Connolly.--incentivization and maybe more important now
+that MGT, the bill we have been working on collectively here,
+hopefully will be law soon.
+Mr. Blackburn. By Tuesday.
+Mr. Connolly. By Tuesday. And that obviously allows you to
+be reinvesting in yourself with the savings effectuated
+pursuant to FITARA. So we--among other things, but I mean I
+would hope that is an incentive for people.
+Mr. Blackburn. Absolutely. We're very excited about that,
+and I think the more positive incentives like MGT that can put
+in place where we can reinvest those savings, we're extremely
+excited, and that will really help us.
+Mr. Connolly. Mr. James, I see you affirming that. You are
+welcome to comment.
+Mr. James. Yes, Congressman. I'm from your district so I
+can dig Scott out of ----
+Mr. Connolly. Excuse me.
+Mr. James.--his Maryland hole.
+Mr. Connolly. This man is only deputy assistant. He needs a
+promotion.
+Mr. James. Congressman, the reason I share the excitement
+in that act is that our Secretary has challenged us to go
+find--ask industry for some innovative ideas, share-in-savings
+types of ideas where we put in some seed money, they find
+savings, and then we share the benefits. We win, they win. And
+the seed money could come from that particular act, and so
+we're--we have a runway in front of us that, with that act, I
+think we can make some headway.
+Mr. Connolly. And you have raised the Secretary, and that
+is good to hear, too. Can you talk a little bit, both you and
+Mr. Blackburn, anyone else who wants to as well, but one of the
+things Mr. Hurd, Ms. Kelly, and Mr. Meadows and I are concerned
+about frankly is the organization chart. Who reports to whom?
+How high up in the hierarchy is the CIO? Because we feel that
+if you don't have the ear of the boss, it is all fascinating
+but no guarantee anyone is going to pay the kind of qualitative
+attention we demand, we want. We think that the CIO has just
+got to be an empowered person and everyone needs to know it. So
+comment a little bit about what is the relationship with the
+Secretary?
+Mr. Blackburn. Yes.
+Mr. Connolly. Let's stipulate the Secretary is wonderful
+and walks on water. We will stipulate that, but what is the
+working relationship and what does it look like on the
+organization chart so the somebody like us, it would leap out
+right away or it wouldn't?
+Mr. Blackburn. So on the organizational chart the CIO
+reports directly to the Deputy Secretary at the VA. The ----
+Mr. Connolly. Which is Mr. James?
+Mr. Blackburn. Which is Mr. Tom Bowman is the Deputy
+Secretary.
+Mr. Connolly. Okay.
+Mr. Blackburn. The ----
+Mr. Connolly. Oh, I'm sorry, you said Deputy Secretary.
+Mr. Blackburn. Yes.
+Mr. Connolly. Right.
+Mr. Blackburn. Yes. Yes. So CIO reports to--I report to Tom
+Bowman. The--Secretary Shulkin is incredibly hands-on involved.
+He and I have a great relationship. I was the interim deputy
+secretary until Mr. Bowman came on board. He has been very,
+very hands-on and active. He is the one that personally made
+the decision to go to the commercial off-the-shelf solution
+with Cerner. He is very comfortable with technology and a big
+proponent of what we're doing.
+Mr. Connolly. Sure. And you concur, Mr. James?
+Mr. James. Yes. Yes, Congressman.
+Mr. Connolly. All right. Anyone else want to comment?
+So, Mr. Powner, we are going to be back here in a year or
+so hopefully with a different grade that is an improved grade
+because of data center consolidation. Do you agree?
+Mr. Powner. Let's hope so.
+Mr. Connolly. All righty. Thank you all so much for being
+here. I do hope--I want to underscore Mr. Hurd, my presence
+here, and Ms. Kelly and Mr. Meadows--who couldn't join us
+today--I don't mean to leave you out. I am just talking about
+the ranking member and the chair. We are committed on a
+bipartisan basis to make this happen, so we have got your back,
+but we will also--we are more than willing to create pressure
+and stress where it is needed to improve performance because we
+are very serious about FITARA and the other related bills. So
+thank you for being here and thanks for your commitment, which
+I think is robust, and I like that in government, so thank you.
+Mr. Blackburn. Thank you, sir.
+Mr. Hurd. I now recognize myself again for five minutes of
+questions. And to follow up on what my friend from Virginia was
+talking about, about the question on coordinating data centers
+with the Cerner rollout, and everybody was shaking their head
+as if this is a good idea. And my question is are we
+coordinating the closure of data centers with the Cerner
+rollout? Mr. Blackburn, maybe that goes to you.
+Mr. Blackburn. We are, and I'll yield to Mr. Windom to talk
+about the Cerner rollout.
+Mr. Windom. Yes, sir. Mr. Chairman, the Cerner solution has
+a platform called Healthy Intent. That's its primary data
+management hosting element that we intend to move our data into
+obviously in a controlled and properly risk-mitigated fashion
+such that we don't compromise that care being delivered. We are
+going to make sure that we--that data is where we want it to be
+and usable before we shut anything down. That's why I believe
+that our data consolidation plan is feasible because we are
+moving that data very similar to the DOD solution into the
+Healthy Intent platform that gives us again that seamless
+movement of data across DOD and VA environments.
+Mr. Hurd. So how long will VistA and the new electronic
+health records system coexist?
+Mr. Windom. Sir, let me--so you have a relative--the DOD--
+when we awarded the DOD contract, it's a seven-year rollout for
+about a third of the size of the VA population, 1,600
+facilities on VA side, about 600-plus including ships and
+expeditionary platforms on the DOD side. In addition, we have
+318,000 users relative to about 112,000 users on the DOD side.
+So the answer to your question is is that the plan is going to
+be to roll this out, VistA has to run simultaneously with the
+new solution. That's part of the acquisition curve and that we
+have to keep that solution delivering today.
+Mr. Hurd. Mr. Windom ----
+Mr. Windom. Yes, sir.
+Mr. Hurd.--I understand, and your job is hard.
+Mr. Windom. Yes, sir.
+Mr. Hurd. Nobody questions that. Nobody questions that. But
+the difficulty you are going to have is what I would call the
+incompetence of previous activity, right? And so you are the
+new man, and you have the right credentials to do this, but
+this is the frustration when you see this has been going on for
+a long time because we are solving the problem. So the first--
+if the veteran leaves DOD in, let's say, 2019 and they
+transition to the VA, he or she will be moving to the VistA
+system, is that correct?
+Mr. Windom. Potentially. And I say that because one of the
+reasons for our deployment schedule is we're--we intended to
+align as much as possible to the deployment schedule of DOD --
+--
+Mr. Hurd. Yes.
+Mr. Windom.--because we want to demonstrate
+interoperability to you immediately.
+Mr. Hurd. So ----
+Mr. Windom. So it depends would be the answer.
+Mr. Hurd. And let's get to interoperability. We are going
+to be here for a while. The JLV is not interoperability. Has
+anybody at this panel set with doctors in a facility and had
+them walk you through the JLV? Mr. Windom?
+Mr. Windom. Yes, sir. I was DOD when we only were moving 50
+records.
+Mr. Hurd. Yes.
+Mr. Windom. Now, we're moving tens of thousands if not
+hundreds of thousands ----
+Mr. Hurd. So ----
+Mr. Windom.--so yes, sir, the answer is yes, sir.
+Mr. Hurd. So you understand the problem. And so we talk
+about JLV like we have already achieved interoperability. We
+haven't. It is the equivalent of using microfiche, and so the
+fact that, yes, it is the right decision to go to one system,
+but that one--so the people that are going to benefit are
+potentially--we are seven years away from that. And yes,
+Healthy Intent is the data platform that you're going to be
+using on Cerner, but what VA and DOD have not proven they can
+do is to integrate that data in one view.
+And so my concern is this is still a problem of data
+interoperability because we have to take all the data that has
+been gathered from VistA and make sure it is viewable through
+Cerner. And there is nothing to date that makes me feel
+comfortable that we know we can do that. And we are sitting
+here saying, yes, it is a big--the largest software sale ever
+in the history of the planet, right? Like I get how big of a
+deal it is, but, number one, why the hell are there 130
+versions of VistA? Now, Mr. Windom, I know that is not your
+problem. That is not your problem. But, Mr. Blackburn, can you
+give me some--like how has that been allowed to continue? I
+don't even know what that means. How would you have 130
+versions of the same program operating in one organization?
+Mr. Blackburn. So my understanding of that--and VistA
+started around the time I was born, so this decision dates back
+to me being a toddler--was--the idea at the time was local
+innovation. VistA was built by doctors, for doctors. Still to
+this day it actually rates as a--doctors rate it as the most
+user-friendly electronic health record.
+Mr. Hurd. It was groundbreaking ----
+Mr. Blackburn. Yes.
+Mr. Hurd.--when it started.
+Mr. Blackburn. Yes.
+Mr. Hurd. Yes. I would agree with that.
+Mr. Blackburn. And they ----
+Mr. Hurd. But 130 versions later is pretty crummy.
+Mr. Blackburn. You're exactly correct, and that means, you
+know, if I go--if I'm getting seen in--right now in Washington,
+they can't--it's difficult if I go to another instance for that
+data to flow seamlessly.
+Mr. Hurd. So what processes were in place or not in place
+that allowed that behavior to continue? Because if we don't
+first identify why that behavior was allowed to happen, we are
+not going to be able to prevent it in the future.
+Mr. Blackburn. The philosophy at the time was we're going
+to push the power of how to run the hospital to the electronic
+health record and their workflow to the local hospitals.
+Mr. Hurd. Sure.
+Mr. Blackburn. So there's the joke if you've seen one VA,
+you've seen one VA. They run completely differently, and then
+they map their health record to how they were run. What we
+are--what we are going to do is standardize workflows and not
+allow that to happen. And matter of fact, DOD and VA will have
+the exact same workflows.
+Mr. Hurd. Now, it is pretty clear from the limited time we
+have in with Mr. Windom that he is high speed, low drag, and my
+question, Mr. Windom, when will we be able to demonstrate for
+one record that we can get the data from a VistA EHR and view
+it through a Cerner application? When will we be able to
+demonstrate the ability to do that for one?
+Mr. Windom. Sir, the timeline for what we call initial
+operating capability, which we anticipate for Pacific Northwest
+is less than 18 months. So we expect to be able to demonstrate
+interoperability. Obviously, we will be doing it in a
+laboratory environment where will be able to demonstrate a
+record, but we want to show you in a real-time environment. And
+so prior to full deployment, we will have achieved IOC at these
+various sites, sir.
+Mr. Hurd. The last time we had this conversation with your
+predecessors, my question was, at its core, this is not a hard
+challenge. You map one data element to another data element. L
+name maps to last name, full name maps to F name. Have we done
+that mapping?
+Mr. Windom. Sir, that alignment--we've got a comprehensive
+data management strategy. You know, your points are right on
+point if you will in that we are not going to put JLV data into
+the Healthy Intent platform. That data is being reconciled such
+that we have transactional capability to move data ----
+Mr. Hurd. Sure.
+Mr. Windom.--to process data between DOD and VA, so it's
+not just--we know--JLV was a--was an interim fix. JLV access
+will exist as we transition because we don't want to destroy
+that existing continuity of data. But the Healthy Intent, it's
+just not going to be load JLV into Healthy Intent. It's going
+to have manipulatable data, transactional data that supports
+the movement of information across the DOD and the VA
+enterprise, sir.
+Mr. Hurd. So is the data architecture of VistA version 1
+different from VistA version 130? So are you working with 130
+different data sets?
+Mr. Windom. Yes, sir. That would be accurate.
+Mr. Hurd. That is crazy.
+I would like to now recognize Mr. Connolly.
+Mr. Connolly. Thank you, Mr. Chairman. Just to humanize
+what you are talking about, Mr. Chairman, Mr. Blackburn, I
+think you shared with me your own personal experience in terms
+of health records. Could you remind me, so you come from
+Massachusetts, God's country, right ----
+Mr. Blackburn. Right.
+Mr. Connolly.--except for Virginia.
+Mr. Blackburn. Yes.
+Mr. Connolly. And your files were in ----
+Mr. Blackburn. Partners Health Care, so Mass General
+Hospital ----
+Mr. Connolly. Right. Okay.
+Mr. Blackburn.--Beth Israel.
+Mr. Connolly. And you need to have someone here look at
+them, right?
+Mr. Blackburn. Yes, so I--and I lived in Cleveland for 10
+years, so I have medical information in the Cleveland Clinic.
+Obviously, I was a soldier in the Army. I get my care at the
+VA. I get some of my care at NovaCare. The--last summer, I
+broke my arm and got rushed to the hospital at a Johns Hopkins
+Hospital, so all my data, my healthcare data is spread out over
+all these different healthcare systems that do not necessarily
+talk to each other.
+Mr. Connolly. So how did that affect in any material way
+the quality of care you were given?
+Mr. Blackburn. Oh, it affects it drastically. The--you
+know, when I came here and enrolled in the Washington VAMC, I
+actually brought a large paper file from the Cleveland Clinic
+that I printed out to my doctor, and he was very appreciative
+of that. The--it's very difficult for them to tell me--to be
+able to see things like x-rays from when I broke my arm, what
+shots I've had. You have to fill out paperwork over and over
+again.
+Mr. Connolly. Which an electronic record-keeping system
+ought to obviate?
+Mr. Blackburn. As long as they talk to each other.
+Mr. Connolly. But they have got to be compatible, which it
+goes to interoperability, right, Mr. Windom?
+Mr. Windom. Yes, sir.
+Mr. Connolly. Well, as we heard, it is not just a nice
+thing to do, and it is not even just that it saves money. It
+also affects quality of care of the veterans we serve ----
+Mr. Blackburn. Yes.
+Mr. Connolly.--so there is a real imperative here. I thank
+you. Thank you, Mr. Chairman.
+Mr. Hurd. The distinguished gentleman from Montana is
+recognized.
+Mr. Gianforte. Thank you, Mr. Chairman.
+Mr. Blackburn, you had said that scheduling is a particular
+area of focus ----
+Mr. Blackburn. Yes.
+Mr. Gianforte.--for you, so a very simple question. Does
+the VA currently have a commercial off-the-shelf scheduling
+pilot in production?
+Mr. Blackburn. We have two. So we have one as mandated by
+the Faster Care for Veterans Act. We actually--it's in test
+mode right now. I believe it just went live just a few days ago
+in three VA hospitals: Minneapolis; Salt Lake City; and
+Bedford, Massachusetts. We also have a pilot going on in
+Columbus, Ohio, with a solution called MASS, which is an Epic-
+based, resource-based scheduling system.
+Mr. Gianforte. Okay. So Epic is really a competitor with
+Cerner?
+Mr. Blackburn. They are.
+Mr. Gianforte. Yes, so you are deploying Epic as well as
+Cerner?
+Mr. Blackburn. The Epic is in pilot mode in Columbus. We--
+that was actually--that was put in place before the Secretary
+made the Cerner decision.
+Mr. Gianforte. Okay. So that will be phased out and
+converted to Cerner?
+Mr. Blackburn. Depending on how the pilot--we haven't made
+that final decision yet, but we will be making that in the
+spring.
+Mr. Gianforte. Okay. So we have VistA that is 30 years old.
+We are rolling out a $10 billion Cerner project. We are also
+rolling out a competitor in the Epic system. I thought I was
+going to ask about scheduling, but this gives me more concern.
+Why wouldn't you just shut that project down now that you have
+made the decision to go with Cerner?
+Mr. Blackburn. That was one of the options.
+Mr. Gianforte. Is this ----
+Mr. Blackburn. We just haven't made the final decision.
+Mr. Gianforte. Is this taxpayer dollars being well spent on
+a project that is going to get--I, honestly--frankly, I just
+don't understand that decision.
+On the scheduling, you say you have just been live a short
+period of time. Do you have any initial analysis of the
+functionality of this OPSS system that is piloted versus the
+lipstick that was put on the pig on VistA?
+Mr. Blackburn. Mr. James?
+Mr. James. Yes, Congressman. The Faster Care for Veterans
+Act specifies seven capabilities that must be provided by the
+OPSS system, and today, our PM tells me that the OPSS system
+meets those seven requirements. The other part of the Faster
+Care for Veterans Act requires a Mitre in the IVNV mode to
+assess other similar types of scheduling, homebrewed systems if
+you will into VA, and that one is far. And that also has those
+seven capabilities.
+Mr. Gianforte. Okay. So you're just getting started with
+that pilot. What is your first review period of the pilot? Is
+it in 90 days or so?
+Mr. James. Sir, the Secretary must certify according to the
+law that it provides those seven capabilities by December 31 at
+those three sites, and we believe that it is operating today,
+but that's just today. We have some time. Then, subsequent to
+that certification, we have to have an independent validation
+verification of those seven capabilities. That's also in the
+law by an FFRDC. In this case, that's Mitre. So that'll happen
+after the Secretary certifies on--by December 31.
+Mr. Gianforte. Okay. Well, Mr. Chairman, I would just
+suggest that maybe we ask for some feedback on this pilot. We
+have been advocating--earlier, I advocated for commercial off-
+the-shelf scheduling applications. This OPSS didn't come up in
+that earlier discussion. It sounds like we are live in a number
+of cities. We ought to know in 90 days if it is working or not
+and is it better than the lipstick we are putting on VistA that
+is costing us so much money. So I thank you for sharing that
+additional information. I yield back.
+Mr. Hurd. I recognize myself for five minutes.
+Mr. James, MGT, what do you need to do in order to ensure
+that you have a working capital fund, an MGT working capital
+fund to take advantage of the savings that Mr. Blackburn and
+Mr. Windom are going to realize through their efforts?
+Mr. James. Thank you. Thank you, Mr. Chairman. I'm not the
+finance guy in OINT. I believe we do have today some working
+capital fund mechanisms in place that we already use. My
+expectation is that MGT would either complement those or
+augment those or be part of those. I can come back with
+additional information.
+Mr. Hurd. Who would be the person that would set that up so
+Mr. Blackburn has his MGT working capital fund?
+Mr. James. Chairman, they're--inside our CIO organization
+we have a finance organization that's dedicated to managing our
+appropriation every year, so that is our--internally, we call
+that ITRM. That's our CFO if you will for our CIO organization.
+He would have that responsibility.
+Mr. Hurd. Well, will you please deliver a message to him
+that this committee is interested in ensuring that Mr.
+Blackburn has a--or Mr. Blackburn's replacement has a working
+capital fund from MGT because there is going to be a whole lot
+of modernization going on in the VA. There is going to be
+savings that are being realized, and because it is such a
+massive enterprise, that will be able to help Mr. Windom
+hopefully beat that 10-year clock ----
+Mr. James. Sure.
+Mr. Hurd.--of getting this implemented.
+Mr. Cussatt, we haven't even gotten to you because there
+are so many questions about the actual deployment. How are you
+ensuring when this deployment is being done, that all the
+appropriate cybersecurity tools and functions are activated and
+live to ultimately protect the health data of our veterans?
+Mr. Cussatt. Thank you, Chairman. So it's--I see it as my
+job as the CISO for the VA to ensure that cybersecurity is not
+a barrier to interoperability and information-sharing but
+instead it's an enabler of it.
+So I came from DOD. I was there for 12 years in the CIO's
+office, and we rewrote all the DOD policy to better employ the
+NIST standards. And in the year-and-a-half I've been at VA,
+we've done the same at VA. So we are ----
+Mr. Hurd. So, Mr. Cussatt, are we going to have a written
+policy on application security for the Cerner implementation?
+Mr. Cussatt. I believe the Cerner application will benefit
+from the policy we have writ large for VA that applies to all
+the systems. We're trying not to build a one--a single instant
+solution for it. We want to build something that's going to
+benefit us across the Department and be interoperable with DOD.
+Mr. Hurd. So, gentlemen, there are so many questions here.
+Mr. Powner, before I close, do you have any further insights on
+the rest of the conversations that have been going on today?
+Mr. Powner. Just a comment about the scheduling situation.
+I mean, you have VSE, we have pilots going on, we clearly have
+a module with Cerner. What needs to occur in the scheduling
+area is direction forward. What's the plan? There needs to be a
+clear plan because right now, it's duplicative. There's no
+other way--it's duplicative. And it's okay to pilot and do
+things and test all this, but we ultimately need a plan going
+forward that's a solid plan with the right solution.
+Mr. Hurd. Good copy, Mr. Powner. One of the things that I
+feel good about is that I love that many of the folks
+intimately involved in this are veterans. You understand the
+type of sacrifices your compatriots have made. You understand
+the interest that this service is to many of our veterans.
+But I would say you all are actually doing something that
+can be life-altering for a lot of folks. A $10 billion project
+to integrate 130 different data sets and achieving true
+interoperability, this will be the model. If we are able to
+integrate DOD in VA, the two largest healthcare providers in
+the world, then we are going to be able to integrate to every
+other system.
+And so the VA is going to be back in setting the curve and
+being on the cutting edge because you all have achieved the
+ability to do a true longitudinal record so everybody is going
+to be able to have better health outcomes because every doctor
+they go to, they are going to be able to see every other time
+they went to the doctor. We are going to be able to do
+virtualized research cohorts based on this information because
+it is in the cloud and we are going to be able to access it.
+Mr. Cussatt is going to make sure it is protected and
+anonymized, and then we are going to be able to bring drugs,
+lifesaving drugs to market faster. And so this is the
+opportunity that we have here, and if we can't do it in 10
+years with $10 billion, then it is never going to get done.
+And so I think you all recognize and understand this issue.
+This committee is going to continue to provide oversight and
+continue to get into the weeds. It is great having the talent
+of folks like my friend from Montana and the gentleman from the
+Commonwealth of Virginia. We are not going to stop.
+So thank you all for being here. Mr. Powner, it is always
+great having you here. This is an important issue, and I know
+many of my friends around the country are hoping you all
+succeed. And we are going to continue to make sure we are doing
+our part to make sure you have the tools to be successful. So I
+thank you all for appearing before us today.
+The hearing record will remain open for two weeks for any
+member to submit a written opening statement or questions for
+the record. And if there is no further business, without
+objection, the subcommittee stands adjourned.
+[Whereupon, at 3:50 p.m., the subcommittee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

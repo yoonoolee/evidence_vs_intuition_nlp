@@ -1,0 +1,2009 @@
+- THE FUTURE OF VA SCHEDULING: IMPLEMENTING A COMMERCIAL OFF THE SHELF SCHEDULING SOLUTION AT THE DEPARTMENT OF VETERANS AFFAIRS
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+THE FUTURE OF VA SCHEDULING: IMPLEMENTING A COMMERCIAL OFF THE SHELF
+SCHEDULING SOLUTION AT THE DEPARTMENT OF VETERANS AFFAIRS
+
+=======================================================================
+
+HEARING
+
+before the
+
+SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+
+of the
+
+COMMITTEE ON VETERANS' AFFAIRS
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SIXTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+THURSDAY, SEPTEMBER 26, 2019
+
+__________
+
+Serial No. 116-37
+
+__________
+
+Printed for the use of the Committee on Veterans' Affairs
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.govinfo.gov
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+40-993              WASHINGTON : 2021
+
+COMMITTEE ON VETERANS' AFFAIRS
+
+MARK TAKANO, California, Chairman
+
+JULIA BROWNLEY, California           DAVID P. ROE, Tenessee, Ranking
+KATHLEEN M. RICE, New York               Member
+CONOR LAMB, Pennsylvania, Vice-      GUS M. BILIRAKIS, Florida
+Chairman                         AUMUA AMATA COLEMAN RADEWAGEN,
+MIKE LEVIN, California                   American Samoa
+MAX ROSE, New York                   MIKE BOST, Illinois
+CHRIS PAPPAS, New Hampshire          NEAL P. DUNN, Florida
+ELAINE G. LURIA, Virginia            JACK BERGMAN, Michigan
+SUSIE LEE, Nevada                    JIM BANKS, Indiana
+JOE CUNNINGHAM, South Carolina       ANDY BARR, Kentucky
+GILBERT RAY CISNEROS, JR.,           DANIEL MEUSER, Pennsylvania
+California                       STEVE WATKINS, Kansas
+COLLIN C. PETERSON, Minnesota        CHIP ROY, Texas
+GREGORIO KILILI CAMACHO SABLAN,      W. GREGORY STEUBE, Florida
+Northern Mariana Islands
+COLIN Z. ALLRED, Texas
+LAUREN UNDERWOOD, Illinois
+ANTHONY BRINDISI, New York
+Ray Kelley, Democratic Staff Director
+Jon Towers, Republican Staff Director
+
+SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+
+SUSIE LEE, Nevada, Chairwoman
+
+JULIA BROWNLEY, California           JIM BANKS, Indiana, Ranking Member
+CONOR LAMB, Pennsylvania             STEVE WATKINS, Kansas
+JOE CUNNINGHAM, South Carolina       CHIP ROY, Texas
+
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public
+hearing records of the Committee on Veterans' Affairs are also
+published in electronic form. The printed hearing record remains the
+official version. Because electronic submissions are used to prepare
+both printed and electronic versions of the hearing record, the process
+of converting between various electronic formats may introduce
+unintentional errors or omissions. Such occurrences are inherent in the
+current publication process and should diminish as the process is
+further refined.
+
+C O N T E N T S
+
+----------
+
+Thursday, September 26, 2019
+
+Page
+
+The Future Of VA Scheduling: Implementing A Commercial Off The
+Shelf Scheduling Solution At The Department Of Veterans Affairs     1
+
+OPENING STATEMENTS
+
+Honorable Susie Lee, Chairwoman..................................     1
+Honorable Jim Banks, Ranking Member..............................     3
+
+WITNESSES
+
+Mr. John H. Windom, Executive Director, Office of Electronic
+Health Record Modernization, U.S. Department of Veterans
+Affairs........................................................     5
+Prepared Statement...........................................    25
+
+Accompanied by:
+
+Mr. Dominic Cussatt, Principal Deputy Assistant Secretary,
+Office of Information and Technology, U.S. Department of
+Veterans Affairs
+
+Dr. Michael Davies, Senior Advisor to the Assistant, Deputy
+Under Secretary for Health Access, Veterans Health
+Administration, U.S. Department of Veterans Affairs
+
+Dr. Laura Kroupa, Chief Medical Officer, Office of Electronic
+Health Record Modernization, U.S. Department of Veterans
+Affairs
+
+Mr. John Short, Chief Technology and Integration Officer,
+Office of Electronic Health Record Modernization, U.S.
+Department of Veterans Affairs
+
+Mr. Larry Reinkemeyer, Assistant Inspector General for Audits and
+Evaluations, Office of the Inspector General, U.S. Department
+of Veterans Affairs............................................     6
+Prepared Statement...........................................    27
+
+THE FUTURE OF VA SCHEDULING: IMPLEMENTING A COMMERCIAL OFF THE SHELF
+SCHEDULING SOLUTION AT THE DEPARTMENT OF VETERANS AFFAIRS
+
+----------
+
+September 26, 2019
+
+Committee on Veterans' Affairs,
+U. S. House of Representatives,
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 10:02 a.m., in
+Room 210, House Visitors Center, Hon. Susie Lee [Chairwoman of
+the Subcommittee] presiding.
+Present: Representatives Lee, Lamb, Cunningham, Banks,
+Watkins, and Roy.
+
+OPENING STATEMENT OF SUSIE LEE, CHAIRWOMAN
+
+Ms. Lee. Good morning. The hearing will come to order.
+First of all, I would like to thank Ranking Member Banks,
+as well as all of our witnesses, for being here today and
+taking the time to present to us. Thank you.
+We have spent a lot of time in this Congress talking about
+the Electronic Health Record Modernization and VA's Cerner
+Millennium platform. While the success of that transition
+obviously is critically important, it is by no means the only
+major technology modernization project underway at the
+Department of Veterans Affairs.
+For almost 20 years, VA has attempted to update its patient
+appointment scheduling system. And I had to get a
+representation of all the iterations that have happened in the
+past 20 years, which is behind me. The old system, the VistA
+legacy system is written in archaic programming language, its
+user interface is confusing and cumbersome, and complicated
+workflows require schedulers to memorize hundreds of rules and
+apply them appropriately when scheduling an appointment;
+obviously, in need of an update.
+And the VA tried to update this by developing a graphical
+user interface and automating some of the scheduling rules.
+Unfortunately, it was not much more than a fresh coat of paint.
+The project dubbed VistA Scheduling Enhancement, or VSE, did
+not address data quality issues, did not bring the VA much
+closer to the current state of health care information systems.
+Also, as the Office of Inspector General found in its
+August report on VSE, there were problems with the management
+of the program, including leadership turnover and inadequate
+requirements development. These seemed to be the same issues
+that recur again at every VA modernization program.
+I will add further that the history of the VSE indicates
+that VA did not know what it wanted from the scheduling system
+before it signed the contract and began developed, and I am
+concerned that some of that uncertainty continues.
+In 2015, the VA contracted for $624 million to implement
+another commercial off-the-shelf scheduling system, the Medical
+Appointment Scheduling System, or MASS, which was then
+downgraded to a pilot.
+In April of last year, the VA actually completed that pilot
+program in Columbus, Ohio and by all reports, including the
+VA's own assessment, the pilot was a huge success. VA found
+increased scheduling system efficiencies, improved timely
+access to services for veterans, increased productivity, and a
+substantial decrease in overtime. However, just 8 months after
+that implementation, the VA opted to not expand that successful
+pilot any further.
+Now the VA plans to implement Cerner's scheduling solution,
+but on a separate and faster deployment schedule than the rest
+of the electronic health record. I support efforts to improve
+scheduling, increase transparency into wait times, and ensure
+that all veterans spend less time waiting for appointments.
+As we discussed at our Full Committee hearing in July, wait
+times continue to be complicated and an unfortunate situation
+at the VA that must be addressed.
+The VA originally notified Congress of its intent to
+implement the Cerner Scheduling Solution in December of 2018.
+At that time, VA told Congress that the deployment would be
+completed in 2023. VA also told Congress that this would be a
+better, more cost-effective solution. However, it has been
+difficult to get information to support those assertions.
+Last week, representatives from the Office of Electronic
+Health Record Modernization briefed staff that the current plan
+is now completion in 2025, 2 years longer than was originally
+notified to Congress. OEHRM contends that this project will not
+add additional costs to the $16 billion EHRM project, but will
+require moving funds forward from later in the project.
+Basic contracting procedures require that VA should compare
+available solutions and decide what works best for its needs.
+That is basic-level market research and requirements
+development.
+I have several serious reservations with this mid-flight
+change of approach. First, common business and management
+practice would dictate that VA would conduct an apples-to-
+apples comparison of off-the-shelf solutions, especially given
+the investment of resources and apparent success of the MASS
+pilot program.
+Second, I wonder why none of this would have been done
+before proceeding with the Cerner Scheduling Solution
+implementation. It just seems a little backwards to me.
+VA said it plans to begin the Cerner implementation in
+Columbus. So just months after the successful completion of one
+scheduling solution, VA is going to scrap it implement another.
+I expect our VA witnesses here today to explain how that is not
+wasteful. Further, there is a lot of change being planned,
+obviously, in VA health care and change fatigue is a real
+concern. So I plan on hearing how the VA is planning to
+mitigate that.
+I am also concerned that the VA made assertions to Congress
+before it had any actual analysis of user needs, of costs, or
+of benefits. Despite being 6 months out from beginning system
+implementation, the plan seems to be in rough shape. This
+include costs which the VA has said won't be finalized until
+November.
+It is my hope that we can end this hearing with more
+information and reassurance that VA has its plan on track. We
+need specifics on cost, schedule and change management plan,
+and the infrastructure investments needed for this ambitious
+project.
+I thank all of the witnesses for taking time to be here and
+for your work on this incredibly important project, and I look
+forward to hearing your testimony.
+I would now like to recognize my colleague, Ranking Member
+Banks, for 5 minutes to deliver any opening remarks.
+Mr. Banks?
+
+OPENING STATEMENT OF JIM BANKS, RANKING MEMBER
+
+Mr. Banks. Thank you, Madam Chair.
+The appointment scheduling system is the VA IT system most
+badly in need of an overhaul, more so than the financial
+system, the claims-paying system, or even the EHR. That was
+true 5 years ago when the secret wait list scandal in Phoenix
+broke and, despite some incremental improvements to VistA, it
+is still true today.
+VA spent much of 2018 deciding which scheduling system to
+select. The decision in December to go with Cerner did not come
+as much of a surprise. After all, VA already committed to buy
+the Cerner scheduling package along with the EHR. The idea to
+put the scheduling implementation on a separate faster track
+seems justified. However, my colleagues and I have spent all
+year for the details and analysis, but that information is only
+now starting to emerge. I need to see a lot more before I can
+put my confidence in this plan.
+First and foremost, I was disappointed to see the 3-year
+scheduling implementation stretch out to 5 years before it even
+begins, and I am not so sure that this still qualifies as,
+quote, ``accelerated.''
+Secondly, I disagree with the decision to select Columbus,
+Ohio, where the EPIC scheduling system was installed as a
+pilot, as the first site for the Cerner scheduling system. This
+EPIC pilot has by all accounts been very successful. It is true
+that Columbus is a convenient site to install Cerner scheduling
+because the technical groundwork has already been laid, but by
+pulling the plug on EPIC, VA is forfeiting the opportunity,
+which may become valuable in the future, to encourage greater
+interoperability between Cerner and EPIC.
+Thirdly, I cannot help but notice the disparity between the
+analysis VA performed by the Columbus EPIC pilot and the
+minimal analysis of what the Cerner scheduling implementation
+will entail. Cerner and EPIC are both commercial software, but
+there seems to be an assumption that everything known about
+EPIC is also true about Cerner.
+Accelerating the Cerner scheduling implementation still
+seems to be the right thing to do. That being said, as
+information continues to come in, I am prepared to reevaluate,
+and I hope VA will do the same. It is very important that the
+political inertia never be allowed to take precedence over the
+facts on the ground.
+Relatedly, I would like to address a few other topics
+pertaining to EHR modernization. The formal partnership between
+OIT and OEHRM to build the data interfaces that was so
+encouraging at the time of our last hearing seems to have
+crumbled. This is a large and critical task and I don't believe
+any entity can handle it alone.
+Today is an unfortunate anniversary. The Secretaries of DoD
+and VA signed their joint commitment statement exactly 1 year
+ago today, but the FEHRM still has not been established. The
+interim Director and Deputy Director have been working together
+amicably for several months, but without an organization
+beneath them their effectiveness is limited.
+I think we must be realistic about what is achievable at
+this point. We need to turn the page on the idea the firm is
+standing up the EHRs. The critical decision-making window is
+closing. The firm can still be helpful as a governance body to
+sustain the EHRs, but we have to calibrate expectations
+accordingly.
+Before I yield, I want to also revisit the issue of EHRM
+cost estimates. Last year, I expressed frustration with the
+explanations VA was providing as to the assumptions underlying
+the cost estimate. Mr. Lamb and I sent a letter requesting the
+raw numbers. What we received in response was the same top-line
+estimates and, every time we scrutinized an assumption, it
+would suddenly change. OEHRM seems to have reacted to the
+Subcommittee's oversight by zealously defending its funding.
+The cost estimate is still very much a black box and it is
+clear that the actual spending rate is trending farther below
+the original projection. While that seems positive at first
+glance, OEHRM seems to have achieved it by shifting more costs
+onto other organizations within VA, and I intend to monitor
+that very closely.
+With that, Madam Chair, I yield back.
+Ms. Lee. Thank you. I would now like to introduce the
+witnesses we have before the Subcommittee today.
+Mr. John Windom is the Executive Director of the Office of
+Electronic Health Record Modernization at the Department of
+Veterans Affairs. Mr. Windom is accompanied by Dominic Cussatt,
+Principal Deputy Assistant Secretary, Office of Information and
+Technology; Dr. Michael Davies, Senior Advisor to the Assistant
+Deputy Under Secretary for Health Access at the Veterans Health
+Administration; Dr. Laura Kroupa, the Chief Medical Officer for
+the Office of Electronic Health Record Modernization; and John
+Short, Chief Technology and Integration Officer for the Office
+of Electronic Health Record Modernization.
+We also have Mr. Larry Reinkemeyer, Assistant Inspector
+General for the Audits and Evaluations from the VA's Office of
+Inspector General.
+Thank you all for being here.
+We will now hear the prepared statements from our panel
+members. Your written statements in full will be included in
+the hearing record without objection.
+Mr. Windom, you are recognized for 5 minutes.
+
+STATEMENT OF JOHN WINDOM
+
+Mr. Windom. Thank you, Madam Chair Lee.
+Good morning, Madam Chair Lee, Ranking Member Banks, and
+distinguished members of the Subcommittee. First, I want to
+thank you and the members of the Subcommittee for your
+unwavering support of the Department of Veterans Affairs'
+Electronic Health Record Modernization effort. Without your
+steadfast support, VA would not be able to deliver this
+critical capability in support of our veterans. Thank you for
+the opportunity to testify in support of the VA's initiative to
+modernize clinical scheduling by accelerating the
+implementation of the Cerner Scheduling Solution.
+I am accompanied today, as you just mentioned, by Dominic
+Cussatt, Principal Deputy Assistant Secretary for the Office of
+Information and Technology; Dr. Laura Kroupa, Chief Medical
+Officer for the Office of Electronic Health Record
+Modernization; Mr. John Short, Chief Technology and Integration
+Officer for the Office of Electronic Health Record
+Modernization; Dr. Michael Davies, Senior Advisor to the
+Assistant Deputy Under Secretary for Health Access, Veterans
+Health Administration.
+VA currently manages clinical scheduling using the Veterans
+Health Information Systems and Technology Architecture, also
+known as VistA. According to a VA study, VistA scheduling does
+not provide VA with the requisite functionality, usability, and
+overarching business benefits. The outdated user interface and
+cumbersome manual processes create inefficiencies and prevent
+schedulers from viewing the medical provider's complete picture
+of available appointments.
+As a result, in 2018, VA piloted the Medical Appointment
+Scheduling System, also known as MASS, a commercial resource-
+based scheduling solution in Columbus, Ohio, to replace the
+clinic-based VistA scheduling system. The pilot demonstrated
+that resource-based solutions, improve timely access for
+veterans, increase provider productivity, and enhance schedule
+efficiencies.
+Further, the resource-based solution increased visibility
+of available appointments, allow providers a comprehensive view
+of their entire day, and enable staff to efficiently manage
+resources needed for appointments. Because a resource-based
+scheduling solution supports delivering better health care for
+our veterans, VA will implement CSS to bring these benefits to
+all veterans. VA's EHR Modernization contract contains the
+licenses to implement CSS across the enterprise to fulfill
+interoperability objectives. With congressional consent, VA
+will ultimately seek to pull forward funding from OEHRM's life
+cycle cost estimate to achieve this initiative. Like MASS, CSS
+is a resource-based scheduling solution and will be implemented
+in a number of VA facilities in advance of the full EHR
+Modernization capabilities.
+The Chalmers P. Wylie Ambulatory Care Center in Columbus,
+Ohio will serve as the pilot for CSS and will go live in April
+of 2020. The Louis Stokes VA Medical Center in Cleveland, Ohio
+will serve as the next and larger pilot site for CSS. VA will
+leverage the architecture and lessons learned from the MASS
+solution by collaborating with key holders' stake from MASS
+implementation to ensure these lessons learned are incorporated
+into VA's new scheduling plan. VA has established a dedicated
+pillar or division within OEHRM to provide oversight of the CSS
+integration, deployment, and change management activities.
+Further, the pillar will collaborate with partners such as VHA,
+OIT, and Veterans Benefits Administration to successfully
+implement the CSS solution.
+Accelerating CSS implementation will enable VA to provide a
+resource-based scheduling solution across the enterprise
+sooner, and also replace VistA's Scheduling Enhancement, VSE,
+which is the current temporary bridge for scheduling needs.
+In August 2019, VA's Office of Inspector General assessed
+VA's management of VSE and recommended broadly the VA improve
+project management oversight. VA concurred with OIG's
+recommendations and is implementing a new process to
+independently ensure that IT projects deliver the intended
+outcomes.
+As demonstrated by our efforts, it is clear VA is committed
+to providing the best care to our Nation's veterans. Through
+the CSS initiative, VA will provide a state-of-the-market
+scheduling solution that upholds the Department's commitment to
+improve care and access to staff and on behalf of our veterans.
+Madam Chair, this concludes my opening statement. I am
+happy to answer any questions that you and the members of this
+Subcommittee may have. Thank you once again.
+
+[The prepared statement of Paul Tibbits appears in the
+Appendix]
+
+Ms. Lee. Thank you, Mr. Windom.
+Mr. Reinkemeyer, you are now recognized for 5 minutes.
+
+STATEMENT OF LARRY REINKEMEYER
+
+Mr. Reinkemeyer. Thank you.
+Chairwoman Lee, Ranking Member Banks, and members of the
+Subcommittee, thank you for the opportunity to discuss the
+Office of Inspector General's oversight of the Department of
+Veterans Affairs medical scheduling enhancement efforts.
+Our August 2019 report on VA's implementation of the VistA
+Scheduling Enhancement Project examined whether the Office of
+Information and Technology and the Veterans Health
+Administration effectively managed its implementation of the
+VSE project.
+Although VSE is a relatively small program, originally
+planned for a little over $4 million, VSE was intended to
+provide essential near-term enhancements. VSE represented a
+short-term fix by updating the graphical user interface. VSE
+did not change any of the functionality of the VistA scheduling
+system, only the look of the screens. Essentially, the screens
+would now resemble the calendar screens you might see in your
+own Outlook calendar. This seemingly small change was expected
+to significantly reduce the time it took schedulers to schedule
+appointments.
+Since the 1980s, VHA has relied on the VistA system to make
+and track patient medical appointments. The technology
+underlying this legacy scheduling system used by VA medical
+facilities became cumbersome, outdated, and unable to handle
+the complexities and volume of VHA scheduling requirements as
+they developed and expanded over time. The scheduling system
+was also not designed to integrate mobile, Web, and telehealth
+scheduling.
+As described in more detail in my statement for the record,
+VA began to update its VistA legacy program in fiscal year 2000
+with the launch of the replacement scheduling application, a
+commercial off-the-shelf software program, and ultimately
+settling on the VSE as a short-term solution. VSE was a near-
+term fix while MASS was to be developed almost concurrently and
+would represent the long-term solution. Then MASS was put on
+hold to place more emphasis on VSE and, a few months after
+that, MASS was restarted and essentially deployed to one
+location.
+Now VA intends to fast-track the scheduling component of
+the new electronic health record, and it stopped any
+significant work on VSE and MASS.
+VSE's planned completion date of November 2015 extended
+well into 2018, a delay of almost 3 years, and the cost
+increased from a little over $4 million to almost $7 million.
+Our audit identified three key findings. First, VSE
+requirements were not properly defined to meet user needs.
+Because VSE was intended to be a quick and simple short-term
+solution, VA did not put enough effort into developing and
+validating the requirements. Users were left out of the
+requirements discussion and, as a result, a number of
+functionality and usability issues surfaced. For example,
+schedulers needed to toggle back and forth between VistA, VSE,
+and the patient records system, which effectively negated any
+time savings.
+Second, insufficient testing during the development phase
+led to unidentified deficiencies and, once deficiencies were
+identified, contractors failed to address them.
+From June 2015 through July 2016, a number of problems were
+identified at the initial deployment site in Asheville, North
+Carolina, most significant of which was system slowness.
+Additional deficiencies included limitations on canceling and
+scheduling appointments. Many of these functional deficiencies
+could be traced back to inadequate requirements determination.
+Third, staff turnover in key management positions delayed
+the development and implementation of VSE due to the loss of
+project and program knowledge.
+We recommended that the VA Assistant Secretary for
+Information and Technology, who is also the Chief Information
+Officer, enforce required project management processes to
+ensure project planning requirements are adequately defined and
+supported before starting information technology projects. VA
+concurred with the recommendation and requested closure, as it
+has implemented a new program management review process through
+a policy memorandum signed on July 15th, 2019; we have not
+closed that recommendation. We will monitor the Department's
+progress and we will follow up on the implementation of the
+policy memorandum to ensure it addresses the intent of the
+recommendation.
+Madam Chairwoman and Ranking Member Banks, this concludes
+my statement, and I would be pleased to answer any questions
+you or other members may have.
+
+[The prepared statement of Paul Tibbits appears in the
+Appendix]
+
+Ms. Lee. Thank you, Mr. Reinkemeyer. I will now recognize
+myself for 5 minutes.
+When VA first notified Congress of its intention to deploy
+the CSS separate from EHRM, the timeline for completion was to
+be at the end of 2023, now we are hearing the timeline is the
+end of 2025.
+Last year, shortly after the successful MASS pilot in Ohio,
+an executive from Leidos told the Washington Post, quote, ``We
+communicated to the VA that we are able to do a national
+deployment in 24 months and we can do it for less than $350
+million.
+So, based on that information, three issues rise to the top
+for me. First, as Ranking Member Banks pointed out in his
+opening statements, the very definition of interoperability
+means that two systems, especially two systems that top-tier
+EHR vendors, would be able to work together. Many health care
+systems that have done this have this very same arrangement.
+Secondly, Cerner's solution would not completely be
+deployed until 4 years after the MASS system would have also
+been in place across the finally. And then, finally, the costs
+that were projected by Leidos to be $350 million.
+Mr. Windom, can you--you know, I just--can you explain the
+logic behind making this decision?
+Mr. Windom. Ma'am, when we awarded the Electronic Health
+Record Modernization contract, it was in--supported deploying
+the full suite. Interoperabilities are more readily achieved
+objectives by being on the same common solution.
+There is a cost to integrating platforms. If you are trying
+to implement, in this case the EPIC solution with the Cerner
+solution, that is an integration cost and a time-consuming
+consideration that had not even been evaluated. We paid for the
+Cerner licenses as part of the EHR contract, it made business
+sense to not duplicate that payment by installing another
+system.
+I fortunately led the DoD effort in the acquisition of the
+Cerner Millennium solution under a competitive environment. The
+scheduling systems are similar, they are both resource-based
+solutions, and so sticking with a platform where software
+updates would be, if you will, facilitated by that common
+solution, it just made sense.
+We are--the 3-year verse 5-year deployment track, the 3-
+year deployment track was a number drawn without all of the
+comprehensive research that is necessary to develop an
+integrated schedule. Five years is more appropriate, especially
+appropriate for doing it right in a risk-mitigated fashion and
+support of the least amount of disruption for our veterans.
+I can't speak to the Leidos declaration. I can tell you it
+was $700 million ceiling contract, so I am not sure why it
+would be articulated that they could be doing it for half the
+price. So, I can't speak to that. All I can tell you, ma'am, is
+that this is hard, and we are mitigating risk in the best
+interest of our veterans, and we think we have a prospective
+timeline that does that and delivers the requisite
+capabilities.
+Ms. Lee. A couple things. First of all, probably my biggest
+concern is, I understand that having one system makes
+interoperability much easier, but the bottom line is, we are on
+the MISSION Act, we are going to be requiring community
+providers to talk with the VA. So is your plan that everyone is
+going to have to have a Cerner operating system? I mean,
+wouldn't you would want interoperability with other vendors?
+Mr. Windom. Yeah, I think when you consider, ma'am--the
+answer is yes, we agree. When you consider the fact that we
+have 130 disparate solutions within the framework of VA today,
+integrating--or incorporating another integration challenge.
+One of the toughest parts of our job is that we have to
+integrate into an existing solution and minimize the disruption
+that takes place to our care provisions, and so this is a
+measure that minimized that disruption.
+We can evolve into the interoperability platform that you
+just recommended, and I think that is likely forthcoming, but I
+guess I want to make sure it is clear as well is that the
+existing contract expires in June of 2020. So we do not have
+the opportunity to stay on the present scheduling platform
+deployed to the Columbus pilot, hence our desire to get there
+first, replace that expiring contract with a new contract to
+take us into the future.
+Ms. Lee. Thank you. My time is up. I will recognize Ranking
+Member Banks for 5 minutes.
+Mr. Banks. Thank you, Madam Chair.
+Dr. Davies, I supported the decision to put the scheduling
+project on a faster track than the rest of the EHR, I supported
+the decision to wait until Cerner goes live at Spokane before
+starting the scheduling project, but all that was based on
+finishing in 2023. VA needed a modern scheduling system years
+ago; how can we say 2025 is an acceleration?
+Dr. Davies. As Mr. Windom said, Mr. Banks, the date of 2023
+was reached in December when there was little visibility into
+what the actual project would look like. And now that we have
+greater visibility into what Cerner's scheduling implementation
+is going to take and we have an opportunity to reflect back on
+what happened in Columbus through the lessons learned, we
+realize that to do this right, to do the organizational change
+management, to get the benefits for the patients of shorter
+waiting times, for the providers with doing more work, more
+completed appointments, and the schedulers for being able to
+incorporate this into the work, we need to take the time to do
+it right, start with the pilots in Columbus and Cleveland, and
+then use that experience to go as fast as we can through the
+rest of the country as it makes sense.
+Mr. Banks. How much is that acceleration going to cost?
+Dr. Davies. I would defer that question to Mr. Windom.
+Mr. Banks. Dr. Davies, how much of the cost is expenses
+being pulled forward and how much would be the new expenses?
+Dr. Davies. Sir, I would ask Mr. Windom to weigh in on
+that.
+Mr. Banks. Mr. Reinkemeyer, in your written--do you want me
+to defer?
+All right. Mr. Windom, do you want to answer that?
+Mr. Windom. Sir, we think there are three cost pools.
+Again, the infrastructure cost, which is the piece that we are
+still evaluating. We want to make sure--we think that the delta
+between the EHR, first of all, the primary cost of being
+brought forward from out years, if Congress concurs.
+The infrastructure piece is that tough piece to calculate,
+because what we don't want to do is overly invest in
+infrastructure to deliver scheduling and then when the
+remainder of the best of suite comes around, some new
+innovative approach renders that infrastructure upgrades
+obsolete.
+So we want to update the infrastructure in the right way
+and so we are seeking to finalize the capture of those costs,
+sir. So we should have--within a matter of weeks, we should
+have actually detailed cost estimates that we would enter into
+negotiations with Cerner on.
+Mr. Banks. Okay, we look forward to that.
+Mr. Reinkemeyer, in your written testimony you state that
+the VA expected the VistA Scheduling Enhancement would save
+schedulers time, but, quote, ``it failed to deliver on that
+promise.'' Can you elaborate on how VSE was supposed to do this
+and how you determined that it failed?
+Mr. Reinkemeyer. Not via--I cannot elaborate in a technical
+sense, but I can tell you that what we found was that during
+the requirements development process where the Department was
+trying to establish what they needed from VSE, they really
+excluded the users. And as part of that--or, you know,
+essentially, without getting the user's involvement, the
+requirements were not developed adequately, they were not the
+requirements, the right requirements, and then when they went
+to test it at the initial operating capability site in
+Asheville, North Carolina, that was some of the problems that
+they discovered. That, you know, having to toggle back and
+forth between the VSE system and the computerized patient
+records system and VistA was just taking too long.
+Mr. Banks. Dr. Davies, do you agree with that?
+Dr. Davies. I think it is important to remember that the
+users were thrilled at the time that we actually had VSE
+funded, that we actually had funding to improve scheduling. The
+users had one week to put in contract requirements that would
+kick this off, so there was no time during that time in history
+for those requirements to be fully elaborated, nor to bring in
+the users. So we had to depend on the analysis of alternatives
+that had been done 3 years earlier to come up with the broad
+statements that we knew were the direction that needed to be--
+to go in, and then use the contract time to more fully
+elaborate the requirements.
+Mr. Reinkemeyer is right, I mean, the users were not
+brought in at that time; they were brought in later, so it
+became something that was improved over time.
+Mr. Banks. Thank you. I yield back.
+Ms. Lee. Thank you. I now recognize Mr. Lamb for 5 minutes.
+Mr. Lamb. Thank you, Madam Chairwoman.
+I am not sure who knows this, so anyone can feel free to
+speak up, but the original contract for MASS was $624 million;
+is that a correct number?
+Okay, I am getting nods, just for the record. That's good.
+How much of that $624 million did we spend?
+Dr. Davies. Well, I will speak up and say I believe we
+spent $17 million on the pilot in Columbus, and then I believe
+we also spent another $2.5 million initially on the contract to
+do planning for national roll-out. There may be other costs
+that I am not aware of, but those are the two numbers that I am
+aware of.
+Mr. Lamb. Okay. Anyone--
+Mr. Windom. Congressman Lamb, I would ask that we take that
+for a look-up. That is an OIT project and we would have to
+reach into the OIT portfolio to pull out what was expanded
+against the ceiling of that existing contract.
+Mr. Lamb. Okay. Yeah, I mean, that is an important number
+for us to have when we are looking at all the money that is
+being spent on something that we are not actually going to use.
+Now, in your comments, I think it was Dr. Davies who said
+that there were lessons learned from MASS in Columbus and that
+that is actually why you want to debut the Cerner solution
+there, because you think that there are--what I took from what
+you are saying is you think there are aspects of what was
+learned in MASS that could be incorporated into Cerner, do I
+have that right?
+Mr. Windom. Yeah, I would offer, sir, that the driving
+element for replacing Columbus is the expiring contract that
+supports the present EHR system. That expires in June of 2020;
+hence we are trying to get there and replace it before that
+contract expires and there is no software support after that.
+So it is our intent to replace out a system and then--and,
+oh, by the way, as it provides a system that has already
+transitioned to a commercial-based, resource-driven scheduling
+system, and we feel like that is a way to facilitate better
+understanding for deployment across the enterprise.
+Mr. Lamb. Yeah, that part I understand, but you chose
+Columbus as a pilot site--maybe not you personally, but VA
+chose Columbus as a pilot site originally knowing about the
+length of that contract. So you chose Columbus for whatever
+advantages it presented, inked a $624 million contract, and
+then set aside the thing that we built with that $20 million.
+So that drives a little bit of the skepticism that you may
+be perceiving. I understand it if you have decided that, since
+we are going with Cerner, we might as well have a Cerner
+scheduling platform, but we are right to be concerned about
+sort of the sunk costs of this other idea called MASS, right?
+Mr. Windom. I agree, sir, with the sunk-cost element. I
+guess I would state that the MASS contract was awarded in
+August of 2015, the D&F that established that VA would move to
+the same common solution that DoD was on and Cerner Millennium
+was awarded in May of 2017. So the commitment to that pilot
+site had taken place nearly 2 years in advance of the
+contemplation of a D&F.
+Mr. Lamb. Right. So that is why I am saying I understand
+where you want to go with this now. I think we are still quite
+puzzled at the timelines and how long it is going to take and
+what the advantages are.
+But I guess with my remaining minute and a half I would
+like to know, what protocol are in place right now to make sure
+that we maximize the lessons learned in Columbus for the Cerner
+solution? In other words, how are you going to be sure that
+Cerner builds you something there that builds on what seems to
+be the strength of MASS?
+I mean, I am no expert, but what I can read here makes it
+seem like the costs went down, the wait times went down, less
+overtime, that kind of thing. So what specifically is going to
+take place?
+Dr. Davies. We have three things that--first of all, there
+are documents that have our written lessons learned that have
+been shared among the teams. Secondly, I think we have learned
+that it is critical to have the software implemented right. So
+we have teams doing site assessments, talking to the people who
+did the MASS contract in Columbus, the old contractor, and
+connecting them with the new contractor to take advantage of
+the work that has already been done.
+Secondly, the training of the schedulers. We are
+incorporating VA schedulers into the training going forward,
+because we learned how important it is to implement the new
+system in the VA environment and it takes those VA trainers who
+understand the work to be able to do the training.
+And, thirdly, we are going to sit down with every single
+provider and make sure they understand what their old schedule
+looked like and what their new schedule is going to look like
+in the old system. Keep in mind that in the old system, we
+really didn't have a schedule, we had sort of a data-collection
+system where each provider had multiple schedules. In Columbus,
+there was an average of six profiles or grids or schedules for
+every day that someone came in to work.
+We are now translating that into one sort of Outlook-
+Calendar based schedule where you can see your work from
+beginning to end, and the providers need to be involved in how
+their time is deployed and what they are doing.
+Mr. Lamb. Thank you. And I am out of time, so I will just
+cut you off, but I just want you to know that that last point
+is the one I think a lot of us care about the most. We talk to
+the providers when we are back in our districts or when we are
+visiting these hospitals, and they absolutely have to be
+included to the maximum extent possible. I know you all and
+Cerner have tried to do that, so please keep your focus on
+that.
+Thank you.
+Ms. Lee. Thank you.
+I now recognize Mr. Watkins for 5 minutes.
+Mr. Watkins. Thank you, Madam Chair.
+Mr. Windom, VA clearly thinks Cerner's scheduling system is
+good product, we do too, but the Department has cycled through
+three different systems in the last several years. What
+assurance can you give us that this will be the last VA
+scheduling project?
+Mr. Windom. Sir, our goal, our overall goal obviously
+revolves around interoperability and delivering a state-of-the-
+market solution to our users, our clinicians primarily. And so
+what we are getting in this commercial-based product known as
+Cerner Millennium is an evolving product that is leveraging the
+best of the commercial environment, the best of VA innovation,
+and will evolve to the needs of the Department, I think,
+realtime.
+I know the Columbus site deployment of a different solution
+inspires concern, but, again, when you look at the timelines of
+how those decisions were made, we would be remiss if we didn't
+go there first. The infrastructure needs are minimum, such that
+we can inject a very similar functional resource planning tool.
+And so I think what you will see is a--again, when we set
+these project timelines as well of 5 years, please understand,
+we are looking to optimize efficiencies. What we want to give
+you is a realistic timeline and then impress you with our
+deployment efforts and actually deliver sooner.
+So, sir, I think delivering capabilities in this fashion
+where these areas don't have to wait on the full implementation
+are going to benefit our veterans as a whole.
+Mr. Watkins. Thank you.
+Dr. Kroupa, I understand the VA has decided not to purchase
+the dental electronic health record from the Henry Schein
+Company. Your original plan was to implement this system
+alongside Cerner. Can you explain the thinking here?
+Dr. Kroupa. Certainly. Thank you.
+So when our dental council evaluated the Henry Schein
+product, they had concerns that it would not meet all of their
+needs. And we consulted with DoD who was using that product,
+and the decision was made that we needed more time to develop
+the functionality that they needed. And so our best course of
+action for our initial operating capability was to have an
+interface to the current dental record manager that we're using
+now and then take some time to develop out a better product for
+us to use.
+Mr. Watkins. Thank you, Doctor.
+Mr. Cussatt, VA schedulers will continue using the VistA
+scheduling enhancement system until Cerner is fully
+implemented. But the VistA scheduling enhancement still has 23
+outstanding defects that impact its usability.
+What is your plan to fix the defects?
+Mr. Cussatt. Thank you, Mr. Watkins, for the question.
+Our plan is to keep VSE in sustainment. We see it as in
+sustainment and we will fix issues as they occur. So we do
+intend to fix any issues that pop up during the remaining life
+cycle of VSE.
+Mr. Watkins. Mr. Reinkemeyer, do you have anything to add
+to that?
+Mr. Reinkemeyer. No.
+Mr. Watkins. I yield the balance of my time.
+Ms. Lee. Thank you.
+I now recognize Mr. Roy for 5 minutes.
+[Pause]
+Ms. Lee. Okay. We will reset.
+[Pause]
+Mr. Roy. I apologize for that. I thought we were going to
+the other side of the aisle, so I was distracted for a moment.
+I appreciate you all being here. I appreciate the
+difficulty of the task that we are discussing. My background,
+for what it is worth, I have a masters in management
+information systems, dealt with system implementations in
+previous lives, previous jobs. I was also in government as the
+first assistant attorney general of Texas having to deal with
+implementation of child support systems. So I understand a lot
+of the difficulties that go into that.
+I do think that, you know, there are obviously some
+concerns here about, you know, the timing and the length of
+this and what the ultimate result and the product will be. You
+know, the good news is I have spent a great deal of time in my
+district in August, the district I represent in Texas 21, which
+has Kerrville. And San Antonio, we have got some significant VA
+facilities and a large number of veterans.
+And the overwhelming sense from the folks that I talk to,
+particularly in Kerrville and in Audie Murphy, is that where
+things are already moving quickly with MISSION, they are seeing
+some very positive results and they are seeing some significant
+improvements in what is happening in terms of service, and we
+are getting very--I am getting a very positive feeling on that
+right now.
+But the continued concern being raised, of course, is
+everything we are talking about here in terms of how health
+records and scheduling and all of these kind of work and how
+much that interferes with the larger goals and initiatives of
+what we are trying to do to deliver health and deliver services
+to veterans.
+Obviously, that is a statement and we are here to hear from
+you all. But it is--I will just say, you know, one last point
+on this. Right. In the time since this timeline began, right,
+you know, this didn't exist. You know, 11 years ago, 12 years
+ago this didn't even exist. That is both a statement of the
+difficulty of the task, as technology has evolved so quickly,
+and it is also a statement of can't we get this done. So many
+great things have occurred in such a quick way.
+And the one thing I would throw out there that I think is
+worthy of discussion, the Army Futures Command, which I am
+proud to represent in Austin, Texas has a co-located facility
+that is located in downtown Austin, but with the Capital
+Factory, which is a place in Austin, Texas where you bring a
+bunch of entrepreneurs together to smash people together for
+idea generation.
+I would like to at least discuss the benefit of having, you
+know, a VA component to something like that. It doesn't have to
+necessarily be in Capital Factory in Austin, Texas, although I
+would obviously advocate for that. But that kind of thinking
+and approach to figure out how we can sort of bust through what
+is a perpetual problem in government systems development.
+I mean, let's just be honest. We all know it is a problem.
+My dad worked in systems development in the Internal Revenue
+Service in the 1980s. I kind of grew up around this and
+understood it and saw it in terms of tax systems modernization.
+It is hard and I get it.
+But sometimes we get caught up in all of the buzz words of
+interoperability and synergies and, you know, we can go down
+the list of the words that will make up 80 percent of testimony
+typically when we hear about these technologies. And I get it.
+I understand it. But we get wrapped around those axles in my
+opinion.
+A couple of quick questions if you don't mind.
+Dr. Davies, Dr. Kroupa, the scheduling system is obviously
+very important to wait times. What impact will accelerating the
+implementation of the Cerner scheduling system have on wait
+times calculation and on the referral system?
+Dr. Davies. We believe, and our experience has been that a
+resource based system with a single calendar improves wait
+times. That was our experience in Columbus, Ohio. And we
+anticipate that benefit throughout the rest of the country.
+Mr. Roy. Will that be experienced immediately?
+Dr. Davies. No. In Columbus it took about 6 months to get
+to an equilibrium where we had the system generated time stamps
+kick in, and then after that we saw the improvement in wait
+times.
+So part of the issue was measurement of the wait times. The
+other part of the issue is working more efficiently with better
+tools.
+Mr. Roy. Okay.
+Mr. Cussatt, the Office of Information and Technology has
+cycled through a lot of different project management processes
+over the years. I understand you have a new one called Agile
+DevOps. VA's record of IT capabilities versus IT investment has
+been raised as a question over the years.
+How is this new process different and what should we expect
+from it?
+Mr. Cussatt. So you are correct. We have, since about 2016,
+adopted both ITIL practices and DevOps and Agile practices, and
+we are actually in the process of renaming DevOps to DevSecOps
+to show the security we build in.
+So that coupled with our VIP acquisition process embeds all
+the best practices for engineering and architecting and program
+management into our programs, and we have been having some
+success around that with over a 90 percent delivery rate on
+time and within scope and budget for our programs.
+Mr. Roy. Well, thank you very much.
+Ms. Lee. Thank you.
+I now recognize myself for 5 minutes.
+Mr. Reinkemeyer, based on the recommendation made in the
+VSE report, would the Inspector General be concerned about the
+testimony we are hearing right now regarding the lack of
+concrete plans? Why or why not?
+Mr. Reinkemeyer. So, yes, we would. As was just stated,
+there have been a number of IT processes over the years. They
+all offer, you know, advantages and disadvantages and you could
+compare and contrast them.
+But essentially it boils down to having a discipline in
+place to manage the system that you are developing. You have to
+be able to balance the agility that you want with the
+discipline to ensure that cost analysis, business cases,
+testing, all of the required elements are in place.
+And that is really what is boiled down to the findings that
+we have had over the years in whatever system we are looking at
+is, is there a sufficient discipline to ensure that all of the
+key components of that system are managed and there is
+visibility and there is oversight over all of those functions.
+Ms. Lee. Thank you.
+At a recent briefing, Mr. Windom, you indicated that the VA
+expected to achieve a substantial out year savings in Fiscal
+Years 2023 to 2027 due to an expected reduction in IT costs.
+You specifically cited the declining costs of items such as
+computers, servers, networking equipment as contributing
+factors. I am concerned that these estimates do not consider
+the need to keep pace with the evolving state of technology as
+my colleague, Mr. Roy, pointed out.
+Yes, it is true that a laptop that costs $2,000 today might
+cost $1,000 next year. The government, however, should not be
+planning to buy outdated technology as a cost savings. What is
+the strategy? I mean, where did you get to that conclusion?
+Mr. Windom. Ma'am, I think those remarks may have been
+attributed to me by accident. I have done no analysis of out-
+year equipment purchases. I would defer to my Chief Technology
+and Integration Officer on where he thinks innovation is going
+in the way of end user devices, whether it be as a service or
+whatever.
+So I have no recollection of ever making such a statement
+because I have done no analysis in that arena.
+Ms. Lee. Mr. Short, can you weigh in on that?
+Mr. Short. Yes, ma'am. I didn't make that statement either,
+but, yes, I will weigh in on that.
+In that regard, it would be included in the Cerner cost
+throughout the program more and more of the EHR functions,
+scheduling functions, everything is included in the cost that
+we have laid out for the 10 years. And as over time, all the
+VistA pieces will be deprecated on the EHR side and OIT is
+looking at the other portions of VistA.
+So for many of the systems we have identified, there is
+over 60 that we have identified outside of VistA that would
+also go away through that 10 year transition, those would be
+the ones that could be attributed to that, reducing the servers
+and overall maintenance of those systems.
+Ms. Lee. Okay. But let me be clear. So we are going to
+start--you are going to start the scheduling process literally
+from the east coast going west. But you are starting the EHR
+from the west coast going east.
+So how do you plan--like, you know, there is infrastructure
+issues, obviously. And, by the way, you are not going to
+start--you are not going to implement the EHR in Columbus until
+2025 or 2026. So have you accounted for the infrastructure
+needs with that sort of crisscrossing the country?
+Mr. Windom. Ma'am, I eluded to it earlier. That is why it
+is so important to get the infrastructure planned right. I
+don't want to introduce to you costs that need to be brought
+forward until we put the appropriate rigor in what is the, I
+don't want to say the minimum level of infrastructure
+investments, but the right level of infrastructure investments
+to support just the scheduling deployment.
+We are doing current state reviews just like we did on the
+full implementation. And so we will have better visibility on
+what actual infrastructure costs will be.
+As you know in the pacific northwest, we discovered a
+substantial refresh element that needed to be done in advance
+of deploying the EHR. We want to put the same rigor, again,
+that is why we are going to go Cleveland as a second pilot
+because we believe Columbus has already been updated, upgraded
+based on our assessments, and so it wouldn't be a true
+representation of what is out there in the enterprise because
+as you have indicated before, they have deployed the MASS
+solution. So they are primed to receive the Cerner Millennium
+Solution which would not be a representative example of the
+environment.
+So CSRs, ma'am, will give us that visibility where we have
+turned on a CSR for Cleveland. And so we expect to have
+realtime data for you in the coming weeks.
+Ms. Lee. Okay. So we are expecting some cost estimates
+around November. Is that included in this or is that separate?
+Mr. Windom. Ma'am, the only remaining cost estimate we have
+for you is infrastructure. We have got visibility on what we
+believe the EHR--again, a separate labor force has to be set up
+in Columbus. That is a cost that is separate from the licensing
+to change management which is already incorporated in the
+contract.
+In addition, we think--as you heard, and if I may respond
+to a question, we think we are bringing stability to this
+because the pillar that leads scheduling will be under the
+OEHRM umbrella, not under OIT, not under VHA. So there won't be
+any mixed messaging provided to Cerner that they could
+potentially capitalize on. We will be directing, with the
+support of OIT and VHA, our partnership remains paramount. And
+so we think we have a plan that stabilizes our deployment, vice
+creates any additional risk.
+Ms. Lee. I am over time.
+I now recognize Ranking Member Banks.
+Mr. Banks. Thank you, Madam Chair.
+Mr. Windom, I think VA is making the right decision to go
+live with the Cerner functionality at Seattle and American Lake
+in October 2020 rather than partial functionality in April and
+the rest later.
+Can you elaborate on how that decision was made?
+Mr. Windom. Sir, the one thing I have to keep reminding
+myself, especially as a non-clinician, is that this is about
+the end users. This is about changed management and user
+adoption success.
+And so I would rather defer that to Dr. Kroupa because that
+is what our strategies are primarily revolved around, is making
+sure we roll out capabilities in a way that maximizes user
+adoption vice inhibits the education and training process that
+we know.
+So, sir, if I may defer to Dr. Kroupa.
+Ma'am.
+Dr. Kroupa. Certainly. Thank you.
+So the decision to go to Puget Sound in October was really
+based on the timeline that was needed to develop the workflows
+and the functionality that is needed at a highly complex, two-
+division, academic medical center, quite a bit more complex
+than Spokane and needed more time for content development and
+more time for configuration.
+So it was based on the needs of the medical center and the
+veterans there.
+Mr. Banks. Okay. Good
+Dr. Kroupa, as well, somewhere always has to go first and
+Spokane is first. We have talked in previous hearings about the
+normal productivity hit when a new EHR is installed. 30 percent
+is typical. I know you are trying to mitigate that impact, but
+do you think going live in Spokane in March with partial
+functionality would make that productivity hit bigger or
+smaller?
+Dr. Kroupa. I just spent a week in Spokane last week
+talking about this topic with them. I think we have a good
+handle and getting a better handle on all the different impacts
+that the functionality will have and just the basic
+productivity hit that any EHR is going to do.
+Truthfully, I don't think that most of the challenges we
+are going to face are a problem because of the capability set.
+They are getting, you know, a lot of capability, many things
+are much of an upgrade from what they are currently getting in
+CPRS. And they are ready for those workarounds.
+So I think the capability set part of that is really a
+minor component of the overall mitigation we need to do for
+productivity for any EHR implementation, particularly an IOC
+site where we are all learning as we go.
+Mr. Banks. So when is the final decision point for Spokane
+to go live in March?
+Dr. Kroupa. Well, we will be making those decisions as we
+go through different milestones. Obviously, we have testing
+coming up. We will have training coming up. So we will be
+working with VHA and OIT, and within--
+Mr. Banks. But at what point--
+Dr. Kroupa [continued]. --the program.
+Mr. Banks [continued]. --at what point is it all systems
+go, go live in March?
+Dr. Kroupa. Well, I believe that we will be making that
+decision in March right as we make sure that everything is
+ready. But we will have milestones before that to look at that
+timeline, if we have to alter that.
+Mr. Banks. Okay. This next question is for Dr. Kroupa and
+Dr. Davies.
+As you know, I am concerned about the staffing vacancies,
+physical infrastructure deficiencies and limited community care
+capacity that already exists in Spokane. EHRM did not create
+these problems, but the go live will make them more apparent,
+even under the best circumstances.
+What is VHA's plan to remediate those conditions before the
+Cerner go live?
+Dr. Kroupa. I can take that.
+So, again, I spent last week in Spokane going through that
+in detail, working with their front line staff to understand
+their challenges, what they thought they needed. There is a
+plan being put together to figure out--to put together and
+describe the number of staff that they will need, what other
+kind of mitigation policies we can use in terms of Telehealth,
+bringing in providers from other sites, doing things remotely,
+distributing some of their work remotely as well.
+So we are developing that comprehensive plan and there is
+active involvement of VHA and the visit and the facility in
+that plan.
+Mr. Banks. Anything else?
+Dr. Davies. I would add that one thing we learned in MASS
+implementation was that it made the scheduler's job easier, and
+at one point our scheduler turnover had dropped quite a bit
+from the baseline. So we hope and expect that those
+improvements will bear out in the remainder of the
+implementation.
+Mr. Banks. Okay. Well, Dr. Davies, when staff visited
+Spokane last month, they requested the data on staffing
+vacancies and physical space deficiencies. The medical center
+compiled it and sent it up to the Office of Congressional
+Legislative Affairs. But we have yet to see it.
+So I would like for you to provide that information by the
+end of the week, if that is at all possible.
+With that I will yield back.
+Ms. Lee. Thank you.
+I will now recognize myself for 5 minutes.
+Mr. Reinkemeyer, first of all, we are expecting to see some
+cost estimates in the next couple of weeks. What information or
+data would be necessary to show that the VA had conducted a
+proper analysis of how much the program will cost?
+Mr. Reinkemeyer. Well, all of that should be outlined in
+their new program management review process. But I would expect
+to see the infrastructure costs, the system costs, the changed
+management costs, really the life cycle costs of the system.
+And if they have put a thoughtful plan together on that and
+displayed that and made that visible for all to see, then you
+could certainly have a discussion about whether it is the right
+cost.
+Ms. Lee. Thank you.
+Would OIT have concerns about the reliance on future cost
+savings in this case?
+Mr. Reinkemeyer. I would have to--
+Ms. Lee. See it?
+Mr. Reinkemeyer [continued]. --we would have to take a
+look. I mean, I think everybody at this table is well
+intentioned in trying to move it forward.
+Ms. Lee. Yeah. Mr. Cussatt or Mr. Windom, our understanding
+is that the OEHRM is responsible for the hardware that is
+needed for the deployment of the EHRM. The issue of funding and
+planning for long term technology refresh cycle comes up every
+EHRM briefing.
+We are told that this is OIT's responsibility. So how are--
+what is the plan to meet that responsibility?
+Mr. Windom. Ma'am, I think based on the way the funding
+profile is, is that you have entrusted OEHRM to fund those
+related costs associated with EHRM efforts. I can tell you the
+partnership with OIT is imperative to reach our objectives.
+They have the contract vehicles in place in support of many of
+these commodity purchases that we need to make. So we have
+been, in fact, utilizing their subject matter expertise out in
+the field, their contracting vehicles to support getting things
+on contract in support of our timelines. That has been working
+well.
+And so I would defer to Mr. Cussatt for any additional
+comments.
+Mr. Cussatt. Yeah. I would agree with Mr. Windom. We have a
+very close partnership to look at all of the sites that are
+coming up for deployment, determine where they are in the
+modernization that is needed to support the Cerner system.
+We go ahead and pay for the things we already had planned
+in the course of our normal modernization, and then we work
+with OEHRM to determine the things that need to be accelerated
+and done more quickly for that site. And then we work to cost
+that out through the OEHRM program.
+Ms. Lee. So is it safe to say that you will be responsible
+for the likely refresh that is going to be needed at the
+facilities that go live with the CSS early on, but then won't
+get to the rest of the EHRM until the end of the deployment
+cycle?
+Mr. Cussatt. Yes, ma'am. We are responsible for the IT
+underpinnings and infrastructure for all of the sites for
+either CSS or Cerner to make sure they are ready for
+deployment.
+Ms. Lee. Okay.
+I want to move on a little bit to management and
+governance. And, Mr. Reinkemeyer, what key management concerns
+did you find after looking at the VSE and what recommendations
+did you make?
+Mr. Reinkemeyer. So we made one recommendation and that was
+really to ensure proper oversight and that the project
+development process was followed.
+As I mentioned earlier, there has been a number of
+processes that have been in place over the years and they all
+provide some value. It really comes down to leadership and
+ensuring that they are following, ensuring that the T's are
+crossed and the I's are dotted, ensure that there is a
+discipline process that protects, you know, the taxpayer's
+money and provides reasonably assurance that the system is
+going to be developed.
+One of the concerns that we had with VSE--and as I pointed
+out, it is a very small project. So certainly it is not fair to
+maybe compare it to the CSS system. But there is such a
+constant shift in direction with VSE as I pointed out. For a
+while it was the highlight, then it shifted to MASS, then it
+went back to VSE and now it is ultimately with the Cerner
+scheduling.
+I think that is what I would highlight.
+Ms. Lee. Okay. In June you told, Mr. Windom, you told the
+Committee staff that OEHRM was only partially staffed. How many
+positions have you filled and how many are open?
+Mr. Windom. Ma'am, we filled 102 positions since we last
+spoke.
+Ms. Lee. Okay.
+Mr. Windom. And we still have our primary goal of 265 to
+285 as the outstanding goal. So we feel like we have about 150
+plus more vacancies. But, again, I can't emphasize enough, we
+want to bring the right people into the portfolio, which we are
+doing, and with the right expertise. But we appreciate your
+continued support. As we wrap up, we think we are making
+substantial headway.
+Ms. Lee. Great. Thank you.
+I am finished. I would now recognize Ranking Member Banks.
+Mr. Banks. Thank you, Madam Chair.
+Mr. Cussatt and Mr. Short, continuing on the subject of
+Spokane, I understand the data center is directly underneath
+the kitchen and leaks have become almost routine. The only way
+to solve it would be to relocate the data center or to relocate
+the kitchen. And until that happens all anyone can do is put a
+tarp over the servers.
+Again, EHRM did not create this problem. What is the long
+term plan to solve it?
+Mr. Short. Mr. Banks, VHA owns the facilities. They have
+the construction. It is one of the items that we laid out and
+Cerner also called it out in the current state review, CSR,
+that they did. And VHA is in the process of doing contracting
+to resolve that.
+For the record, we can come back and give you the plan that
+they have.
+Mr. Banks. All right. Anything else?
+Mr. Cussatt. Yeah. OIT is working very closely with VHA to
+look at all the data centers, the closets, make sure that their
+current state, if they can't be changed by the time of the
+rollout is within performance tolerance levels and can be
+managed. But it is our aim and intent to work with VHA to
+upgrade them for the long haul.
+Mr. Banks. Okay.
+Mr. Short, a recent slide deck provided to the Committee
+indicates that the data interface for the Cerner scheduling
+system for the initial sites has always been ``resolved.'' What
+does that mean?
+Mr. Short. That was a tracking document for--we have
+several sets of interfaces we are tracking. One is for the EHR
+going live, one is for CSS going live. So the view you were
+looking at in that slide would be for the EHR going live.
+So the resolve meaning on that slide was we don't need the
+integration for the Cerner scheduling to VistA for it to go
+live with EHR. We need it for CSS. Another slide would show you
+that we have a plan for that. We are going to replicate the
+integration that was done for Mass, with a couple of changes to
+it, the same interface engine.
+So resolve means we don't need it for EERH to go live and
+we know what the plan is and design ins, and we have the
+interface control document for the planning for the scheduling.
+Mr. Banks. Okay.
+Mr. Windom, one of your project metrics is a quote
+``version 1 story,'' meaning an activity that must be performed
+in order to deploy the EHR with initial capabilities. How many
+of those are currently blocked and how many are blocked because
+DoD and VA haven't made a decision?
+Mr. Windom. Sir, I think the--your comments over the past
+hearings revolving around the importance of DoD and VA working
+together has created that synergy.
+I can tell you we had 27 joint decisions that needed to be
+made approximately 2 and a half months ago, and we are sitting
+at a point where all but 8 have been made. So that progress is
+fantastic.
+So this is just the challenge of integrating 2 major
+agencies with differing methodologies in many cases. I feel
+like we have been moving progressively in the right direction.
+I would also add because you made a comment about the FEHRM,
+the FEHRM has been involved in that process and facilitating
+those.
+So I think the evolution that you wanted to see is
+happening. It never happens as fast as you would like. But I
+think it is happening and I think it is largely because of
+Subcommittees like this, sir.
+Mr. Banks. Thank you very much.
+With that I yield back.
+Ms. Lee. Thank you.
+I would like to ask this for all the witnesses, and this is
+with respect to governance and accountability.
+With regard to the implementation of the scheduling
+solution, what do each of you view the responsibility of OIT,
+OEHRM and VHA?
+Mr. Windom. Ma'am, I believe that under the Dep. Sec. I
+report directly to the Dep. Sec. on behalf of matters as it
+pertains to OEHRM. Scheduling is clearly a parameter and an
+element of the contract we awarded to Cerner. We will be
+modifying the contract because the deployment of scheduling
+separately is a new scope item, but is a scope well within the
+capability set that presently exists in the contract.
+I believe the accountable person is me. O and VHA are vital
+teammates. They are the ones who control the users, the
+infrastructure, the network, the things that we have to ride on
+and need to support our overall success. So that partnership is
+inseparable.
+And so that is the way that we are moving forward in our
+strategies is OEHRM has the rose, if you will. But being able
+to tap into the resources of OIT and VHA are critical to our
+success, and I think those partnerships not only have evolved,
+but continue to evolve in support of our ultimate mission
+objective.
+So that is how I would describe it, but I would defer to
+OIT and Mr. Cussatt if he had any additional comments.
+Mr. Cussatt. I certainly agree with everything Mr. Windom
+said. A few things we do in OIT to hold up our end of the team
+is we instituted; in light of the IG report we instituted a new
+PMR process for all of our programs where we have some rigor
+for reviewing those programs regularly.
+We have a governance process that if there are any issues
+that pop up during the PMRs, it goes up to the governance
+process. And this is all overseen by our new quality,
+performance and risk office that houses our chief risk officer
+and our chief audit executive.
+We have divested that office of any operational duties so
+that they are sort of our internal conscience so to speak to do
+some internal validation and verification and audit and make
+sure that everything stays on track. And they can inform the
+CIO and me as his deputy when things are off track, and the
+governance board.
+And, lastly, I will say I see it as our responsibility and
+VA CIO's Office to build a very strong partnership with DoD
+CIO's office. I co-chair with my counterpart, the principal
+deputy in the DoD, Essye Miller, an IT steering committee. We
+are going to meet actually this afternoon where we have a forum
+to talk about interoperability issues. We want to break all
+barriers down.
+So I see that as part of our responsibility to build that
+relationship.
+Dr. Davies. Speaking for VHA, I would say that we represent
+the end users and the interests of the schedulers and the
+physicians and non-physician providers who are using this
+system. Our strong interest is making this right, to make sure
+that this works in the day to day workflow so that they can
+serve the veterans' needs every day.
+We do, ma'am, as you may know, maybe 60 million
+appointments a year in VA. So this is right at the heart of our
+mission delivery.
+In that vein, our office is organized in 10N operations and
+we have direct connections to the facility, network and
+facility leadership. And we are very interested in the
+organizational change of management, in the training, in the
+preparation of the users for the go live date, and in the
+continual improvement of using the information afterwards to
+improve it.
+So I see it as 2 steps. We need to get the information
+system in place. And these guys are going to do that, and we
+have a great team, you know, with working together with them.
+Once that information system is placed, then we need to
+train the users, especially the mid-level managers, to help
+take the information, the new information that they now have,
+and use it to continually improve care for our veterans and the
+efficient operation of our system.
+Ms. Lee. Thank you.
+Dr. Kroupa. Well, I don't have too much to add because I
+agree with Mr. Windom. But I see myself as, you know, I am a
+clinician. I have been in VHA for over 30 years. So I strongly
+feel that we are the servant for VHA to bring this
+functionality to the frontline users and to veterans, including
+VBA in that as well.
+So we have definitely--I see myself as a champion for the
+functional user, focused on this one mission so that they can
+provide care to veterans.
+Ms. Lee. Thank you.
+Mr. Short. Ma'am, thank you for the question.
+I agree with what other people have said. I would also add
+that OEHRM has the overall end to end picture for the whole
+program for each modernization, working with all these other
+offices and with DoD to make sure that we provide the right
+level of service and care to the veteran and for the clinician,
+for VHA to maintain the facilities and improve the facilities.
+So we put the EHR into the right facilities. We don't have
+a leaking data center. We have the right data center. We have
+the right facilities. And also to provide the staff for
+guidance, direction testing, planning and validation to improve
+that clinical care. And for OIT to continue to maintain the
+systems, continue to facilitate our work with the system so
+OEHRM and Cerner can modify the systems as necessary, and also
+to provide access to those systems, and to also, as Mr. Cussatt
+said, to really get that partnership with DoD for IT and cyber
+to make sure that we can move through quicker and faster.
+Ms. Lee. Thank you.
+Well, I would like to thank all the witnesses for your
+participation today, and I hope we can continue to work
+together as this Subcommittee continues its oversight of the
+technology modernization efforts.
+Obviously, the EHRM project is a big concern and I don't
+need to tell you how important and complex it is as you deal
+with it on a day to day basis. But we are also looking at
+numerous projects across the VA, most importantly, as Dr.
+Davies said, to make sure we are providing the utmost care in a
+timely manner to our veterans which is obviously where the
+scheduling program comes in.
+I think on my behalf, I mean, I think the biggest concern
+here is we had a--you know, looking at the history of IT roll
+outs in the VA and the fact that we had a scheduling pilot that
+got rolled out and was successful and achieved the goals, and
+then we are scrapping it obviously because it was included in
+the contract with Cerner. As you eluded to, Mr. Windom, that,
+you know, this interoperability and the lack of complexity in
+terms of having another platform was a driving factor in making
+that decision.
+I will caution that my biggest concern with the EHRM
+project is that you, all of you have the potential to really
+revolutionize electronic health records not just for the DoD
+and VA, but for all of health care providers across this
+country.
+And then as, you know, we are tasked with looking at how we
+reduce health care costs across the country I think this
+project, if rolled out and done well, will be a vital
+determinant of that. And so when we look at making decisions
+such as scrapping what was already done that was successful and
+going with one provider, on developer. I have major concerns
+with that, that we are basically developing a monopoly.
+And so I would like to see as we move forward in this what
+moves we are making to make sure that other vendors and other
+providers have access to this type of technology without having
+to make a contract with one provider moving forward. I am very
+concerned about that.
+And, you know, right now my biggest concern is we are
+making these big decisions, yet we don't necessarily have a
+handle on the costs or the plans. And I know that is
+forthcoming. So we are looking forward to seeing that. We are
+looking forward to the OIG facilitating and moving forward
+because, clearly, the technology is there. It is obviously
+individual--you know, we have it in the management and the
+decision-making process is really what is going to determine
+the success of this program.
+And, you know, I can't stress the complexity of this and I
+respect all the work that all of you do, and I continue to
+stress that we are working together to make sure that this is a
+success, most importantly for the veterans of this country.
+So thank you all for your time and we will see you later.
+Thanks.
+All members have 5 legislative days to revise and extend
+their remarks and include extraneous material.
+And the hearing is now adjourned.
+Thank you.
+
+[Whereupon, at 11:20 a.m., the Subcommittee was adjourned.]
+
+A P P E N D I X
+
+----------
+
+Prepared Statement of John H. Windom
+Good morning Madam Chair Lee, Ranking Member Banks, and
+distinguished Members of the Subcommittee. Thank you for the
+opportunity to testify today in support of the Department of Veterans
+Affairs (VA) initiative to modernize clinical scheduling by
+accelerating implementation of the Cerner Scheduling Solution (CSS). I
+am accompanied today by Dominic Cussatt, Principal Deputy Assistant
+Secretary for the Office of Information and Technology, Dr. Laura
+Kroupa, Chief Medical Officer for the Office of Electronic Health
+Record Modernization (OEHRM), Mr. John Short, Chief Technology and
+Integration Officer for OEHRM, and Dr. Michael Davies, Senior Advisor
+to the Assistant Deputy Under Secretary for Health for Access, Veteran
+Health Administration (VHA).
+I want to begin by thanking Congress, and specifically this
+Subcommittee, for your continued support and shared commitment to the
+success of the Electronic Health Record Modernization (EHRM) program.
+Because of your unwavering support, VA's mission of improving health
+care delivery to our Nation's Veterans and those who care for them
+while being a responsible steward of taxpayer dollars continues.
+Background
+VA currently manages clinical scheduling using the Veterans Health
+Information Systems and Technology Architecture (VistA). According to a
+VHA requested analysis, VistA scheduling is clinic-based, so the system
+has one profile for each clinic in which a specific provider works.
+Given that providers often work in five or more clinics, disparate
+profiles prevent schedulers from viewing the provider's whole
+utilization picture and efficiently deploying VA resources.
+Additionally, its outdated user interface and manual process steps
+create inefficiencies. VistA does not provide VA the requisite
+functionality, usability, and overarching business benefits.
+Therefore, in 2018, VA implemented the Medical Appointment
+Scheduling System (MASS), a resource-based, commercial off-the-shelf
+scheduling solution to replace the clinic-based VistA scheduling
+system. The MASS pilot occurred at the Chalmers P. Wylie Ambulatory
+Care Center in Columbus, Ohio, and showed that the resource-based
+solution's intuitive user interface simplified scheduling processes,
+increased scheduler productivity, and tracked provider utilization to
+ensure efficient use of VA resources. Additionally, MASS standardized
+reporting processes, increased visibility of available appointments,
+and added greater functionality to support timely access to care.
+VA's MASS contract agreement expires in June 2020. VA will use its
+EHRM Indefinite Delivery/Indefinite Quantity (ID/IQ) contract with
+Cerner to accelerate its CSS implementation, since the contract already
+includes licenses to implement the CSS across VA's enterprise. To keep
+capabilities in the hands of clinicians and standardize scheduling
+processes across the enterprise, VA will leverage the architecture and
+lessons learned from the MASS solution. VA is collaborating with key
+stakeholders from the MASS implementation and Cerner teams to ensure
+these lessons learned are incorporated in VA's new scheduling
+initiative.
+Like MASS, CSS is a resource-based scheduling solution that will
+increase scheduling efficiency, provider productivity, and ensure
+Veterans' timely access to care. The Chalmers P. Wylie Ambulatory Care
+Center will serve as the pilot site for CSS, with Go-Live scheduled for
+April 2020. The Columbus facility was specifically chosen due to the
+site's expiring contract. The site assessment has been conducted and is
+under staff review. Thereafter, the Louis Stokes VA Medical Center in
+Cleveland, Ohio, will serve as a larger pilot site for CSS.
+After this pilot, VA will replace the VistA scheduling system with
+CSS on an accelerated timeline to facilitate the delivery of high-
+quality health care to our Nation's Veterans. VA believes there is a
+return on investment in productivity and efficiency by accelerating the
+scheduling component from the EHRM effort. This implementation plan
+will provide resource-based scheduling to VA facilities five years in
+advance of full electronic health record (EHR) capabilities and allow
+the VA to conduct current state reviews on the state of the
+infrastructure to inform future year funding requests. Veterans and
+end-users will benefit from an accelerated CSS implementation schedule
+by:
+
+Receiving a resourced-based scheduling solution that is
+significantly more dynamic than the current clinic-based VistA system,
+as CSS will provide enhanced views, reporting ability, and utilization
+tracking;
+
+Bringing state-of-the-market EHR capabilities across VA's
+enterprise sooner; and
+
+Building partnerships and leveraging training and change
+management processes to aid in the full deployment of EHRM
+capabilities.
+Implementation Planning and Strategy
+VA established a dedicated pillar within OEHRM to provide oversight
+for CSS implementation. Government personnel and contractor staff will
+support the scheduling modernization effort by providing expertise
+based off the full EHRM effort in areas including deployment and change
+management. The pillar will collaborate with end-users, VHA, (OIT),
+Veterans Benefits Administration, Office of Technical and Integration
+partners, and Cerner CSS implementation personnel to support the
+transition to CSS.
+Understanding that many transformations fail due to lack of
+leadership buy-in or cultural resistance to change, VA and Cerner staff
+will deliver on-site training in advance of CSS Go-Live, ensuring end-
+user readiness and continuity of care for our Veterans. After the
+Columbus CSS pilot, VA will refine its training and implementation
+methodologies in support of anticipated full enterprise implementation
+by 2025. Keeping in mind that front-line staff have important work to
+do on behalf of our Nation's Veterans, CSS training will be conducted
+on flexible schedules throughout the week, including weekends.
+Site Readiness Activities
+VA will proactively engage facilities across the enterprise to
+prepare each site for the scheduling modernization effort. VA's
+implementation process includes meetings with VA facility leadership
+and staff, change management strategy, communications to end-users,
+site assessments, configuration, testing, training, and Go-Live support
+at each site. VA will look to internal and Cerner expertise to identify
+requirements and transition sites to the new CSS platform.
+VA has awarded a task order (TO) for pilot site survey activities
+to gather the requirements for implementing CSS; VA will continue using
+the ID/IQ contract structure, awarding firm-fixed price TOs as
+requirements are validated. The Columbus and Cleveland pilots will
+enable VA to better understand infrastructure requirements. VA will
+integrate lessons learned and efficiencies gained from the pilots and
+EHRM's efforts initial operating capability into future
+implementations.
+Funding Profile
+VA plans to request bringing forward EHRM funds from the out-years
+to support an accelerated CSS implementation. Planned expenditures will
+support infrastructure modernization, accelerated training, and help
+desk expansion services. VA is building a funding profile for
+accelerated CSS implementation in collaboration with stakeholders and
+will solidify the funding required to implement CSS at other facilities
+based on factors identified during site surveys, including facility
+size, complexity of legacy systems, and staffing requirements. After
+the pilots in Columbus and Cleveland, Ohio, are complete, VA will have
+a better understanding of the funding required to deploy CSS across the
+enterprise.
+VistA Scheduling Enhancements
+In May 2014, VA developed VistA Scheduling Enhancements (VSE) as an
+interim scheduling solution to fulfill patient scheduling needs until a
+commercial scheduling solution could be implemented. VSE acts as a
+bridge from legacy VistA to CSS, improving appointment reliability and
+scheduling workflow functions until the CSS platform is fully in place.
+In August 2019, VA's Office of Inspector General assessed VA's
+management of the VSE project and recommended that VA improve project
+management oversight so that project requirements are adequately
+defined and supported before undertaking information technology (IT)
+projects. VA concurs with this recommendation and VA's OIT is
+implementing a new program management review (PMR) process that will
+independently ensure IT projects are healthy and deliver the desired
+outcomes. With the signing and issuance of a policy memorandum, dated
+July 15, 2019, the new PMR process is now in effect. With this process
+in place, VSE will continue to help VA providers achieve better
+continuity of care for Veterans until their permanent scheduling
+solution arrives.
+Conclusion
+EHRM's program efforts will enable VA to provide the high-quality
+health care and benefits that our Nation's Veterans deserve, and CSS is
+a vital component of the care delivery experience. VA leadership is
+committed to successful implementation of CSS and believes that this
+effort will improve our delivery of quality health care to Veterans. VA
+will continue to keep Congress informed of milestones as they occur.
+Madam Chair, Ranking Member, and Members of the Subcommittee, thank you
+for the opportunity to testify before the Subcommittee today to discuss
+one of VA's top priorities. I am happy to respond to any questions that
+you may have.
+
+Prepared Statement of Larry Reinkemeyer
+Chairwoman Lee, Ranking Member Banks, and members of the
+Subcommittee, thank you for the opportunity to discuss the Office of
+Inspector General's (OIG's) oversight of the Department of Veterans
+Affairs medical scheduling enhancement efforts. The OIG is committed to
+serving veterans and the public by conducting oversight of VA programs
+and operations through independent audits, inspections, reviews, and
+investigations. Ensuring veterans have timely access to quality care is
+a top priority and can only be accomplished through accurate and
+efficient scheduling systems.
+In August 2019, the OIG published the report, VA's Implementation
+of the Veterans Information Systems and Technology Architecture
+Scheduling Enhancement Project Near Completion.\1\ This audit detailed
+how the Office of Information and Technology (OIT) and the Veterans
+Health Administration (VHA) managed the implementation of VA's Veterans
+Information Systems and Technology Architecture (VistA) Scheduling
+Enhancement (VSE) project. The OIG determined that the VSE project
+management team-which included OIT program and project managers and VHA
+project managers-did not effectively manage the project to ensure
+scheduling enhancements were adequately developed and met users' needs.
+---------------------------------------------------------------------------
+\1\ VA's Implementation of the Veterans Information Systems and
+Technology Architecture Scheduling Enhancement Project Near Completion,
+August 20, 2019.
+
+---------------------------------------------------------------------------
+BACKGROUND
+
+VistA was designed as an electronic health record system with a
+scheduling component. Since the 1980s, VHA has relied on the VistA
+system to make and track patient medical appointments. The technology
+underlying this legacy scheduling system that is used by VA medical
+facilities became cumbersome, outdated, and unable to handle the
+complexities and volume of VHA scheduling requirements as they
+developed and expanded over time. The scheduling system was also not
+designed to integrate mobile, web, and telehealth scheduling. In fiscal
+year (FY) 2000, VHA determined that VistA should be replaced and
+launched the Replacement Scheduling Application (RSA) project to look
+for a commercial off-the-shelf (COTS) software program as a solution.
+In April 2002, VA determined that no COTS software developers were
+willing to make their scheduling application compatible with VA's
+systems. The VHA chief information officer at that time decided to
+significantly change the scope of the project from a COTS solution to
+an in-house build of the scheduling application. In March 2009, a memo
+from the under secretary for health to the acting assistant secretary
+for information and technology stated that the RSA project had not
+produced a single scheduling capability that VA could use, nor was
+there an expectation that one would be made available. In May 2010, the
+Government Accountability Office reported that VA spent an estimated
+$127 million over nine years on its outpatient scheduling system
+project and found that it did not implement any of the planned system's
+capabilities and was essentially starting over.\2\
+---------------------------------------------------------------------------
+\2\ Government Accountability Office, Management Improvements Are
+Essential to VA's Second Effort to Replace Its Outpatient Scheduling
+System, GAO-10-579, May 27, 2010.
+
+---------------------------------------------------------------------------
+Development of VSE
+
+In 2011, after analyzing alternatives, VA decided to pursue another
+COTS solution that led to the development of the Medical Appointment
+Scheduling System (MASS). Simultaneously, VA was working on its
+strategic goal of mending its scheduling system under VistA Evolution,
+a joint VHA and OIT program designed to improve the efficiency and
+quality of veterans' health care. In 2014, VHA and OIT realized that
+small enhancements to the VistA scheduling interface could not only be
+made to meet its needs, but also could be done at a much lower cost and
+with faster implementation than acquiring a new system. This joint
+effort progressed into the in-house development of the VSE project, as
+a temporary solution while MASS was being pursued.
+In May 2014, the VSE project was launched and in July 2014 VA
+awarded a firm-fixed-price contract to contractor Hewlett Packard
+Enterprise Services LLC to design, develop, test, and support the
+release and implementation of VSE with a cost of $4.1 million and a
+completion date of November 2015. Ultimately, the cost increased to
+$6.8 million due to additional software development, enhancements, and
+a post-warranty support extension.
+VSE was expected to update VA's legacy system with a modern
+graphical user interface that resembles what a user might see on a
+Microsoft Outlook calendar, while not changing any of the functionality
+of the VistA scheduling system. Specifically, VSE would include
+enhancements such as an aggregated view of clinic profile scheduling
+grids, a single queue or list for appointment requests, resource
+management reporting, and high priority or critical patches to the
+VistA scheduling system.\3\ VSE was anticipated to reduce the time
+schedulers took to enter new appointments by making it easier to see
+care provider availability and appointment details.
+---------------------------------------------------------------------------
+\3\ VHA requires an aggregated view of clinic profile scheduling
+grids to allow the user to view the resource's availability
+collectively and decrease the time it takes to match an available
+resource with the patient's request and improve the appointment
+scheduling process.
+
+---------------------------------------------------------------------------
+Development of MASS
+
+In November 2014, VA issued a request for proposals for the new
+longer-term scheduling system, MASS, to replace the VistA scheduling
+system. According to a VA fact sheet, MASS would enable proactive,
+resource-management-based scheduling, which considers the availability
+of staff, facilities, and equipment while also providing improved
+transparency, and consistent implementation of scheduling policies and
+directives. In August 2015, VA awarded an indefinite-delivery,
+indefinite quantity contract for MASS to Systems Made Simple Inc. at a
+maximum cost of about $624 million over a seven-year period. During an
+April 2016 congressional hearing, VA officials at the time stated that
+MASS was put on hold while VSE was being developed. However, in January
+2017, the deputy secretary at that time directed that MASS pilot
+activities resume at the Boise VA Medical Center (VAMC) in Idaho, with
+the requirement that MASS would be used for scheduling veteran
+appointments at the center by July 2018. In April 2018, MASS had been
+successfully deployed at the Chalmers P. Wylie Ambulatory Care Center
+in Columbus, Ohio, ahead of schedule.
+In December 2018, VA reported to Congress on medical appointment
+scheduling that the new Cerner contract includes an appointment
+scheduling system component that will be rolled out across the VA in
+conjunction with the electronic health records system over a 10-year
+period. Cerner scheduling solutions are being coordinated by VA's
+Office of Electronic Health Record Management. Due to concerns about
+the length of implementation time for the Cerner electronic health
+records system across VA, the Department intends to separate the
+scheduling component within the Cerner contract and implement it on a
+faster track to benefit all regions of the country. To mitigate the
+risks, VA will not begin the scheduling component deployments until
+after the full electronic health records system implementation is
+achieved at two sites in the VA Northwest Health Network.\4\ The first
+standalone scheduling component is planned for deployment in 2020 and
+the last deployment is planned in 2023, according to the December 2018
+report. However, with the decision for VA to go to a Cerner-based
+solution, the MASS project will no longer be deployed to other sites.
+The Cerner scheduling standalone component will replace VSE, MASS, and
+the VistA scheduling system.
+---------------------------------------------------------------------------
+\4\ The VA Northwest Health Network (Veterans Integrated Service
+Network 20) facilities are the initial operating capability sites for
+implementation of the new electronic health records system.
+
+---------------------------------------------------------------------------
+INADEQUATE VSE PROJECT MANAGEMENT OF DEPLOYMENT AND IMPLEMENTATION
+
+The OIG determined the VSE project team did not adequately manage
+the development of the scheduling system due to deficient requirements,
+insufficient testing and staff turnover. OIT approved the national
+release and deployment of a version of VSE in April 2017. VSE suffered
+delays from its original contract that ended in July 2016. In August
+2016, the deputy secretary at that time implemented a remediation plan
+for VSE to address usability issues that further delayed
+implementation. Delays in deployment persisted until the final contract
+modification ended in September 2017. As of August 2018, VA had
+deployed the VSE to 157 of 160 locations according to a project analyst
+for OIT's Enterprise Portfolio Management Division.\5\
+---------------------------------------------------------------------------
+\5\ According to a project analyst for OIT's Enterprise Portfolio
+Management Division, VHA granted two permanent implementation waivers
+for the VA medical centers in Columbus (using MASS) and Indianapolis
+(implementing another commercial scheduling system about 15 years ago).
+Also, the San Diego VA Medical Center remains partially implemented,
+with an approved VHA waiver, but plans to fully implement VSE ``as is''
+by the end of FY 2019.
+
+---------------------------------------------------------------------------
+VSE Requirements Were Inadequate
+
+The audit team was told that VHA used high-level scheduling
+blueprints to create simple requirements for VSE, according to VHA's
+senior medical advisor for the Office of Veterans Access to Care, who
+was the project's business sponsor.\6\ The senior medical advisor also
+indicated that VA wanted a quick and simple ``stopgap'' or ``backup''
+plan to MASS. The business sponsor also stated that MASS was the focus
+of most of the team and VSE was a low priority. According to the
+business sponsor, the VSE was supposed to address four enhancements:
+---------------------------------------------------------------------------
+\6\ The business sponsor, or customer/user, is responsible for
+determining requirements, monitoring and approving changes to those
+requirements, and accepting project increment deliverables. The
+business sponsor is also required to validate and approve all project
+requirements.
+
+---------------------------------------------------------------------------
+1.An aggregated view of clinic profile scheduling grids
+
+2.A single queue for medical appointment requests
+
+3.Resource management reporting dashboard
+
+4.High priority/critical patches for VistA scheduling
+
+The simple requirements were provided to the contractor and the
+business sponsor validated and approved the requirements for the high
+priority/critical patches. However, the OIG did not receive approval
+documentation for the other enhancements. Thus, the audit team
+concluded that the simple requirements were inadequate and may have led
+to an incomplete analysis by the contractor.
+One year after the initial operating capability testing, VHA
+conducted a study of VSE to determine if usability issues existed, to
+provide suggested changes to the user interface, and to help determine
+future plans for the product.\7\ The usability study found functional
+limitations, such as schedulers needing to toggle back and forth
+between VistA, VSE, and the computerized patient record system to
+create an appointment, and patient data was not being updated in every
+location within VSE. The study concluded that VSE was not in a
+deployable state, with bugs and defects that needed to be addressed.
+This increased the amount of time schedulers needed to set veteran's
+appointments and it was determined that VSE would be unable to solve
+VA's problems related to tracking resources and availability. According
+to an independent study required by the Veterans Access, Choice, and
+Accountability Act of 2014, examples of resources include support
+staff, exam rooms, and equipment availability.\8\
+---------------------------------------------------------------------------
+\7\ Initial operational capability testing is conducted in a cycle
+within a project schedule for complex projects. These tests assess
+system features and functionality.
+\8\ P. L. No. 113-146 (August 7, 2014); McKinsey & Company Inc. A
+Product of the CMS Alliance to Modernize Healthcare Federally Funded
+Research and Development Center Centers for Medicare & Medicaid
+Services. Prepared for VA.
+
+Issues Identified in Initial Operating Capability Testing Delayed VSE
+---------------------------------------------------------------------------
+Implementation
+
+The July 2014 contract for VSE included an optional task for
+contractor support of initial operational capability testing, which was
+exercised by VHA in August 2014. The task required the contractor to
+execute an implementation plan, prepare for contingencies during the
+release of software, and provide support of software deployment. In
+June 2015, VSE was installed for initial operational capability testing
+at the Charles George VA Medical Center in Asheville, North Carolina,
+and at several of its clinics later in January 2016. According to VHA's
+Human Factors Engineering (HFE) team, testing issues were reported
+prior to its usability study, such as scheduling appointments through
+VSE took twice as long as using the legacy system.\9\ Despite these
+identified problems, the audit team found no information that any
+efforts were made by VHA or the contractor to coordinate with the
+Asheville medical center to develop a resolution plan, as required by
+the contract. In July 2016, the Asheville VA Medical Center stopped
+testing VSE due to the identified problems.
+---------------------------------------------------------------------------
+\9\ The HFE is a VHA office that conducts reviews of software to
+determine deficiencies and areas of improvement from the aspect of the
+system user.
+---------------------------------------------------------------------------
+In July 2016, the HFE team issued a report identifying 32
+deficiencies associated with usability, software stability, limited
+functionality, technology, training, and patient safety issues. Twenty-
+six were related to functionality and six to training. Three of the 26
+deficiencies were related to functions that were not delivered by the
+contractor as required. Twenty-three functionality deficiencies should
+have been considered in the original contract requirements but were
+not. Some identified deficiencies included new appointments for
+veterans that were not replicated across the interface grids and
+comments placed in VSE were not being captured. In addition, usability
+deficiencies included limitations on canceling and changing
+appointments while software instability plagued the overall deployment
+of the VSE project. Had the requirements been analyzed adequately, the
+OIG determined there could have been a contract with better defined
+requirements for VSE from the start, minimizing the types of problems
+identified in the HFE usability study and those that schedulers
+reported plagued the system. In August 2016, the deputy secretary at
+that time issued a memo discussing the remediation plan for VSE and the
+need to address the HFE-identified deficiencies. The remediation plan
+required the VSE development team to standardize the current version of
+VSE at five VA medical centers: Asheville, North Carolina; Salt Lake
+City, Utah; Cleveland, Ohio; Hudson Valley, New York; and Chillicothe,
+Ohio. The plan also required that the team fixed identified issues in
+VSE and deliver up to two additional versions within six months.
+Remediation efforts created additional development work, which further
+delayed implementation of VSE, and still did not address all
+deficiencies.
+
+Project Staff Turnover May Have Affected Implementation
+
+OIT and VHA did not have continuity in its management of the VSE
+project. During the development of VSE from 2014 to 2017, key managers
+and VSE project officials changed frequently. OIT's program manager
+changed four times between May 2014 and May 2017. OIT's project
+manager, who was also responsible for contracting officer's
+representative duties, changed three times before being turned over to
+a VHA project manager within the same period. Furthermore, the chief
+information strategy officer, who was responsible for overseeing the
+remediation period and ensuring successful coordination between OIT and
+VHA during the critical redevelopment period, release, and
+implementation of VSE, left VA and was replaced in November 2016. The
+audit team determined the frequent turnover in these key management
+positions could have impacted OIT's and VHA's ability to complete the
+VSE project in a timely manner. The loss of project and program
+knowledge may have delayed the development and implementation of VSE.
+The audit team also found that VHA encountered difficulty in staffing
+other positions critical to the VSE project. According to OIT and VHA
+oversight briefings, personnel needed for the project included business
+analysts, scrum masters, technical leads, testing managers, and
+configuration managers.\10\ VA's solution to these staffing concerns
+was to use contract employees and resources from the MITRE
+Corporation.\11\
+---------------------------------------------------------------------------
+\10\ A scrum master is the facilitator for an agile development
+team. Scrum is a methodology that allows a team to self-organize and
+make changes quickly, in accordance with agile principles.
+\11\ The MITRE Corporation is a not-for-profit company that
+operates multiple federally funded research and development centers.
+
+---------------------------------------------------------------------------
+VSE Implementation Is Almost Complete
+
+Delays in deployment began in July 2016 when all enhancements
+should have been completed, and lasted until the final contract
+modification ended in September 2017. According to the VHA project
+manager, OIT approved the national release and deployment of a version
+of VSE in April 2017. In May 2017, VSE project manager told the audit
+team that no future developments were scheduled, and they would be only
+focused on the sustainment of VSE. Therefore, the 23 additional
+functionality requirements found by the HFE usability study were not
+addressed. Starting in December 2017, any new requirements would be
+completed under a new project called Sustainment of VSE. In February
+2018, the VSE project manager told the audit team the three original
+requirements from the initial contract were completed as of December
+2017. However, the manager did not address the 23 outstanding
+functionality issues identified by the HFE usability study.
+
+Recommendation
+
+The OIG made one recommendation that the VA assistant secretary for
+information and technology and chief information officer should enforce
+current required project management processes with improved oversight.
+This should be executed to ensure project planning requirements are
+adequately defined and supported before starting information technology
+projects. At the time the OIG report was published, the VA assistant
+secretary for information and technology and chief information officer
+concurred with the recommendation and requested closure, as it has
+implemented a new program management review process through a policy
+memorandum signed on July 15, 2019. The program management review
+process is designed to ensure information technology programs and
+projects are delivered and sustain the intended outcomes. This
+memorandum has been distributed to executive leadership team
+correspondence leads. OIT's Office of Quality, Performance, and Risk
+has begun its assessment of information technology projects through the
+use of lightweight independent technical assessments. The OIG will
+monitor OIT's progress and follow up on the implementation of the
+policy memorandum to ensure it addresses the intent of the
+recommendation.
+
+CONCLUSION
+
+Patient scheduling is critical to providing veterans with timely
+access to medical care. The need to update the scheduling component of
+VistA is instrumental to VA's efforts to achieve that goal. Although
+VSE is a relatively small program and represented a short-term fix, it
+only changed the look of screens. This seemingly small change was
+expected to significantly reduce the time it took schedulers to
+schedule appointments, however it failed to deliver on that promise and
+it cost over $6 million. This is another example of the struggles VA
+has in developing and managing information technology projects due to
+inadequate requirements, insufficient testing, and staff turnover.
+Having an effective program and project management structure in place
+is essential to its information technology efforts.
+Chairwoman Lee, Ranking Member Banks and members of the
+Subcommittee, this concludes my statement. I would be happy to answer
+any questions.

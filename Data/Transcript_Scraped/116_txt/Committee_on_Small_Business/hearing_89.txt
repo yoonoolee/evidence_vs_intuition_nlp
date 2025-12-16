@@ -1,0 +1,1041 @@
+- 21
+st
+CENTURY SBA: AN ANALYSIS OF SBA'S TECHNOLOGY SYSTEMS
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+21st CENTURY SBA: AN ANALYSIS OF SBA'S
+TECHNOLOGY SYSTEMS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON INVESTIGATIONS,
+OVERSIGHT, AND REGULATIONS
+
+OF THE
+
+COMMITTEE ON SMALL BUSINESS
+UNITED STATES
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SIXTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+HEARING HELD
+JULY 22, 2020
+
+__________
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Small Business Committee Document Number 116-089
+Available via the GPO Website: www.govinfo.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+41-300                       WASHINGTON : 2021
+
+--------------------------------------------------------------------------------------
+
+HOUSE COMMITTEE ON SMALL BUSINESS
+
+NYDIA VELAZQUEZ, New York, Chairwoman
+ABBY FINKENAUER, Iowa
+JARED GOLDEN, Maine
+ANDY KIM, New Jersey
+JASON CROW, Colorado
+SHARICE DAVIDS, Kansas
+KWEISI MFUME, Maryland
+JUDY CHU, California
+DWIGHT EVANS, Pennsylvania
+BRAD SCHNEIDER, Illinois
+ADRIANO ESPAILLAT, New York
+ANTONIO DELGADO, New York
+CHRISSY HOULAHAN, Pennsylvania
+ANGIE CRAIG, Minnesota
+STEVE CHABOT, Ohio, Ranking Member
+AUMUA AMATA COLEMAN RADEWAGEN, American Samoa, Vice Ranking Member
+TROY BALDERSON, Ohio
+KEVIN HERN, Oklahoma
+JIM HAGEDORN, Minnesota
+PETE STAUBER, Minnesota
+TIM BURCHETT, Tennessee
+ROSS SPANO, Florida
+JOHN JOYCE, Pennsylvania
+DAN BISHOP, North Carolina
+
+Melissa Jung, Majority Staff Director
+Justin Pelletier, Majority Deputy Staff Director and Chief Counsel
+Kevin Fitzpatrick, Staff Director
+
+C O N T E N T S
+
+OPENING STATEMENTS
+
+Page
+Hon. Judy Chu....................................................     1
+Hon. Ross Spano..................................................     3
+
+WITNESS
+
+Mr. Guy Cavallo, Deputy Chief Information Officer, U.S. Small
+Business Administration, Washington, DC........................     5
+
+APPENDIX
+
+Prepared Statement:
+Mr. Guy Cavallo, Deputy Chief Information Officer, U.S. Small
+Business Administration, Washington, DC....................    18
+Questions for the Record:
+None.
+Answers for the Record:
+None.
+Additional Material for the Record:
+None.
+
+21
+st
+CENTURY SBA: AN ANALYSIS OF SBA'S TECHNOLOGY SYSTEMS
+
+----------
+
+WEDNESDAY, JULY 22, 2020
+
+House of Representatives,
+Committee on Small Business,
+Subcommittee on Investigations, Oversight and
+Regulations,
+Washington, DC.
+The Subcommittee met, pursuant to call, at 1:02 p.m., in
+Room 2360, Rayburn House Office Building, Hon. Judy Chu
+[chairwoman of the Subcommittee] presiding.
+Present: Representatives Chu, Evans, Craig, Chabot,
+Burchett, and Spano.
+Chairwoman CHU. I call the meeting to order.
+Without objection, the Chair is authorized to declare a
+recess at any time.
+I want to thank everyone, especially our witnesses, for
+joining us today for our Committee's hybrid hearing.
+I want to make sure to list some important requirements.
+Let me begin by saying that standing House and Committee rules
+and practice will continue to apply during hybrid proceedings.
+All members are reminded that they are expected to adhere to
+the standing rules, including decorum.
+During the covered period as designated by the Speaker, the
+Committee will operate in accordance with House Resolution 965
+and the subsequent guidance from the Rules Committee in a
+manner that respects the rights of all members to participate.
+House regulations require members to be visible through a
+video connection throughout the proceedings, so please keep
+your cameras on. Also, if you have to participate in another
+proceeding, please exit this one and log in later.
+In the event a member encounters technical issues that
+prevent them from being recognized for their questioning, I
+will move to the next available member of the same party, and I
+will recognize that member at the next appropriate time slot,
+provided they return to the proceedings.
+And, finally, remember to remain muted until you are
+recognized to minimize background noise. In accordance with the
+rules established under House Resolution 965, staff have been
+advised to mute participants only in the event there is
+inadvertent background noise.
+For those members physically present in the committee room
+today, we will also be following the health and safety
+guidelines issued by the Attending Physician, which includes
+social distancing and especially the use of masks. I urge
+members and staff to wear masks at all times while in the
+hearing room, and thank you in advance for your commitment to a
+safe environment here today.
+I am pleased to be holding this important hearing today to
+learn more about the Small Business Administration's
+information technology systems, IT modernization efforts, and
+cybersecurity strategy. SBA has counted on its technology
+systems to implement the programs to help entrepreneurs launch
+and grow their small businesses, and millions of small
+businesses have relied on them over the past few months to
+access the assistance they need to survive the coronavirus
+pandemic.
+I would like to thank Mr. Guy Cavallo, the Deputy Chief
+Information Officer for SBA, for being here today to discuss
+SBA's efforts to modernize its systems and address some of the
+technical issues that have hampered the rollout of economic
+relief programs.
+Ineffective IT systems have been a persistent problem at
+SBA. While significant progress has been made to upgrade the
+system in recent years, the magnitude of the pandemic has
+demonstrated the need for more modern systems that are safer,
+faster, and more efficient at delivering services to America's
+small businesses.
+Six months after the first confirmed case in the U.S., our
+country remains in the grips of the coronavirus pandemic. Small
+businesses have relied on Congress and SBA to help them survive
+the necessary State-ordered public health lockdowns,
+restrictions and operating capacity, and significant revenue
+losses resulting from our fight to contain this virus.
+This crisis has made it necessary for unprecedented numbers
+of small businesses to rely on your agency's technology to
+access loan applications, connect to their local resource
+partners, find translated resources, and answer their urgent
+questions in a timely manner. However, several technical issues
+have arisen during the pandemic, making it both frustrating and
+difficult for small businesses to receive the relief they need
+in a timely manner.
+This Committee acknowledges the toll that this
+unprecedented level of activity has taken on SBA systems, and
+we commend you and your staff for working around the clock to
+fix several of the issues. The coronavirus has placed a
+historic burden on SBA, and we in Congress must ensure that you
+have the resources you need to assist the American people. But
+many of these system weaknesses have been known for years and
+should have been addressed and modernized long before this
+pandemic. In fact, some of the issues were brought to SBA's
+attention as early as 2014 by the Government Accountability
+Office and, in fact, there was a 2011 report from the GAO
+before that.
+According to the Committee on Oversight and Reform's IT
+scorecard, SBA has made improvements to its IT infrastructure
+overall, but is still scoring a D on cybersecurity. This is
+particularly concerning given the cybersecurity breach that
+occurred with the EIDL application.
+In late March, SBA detected a vulnerability in the EIDL
+application, which allowed applicants' personally identifiable
+information to be viewed by other applicants. Even more
+troubling, the individuals that were potentially affected were
+not notified until mid-April, nearly 20 days after the data
+breach, and the notification was simply a paper letter.
+The Committee heard from several recipients who were
+inquiring whether it was a scam or a verifiable document. At
+the time, SBA had failed to make any public announcement about
+the breach, again, showing a lack of transparency that had been
+a consistent concern for the committee throughout the COVID-19
+pandemic. Affected businesses lost their place in the queue,
+were forced to reapply, and then were shut out of the program
+when SBA inexplicably limited applications to only agricultural
+businesses.
+We recognize that your office was not directly involved in
+those decisions, but they demonstrate the tremendous downstream
+impacts faced by small businesses that were affected by the
+initial IT systems failure.
+Other problems that arose during the pandemic were related
+to SBA's loan processing system, E-Tran, which is a legacy
+system that SBA had planned to replace in an effort to
+modernize its IT infrastructure. The issues concerning E-Tran
+are not new. In 2014, the GAO reported that SBA may be
+unprepared for a large volume of applications to be submitted
+quickly following future disasters which could result in delays
+in loan funds for disaster victims. And in this report, SBA
+actually stated that E-Tran would be replaced by 2015. However,
+in 2020, SBA is still relying on the same system.
+Shortly after the launch of the Paycheck Protection Program
+portal, the system was inundated by applicants, causing it to
+go offline for 4 hours. The system then crashed again a second
+time when the PPP portal reopened in late April.
+While we recognize that SBA quickly increased bandwidth to
+increase the system--to address the system crash both times,
+the agency cannot rely on a system that is incapable of meeting
+high demand in a crisis.
+The Committee plans to explore what steps must be taken to
+improve SBA's IT systems moving forward in order to prevent
+these issues from reoccurring should Congress reauthorize or
+authorize further small business assistance as we continue to
+fight the virus or if a natural disaster should strike and
+compound the stress on SBA's systems. It is imperative that
+SBA's technology systems be modernized to meet the demands of
+the 21st century.
+With that, I look forward to hearing from Mr. Cavallo on
+the changes SBA plans to implement to its technology systems
+and what he needs from Congress in order to address these
+technical failures to ensure the SBA IT infrastructure is fully
+prepared in the future.
+I now yield to the Ranking Member, Mr. Ross Spano, for his
+opening statement.
+Mr. SPANO. Thank you, Madam Chairwoman.
+While all of the oversight hearings we hold in this
+Committee are important, examining the state of the SBA's
+information technology is truly one of the most vital. We live
+in an era dominated by modern technology and the internet, so
+there is little else that has changed the way we live our lives
+so dramatically.
+This pandemic has underscored our reliance on modern
+technology to do almost anything and everything, from running a
+successful business and allowing employees to telework, to
+socializing while maintaining social distancing. Technology has
+been and will continue to be critical in allowing the private
+sector and public government to respond to and recover from
+this pandemic. The SBA is no exception.
+As technology continues to improve, implementing innovative
+technological solutions to streamline manual processes or
+upgrade legacy systems are actions that any responsible Federal
+agency should consider. Once these new technologies are
+deployed, it is imperative that the agency ensure they are
+secure, operational, and meet mission objectives.
+For instance, the SBA's decision to move from mail-in,
+paper-based application processes to online loan and
+contracting applications certainly has advantages for both the
+agency and the participant. Unfortunately, it also comes with a
+host of other challenges, for instance; vulnerability to
+computer bugs, data breaches, and cyber attacks.
+As has been widely reported in the news, the technological
+system supporting the Paycheck Protection Program suffered from
+a number of these mishaps. Reports regarding the Economic
+Injury Disaster Loan Program have not fared well. While the
+EIDL advanced program intended to provide emergency grants to
+small businesses within 3 days of their application being
+filed, the SBA took nearly 6 weeks to approve less than 1
+percent of the total application backlog.
+Even though I appreciate the SBA's recent efforts to meet
+the surging demand, reports show that little more than a third
+of the amount Congress authorized to support the EIDL program
+has been approved. Adding insult to injury, a glitch in the
+EIDL portal led to nearly 8,000 EIDL applicants' personal
+information being compromised, including Social Security
+numbers, birth dates, and addresses.
+I cannot overstate just how dire the situation is for small
+businesses everywhere in this country, including in my own
+district. They need these funds now. And if technology is the
+solution or the problem, we need to take appropriate action
+immediately.
+Addressing the issues with SBA's loan programs is not the
+only reason why I am interested in hearing from you today, Mr.
+Cavallo. As the SBA continues to invest in new technologies, it
+is imperative that the agency ensures that the investment was
+worth it, that the outcome achieves the intended goals.
+The SBA has made some questionable IT investments into its
+contracting and business development programs, making various
+attempts to streamline application processes and enhance staff
+oversight and management of these programs. Unfortunately, we
+have seen some of these investments fail in the past. And I
+understand the SBA is now investing in a new technological
+initiative called certify.sba.gov, to which over $27 million
+has already been spent, but the system has not yet fully
+realized its intended purpose.
+Indeed, according to the Committee on Oversight and
+Reform's December 2019 Federal Information Technology
+Acquisition Reform, or FITARA, report, the SBA received a C
+grade for its IT portfolio management, indicating that the
+Office of Management and Budget found the SBA demonstrated poor
+management of commodity IT spending in alignment with agency
+mission and business functions. Also deeply troubling is the D
+grade that the SBA received in the FITARA report for
+cybersecurity, indicating severe deficiencies in cybersecurity
+measures taken by the SBA.
+I understand that we live in unprecedented times and the
+wheels of government often move slower than the pace of
+technology. However, we have to strive to do better and be
+better. Small businesses across the country depend on the SBA
+to get it right, and we must do all we can to ensure the
+agency's success.
+Thank you, Madam Chairwoman. I yield back.
+Chairwoman CHU. Thank you, Ranking Member Spano.
+I need to explain how this hearing will proceed. Each
+witness will have 5 minutes to provide a statement and each
+committee member will have 5 minutes for questions. Please
+ensure that your microphone is on when you begin speaking and
+that you return to mute when finished.
+With that, I would like to introduce Mr. Guy Cavallo, the
+Deputy Chief Information Officer at SBA. In this capacity, Mr.
+Cavallo provides leadership and direction in the creation,
+development, and execution of the agency's information
+technology management programs. He was previously the executive
+director of IT operations at Transportation Security
+Administration. He has also had an impressive career in the
+private sector implementing innovative technologies in
+governmental organizations.
+We welcome you to the committee, and you are now recognized
+for 5 minutes.
+
+STATEMENT OF MR. GUY CAVALLO, DEPUTY CHIEF INFORMATION OFFICER,
+U.S. SMALL BUSINESS ADMINISTRATION, WASHINGTON, DC
+
+Mr. CAVALLO. Chairwoman Chu, Ranking Member Spano, and
+members of the Subcommittee, Thank you for the opportunity to
+discuss how the Small Business Administration has modernized
+and transformed----
+Mr. SPANO. Excuse me, sir. Could you make sure your
+microphone is on?
+Mr. CAVALLO. The button is on. How is that?
+Mr. SPANO. That is perfect.
+Mr. CAVALLO. There we go. Thank you.
+Again, thank you for the opportunity to talk about how SBA
+has modernized and transformed its IT and cybersecurity
+capabilities, which we know are critical to enhancing our
+service delivery to citizens and small businesses.
+In July of 2017, SBA Chief Information Officer Maria Roat
+testified before the House Small Business Committee describing
+her vision for a 21st century SBA. Today, SBA has turned much
+of her vision into reality.
+With the strong executive leadership and support of
+Administrators Carranza and McMahon, SBA is now viewed as a
+technology leader in the Federal Government.
+Over the past 3-1/2 years, we have implemented the
+necessary building blocks to deliver and accelerate our IT
+modernization. That foundation includes a reliable network
+infrastructure and leveraging the power of the cloud. In early
+2017, I served as the executive sponsor of SBA's cloud journey.
+Within 82 days, we built SBA's first cloud, an accomplishment
+that may take others a year-plus to achieve. With that network
+and cloud platform in place, SBA could now leverage those
+foundations to meet our critical role in the upcoming CARES
+Act.
+Having SBA's cloud operational and leveraging commercial
+cloud services to support our modernization efforts were
+critical in our overnight move to nearly 100 percent telework
+status for the SBA staff and for the thousands of surge workers
+who may never work in an actual SBA office.
+I also want to highlight that one of the most significant
+benefits of moving to the cloud has been the tremendous
+improvement in our cybersecurity protections. For example,
+since April of 2018, our security team has partnered with DHS
+to take down 1,380 malicious websites that we uncovered by
+stopping phishing attempts into SBA.
+Now, based upon our enhanced cybersecurity capabilities, we
+conducted two pilots with DHS to validate the cloud
+protections. Our pilots on the Trusted Internet Connection and
+the continual diagnostic and mitigation programs allowed us to
+successfully demonstrate alternative ways of meeting the goals
+of those programs, and our results led DHS to modify the
+Federal security policies for those programs.
+In addition to those cybersecurity capabilities, we
+leveraged the cloud to build new CARES Act solutions, including
+a new portal for the $10,000 EIDL advances, a front end to the
+lender gateway for banks to access the E-Tran system, an
+updated find a lender tool to display eligible lenders of the
+PPP program by ZIP Code, and a new customer service hub for
+better tracking all the millions of citizen requests we
+receive.
+All of these new solutions were implemented within 8 days
+or less. My team worked round the clock to make sure that we
+had these in place as fast as possible.
+We also accelerated implementing GSA's login.gov common
+identity management solution, which allows a small business to
+use one set of credentials when accessing any SBA system or any
+other government portals that adopted login.gov. However, I do
+want to acknowledge that until these new systems were in place,
+several of the legacy systems did experience outages and slow
+response times from the overwhelming demand.
+For example, the disaster loan access portal began
+suffering outages due to the demand exceeding its capacity.
+Within a day, we implemented a replacement interim cloud
+solution to intake loan applications until the final
+replacement EIDL rapid intake portal was ready. However, while
+making multiple system changes in the middle of the night in
+such a short time, a mistake was made in one of the system's
+configuration which accidentally exposed PII data for some
+individuals. Within 3 hours, we discovered that exposure and
+quickly fixed the problem. And to support the potential
+exposure of those individuals that may have been exposed, we
+have offered free credit monitoring services.
+There is still much to do, but the positive steps taken
+over the last 3-1/2 years have positioned SBA to be able to
+continue modernizing our legacy systems.
+And I want to thank you for the opportunity to speak to
+that today, and I look forward to the Committee's questions.
+Chairwoman CHU. Thank you, Mr. Cavallo.
+I will begin by recognizing myself for 5 minutes for
+questions.
+Mr. Cavallo, it wasn't just a few persons who had their
+data exposed; it was 8,000 individuals. There were so many
+egregious things that happened in that situation where EIDL
+data was exposed, the data of small business owners who were
+trying to get relief from COVID-19, and it caused SBA to tell
+the applicants to reapply, they lost their place in line, and
+the applications were subsequently closed to anyone who wasn't
+in the agricultural industry.
+So, Mr. Cavallo, how did this breach happen, and what
+specific steps did SBA take to fix the issue that caused the
+data breach? Also, the breach occurred on March 25. Why did it
+take until April 13 for SBA to notify these small businesses
+who may have been affected?
+Mr. CAVALLO. I want to thank you for asking that question.
+First of all, I want to clarify that we did not suffer a data
+breach; we suffered a data exposure. The big difference is that
+there was no data break-in, any download of data. They are both
+serious, but a potential data exposure is quite different, and
+as I said, we were not breached.
+I can tell you how it happened. My staff was working around
+the clock, pulling all-nighters, trying to get the new loan
+portal set up as fast as possible. A human error was made at 6
+a.m., which caused the potential for that exposure to occur,
+and within 3 hours, we implemented taking the portal down and
+limiting the exposure.
+But we followed our standard procedures for dealing with a
+PII exposure, which means we reported it immediately to US-Cert
+within an hour. We convened our executive response team on
+March 29. That team decided to make sure that everybody that
+was potentially a user during those 3 hours would receive
+credit monitoring services.
+And then, ma'am, we don't have in place a contract to pay
+for credit monitoring services, so we had to go to GSA to
+compete the credit monitoring services, which we did on March
+29 and 30. Once that was awarded, we brought the vendor on
+board. They reviewed the logs and found that there were some
+logs that we didn't have valid addresses and information, and
+then they were able to issue the letter on April 13 to those
+individuals offering credit monitoring and free call center to
+use toll free and provide support.
+I would have liked that to be faster, but that was how long
+it took to get there.
+Chairwoman CHU. Well, what it shows is that there clearly
+needs to be improvement in SBA's IT. And I noted that there
+have been GAO reports since 2011 expressing concern about this.
+And then GAO did another report in 2014, which said that SBA
+was not prepared for large volumes of applications that could
+come in after a disaster.
+Now, I acknowledge that SBA has made some improvements to
+its technology system in the IT scorecard, but in the most
+recent scorecard, the SBA received a D on cybersecurity, which
+was its lowest mark in any category. So what has been the
+holdup to improvements in this area, and what specific steps
+has SBA taken to improve particularly on cybersecurity?
+Mr. CAVALLO. Yes. One thing I do want to point out that
+we--the way the cybersecurity score is calculated, there are
+two different criteria. One is an assessment from our Inspector
+General, and our Inspector General uses the OMB maturity model
+that measures eight different domains. To receive a higher
+score in that, you must have no KPMG findings in the domain. It
+is one of the toughest scores to be able to obtain. My
+understanding is only one Federal agency has been able to
+achieve the top score.
+The other component of that is how you are performing on
+your cross-agency CAP Goals. In the last 2 years, we have moved
+from a 30 percent CAP goal implementation to 80 percent
+implemented.
+So, ma'am, we are taking it very seriously, and we are
+working hard to get that score up. We think the combination of
+those scores do not accurately reflect where we are today;
+otherwise, DHS would not have selected us to pilot two critical
+cybersecurity pilots with them that have changed Federal
+policy. And, in fact, they have asked us now to help them
+implement the CDM Program in a new cloud-based solution.
+So, we realize how the scores were obtained. We have taken
+many steps to improve our cybersecurity. I highlighted the
+number of websites we are taking down. We have full visibility
+of all attempts to get into SBA. We also--with the PPP and EIDL
+loans, implemented geofencing so that a foreign adversary
+applying from a foreign country could not even get to the loan
+system.
+So, we are radically different from where we were in 2012
+or 2014. Still work to be done, but we would like to see that
+score increase. I mean, over the last 3 years, we have gone
+from a D-minus to a B-plus, and right now, we have the third
+highest FITARA score in government.
+Chairwoman CHU. Thank you. My time has now expired.
+The Ranking Member, Mr. Spano from Florida, is now
+recognized for 5 minutes.
+Mr. SPANO. Thank you, Madam Chairwoman.
+Mr. Cavallo, I assume that the SBA must have anticipated
+that a wave of applications were going to be incoming through
+the E-Tran system once the PPP and EIDL launched. However, we
+all know there were concerns about that early on, portal
+crashing, other technical difficulties that occurred right
+there at the start.
+Were any actions taken or undertaken or any efforts made to
+prepare for what, it would seem to me, would have been an
+anticipated load on the E-Tran system?
+Mr. CAVALLO. Yes. Thank you. Thank you for that question.
+Yeah, the E-Tran system is not managed by the Office of the
+Chief Information Officer. We partner with our business offices
+to do that. It is definitely on our list of systems that need
+to be modernized, and we are following the CIO Council's
+Application Rationalization Playbook to determine how to
+modernize. That is going to be a long-term project, sir, and
+that is something that we could not do between March 1 and when
+this all hit.
+The steps that my office specifically took was that we
+doubled the network connectivity speed because we knew there
+was this influx of people coming. That took a week or two to
+happen, but we were able to get ahead of the surge exceeding
+the demand. We also built that front-end lender gateway as a
+cloud-based application to basically take the load off on some
+of the front of E-Tran to allow our small banks to apply
+easier. And then we worked with our partner at the Office of
+Capital Access to spread out their workday. So instead of
+getting hit with all the applications coming in at 9 a.m. from
+certain banks, they spread out the schedule to be able to take
+applications throughout the day.
+Those are all things that we could do now to lessen the
+demand on E-Tran. The last thing we did is we approved a
+significant hardware investment to up the horsepower of the E-
+Tran system, but it is going to take time to modernize that
+system. It is a very complex financial system.
+So those were the things we could take to support it.
+Definitely there were issues and there was trouble along the
+way, but each of these steps helped lessen the impact or reduce
+them from happening in the future.
+Mr. SPANO. Does the continued challenges apparently that
+you still have with the E-Tran system, are those impacting the
+pace, the slow pace at which the EIDL loans are being
+processed?
+Mr. CAVALLO. I don't think I can answer that. It is more of
+a program office answer on how they are handling the
+processing. As I said, the system is up and running, that is--
+--
+Mr. SPANO. I guess my question is, you mentioned that
+problems with PPP and the EIDL were a function of or based on
+the fact that the E-Tran was not built to sustain that level of
+demand. What I am asking you is, is the EIDL demand still such
+that E-Tran cannot handle the load?
+Mr. CAVALLO. From everything I have seen, we seem to be
+handling the load now.
+Mr. SPANO. Okay. So that is not--E-Tran is not the reason
+for apparently the slowdown, the slow process of EIDL, as far
+as you are concerned?
+Mr. CAVALLO. Yes. From the technology side, I am seeing
+that it is up and that the connectivity is there.
+Mr. SPANO. Gotcha.
+So the SBA received an additional $2.1 billion for SBA
+salaries and expenses intended to help the agency staff up in
+order to meet the need generated by the pandemic. Can you tell
+us how this money has been spent so far?
+Mr. CAVALLO. I can address how we have spent it in the OCIO
+office.
+Mr. SPANO. With respect to your area.
+Mr. CAVALLO. Yes. With us increasing the size of SBA by
+about 500 percent, I knew immediately that our IT help desk,
+our network operations center, monitoring and making sure that
+our networks are working fine, and our security operations
+center providing cybersecurity, those were all designed for
+3,000 to 4,000 users, not well over 12,000. So, we have used
+the funds to help supplement that, and my staff working in
+those areas, to make sure that the connectivity is there, that
+the cybersecurity protections are there, that we are not being
+overwhelmed by it. It has been a slow process to ramp that up.
+We are using both temporary Federal employees and contractors
+to do that.
+So, in our office, yes, we are all well on the way of
+staffing up to deal with this increase of size.
+Mr. SPANO. Okay. I only have 20 seconds left. But you talk
+about in your testimony that--you discuss in your testimony
+using webcasts to connect with small businesses that save
+thousands of dollars over the SBA's previous teleconferencing
+solution.
+My question is, are there any other uses of existing
+technology in your arsenal that can be deployed to find other
+cost-savings benefits?
+Mr. CAVALLO. One of the things we did is we stood up a
+virtual command center, which saved us the cost of setting up a
+command center for our senior leadership to get together.
+Definitely the web conferencing, we can host 10,000 businesses
+at once now at no extra cost, when before, that would have cost
+us thousands of dollars. Leveraging the cloud is keeping us
+from buying more hardware. So that has also been a significant
+impact.
+Mr. SPANO. Thank you.
+I yield back, Chair.
+Chairwoman CHU. Thank you. The gentleman's time has
+expired. The gentleman yields back.
+And now, the gentleman from Pennsylvania, Mr. Evans, is now
+recognized for 5 minutes.
+Mr. EVANS. Thank you, Madam Chairperson and Ranking Member.
+The IRS announced yesterday that they are establishing a
+new office to spearhead the efforts to modernize the management
+of taxpayer cases. The new office will be responsible for
+updating its outdated IT systems and making several of its
+processing paper documents digital.
+Would the SBA consider a similar strategy to bring the IT
+system, infrastructure, and management documents into the 21st
+century? And would the office of the CIO be well suited to
+implement the strategy?
+Mr. CAVALLO. Thank you for that question. As an agency, we
+have adopted the Federal CIO Council's Application
+Rationalization Playbook. To put that in non-CIO terms, you
+basically have a methodology to look at each information system
+and decide are you going to modernize it where it is, are you
+going to move it to the cloud, do you need to rewrite it, or do
+you need to shut the system down. So, we are going through our
+major applications looking at that first before we start
+spending money just heading down a modernization path without
+having a clear direction.
+What IRS has done is what I see a lot of the other Federal
+agencies doing, and we have been doing that from day one. Over
+the last 3-1/2 years, we have modernized major parts of SBA.
+The financial systems are by far the biggest and most complex
+ones, so we are taking that on next. But we will work closely
+with the CFO and Capital Access and ODA on heading down that
+modernization path.
+I think until we do that analysis, we won't be able to
+provide our CFO, our Administrator what the cost would be to do
+this so that they can come, present that to you, but we are
+doing that homework now.
+Mr. EVANS. How could Congress support the SBA in
+establishing a new office to spearhead IT becoming modern and
+digital across the entire agency?
+Mr. CAVALLO. Again, we appreciate all offers of help.
+Today, we have a Chief Technology Office that leads our
+modernization efforts. I am not sure that we would ask for
+anything additional to that. As I said, we have the methodology
+in place that we intend to use to make the decisions about
+modernizing systems, and then through our budget process and
+through the Administrator, we will come back to Congress and
+make those requests for funds when we are ready.
+Mr. EVANS. In mid-April, the SBA announced that on March
+25, it discovered that the application system for the EIDL may
+have disregarded personal information to other applicants of
+the program. What personal information was divulged?
+Mr. CAVALLO. Let me check for that, sir. I don't want to
+give you a wrong answer.
+Looks like I don't have that information with me. There was
+a formal report that we filed with US-Cert, so I can supply
+that information with you as a follow-up.
+Mr. EVANS. Okay. No problem.
+Since I am talking about it, for EIDL application status,
+the only updates provided are processing and then accepted or
+rejected. This has caused severe stress for small business
+owners in my district who have great difficulty checking the
+status of the application. Is the SBA working on improving the
+status checking on these loan applications? And let me give you
+a followup real quick. What is the timeline for improving loan
+application status checking?
+Mr. CAVALLO. The Office of the Chief Information Officer
+does the enterprise networking and connectivity and
+infrastructure. What you are asking about is a program office
+decision that is run by the Office of Disaster Assistance.
+Mr. EVANS. Right.
+Mr. CAVALLO. So, I can't answer that for them.
+Mr. EVANS. Okay. Real quick, I think I----
+I yield back to the Chair my remaining time.
+Chairwoman CHU. Thank you. The gentleman yields back.
+And now, the gentleman from Tennessee, Mr. Burchett, is now
+recognized for 5 minutes.
+Mr. BURCHETT. Thank you, Chairlady, Ranking Member.
+Eighty-six percent of the PPP loans in Tennessee in the
+Second District where I represent are under $150,000. Do you
+know how many of those are nationwide and the amount, total
+amount that would be?
+Mr. CAVALLO. No, sir. That is not something that I would
+have in the Chief Information Office.
+Mr. BURCHETT. How would I go about getting that?
+Mr. CAVALLO. We can provide that from our business offices
+that would have that up to date daily.
+Mr. BURCHETT. Great. If you all could send that to me, that
+would be great.
+And I have been hearing some complaints the E-Tran system
+is too complicated, especially for those who are new to SBA
+lending. What can the SBA do to make its public-facing
+technology systems more user friendly?
+Mr. CAVALLO. Again, a very good question. It is something
+that my team is dedicated to do. A lot of the new programs that
+I highlighted that we implemented, especially for the CARES
+Act, are much easier to use than the legacy systems. And
+whenever we can, for something like E-Tran that we can't
+modernize overnight, what we are trying to do is put a new
+front end in front of it so that the small business owner or
+the citizen is able to more easily interact with the system. We
+were able to do that successfully for a number of these
+programs.
+Mr. BURCHETT. Right.
+Mr. CAVALLO. Overall, it is a major initiative to improve
+the customer experience for any SBA user. I mentioned earlier
+that we have moved to login.gov, which is a common way that GSA
+provides the Federal agencies, where before, if you logged in
+to separate SBA systems, you might have to fill out your
+company's information over and over again. Again, we are taking
+steps to eliminate that and use more of these common platforms,
+so you have one identity.
+Mr. BURCHETT. Okay. Do you feel that the SBA has the
+capacity to manage all these new lenders moving forward?
+Mr. CAVALLO. Again, from the CIO's office, we have been
+able to absorb the 500 percent increase in staff and support
+the systems. The program offices that actually work with those
+lenders, they would be better able to answer that question,
+sir.
+Mr. BURCHETT. Okay. All righty. Thank you very much.
+Chairwoman CHU. Okay. At this point, the gentleman yields
+back.
+And at this point, all the members present have asked a
+question. So we actually have time for a second round of
+questions, so please be present if you would like to go a
+second round. I will start by recognizing myself for 5 minutes.
+Mr. Cavallo, when we arranged this committee hearing, we
+discovered that your Office of the Chief Information Office
+only oversees 37 percent of SBA's IT program. And this raises
+several new concerns, including why SBA would take such a
+disjointed approach to IT and cybersecurity, and why it did not
+entrust its chief information officer with managing IT for the
+PPP and EIDL, and to what extent the deputy CIO was brought in
+to help when PPP and EIDL both encountered significant
+technology system failures.
+So why is the SBA's IT staff decentralized? Who controls
+the remaining 63 percent, and how has it helped or hindered
+SBA's ability to respond to the coronavirus pandemic?
+Mr. CAVALLO. Thank you for that question, ma'am. You know,
+SBA has long had a history of being decentralized, and one
+thing in a decentralized world is that you get some of the IT
+staff closer to the program operations than staying in a
+central location. What we have done is partner with those
+offices. Most of those staff members are in the Office of
+Disaster Assistance and the other program offices. We partnered
+with them throughout this process.
+Going back to your question, how involved were we in all of
+this, we were very involved. None of the program offices went
+off and worked on their own on this. We put teams together and,
+like I said, sometimes pulling all-nighters to get these new
+programs in place so that lenders could apply.
+There are different models for IT. Like I said, right now
+at SBA, we are more decentralized, so what we have done over
+the years is make sure that we have a strong partnership with
+those offices. The CIO Office does have FITARA approval of
+every IT procurement of $50,000 or more. So, if an office tried
+to do something without having us involved, there is a hard
+stop that they can't proceed without the CIO.
+So, we have worked very well together. We spend time at
+each other's conferences and work together as a team. So right
+now, the model is working for us.
+Chairwoman CHU. But would there be greater improvement if
+this operation was centralized?
+Mr. CAVALLO. That is a great political science debate over
+time. We can find as many people arguing that centralizing
+everything is better than decentralizing, and we can find just
+as many people arguing with that.
+I think, Madam Chairwoman, the important part is that we
+partner together. If we ran independently, I would absolutely
+give you a different story. But we work so well together that
+it doesn't matter who we report to, that we are all pulling
+together in the same path of making sure that we have these
+systems up and operational as much as possible. So, I really
+can't give you a better answer than that.
+Chairwoman CHU. Well, were you aware of the deficiencies
+with the portals used to implement the Paycheck Protection
+Program prior to its launch, and did the Office of Capital
+Access request assistance?
+Mr. CAVALLO. As far as deficiencies, I am not sure which
+part you are talking about. As far as just the recommendation
+that they be expanded, yes, we were working with them on those
+expansions before that point. Just in the last year, we have
+added our cybersecurity coverage across their systems, which
+previously were done independently. So, yeah, we have worked
+well together, and they have asked for our help and we have
+jumped in and helped them throughout this process. For example,
+putting a front end to E-Tran was something we did together. We
+did not force that on them. They recognized that we had the
+expertise in our office to do the new cloud-based systems. They
+had the expertise in E-Tran. And we used both teams together to
+get that new front end put in as quickly as possible.
+Chairwoman CHU. And I know you have--the CIO has an annual
+budget of $28 million. What percentage of this is towards
+improving cybersecurity?
+Mr. CAVALLO. Off the top of my head, I would say that--
+again, our move to the cloud was our biggest eye opener on
+cloud cybersecurity capabilities, so we got a benefit from that
+right away. We are probably spending $13 million of that on
+cyber, and everything that we are doing is based on cyber.
+One thing that my development teams do is we have security
+built into it so that it is not an afterthought. So, I can't
+give you a number for all of that because they are part of the
+team, but we take our cyber very seriously. And, in fact, as I
+mentioned earlier, DHS relies on us as being one of their prime
+agencies that they go to on how best to do cyber.
+Chairwoman CHU. Okay. My time has expired.
+Now, I would like to recognize the Ranking Member from
+Florida, Mr. Spano, for 5 minutes.
+Mr. SPANO. Thank you, Madam Chairwoman.
+Mr. Cavallo, you referenced a couple of times now putting a
+front end onto the system. Can you explain to those of us who
+are computer illiterates what that means?
+Mr. CAVALLO. Yes. It is great to have IT talk. You can
+have, even back to the old green screen days, a very difficult
+and complex screen to fill out that the data goes into in an
+old legacy system, or we can put a new web page that has
+dropdowns and colors and you can see exactly where you are, and
+the data still goes into the legacy system. So that is----
+Mr. SPANO. It is the way that the user interfaces with the
+system, more user-friendly essentially.
+Mr. CAVALLO. Yeah. We have simplified the user interface,
+made it easier for them to access the system than the old----
+Mr. SPANO. But you can't conduct substantive kind of
+fundamental changes to the system with these front-end patches,
+I guess?
+Mr. CAVALLO. No. That is where you need to do the full
+modernization and look at the right path.
+Mr. SPANO. Got it. Okay.
+It is our understanding that the SBA has spent
+approximately $27 million on its new certify.sba.gov system. Do
+you have an updated figure on that?
+Mr. CAVALLO. Yes, I do. If I brought it with me.
+I will say we are in the process of re-platforming Certify.
+Last year, the CIO and the CFO stopped the current development,
+which was the number that you are referencing. It was custom
+coded, so it meant that everything had to be written from
+scratch, and the decision was made that that was not a path to
+continue down. And what we have done since November, we have
+spent $3.5 million to rewrite the WOSB Program and HUBZone
+Program as the first two out on software as a service, which
+simply means instead of writing every line of code to be a
+database or to be that screen, we leverage the power of
+preexisting software.
+So, we just launched the new WOSB version last week, using
+that software as a service. It is a platform that we are using
+across SBA to do our citizen reporting. The ODA team is using
+it for their disaster portal.
+So instead of being a standalone, custom-built application,
+we are moving Certify to a common platform that will give us a
+360-degree view of all of our interactions with customers. So,
+we are in the middle of that rewrite.
+Mr. SPANO. Okay. Prior to the Certify system, there was
+another system that kind of went south, from what I have heard.
+Mr. CAVALLO. Yeah.
+Mr. SPANO. And now, it seems like this one, we were using
+it for a while, and now we are doing main wholesale changes to
+it, it seems, based on your explanation there. Is that usual to
+have changes and move to different programs and for them not to
+be effective and just to move from one to the next? Help me
+understand because, you know, I am not a techie, but it just
+seems like that is very inefficient.
+Mr. CAVALLO. That is a great question. It is all a factor
+of time. Today, my opinion is if you can have a vendor supply
+the platform so that they are responsible for doing updates,
+they are doing the code things, like with Office 365, Microsoft
+is updating Word and Outlook and all of those programs, and
+then you just write your code on top of that, then you have the
+power of a major vendor providing your cybersecurity, making
+sure everything is patched, that any potential breaches or
+attacks from foreign adversaries are covered. Moving away from
+custom code to that is absolutely something I would do a
+hundred times out of a hundred times.
+Mr. SPANO. But that is not what we are operating under
+currently. We are doing it in-house?
+Mr. CAVALLO. Yeah. The new Certify program that we just
+launched last week----
+Mr. SPANO. Okay. It is moving?
+Mr. CAVALLO. That is on this new platform.
+Mr. SPANO. I see.
+Mr. CAVALLO. Like I said, we have WOSB as the first one out
+of the gate, HUBZone will be next. But, yeah, the rest of the
+program has a long legacy.
+Mr. SPANO. Okay. So let me get your assurances, as much as
+you can give it to me sitting here, based on the fact that we
+have kind of failed here a couple of times now at this. Do you
+feel confident that this new way forward is actually going to
+work like we intend it to work? It is going to be an
+appropriate, responsible investment for the American taxpayer?
+Mr. CAVALLO. Like I said, from a technology standpoint,
+getting out of custom code, whether you put it in the cloud or
+whether you kept it on premise, absolutely is the right
+direction to go today. You know, the legacy systems that are
+all custom code are what is keeping agencies up at night. So, I
+think we have made the right choice and we are headed in the
+right direction.
+The Office of Disaster Assistance has 2,500 users already
+in the new system, so I think what we are seeing differently,
+instead of being its own standalone system run by just the GCBD
+office, we are seeing more buy-in to a platform across the SBA
+offices, which helps us break out of silos of dataware. If you
+asked our offices can you give me data for my district, we
+actually have to go to different systems to give you that data.
+Where we are headed to is that will all be very simple common,
+so that one office knows what your citizen did versus another
+visiting another office.
+Mr. SPANO. I see. Thank you.
+Madam Chair, I yield back.
+Chairwoman CHU. Okay. The gentleman's time has expired.
+And now, the gentleman from Pennsylvania, Mr. Evans, is
+recognized for 5 minutes.
+Mr. EVANS. Thank you, Madam Chair.
+My understanding, this is the first year that the SBA has
+had the ability to transfer funds to its working capital to
+upgrade IT equipment?
+Mr. CAVALLO. Yes.
+Mr. EVANS. Okay. What are the priorities moving forward
+then?
+Mr. CAVALLO. Yes, thank you for asking that. Yes, last
+year, was the first year that SBA was able to implement a
+working capital fund. So, we have had less than a year of
+having that fund available. And at the end of last fiscal year,
+we were able to seed that with $6 million.
+We have set up a governance model at SBA where the CIO and
+the CFO manage that working capital fund. The offices may
+propose----
+Mr. EVANS. While you are at it then, can you tell me, in
+addition, what has SBA done with the $6 million then?
+Mr. CAVALLO. Yes. We have made priorities to--most of it is
+going towards modernizing systems. Part of it went to modify
+the Certify system. We have also put part of it into updating
+and modernizing the EDMIS system. So, there are about four or
+five different areas.
+Sir, we did not use it to buy any hardware. Everything that
+was put into that fund we have dedicated to modernizing new
+systems.
+I don't know how the end of the fiscal year will end up, if
+we get to supplement that with another influx of money, but
+right now, that is 2-year money. So. the programs that we
+started this year, if they need to go past the fiscal year, we
+were counting spending some of that $6 million to keep them
+going until they are finished, like the EDMIS program. But, as
+I said, this was the first year of the agency having that fund.
+Mr. EVANS. My understanding when the paycheck protection
+portal was launched, the E-Transfer system where lenders
+submitted borrower applications went offline for as long as 4
+hours. On April 27, upon reopening, the PP portal crashed
+again. I heard from many lenders, you can imagine, in my home
+city of Philadelphia about the frustration in using this
+system, which caused them much stress.
+How did the office of the CIO work with the Office of
+Capital Access to recidivise the issues and relaunch the
+system?
+Mr. CAVALLO. Sure, yeah. What I mentioned earlier is that
+one thing that we saw was that the amount of users hitting the
+traffic from outside was growing tremendously, so we increased
+the bandwidth connectivity to it so that that would not be a
+limiting factor. And we put in a new front end to make it
+easier to access the system, like the Lender Gateway. There
+were hiccups along the way because you have a very legacy
+system and you have a brand-new system. I believe we figured it
+out through this time, and it should be much easier and better
+now. But there definitely were hiccups in the early days with
+the tremendous volume that we were facing.
+Mr. EVANS. So how successful do you think you have been, if
+you had to kind of rate it in terms as a result of you
+revisiting it?
+Mr. CAVALLO. I think for an agency the size of SBA to
+respond to all that we have responded to, that I can't commend
+higher my staff and the other program offices' staffs for
+stepping in. We know that--we have talked about it throughout
+this meeting--in the early days, the first week or two or
+three, there were significant problems, but everybody jumped
+into it. So I would give us a pretty high rating today.
+Mr. EVANS. Okay. I thank you.
+Thank you, Madam Chair. And I yield back the balance of my
+time.
+Chairwoman CHU. Well, thank you.
+[Inaudible] now all of the members have asked their
+questions, so I would now like to close.
+And I thank you, Mr. Cavallo, for your testimony today on
+SBA's technology systems, IT modernization efforts, and help
+addressing its cybersecurity issues.
+While I understand that the demands on these technology
+systems is unprecedented, several of these issues were
+preventable. SBA needs to have an IT infrastructure in place
+moving forward that can scale and respond to the high volume of
+applicants in need of support during COVID-19.
+Several of the technical issues that arose affected the
+ability of small businesses to access loans, and the
+complicated and difficult process of applying placed another
+unnecessary burden on small businesses that were already
+struggling to stay open.
+The Committee looks forward to working with you in the
+coming months to address these technical issues and make sure
+they are working effectively so SBA can implement its programs
+effectively and meet the needs of millions of small businesses
+that are relying on you to help them stay afloat.
+I ask unanimous consent that members have 5 legislative
+days to submit statements and supporting materials for the
+record.
+Without objection, so ordered.
+And if there is no further business before the committee,
+we are adjourned.
+[Whereupon, at 1:58 p.m., the Subcommittee was adjourned.]
+
+A P P E N D I X
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

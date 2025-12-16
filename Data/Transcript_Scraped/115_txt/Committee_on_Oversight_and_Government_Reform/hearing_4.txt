@@ -1,0 +1,2817 @@
+- IMPROVING SECURITY AND EFFICIENCY AT OPM AND THE NATIONAL BACKGROUND INVESTIGATIONS BUREAU
+
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+
+IMPROVING SECURITY AND EFFICIENCY AT OPM AND THE NATIONAL BACKGROUND
+INVESTIGATIONS BUREAU
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FIFTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+FEBRUARY 2, 2017
+
+__________
+
+Serial No. 115-12
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://oversight.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+26-358 PDF                  WASHINGTON : 2017
+
+----------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail,
+[email protected]
+.
+
+Committee on Oversight and Government Reform
+
+Jason Chaffetz, Utah, Chairman
+John J. Duncan, Jr., Tennessee       Elijah E. Cummings, Maryland,
+Darrell E. Issa, California              Ranking Minority Member
+Jim Jordan, Ohio                     Carolyn B. Maloney, New York
+Mark Sanford, South Carolina         Eleanor Holmes Norton, District of
+Justin Amash, Michigan                   Columbia
+Paul A. Gosar, Arizona               Wm. Lacy Clay, Missouri
+Scott DesJarlais, Tennessee          Stephen F. Lynch, Massachusetts
+Trey Gowdy, South Carolina           Jim Cooper, Tennessee
+Blake Farenthold, Texas              Gerald E. Connolly, Virginia
+Virginia Foxx, North Carolina        Robin L. Kelly, Illinois
+Thomas Massie, Kentucky              Brenda L. Lawrence, Michigan
+Mark Meadows, North Carolina         Bonnie Watson Coleman, New Jersey
+Ron DeSantis, Florida                Stacey E. Plaskett, Virgin Islands
+Dennis A. Ross, Florida              Val Butler Demings, Florida
+Mark Walker, North Carolina          Raja Krishnamoorthi, Illinois
+Rod Blum, Iowa                       Jamie Raskin, Maryland
+Jody B. Hice, Georgia
+Steve Russell, Oklahoma
+Glenn Grothman, Wisconsin
+Will Hurd, Texas
+Gary J. Palmer, Alabama
+James Comer, Kentucky
+Paul Mitchell, Michigan
+
+Jonathan Skladany, Staff Director
+William McKenna, General Counsel
+Julie Dunne, Senior Counsel
+Michael Flynn, Counsel
+Sharon Casey, Deputy Chief Clerk
+David Rapallo, Minority Staff Director
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on February 2, 2017.................................     1
+
+WITNESSES
+
+Ms. Kathleen McGettigan, Acting Director, U.S. Office of
+Personnel Management
+Oral Statement...............................................     6
+Written Statement............................................     8
+Mr. David DeVries, Chief Information Officer, U.S. Office of
+Personnel Management
+Oral Statement...............................................    13
+Mr. Cord Chase, Chief Information Security Officer, U.S. Office
+of Personnel Management
+Oral Statement...............................................    13
+Mr. Charles Phalen, Director, National Background Investigations
+Bureau
+Oral Statement...............................................    13
+Mr. Terry Halvorsen, Chief Information Officer, U.S. Department
+of Defense
+Oral Statement...............................................    14
+Written Statement............................................    16
+
+APPENDIX
+
+February 9, 2016, Worldwide Threat Assessment by Mr. James
+Clapper, submitted by Mr. Lynch................................    60
+Response from the Office of Personnel Management to Questions for
+the Record.....................................................    93
+
+IMPROVING SECURITY AND EFFICIENCY AT OPM AND THE NATIONAL BACKGROUND
+INVESTIGATIONS BUREAU
+
+----------
+
+Thursday, February 2, 2017
+
+House of Representatives,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The committee met, pursuant to call, at 9:02 a.m., in Room
+2154, Rayburn House Office Building, Hon. Jason Chaffetz
+[chairman of the committee] presiding.
+Present: Representatives Chaffetz, Jordan, Amash, Massie,
+Meadows, DeSantis, Ross, Blum, Hice, Grothman, Hurd, Palmer,
+Comer, Mitchell, Cummings, Maloney, Lynch, Connolly, Kelly,
+Lawrence, Plaskett, Demings, Krishnamoorthi, and Raskin.
+Chairman Chaffetz. The Committee on Oversight and
+Government Reform will come to order.
+And without objection, the chair is authorized to declare a
+recess at any time.
+I appreciate you all being here. We have a very important
+hearing. We have a number of members that, I'm sure, will be
+here but will be a little bit late. There is the National
+Prayer Breakfast, and getting across town at this time of day
+is a very difficult task, so----
+But, nevertheless, I'm glad to have you here and look
+forward to this important hearing.
+Two years ago, the Office of Personnel Management suffered
+one of the most damaging data breaches in the history of the
+Federal Government. This went on for some time, and there are
+still additional details that need to be learned.
+But the counterintelligence value of the data that was
+stolen will last for an untold amount of time, a generation or
+so. So it troubles me to hear reports that maybe some of the
+things that led to this haven't necessarily been changed at the
+Office of Personnel Management.
+We have a number of questions that I think we need to
+explore. For example, are legacy systems still in use for
+backup investigations? Is OPM employing good cybersecurity
+practices such as dual factor authentication and network
+segmentation? What is the plan to transition all of OPM's
+systems off this legacy technology? When will OPM stop using
+unsecured and vulnerable legacy technologies such as Cobalt and
+start using maybe some modernized solutions that can be put on
+the cloud?
+How is OPM protecting the inside of the network and not
+just building the cyberwalls higher? Will OPM adopt a zero-
+trust model as part of their cybersecurity strategy? You can't
+steal what you can't access, and a zero-trust model makes life
+much harder for the hackers. These are some of the questions
+we'll continue to ask and explore.
+We said it in the committee's data breach report, and I'll
+say it again, chief information officers matter. They really do
+matter. That's why we have two of them on the panel today.
+Federal agencies, particularly CIOs, must recognize their
+positions are on the frontline of defense against these cyber
+attacks. And as the government, we're on notice. Leadership at
+the Federal agencies must be vigilant about the ever-present
+national security threats targeting their IT systems. And
+especially in OPM's case where the IT systems are protecting
+some of the most vulnerable information held by the Federal
+Government.
+The National Background Investigation Bureau, also known as
+NBIB, N-B-I-B, was partly born from the failures at the Office
+of Personnel Management. When OPM last testified before the
+committee, in February of 2016, the NBIB had just been
+announced. During the hearing, questions were raised about the
+accountability and how this new organization would operate
+given the split responsibilities with OPM overseeing the NBIB
+and the Department of Defense overseeing the IT security of the
+NBIB.
+Today, we'd like answers to those questions and assurances
+that we're moving in the right direction and also, as to when
+the new organization will be fully operational with a secure IT
+environment.
+Was the creation of the NBIB simply a rebranding effort, or
+does the NBIB represent real change? At our last hearing, we
+talked about how the many security clearance processes failed
+to check social media information of the applicants. The day
+before our follow-up hearing in May of 2016, the director of
+National Intelligence issued a new policy permitting the
+collection of publicly available social media information in
+certain cases. We'd like to understand how this policy is being
+implemented and if it is effective.
+Finally, the clearance process seems to be getting worse
+while the reform process continues. My understanding is at
+least--based on an OPM management memo of October 2016, there's
+a backlog--at least then--there was a backlog of 569,000 cases.
+That's quite a list. It does beg the question as to why we have
+to have so many background checks, but where are we at in terms
+of the backlog? And why, despite all the reform activities, is
+the clearance process taking longer?
+In fiscal year 2015, it took an average of 95 days to
+process a secret clearance and 179 days for a top secret
+clearance. In fiscal year 2016, it took an average of 166 days
+to process a secret clearance and 246 for a top secret
+clearance. That's quite a jump in the timeline that it takes in
+order to get there.
+More than a decade ago, the security clearance data and
+processes were transferred from the Department of Defense to
+OPM, and now there's talk of transferring this process back to
+the Department of Defense. We also have the newly created NBIB
+where OPM and DOD have a shared responsibility. And we need to
+get this right, make sure that we have stopped just moving the
+organizational boxes around.
+As we continue our oversight of the transition of
+responsibilities from OPM to the NBIB, we need to continue to
+ask about the efficiency and making sure, at the end of the
+day, that we're protecting and securing the United States of
+America.
+So there are a tremendous amount of number of people that
+are working on IT issues. We will have additional hearings and
+discuss that.
+I personally do believe--and this is--at some point, I
+would like to draw this out from you--attracting and retaining
+IT professionals has got to be a challenge for the government.
+It's a challenge in the private sector. It's a challenge across
+the board.
+I was fortunate enough to have a newly minted son-in-law,
+who is in the IT field. And the opportunities for him for
+employment were unbelievable. I've never seen anything like it,
+which is good as his father-in-law. That's a good thing.
+But on a serious note, I do think we have to address, on
+the whole of government--not just this particular field, but
+the whole of government--how do we attract and retain IT
+professionals, because we do need so many of them, and there's
+so much vulnerability for the country as a whole.
+So this is an important hearing, and I appreciate you being
+here. And now I'd like to recognize the ranking member, Mr.
+Cummings.
+Mr. Cummings. Thank you very much, Mr. Chairman. I want to
+thank you for calling this hearing.
+And as I listen to you talk about the IT people, Mr.
+Chairman, this is very important that we all let Federal
+employees know how important they are, and that we do
+everything in our power to provide them with the types of
+salaries and work security that they need. That's one of the
+things that would help to attract them and keep them.
+Today's hearing is on the process our Nation uses to
+conduct background checks for Federal employees, who are
+seeking very important security clearances so they can have
+access to our most guarded secrets.
+This hearing could not come at a more critical time.
+Yesterday, I sent a letter requesting a Pentagon investigation
+of the President's national security adviser, Lieutenant
+General Michael Flynn, for his potentially serious violation of
+the United States Constitution. I was joined by the ranking
+members of the committees on Armed Services, Judiciary,
+Homeland Security, Foreign Affairs, and Intelligence.
+General Flynn has admitted that he received payment to
+appear at a gala in December of 2015 hosted by Russia Today,
+that country's State-sponsored propaganda outlet.
+During that event, General Flynn dined with Russian
+President, Vladimir Putin. As our letter explains, the
+Department of Defense warns its retired officers that they may
+not accept any direct or indirect payment from foreign
+governments without congressional approval, because they
+continue to hold offices of trust under the emoluments clause
+of the United States Constitution.
+On January 6, intelligence officials issued their report
+detailing Russia's attack on the United States to undermine our
+election. This report concluded with high confidence that the
+goal was to, quote, ``undermine public faith in the United
+States' democratic process,'' end of quote.
+This report described as, quote, ``The Kremlin's principle
+international propaganda outlet,'' end of quote. It explained--
+and I quote--that ``The Kremlin's staff's RT and closely
+supervises RT's coverage recruiting people who can convey
+Russian's strategic messaging because of their ideological
+beliefs,'' end of quote.
+It is extremely concerning that General Flynn chose to
+accept payment for appearing at an event hosted by the
+propaganda arm of the Russian Government at the same time that
+the country was engaged in an attack against this Nation in an
+effort to undermine our election. Something is wrong with that
+picture.
+But it is even more concerning that General Flynn, who
+President Trump has now chosen to be his national security
+adviser, may have violated the Constitution in the process. We
+do not know how much General Flynn was paid for this event and
+for his dinner with President Putin, whether it was $5,000,
+$50,000, or more. We don't know. We do not know whether he
+received payments from Russian or other foreign sources or on
+separate occasions or whether he sought approval from the
+Pentagon or Congress to accept these payments. We don't know.
+Related to today's hearing, we do not know what effect this
+potentially serious violation of the Constitution should or
+will have on General Flynn's security clearance.
+Security clearance holders and those applying for security
+clearances are required to report their contacts with foreign
+officials. We do not know what, if anything, General Flynn
+reported about his contacts with officials from Russia or other
+countries. We do not know if he reported this one payment or
+any other payment he may have received. These are the questions
+that need to be answered.
+We also have questions about the individuals who may seek
+to join the administration and obtain access to classified
+information while they are currently under investigation.
+For example, there have been reports that President Trump's
+former campaign chairman, Paul Manafort, has been advising the
+White House recently while at the same time he's, reportedly,
+under FBI investigation for his dealings with Russian
+interests. We want to know how security clearances are handled
+if the existing clearance holders or new applicants are under
+criminal investigation. Does the FBI allow these individuals to
+continue to have access to classified information, or is there
+a process to place a hold on someone's clearance or application
+until the investigation resolves the questions?
+Finally, President Trump claims that Democrats only became
+interested in Russian hacking for political reasons and that,
+for example, we have no interest in cyber attacks against OPM.
+He stated, and I quote, ``They didn't make a big deal of
+that,'' end of quote.
+The President is one million percent wrong. I and other
+Democrats worked aggressively on this committee's investigation
+of the attacks on OPM. We held multiple hearings, including one
+that I requested. We conducted extensive interviews and
+briefings with key witnesses. We reviewed more than 10,000
+pages of documents, and we issued two reports from the majority
+and minority staff.
+I called for expanding our investigation to other agencies,
+including the State Department, the postal service, which were
+both attacked.
+I called for investigating the cyber attacks on financial
+institutions like JPMorgan Chase. Our intelligence agencies had
+warned us--I called for investigating the cyber attacks on the
+Nation's biggest for-profit hospital chain, Community Health
+Systems, which had the largest hacking-related health
+information breach ever reported.
+And I called for investigating the cyber attacks on retail
+companies, including Home Depot, Target, and Kmart. So the
+President's claim that we are focusing on Russia's hacking for
+political reasons is ludicrous. Our intelligence agencies have
+warned us that if we do not act now, our adversaries, including
+Russia, are determined to strike again. We need to get answers
+to these questions immediately, and I thank all of our
+witnesses for being with us today.
+And, again, Mr. Chairman, I thank you for this hearing. And
+I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We'll hold the record open for 5 legislative days for any
+members who would like to submit a written statement.
+I now would like to recognize the panel of witnesses. We're
+pleased to welcome Ms. Kathleen McGettigan, who is the acting
+director of the United States Office of Personnel Management.
+Ms. McGettigan is accompanied by David DeVries--DeVries,
+sorry--chief information office of the United States Office of
+Personnel Management; Mr. Cord Chase, chief information
+security officer at the United States Office of Personnel
+Management, and Mr. Charles Phalen, director of the National
+Background Investigations Bureau, or NBIB. Their expertise on
+this issue will be very important to this subject matter, so
+they will all--everybody will be sworn in.
+We're also honored to have Mr. Terry Halvorsen is the chief
+information officer at the United States Department of Defense.
+It's my understanding Mr. Halvorsen is retiring at the end of
+the month, and we could think of no better gift for you than
+having to testify before Congress.
+It's such a joy. I know you're looking forward to it
+personally. So happy birthday, Merry Christmas, and happy
+retirement for coming to testify before Congress. But we thank
+you, sir for your----
+Mr. Halvorsen. Thank you.
+Chairman Chaffetz. --for your service to this country and
+at the Department of Defense. And we really do appreciate your
+expertise and look forward to hearing your testimony. And we
+wish you well.
+And, again, thank you for your service and your willingness
+to be here today. You probably could have squirmed out of this
+one if you really wanted to, but you stepped up to the plate
+and took this assignment, so thank you, sir, for being here.
+Again, we welcome you all. Pursuant to committee rules, all
+witnesses are to be sworn before they testify. So if you would
+please rise and raise your right hand.
+Do you solemnly swear or affirm that the testimony you are
+about to give will be the truth, the whole truth and nothing
+but the truth, so help you God?
+Thank you. You may be seated. Let the record reflect that
+the witnesses all answered in the affirmative.
+Your entire written statement will be made part of the
+record, but we would appreciate it if you could keep your
+comments to 5 minutes. And like I said, your whole record--your
+whole testimony and any supplements you have will be made part
+of the record.
+Ms. McGettigan, you are now recognized for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF KATHLEEN MCGETTIGAN
+
+Ms. McGettigan. Good morning, Mr. Chairman, Ranking Member,
+and distinguished members of the committee. Thank you for the
+opportunity for my colleagues and myself to testify on behalf
+of the Office of Personnel Management.
+As you said, I am joined today by Mr. Charles Phalen, the
+director of the National Background Investigations Bureau, Mr.
+Dave DeVries, OPM's chief information officer, and Mr. Cord
+Chase, OPM's chief information security officer.
+While I am presently the acting director of OPM, I do have
+over 25 years of service at the agency.
+OPM recognizes how critical the topics of today's hearing
+are to the Federal Government and to our national security, and
+I look forward to our having a productive conversation about
+the NBIB transition, the security clearance process, and
+information technology security.
+As you know, the NBIB was established on October 1st, 2016,
+and is the primary provider of background investigations for
+the Federal Government.
+Charlie has a distinguished career in multiple roles at
+senior levels in the Federal Government and private industry.
+His career has been focused on national security. His
+experience includes serving in capacities at the CIA, including
+as director of security and with the FBI as assistant director
+leading its security division.
+NBIB is designed with an enhanced focus on national
+security, customer service, and continuous process improvement.
+Its new organizational structure is aimed at leveraging record
+automation, transforming business processes, and enhancing
+customer engagement and transparency.
+In late 2014, OPM's market capacity for contract
+investigation services was drastically reduced by the loss of
+OPM's largest field contractor. This resulted in an
+investigative backlog. This backlog was exacerbated by the
+cybersecurity incidents at OPM that were announced in 2015.
+Looking forward, it is an NBIB priority to address the
+investigative backlog while maintaining a commitment to
+quality.
+To accomplish this, NBIB is focusing efforts in three
+primary areas: First, we are working to increase capacity by
+hiring new Federal investigators and increasing the number of
+investigative field work contracts.
+Second, NBIB is focusing on policy and process changes to
+ensure efficient operations.
+Third, NBIB has actively worked with customer agencies to
+prioritize the cases that are most critical to our national
+security.
+Information technology also plays a central role in NBIB's
+ability to enhance the background investigation process. While
+still in development, NBIB's new system, NBIS, will be operated
+and maintained by DOD on behalf of NBIB.
+On OPM's behalf, this effort is being led by our new chief
+information officer, David DeVries. Dave joined us in September
+of 2016. He is the DOD's principle deputy CIO, and he has a
+strong relationship with his former agency.
+As we work to strengthen the infrastructure and security of
+NBIB, we are also working on fortifying our entire technology
+ecosystem.
+As the Federal Government modernizes how it does business,
+OPM has focused on bracing new tools and technology to deliver
+optimum customer service and enhanced security.
+OPM enhanced its cybersecurity efforts from multiple
+angles. We have added cybersecurity tools and security updates.
+We've implemented staff and agencywide training we've hired
+critical personnel and, finally, we continue to collaborate
+with our interagency partners.
+Touching on efforts I've just outlined, our cybersecurity
+tools and security updates include 100 percent multifactor user
+authentication to access OPM's network. This is done via the
+use of PIV cards and major IT system compliance initiatives.
+Furthermore, OPM recognizes that cybersecurity is not just
+about technology, but it is also about people.
+OPM has added seasoned cybersecurity and IT experts to its
+already talented team. OPM has hired a number of new senior IT
+managers and leaders and realigned and centralized its
+cybersecurity program and resources under the chief information
+security officer. In this capacity, Cord is responsible for
+taking the steps necessary to secure and control access to
+sensitive information. OPM also strengthened its threat
+awareness by enrolling in multiple information and intelligence
+sharing programs.
+In conclusion, the necessary key partnerships and plans
+have been developed to build out NBIB and improve the security
+and efficiency of OPM's IT systems. These structural and
+process improvements will enable us to improve timeliness,
+reduce the background investigation. Equally productive is the
+CIO's holistic approach which ranges from bringing on qualified
+personnel to adopting new tools and procedures that enhance the
+security of OPM's networks and data.
+Thank you for the invitation to testify before you today,
+and we welcome any questions you may have.
+[Prepared statement of Ms. McGettigan follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you. Thank you for your testimony.
+Mr. DeVries, you are now recognized for 5 minutes.
+My understanding is maybe yourself, Mr. Chase, and Mr.
+Phalen, I don't know if you have opening statements or if you
+care to say anything, but I'll recognize each of you. If you
+don't have anything, we'll just--Mr. DeVries, do you have----
+
+STATEMENT OF DAVID DEVRIES
+
+Mr. DeVries. Thank you, Mr. Chairman.
+I'd like to just take this opportunity to thank you for the
+opportunity to come here. As the brief bio was read there, I
+did come from 30 years in the Army. I transitioned in in 2009
+to become a senior executive within DOD, and where I spent the
+last 2-1/2 years as the principle deputy for the DOD CIO.
+Broad range here, I was asked to come here to OPM and
+accepted that and arrived here in September of 2016. And it's a
+pleasure being here today, and I enjoy the opportunity to
+answer your questions here. Thank you.
+Chairman Chaffetz. Thank you.
+Mr. Chase.
+
+STATEMENT OF CORD CHASE
+
+Mr. Chase. Thank you very much for the opportunity----
+Chairman Chaffetz. If you can all bring that--I'm sorry.
+You've got to bring the microphones up close, uncomfortably
+close to make sure we can all hear you.
+Mr. Chase. Again, thank you very much for the opportunity
+to speak today. One of the things that I want to make clear is
+I ran into the fire to help with the events that occurred in
+2015. In the rebuilding process, we've made a lot of
+advancements, but it's only to get us to a standard
+environment. By no means am I up here saying, we're successful
+or we've won anything, that we're doing our best to improve the
+environment to secure the information within OPM and NBIB.
+With that, there are quite a few items that I'd be happy to
+discuss with all of you on those improvements, and that's all I
+have at this point.
+Chairman Chaffetz. Thank you.
+Mr. Phalen.
+
+STATEMENT OF CHARLES PHALEN
+
+Mr. Phalen. Thank you, Mr. Chairman. I'm happy to be here
+and join with you today in a good conversation on this.
+To echo a little bit what Ms. McGettigan mentioned, we are
+focused in our--as we begin our--or end our 4th month as an
+entity on three key things.
+One is recovering and increasing our capacity to do
+background investigations, improving our capability to gather
+information that is relevant to background investigations and,
+finally, working on those innovations that will help us in
+partnership with the security executive agent and the
+suitability executive agent to look at what an investigation
+will look like as we move down into the future.
+A key to this is building an organizational structure
+beyond what existed on September 29th and adding capabilities
+in terms of investments and in terms of innovation, and then
+very importantly, working in partnership with DOD as we build
+out an information technology systems that will be able to
+enhance and inform security investigations across our entire
+spectrum of about 100 customers across the Federal Government.
+With that, I'm very happy to be here. Thank you for the
+opportunity today.
+Chairman Chaffetz. Thank you.
+Mr. Halvorsen, you are now recognized for 5 minutes.
+
+STATEMENT OF TERRY HALVORSEN
+
+Mr. Halvorsen. Good morning, Mr. Chairman, Ranking Member,
+and distinguished members of the committee. Thank you for the
+opportunity to testify before the committee today on the
+Department's information technology and cybersecurity support
+to the National Background Investigations Bureau.
+I am Terry Halvorsen, the Department of Defense chief
+information officer. You have my opening statement. I think
+most of you are familiar with my responsibilities, so in the
+interest of time, I'll cut this a little short.
+The department is responsible for the development and
+securing the NBIB IT systems. We have brought the full
+expertise of the department both in IT and cybersecurity
+resources to bear on this problem, and it is our objective to
+replace the current background investigations information
+system with a more reliable, flexible, and secure system in
+support of the NBIB.
+Defense information system under the DOD's CIO's oversight
+has established the National Background Investigations Systems
+Program Management Office to implement this effort. The PMO is
+responsible for the design, develop, and operation of the IT
+systems capabilities needed to support the investigative
+process to include ensuring that the cybersecurity protections
+and resiliency of these capabilities. The alignment of the
+systems under DOD assures we leverage all national security
+systems expertise and capability to protect the background
+investigation data. And I assure you, we are doing that.
+The Department has made significant headway on this
+important mission, since I previously testified before this
+committee last February, and we are on track to deliver the
+capabilities needed in an iterative fashion using DOD expertise
+and best industry practices.
+In fiscal year 2016, the Department funded preacquisition
+activities to better posture for official standup and funding
+in fiscal year 2017. I would like to thank Congress and members
+of this committee for supporting the Department's funding
+request for NBIB IT infrastructure and cybersecurity
+modernization. As you know, the fiscal year 2000 continuing
+resolution did include new start authority for the NBIB, and we
+thank you for that.
+Today, several of the NBIB's prototypes are enabling the
+Department to work with industry and other partners to discover
+capabilities that we will provide with a more efficient,
+effective, and secure background investigation system in the
+future.
+Throughout this process, we are actively partnering with
+industry, integrating commercial feedback into the process to
+ensure we are focusing on capabilities and keeping up with the
+changing pace of technology.
+I am pleased with the current progress on NBIS that the
+Department and our partners have made to date. I look forward
+to seeing what this organization will accomplish as it makes
+progress toward delivering several prototype capabilities by
+the end of fiscal year 2017 and an initial operating capability
+covering the full investigative process in the fourth quarter
+of 2018.
+This is an important opportunity for the Federal Government
+to strengthen the security of the IT infrastructure that
+supports the Federal background investigating process. This
+approach utilizes the Department's recognized IT cybersecurity
+expertise, best industry practices while maintaining a
+streamline centralized governmentwide approach to the
+investigative services that the NBIB provides today for more
+than 100 different Federal agencies.
+Thank you for this committee's continued support, and I
+look forward to your questions.
+[Prepared statement of Mr. Halvorsen follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you.
+I will now like to recognize the gentleman from Texas, the
+chairman of the subcommittee on Information Technology, Mr.
+Hurd.
+Mr. Hurd. Thank you, Mr. Chairman. I want to thank you and
+the ranking member for the continued diligence on this
+important issue.
+Mr. Phalen, I've got some basic questions for you. Sorry
+for the basicness of the questions.
+You're in charge, right?
+Mr. Phalen. Yes, sir.
+Mr. Hurd. Do you have a technical background?
+Mr. Phalen. I do not have a technical background.
+Mr. Hurd. Who is the person directly reporting to you that
+is responsible for preventing another attack that we saw, like
+the one we saw a number of months ago?
+Mr. Phalen. So it is not a direct chain----
+Chairman Chaffetz. Sorry. Mr. Phalen, if you could move
+that microphone. Straighten it up and right--right up next--
+there you go. Thank you.
+Mr. Phalen. There you go. Okay thank you.
+There's no one specifically in my chain of command that is
+immediately responsible. We rely on Mr. DeVries and Mr. Chase
+as the CIO and CISO to provide the security for the systems
+that we are operating today.
+Mr. Hurd. Copy.
+So Mr. Chase, you are in charge.
+Mr. Chase. That is correct, for cybersecurity.
+Mr. Hurd. Well, thank you for running into the fire.
+Mr. Chase. Thank you.
+Mr. Hurd. I recognize the difficulty of the task. In your
+brief remarks, you talked about the first step was getting OPM
+up to a baseline.
+Mr. Chase. Correct.
+Mr. Hurd. Can you take 90 seconds and explain that
+baseline?
+Mr. Chase. Sure. That's a good question. So one of the
+things, when I came on board, was to set an appropriate
+strategy and a pathway forward. So it was the stabilization
+phase. So we understood that there were quite a few systems
+that were out of compliance. So we knew that we had to take
+steps to get those back into compliance.
+We also had another layer of engineering tasks, which
+included network segmentation, making sure that we had the
+appropriate monitoring tools in place, and then the tuning
+process to support that.
+Throughout fiscal year 2016, we were able to get those
+accomplished but, again, to a standard baseline where we feel
+comfortable that we can control our environment and we
+understand where we were with the IT system boundaries and the
+IT system boundary inventories.
+Mr. Hurd. So of the IG GAO, they've all done reviews,
+there's been a number of outstanding issues. Many of the
+outstanding issues for years had been on the IG report and the
+GAO high-risk report.
+Of those documents, how many of those vulnerabilities, that
+have been identified, are still outstanding?
+Mr. Chase. So there are still items that are outstanding,
+and we prioritized them based on their criticality----
+Mr. Hurd. What's the highest priority--highest priority
+vulnerability that's still outstanding?
+Mr. Chase. So the IT system compliance was the most
+significant vulnerability that was identified in the Fiscal
+Year 2016 FISMA report, as well as the IT security officer
+hiring process, which is something we were able to accomplish
+at the end of this year as well.
+Mr. Hurd. Good copy.
+You talked about segmentation. And we saw after the
+breaches in 2014 and 2015, the hackers were able to basically
+move, you know, without--with impunity through the network. And
+my question is what have you done to make life harder on the
+hackers that once they get past your defenses?
+And I will say my--you know, I begin with the presumption
+of breach, you give an attacker enough time, they have enough
+resources, they are going to get in, so what do you do once
+they get in, and how have you improved segmentation across the
+OPM network.
+Mr. Chase. So I consider it a level of effort, so I'm
+trying to make it as hard as possible for them to get in.
+Understanding that OPM is a customer-oriented agency and has to
+communicate. Some of the segmentation that we have done is
+identify all of our major systems and high-valued assets within
+our environment, as well as, all the privileged and
+nonprivileged users.
+We segmented those between each other and set the
+appropriate firewalls and monitoring tools to ensure that one
+can't get to the another and vice versa, and if there are
+attempts to get between the other, the other is stopped and
+flagged, and there's a follow-up with that event itself.
+Mr. Hurd. In my remaining minutes, I want to ask a
+question. And I don't mean to be indelicate. Why did we get to
+this situation? And I ask that question in order to learn from
+this experience so we can take those lessons learned and apply
+it across the Federal Government.
+Mr. Chase. So I'm going to say I came post breach, and I
+know there's quite a few lessons learned. There was a majority
+and minority reports issued, there's all the audits that were
+issued, and that's what I've been going off of and, again,
+trying to apply those to prioritize the next steps to be able
+suppress the threat and the risks within OPM.
+Mr. Hurd. So why--you've been there now for enough time.
+You've seen the problems. You've probably been shocked by some
+of the deficiencies within the network. Why do you think that
+network got to where it was?
+Mr. Chase. I would say based on those reports and
+information that was put in front of me, there were systematic
+failures within OPM that led to it.
+Mr. Hurd. Mr. Chairman, I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We'll now recognize the ranking member of the subcommittee
+on IT, Ms. Kelly from Illinois, for 5 minutes.
+Ms. Kelly. Thank you, Mr. Chair.
+And thank you all for your testimony here today. This is
+actually the committee's third hearing on the OPM data breach.
+The data breach compromised the information of millions of
+Federal employees. The committee responded almost immediately
+and did an extensive bipartisan investigation into the
+incident. In total, committee staff reviewed more than 10,000
+pages of documents, interviewed multiple witnesses, and had
+numerous briefings from both Federal and nonFederal entities. I
+applaud the work we have done on the OPM data breach, but I
+must address the elephant in the room.
+We are holding a hearing about hacking by a sophisticated
+actor, likely a State actor for a hack that occurred more than
+a year ago. But this committee has chosen not to take any
+action to investigate the recent Russian hacking and propaganda
+campaign to impact our election.
+Only last month, the NSA, FBI, and CIA concluded with a
+high degree of confidence that Russia successfully hacked
+groups throughout our Nation in an effort to influence our
+election. In the face of this report from our top intelligence
+agencies, we have done zero oversight into this issue. There's
+not been a single hearing or request.
+My wonderful chairman on the IT subcommittee asked Mr.
+Chase about lessons learned.
+Mr. Halvorsen, I would like to ask you about lessons
+learned after the vulnerabilities were exposed in the OPM data
+breach.
+Mr. Halvorsen. We certainly took the vulnerabilities that
+were exposed in the database, and I can assure you that both in
+the OPM legacy systems, the work they're doing today and in the
+new systems, we are taking those lessened learn and making sure
+that the systems we are building new are built from the ground
+up with cybersecurity baked in, and that we've assumed from the
+beginning that this system could be penetrated.
+So there's a condition we have that you might hear in the
+Navy termed, it's set conditions ZEBRA, it means close the
+watertight doors. We are making sure that the new system will
+be segmented enough that we can close the doors. Because
+there's two things you want to stop. Certainly, you want to
+stop people from getting in, but when they get in, you don't
+want your answer to be you've got to shut the system down.
+That's a victory.
+So we're designing this system so that we can fight--and
+that is the correct word--fight through any attempt to breach
+this system. And if we get breached, be able to block and
+contain and then eradicate any malware system loss that gets in
+here.
+Ms. Kelly. Thank you.
+Did the subsequent investigations help in understanding how
+things could be improved?
+Mr. Halvorsen. Absolutely.
+Ms. Kelly. Anybody else want to answer that?
+Mr. Halvorsen. Yes, they did.
+Ms. Kelly. And any of the other witnesses?
+Mr. Chase. I concur.
+Mr. DeVries. Concur.
+Ms. Kelly. Thank you.
+I believe these OPM investigations went a long way in
+assuring the American public that everything possible was being
+looked at to prevent this from happening again. But it is clear
+that politics have prevented this committee from being willing
+or able to do the necessary objective and nonpartisan oversight
+on the Russian attack. That's why I, and every one of my
+democratic colleagues in the House, have signed on to
+legislation to establish an independent bipartisan commission
+to investigate foreign interference in the 2016 elections.
+Thank you for your response.
+And, Chairman, I yield back.
+Chairman Chaffetz. Will the gentleman--gentlewoman yield
+first?
+Ms. Kelly. Of course.
+Chairman Chaffetz. As I've said publicly, and the
+gentlewoman should know, given that it involves sources and
+methods, the United States Congress is organized such that the
+House Intelligence Committee takes the lead on those things. We
+can investigate anything at any time, but I do have limits in
+that I cannot investigate sources and methods which clearly is
+the purview of the House Intelligence Committee.
+I would also suggest that we were the first committee to
+create a subcommittee specifically on information technology.
+We were the first to dive into the OPM data breach, and we have
+been pushing from the Department of Education and others to
+make sure that we do have the proper defenses in place. And to
+suggest that it's only one particular country would be naive at
+best. And it could be everything from a guy in a van down by
+the river down to a Nation State.
+Ms. Kelly. We know it was the Russians in this particular
+instance.
+Chairman Chaffetz. And I think that should be investigated.
+I have said as much publicly, and I've also--I think everybody
+should know, every Member of Congress should know that the
+House Intelligence Committee is really the only organization
+within Congress that is set up to be able to do that.
+Mr. Cummings. Would the gentlelady yield, please?
+Ms. Kelly. Yes, I will.
+Mr. Cummings. Very briefly, Congressman Swalwell and I,
+over a month ago--as a matter of fact, in December, filed a
+bill which asks that we have a 9/11-type investigation. And the
+reason why we did that is because we didn't want it to get
+mired in a political battle like the Benghazi Committee did,
+Select Committee.
+And it would be patterned after the 9/11 commission so that
+we would bring America's best experts to the table. It would be
+an equal number of Democrats, an equal number of Republicans,
+and that they would look at this thing carefully--and with the
+chair's indulgence, I need to explain this--and they would come
+back with recommendations. They would have subpoena power.
+Then we refiled that bill in January when the new session
+came in. Every single Democrat in the Congress signed on to
+that bill. Not one signal Republican signed on. And one of the
+reasons why we did that is because we felt we didn't move to
+common ground; we need to move to higher ground, that this was
+such a serious attack on our democracy, and our election
+process, that it deserved that kind of attention. And so that
+bill is still out there. Only Democrats have signed on.
+One of the things we were concerned about is the chairman
+of the Intelligence Committee, Mr. Nunes, was a part of the
+transition team for President Trump. And we just felt that we
+needed to take the complete thing out and let an independent
+body do it. And I just wanted to explain that to the
+gentlelady.
+Thank you very much. And thank you for yielding. Nice job,
+by the way.
+Chairman Chaffetz. I'll now recognize the gentleman from
+Florida, Mr. DeSantis, for 5 minutes.
+Mr. DeSantis. Thank you, Mr. Chairman.
+Ms. McGettigan, I know after the OPM breach there's several
+months people were, kind of, notified. But I've had people,
+constituents, just wonder, I mean, what has been done to
+mitigate the potential damage to people whose files were
+compromised?
+Ms. McGettigan. Thank you for that question.
+We have entered into--in December, we entered into a
+contract and identity protection contract. We expanded the
+coverage that we already had. And we are moving toward having
+coverage for 10 years. The current contract covers all those
+affected by the two breaches, and it runs out in December of
+2018 during----
+Mr. DeSantis. What would that mean, just for somebody who
+had their stuff compromised?
+Ms. McGettigan. I'm sorry. We have identity protection
+services and credit monitoring. So people have received--people
+who were affected have received information on how to sign up
+for the credit monitoring, although they are covered by
+insurance whether they sign up or not.
+And currently, the ceiling on the insurance we have
+expanded to $5 million, and we are moving toward complying with
+congressional direction to have the contract go for 10 years of
+credit monitoring.
+Mr. DeSantis. Okay. Good. I mean, I think that we in this
+committee--and I applaud the chairman for being on this issue.
+And we hear about these other hacks and stuff. This was
+catastrophic. I mean, you're talking about these files with the
+amount of information that's there, and I had to go through it
+in the military, and other people, perhaps, you guys have gone
+through it, too, there is a lot, a lot of information there,
+and it's a massive vulnerability. So I hope that what's being
+done is going to be effective.
+Let me ask--this may be Mr. Chase or maybe someone else
+want to take this. If OPM suffers another compromise and NBIB
+applications and its systems are breached, who makes the final
+call as to whether or not the compromised applications are
+taken offline or continue to run?
+Mr. Halvorsen. If it's in the new systems that are
+developed, that is me.
+Mr. DeSantis. Do you agree with that?
+Mr. DeVries. For the new system, yes. Right now we're
+currently operating underneath the existing legacy system.
+Mr. DeSantis. What's the answer----
+Mr. DeVries. The answer is the CIO gets the report of it
+from the CISO, and the director makes the call on it.
+Mr. DeSantis. Okay. Let me ask you this, because the
+majority staff on this committee had a report indicating that
+there were certain tools following some of the previous
+breaches that were bought, and then they there were delayed in
+terms of their deployment for a variety of reasons, but one of
+them, that they had to make certain notification to relevant
+unions.
+So what kind of notifications is the IT security team
+required to make before deploying these tools, and what is the
+purpose of the notifications?
+Mr. Chase. So from post breach coming in, any tool that we
+go out on the street to market and do our research on is fully
+vetted internally. We have a procurement office inside of OPM
+that works with us to make sure that the appropriate language
+is put into that, and then we move to the process of deploying
+that tool.
+Mr. DeSantis. But in terms of the delays, have there been
+delays because of notification requirements?
+Mr. Chase. I'm not aware of that specific statement.
+Mr. DeSantis. Okay. Had there been other barriers or
+challenges in trying to timely deploy some of these tools,
+bureaucratic roadblocks?
+Mr. Chase. Again, post breach, based on the situation--and,
+again, I mentioned earlier stabilizing, the procurement office
+has been very, very flexible with me and making sure that they
+can give us the time----
+Mr. DeSantis. But this was so--the implication is there may
+have been a problem prebreach?
+Mr. Chase. I'm not aware outside of what I'm reading in
+those reports.
+Mr. DeSantis. Do you think that it was a problem?
+Mr. DeVries. I have no firsthand knowledge of that, but
+just from the acquisition side and having been in this field
+for many years, yes.
+Mr. DeSantis. Okay.
+Well, I will yield back the balance of my time.
+Chairman Chaffetz. I thank the gentleman.
+I now recognize the gentleman from Massachusetts, Mr. Lynch
+for 5 minutes.
+Mr. Lynch. Thank you, Mr. Chairman.
+And I want to thank our witnesses for your great work and
+for your willingness to help us. I want to revisit the issue
+raised by Ms. Kelly about the unwillingness or the inability of
+the committee to really investigate what's going on with the
+Russian hacking.
+But before I get into that, let's talk a little bit about
+the issue that brings you here.
+In June and July of 2015, OPM publicly disclosed that its
+information technology systems had been experiencing massive
+data breaches over some time, compromising the Social Security
+numbers, birthdates, home addresses, background investigation
+records, and other highly sensitive personal information
+belonging to about 22 million individuals.
+These cyber breaches were not only devastating in terms of
+their impact on the financial security of their victims,
+rather, they also posed a grave national security threat as the
+extensive security clearance questionnaires, about an 80-page
+document, that really drills down on folks and was filled--were
+filled out by nearly 20 million Americans who have security
+clearance rights and privileges, and the names and the
+information of those individuals were included among the data.
+I had asked--that was a--that was a terrible--you know,
+some people call that a--like a cyber Pearl Harbor, because all
+our folks who are actually actively interested in working on
+our national security organizations, you know, basically, they
+were giving up. And so I asked at a very basic level, I asked,
+Ms. Archuleta, who was running the OPM at the time, I said,
+have you actually gone back and encrypted the Social Security
+numbers of these employees? Were they encrypted? And she said,
+no, they were not. So--so all those Social Security numbers of
+those 22 million people went out.
+And then a year later, we had one of her successors--not
+her successor, but one of the people under her, I asked, again,
+have we encrypted the Social Security numbers of the people,
+the 22 million people? And they said there are still--there are
+still vulnerabilities we still haven't been able to do that.
+So let me ask, have we encrypted at least the Social
+Security numbers of these 22 million people?
+Mr. DeVries. Sir, I'll take that for the record. Yes, we
+have begun a vigorous program in 2016 to encrypt the databases.
+So it's not just encrypting the Social Security number, but it
+is the databases that contain those critical information.
+Mr. Lynch. Are we done with that yet?
+Mr. DeVries. We are not completely done across the whole
+OPM environment, but the HVA systems we have gone through, and
+I have one remaining system to be done, and that is scheduled
+for next month. To complete the----
+Mr. Lynch. What percentage of the 22 million have been
+encrypted? Can you give me an estimate on that?
+Mr. DeVries. Of the NBIB system, which contains those
+records there, all but one have been encrypted.
+Mr. Lynch. So what's lacking in percentage?
+Mr. DeVries. One major database there on the mainframe.
+Mr. Lynch. All right. You're not answering my question,
+but--look, we need to get that done. Okay?
+Let me go on to the Russian thing. Look, we've got--I
+understand that the chairman's resistance on sources and
+methods, I get that. But we have--and I would like to introduce
+these into the record.
+First of all, I would like to introduce into the record my
+letter from December 15th--14th asking for a hearing on the
+Russian hacking.
+Secondly, I'd like to enter into the record an FBI
+investigation regarding Russian malicious cyber activity. They
+did a whole investigation on this. It's called ``grisly
+steppe,'' s-t-e-p-p-e. I want to enter into the record a
+background to assessing Russian activities and intention into
+recent U.S. elections, the analytical process and cyber
+incident attribution. That's produced by the offices of the
+director of National Intelligence.
+I would like to submit for the record, a statement for the
+record, worldwide threat assessment by James R. Clapper,
+director of the National Intelligence, February 9, 2016.
+I ask for unanimous consent.
+Chairman Chaffetz. Without objection, so ordered.
+Mr. Lynch. Thank you. So we have enough here. Just with
+this here, we have enough here to do an investigation. And this
+is just the stuff that is unclassified that the intelligence
+community has put out there. We don't have to talk about----
+Chairman Chaffetz. Will the gentleman yield?
+Mr. Lynch. Yes. Sure I'll yield.
+Chairman Chaffetz. Two points. Number one, sources and
+methods are the sole jurisdiction of the intelligence
+community.
+Number two, have you really thought this through? Do you
+really think it's appropriate for this committee to investigate
+the specific hack of the DCCC?
+Mr. Lynch. Absolutely.
+Chairman Chaffetz. Because if you are going to do an
+investigation of the DCCC, we're going to have to dive into a
+political party's infrastructure operation's data. I don't
+think that's appropriate. If you----
+Mr. Lynch. Let me--well----
+Chairman Chaffetz. Here's the difference. Here's the
+difference----
+Mr. Lynch. Reclaiming my time. Actually, you know, you're
+using all my time here.
+Look, look they hacked--they hacked the American election.
+That is worth looking into----
+Chairman Chaffetz. There's no evidence of that. And
+President Obama said that that wasn't even possible.
+Mr. Lynch. This is high confidence. This is our own FBI,
+high confidence that they hacked the election, that they
+interfered with the election. It may not have been outcome
+determinative. I'm not saying that. But based on the FBI, based
+on the office of--the director of national security, they're
+saying, yeah. And also, the CIA, they're in agreement that the
+elections were hacked.
+Now, I'm not saying they affected the outcome, but they
+tried. It may have been just chaos that they wanted to create,
+but they interfered with our elections. And if we're turning a
+blind eye to that, that's a shame. That's a shame. That's core
+to our democracy.
+And look, if we're just going to say, oh, that's somebody's
+work, that's not anybody else's work. That's our work. There
+are plenty of reports here we can talk about, and we ought to
+do it publicly, about the damage done to the confidence in our
+electoral system. That's what's important here.
+People have to--people have to fear that we have an
+integrity--a certain integrity in our own systems and that
+other countries are not allowed to interfere with that. That's
+a red line. We should not allow that. And it should be a very
+serious obligation of this committee to make sure that doesn't
+happen again.
+And we need all the committees of jurisdiction to work on
+this. We're a committee of unlimited jurisdiction. The
+gentleman has said that quite frequently. That's the strength
+of this committee. And I think this is--look, they hacked our
+election. This should be bipartisan. This should not be
+Democrat versus Republican.
+Chairman Chaffetz. The gentleman's time--the gentleman's
+time is well expired.
+As I said, I do think there should be--as I said when it
+happened, there should be an investigation. There should be a
+prosecution. They should go out----
+Mr. Lynch. These are the investigation of the committee.
+Chairman Chaffetz. Hold on. The gentleman's time has
+expired.
+The Intelligence Committee is the only one that can look at
+sources and methods. That is the rule of the House.
+Mr. Lynch. We won't look at sources and methods. We'll just
+look at what the agencies themselves have made public.
+Chairman Chaffetz. The gentleman's time has expired.
+And if you are going to do a proper investigation, as this
+committee did, with the breach at the Office of Personnel
+Management, you have to look at the two sides of the breach,
+those that were trying to do it, which this committee could not
+look at in the OPM breach. Again, that is the purview of the
+House Intelligence Committee.
+But we could look at those that were breached and how inept
+their systems were and how bad it was set up and how the
+inspector general was warning of these things. That, we did do.
+Mr. Lynch. We had nine separate investigations of Hillary
+Clinton, nine separate investigations----
+Chairman Chaffetz. The gentleman's--the gentleman is out of
+the order. The gentleman's time is expired. I gave you well
+more than 5 minutes.
+What I think is inappropriate. And I'm trying to answer the
+question. It would be wholly inappropriate for the United
+States Congress, for us to dive into the DCCC. You might want
+to do an investigation yourself of the DCCC. I don't think that
+the United States Congress should be diving into their
+individual private systems of a political party. I think that's
+too broad--if you want me to start issuing subpoenas of the
+DCCC, I'm probably not going to do it, but go ahead and suggest
+it.
+Mr. Lynch. How about some of the FBI----
+Chairman Chaffetz. The gentleman's time has expired.
+Mr. Lynch. You asked me a question.
+Chairman Chaffetz. No, I did not. I did not.
+Mr. Lynch. And I'm trying to respond. You asked me if I
+wanted----
+Chairman Chaffetz. I did not ask--the gentleman is out of
+order.
+Mr. Cummings. Would the chairman yield? Would the chairman
+yield? I think we need to calm down here a little bit.
+Mr. Chairman, you have made some statements, and I just ask
+you to give him the courtesy of a minute and a half just to
+respond.
+Chairman Chaffetz. No, I will not. I will not.
+Mr. Cummings. Well, would the gentleman let me finish?
+Thank you.
+This has been an attack on our democracy, Mr. Chairman. And
+Mr. Lynch is one of our greatest members, and the passion that
+he has expressed is not limited to him, it's to many Americans.
+They feel as if all of our--the things that underpin our
+democracy have been attacked over and over again.
+And as I said yesterday, we keep saying we're going to wait
+till certain things happen with President Trump. They are
+happening now.
+Chairman Chaffetz. Can I ask that----
+Mr. Cummings. And if the gentleman would just give me 30
+more seconds.
+And all I was saying is I was hoping that in--I mean, as a
+courtesy to the gentleman, I just wanted him to be able to
+respond.
+Chairman Chaffetz. I'd like to ask you a question, if you
+don't mind, to my ranking member. Does the ranking member
+believe that this committee should do an investigation of the
+DCCC?
+Mr. Cummings. I think that we can look at certain things. I
+know I am very familiar with sources and methods, but I think
+what the gentleman is saying is let's just look at the things
+that are--that are unclassified. And apparently, he has his
+reports in his hand, and we can see where we go from there.
+Number two, as I said before, in answering the chairman's
+question, we have a bill that would--I think, would resolve
+this issue very nicely.
+I think the thing that I'm most concerned about, and I'm
+sure Mr. Lynch is concerned about is that we cannot just turn a
+blind eye to when we have 17 intelligence agencies who
+unanimously agree that there has been hacking with regard to
+our elections.
+And there seems to be--one of the things that I've noticed,
+this has been an effort, not by you, Mr. Chairman, but by
+others to say, okay. It didn't affect the results. We don't
+even have to get there. Forget it. I accept President Trump as
+my President. I'm looking forward to meeting with him next
+week. But, the idea that Russia could come in and interfere
+with our elections, all of us should be going berserk. I mean,
+we should be--I mean, just really, really upset. And so all I'm
+saying to you is that I think all the gentleman is saying, is
+he's got documents that you've already entered into the record
+that are unclassified, want to look at those. Now, how far we
+can go is another thing.
+But, again, Mr. Chairman, you and I know what happened with
+the Benghazi Committee. Basically, it became a partisan fight.
+Chairman Chaffetz. I'll--hold on. The gentleman's time is
+expired here. You're going well--you're going well outside the
+scope of this----
+Mr. Cummings. No, I'm not.
+Chairman Chaffetz. Yes. Yes.
+Mr. Cummings. I'm not and I would pray that you not do an
+Issa on me.
+Chairman Chaffetz. I've given you ample time. I've given
+you more time----
+Mr. Cummings. Don't do an Issa on me, please. Don't do
+that.
+Chairman Chaffetz. No. I'm asking you a simple question. I
+just want an answer to a simple question. If you don't want to
+answer it, it's fine.
+Mr. Cummings. I've answered it. I've told you.
+Chairman Chaffetz. I'm going to ask one more time.
+Mr. Cummings. Yes. I've answered you. Okay? Yes. I just
+answered you.
+Chairman Chaffetz. I just wanted----
+Mr. Cummings. I just answered you.
+Chairman Chaffetz. Okay. I'm just saying----
+Mr. Cummings. You're not listening. What I said was what
+the gentleman asked. All he asked--he said, take the
+unclassified information. Do not turn a blind eye to an attack
+on our electoral system. Let's look--let's go as far as we can.
+When you take it to the Intelligence Committee, what you've
+done is you've gotten Mr. Nunes, who is on the transition--who
+is on the transition committee for President Trump.
+And as much as I like him, I want--as the gentleman asks,
+he wants an investigation that will have integrity. And I--I
+appreciate integrity over and over again. Like I've said to
+you, Mr. Chairman, and to our committee members, when you deal
+with integrity and transparency, it's like money in the bank.
+Mr. Cummings. And so I would just ask you to just work with
+us and see what we can come up with. That's all.
+Chairman Chaffetz. My last point. My last point. I don't
+think it's appropriate. I disagree with the attack on the
+integrity of the Intelligence Committee. I disagree with that.
+I think they are of integrity. I think Mr. Schiff and Mr. Nunes
+are men of integrity and they run that committee appropriately.
+And I'm sorry you don't feel that way.
+Mr. Cummings. I didn't--now, see, now you done put
+something in my mouth. Let me be real clear. No, no, no, no,
+no.
+Chairman Chaffetz. I get to make my point. I'll let you----
+Mr. Cummings. No, you said something that's not accurate.
+What I said was--I'm not questioning the integrity of Mr. Nunes
+or Mr. Schiff. Mr. Schiff--both of them I have a lot of respect
+for. What I'm saying is what the gentleman said, is that we
+want a report--when people look at the situation--I'll be very
+brief. When people look at the report and they see somebody on
+the transition team for Mr. Trump, then it becomes
+questionable. All I'm saying to you as to the world, we want--
+that's why we filed the bill that we filed. And that's why
+we're asking for more like an independent investigation. That's
+all.
+Chairman Chaffetz. Last point. Last point. Last point. And
+we're going to recognize Mr. Meadows. We've gone way past the
+time here.
+Mr. Cummings. Thank you.
+Chairman Chaffetz. And I ask this rhetorically. Do the
+Democrats truly want this committee to do an investigation of
+the DNC and the DCCC?
+Mr. Lynch. Yes, we do.
+Chairman Chaffetz. Wow. Okay. We're now going to
+recognize----
+Mr. Lynch. A lot of these emails, they're already public.
+They're already public. They leaked them. We already know what
+they are, those damaging ones.
+Chairman Chaffetz. Let's recognize the gentleman from North
+Carolina, Mr. Meadows.
+Mr. Meadows. Thank you, Mr. Chairman. We're going to
+refocus on the focus of this hearing. I wish that we would have
+as much passion that is concerned about the well-being of the
+22,000 people that got hacked, the potential security breaches
+that are there, instead of losing or winning an election. I
+wish we'd have as much passion about that. Let's start to focus
+on the real aspects of what we need to be doing.
+There are other hacks with the IRS. Let's focus on the
+hardworking American taxpayers. You know, I'm sick and tired of
+hearing the repeated talking points over and over again. There
+is no one who will work in a more bipartisan way to get to the
+truth than me. But I disapprove of the talking points that
+continue to get repeated to undermine the credibility of a duly
+elected President.
+Mr. Cummings. Will the gentleman yield?
+Mr. Meadows. No, I will not.
+Let me go into this particular issue. When we're looking at
+this, you mention that you have 100 percent dual authentication
+throughout the system. Is that correct?
+Ms. McGettigan. Yes, sir. That's my understanding. Yes,
+sir.
+Mr. Meadows. All right. And you're filling some very big
+shoes. I happen to be a fan of Ms. Cobert. She actually--we
+come from very different sides of the aisle, but she was always
+very responsive to this committee and to me personally. And so
+I want to make sure that we can clarify, perhaps, your
+testimony. Because the 100 percent dual authentication is
+really just at the front door. Is it not? Because we have
+indications from the IG that there is still a whole lot within
+the system, that if they get in the front door, that only 2 of
+46 systems inside would require that. Is that your
+understanding? You may want to refer--I think the CIO wants to
+jump in here.
+Ms. McGettigan. I think I will defer to Mr. DeVries.
+Mr. DeVries. Thank you, sir.
+Ms. McGettigan. Thank you.
+Mr. DeVries. Sir, we have multifactual authentication in
+there for the users, the standard users who come onto the
+network. That is correct, 100 percent to get onto the networks,
+they require their----
+Mr. Meadows. But once in----
+Mr. DeVries. No, once they get in, they are still then
+authorized--their access is based upon those attributes and
+their roles of what they're assigned to. So they're not given--
+--
+Mr. Meadows. So how do you respond to the IG that said only
+2 of 46 systems would actually, of the major applications,
+would require PIV authentication? Is that not accurate?
+Mr. DeVries. I'd like to go back and look at that. I'll
+defer to my CISO here, but that is--that does not ring true to
+how we----
+Mr. Meadows. Because this isn't my first rodeo. I've been
+here with a number of folks. In fact, I called for the
+resignation of the OPM director when there were similar terms
+that I'm hearing today that give me concern that we're making
+progress. And I guess, how do we define success? At what point
+will we have all the major applications? And Mr. Lynch talked
+about the encryption.
+Mr. DeVries. Correct.
+Mr. Meadows. Now, we've been promised encryption over and
+over and over again. And yet even today, we're not there with--
+so are all the Social Security numbers encrypted today?
+Mr. DeVries. No, sir.
+Mr. Meadows. Okay. When will they be encrypted?
+Mr. DeVries. But I have----
+Mr. Meadows. Just timeframe. When will they be encrypted,
+all the Social Security numbers? I mean, that's basic. I've got
+encryption better than that on my home computer, and here we
+are, we have--is it a lack of resources?
+Mr. DeVries. Sir, it was somewhat due to that and also
+schedule change here on the mainframe. That's the only one that
+is--that was delayed. And I've reenergized that one back in
+there. That is 2017.
+Mr. Meadows. So when is it going to be done?
+Mr. DeVries. End of 2017, sir.
+Mr. Meadows. And so we will have everything encrypted by
+the end of 2017. Fiscal year?
+Mr. DeVries. The HVA system, the high value assets, which
+includes the Social Security numbers and so forth, will be
+encrypted this year. Yes.
+Mr. Meadows. All right. In terms of segmentation, how do
+you segment a legacy system? Either one of you can answer it.
+Mr. Chase. So, again, as a part of our strategy, we looked
+at all the systems and all the IT system inventories that we
+had out there. We determined which ones----
+Mr. Meadows. So are you going from a zero trust?
+Mr. Chase. That's the idea, is to use that zero trust
+tenet. Absolutely.
+Mr. Meadows. So you rushed into the fire----
+Mr. Chase. Ran into it, sir.
+Mr. Meadows. --and so as you ran into the fire, you decided
+from a zero trust aspect that you're going to look at every
+single system.
+Mr. Chase. Absolutely.
+Mr. Meadows. All right. So we can tell all of those
+employees or potential employees or those who have had their
+personal life history looked at that by the end of 2017, that
+you have great assurance that we have the most up-to-date,
+sophisticated cybersecurity protection that they will ever see
+and it will be segmented in a way that if somebody gets in the
+front door, that they won't be able to go through the whole
+system. Is that correct?
+Mr. Chase. That is correct. And there's also many, many
+compensating controls that reside in the network. So we have
+our network analysis tool, we have our data loss prevention
+tool. We have malware detection tools. And then we actually
+have a 24/7 security operation center that is on glass watching
+for those events to come through.
+Mr. Meadows. I yield back. I thank the chairman.
+Chairman Chaffetz. I thank the gentleman.
+I will now recognize the gentlewoman from Florida, Mrs.
+Demings, for 5 minutes.
+Mrs. Demings. Thank you, Mr. Chairman.
+I want to say good morning to all of you and thank you for
+being here. Before I get into my question, I feel compelled to
+make this comment. I spent 27 years in law enforcement. I
+served as the chief of police. So I am very concerned about the
+issue that we're discussing today. Security breaches of any
+kind, I believe, deserve every bit of attention and every bit
+of passion. I've been here a little shy of a month, but what I
+did not sign up for is what I believe was the blatant
+disrespect that was displayed to each other by my colleagues.
+And so I believe if we're going to solve our Nation's problems,
+civility has to be at the center of it.
+And with my question, Director Phalen, last November, the
+New York Times and other media outlets reported that while
+meeting with the Prime Minister of Japan, then President-elect
+Trump allowed his daughter and son-in-law to sit in during all
+or part of the meeting. In reporting about this meeting, the
+Times found, and I quote, ``That anyone present for such a
+conversation between two heads of state should, at a minimum,
+have security clearance. What we do not--we do not know whether
+President Trump has stopped this practice of allowing family
+members who do not have security clearances from attending
+meetings with dignitaries and other foreign officials.''
+Director, I ask you, what are the security risks for having
+individuals who do not have the appropriate security clearances
+present during classified meetings or briefings? Thank you very
+much.
+Mr. Phalen. Thank you, Representative. Thank you for the
+question. The determination as to whether an individual has a
+security clearance is left to the head of the agency with whom
+they are employed or otherwise contracted with. And, of course,
+the situation between a President-elect and the President is a
+different situation. The President has the ability to grant a
+clearance or grant access to classified information to anyone
+who they please. It is at their discretion.
+And the--I am not aware of any of the details around the
+meeting that occurred with the leadership of Japan. I just
+don't know any of the details about that, whether anything of
+classified nature was discussed or not. But it would--in the
+current situation, it would be the President's discretion to
+allow individuals even without clearances to know or have
+access to classified information.
+Mrs. Demings. So each department would make that
+determination. Is that what you said? There are no basic
+general guidelines for persons to have security clearances in
+certain situations or positions?
+Mr. Phalen. There are general guidelines and there are--
+specifically, there are investigative standards which we follow
+when conducting an investigation. The agency who ultimately
+grants the clearance follows an adjudication set of guidelines,
+what are the key factors that one would look at when making a
+determination whether this individual is eligible or should be
+eligible to receive classified information. And then as a
+separate act, the agency then--if the answer's affirmative,
+they are eligible, the agency would make a determination as to
+whether to actually brief them into a national security program
+or not, give them that clearance.
+Mrs. Demings. Okay. Thank you very much.
+Chairman Chaffetz. Does the gentlewoman----
+Mr. Connolly. Would----
+Chairman Chaffetz. Does the gentlewoman yield back?
+Mr. Connolly. Would my friend yield?
+Mrs. Demings. I yield. I'm sorry. Thank you. I yield.
+Chairman Chaffetz. She's yielding. To Mr. Connolly or----
+Mr. Connolly. To Mr. Cummings.
+Ms. Demings. To Mr. Cummings.
+Mr. Cummings. I just wanted to let Mr. Meadows know, when I
+asked you to yield, the only thing I was going to say is before
+you got here, and I will share this with you, in my opening
+statement, I talked about all the efforts that we have made in
+this committee with regard to the other breaches. I listed them
+one by one, all the many things that we've done. And I said it
+in a way that--because President Trump has said that we
+suddenly got excited about the Russian hacking. But I laid it
+out. And again, I will share my opening--it was a courtesy to
+you, because I didn't want anybody to think that this is
+something new to us.
+We've spent, in a bipartisan way, hours upon hours upon
+hours upon hours trying to deal with these. And I give the
+credit--give a lot of credit to the chairman. And that's all I
+was tying to tell you.
+Mr. Meadows. Will the gentleman yield?
+Mr. Cummings. And I didn't want the public to be left with
+the impression that we haven't been working on these acts.
+Every single time.
+Mr. Meadows. Will the gentlemen yield?
+Mr. Cummings. Of course. I only have----
+Chairman Chaffetz. It's the gentlewoman's time.
+Mr. Meadows. Will the gentlewoman yield for just a comment?
+A nice comment.
+Mrs. Demings. Yes. Yes. Certainly. Please, Mr. Meadows.
+Mr. Connolly. We'll be the judge of that.
+Mr. Meadows. The gentleman from Maryland is a good friend,
+and a trusted one. And in the passion of my not yielding back
+to him, I don't want anything to be inferred about our
+relationship and our willingness to work in a bipartisan way.
+And I apologize for my passion in not yielding. But I also want
+to stress that our friendship and our willingness to get to the
+bottom line of it is unyielding and unchanging. And I thank the
+gentlewoman.
+Chairman Chaffetz. The gentlewoman yields back.
+We'll now recognize the gentleman from Ohio, Mr. Jordan,
+for 5 minutes.
+Mr. Jordan. I thank the chairman.
+Mr. Halvorsen, you are the chief information officer for
+the entire Department of Defense?
+Mr. Halvorsen. That is correct.
+Mr. Jordan. And in your testimony, your written testimony,
+you said that, ``DOD CIO is responsible for all matters
+relating to the Department of Defense information enterprise,
+including cybersecurity for the Department. In this capacity,
+DOD CIO is responsible for oversight of the Department's
+efforts to design, build, operate, secure, defend a new IT
+system to support the background investigative processes for
+the NBIB.'' Is that all accurate?
+Mr. Halvorsen. It is.
+Mr. Jordan. Okay. Are you familiar, then, with the December
+6 Washington Post story, front page, Pentagon Hid Study
+Revealing $125 Billion in Waste? Are you familiar with that
+article?
+Mr. Halvorsen. I am familiar with that article.
+Mr. Jordan. Do you--well, let me ask you--let me go back
+and ask you this: Do you have the resources you need to do
+everything I just read in your testimony, help NBIB which has
+100 Federal agencies that's got to make decisions about--
+regarding individuals who work there and everything at the
+Department, do you have the resources you need to do your job?
+Mr. Halvorsen. We have the resources to make sure that we
+develop and design an NBIB new system that is secure and can
+attack and defend the data.
+Mr. Jordan. And so you think you got adequate resources to
+do everything you're tasked to do.
+Mr. Halvorsen. I think I have adequate resources to
+everything I'm tasked to do specific to this NBIB issue.
+Mr. Jordan. But not overall? Is that what you're saying?
+Mr. Halvorsen. Well, I don't think anybody here would say
+they have all of the resources----
+Mr. Jordan. You always want more. I get that. But you are
+familiar with the story that was on the front page of the
+Washington Post last month, or 2 months ago?
+Mr. Halvorsen. I am.
+Mr. Jordan. And the findings of the McKinsey & Company
+study, $125 billion in waste at the Pentagon, do you agree with
+that--those findings? Or, I mean, they talked about as many
+full-time employees in back office personnel and in purchasing
+bureaucracy, as many employees there as we actually have--
+almost as many people there as we have in troops in the field
+or troops in total. Do you agree with what you know about that
+study?
+Mr. Halvorsen. We were--do I personally agree with that
+study? I do not. Is that the reason I'm here to testify? No. So
+if you want more data on that, I will take any questions you
+have for the record.
+Mr. Jordan. Okay. Were you--were you interviewed or talked
+to in the course of the study by McKinsey & Company? Did they
+talk to you?
+Mr. Halvorsen. I have talked to McKinsey & Company, yes.
+Mr. Jordan. Multiple times? I mean, I'm just kind of
+curious.
+Mr. Halvorsen. For the study, I believe once. But I'll get
+that confirmed. But I have talked to McKinsey in the course of
+my business.
+Mr. Jordan. The article reports here on the front page here
+above the fold, the report issued in January 2015 identified a,
+quote, ``clear path for the Defense Department to save $125
+billion over 5 years.'' I think this is important too. What the
+study said, what the article reports that the study said was
+that this savings in bureaucracy waste and other areas is money
+that could go into weapon systems and our troops. Frankly,
+where I think most Americans would want their tax dollars and
+resources to go.
+The article continues, ``The plan would not have required
+layoffs of civil servants or reductions in military personnel.
+Instead it would have streamlined the bureaucracy through
+attrition and early retirements, curtailed high priced
+contractors,'' and the last clause says, ``and made better use
+of information technology.''
+Do you have any idea what they're referring to there, make
+better use of information technology?
+Mr. Halvorsen. Yeah, I do. I mean, if you're asking me do
+we think we could do better with information technology, I
+think I testified in numerous hearings that do I believe we
+should continue to adopt best commercial practices? Should we
+bring more commercial systems on into DOD and other government?
+I said we should. I believe there are ways to reduce some money
+in our IT business. Do I think that number is correct,
+personally? I do not.
+Mr. Jordan. So a little bit ago you said you didn't agree
+with the study. Now you sound like you do agree with a lot of
+parts of the study.
+Mr. Halvorsen. No.
+Mr. Jordan. Is it both or----
+Mr. Halvorsen. No. I said I agree that there are
+efficiencies to be found in the IT systems. By doing what we
+are doing, I think we will achieve some. I do not think the
+numbers in the study, my personal opinion, they're not correct.
+I will take any more questions you have----
+Mr. Jordan. So you think the $125 billion number is a
+little high. Would you hazard a guess at what kind of savings
+taxpayers could see if part of what McKinsey found in their
+study was implemented and how we could better get money to
+weapon systems and to troops?
+Mr. Halvorsen. No, I will not hazard a guess.
+Mr. Jordan. Okay. Mr. Chairman, I just think this is an
+important area where we need to--I know it's not the sole focus
+of and not the primary focus, I should say, of this hearing
+today, but this is an area we need to study. If we can get more
+money into upgraded weapon systems and to our troops, and if we
+got this potential of waste, even the chief information officer
+says there's some waste there. Maybe not to the degree that the
+article reports, but certainly any we can find and savings we
+can find I think makes sense.
+With that I yield back.
+Chairman Chaffetz. Thank you. Point well taken.
+I now recognize the gentleman from Maryland, Mr. Raskin,
+for 5 minutes.
+Mr. Raskin. Mr. Chairman, thank you very much.
+I wanted to start actually by responding, Mr. Chairman, to
+the question that you posed about whether or not the Democratic
+National Committee would be a proper object for inquiry and
+investigation by this committee. And my first reaction to it, I
+think, was sympathetic to you, which is no, not really, because
+it's not part of the government. It's a private entity for most
+purposes. When you think about the Democratic National
+Convention, where it's going to be located, who's going to
+speak at it, that's a private matter. It's a private
+association.
+On the other hand, it struck me that the Supreme Court has
+said that political parties are public instrumentalities
+capable of State action for certain purposes. So when you go
+back and look at Smith v. Allwright, Terry v. Adams, the white
+primary line of cases, the Supreme Court said a political party
+could not exclude from participation people based on race. So
+the Equal Protection Clause applied directly to political
+parties, that they were not private entities for those
+purposes. They were public instrumentalities.
+And in lots of other cases, the Supreme Court has treated
+political parties as public instrumentalities and kind of
+public carriers for the purposes of effective action in
+democracy. And I think if you look at it from a global
+perspective, that is the role that political parties play. The
+DNC, the RNC, they are organizing political activity for tens
+or hundreds of millions of people. And so if they are cyber
+vulnerable, I think it makes the whole country cyber
+vulnerable, and then it casts a cloud over democratic
+government itself.
+So that's why, in the end, I think it is a complicated
+question you raise, but I would side with the ranking member
+and with the other members who were speaking on this side of
+it.
+Let me pose a question. As a new member of this committee
+who was--I was not here for the original OPM breach, and so all
+of this is a bit new to me. But I want to ask the question. We
+know from the national intelligence community about the fact
+that they believed with high confidence that there was an
+organized campaign by Russia to subvert the 2016 election and
+to compromise the 2016 election. I've also heard that there's
+certain other countries where certain kinds of hacking are
+common or concentrated, like Nigeria, apparently, is a place
+where there's a lot of cyber hacking and phishing attacks going
+on.
+Do you have a list of the most common enemies or culprits
+of our cybersecurity that you use? And I know, Ms. McGettigan,
+if that's something you can answer.
+Ms. McGettigan. I'll defer to Mr. DeVries to answer that.
+Mr. DeVries. Member, if I could----
+Mr. Raskin. Please.
+Mr. DeVries. If I could, I would like to defer to Mr. Chase
+here for the expertise on it. We do have the network
+monitoring, but we are part of the greater ecosystem of that
+from DHS.
+Mr. Raskin. All right. Let's cut to the chase.
+Mr. Chase. Thank you. No pun intended.
+So one of the things that I just want to make clear is
+we're a customer service oriented agency. And so we rely on our
+partners from Department of Homeland Security, FBI, and other
+components within DOD. The potential attribution or the knowing
+of a bad actor is not our job. My job is to focus the staff at
+OPM to protect the data that resides in there.
+Mr. Raskin. Okay. So I guess--right. You're a customer
+service agency and you want to serve the various government
+agencies that interact with you. The problem, of course, is now
+we've got these outside entities that are trying to invade and
+undermine and so on. Do we know who those entities are? Is
+there like an FBI most wanted list of the cyber saboteurs all
+over the world or in this country? I mean, the national
+intelligence community tells us it's Russia, but then we hear
+from other people, no, it's a fat guy on a couch someplace. I
+don't know why it's always a fat guy. Why couldn't it be a
+skinny guy on a couch. But anyway, it might be a guy on a couch
+or it might be Russia, but it might be Nigeria. Where it is
+coming from? And does that list exist? And is there any attempt
+to really get to the bottom of it?
+Mr. Chase. And, again, I'll try to answer more directly. So
+DHS and FBI provide those reports in unclassified and
+classified formats.
+Mr. Raskin. Okay. Do you believe as experts in the field
+that there is going to be a technological answer to this so we
+can actually create a secure cyber environment? Or, you know,
+is this a Sisyphean task? We go up two steps and we fall back
+three steps. I mean, are we really--is it an uphill fight, I
+guess is what I'm asking. Mr. Halvorsen.
+Mr. Halvorsen. Right now it is an uphill fight. I do
+believe technology will get us some of the solutions. But I
+think this is much like any area in technology. We will make
+strides forward. The people who want to use technology for bad
+will make strides forward. And it will be a continuing analysis
+and engagement that is not going to end anytime soon.
+Mr. Raskin. Thank you very much, Mr. Chairman. I yield
+back.
+Chairman Chaffetz. I thank the gentleman.
+We'll now recognize Mr. Comer who's new to our committee.
+We're pleased to have him here. The gentleman from Kentucky.
+Mr. Comer. Thank you, Mr. Chairman.
+Chairman Chaffetz. Sorry. The microphone button there. Talk
+button. There we go.
+Mr. Comer. Thank you, Mr. Chairman.
+My question is for Mr. DeVries. Sir, I would like to follow
+up with you on the IT infrastructure project that OPM abandoned
+last year. The committee's understanding is that you are no
+longer leasing two new data centers for OPM's new IT
+environment, but rather, are repurposing the hardware and
+equipment meant for the IT environment that the contractor
+Imperatis built. My question is, is this accurate?
+Mr. DeVries. Yes, sir it is.
+Mr. Comer. Okay. How much did OPM pay the contractor for
+the new IT infrastructure project before terminating the
+contract May 2016?
+Mr. DeVries. Sir, I would have to get back to you with the
+exact amount that was consumed there. I do not have that number
+with me today here.
+Mr. Comer. Why was the contract terminated?
+Mr. DeVries. Sir, as I completed my assessments coming on
+board as the CIO, that effort was to build a new infrastructure
+to move the legacy stuff into. They went out on the contract.
+That contractor went out of business. They did not show up to
+work in May, and we terminated the contract after that. We then
+repositioned the equipment back in because we had purchased
+that, as we had purchased the design and engineering diagrams.
+We have what we paid for. Now just turning it back on.
+Mr. Comer. It's my understanding that the first two phases
+of that were completed, and after approximately $45 million of
+investment, OPM abandoned the project. But you say that we have
+what we paid for or did we lose what we paid for?
+Mr. DeVries. Sir, we have evolved that, and I'm now
+building on that capability that we purchased then. Yes, sir.
+Mr. Comer. So is OPM still operating the legacy IT
+environment? Is that correct?
+Mr. DeVries. Sir, I will say no. We have evolved a lot over
+the past year, and that was part of my assessment coming
+onboard was to take a look at what the network was, where are
+our high value assets, where are our centers of gravity, if you
+will, and what's the protection there. Mr. Chase has talked
+about some of the defense and depth that we've put in place. So
+it is not the same legacy infrastructure that it was in 2015.
+Not by a long shot.
+Mr. Comer. So are we--can we be assured that this
+environment is more secure today than prior to the data
+breaches?
+Mr. DeVries. Absolutely. Mr. Chase and I would not be here
+if it was not.
+Mr. Comer. Okay. I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We'll now recognize the gentlewoman from the Virgin
+Islands, Ms. Plaskett, for 5 minutes.
+Ms. Plaskett. Thank you, Mr. Chairman. And thank you all
+for being here this morning to testify.
+I wanted to--I appreciated your testimony this morning on
+all of the topics. And it seems to be very wide ranging, of the
+discussion that we're having this morning. But we are all here
+because protecting our Nation's security from insider threats
+and external threats is of paramount importance, of course, to
+you all and us as Members of Congress. So I wanted to discuss
+the security clearance process and how individuals are granted
+access to sensitive information.
+Director Phalen, for you specifically, how would NBIB
+handle the clearance process for someone under active FBI
+investigation? What happens with that application?
+Mr. Phalen. When an agency puts an individual in for a
+clearance, it starts with a determination by that agency that
+this individual needs a clearance for whatever work they're
+going to be doing. The individual's information is sent to NBIB
+or to some other----
+Ms. Plaskett. And what if you find out that the person is
+under active FBI investigation? What happens at that point?
+Mr. Phalen. If we in the process of conducting the
+investigation determine an individual's under active
+investigation, we would notify the requester of what we
+understand to be the investigation, and we would continue the--
+our part of the investigation, unless we were told to stop
+based on some decision by the requester.
+Ms. Plaskett. Now, in knowing that you're going to continue
+the investigation of someone who is under an active FBI
+investigation, would that be one of the factors in
+disqualifying an individual from a security clearance?
+Mr. Phalen. Not necessarily. And it would not be our
+determination. It would be the determination of the requesting
+agency, who is either the requesting agent themselves, if they
+have independent adjudication authority, or the--in the DOD
+world, the consolidated adjudication facility. These are the
+individuals that make the ultimate determination as to whether
+an individual is eligible for access to----
+Ms. Plaskett. Got you. So you're processing the
+application, you're giving them the information, and then the
+agency head then makes the determination whether or not the
+person has the security clearance?
+Mr. Phalen. Ultimately, yes.
+Ms. Plaskett. So for the ultimate decisionmaker for
+granting a security clearance for a senior White House staffer,
+who would that person be?
+Mr. Phalen. The chief of the White House Security Office is
+the adjudication authority.
+Ms. Plaskett. And so the chief of the security office for
+the White House is the determiner for an individual in the
+senior White House level having a security clearance.
+Mr. Phalen. Yes.
+Ms. Plaskett. And who places that person in that office?
+The chief officer. Is that an independent? Is that appointed by
+the President? Is that a career person? Who is that individual?
+Mr. Phalen. I actually don't know right now. I can find
+that answer----
+Ms. Plaskett. I would really love to know that answer.
+Because is it possible for the ultimate decisionmaker to make a
+decision to grant an individual a national security clearance
+if the person is under an FBI investigation? You're saying yes,
+that's possible.
+Mr. Phalen. It is possible.
+Ms. Plaskett. And the reason I'm asking that is because of
+course--you know, of course there's a reason I'm asking. Right?
+There would--according to multiple reports, several members of
+the Trump campaign and incoming Trump administration may
+currently be under FBI investigation for their connections with
+the Russians; the very country implicated in the hacking that
+everyone seems to be interested in here today.
+So President Trump's National Security Adviser, Michael
+Flynn, is reportedly being investigated by the FBI for phone
+calls with a Russian diplomat. And the New York Times reported
+that the FBI's investigating communication and financial
+transactions between Russia and the former campaign manager,
+Paul Manafort.
+So my question is, if these individuals become now senior
+White House staffers who need security clearance as having sit
+on this National Security Council, along with Steve Bannon, if
+those individuals are under FBI investigation, they may still
+get a national security clearance?
+Mr. Phalen. That is certainly possibly. And I would
+distinguish between someone who is under investigation and
+someone who has been charged or convicted with a crime.
+Ms. Plaskett. Of course. As a lawyer, I know you're
+innocent until proven guilty. But an active FBI investigation
+would raise some eyebrows. Would it not? Because the FBI would
+not begin an investigation on my, you know, freshman student
+who has cheated on a test or something. They usually start FBI
+investigations for pretty serious things.
+Mr. Phalen. It would be a noteworthy item on an
+adjudication, yes.
+Ms. Plaskett. Okay. Mr. Chairman, I think we need the
+answer to some of the questions that we've been asking here.
+And so do you know, Director Phalen, which or any of the
+senior White House staffers who have access to senior material
+are under criminal investigation by the FBI?
+Mr. Phalen. I do not know that, no.
+Ms. Plaskett. Okay. Thank you.
+Chairman Chaffetz. If the gentlewoman yields back, Ms.
+McGettigan, she is the acting director of OPM, if you could get
+back to Ms. Plaskett about who specifically is in charge, I
+think the gentlewoman asked a reasonable question here, who are
+the people that make those determinations, and get back to--
+will you make that commitment----
+Ms. McGettigan. Yes, we will.
+Chairman Chaffetz. --that you'll get back to her?
+Ms. McGettigan. We will get back to you.
+Chairman Chaffetz. Okay.
+Ms. Plaskett. Thank you. Thank you very much, Mr. Chairman.
+As well if you would find out how do we find out----
+Chairman Chaffetz. Ask her.
+Ms. Plaskett. It would be great to know in that process,
+one, who the decisionmaker is, and is there a list of
+individuals who are under FBI investigation. If the chairman
+and the ranking member would receive that, that would be very
+helpful in making that determination, what are the factors.
+Ms. McGettigan. Okay.
+Ms. Plaskett. Thank you.
+Ms. McGettigan. We will follow up. Thank you.
+Chairman Chaffetz. And I would open up to any member, if
+they have questions for OPM, Ms. McGettigan is the acting
+director.
+Mr. Connolly. Mr. Chairman, I just--I assume at some point
+Ms. McGettigan's going to actually answer a question as opposed
+to always getting back to us.
+Chairman Chaffetz. Okay. She wasn't ever even asked a
+question in that series, so I think that's a little
+inappropriate. But let me--and she did make a commitment to get
+back to the committee. I think that's reasonable.
+Mr. Connolly. Yes, I heard.
+Chairman Chaffetz. So I'll now recognize myself for 5
+minutes.
+And I guess this question will go to Mr. Chase. Tell me
+about the authority to operate. There have been some questions
+about this in the past. The inspector general found that the
+authorities to operate were a material weakness in fiscal year
+2016. The IG reported that 18 major systems still did not have
+current authorities to operate in place. What is the current
+state of those ATOs?
+Mr. Chase. So all the ATOs----
+Chairman Chaffetz. If you can move that microphone a little
+closer. I apologize, sir.
+Mr. Chase. So all the ATOs are currently compliant.
+Chairman Chaffetz. Can you put some meat on the bones?
+Define that for us.
+Mr. Chase. So in fiscal year 2016, again, our strategy was
+to identify and understand all the systems. It was identified
+that quite a few of them were out of compliance. So we took on
+two major initiatives at OPM. One was a sprint in February of
+2016 to look at all the systems, to include the HVAs, to ensure
+the best pathway forward to get them compliant. The next phase
+of that was marketing within OPM and the agency heads and the
+acting director at the time to ensure that everybody in the
+agency knew the importance to get everybody into compliance.
+Chairman Chaffetz. Would the ATO--you said all of them.
+Would that include the PIPs?
+Mr. Chase. That is correct, sir.
+Chairman Chaffetz. It would. Okay.
+Mr. Chase. That was not reflected in the fiscal year 2016
+FISMA report, and has been recently.
+Chairman Chaffetz. Everything within the NBIB, do those all
+have current valid ATOs?
+Mr. Chase. Yes, sir.
+Chairman Chaffetz. Okay. Let me switch over here, if we
+could, to Ms. McGettigan and--or maybe, Mr. Phalen, you might
+be the right person--actually, let me ask you, Mr. Phalen. What
+is the current state of the ability to look at the social
+media? We've been talking in this committee over the last
+couple of years, actually, with OPM about during background
+check investigations looking at social media. What are you
+doing or not doing in that process?
+Mr. Phalen. Thank you, Mr. Chairman. Two points to make on
+that. Number one, in April of 2016, the security executive
+agent sent out a directive that would allow us--allow an
+investigation to use social media publicly available on
+electronic information in order to inform an investigation. We
+at NBIB or its predecessor, the Federal Investigative Service,
+have been using on a targeted basis social media inquiries to
+help resolve issues when they come up during an investigation.
+We are in the middle of a short pilot to understand how we can
+incorporate it into a formal--into a more consistent use during
+an investigation.
+In other words, how do we collect the information, get it
+disambiguated, and make sure it is accurate and of any value,
+and then provide it to an investigator who is in the field
+conducting an investigation to help enhance that.
+Chairman Chaffetz. Can you define ``short pilot?'' Because
+I think we've been talking about this for a couple years. And
+this doesn't seem to be very short.
+Mr. Phalen. So a number of pilots have been conducted by a
+number of agencies to look at the value of social media. And
+most concluded--most have reached the similar conclusion, there
+can be valuable information in collecting social media.
+Chairman Chaffetz. Okay. Can you just hold on here. This is
+what drives people crazy about government. You had to conduct a
+study to find out if looking at social media would be valuable?
+And the conclusion is it might be yes? Come on. Every single
+time there's a terrorist attack, what's the very first thing
+the investigative body does? They go look at their social
+media. And more often than not, they say, oh, my goodness. If
+somebody had just looked at this.
+Why in the world do we need--we're still doing a pilot? Let
+me answer the question for you. Yes. Looking at publicly
+available social media should be part of the background check.
+It's a joke to think that you're not looking at social media.
+And the idea that we even have to think about this, by its very
+definition, it is social. It is open. It's there. Facebook. You
+can go--come on. Instagram. Twitter. Every single time we go
+and do an interview for somebody, we go check their social
+media. Why do you have to do another pilot?
+Mr. Phalen. The pilot was not to determine whether or not
+there's any value in social media. The pilot that we are
+currently running is how do we incorporate it into a standard
+background investigative process. And the largest pole in this
+tent here is not can we collect the information. It is not is
+there going to be valuable information in there. It becomes how
+does it get incorporated in a manner that is cost effective to
+our customer base. And--because the collection is the easy
+part. The analysis of it becomes harder. And the more data
+that's out there, the more difficult the analysis becomes.
+I believe that this is a relevant data source. We believe
+it is a relevant data source. We're going to continue to
+exploit it. This pilot was a very short one to determine how we
+can build it into an--our current investigative process. And as
+we move down the road, how it will become more of a mainstay
+for this investigative process.
+Chairman Chaffetz. Have you considered implementing a
+policy to require the disclosure of online user names or social
+media identities as part of the clearance process?
+Mr. Phalen. We have not at this point.
+Chairman Chaffetz. Why not?
+Mr. Phalen. That would be a decision to be made by the
+security executive agent to ask for that information.
+Chairman Chaffetz. Here's my personal take on this, and
+then we'll go to Mr. Connolly. The United States of America,
+the people of the United States of America, are about to
+entrust somebody with a security clearance that allows that
+individual to look at and understand information that the rest
+of the public doesn't get to look at. Right? That is the very
+nature of a security clearance. We're doing this, we're giving
+this person special privileges because we trust them.
+I would think it would be reasonable that in return for
+that--you don't have to apply or try to get a job with a
+security clearance. There's nobody that forces you to do that.
+It's optional. But you would think in return for that they
+would say: Yes. Here's my Instagram account. And I would go so
+far to say: Here's my password if you want to go look at my
+private Instagram. That is a reasonable thing to look at when
+you're trying to go back and do a background check.
+Some of these background checks are so thorough. You're
+looking at bank records. You're looking at education. You're
+interviewing neighbors. You're talking and trying to figure out
+as much as you can about this information. A very costly,
+expensive, laborious process. And yet we're not even--we're so
+bashful we won't even say: We're going to be looking at your
+Instagram. Is that okay, you know? And if it's not, then maybe
+we shouldn't be giving them a security clearance. That's my
+take on it.
+It's very frustrating this takes so long. Because every
+time we have a problem, what's the very first thing the FBI and
+other law enforcement want to do? They want to dive into their
+social media. That's the best way for them to figure out what
+has been going, what is the attitude, who are they
+communicating with. And if we're going to give a security
+clearance, it seems reasonable.
+I'm past my time. I'll now recognize the gentleman from
+Virginia, Mr. Connolly.
+Mr. Connolly. I thank the chair. I also would say to the
+chair, I caution him, I don't think it's appropriate for him to
+characterize an intervention or a question by a member of this
+committee. I don't do that to him. And I expect him not to do
+it to me. And if we're going to get into that, two can play the
+game.
+Ms. McGettigan, a question maybe you can answer. OPM, is it
+going to migrate to the required XML format, the transaction
+submissions and background checks instead of using legacy
+systems? I thought I heard Mr. DeVries say we're pretty much
+done with the legacy systems. Have we fully migrated to the
+required XML system?
+Ms. McGettigan. I will have to defer that to Mr. DeVries.
+Mr. Connolly. You don't know the answer?
+Ms. McGettigan. I do not.
+Mr. Connolly. Mr. DeVries.
+Mr. DeVries. No, sir, we have not.
+Mr. Connolly. Why not?
+Mr. DeVries. So the whole legacy system is comprised of
+eight different systems which ask questions and interact and
+portray in conducting the investigation through them. A lot of
+the language on, especially I think it was a member here
+brought up the word PIPs, which is the main database system
+that maintains it there, that is on--written in language that
+is no longer supported. And I'm trying to move it out of there.
+It is not just merely a case of just taking something and
+putting it out to XML. We have employed XML in terms of the
+interface going into the customer. We have put that into all
+their front-facing applications there. And in that time, we've
+also put other protections in there, like masking of the Social
+Security number and other techniques. So yes, to the customer
+facing one, as we have on other OPM systems, we have put the
+XML piece into it.
+Mr. Connolly. Ms. McGettigan, what is OPM and NBIB doing to
+ensure that if data is exfiltrated from the NBIB, NBIS systems,
+that the data will be protected and its location and attempted
+use not--will not only be prevented but visible to the NBIS for
+action? What are you doing to protect that in the exfiltration
+process?
+Ms. McGettigan. Again, sir, I'll----
+Mr. Connolly. Can't hear you.
+Ms. McGettigan. I apologize. Again, sir, I will have to
+defer to Mr. DeVries or Mr. Halvorsen.
+Mr. Connolly. So again you can't answer the question.
+Mr. DeVries.
+Ms. McGettigan. I cannot.
+Mr. Connolly. Does the acting director of OPM get involved
+in these cyber issues at all?
+Ms. McGettigan. I do get involved somewhat, but not in the
+details.
+Mr. Connolly. Have you had any experience with the breach
+or responding to the breach in your period of time under Beth
+Cobert or Ms. Archuleta before that?
+Ms. McGettigan. I--when the breach occurred, I was in
+another area of the organization. I was in Human Resource
+Solutions. I was not the chief management officer at that time,
+so I was not intimately involved. I was involved from another
+area of the--I had no responsibility for that.
+Mr. Connolly. Mr. DeVries, what are we doing about that
+exfiltration, protecting that data so it's not breached?
+Mr. DeVries. Yes, sir. Sir, on a macro prospective, let's
+start with the worthy employee or the individual who's going to
+be investigated. He enters his records or his information into
+the e-QIP through the SF--Standard Form 86. That information is
+stored securely. It's on an encrypted database. That is what
+gets queued up to go to the investigators once they are awarded
+that work, if you will, from the NBIB. With my coming on board
+in September, we changed that process.
+In the past, when the companies would get their task orders
+to do these investigations, and we just talked about the
+contract that was awarded out to the four new companies, two of
+those were existing ones and there are two new ones in there,
+the investigators no longer can download that information to
+their company information stores. It stays as part of the
+government, and we've incorporated a new security thing there
+where when they pull the records in, it is on a different
+encrypted system under their hard drive, and they authenticate
+themselves with a verification card that is issued by OPM and
+NBIB to them.
+Mr. Connolly. I only have 30-something seconds, so let me
+ask another question. What are we doing to boost the capacity
+to decrease the enormous backlog on security background checks?
+Mr. Phalen.
+Mr. Phalen. Yes, sir. We have done two things of large
+proportion. Number one, as was referenced earlier, we have
+started a new contract period and doubled the number of
+companies that are available to provide the contract
+investigations. And that, we believe, will have a significant
+impact on our ability to work off the backlog. At the same
+time, in fiscal 2016, we hired 400 new Federal investigators
+into the service. And we plan on, in 2017, adding another 200.
+And we are already seeing the fruits of that addition to work
+off the capacity.
+Mr. Connolly. I think this is on top of many topics we're
+talking about. This is really important. I get complaints all
+the time, especially from private sector companies with
+enormous numbers of jobs at the ready they cannot fill because
+of this backlog. And so the more we can do to streamline,
+expedite, while making sure it's still accurate, I think is
+really critical moving forward.
+Thank you.
+Mr. Phalen. Yes, sir. I agree.
+Mr. Connolly. I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We'll now recognize the gentleman from Alabama, Mr. Palmer.
+Mr. Palmer. Thank you, Mr. Chairman.
+I know you're new on the job, Ms. McGettigan, and if
+there's anyone on the panel who can answer this, I'd appreciate
+it. Does OPM allow employees to access personal email accounts,
+Facebook, do any other personal business using the Federal
+server?
+Ms. McGettigan. Employees are allowed to do limited access
+for personal and business. Access their bank accounts, what
+have you. So there's limited access for personal business.
+Limited use.
+Mr. Palmer. Are you aware that it was reported that the
+Immigration and Customs Enforcement agency just a couple of
+years ago, I think it preceded maybe by a year or so the breach
+of the data systems at OPM, they had numerous cases where the
+breaches were coming--or the attacks were coming through the
+use of personal email utilizing the Federal server? Are you
+aware of that?
+Ms. McGettigan. No, sir, I was not.
+Mr. Palmer. Well, it's an area that concerns me where--and
+employees, and not only employees, but high ranking officials,
+and I don't know that you could answer this, if there are any
+OPM directors or other high-ranking officials using personal
+email accounts--or accessing personal accounts using the
+Federal server or using personal accounts to do business. We
+know that's been a problem in other agencies, most notably the
+State Department.
+One of the things that concerns me is that it doesn't
+appear to me that we've made the maximum effort to protect
+ourselves from cyber intrusion. And for the record, I'd like to
+point out that James Clapper made the point, the Director of
+National Intelligence, that it was the Chinese, not the
+Russians, that we believe hacked OPM. But I think this may have
+been asked earlier.
+OPM is still not fully compliant with the requirements for
+the use of personally identifiable verification cards, the PIV
+cards. Where are we on that?
+Mr. DeVries. Sir, I'll take that. Sir, we are 100 percent
+compliant for the PIV cards for the users to access the
+network.
+Mr. Palmer. So is it a chip-based card?
+Mr. DeVries. Yes, sir, it is.
+Mr. Palmer. And multifactor verification?
+Mr. DeVries. Multifactor verification.
+Mr. Palmer. So we've got that across the board?
+Mr. DeVries. It needs the card and then you need the
+personal identification that you put your PIN in for. Correct,
+sir.
+Mr. Palmer. Let me ask you this: In regard to hiring people
+who handle your data systems, and particularly to protect
+against cyber attacks, how long does it take to process an
+applicant? For instance, I've got a--there's a gentleman in--at
+the University of Alabama, Birmingham, one of the top people in
+the country on this, Gary Warner, and he's turning out some of
+the best experts in cybersecurity. And the day they graduate--
+it's almost the day they graduate, they can get a job with
+Visa, MasterCard. But it seems to take months to even get in
+the system for the Federal Government. Is that an issue at OPM?
+Ms. McGettigan. Well, yes, sir, it is an issue in terms of
+the background investigations. We are very much backlogged. We
+are committed to reducing that backlog. And we have--to that
+end, we have just--we have just awarded contracts to increase
+our capacity, the field contracts to increase our capacity. And
+we are on a path to reduce that--to reduce that backlog. But it
+will take time, and employees of OPM or prospective employees
+of OPM are also waiting for background investigations.
+Mr. Palmer. Well, I know that--and I wasn't here for the
+opening of this hearing--that there seems to be a tendency to
+try to make this--politicize this. And if that's where some
+members want to go with it, that's fine. But I think the
+seriousness of the breach at OPM requires that we do our jobs
+to make sure that our data systems are secure.
+And one of the things that I might suggest and encourage
+you to consider is doing the background checks on these top
+students while they're still in school so that when they
+graduate, we're not going to lose them to the private sector. I
+think that we put ourselves at great exposure by not having
+quicker access to the best people that are available to protect
+our data systems.
+Is that something that OPM might consider? Could we
+expedite the process? Because it's unreasonable to think that
+someone could get a really good job somewhere else and then
+have to wait months to get an interview.
+Ms. McGettigan. Yes, sir. We do have some programs. We have
+a program, Presidential Management Fellow Program, where we
+have people apply--recent graduates apply. And they are vetted
+and then they become finalists. We do not do--to my knowledge,
+background investigations are always done at the--once the
+person receives a conditional offer of employment. So it's the
+offer of employment that triggers the background investigation.
+Mr. Palmer. Well, I thank you for coming today.
+And I just want to make this last point, Mr. Chairman, that
+I think the point that needs to be made is that the purpose of
+this hearing is to make sure that our data systems are secure.
+And I think this committee will do whatever we need to do to
+make that possible.
+I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We'll now recognize the gentleman from Wisconsin, Mr.
+Grothman.
+Mr. Grothman. Thank you.
+Mr. DeVries, we'll ask you a question again. You know, the
+GAO recently found----
+Chairman Chaffetz. Mr. Grothman, my apologies. My
+apologies. We need to go to the Democratic first. Mrs.
+Lawrence. I failed to recognize her. The gentlewoman is
+recognized for 5 minutes.
+Mrs. Lawrence. I know you would never purposely not
+recognize me, Mr. Chairman.
+Yesterday, Ranking Member Cummings sent a letter to the
+Defense Secretary about potentially serious violation of the
+Constitution by Lieutenant Governor Michael Flynn, the
+President's national security adviser. General Flynn had
+admitted that he was paid to attend an event sponsored by the
+Russian-backed television network known as RT. And he dined
+with the Russian President Putin. RT has been described by the
+NSA, CIA, and FBI, and I quote: ``The Kremlin's principal
+international propaganda outlet. It receives funding, staffing,
+and direction from the Russian Government.''
+Director Phalen, your staff provided the Standard Form 86
+for security clearance holders. One question on the form, and I
+quote: ``Have you or any member of your immediate family in the
+past 7 years had any contact with a foreign government, its
+establishment, or its representatives, whether inside or
+outside of the U.S.?''
+My question to you, why are these individuals asked this
+question?
+Mr. Phalen. Thank you, Representative, for that question.
+The reason these questions are asked is to ensure that the
+individual who is making an adjudicative decision understands
+what relationships an individual may have with a foreign
+government or foreign representative. And the nature of that
+question is to get to the heart of what that relationship may
+be. It could be benign, it could be not benign. But this would
+be the judgment of the adjudication organization. Our goal
+would be, based on the response to that question, to gather as
+much information as we can get to----
+Mrs. Lawrence. The form also asks the question, and I
+quote: ``Have you in the past 7 years provided advice or
+support to any individual associated with a foreign business or
+foreign organization?''
+So my question to you is, do you know if General Flynn has
+a clearance?
+Mr. Phalen. I have not checked the record. I believe he
+does have a clearance, but I don't know that authoritatively.
+And if I could add, that the investigation of General Flynn,
+given his role in the White House, would generally be conducted
+by the FBI and not by NBIB.
+Mrs. Lawrence. So you don't know if he has a clearance,
+correct?
+Mr. Phalen. I don't know authoritatively, but I believe he
+does.
+Mrs. Lawrence. Do you know if he ever reported to the
+appropriate authorities?
+Mr. Phalen. I do not know that.
+Mrs. Lawrence. Do you know if General Flynn ever reported
+how much he paid--how much he was paid for his trip?
+Mr. Phalen. I do not know that.
+Mrs. Lawrence. So you're stating within the government that
+would be the FBI that would answer that question?
+Mr. Phalen. The--his reporting chain, if his clearance was
+still through the Department of Defense, would have been back
+through a Department of Defense security office, and they would
+be the organization that would have that on the record. It
+would be up to the FBI, if they were doing the investigation,
+to go back and reach out to the Department of Defense and ask
+if that had been reported.
+Mrs. Lawrence. Do you know if that reach-out has happened?
+Mr. Phalen. I do not know.
+Mrs. Lawrence. Mr. Chairman, we need to get answers to
+these basic questions. And I am requesting that the committee
+send a letter requesting a copy of General Flynn's security
+clearance application, as well as any and all updates he may
+have submitted.
+Will the chair agree to that?
+Chairman Chaffetz. Send me the request.
+Mrs. Lawrence. I appreciate it.
+Mrs. Lawrence. We have a responsibility, and we have been
+talking about this. And, Mr. Chairman, you have been a staunch
+leader in this, and this is an area I feel that we need
+questions answered. Thank you so much.
+Chairman Chaffetz. I now recognize the gentleman from
+Wisconsin, Mr. Grothman.
+Mr. Grothman. Okay, Mr. DeVries. GAO found that personnel
+management had not yet completed and submitted a data center
+optimization plan. And, originally, that was supposed to be
+done in September of last year. Do you know when that plan will
+be completed, or has it been completed?
+Mr. DeVries. Thank you, sir. I appreciate that question
+because that's one that's near and dear to my heart.
+I came onboard as the CIO in September. We did not publish
+that one, because it was not complete. I completed the
+assessment on it, and we're finalizing that. And that should be
+done back up to OMB by the end of this quarter here.
+Mr. Grothman. By the end of?
+Mr. DeVries. This quarter.
+Mr. Grothman. Okay. So the next couple months. Okay. Do you
+know what the savings goal you have for a plan like that is?
+Mr. DeVries. Sir, I do not have the savings goal in terms
+of the final numbers yet. That's part of the assessment that's
+still ongoing right now.
+Mr. Grothman. Okay. How many data centers do you own now?
+Mr. DeVries. Today, sir, I own seven. We closed down two,
+and we're about ready to move out of our third one here in the
+next 2 months.
+Mr. Grothman. Oh, that's good. What do we have left? What
+are the ones that are left?
+Mr. DeVries. And then I have five left. And I'm going down
+to two.
+Mr. Grothman. Okay. Good.
+Let me give you another question. During the data discovery
+breach and mitigation process, your relationship with the
+inspector general was strained. There was a lack of
+communication, time--there wasn't timely reporting, I think the
+IG wasn't informed really what you would consider on a timely
+basis. I understand things have improved since that time. How
+would you characterize your relationship with the inspector
+general today?
+Mr. DeVries. On behalf of the CIO office, I'll say it's
+very good. I say that because we meet monthly with his staff
+and my staff to go through what their concerns are, what their
+findings are, what our status is of reporting back to those
+findings. It's a very good relationship. They hold nothing
+back.
+And I'd like to defer now the final question to my chief
+information security officer, because he deals with them much
+more frequently.
+Mr. Grothman. Okay.
+Mr. Chase. Is that okay, Representative?
+Mr. Grothman. Sure. Yeah.
+Mr. Chase. So one of the things when I came onboard was to
+establish a good relationship with the inspector general. We
+meet on a weekly basis to talk about all the progress. And so--
+and I know I mentioned it earlier, but I'll say it again, is
+everything from the compliance efforts that we did to the
+engineering rollouts, so there's a lot of things going on that
+I wanted to make sure that the inspector general is abreast of.
+And so with that, they've given us guidance on what's
+appropriate to align to their FISMA report metrics and
+reporting. And it's been helpful not only for me but my staff
+behind me to see why that relationship is one that pays
+dividends in the long run.
+Mr. Grothman. Good. And if there was a breach today, how
+quickly would the inspector general know?
+Mr. Chase. As quickly as everybody else.
+Mr. Grothman. Okay.
+Mr. DeVries. Sir, I make that first phone call to the
+director, the second one is to the OIG, so it's realtime----
+Mr. Grothman. Okay. Thank you.
+I yield the remainder of my time.
+Chairman Chaffetz. The gentleman yields back.
+I now recognize the ranking member, Mr. Cummings.
+Mr. Cummings. Thank you very much, Mr. Chairman.
+Director Phalen, according to the website, the National
+Background Investigations Bureau, NBIB, is now responsible for
+conducting, and I quote: ``Approximately 95 percent of the
+total background investigations governmentwide.''
+Is that right?
+Mr. Phalen. Yes, sir, that is.
+Mr. Cummings. Out of the total number of background
+investigations that NBIB is responsible for conducting, does
+that include political appointees in the Trump administration?
+Mr. Phalen. Generally not.
+Mr. Cummings. Not?
+Mr. Phalen. Generally not.
+Mr. Cummings. Okay.
+Mr. Phalen. Yes.
+Mr. Cummings. And why not?
+Mr. Phalen. By tradition, that work has been given to the
+FBI to conduct those investigations by the White House.
+Mr. Cummings. And so a--now, guideline A of the
+adjudicative guideline states that individuals seeking a
+security clearance must have unquestioned allegiance to the
+United States, and lays out a series of examples of
+disqualifying factors that investigators and adjudicators will
+use to determine eligibility.
+Based on some of the questions on that SF86, I think many
+people often think of association with groups seeking to
+overthrow the U.S. Government by violent means, like violent
+anarchists or terrorist groups. When we think of this
+guideline, is that fair?
+Mr. Phalen. Yes, that would be a major piece of that
+category. Yes, sir.
+Mr. Cummings. But the disqualifying factors in the
+guideline may include much more than that. Do they not? They
+include whether a person associates with or shares the
+viewpoint of those who advocate using illegal or
+unconstitutional means to prevent government personnel from
+performing their official duties or others from exercising
+their constitutional rights. Is that correct?
+Mr. Phalen. Those are--those are questions to be considered
+in an adjudication, yes, sir.
+Mr. Cummings. And it could--and it could conclude--include
+persons who associate or share the viewpoint of those who use
+illegal or unconstitutional means to, quote, ``gain attribution
+for perceived wrongs caused by Federal, State, or local
+government,'' end of quote. Is that correct?
+Mr. Phalen. Those would be adjudicative questions, yes,
+sir.
+Mr. Cummings. If your investigations uncovered negative or
+derogatory information in any of those areas, I imagine that
+you could raise concern with regard to them. Is that correct?
+Mr. Phalen. They would be noted in the investigation, and
+they would be forwarded to an adjudicative--adjudication
+authority to make a determination as to whether that individual
+should be cleared.
+Mr. Cummings. So I want to walk you through a few short
+examples. If someone said that they were a Boy Scout or Girl
+Scout, would that raise a concern under guideline A? Of course
+not. Is that right?
+Mr. Phalen. No, sir.
+Mr. Cummings. What if someone described themselves as a
+Leninist, which refers to the Russian revolutionary who was not
+a fan of our democratic government, should that raise concerns
+for your investigators?
+Mr. Phalen. It would, and the investigator should pursue
+that avenue of discussion with the subject as to what that
+means.
+Mr. Cummings. What if someone said that his goal was to,
+quote, ``destroy the State,'' unquote, what response would that
+elicit?
+Mr. Phalen. That would elicit a very strong line of
+questioning with that individual and with others to determine
+what he means by that, so that we can give a full picture to
+the adjudicator.
+Mr. Cummings. What if somebody said, quote, ``I want to
+bring everything crashing down and destroy all of today's
+establishment,'' end of quote, should that raise a concern?
+Mr. Phalen. That would be noteworthy in an adjudication,
+yes, sir.
+Mr. Cummings. Chairman, each of these phrases were
+reportedly used by Steve Bannon to describe his views and his
+goals, according to Ronald Radosh of The Daily Beast. Mr.
+Bannon has since reportedly denied saying those things, but I
+imagine an investigator would still have concerns about them. I
+imagine that they would also want to see numerous reports about
+racism rampant on the news website Mr. Bannon used to run.
+Mr. Chairman, this is--this is a very serious problem. The
+President has picked Mr. Bannon to be his chief strategist and
+senior counselor. Not only that, the President just reorganized
+the National Security Council and gave Mr. Bannon a permanent
+seat at the table, while removing the chairman of the Joint
+Chiefs of Staff and director of National Intelligence. This is
+at least--I mean, it causes us to--we should wonder about this
+and question it.
+Do you--if--you may have answered this earlier. If somebody
+is under criminal investigation--and I know that we now have a
+liaison. Tell me how that works, a criminal liaison to try to
+work with--what happens when you find out somebody is under
+criminal investigation?
+Mr. Phalen. Depending what the criminal--criminal
+investigation is and the immediate seriousness of the nature,
+we may immediately contact the requesting agency that is asking
+for the clearance to give them sort of a heads-up that this is
+out there. And they may or may not determine at that point they
+want to terminate the request for a clearance. Otherwise, we'll
+continue the investigation.
+The fact that--going further down the road, an adjudicator
+would be faced with this question, this is an individual under
+criminal investigation, it would be up to them to understand
+what that investigation is about and to make a judgment whether
+or not that investigation or what is surrounding it would be
+disqualifying for access to classified information, whether--
+essentially, whether it shows an inability to be trusted to
+hold onto classified information.
+Mr. Cummings. So, in other words, the person could still
+get a--get a clearance?
+Mr. Phalen. Yes.
+Mr. Cummings. And I would assume that if that person were
+then later on convicted of an offense, then that probably his
+clearance would be withdrawn. Is that right?
+Mr. Phalen. If----
+Mr. Cummings. And who would do that?
+Mr. Phalen. The organization that issued the clearance
+would be the organization to rescind the clearance. And--based
+on what they see. And they would make--and if it had already
+been issued, an individual is convicted, it would be up to that
+organization to determine whether or not that conviction has
+any impact on their ability to be trusted.
+Mr. Cummings. My last question. The--I just gave some
+quotes that are attributed to Mr. Bannon. Would--I mean, if
+they--if you were to raise--if those questions were raised,
+would anyone go and then--and then the--say, Mr. Bannon, or
+whoever may have said those kind of things, denied them, would,
+then, you--would--would somebody go back to look to see if
+those statements were made in other--in the periodicals,
+whatever? And how might that affect the security clearance of
+that person? Do you understand my question?
+Mr. Phalen. I believe I do. We--if--if we--first, if we
+were faced with an individual who had made statements that
+appeared to be counter to the United States, that would be an
+issue we would pursue with the subject themselves, to start
+with. And to use your example, if that individual said, no, I
+never really said that, I don't really feel that way, we would
+use, to the best of our ability, whatever sources we can find
+to get to--to do issues resolution, to determine whether--what
+the truth is, to the extent that we can, so that we can give as
+full a picture as we can to the official that has to make that
+ultimate decision.
+Mr. Cummings. And if you discovered that, unequivocally,
+that the person had not been honest with you, what might--
+effect that have?
+Mr. Phalen. That would, again, be passed on to the
+adjudication authority, and they would have to determine
+whether that makes a difference or not.
+Mr. Cummings. Mr. Chairman, thank you for your indulgence.
+Chairman Chaffetz. Thank you.
+I'll now recognize the gentlewoman from New York, Mrs.
+Maloney.
+Mrs. Maloney. Thank you, very much.
+Chairman Chaffetz. Your microphone. Microphone.
+Mrs. Maloney. You know, I'm really concerned about
+cybersecurity. And if Congress is serious about helping
+agencies improve their cybersecurity, it must call on the
+President to rescind, in my opinion, his across-the-board
+hiring freeze. How in the world can you move forward if you
+can't even hire the people that can do the job? Such--this
+freeze that he's put in place, in my opinion, undermines the
+Federal Government's ability to recruit, develop, and maintain
+a pipeline of cybersecurity talent that's needed to strengthen
+Federal cybersecurity. And if there was a field that didn't
+change every 24 hours, it's cybersecurity. You have to get the
+youngest, brightest, latest people that are involved in it.
+So I am concerned about this freeze that he put in place, I
+think it was roughly 2 weeks ago. And he's taken other steps
+that will make it more difficult for Federal agencies to
+improve the area of cybersecurity. So I--and then he issued
+this memoranda ordering across-the-board hiring freeze in the
+Federal Government. And I want to quote from it. And I quote:
+``As part of this freeze, no vacant positions existing at noon
+on January 22, 2017, may be filled, and no new positions may be
+created.''
+So it seems to me that when it comes to improving
+cybersecurity, a hiring freeze is one of the most
+counterproductive policies that you could ever put in place.
+And after the 2015 cybersecurity at OPM, Federal CIO Tony
+Scott and then OMB Director Shaun Donovan put in place a
+cybersecurity strategy and implementation plan for the entire
+government. And I quote: ``The vast majority of Federal
+agencies site a lack of cyber and IT talent as a major resource
+constraint that impacts their ability to protect information
+and assets.''
+And so I'd just like to ask Mr. DeVries, as the CI--CIO of
+OPM, can you highlight some of the challenges that OPM has
+faced when it comes to recruiting and hiring cybersecurity
+specialists? And, obviously, you can't do anything if you can't
+hire anybody. So could you give us some insights there?
+Mr. DeVries. Thank you very much for that question. That is
+a--that is pertained to OPM. It's pertained to the Federal
+workspace and the Federal cybersecurity and IT professionals.
+That is a concern to all of us of how do I keep the pipeline
+coming in there.
+I will tell you, from my experience just coming onboard in
+OPM in September, we have, for example, five hiring actions out
+there, and we had about a 60 percent--we did not get to them
+fast enough before they went someplace else. We have completed
+that. We have filled those things. But, again, that's our
+challenge across the Federal spaces, how do I recruit and
+retain these folks.
+I will tell you, it comes from the passion of the heart.
+They come onboard. If I give them meaningful experiences,
+training they will stay. I think we're also working across the
+Federal space of how do I help improve the rotation, if you
+will, from Federal service back to industry and then back in
+again. We need to make--we have made strides on it. We need to
+continue to work on that together.
+Mrs. Maloney. Well, I--I've got to say that cybersecurity
+is really tied to the security of the Nation. And I think--I
+don't see how you can do your job if you can't hire people.
+So I would respectfully like to request that the chairman
+think about maybe asking for a waiver for the cybersecurity
+area in hiring. Number one, as Mr. DeVries pointed out, it's
+hard to hire them, because they're in great demand all over the
+country right now, that is a prime focus of the country. And so
+we need to work in this for the good of the country.
+And I--we're all individuals. I'm going to write the
+President my own letter and request that he waive it for the
+area of cybersecurity.
+But can you just go over some of the agencies, how does
+this hinder your ability and capability to improve when it
+comes to securing IT systems when you're not able to hire
+people? How does this affect you?
+Ms. McGettigan. Congresswoman, it terms of the hiring
+freeze, this is a 90-day freeze, and there are many exemptions
+to that freeze, primarily in terms of national security, public
+health, and public safety.
+Mrs. Maloney. But isn't this national security,
+cybersecurity?
+Ms. McGettigan. Well, agency heads are able to make that
+determination and to exempt those positions that are deemed to
+be national security.
+Mrs. Maloney. So that's taken care of?
+Ms. McGettigan. If they are not--if they have a position, a
+cybersecurity position, that they would not feel was national
+security, they can come to OPM and we will review their request
+for an exemption from that.
+Mrs. Maloney. Have any people asked for exemptions?
+Ms. McGettigan. At this point, no. I'm not aware
+specifically that anyone has come into OPM. I haven't seen any
+requests.
+Mrs. Maloney. Okay. My time has expired. Thank you.
+Chairman Chaffetz. Thank you.
+Just a few wrap-up questions.
+Mr. DeVries, could you please provide the committee all the
+NCAPs or other pen test reports conducted in the last year? Is
+that something you can provide the committee?
+Mr. DeVries. Yes, sir, we can.
+Chairman Chaffetz. Okay. Thank you. We appreciate it if
+you'd do that.
+And then, Mr. Phalen, one of the--one of the sad realities
+of what happened when Director Archuleta was in place is this
+hack had legacy systems online that dated back to 1985. And my
+understanding is, even if you applied for a job and didn't get
+a job with the Federal Government, and you did it after 1985,
+you might have been in that system.
+What are you doing to take sort of the nonactive records so
+they're not online and, thus, accessible to some hacking? Have
+you made any adjustments there?
+Mr. Phalen. To be honest, sir, I don't know. I know we have
+done a tremendous amount, you've heard it earlier today, in
+securing the systems. And I'm very comfortable that we have
+both the barriers on the front end and the ability to, my
+words, fight sort of an active shooter online on the network,
+should it appear. I don't believe we've taken a tremendous
+amount of this and put it offline, because it is--it needs to
+be accessible for any future work that we do.
+Chairman Chaffetz. To a degree. I mean, you know, if
+somebody retired in 1991 and then all of a sudden we have a
+hack in 2014, it does kind of beg the question why is that
+system--Mr. Halvorsen looks like he has something.
+Mr. Halvorsen. Yes. The new system will have tiered storage
+on it both in terms of what's live, what goes back, and it will
+take into consideration some of the things you said. If you are
+offline for a while, that will go into a different storage
+system, and it will be much harder to access.
+Chairman Chaffetz. It just--it seems like one of the
+lessons we should have learned for the nonactive employees--
+again, there may be a period of time. You all are more experts
+on it than we are, but after a certain amount of time, maybe it
+should be, you know, more sitting in some mountain somewhere as
+opposed to online.
+Two last questions. Who's in charge? When there's conflict,
+disagreement, when there is an attack, who ultimately is in
+charge?
+Mr. Chase. So through my program, we actually have a
+process that we implemented based on the lessons learned from
+the 2015 breach, and there is a communication path that routes
+up into the director's office through the CIO with the severity
+and any data or details related to that incident.
+Chairman Chaffetz. So who--who is in charge?
+Mr. Chase. So----
+Chairman Chaffetz. Who ultimately makes the hard decision
+if there's a disagreement, a question? You've got the DOD.
+You've got OPM. Something's not--who is the ultimate
+decisionmaker?
+Mr. DeVries. So I'd like to take that on. If it's on the
+current system that OPM and I, as the CIO, am responsible for,
+I do that.
+Chairman Chaffetz. Okay.
+Mr. DeVries. On the new system, within the NBIS, as we
+transition to it, DOD will.
+Chairman Chaffetz. Okay. So that would be Mr. Halvorsen or
+whoever his replacement is?
+Mr. DeVries. Correct.
+Mr. Halvorsen. That is correct.
+Chairman Chaffetz. Okay. Last question. Mr. Halvorsen, you
+have the freedom of retirement there running around the corner
+here. So given that, your years of service, your perspective,
+your expertise, summarize for us, what should the Congress
+understand? What are your greatest frustrations and concerns
+and your best suggestions that you can offer us?
+Mr. Halvorsen. Well, first, I'll thank Congress. As you
+know, working through many of the members here, we did get the
+cyber accepted service law, which I do think was the first
+thing that we needed to get done to recruit and move past some
+of the things that were blocking our ability.
+I do think we are going to have to reevaluate the pay scale
+for cybersecurity personnel and some other key positions. We do
+rely on patriotism. We can recruit people a lot for that, but
+the pay disparities are getting out of hand. I mean, I will
+tell you, I have lost six or seven people this year, very good,
+basically, because they could not anymore turn down the offers.
+And I can't counsel them against that after a certain point.
+Chairman Chaffetz. I'm totally convinced that you're right.
+And I hope that this Congress--I plan on helping to champion
+some legislation to give more realistic assessment to provide
+that flexibility, because I do think you're right.
+Mr. Halvorsen. And I think the other more most important
+thing that we do, and I have said this before, I will keep
+saying it, I do think the secret weapon of our country is, to
+keep our security, keep our edge in warfighting is better use
+of our industry and commercial mobility and agility.
+You have seen--we talk about this in DOD. We are embarking
+to bring as much commercial into these activities. We are doing
+it with this system as the build of the new. We need to
+continue that, and we need to continue that against--across the
+foreign government--I mean, across the Federal Government
+space. That also means we will have to work and raise the bar
+for industry on security.
+While I'll be the first to say that DOD included, we have
+to get better in our security practices. And I am heartened by
+what I see in my discussions with the commercial community.
+They are starting to take that to heed, and we are seeing a
+rise in their ability to protect data. We need to encourage
+that and open up our dialogue with the commercial sector on how
+best to do that and share more information.
+Chairman Chaffetz. Thank you, again, Mr. Halvorsen. We
+thank you for your service, and we wish you nothing but the
+best of luck in whatever your future endeavors take you. And
+thank you again for your service.
+Let me recognize Mr. Cummings, and we'll close the meeting.
+Mr. Cummings. Thank you. Thank you. I want to thank all of
+our witnesses for being here today. You certainly have been
+extremely helpful. And I want to--you know, I just hope that
+the--I want to express my appreciation to all the people that
+work with you, because I know that you all have teams of people
+who give their blood, their sweat, their tears, because they
+want America to remain the greatest country in the world.
+Mr. Halvorsen, again, I want to join in with the chairman
+and thank you for your service.
+I have a brother who is a former Air Force officer, who is
+not a cyber expert, so he talks to me all the time about the
+demand for these folks who are good. I also have sat on the
+Naval Academy Board of Visitors for the last 12 years. And one
+thing that we've done in the Naval Academy it's now mandatory
+that every student have--I know you probably already know
+this--have extensive cyber lessons as part of our curriculum,
+and so we see the significance of it.
+I want to ask you this: One of the things that we wrestle
+with is Federal employees feel that they are under attack
+constantly. We've seen recently where all kinds of measures
+have been put forth that really make them feel pretty insecure.
+And I'm just wondering, how do you--I mean, first of all, talk
+about, briefly, the people that you've worked with and what
+they bring to the table. Because a lot of people, I think, get
+the impression sometimes that the people who work for the
+Federal Government are not giving a lot and not giving their
+best and not feeding their souls, as I often say.
+I just want--you know, you're on your way out. You've had
+an opportunity to work with a lot of people. And I'm sure one
+of the saddest parts is probably a bittersweet thing, you
+created a family. I always tell my children that whenever you
+get a job, you also create a family of people who are looking
+out for you and who care about you and who you--sometimes
+you're with more than you're with your own family.
+So could you just talk about some of the, just generally,
+the people that you've worked with, sir? Because I know that
+you could not have done what you've been able to accomplish
+without a support system. If you might, just very briefly.
+Mr. Halvorsen. Well, you know, I will tell you, having both
+been in the military and in Federal service, highest respect
+for the Federal workforce. They do exceptional work. They put
+in a lot of hours. They do their best on everything they can
+do. But I'm also going to comment, I see that also in the
+commercial workspace when I bring the people in. I do think
+this is a leadership issue. And if you make your--any of your
+employees, whether they're Federal, military, or commercial,
+feel a part of the team and you listen to that team, they will
+give you everything they've got to get--to get the work done.
+And that--I have 37 years, that's what I have seen in the
+Federal Government and in that workspace.
+Mr. Cummings. And I think when you show people that you
+truly care about them--not just about them, but their families
+and their welfare--I tell the people that come to work with us
+on the OGR, if they are not better when they leave me, then
+I've failed. In other words, if they are--their skill level is
+not higher, if they're not more proficient, if they're not more
+effective and efficient, then I've done something wrong.
+Because I want to invest in them. Because I want to be a part
+of their destiny. I want to touch their futures. Even when I'm
+dancing with the angels, I want to know that they've gone on to
+do great things, because our Nation really needs the very, very
+best.
+And so I can tell you that working with the chairman, we
+saw that. We--in working with the--then I'll be finished. I
+give the chairman a lot of credit, because when we looked at
+the Secret Service, he and I made a concerted effort to say to
+the Secret Service we wanted the elite of the elite. We wanted
+the very, very best, and we wanted to create that culture.
+And I think we're moving toward this, Mr. Chairman. I don't
+know that we've gotten there yet, but we're trying to get
+there. But--and we've done that in a number of agencies in a
+bipartisan way.
+And, again, I just--you know, the only reason I raise the
+question, Mr. Halvorsen, is because I just want the public to
+be reminded that, you know, there's a vast array of Federal
+employees that keep our country the great country that it is.
+And, again, I want to thank all of you and everybody who
+back you all up for doing what you do. And, now, we still have
+a lot of work to do, as you've all made very, very clear, but I
+believe that, you know, we can--we can get it done.
+And thank you, Mr. Chairman.
+Chairman Chaffetz. Thank you. And thank you all. And please
+let them know, the men and women who work within your
+departments and groups, how much we do appreciate it. It's a
+tough job, but it's a very important job, and we do appreciate
+it.
+Thank you. The committee stands adjourned.
+[Whereupon, at 11:28 a.m., the committee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

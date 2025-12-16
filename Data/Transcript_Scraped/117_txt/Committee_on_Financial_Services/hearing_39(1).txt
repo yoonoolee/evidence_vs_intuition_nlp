@@ -1,0 +1,2049 @@
+- I AM WHO I SAY I AM: VERIFYING IDENTITY WHILE PRESERVING PRIVACY IN THE DIGITAL AGE
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+I AM WHO I SAY I AM: VERIFYING
+IDENTITY WHILE PRESERVING
+PRIVACY IN THE DIGITAL AGE
+
+=======================================================================
+
+VIRTUAL HEARING
+
+BEFORE THE
+
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+OF THE
+
+COMMITTEE ON FINANCIAL SERVICES
+
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+JULY 16, 2021
+
+__________
+
+Printed for the use of the Committee on Financial Services
+
+Serial No. 117-39
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+45-386 PDF                 WASHINGTON : 2021
+
+-----------------------------------------------------------------------------------
+
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+MAXINE WATERS, California, Chairwoman
+
+CAROLYN B. MALONEY, New York         PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York             Ranking Member
+BRAD SHERMAN, California             FRANK D. LUCAS, Oklahoma
+GREGORY W. MEEKS, New York           PETE SESSIONS, Texas
+DAVID SCOTT, Georgia                 BILL POSEY, Florida
+AL GREEN, Texas                      BLAINE LUETKEMEYER, Missouri
+EMANUEL CLEAVER, Missouri            BILL HUIZENGA, Michigan
+ED PERLMUTTER, Colorado              ANN WAGNER, Missouri
+JIM A. HIMES, Connecticut            ANDY BARR, Kentucky
+BILL FOSTER, Illinois                ROGER WILLIAMS, Texas
+JOYCE BEATTY, Ohio                   FRENCH HILL, Arkansas
+JUAN VARGAS, California              TOM EMMER, Minnesota
+JOSH GOTTHEIMER, New Jersey          LEE M. ZELDIN, New York
+VICENTE GONZALEZ, Texas              BARRY LOUDERMILK, Georgia
+AL LAWSON, Florida                   ALEXANDER X. MOONEY, West Virginia
+MICHAEL SAN NICOLAS, Guam            WARREN DAVIDSON, Ohio
+CINDY AXNE, Iowa                     TED BUDD, North Carolina
+SEAN CASTEN, Illinois                DAVID KUSTOFF, Tennessee
+AYANNA PRESSLEY, Massachusetts       TREY HOLLINGSWORTH, Indiana
+RITCHIE TORRES, New York             ANTHONY GONZALEZ, Ohio
+STEPHEN F. LYNCH, Massachusetts      JOHN ROSE, Tennessee
+ALMA ADAMS, North Carolina           BRYAN STEIL, Wisconsin
+RASHIDA TLAIB, Michigan              LANCE GOODEN, Texas
+MADELEINE DEAN, Pennsylvania         WILLIAM TIMMONS, South Carolina
+ALEXANDRIA OCASIO-CORTEZ, New York   VAN TAYLOR, Texas
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+NIKEMA WILLIAMS, Georgia
+JAKE AUCHINCLOSS, Massachusetts
+
+Charla Ouertatani, Staff Director
+
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+BILL FOSTER, Illinois, Chairman
+
+BRAD SHERMAN, California             ANTHONY GONZALEZ, Ohio, Ranking
+SEAN CASTEN, Illinois                    Member
+AYANNA PRESSLEY, Massachusetts       BARRY LOUDERMILK, Georgia
+ALMA ADAMS, North Carolina           TED BUDD, North Carolina
+SYLVIA GARCIA, Texas                 TREY HOLLINGSWORTH, Indiana
+JAKE AUCHINCLOSS, Massachusetts      VAN TAYLOR, Texas
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on:
+July 16, 2021................................................     1
+Appendix:
+July 16, 2021................................................    35
+
+WITNESSES
+Friday, July 16, 2021
+
+Fredung, Victor, Chief Executive Officer, Shufti Pro.............    11
+Grant, Jeremy, Coordinator, The Better Identity Coalition........     4
+Kelts, David, Director of Product Development, GET Group North
+America........................................................     6
+Maynard-Atem, Louise, Research Lead, Women in Identity...........     7
+Renieris, Elizabeth M., Professor of the Practice & Founding
+Director, Notre Dame-IBM Technology Ethics Lab, University of
+Notre Dame.....................................................     9
+
+APPENDIX
+
+Prepared statements:
+Fredung, Victor..............................................    36
+Grant, Jeremy................................................    45
+Kelts, David.................................................    67
+Maynard-Atem, Louise.........................................    80
+Renieris, Elizabeth..........................................    85
+
+Additional Material Submitted for the Record
+
+Foster, Hon. Bill:
+Written statement of the Blockchain Advocacy Coalition.......    95
+Written statement of Rev. Ben Roberts, Foundry United
+Methodist Church...........................................   100
+Written statement of the Texas Blockchain Council............   105
+Written statement of the Trust over IP Foundation............   107
+Written statement of ZorroSign, Inc..........................   110
+Gonzalez, Hon. Anthony:
+Written statement of the National Association of Convenience
+Stores.....................................................   116
+
+I AM WHO I SAY I AM: VERIFYING
+IDENTITY WHILE PRESERVING
+PRIVACY IN THE DIGITAL AGE
+
+----------
+
+Friday, July 16, 2021
+
+U.S. House of Representatives,
+Task Force on Artificial Intelligence,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 12 p.m., via
+Webex, Hon. Bill Foster [chairman of the task force] presiding.
+Members present: Representatives Foster, Casten, Adams,
+Garcia of Texas, Auchincloss; Gonzalez of Ohio, Budd, and
+Taylor.
+Ex officio present: Representative Waters.
+Chairman Foster. The Task Force on Artificial Intelligence
+will now come to order.
+Without objection, the Chair is authorized to declare a
+recess of the task force at any time. Also, without objection,
+members of the full Financial Services Committee who are not
+members of the task force are authorized to participate in
+today's hearing.
+As a reminder, I ask all Members to keep themselves muted
+when they are not being recognized by the Chair. The staff has
+been instructed not to mute Members, except when a Member is
+not being recognized by the Chair and there is inadvertent
+background noise.
+Members are also reminded that they may participate in only
+one remote proceeding at a time. If you are participating
+today, please keep your camera on. And if you choose to attend
+a different remote proceeding, please turn your camera off.
+Today's hearing is entitled, ``I Am Who I Say I Am:
+Verifying Identity While Preserving Privacy in the Digital
+Age.''
+I now recognize myself for 4 minutes to give an opening
+statement.
+Today, we are here to explore how we can leverage the power
+of artificial intelligence (AI) to create a secure digital
+identity, and how we can leverage those capabilities with
+digital infrastructure, such as mobile ID, to make internet
+access safer, more available, and more equitable for all of us.
+Digital identification is a long-overdue and necessary tool for
+the U.S. economy to transition into the digital age, while
+preventing fraud, ensuring privacy, and improving equity.
+Especially since COVID, we find ourselves increasingly
+working, transacting, and interacting online. Hand-in-hand with
+that, identity theft is at an all-time high, with over 1.3
+million reports to the Federal Trade Commission (FTC) in 2020.
+A digital identity would provide Americans with a way to prove
+who they are online in a more secure manner. People could use
+it to sign up for government benefits, make a withdrawal from
+their bank, or to view their medical records, all with the risk
+of identity theft or fraud approaching zero. Reducing identity
+fraud would not only provide tremendous savings to individuals
+and consumers, but would also create massive savings for our
+government as well.
+However, it is important to get this right. We must ensure
+that a digital identity framework is established with the
+utmost emphasis on privacy and security. That is why I have
+introduced the Improving Digital Identity Act of 2021, a
+bipartisan measure to establish a government-wide approach to
+improving digital identity. This bill would establish a task
+force in the Executive Office of the President to develop
+secure methods for Federal, State, and local agencies to
+validate identity attributes, to protect the privacy and
+security of individuals, and to support reliable, interoperable
+digital identity verification in both the public and private
+sectors.
+This is the first step to determine what our government
+needs in order to implement this crucial technology. Using the
+power of AI, we can detect suspicious activity, catch bad
+actors, and greatly improve our online validation and
+authentication process.
+I thank all of our Members and witnesses for being here
+today. And I look forward to this discussion to find out how we
+can best use artificial intelligence and digital identity to
+improve the lives of everyday Americans.
+The Chair now recognizes the ranking member of the task
+force, Mr. Gonzalez of Ohio, for 5 minutes for an opening
+statement.
+Mr. Gonzalez of Ohio. First off, thank you, Chairman
+Foster, for your leadership on this task force and for today's
+hearing and the witnesses. I want to commend all of your hard
+work on this issue, and for being a thoughtful leader in
+Congress on how to better protect the personally identifiable
+information (PII) of Americans across the country. I have
+enjoyed our dialogues on that, and I look forward to continuing
+them.
+Today's hearing provides an opportunity to hear directly
+from industry experts and stakeholders on advancements in
+improving the protection of Americans' personal identity. The
+task force had a similar hearing in 2019, and it is important
+that we continue to consider gaps that persist, and the proper
+role for the Federal Government, going forward.
+As a consumer, it often feels like you need to share every
+important detail of your personal identity in order to even
+think about creating an account with a financial institution or
+other internet service provider. Sharing your driver's license,
+Social Security number, sometimes your passport, and other
+sensitive information online can be intimidating and can make
+consumers question whether their information is safe and
+secure.
+And it is not hard to see why. Financial services firms
+fall victim to cybersecurity attacks approximately 300 times
+more frequently than other businesses. These breaches have
+occurred as bad actors have become even more sophisticated, and
+have amassed troves of data on American citizens. This, along
+with the wealth of data that Americans share daily via social
+media, has empowered criminals to take advantage of the current
+identity system which they then use to commit theft and fraud.
+To the credit of private industry, we have seen tremendous
+advances in technology to help secure Americans' private
+information and identity. The use of AI, machine learning, and
+blockchain technology has allowed for new forms of analysis
+that can verify an individual's identity in a secure way.
+Now, it is time for Congress to work with Federal
+regulators to ensure that the United States is equipped with
+the tools necessary to keep pace internationally. We should
+consider innovative proposals such as Mr. Foster's Improving
+Digital Identity Act, which will establish a task force within
+the Federal Government to engage with relevant stakeholders,
+but would also require the National Institute of Standards &
+Technology (NIST) to develop a framework of standards for the
+Federal Government to follow when providing services to support
+digital identity verification. I commend him and my other
+colleagues for their work on this thoughtful legislation.
+Beyond the obvious concerns regarding fraud and identity
+theft, I am also looking forward to learning more today about
+how other forms of identification verification can increase
+access to financial services and inclusion. This committee
+should champion new technologies and their ability to break
+down the barriers that prevent low-income Americans from
+accessing critical banking services. Digital identity
+technologies provide a lot of promise and an opportunity to
+further inclusion in our financial services space.
+I look forward to the discussion today, and I yield back.
+Chairman Foster. Thank you.
+Now, we welcome the testimony of our distinguished
+witnesses: Jeremy Grant, coordinator of The Better Identity
+Coalition; David Kelts, director of product development for GET
+Group North America; Louise Maynard-Atem, research lead at
+Women in Identity; Elizabeth Renieris, founding director of the
+Notre Dame-IBM Technology Ethics Lab at the University of Notre
+Dame; and Victor Fredung, chief executive officer of Shufti
+Pro.
+Witnesses are reminded that their oral testimony will be
+limited to 5 minutes. You should be able to see a timer on your
+screen that will indicate how much time you have left, and a
+chime will go off at the end of your time. I would ask that you
+be mindful of the time, and quickly wrap up your testimony when
+you hear the chime, so that we can be respectful of both the
+witnesses' and the task force members' time.
+And without objection, your written statements will be made
+a part of the record.
+I just want to also take this moment to really compliment
+you on the very high quality of your written testimony. It is
+worth reading more than once, because of the deep and important
+observations that it makes about where digital identity is, and
+should be going in our country.
+Mr. Grant, you are now recognized for 5 minutes to give an
+oral presentation of your testimony.
+
+STATEMENT OF JEREMY GRANT, COORDINATOR, THE BETTER IDENTITY
+COALITION
+
+Mr. Grant. Thank you.
+Chairman Foster, Ranking Member Gonzalez, and members of
+the task force, thank you for the opportunity to testify today.
+I am here on behalf of The Better Identity Coalition, an
+organization focused on bringing together leading firms from
+different sectors to work with policymakers to improve the way
+Americans establish, protect, and verify their identities when
+they are online. Our members include recognized leaders from
+financial services, health, technology, Fintech, payments, and
+security.
+Yesterday marked the 3-year anniversary of the release of
+our identity policy blueprint, which outlined a set of key
+initiatives the government should launch to improve identity
+that are both meaningful in impact and practical to implement.
+Our 24 members are united by a common recognition that the way
+we handle identity today in the U.S. is broken, and by a common
+desire to see both the public and private sectors each take
+steps to make identity systems work better.
+On that note, I am very grateful to the AI Task Force for
+calling this hearing today, as well as to Chairman Foster for
+his leadership on this topic. The legislation that he and
+Congressmen Katko, Langevin, and Loudermilk introduced 2 weeks
+ago, the Improving Digital Identity Act of 2021, is the single
+best way for government to begin to address the inadequacies of
+America's identity infrastructure.
+I think that one of the top takeaways for the members of
+this task force today is that identity is critical
+infrastructure and needs to be treated as such. The Department
+of Homeland Security (DHS) said as much in 2019, when it
+declared identity as one of 55 national critical functions,
+defined as those services so vital to the U.S. that their
+disruption, corruption, or dysfunction would have a
+debilitating effect on security.
+But compared to other critical functions, identity has
+gotten scant investment and attention, and the Improving
+Digital Identity Act, if approved, will get us started. And I
+think we are overdue to get started. The enormity of the
+problems that was magnified several times over the last 18
+months, amidst the pandemic, literally made it impossible to
+engage in most in-person transactions. The pandemic laid bare
+the inadequacies of our digital identity infrastructure,
+enabling cybercriminals to steal billions of dollars, and
+creating major barriers for Americans trying to obtain critical
+benefits and services.
+More than $63 billion was stolen from State unemployment
+insurance programs by cybercriminals exploiting weak ID
+verification systems, according to the Labor Department. On the
+flip side, we have seen hundreds of stories of Americans who
+have been unable to get the benefits they desperately need
+because their applications for unemployment had been falsely
+flagged for fraud when they find themselves unable to
+successfully navigate the convoluted and complicated processes
+many States have put in place to verify identity.
+Beyond unemployment, the inadequacy of our identity
+infrastructure remains a major challenge in financial services.
+Last year, the Financial Crimes Enforcement Network (FinCEN)
+reported that banks were losing more than $1 billion each month
+due to identity-related cybercrime. Meanwhile, millions of
+Americans can't get a bank account because they don't have the
+foundational identity documents needed to prove who they are.
+And amidst all of this, ID theft losses soared by 42 percent
+last year.
+So, why are there so many problems here? Well, attackers
+have caught up with a lot of the first-generation tools we have
+used to protect and verify and authenticate identity. And while
+this last year might have driven this point home, the reality
+is that these tools have been vulnerable for quite some time.
+There are a lot of reasons for this, but the most important
+question is, what should government and industry do about it
+now? If there is one message that the task force should take
+away from today's hearing, it is that industry said they can't
+solve this alone. We are at a juncture where the government
+will need to step up and play a bigger role to help address
+critical vulnerabilities in our digital identity fabric, and
+passing the Improving Digital Identity Act is where we should
+start.
+Why is government action needed here? Well, as one of our
+members noted, the title of this hearing, ``I Am Who I Say I
+Am,'' is technically incorrect, since for all purposes, when it
+comes to identity, you are who the government says you are. At
+the end of the day, government is the only authoritative issuer
+of identity in the U.S., but identity systems that the
+government administers are largely stuck in the paper world,
+whereas commerce has increasingly moved online.
+This idea of an identity gap, a complete absence of
+credentials built to support digital transactions, is being
+actively exploited by adversaries to steal identities, money,
+and sensitive data, and defraud consumers, governments, and
+businesses alike. And while industry has come up with some
+decent tools to try to get around this identity gap, the
+adversaries have caught up with many of them.
+Going forward, the government will need to take a more
+active role in working with industry to deliver next-generation
+remote-ID proofing solutions. This is not about a national ID.
+We don't recommend that one be created. We already have a
+number of nationally-recognized authoritative government
+identity systems: the driver's license; the passport; the
+Social Security number. But because of this identity gap, the
+systems are stuck in the paper world while commerce is moving
+online.
+To fix this, America's paper-based system should be
+modernized around a privacy-protecting, consumer-centric model
+that allows consumers to ask an agency that issued a credential
+to stand behind it in the online world, by validating the
+information from the credential. It is exactly what the
+Improving Digital Identity Act would do in a way that sets a
+high bar for privacy, security, and inclusivity.
+Thank you for the opportunity to testify today. Note that I
+have submitted lengthier testimony for the record, including
+some recommendations on AI and identity. I look forward to
+answering your questions.
+[The prepared statement of Mr. Grant can be found on page
+45 of the appendix.]
+Chairman Foster. Thank you, Mr. Grant.
+Mr. Kelts, you are now recognized for 5 minutes to give an
+oral presentation of your testimony.
+
+STATEMENT OF DAVID KELTS, DIRECTOR OF PRODUCT DEVELOPMENT, GET
+GROUP NORTH AMERICA
+
+Mr. Kelts. Thank you, Chairman Foster, Ranking Member
+Gonzalez, and members of the task force. I appreciate the
+opportunity today.
+I am David Kelts of Arlington, Massachusetts, representing
+myself in support of mobile driver's licenses and forming
+governance for an identity ecosystem that reinforces American
+values of privacy, equity, and freedom, while spurring
+innovation.
+I am the director for product development for GET Group
+North America, which is piloting the Utah mobile driver's
+license currently, and I have been a member for over 5 years of
+the ISO standards working group that wrote the ISO 18013-5
+mobile driver's license standard. I lead the Evangelism Task
+Force for that group, and I was the lead author on privacy
+assessment with many international collaborators.
+A mobile driver's license (mDL) is a digitally-signed ID
+document placed on the mobile phone of the correct individual
+for them to control. Government issuers around the globe are
+the signers of the identity information, and this signature
+allows for using an mDL when government-issued ID information
+is legally required, including for in-person transactions.
+You don't show your mDL to someone else. Imagine if we were
+showing credit card numbers to merchants from our phones.
+Screenshots and editing tools would result in fraud. Instead,
+you tap or scan and share a token with the verifier or a
+reader, and that token can be used to request a subset of the
+mDL data. The mDL holder has full consent over what they share,
+and with this standard, people can use the mobile driver's
+license around the country, and around the globe. So, this
+minimizing of data to that which is necessary for the
+transaction represents an improvement over physical cards,
+where the full data is always printed on the front and found in
+the barcode on the back.
+The ISO 18013-5 mDLs are for fronted data transfer for in-
+person usage. They are designed, the standard is designed to
+fit next to other identity standards like OpenID Connect, and
+things like user authentication from the FIDO Alliance.
+There are challenges to empowering Americans with this
+mobile ID document in order for us to meet the values and goals
+of all of the people--protecting identity information, giving
+greater control and flexibility to the rightful holder of the
+identity, supporting accuracy of these operations--and these
+come with the goals of improved privacy and inclusivity and
+access for all. These goals for mDL in person are the same as
+the goals for identity in cyberspace.
+mDL itself sort of naturally forms an ecosystem. The
+government issuers are the signers of the data, so they have a
+passive role in lending trust to the transaction. This is in
+the form of a public key used to validate the accuracy,
+integrity, and provenance of the data. The technology works
+today, and is functional, but government issuers must make the
+first move. This sets challenges in funding a digital
+transformation that benefits the residents and businesses
+within anya State. Doing the civic good is not always enough
+rationale.
+Consumer Pays models seem to be taking hold similar to our
+ID cards but they can require legislative approval and support
+for this digital transformation at the State level and can keep
+privacy and American values at the forefront, and kick-start
+contactless ID.
+Market forces alone will not shape an identity-equal system
+that meets our values and goals. Price pressure on software
+towards free has been driven by these privacy-invasive data-
+gathering advertising policies. If the software is free, then
+you are the product. And kick-starting market forces, if they
+don't happen, it is possible that entities with very deep
+pockets can swoop in, meet the market needs, and own an
+identity ecosystem.
+Challenges exist on the business side as well as on the
+verifier side. Businesses and government agencies will wait for
+a large number of mDL holders before investing and accepting
+these digital ID documents. That can leave people with no place
+to use their digital ID.
+Across the globe, there are government-led trust frameworks
+like Australia, privately-led frameworks like Sovrin, and
+public-private partnerships like the Pan-Canadian Trust
+Framework in Canada, launched by the Digital ID &
+Authentication Council of Canada (DIACC).
+I recommend initiating a public-private partnership to
+define a framework that meets our values and goals from the
+existing pieces, and that can enforce those requirements. This
+can kick-start identity solutions of many types to meet our
+goals in the digital transformation. Federal agencies can
+continue to lead and lend their expertise to this, and can be
+incentivized to accept mobile driver's licenses for things like
+TSA agents to protect their health.
+DHS innovation programs can be refocused from architectural
+goals to deployment of contactless ID technology. And we
+welcome the continued and expanded participation of the Federal
+Government and Federal agencies.
+Thank you.
+[The prepared statement of Mr. Kelts can be found on page
+67 of the appendix.]
+Chairman Foster. Dr. Maynard-Atem, you are now recognized
+for 5 minutes to give an oral presentation of your testimony.
+
+STATEMENT OF LOUISE MAYNARD-ATEM, RESEARCH LEAD, WOMEN IN
+IDENTITY
+
+Ms. Maynard-Atem. Good afternoon, and thank you, Chairman
+Foster, Ranking Member Gonzalez, and members of the task force
+for the opportunity to testify today.
+My name is Louise Maynard-Atem. I am the research lead for
+the nonprofit organization, Women in Identity. We are an
+organization whose mission is to ensure that digital identity
+solutions are designed and built for the diverse communities
+that they are intended to serve in mind. We are a volunteer-led
+organization, and we all work full-time in the digital identity
+sector. We are entirely independent, and not acting in the
+interests of any one organization or individual, but we are all
+united by the belief that we need identity systems that work
+for everyone by ensuring that they are inclusive and free from
+bias, and that is the specific topic I would like to talk about
+today.
+The need for improved digital identity systems and
+infrastructure has been a pressing requirement for many years
+as more businesses have moved their operations online. The
+pandemic has accelerated that transition, and the need has
+become more critical in the last 18 months.
+The shift presents us with a unique opportunity to enable
+economic and societal value creation as digital identity
+systems become the gatekeeper to services like online banking,
+e-commerce, and insurance. However, we also need to recognize
+that the use of technology in these systems has the potential
+to further entrench and potentially exacerbate the exclusionary
+and bias practices that persist in society today.
+Simply digitizing what were previously analogue processes
+and utilizing flawed data would be a missed opportunity to
+deliver systems and services that benefit all citizens.
+At Women in Identity, we believe inclusion doesn't just
+happen on its own. For identity systems to be inclusive and
+free from bias, the requirement must be explicitly mandated.
+There are countless examples of where exclusion and bias
+haven't been explicitly mandated against, and in many of those
+instances, systems have been built that exclude certain groups,
+often based on characteristics like race, gender, culture,
+socioeconomic background, or disability.
+According to recent population stats in the United States,
+approximately 11 percent of adults don't have government-issued
+ID documents, approximately 18 percent of adults don't use a
+smartphone, and 5.4 percent of U.S. households are unbanked.
+Government-issued IDs, ownership of smartphones, and having
+a bank account can often be the building blocks used for
+creating digital identity services for individuals. It is
+essential that any solution that we develop has to be
+accessible for all of the groups that I have mentioned, and
+doesn't cause them to be further excluded from opportunities
+that such technology might present.
+If you think about the physical world, we would never erect
+buildings that weren't accessible to all. Features like
+wheelchair ramps are mandated. We need to make sure that we are
+mandating the equivalent accessibility in the digital world.
+Within Women in Identity, we have seen a move towards
+identity trust frameworks being developed, where the need for
+inclusion and testing for bias is being explicitly called out.
+Here in the UK, I wanted to mention the UK digital identity
+and attributes trust framework that Women in Identity was
+involved in consulting on. This framework sets out the
+requirements to help organizations understand what a good
+identity verification looks like. There are explicit callouts
+that make sure products and services are exclusive and
+acceptable, and organizations are required to complete an
+annual exclusion report to transparently explain if certain
+users or user groups are excluded and why.
+The Information Commissioner in the UK has responded in
+support of the trust framework, but raises caution if digital
+identity and attributes systems are relying on automated
+processing, due to the use of algorithms or artificial
+intelligence within those systems. Automated decision-making
+may have discriminatory effects due to bias present in the
+system design, the algorithms used, or the data sets used in
+the creation of the product or service.
+At Women in Identity, we are currently carrying out a piece
+of research that seeks to understand the societal and economic
+impact of exclusion in the context of digital identity, and
+specifically within financial services.
+We hope this research will inform the creation of a code of
+conduct designed to help solution providers identify and
+mitigate potential areas of bias and inclusion in product
+design to ensure that the industry is building products that
+work for everybody, not just the select few.
+To conclude, we believe that in order to achieve the full
+potential of digital identity systems, inclusion requirements
+must be specifically and explicitly mandated for within any
+regulation or legislation, and also, that they must be measured
+on an ongoing basis. There are a number of examples within my
+written testimony where I describe how this is being done
+elsewhere, and I strongly believe in the benefit of sharing
+best practices and lessons learned with other industry bodies
+and consumer advocacy groups to ensure that we are delivering
+systems that enable all citizens equally.
+Thank you very much for your time, and I look forward to
+your questions.
+[The prepared statement of Dr. Maynard-Atem can be found on
+page 80 of the appendix.]
+Chairman Foster. Thank you, Dr. Maynard-Atem.
+Professor Renieris, you are now recognized for 5 minutes to
+give an oral presentation of your testimony.
+
+STATEMENT OF ELIZABETH M. RENIERIS, PROFESSOR OF THE PRACTICE &
+FOUNDING DIRECTOR, NOTRE DAME-IBM TECHNOLOGY ETHICS LAB,
+UNIVERSITY OF NOTRE DAME
+
+Ms. Renieris. Thank you, Chairman Foster, Ranking Member
+Gonzalez, and members of the task force for the opportunity to
+testify before you.
+My name is Elizabeth Renieris. I am a professor of the
+practice and founding director of the Notre Dame-IBM Technology
+Ethics Lab at the University of Notre Dame, a technology and
+human rights fellow at the Harvard Kennedy School, and a fellow
+at Stanford's Digital Civil Society Lab. My research is focused
+on cross-border data governance frameworks and the ethical and
+human rights implications of digital identity systems,
+artificial intelligence, and blockchain and distributed ledger
+technologies.
+I am testifying in my personal capacity, and my views do
+not necessarily reflect those of any organizations with which I
+am affiliated.
+I began my legal career as an attorney, working on
+cybersecurity policy at the Department of Homeland Security,
+and went on to practice as a data protection and privacy lawyer
+on 3 continents. As a consultant, I have had the opportunity to
+advise the World Bank, the UK Parliament, the European
+Commission, and others on data protection, blockchain, AI, and
+digital identity, and I am grateful for the opportunity to
+participate in this hearing on this important topic today.
+As laid bare by the COVID-19 pandemic, we increasingly
+depend on digital tools and services for work, school,
+healthcare, banking, government services, and nearly all
+aspects of our lives. And unlike when we interact or transact
+in person, we have limited visibility into who or what is on
+the other end of a digital interaction or transaction.
+Even before the pandemic, vulnerabilities in digital
+identity systems contributed to a tax on our energy supply,
+hospitals, financial institutions, and other critical
+infrastructure. As these sectors are digitized, automated, and
+algorithmically and computationally manipulated, they
+increasingly depend on a secure digital identity. As we evolve
+into a world with the internet in everything, with all manner
+of internet of things (IoT) devices, sensors, network
+technologies, and other connected systems, the digital is
+becoming the built environment. Without secure, reliable, and
+trustworthy digital identity for people, entities, and things,
+this new cyber-physical reality is increasingly vulnerable to
+attacks, threatening individual safety and national security.
+Digital identity is becoming critical infrastructure. As
+dominant technology companies pursue new revenue streams of
+healthcare, education, financial services, and more, privately
+owned and operated ID systems with profit-maximizing business
+models may threaten the privacy, security, and other
+fundamental rights of individuals and communities. Often, they
+also incorporate new and advanced technologies such as AI,
+machine learning, blockchain, and advanced biometrics that are
+not well-understood and not subject to sufficiently clear legal
+or governance frameworks.
+In order to engender trust, safety, and security with
+digital ecosystems, we need trustworthy, safe, and security
+digital identity. And in order to engender trust, safety, and
+security in our society, we need to deploy it ethically and
+responsibly.
+Recognizing the growing importance of digital identity as
+critical infrastructure, and seeking to reign in the private
+control over it, governments in the European Union, Canada, New
+Zealand, and elsewhere are prioritizing efforts to design and
+build the infrastructure needed to support robust digital
+identity.
+For example, the European Commission is working on a
+universally-accepted public electronic identity, or eID,
+including as an alternative to privacy-invasive solutions such
+as log-in with Facebook or Google. Even as we have hundreds of
+frameworks for ethical AI, we lack any specific to digital
+identity. To remain competitive globally, avoid enclosure of
+the public sphere through privatized identity schemes, and
+protect the civil and human rights of Americans, the Federal
+Government must take the lead in shaping the technical,
+commercial, legal, and ethical standards for the design,
+development, and deployment of these systems as critical
+infrastructure. And the Improving Digital Identity Act is a
+good first step in that direction.
+Such standards must not only include best practices with
+respect to the privacy and security of data, but also measures
+for fairness, transparency, and accountability on the part of
+entities designing and deploying the technology, strong
+enforcement and oversight, and adequate remedies of redress for
+the people impacted.
+They must also address power asymmetries, the risks of
+exclusion and discrimination, and the specific challenges
+associated with the use of blockchain, AI, and other emerging
+technologies. We must avoid building digital ID systems and
+infrastructure in a way that would further expand and entrench
+the surveillance state, as do the national identity systems in
+India or China.
+When we move through the physical world today, we are
+rarely asked to identify ourselves. But as everything
+increasingly has a digital component, and as the market for
+digital ID grows, we are at risk of flipping that paradigm. To
+avoid the erosion of privacy through persistent and ubiquitous
+identification, we will also need guardrails around the use of
+these systems, including when and why identity can be required.
+If we are not careful, we might go from identity as the
+exception to identity as the rule.
+To summarize my recommendations for Congress, we must
+recognize that digital identity is critical infrastructure. The
+Federal Government must lead to create standards for safe,
+secure, and trustworthy ID. Those standards must address
+specific challenges associated with new and emerging
+technologies and ensure public option. And, finally, we need
+guardrails around the use of ID to avoid ID becoming an enabler
+of surveillance and control.
+Thank you again for the opportunity. I look forward to your
+questions.
+[The prepared statement of Professor Renieris can be found
+on page 85 of the appendix,]
+Chairman Foster. Thank you, Professor. And your timing was
+accurate to the second. So, my compliments on that as well.
+Mr. Fredung, you are now recognized for 5 minutes to give
+an oral presentation of your testimony.
+
+STATEMENT OF VICTOR FREDUNG, CHIEF EXECUTIVE OFFICER, SHUFTI
+PRO
+
+Mr. Fredung. Thank you, Chairman Foster, Ranking Member
+Gonzalez, and distinguished members of the task force. I am
+excited to be here, and thank you for inviting me to testify
+before you today on this very important topic.
+My name is Victor Fredung, and I am the cofounder and CEO
+of Shufti Pro. Shufti Pro is an identification and compliance
+platform that provides services to government agencies and
+companies throughout the world.
+Our service is primarily focused on identification, or what
+is more commonly referred to as Know Your Customer (KYC), and
+relies on using automated technology such as artificial
+intelligence and machine learning, and has successfully been
+used by companies from all corners of the world to not only
+verify customers' ID documents, but also verify that the
+customer is truly who they say they are.
+When it comes to identification, most clients utilize our
+services that combine document verification, face verification,
+liner check, and optical character recognition, to give
+accuracy above 99 percent, and to give businesses the assurance
+that they are taking the appropriate steps to verify their
+customers.
+In addition, we offer what we refer to as a configurable
+approach to verification flow, and by, ``configurable,'' we
+mean that we allow the clients to fill out their own
+verification services and decide on a setting as to how a
+particular verification should be performed. This is crucial
+for businesses to comply with different regulatory requirements
+and configurations that look different throughout the world.
+I think we can all agree that the timing of this particular
+subject is entirely in line. During the pandemic, we witnessed
+the world turning towards digitalization and relying more and
+more on the use of the internet for everyday tasks. The
+problem, however, was that all were not equally competitive.
+I would like to discuss a couple of topics with you today,
+the first involving how AI can help enhance verification of
+customers. To give you background, we started our journey back
+in 2017, when most businesses relied on using either a hybrid
+or a manual approach to verifying customers. A hybrid approach
+includes, for the most part, a physical person taking a look at
+an ID document and a selfie to verify if it was the person or
+not.
+The problem with this approach is that, first, it is not
+scalable. Second, it is also very time-consuming, and then
+costly for the client using the service. So what we did was
+begin by using artificial intelligence and machine learning to
+help protect security interests that can be found on different
+ID documents, for example, microprinting, sonograms, or even
+the placement of the text.
+We also saw that some customers might try to tamper with
+portions of the document, perhaps changing their date of birth
+or their nationality. So, we developed our anti-spoofing
+technology that also combines text detection, hologram
+verification, and line effect to accurately verify the customer
+is who they say they are and that they aren't trying to fake
+their identity. And by experimenting with the usage of
+automated technology, we not only saw that verifications could
+be processed at a much faster pace, we also saw that capturing
+the identity increased significantly since sophisticated forces
+can change security features that would bypass you and I.
+The second topic I would like to address today is in regard
+to data privacy and how end users can feel secure when
+providing their identity. As we all know, data breaches happen
+to some of the world's biggest companies, and it is usually not
+the business that suffers the most, it is the end users who get
+their identities compromised. There are, however, different
+ways to try and solve this, for example, by utilizing on-device
+verifications when not only the data is transmitted elsewhere.
+Another example would be that the providers for the clients do
+not store any sensitive data involved with the customers. They
+simply have a specific confirmation that the customer was
+successfully verified by the appropriate standards and, after
+that, all of the data is erased. Here it is unfortunately
+usually a problem, since most frameworks require the data to be
+kept for X amount of years.
+There are also ongoing discussions and experiments as to
+how to name the blockchain as part of the data sharing, as well
+as the storage of the customers' data, and how to allow
+customers to reuse already-proven identities. This is, however,
+in prototype status at the moment, but it's definitely
+something to develop in the future.
+The last topic I would like to mention is our research into
+the many different kinds of identity frameworks and the
+documents that can be combined from across the world. Using the
+United States as an example, we see different requirements and
+obligations from different sectors, in addition to each State
+having its own unique set of ID documents. They do not yet
+follow the universal framework when it comes to the security
+features on the documents. This issue presents a problem for a
+lot of companies, not only in the United States, but all over
+the world, where requirements, documents, and settings
+differentiate and no universal framework is applicable.
+We strongly applaud the REAL ID Act and the minimum
+security standards it establishes, and will strongly suggest
+continued pursuit of a universal framework that each State
+needs to follow when it comes to the selection of ID documents,
+and the unified requirement when it comes to what information
+needs to be verified and how verification should be performed
+in those States.
+I also support Chairman Foster's and Congressman
+Loudermilk's Improving Digital Identity Act and its purpose of
+modernizing the ID infrastructure.
+Thank you for inviting me to testify today, and I look
+forward to your questions.
+[The prepared statement of Mr. Fredung can be found on page
+36 of the appendix.]
+Chairman Foster. Thank you.
+And I will now recognize myself for 5 minutes for
+questions.
+Just to give an initial idea of what scope of improvement
+we might be able to see if we have widespread use of high-
+quality mobile ID, if you look at the large, high-profile hacks
+that have happened, that have hit the headlines, the Colonial
+Pipeline, the DCCC hack of a few years back, what fraction of
+these would be largely eliminated if we had widespread use of a
+mobile ID second-factor authentication instead of just
+passwords?
+Mr. Grant. I am happy to jump in, if I can.
+I think it is an anomaly these days when a major incident
+happens and identity is not the attack vector, although I want
+to just differentiate--when we talk identity, to me, we are
+talking about two things: identity proofing, what you are doing
+when you are opening an account; and authentication, how you
+log in after you have already opened an account.
+I think a lot of the fraud we have seen in unemployment
+systems has been taking advantage of the identity proofing
+challenge. How do you prove you are really Bill Foster for the
+first time, and which Bill Foster, given that there are
+probably several thousand of you? There, we basically saw
+stolen data used to cut through whatever protections a lot of
+States had in place, or in some cases, they had none at all, to
+steal billions of dollars.
+With regard to some of the other breaches that we have
+seen, Colonial Pipeline, some things with ransomware, there it
+is much more focused on authentication, how you compromise a
+password, or even, in some cases, compromise some first-
+generation forms of multifactor authentication, like ones that
+are based on a code that is texted to you that is now phishable
+as well.
+I think, overall, with both identity proofing and
+authentication, we have big problems. If we could close both of
+those gaps, you really start to raise the cost of the tax for a
+lot of criminals and make it much harder for them to do the
+things that they have been doing.
+Chairman Foster. Okay. One of the things that I think many
+of you have mentioned in your testimony was how COVID has sort
+of changed the profile of identity and the need, the fact that
+we are moving more and more online. It is becoming more
+important.
+The other thing that has happened is that there is real
+bipartisan agreement that we have to get a broadband connection
+to essentially all Americans, and that there is a real Federal
+role in subsidizing that. I think that at last count, the
+Republican talking number was $65 billion that should be
+dedicated to this. The Democrat counteroffer was $100 billion.
+But if we end up anywhere in between those two numbers, we are
+going to have a real step forward in closing the digital divide
+and getting at least a low-end digital device in the hands of
+all Americans and a broadband account.
+And so, given that, how would you then piggyback products,
+for example, digital driver's licenses or other ways? How do we
+get this, so that it is the second part of provisioning a
+broadband and digital identity to people? Anyone who wishes to
+answer that.
+Mr. Kelts. Yes, I think that access to broadband, that
+access to connectivity and phones will help to increase
+accessibility to everyone, and I would say, to the same level
+of accessibility as getting an ID card that you currently have,
+and being able to use that.
+The technology in mDL, I will speak specifically about
+that, is geared to use on really any phone, because there are
+multiple ways that you can interact with that for in-person,
+and we expect we can cover the vast majority of phones that are
+out there, provided they have either a screen or NFC or
+something that allows for the transmission. So, I think that
+would be a huge step towards accessibility for everyone on
+mobile identities.
+Chairman Foster. And when we do this, how do we make sure
+that the equity issues are addressed properly? Why don't we let
+the Ph.D. material scientists weigh in on this. They seem to be
+very interested and involved in this set of issues.
+Ms. Maynard-Atem. I think as soon as you start to drive
+access for everybody, then there are lots of solutions you can
+put in place. If we are establishing a baseline of, everyone
+has access to some kind of device, then I think that really
+levels the playing field. It is not saying, everyone needs to
+have a smartphone. It is just saying, everyone needs to have
+access to something. I think that is a big hurdle.
+Certainly in the UK, we are going at it from a vouching
+standpoint. So if you don't have access, you can say someone
+says, ``you are you,'' and we can take that as standard. But if
+there is an ability to provide everybody with some kind of
+technology so that they can use these services, then I think
+that really moves the accessibility debate really far forward.
+Chairman Foster. And you mentioned, I think, in your
+testimony, the eID effort in the EU. Is that correct?
+Oops, I am out of time here. Okay.
+Let's see. For Members who are interested, if there is
+time, we are probably going to be able to have time for a
+second round. And if that fails, we will continue our tradition
+of, at the end of the formal part of the hearing, I will gavel
+it closed, and we can just sit around and talk, sort of the
+Zoom equivalent of just hanging around in the anteroom and
+talking with our witnesses, which is often the most valuable
+part of a hearing.
+I will now recognize the ranking member of the task force,
+Mr. Gonzalez of Ohio, for 5 minutes.
+Mr. Gonzalez of Ohio. Thank you, Mr. Chairman, for holding
+this hearing and for our great witnesses here today.
+Before I get started, I ask for unanimous consent to add to
+the record a letter from the National Association of
+Convenience Stores, please.
+Chairman Foster. Without objection, it is so ordered.
+Mr. Gonzalez of Ohio. Thank you.
+Mr. Grant, I want to start with you. It is good to see you,
+and I look forward to reconnecting down the road.
+As we were talking yesterday a bit offline, I told you I am
+excited to support Chairman Foster's Improving Digital Identity
+Act. I think it is a step in the right direction for sure.
+My question is, beyond the Improving Digital Identity Act,
+what additional areas should this committee be focused on from
+a legislative standpoint, with respect to digital ID?
+Mr. Grant. Thank you for the question, Congressman. It's
+good to see you again.
+I would say the Foster bill is a great place to start in
+that it finally starts to pull together what I would call a
+whole-of-government approach to looking at this issue. And one
+of the challenges I think we have in the U.S. is that we have
+nationally-recognized authoritative identity systems, but they
+are split between the Federal, State, and local levels. I got
+my birth certificate from the county I was born in. The State
+DMV gives me my driver's license. And I have a passport from
+the U.S. State Department.
+And what is great about that bill is it starts to take a
+look at, how do you take a consistent standards-based approach
+so that any American could ask any of those entities to vouch
+for them when they are trying to prove who they are online? And
+as I mentioned in my opening statement, NIST also has set a
+high bar for security and privacy.
+I think the big question that is going to come beyond that
+is going to be how to fund some of that, particularly in the
+States where--I know that David Kelts talked a little about the
+work he is doing with mobile driver's licenses. I think there
+is a concern that while there is a handful of States doing
+things there now, if we are not going to actually invest
+dollars in trying to jump-start that activity in the States,
+that it might be, say, 15 years before we start to get to
+critical mass of people having some digital corollary to their
+paper documents, and that is going to be a real issue. And I
+think the infrastructure bill that is being negotiated, as
+Chairman Foster pointed out, could be a great place to put some
+money in to help accelerate that.
+I think beyond that, the more AI is going to be used, there
+are probably going to be more questions to be asked. And this
+task force is obviously going to be a great place to evaluate
+some of those considerations.
+Mr. Gonzalez of Ohio. Great.
+Ms. Renieris, same question for you. I am not sure if you
+are familiar with the legislation, but just areas beyond that
+it we should be considering at the committee level to foster
+greater adoption of digital ID.
+Ms. Renieris. Sure. Thank you for the question.
+I would say first on the legislation in particular, I would
+just like to point out one red flag that I am concerned about,
+which is a reliance on consumer consent. As we have been having
+conversations around State and Federal privacy legislation, I
+think there is growing awareness around some of the limitations
+on consent-based frameworks in this context. So, in going
+forward, it might be worth reconsidering sort of the basis for
+some of the personal data processing involved in these identity
+systems.
+Separate and apart from that, really I think a lot of this
+is the question of the underlying infrastructure in other
+sectors. For example, even if you had a really robust whole-of-
+government approach, and created sufficient privacy and
+security technical standards through NIST or otherwise, you
+would still have a problem, for example, if our healthcare
+infrastructure can't ingest those standards or those
+technologies.
+So, we really have to think about other upgrades across the
+infrastructure in other sectors in order for digital ID to be
+woven in and layered on top.
+And I think the third thing is really something that has
+already been pointed out around mandating inclusion in the
+conversation. I think, as we have expressed in our testimonies,
+and as we have seen in the field, there can be a real lack of
+diversity in these conversations. And so in addition to the
+interagency kind of diversity, I think the diversity of
+expertise and voices at the table is really critical.
+Mr. Gonzalez of Ohio. Thank you.
+And then, Mr. Kelts, with the pilot program in Utah, what
+are you learning? And I am looking for sort of barriers, things
+that have been difficult, that this committee should have on
+our minds as that program has unfolded.
+Mr. Kelts. I think that the demands we have seen from
+consumers has been larger than expected, which has been great.
+We are very early in the pilot program and positioning people.
+That is a key thing. And as well, the demand from business, the
+ability for the State Government to engage businesses along the
+whole process right from the beginning of the RFP process, and
+to engage those stakeholders has been a huge advantage for
+making this work in Utah.
+Mr. Gonzalez of Ohio. Good. I see I am out of time.
+I yield back, Mr. Chairman.
+Chairman Foster. Thank you.
+The Chair will now recognize the Chair of the full
+Financial Services Committee, the gentlewoman from California,
+Chairwoman Waters, for 5 minutes of questions.
+Chairwoman Waters. Thank you very much. I am on now.
+First of all, Mr. Foster, I want to thank you for the
+attention that you have paid to this identification issue, and
+the work that you are doing that is so important.
+I would like to ask Dr. Maynard-Atem a question, and if
+this has been answered already, then I won't proceed with it
+and I can talk about it with you later on. It is about the use
+of artificial intelligence, of course, for individual
+identification that has raised concerns about algorithms of
+bias.
+As you know, smartphone authentication can employ voice or
+facial recognition technologies, but these technologies have
+been shown to exhibit bias against women and minorities. In
+fact, researchers have found that facial recognition
+technologies falsely identified Black and Asian faces 10 to 100
+times more than White ones, and falsely identified women more
+than they did men.
+Do you have any concerns that a digital identity system
+could also exhibit this kind of bias? If so, what steps need to
+be taken to eliminate this bias?
+Ms. Maynard-Atem. Absolutely. Thank you for that question.
+I think there is always the risk that if you are starting
+to introduce emerging technologies, emerged technologies like
+artificial intelligence and machine learning, you run the risk
+of bias creeping in, depending on the way that those systems
+have been built, and the data those systems have been tested
+upon. I think a lot of the issues arise from very homogenous
+test data being used to actually test these systems. So, when
+they are learning how to recognize faces, they are tested and
+trained on a very homogeneous data set which might be all male,
+it might be majority-male, or it might be a majority of people
+of one particular race.
+And I think the way that we sort of overcorrect for that is
+by ensuring that the data that we are using to build
+algorithms, to build these things that detect facial
+characteristics of men and women and races of all colors, to
+make sure that test data is as diverse as the population that
+the system is going to serve. We need to make sure that we are
+equally representing all genders and all races in all of that
+test data, so the algorithms actually learn to recognize
+everybody equally rather than situations we have had
+previously, where they have led specifically to recognize one
+person or one type of person at the detriment potentially of
+others.
+Chairwoman Waters. What you are describing is precisely
+what was discovered a long time ago with medicine and the lack
+of diversity in the testing that has not led to the ability to
+deal with some of the problems that we have found in minority
+communities, Black communities in particular. And so, you do
+think that this is an important part of moving forward with any
+identification, absolutely having the kind of diversity and the
+testing that will bring us the results that we need.
+I don't know if this is a good question or not, but I think
+we have improved the testing in medicine, and particularly with
+certain diseases where they had to work hard to get minorities
+in the testing programs. But do you know whether or not it is
+proven that this has really taken place with medicine, and that
+the corrections have been made, and they have been able to
+advance the pharmaceutical products based on the testing that
+was done, because they know what is needed in a particular
+minority group? Do you know anything about that?
+Ms. Maynard-Atem. I don't know specifically whether or not
+it has been proven that it has been done, but I think the key
+point here is that, like I said in my testimony, these things,
+inclusion, calling out bias, don't just happen on their own,
+and I think that they need to be mandated. I think we need to
+call out specifically in legislation that you have to test for
+these things. You have to test for bias, and you have to make
+sure that people are included, and you have to test that on an
+ongoing basis. This can't just be something that you do once
+and then put it on the shelf and never address again. You have
+to test. In the UK, it is proposed that it is being done on an
+annual basis for digital identity systems. We need to be
+testing and retesting to ensure that any bias that does exist
+in systems is called out, is explained, and then action plans
+are put in place to make sure that exclusionary technique or
+system doesn't then persist going forward.
+Chairwoman Waters. Thank you very much. I appreciate that
+information. And I will follow up with my colleague, Mr.
+Foster, and you, as we move forward with this whole issue.
+Thank you.
+I yield back the balance of my time.
+Chairman Foster. Thank you.
+The Chair will now recognize our colleague from North
+Carolina, Mr. Budd, for 5 minutes.
+Mr. Budd. I thank the Chair, and I also want to thank the
+witnesses for being here today. It is a very insightful
+hearing.
+Mr. Fredung, I want to direct my questions to you this
+morning in the brief time we have. With the continued growth in
+the expanding use of cryptocurrencies, we have seen an
+increased rollout by exchanges becoming compliant with anti-
+money laundering. How are these Know Your Customer programs
+performing compared to traditional finance counterparts?
+Mr. Fredung. First of all, thank you, Congressman, for that
+question.
+As we all know, cryptocurrency is getting more and more use
+in the world, not only for investment opportunities but also
+for everyday tasks. When it comes to the legislation and
+capturing the criminals as well, we do see it happening with a
+few different changes here and there as well. Unfortunately,
+the problem we have seen in the space at this moment is there
+is not really too much legislation when it comes to
+cryptocurrency and changes.
+As an example, here in Europe we have the Stony licensing.
+We also have it in the United Kingdom, which has just started
+issuing different licenses where, if you selected a client,
+this is a problem we have seen in the space that there needs to
+be an easier way for different businesses that operate the
+cryptocurrency exchange to become licensed, and essentially
+offering customers to buy cryptocurrencies from them.
+I would like to bring up here as well that I do believe
+Shing (ph) analysis company spoke in one of the previous
+hearings as well where they also discussed, in other words, to
+the bad actors of the use in cryptocurrency. And I think they
+also mentioned it was a number of around 0.4 percent which is a
+decrease from previous years as well.
+But as the world is becoming more adapted towards
+cryptocurrency, I believe the technology providers are also
+facilitating the identification and verification of customers,
+and there are plenty of good tools available to help them
+protect against illegal crypto transactions, alongside a strict
+company process. So I would say most businesses pretty much
+have a good defense at the moment to be able to use the space.
+Mr. Budd. Very good. Thank you for that.
+So as technology continues to advance and as we look for
+new ways to identify consumers without jeopardizing their data,
+which is key, how could we utilize the blockchain as a tool for
+digital identity verification?
+And that will also be for you.
+Mr. Fredung. Usually, the blockchain for security purposes
+is very interesting, and as mentioned, definitely something to
+look out for in the future, and by enabling the usage of
+blockchain, it helps a lot of the issues which are key, such as
+unauthorized access to customer data, which is a secure way of
+transmitting user data, as well as having a better user
+experience as well. Yes, I think we can all understand that for
+a customer to set a goal for verification process over and over
+again, it is not really a user-seamless experience.
+In addition to the data privacy area, there are other
+approaches using blockchain as well. There could also be
+essentially using one device verification where normally the
+data is transmitted elsewhere as well.
+Mr. Budd. Financial institutions are subject to a patchwork
+of statements, data, security, and breach identification laws
+here in the U.S., State by State. So, in addition to Federal
+regulations that we saw in the Gramm-Leach-Bliley Act years
+ago, there is no Federal standard for data security for
+nonfinancial institutions that handle consumer data. What
+regulatory improvements would you suggest?
+And that is also for you.
+Mr. Fredung. When it comes to improvements in the
+regulatory frameworks, there are a few different selections
+that I would like to bring forward, the first one being a
+universal framework and requirements and security standards
+online.
+The second one would be an update to the existing ID
+documents issued by the States, by modernizing the security
+features located on documents, making it harder for fraudsters
+to try and tamper with information.
+Maybe, in addition, also requiring a line check to be
+performed. This is something that we do see, but it is not a
+requirement in all of the different frameworks that we come
+across. This is essentially a great tool to defend against the
+easier troll attempts.
+Apart from that, we do heavily conduct research in regard
+to these matters and we would be delighted to share that with
+the office that is requesting this as well.
+Mr. Budd. I really appreciate that.
+That is all of the questions I have. I appreciate your
+generosity with your time, and also the whole panel.
+I yield back to the Chair.
+Chairman Foster. Thank you.
+And the Chair will now recognize my colleague from
+Illinois, Mr. Casten, for 5 minutes.
+Mr. Casten. Thank you so much, and I really want to thank
+you for holding this hearing. You have been leading on this for
+a long time, Chairman Foster, and we wouldn't be doing this but
+for your leadership and, my goodness, it is obvious that we
+need to be doing this. So thank you.
+I want to direct my questions to Ms. Renieris. The first
+is, over the last couple of years, there has been talk of--I
+think both Google and Apple have talked about introducing a
+digital driver's license, a digitization of your driver's
+license on the mobile apps. Do you have any ethical concerns
+with, essentially, a private digital ID, supplanting a
+government-managed digital ID?
+Ms. Renieris. Thank you very much for the question,
+Congressman.
+This is an issue I alluded to in my testimony, and I go
+into more depth in my written testimony. What Apple and Google
+have basically done is created the digital wallet
+infrastructure to host a digitized version of your government-
+issued driver's license, or your analogue physical ID at this
+point. It is quite telling that what they have created is not
+necessarily a digitally native ID, but, rather, a digital
+version of those artifacts that we are all used to, and I think
+that is an important distinction.
+It is true that they have very sophisticated capabilities
+now embedded into smartphones, including improved secure
+enclaves and other technologies, localized machine learning and
+data processing, that improve some of the data security and
+privacy aspects of the mobile digital wallet and the
+credentials stored therein.
+But there are serious ethical, and also privacy concerns I
+have going beyond the data itself. Specifically, I have
+concerns around incentives and business models. What we have
+seen over and over again is that a lot of the business models
+and sort of commercial incentives around the products and
+services provided by some of the companies you mentioned,
+including Apple and Google, are not necessarily business models
+that support civic interests and the values that we are really
+concerned about, and they actually very often cut against
+those.
+For example, with the Apple ID, we don't yet know exactly
+what the business model is. However, it is basically the same
+technology as Apple Pay, which we know has transaction fees
+associated with it for different players in the ecosystem. So,
+you can start to see how, depending on the business model and
+the commercial incentives, this could create perverse
+incentives for the use of ID, perhaps in contexts where it is
+not necessary or it didn't exist before.
+I also have concerns about the ease of use. The easier and
+sleeker these credentials are, it feels like it's not a big
+deal. We start to normalize things like biometrics. We start to
+normalize presenting our ID in contexts where perhaps it
+shouldn't be appropriate or required.
+So, I think there are concerns that go beyond the data.
+When we just think about the security and privacy of data, we
+lose sight of the security and privacy of people, and those are
+two very different things and the technology designing and
+building these systems has a very narrow definition of privacy,
+which is really a technical mathematical view of it.
+We have to sort of resituate identity in the context of
+this socio-technical system that it is, in the context of
+culture and law and economics and all of these other things to
+think about what the true impact will be on people, rather than
+looking at a specific tool or a specific technology.
+Mr. Casten. Thank you for that. This is a question that
+obviously gets beyond digital ID and, of course, spans every
+committee in Congress, but because we are on the Financial
+Services Committee, we spend a lot of time and we have crafted
+a lot of regulations around, what happens if I give my money to
+someone who is a custodian of that money, and we have developed
+fiduciary rules of looking out for the best interests of that
+money, and arguably our data is a link to our money and a lot
+more, as you point out. There have been some people who have
+talked about, should we create a fiduciary rule that applies to
+people who hold our data?
+I am curious if you have heard any of those proposals, if
+you are familiar with them, and if you have any thoughts on
+that as a possible way through some of this morass. Should the
+private sector get ahead of us? Because once people turn the
+data over, you can't put the genie back in the bottle, I don't
+think. So, your thoughts on a fiduciary rule for data?
+Ms. Renieris. I think that certain fiduciary duties of
+confidentiality and loyalties and others associated with
+entities for processing and restoring data can make sense. I
+think it is sort of a small piece of a much more comprehensive
+approach that we need. Obviously, it's an approach that, at the
+moment, is very disjointed across State and Federal proposals.
+I do think that we need to think about what is the
+underlying and legal infrastructure that we have in terms of
+privacy and data security and data protection. But, again,
+those are just sort of one piece of a more comprehensive
+framework that we need. We may also need to think about
+identity-specific data-related government frameworks, for
+example, the culmination of data privacy and digital identity
+infrastructure and pointing out kind of areas where those
+frameworks overlap and where they diverge and try to reconcile
+them. But they are a big piece of this.
+Mr. Casten. Thank you so much, and I yield back.
+Chairman Foster. Thank you. And we will now recognize our
+colleague from Texas, Mr. Taylor, for 5 minutes.
+Mr. Taylor. Thank you, Mr. Chairman. I appreciate this
+hearing. I think this is an important topic. Mr. Grant, in your
+written testimony, you mentioned theft from unemployment
+programs. I have talked to some of my colleagues who were
+pretty mortified by the billions and billions of dollars that
+were stolen because of unfortunate loopholes in the
+administration of those programs. And I realize that digital ID
+is a component of fighting against that fraud. How do you see
+AI working with existing frameworks on a way to combat fraud in
+unemployment insurance?
+Mr. Grant. I think the way I look at it, there is both a--
+how would I say it? When I look at solving identity, identity
+is one part of broader fraud reduction and handling risk there.
+And I think solving this issue presents a couple of different
+dimensions where, even outside of the things that you might be
+doing on identity for verification, you might have AI, running
+broader fraud prevention systems, to be looking at some
+different signals.
+Now, I will say, my take is probably two-thirds to three
+quarters of those are going to be identity-related in terms of,
+are you able to, say, sniff out how somebody is potentially
+using stolen data, or see something about the device they are
+logging in on that is exhibiting signs that might be about
+entering the data rather than an individual? I think a lot of
+it is going to come to identity at the end of day. But there is
+certainly, I think, broader places we are seeing a lot of these
+same companies in this space look at things that touch other
+elements beyond individual identity.
+Mr. Taylor. And just to my colleagues, I will be trying to
+work on getting AI language into some of the appropriations to
+try and prevent fraud. I think that is something that we should
+begin to look at and start to think about. And, obviously,
+being the AI Task Force, it is a germane topically to what we
+do.
+Shifting over, Professor Renieris, just to ask you a
+question about identity technology gone wrong, and obviously, I
+think it is really important, what Chairman Foster said at the
+beginning is that we want to have an identity system which
+really is consistent with our values as Americans: protecting
+identity; and protecting information.
+I kind of think about China and how the Chinese Communist
+Party's control of digital payments is able to control people's
+movements, and to stop people who are not in favor of the
+Chinese Communist Party from being able to buy a plane ticket,
+and if they are really not in favor, not even to buy a train
+ticket, or ride a bus.
+And so, I am thinking about the technology, in my mind,
+being abused to really suppress people in a way that is
+Orwellian. Can you give us examples of other ways that identity
+technology has gone wrong, not necessarily in this country, but
+in other countries?
+Ms. Renieris. Thank you for the question, Congressman.
+There are many examples. I think one of the most important
+things to point out is that in a lot of other countries, the
+digital identity systems are basically mandated national ID
+schemes that are tied to civil registration and vital
+statistics. So, if you can't obtain a digital identity in those
+countries, you are effectively locked out of life. There is
+basically nothing you can do, and you don't exist. And so, I
+think that is the broad-level risk.
+The second layer of that is that in a lot of countries,
+what we have seen with digital ID schemes gone wrong, is they
+tried to integrate--they basically used a single identifier,
+for example, the Aadhaar number in India. And that single
+identifier is able to track your activity across all facets of
+your life, from employment, to healthcare, school, and pretty
+much everything you do. So, that is another area where you
+can't retain sort of autonomy over specific domains of your
+life, for example, you can't separate your personal and
+professional reputation. And you can't have this kind of
+contextualized personal identity. So, I think that is also
+really problematic. It is also problematic from the standpoint
+of data security. If it can compromise your number, you have
+concerns around that.
+I think going back to the point about inclusion, a lot of
+these systems were designed without thinking outside of the
+technology. So, for example, there are countries where women
+are disproportionately less connected and don't have access to
+things like mobile devices. And in those countries where
+digital identity is now through a mobile device, they are
+basically at the mercy of a partner or someone else to exist
+and to operate in that country.
+Again, a reason to look beyond mutual privacy and security
+of data and the specific parameters of the technology and think
+about how they operate in a national context. I go into more
+detail in my written testimony.
+Mr. Taylor. Thank you for that answer.
+Mr. Chairman, I yield back.
+Chairman Foster. Thank you. The Chair now recognizes our
+colleague from North Carolina, Ms. Adams, for 5 minutes.
+Ms. Adams. Thank you very much, Chairman Foster, Ranking
+Member Gonzalez, and also Chairwoman Waters for holding this
+hearing. And to the witnesses, thank you for your testimony as
+well.
+Bias in AI algorithms is a common and widespread concern as
+the technology has become more entrenched in our daily lives.
+And I recall distinctly a few years back, when facial
+recognition software falsely identified my late Congressional
+Black Caucus colleague, John Lewis, as a criminal. This very
+real problem that biased AI is having real-world impacts does
+deserve our scrutiny. So, I am glad that we are having these
+discussions.
+And that is why I fought successfully to include language
+in our annual appropriations package that asks the National
+Science Foundation to partner with NGOs and academic
+institutions to study algorithmic bias more intently.
+Professor Renieris, in your testimony, you noted that
+mistakes in AI ID verification can have significant
+consequences. So, how can we stop the digital identity process
+from becoming overly reliant on potentially-flawed AI
+algorithms? And what role should the Federal Government and
+State Governments play in the distribution of digital identity?
+Ms. Renieris. Thank you for the question, Congresswoman. I
+think this is one of the most important questions and most
+important conversations to have around digital identity. Going
+back to Dr. Maynard-Atem's comments about the quality of data,
+I think, of course, that is a really important consideration.
+And I actually do think that we are making progress there.
+Parties who are designing these systems are more cognizant of
+the need for the data sets to reflect the populations that
+these systems will operate in.
+However, I think what we are not looking at this closely is
+who is designing and building these technologies in the first
+place. Regardless of how good underlying data is, risks are not
+going to be identified by people if we only have homogeneous
+teams building these things, because they can only perceive the
+risk that they have been exposed to or that they understand.
+The people building these things need to spot these risks
+in advance and be able to flag them, mitigate them, and build
+them into the design of the technology. So, there are certainly
+concerns around bias in the algorithms, but there are concerns
+in all of the different components of this that flows
+throughout.
+Earlier, we talked about different kinds of biometrics,
+like face and voice, which we know are subject to both gender
+and racial bias. But, increasingly, the future is looking into
+things like behavioral biometrics, which are essentially
+profiling technologies. Those are also going to raise concerns
+about equity discrimination, privacy, and inclusion.
+I think again, to make this sustainable and sort of
+forward-looking, the bad actors are always going to be able to
+outsmart the sort of state-of-the-art of the technology. So,
+the only way to get ahead of this is to think about how these
+technologies operate broadly in these socio-technical systems.
+But you are absolutely right, that is a primary concern in this
+space. Thank you so much.
+Ms. Adams. Mr. Grant, despite some of the problems we have
+discussed today, there are undoubtedly benefits to employing AI
+to protect consumers. With the increase in data breaches,
+particularly at credit reporting agencies where large amounts
+of personally identifiable information has been exposed, how
+can the AI help with distinguishing between legitimate and
+illegitimate histories of activities to detect or prevent
+digital identity fraud?
+Mr. Grant. Thank you for the question, Congresswoman.
+Before I answer that, I would love piggyback on what Ms.
+Renieris said, in that, I think as we are concerned about bias,
+and I think this plays into your question as well here, so much
+of what we are dealing with in AI are predictive systems that
+are essentially trying to use AI and machine learning to guess
+what at the end of the day, only the government really knows. I
+believe, and I talked about this in my written testimony, that
+one of the best things the government can do would be to
+advance the bill Chairman Foster recently introduced, in that
+it brings in that deterministic layer, what is actually in
+authoritative government identity systems to complement the
+probabilistic layer. And I think that is going to be one way to
+address concerns about bias.
+In terms of how AI is being used more constructively,
+particularly, when we just have terabytes of stolen identity
+data that is now being used to commit identity fraud, I think
+one thing we are seeing is a lot vendors out there when they
+can actually identify, say, what an organized crime ring is
+doing. AI can study how they enter data and then be able to
+analyze that and learn whether it is, what it looks like
+somebody is doing when they are interacting with the device,
+how they are holding it. Some of these things do tap into
+behavioral.
+But if you can start to learn what looks like it might be
+malicious behavior, you can then start to generate alerts that
+might kick some of those applications in a way that if it
+doesn't block it, it at least kicks off a secondary layer of
+examination where you can make a more informed decision.
+Ms. Adams. Thank you, sir. I am out of time. Mr. Chairman,
+I yield back.
+Chairman Foster. Thank you. And we will now recognize our
+colleague from Massachusetts, Mr. Auchincloss, for 5 minutes.
+Mr. Auchincloss. Chairman Foster, thank you for putting
+this hearing together, and I want to echo your comments at the
+beginning of this session complimenting our witnesses for the
+excellence of their written testimony. I thought it was superb.
+We certainly learned a lot. So, I appreciate that.
+Mr. Grant, in your oral testimony, you talk about improving
+the Digital Identity Act. What element of that would be asking
+the National Institute of Standards & Technology to really take
+the lead on setting the protocols and the standards for
+identity proofing, which as you said is sort of the harder
+part, would look like? I want to dig into that a little bit
+with you.
+Could you tell us maybe the three Ws of that: who should be
+involved in that process with NIST; what a good product might
+look like; and when we would be looking for that to be
+accomplished? What kind of timeframe is that going to take?
+Mr. Grant. Sure. I think, just in terms of background,
+Chairman Foster's bill focuses a lot on this. I think it is a
+way to try and address a lot of the concerns we have heard
+about today. In terms of whether it is a public sector or a
+private sector developing some of these systems, how do you
+come up with standards and best practices that can actually set
+a high bar for privacy, for security, for inclusion? I think a
+lot of concerns that people might have about different industry
+solutions or even a government solution running amuck and
+losing sight of the importance of the high bar in all of those
+areas can be accomplished with standards.
+As background for the hearing, I discussed in my written
+testimony that I used to lead the Trusted Identities Group at
+NIST several years ago. NIST has a great way to engage with
+stakeholders, not just nationally, but globally, from across
+the public and private sectors.
+And so, I think a benefit of having NIST lead this is that
+they can, frankly, bring in, whether it is technical experts,
+like David and Louise, or academics like Elizabeth, or
+entrepreneurs like Victor, to all come and provide different
+inputs and then weigh them and synthesize them in a way that
+gets some outcomes that I think might address all of those
+issues.
+I think the, ``what,'' is not just technical standards, but
+it is also the business practices. How do you collect data?
+What recourse do people have? If something goes wrong, how do
+you protect it? Really, what do I need to know beyond just
+following the technical standards?
+And the, ``when,'' NIST has tackled this for the
+cybersecurity framework, the privacy framework. In 12 months,
+it is an elevated or escalated timeframe. My former NIST
+colleagues will probably be frowning at me if they are watching
+this now because it is a lot of work to get done in a year. But
+this is a national crisis. We can get it done.
+Mr. Auchincloss. Professor Renieris, you mentioned identity
+as a socio-technical construction, which I think it is great
+way to frame it. From your perspective, what would you want to
+be seeing from a NIST product that would give you confidence
+that we are architecting government identity proofing in a way
+that is not going to lend itself to abuse, and also to my
+colleague, Mr. Taylor's, point is not going to lend itself to
+an inappropriate amount of government-concentrated power?
+Ms. Renieris. Thank you for the question, Congressman. It
+is an interesting question with regard to NIST. NIST, of
+course, is focused on technical standards. I would say the
+advantage of having NIST lead on this front is that they are
+not subject to some of the perverse incentives I was talking
+about earlier, in that they have a very long and comprehensive
+track record of designing standards in a way with the right
+incentives and considerations in mind.
+That said, I think that it is important within NIST, of
+course, that other experts are consulted, that there are these
+different types of expertise that I mentioned that go beyond
+sort of narrow mathematical, technical, and engineering
+conceptions of these things, which NIST has done before, and in
+their identity guidance has also been very mindful of some of
+those considerations.
+Now, proofing is considered a relatively technical
+exercise. But to Mr. Grant's point, I think the reason it is so
+important is because it is really the gateway to all of this.
+It is a critical first step. And what is really nice about
+that is if we rely on authoritative government-issued
+identities, those are already accounting for some of those
+things that I was talking about, and they are not being
+designed by a computer scientist exclusively.
+They are rooted to real-world socio-technical concepts as
+it is, so they are sort of a good foundation there. And, again,
+this is something I go into a bit more detail in my statement.
+Mr. Auchincloss. I am going to jump in for the last 15
+seconds for Mr. Grant, just because it is a subject of
+conversation. Increasingly, two-factor authentication as a way
+to do identity authentication, basically two orthogonal means
+of identifying itself with a password and then your text
+message or a Google app, or whatever, is that still the best
+standard for identity authentication?
+Mr. Grant. For authentication, yes. There is no such thing
+as a secure password these days. And, in fact, my old
+colleagues at NIST have told you the guidance of uppercase and
+lowercase and symbols and numbers. Even a 64-character password
+can with get phished.
+I think the big challenge these days is that even some two-
+factor--the attackers have caught up with, they can phish the
+SMS codes, they can trick you into handing over the one-time
+pass code. I use the FIDO security key, which is a hardware key
+that can't be phished. I think that is where things need to
+move to is authentication using things like the FIDO standards
+based on public key cryptography.
+Mr. Auchincloss. And I am out of time. So, Mr. Chairman, I
+will yield back.
+Chairman Foster. Thank you. And I guess we have Member
+interest in another round of questions, so I will begin by
+recognizing myself for another 5 minutes.
+As part of the infrastructure package to federally
+subsidize the deployment of mobile IDs in the different States,
+it gives us an opportunity to set our own standards for privacy
+and other important aspects.
+What are the redlines for privacy that we should really
+keep our eye on, and insist have to be present? Ones that get
+mentioned frequently, for example, are no silent interrogation
+of your app, that the user should be aware every time the ID is
+presented.
+Another one that has been encountered is at a traffic stop
+when you are asked to present your digital ID, you do not have
+to turn over your physical cell phone; you simply have some
+form of electronic communication so the law enforcement officer
+doesn't get to paw around your cell phone and see what else
+might be there.
+Is there a good list somewhere? And what should be at the
+top of that list for insisting on from a privacy point of view?
+Mr. Kelts. I think there are very good lists. And in my
+written testimony, I pulled together a number of them that I
+think can be used and represent sort of a diverse cross section
+of what has been looked at so far in privacy.
+I would add to the list that you, that you included,
+Chairman Foster. I would add that one of the most difficult
+things to try to protect against is a surveillance or tracking
+or aggregating data and then sifting through that data to find
+usage patterns.
+So I think the ability to use paralyzed identifiers,
+individual identifiers for each transaction, tokens instead of
+uniform identifiers, and then being able--like enforcing not
+having central repositories to report usage, I think that is
+one of the tougher problems, but absolutely key to enforcing
+privacy for people who are going to use their digital identity
+and their trust in that.
+Chairman Foster. Yes. Do any other witnesses have something
+to add to that?
+Mr. Grant. I would just flag, I think, what is important
+really is to have a process that looks at privacy risk
+holistically. And one of the things when I was at NIST that we
+launched out of the interstate program at the time was the
+Privacy Engineering Program, which was focused on, how do you
+look at sort of a soup to nuts approach of privacy from
+different contexts and identify risks in any system, and then
+come up with technical or policy mitigations to architect
+around them? That led to the NIST Privacy Framework. That was
+something, actually, that the previous Administration had asked
+NIST to do.
+I think one reason I am excited that your legislation would
+have NIST focused here is it is the one place, frankly, in
+government or industry that I have seen that has a
+comprehensive framework that is specifically geared toward
+identity and security systems.
+Beyond that, I think the ability to granularly release
+certain data about yourself without others--when I look at how
+many copies of my driver's license might be online, especially
+over the last year, it is not really important for a lot of
+those entities to know everything about me. They might just
+need to know that I am over 21 if I was ordering whiskey during
+the pandemic, which I might have done once or twice, or that I
+am eligible for something else. I think being able to focus
+just on sharing specific things about myself without all of my
+data, is going to be quite important.
+Ms. Renieris. If I could also jump in, I think one of the
+important things to recognize is the need to go upstream. By
+the time the data is collected or captured, it is often too
+late to have effective privacy protections in place. So, we
+really do need to think about data minimization and other
+techniques. Certainly, privacy-enhancing technology is playing
+an important role here.
+But a concern there, of course, is that they often are very
+complex, which can result in a lot of user error. So, we also
+have to think about things like design. We are really moving
+away from the graphical user interface. We have other types of
+interfaces that we are moving into in the future. So, we are
+not going to be able to present long and cumbersome privacy
+notices and expect people to be able to ingest them and really
+understand what is happening.
+So, design is growing more critically in importance there.
+Particularly, the faster and sleeker these credentials can be
+used and the quicker the interaction is, the more important
+that the design, sort of on the back end and the front end, and
+also in terms of the privacy standards and engineering, is
+really front and center before we talk about what we do with
+the data.
+Chairman Foster. Thank you. And one of the killer apps for
+this, as it were, is Central Bank Digital Currencies (CBDCs),
+which the Financial Services Committee is very involved in. And
+that immediately gets into international usage, because digital
+dollars should be useful for people around the world, and we
+are going to have to authenticate participants. What is the
+status of international interoperability of these various ID
+initiatives?
+Mr. Grant. Well, I would say at least from a regulatory
+perspective in the banking world, it was about a year-and-a
+half-ago that the Financial Action Task Force (FATF), which is
+the body of global financial regulators that work together, put
+out digital identity guidelines. But I would say it is much
+more of a cookbook in terms of how each country should look to
+design digital identity systems for some of these types of
+applications, including potentially CBDCs.
+In terms of true interoperability, I think a lot of it is
+going to have to focus on different countries, including the
+U.S. developing digital identity infrastructure, and then
+finding ways, whether it is through treaty negotiations or
+other mechanisms, to mutually recognize them, and I don't think
+we are there yet.
+Chairman Foster. Thank you. And I now recognize Ranking
+Member Gonzalez for 5 minutes.
+Mr. Gonzalez of Ohio. Thank you, Mr. Chairman. I am going
+to probably just stay on one track around Know Your Customer
+(KYC) and Anti-Money Laundering (AML). And this is for Mr.
+Grant. It is widely reported that the basics of traditional
+identity information that the government requires thanks to
+user KYC, AML, so, name, address, Social Security number, et
+cetera, are widely for sale on the dark web. I, too, may have
+purchased some things online to get me through the pandemic.
+And you just never quite know where all that information ends
+up. But it doesn't give you the best feeling, frankly, when you
+turn on the news and every day there is a different cyber
+attack.
+And sophisticated banks and Fintechs are using AI-based
+tools to verify information using multiple massive data sets
+instead of government-required info. Can you speak just from a
+cybercrime standpoint what the move to digital ID in the United
+States can get us?
+Mr. Grant. I think it makes it a lot harder for the
+attackers who are exploiting what in some cases is nonexistent
+digital identity infrastructure or legacy tools that worked a
+few years ago, but that the attackers have caught up with. And
+so, much of what I think about when it comes, not just with
+identity, but anything when it comes to cybercrime and
+cybersecurity is, how do you prevent scaleable attacks? How do
+you raise the cost of attacks so that it is not easy for an
+attacker to do, frankly, what we have seen in banking or
+government benefits over the last year at the slightest
+through-some of these systems?
+I think the more you know, whether it is looking at some of
+the deterministic factors we can bring in with what Chairman
+Foster's bill would do, in terms of being able to ask an agency
+to vouch for you, just like you can use your card in the paper
+world. How do you use it digitally? How do you augment that
+with AI as well to try and--I think I had mentioned before
+Congresswoman Adams had asked, how was used AI used. AI can
+study how criminal rings do things and look for telltale signs.
+Putting those together, we are in a bit of an arm's race
+against increasingly organized criminal gangs. They are
+starting to use AI as well. I think we are going to need,
+unfortunately, every weapon at our disposal to guard against
+these increasingly sophisticated attacks.
+Mr. Gonzalez of Ohio. Thank you. Mr. Fredung, same
+question. From a cybersecurity and a protection standpoint,
+what does moving toward digital ID do for your average
+American?
+Mr. Fredung. Yes, thank you Congressman. First of all, I
+would like to follow up with what Jeremy mentioned in regards
+to staying ahead of the more sophisticated sources as well. For
+what we are seeing in space like the east attacks by sharing
+information on the government, this is pretty much easy for
+companies such as ourselves to prevent our assets. The more
+sophisticated ones using, let's say, EID phase, for example,
+those are the tougher ones to essentially track down.
+Switching from we used to refer to as data elevation--I
+think you mentioned in regards to the social security number,
+or I think a list but also mentioned in regards to the other
+corridor was checking quality information from one individual
+against the database.
+That is quite out-aged to be completely honest, because
+anybody can steal anybody else's information. And government
+databases don't give you a particularly accurate assault. So by
+moving towards more of the identification which combines facial
+documentation alongside biometric identification, it is
+definitely, in our experience, the way to move ahead.
+Mr. Gonzalez of Ohio. Thank you. Mr. Chairman, I yield
+back. I have no more questions.
+Chairman Foster. Thank you, and we will now recognize Mr.
+Casten for 5 minutes.
+Mr. Casten. Thank you. And I am glad we have the second
+round, because I ran out of time with Professor Renieris. I
+want to follow up, and I want pick up on some stuff that I
+think you alluded to with Mr. Budd and Mr. Auchincloss.
+There are few advantages of blockchain and distributive
+ledger technology, more broadly, as far as, obviously, creating
+a record of this digital ID where it is and making sure there
+is some integrity to the data that stores it. There is also, as
+we have seen in the crypto space, the potential for the
+anonymity that comes from to be abused.
+And so, I guess I have a two-part question. Number one, are
+you satisfied that blockchain is the right technology to store
+the data around a digital ID? And let me just hear your answer
+to that before I go to the second question.
+Ms. Renieris. Thank you for the question, Congressman. I
+list in my written testimony and quite explicitly point out
+that I think blockchain is actually the wrong technology for
+personal identity management. I have a lot of experience in
+that space. I have worked directly in-house with blockchain
+start-ups. I worked with many of my own people since the
+various intergovernmental groups on this.
+Blockchain is inherently an accounting technology. Its
+features are transparency, auditability, traceability, and
+permanence for mutability. Those are things that you might want
+to use, for example, for supply chain management, but they are
+really not things that you want to use for personal identity
+management if you are concerned about the privacy and security
+of individuals.
+Over the last 4 to 5 years, as I have been part of these
+conversations with governments and industry, there have been
+many, many technical solutions proposed to get around some of
+the concerns, a lot of different pseudonymization and
+anonymization techniques, a lot of different methods of
+encryption. But, conceptionally--and at the heart of what
+blockchain does and what it is designed to do is really at odds
+with poor data protection principals around things like data
+minimization.
+For example, if I want to prove who I am, I don't want that
+data replicated across nodes around the world. If I do that, I
+don't know if the data is stored indefinitely.
+So really, to me, it is a complete misfit between the
+purpose you are trying to achieve, but I know you have more
+questions.
+Mr. Casten. That is helpful. The reason I tied this to my
+earlier question is because, in my head at least, this is tied
+to, is there going to be a privately-owned for-profit digital
+ID that is going to get out ahead of us? Because the value of
+that data--there is the narrow part of my biometrics, that this
+is me and I know this is you. And then, there is all of the
+metadata around it, which is, of course, where the money is.
+Right? Who are you connected to? Where was the GPS tied when
+you used your ID? What did you use your ID for, et cetera, et
+cetera?
+However we store this--and I will stipulate that you have
+an idea in your head about where we should store this digital
+ID--should we also be using that same place as a repository for
+that metadata? Where should that metadata live, because someone
+is going to use it, and what are your thoughts on that?
+Ms. Renieris. Yes, it is a really important point to make.
+And I think that sophisticated for blockchain--teams working on
+this have recognized that it is really a bad idea to store the
+actual identity credentials on the ledger, so they have come up
+with workarounds for that. But ultimately the ledger of the
+blockchain is a record of the metadata that you are describing,
+the transactional data.
+And I think a really important thing that is very
+overlooked in this conversation is that the commercial
+incentives I was talking about in the business model, the
+revenue models here can really undo a lot of the technical
+features intended to provide privacy and anonymity.
+For example, of a lot of the blockchain-enabled identity
+schemes, really lacked a business model. And a common one that
+is proposed is a kind of scheme where the verifying party pays
+the issuer of the credential when that credential is used to
+kind of recoup some of the costs of issuing the credential.
+When you have that kind of scheme where you pay for
+verification, ultimately, you have to be able to separate the
+accounting and the transactions. And that is actually a more
+sophisticated problem to solve. And a lot of companies I have
+seen in this space have thought about it, if they even thought
+about the question. And so, again, even if you use best sort of
+encryption technologies or anonymization techniques in place,
+you might have a business model that undoes all of the benefits
+of the technology.
+Mr. Casten. I realize we are out of time, and maybe this is
+a longer conversation, but if I take my government-issued
+passport right now, that has a whole lot of metadata in it. It
+has the date of issue, it has where I have traveled, it is all
+information. And there is some value to governments of having
+that information like my birth certificate or anything else.
+If we do a perfect government digital ID, should we be
+collecting and accumulating that metadata if we get into
+privacy issues and all of the rest of that? Somehow, we have to
+solve that, right? And I realize I am out of time, but you are
+welcome to respond.
+Ms. Renieris. I think the question is, to what end and for
+what purposes? And I think those would have to be explicitly
+stated upfront. This is something I also alluded to in my
+written testimony. And I am happy to provide more feedback on
+the record.
+Mr. Casten. Thank you. I yield back.
+Chairman Foster. You could possibly implement a witness
+protection program using a blockchain-enabled ID, which is
+essentially government-sponsored identity fraud.
+We will now recognize Mr. Taylor for 5 minutes.
+Mr. Taylor. Thank you Mr. Chairman. Mr. Casten, I think if
+you go back to last year, Professor Renieris actually resigned
+from the ID 2020 project, objecting to blockchain. So, you
+actually asked the exact right person about blockchain and
+identity.
+And it was a really fascinating conversation,
+Representative Casten. Would you like to take 60 seconds to
+kind of continue down this rabbit hole?
+Mr. Casten. Oh, you are very kind. I will defer to your
+time. Maybe we can just follow up. Maybe we can set up a time
+for the three of us, if you would like, to get together when we
+are not watching the clock. I appreciate it.
+Mr. Taylor. Sure. I appreciate your passion for this
+particular topic and the importance you feel of not using
+blockchain technology for identification.
+Just going back down kind of the horror story, it is really
+instructive to me to know what not to do, as well as sort of
+what to do.
+Dr. Maynard-Atem, I know in your written testimony you
+talked about, I believe, the health system in Kenya, women's
+ability to access that because of the identification system
+they put in place. Do you want to expand with on what you have
+seen in terms of how not to do it or how we shouldn't do it in
+a digital identification system?
+Ms. Maynard-Atem. Absolutely. Thank you for the question,
+Congressman. I think in my written testimony, I do share a
+little bit of the horror stories or the ways that it has gone
+wrong. And a lot of that comes from--and I think Professor
+Renieris mentioned this previously--not taking into account who
+your actual users are, and not taking into account what it is
+that they are trying to achieve with digital identities and any
+solutions that are put in place.
+In the instance in Kenya that I referenced, lots of people
+in that particular market, women don't tend to have access to
+the required documents or mobile phones, et cetera, to allow
+them to make their way through the process of obtaining a
+digital identity.
+If I think about examples here in the UK, a lot of the
+digital identities previously and the schemes have been tried
+have been relied on having certain documents or access to the
+internet, for example. And I think it is 20 percent--but don't
+quote me on that--of the UK who don't have those government-
+issued documents.
+So if your predication of digital identity is based off of
+having access to particular things, whether that is documents
+or whether that is a mobile phone, et cetera, then
+automatically you are excluding X percentage of your entire
+population that you are designed to serve.
+I think the requirements gathering the start of all of
+these exercises needs to take into account the different
+situations that people are in, and you need to be able to
+account for those different situations.
+So, yes, all of us on this call clearly have access to
+technology and government-issued IDs, but we need to be
+thinking about the people who don'thave access to those things
+or who might not be able to access those things, those people
+who can't necessarily use technology to get to the systems that
+they need to, to get to the services that they need.
+I think it all starts at the very beginning of the process
+and being able to identify all of the different use cases that
+you are trying to serve, rather than just the most common use
+cases that you can satisfy the majority of people. We need to
+take into account all of those differences and make sure we are
+accounting for those in the solution that we produce.
+Mr. Taylor. Professor Renieris, just getting back to you,
+you touched briefly on India in my prior question. Could you
+just talk a little bit about how, in your mind, India went
+wrong? I think that is--I don't want to put words in your
+mouth. I recall that phrase by you.
+Ms. Renieris. Sure. I think the situation with Aadhaar in
+India is--there are a couple of places where they went wrong.
+First, they intended this single unique identifier and the
+system to apply to every aspect of life.
+So, there is literally nothing you can access without using
+it. And it is entirely traceable across all of these facets of
+life by the government. The constitutional court subsequently
+looked into this and specifically said that it was an overreach
+and that there are concerns about dialing some of that back.
+But in terms of the questions surrounding inclusion, that
+was also the concern there, because of the complexity of India
+and because of the complexity of the population, everything
+from different languages to different cultures to very
+different infrastructure in different regions in the country,
+there wasn't enough consideration around how groups might be
+impacted in that respect and how they might be excluded.
+I think we have a very similar problem here. You talked
+about broadband earlier in the hearing where we don't have a
+homogenous population, we don't have universal access to
+things.
+And if we sort of, as Dr. Maynard-Atem said, if we only
+solve for the majority, then for the tyranny majority there and
+we don't have the pluralism and pluralistic perspective we need
+to design a system that is actually inclusive in the works for
+most people.
+Mr. Taylor. Thank you. I appreciate that, Professor.
+Mr. Chairman, I yield back.
+Chairman Foster. Thank you. And we will, finally, recognize
+Representative Adams for 5 minutes.
+Ms. Adams. Thank you, Mr. Chairman. Cyber attacks are the
+fastest-growing crime in the U.S., and one of the largest
+threats to the data in the electronic infrastructure today.
+Studies have predicted that the business world fall victim to
+ransomware every 11 seconds this year. A centralized digital ID
+base with people's personal information would be a huge target.
+So, Mr. Kelts, can you discuss the cryptography and the
+smartphone techniques available so that there would be no need
+for a central digital ID database?
+Mr. Kelts. Yes. I think that there are multiple different
+architectures that can support what you are referring to and
+not have any centralized database. In the mobile driver's
+license, there are opportunities to take that data and put it
+onto the smartphone itself, along with the cryptographic
+signatures so that when that data is shared, selectively
+shared, the signatures can be shared with it, and the verifier
+can take the signatures and check on that data.
+I think there are other architectures similar to that. And
+I actually think that is something I can distribute a ledger or
+blockchain that holds caches, has that capability if I have the
+data. And if I present it to you as a business or verifier of
+the data, you can then go and check the veracity of that data.
+In addition to non-centralized databases, having access to
+verifiable data, cryptographically-verifiable data can reduce
+the need for businesses themselves to store the end result,
+because they know the next time that person comes along, they
+will get fresher, newer validated data, and they don't have to
+keep large records. I think that has the potential also to
+reduce not just centralized databases, but peripheral databases
+that are also the targets of that.
+Ms. Adams. Right. Thank you very much, Mr. Chairman. I have
+no further questions. I yield back.
+Chairman Foster. Thank you. And I would like to thank our
+witnesses for their testimony today.
+The Chair notes that some Members may have additional
+questions for these witnesses, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+And with that, this hearing is adjourned.
+[Whereupon, at 1:40 p.m., the hearing was adjourned.]
+
+A P P E N D I X
+
+July 16, 2021
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]

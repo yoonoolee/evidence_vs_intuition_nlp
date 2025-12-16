@@ -1,0 +1,1852 @@
+- EQUITABLE ALGORITHMS: EXAMINING WAYS TO. REDUCE AI BIAS IN FINANCIAL SERVICES
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+EQUITABLE ALGORITHMS: EXAMINING WAYS TO.
+REDUCE AI BIAS IN FINANCIAL SERVICES
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+OF THE
+
+COMMITTEE ON FINANCIAL SERVICES
+
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SIXTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+FEBRUARY 12, 2020
+
+__________
+
+Printed for the use of the Committee on Financial Services
+
+Serial No. 116-87
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+42-821 PDF               WASHINGTON : 2021
+
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+MAXINE WATERS, California, Chairwoman
+
+CAROLYN B. MALONEY, New York         PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York             Ranking Member
+BRAD SHERMAN, California             ANN WAGNER, Missouri
+GREGORY W. MEEKS, New York           FRANK D. LUCAS, Oklahoma
+WM. LACY CLAY, Missouri              BILL POSEY, Florida
+DAVID SCOTT, Georgia                 BLAINE LUETKEMEYER, Missouri
+AL GREEN, Texas                      BILL HUIZENGA, Michigan
+EMANUEL CLEAVER, Missouri            SEAN P. DUFFY, Wisconsin
+ED PERLMUTTER, Colorado              STEVE STIVERS, Ohio
+JIM A. HIMES, Connecticut            ANDY BARR, Kentucky
+BILL FOSTER, Illinois                SCOTT TIPTON, Colorado
+JOYCE BEATTY, Ohio                   ROGER WILLIAMS, Texas
+DENNY HECK, Washington               FRENCH HILL, Arkansas
+JUAN VARGAS, California              TOM EMMER, Minnesota
+JOSH GOTTHEIMER, New Jersey          LEE M. ZELDIN, New York
+VICENTE GONZALEZ, Texas              BARRY LOUDERMILK, Georgia
+AL LAWSON, Florida                   ALEXANDER X. MOONEY, West Virginia
+MICHAEL SAN NICOLAS, Guam            WARREN DAVIDSON, Ohio
+RASHIDA TLAIB, Michigan              TED BUDD, North Carolina
+KATIE PORTER, California             DAVID KUSTOFF, Tennessee
+CINDY AXNE, Iowa                     TREY HOLLINGSWORTH, Indiana
+SEAN CASTEN, Illinois                ANTHONY GONZALEZ, Ohio
+AYANNA PRESSLEY, Massachusetts       JOHN ROSE, Tennessee
+BEN McADAMS, Utah                    BRYAN STEIL, Wisconsin
+ALEXANDRIA OCASIO-CORTEZ, New York   LANCE GOODEN, Texas
+JENNIFER WEXTON, Virginia            DENVER RIGGLEMAN, Virginia
+STEPHEN F. LYNCH, Massachusetts      WILLIAM TIMMONS, South Carolina
+TULSI GABBARD, Hawaii                VAN TAYLOR, Texas
+ALMA ADAMS, North Carolina
+MADELEINE DEAN, Pennsylvania
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+DEAN PHILLIPS, Minnesota
+
+Charla Ouertatani, Staff Director
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+BILL FOSTER, Illinois, Chairman
+
+EMANUEL CLEAVER, Missouri            BARRY LOUDERMILK, Georgia, Ranking
+KATIE PORTER, California                 Member
+SEAN CASTEN, Illinois                TED BUDD, North Carolina
+ALMA ADAMS, North Carolina           TREY HOLLINGSWORTH, Indiana
+SYLVIA GARCIA, Texas                 ANTHONY GONZALEZ, Ohio
+DEAN PHILLIPS, Minnesota             DENVER RIGGLEMAN, Virginia
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on:
+February 12, 2020............................................     1
+Appendix:
+February 12, 2020............................................    33
+
+WITNESSES
+Wednesday, February 12, 2020
+
+Ghani, Rayid, Distinguished Career Professor, Machine Learning
+Department and the Heinz College of Information Systems and
+Public Policy, Carnegie Mellon University......................    12
+Henry-Nickie, Makada, David M. Rubenstein Fellow, Governance
+Studies, Race, Prosperity, and Inclusion Initiative, Brookings
+Institution....................................................     6
+Kearns, Michael, Professor and National Center Chair, Department
+of Computer and Information Science, University of Pennsylvania     8
+Thomas, Philip S., Assistant Professor and Co-Director of the
+Autonomous Learning Lab, College of Information and Computer
+Sciences, University of Massachusetts Amherst..................     4
+Williams, Bari A., Attorney and Emerging Tech AI & Privacy
+Advisor........................................................    10
+
+APPENDIX
+
+Prepared statements:
+Ghani, Rayid.................................................    34
+Henry-Nickie, Makada.........................................    43
+Kearns, Michael..............................................    49
+Thomas, Philip S.............................................    52
+Williams, Bari A.............................................    55
+
+Additional Material Submitted for the Record
+
+Foster, Hon. Bill:
+Written statement of BSA/The Software Alliance...............    62
+Written statement of the Future of Privacy Forum.............    71
+Written statement of ORCAA...................................    88
+Student Borrower Protection Center report entitled,
+``Educational Redlining,'' dated February 2020.............    90
+Response from Upstart to the Student Borrower Protection
+Center's February 2020 report..............................   120
+
+EQUITABLE ALGORITHMS: EXAMINING
+
+WAYS TO REDUCE AI BIAS
+
+IN FINANCIAL SERVICES
+
+----------
+
+Wednesday, February 12, 2020
+
+U.S. House of Representatives,
+Task Force on Artificial Intelligence,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 2:05 p.m., in
+room 2128, Rayburn House Office Building, Hon. Bill Foster
+[chairman of the task force] presiding.
+Members present: Representatives Foster, Cleaver, Porter,
+Casten; Loudermilk, Budd, Hollingsworth, Gonzalez of Ohio, and
+Riggleman.
+Chairman Foster. The Task Force on Artificial Intelligence
+will now come to order. It is my understanding that there is an
+ongoing markup in the Judiciary Committee, which is competing
+for Members' attention, and I suspect they will be coming in
+and out over the course of this hearing.
+Without objection, the Chair is authorized to declare a
+recess of the task force at any time. Also, without objection,
+members of the full Financial Services Committee who are not
+members of this task force are authorized to participate in
+today's hearing, consistent with the committee's practice.
+Today's hearing is entitled, ``Equitable Algorithms:
+Examining Ways to Reduce AI Bias in Financial Services.''
+I will now recognize myself for 5 minutes for an opening
+statement. First, thank you, everyone, for joining us today for
+what should be a very interesting hearing of the task force.
+Today, we are looking to explore what it means to design
+ethical algorithms that are transparent and fair. In short, how
+do we program fairness into our AI models and make sure that
+they can explain their decisions to us? This is an especially
+timely topic. It seems as though every week, we are hearing
+stories and questions about biased algorithms in the lending
+space, from credit cards that discriminate against women, to
+loans that discriminate based on where you went to school.
+I think many of these issues can be a lot more complicated
+and nuanced than how they are portrayed in the media, but it is
+clear that the use of AI is hitting a nerve with a lot of
+folks.
+For us as consumers to understand what is happening, we
+need to take a deeper look under the hood. First off, there are
+literally dozens of definitions of fairness to look at. As
+policymakers, we need to be able to explicitly state what kinds
+of fairness we are looking for, and how you balance multiple
+definitions of fairness against each other. Because, while we
+have fair lending laws in the form of the Equal Credit
+Opportunity Act and the the Fair Housing Act, translating these
+into analog laws into machine learning models is easier said
+than done. It is incumbent upon us to clearly state what our
+goals are, and to try to quantify the tradeoffs that we are
+willing to accept between accuracy and fairness.
+Equally important to designing ethical algorithms, however,
+is finding ways to ensure that they are working as they are
+intended to work. AI models present novel issues for resource-
+strapped regulators that aren't necessarily present in
+traditional lending models. For example, AI models continuously
+train and learn from new data, which means that the models
+themselves must adapt and change.
+Another challenge is in this biased data, and I am reminded
+at this point of the saying from the great sage, Tom Lehrer,
+who said that life is like a sewer, what you get out of it
+depends on what you put into it, and AI algorithms are very
+similar, where the algorithms are like sewers, and sewage in
+will generate sewage out. Maybe our job on this committee is to
+define the correct primary, secondary, and tertiary sewage
+treatment systems to make sure that what comes out of the
+algorithms is of higher quality than what goes into them.
+And because AI models often train on historical data that
+reflects historical biases, which we hope will disappear over
+time, that means the models must correct for them as we wish
+today, and hopefully, those corrections will become less
+important in the future.
+But as more alternative data points are added to the
+underwriting models, the risk that a model will use such data
+as a proxy for prohibited characteristics, like race or age,
+only increase. One potential solution that we keep hearing
+about is the idea that these algorithms or their outputs should
+be audited by expert third parties.
+As an analogy, we have all subscribed to the idea that
+companies' financial statements should be audited by qualified
+accountants to ensure that they are in compliance with
+Generally Accepted Accounting Principles (GAAP).
+Another idea is to require companies to regularly self-test
+and perform benchmarking analyses that are submitted to
+regulators for review. This recognizes that model development
+is an iterative process, and we need agile ways to review and
+respond to changing models.
+These are just a few of the many good ideas that have been
+discussed. I am excited to have this conversation, to see how
+we can make AI be the best version of itself, and how to design
+algorithmic models that best capture the ideals of fairness and
+transparency that are reflected in our fair lending laws.
+We want to make sure that the biases of the analog world
+are not repeated in the AI and machine learning world. And with
+that, I now recognize the ranking member of the task force, my
+friend from Georgia, Mr. Loudermilk, for 5 minutes.
+Mr. Loudermilk. Thank you, Mr. Chairman. And I thank all of
+you for being here today as we discuss this very important
+subject. We are going to discuss ways to identify and reduce
+bias in artificial intelligence in financial services. We have
+talked about this issue in concept numerous times, but we have
+not yet gotten deep into what algorithm explainability really
+means. So, I appreciate the chairman holding this hearing.
+Analytical models of AI and machine learning are best
+understood, at least to me, when they are broken into three
+basic models: descriptive analytics, which analyzes past data;
+predictive analytics, which predicts future outcomes based on
+past data; and prescribing analytics, where the algorithm
+recommends a course of action based on past data.
+There is also a fourth emerging model, which I refer to as
+the ``execution model,'' which automatically takes action based
+on other AI systems' outputs. I believe the execution model
+deserves the most attention from policymakers because it can
+remove the human element in decision-making.
+There are a number of noteworthy recent developments in
+artificial intelligence that I hope we can discuss today.
+First, the White House Office of Science and Technology Policy
+recently released principles for how Federal agencies can
+regulate the development of AI in the private sector. The
+intent of the principles is to govern AI with the direction on
+the technical and ethical aspects without stifling innovation.
+The principles recommended providing opportunities for
+public feedback during the rulemaking process, considering
+fairness and nondiscrimination regarding the decisions made by
+AI applications, and basing the regulatory approach on
+scientific data.
+The U.S. Chief Technology Officer said the principles are
+designed to ensure public engagement, limit regulatory
+overreach, and promote trustworthy technology. Some private-
+sector organizations recommend principles for companies using
+AI, which include designating a lead AI ethics official, making
+sure the customer knows when they are interacting with AI,
+explaining how the AI arrived at its result, and testing AI for
+bias. I believe the latter two, explaining results and testing
+for bias, are important to ensure appropriate use of AI by
+private sector businesses.
+A basic but central part of explainability is making sure
+businesses and their regulators are able to know the building
+blocks of what went into an algorithm when it was being
+constructed. In other words, coders should maintain full
+records of what is going into the model when it is being
+trained, ranked by order of importance. This is also known as
+``logging,'' and can help isolate sources of bias.
+A similar concept is present in credit scoring. Credit
+scores are generated by algorithms to create a number that
+predicts a person's ability to repay a loan.
+Importantly, it is easy to figure out what is bringing
+someone's score up or down, because the factors that go into
+the score are transparent. Having a long credit history brings
+the score up, while the use of available credit brings it down.
+Additionally, on-time payments are weighted higher than the
+number of inquiries.
+With that said, recordkeeping is a starting point, and
+certainly is not a silver bullet solution to the explainability
+problem, especially with more complex algorithms.
+With explainability, we also need to define what fairness
+is. There needs to be a benchmark to compare algorithm results
+and evaluate the fairness of an algorithm's decisions. These
+kinds of paper trails can help get to the bottom of suspected
+bias in loan underwriting decisions. It is also important to be
+able to test algorithms to see if there is any bias present.
+If there is suspected bias, companies can take a subset of
+the data based on sensitive features like gender and race to
+see if there is disparate impact on a particular group. Aside
+from testing for bias, testing can also help companies verify
+if the algorithm is arriving at its expected results.
+It is also important for companies and regulators to verify
+the input data for accuracy, completeness, and appropriateness.
+Flawed data likely results in flawed algorithm outcomes.
+I look forward to the discussion on this issue, and I yield
+back.
+Chairman Foster. Thank you.
+Today, we welcome the testimony of Dr. Philip Thomas,
+assistant professor and co-director of the Autonomous Learning
+Lab, College of Information and Computer Sciences at the
+University of Massachusetts Amherst; Dr. Makada Henry-Nickie,
+the David M. Rubenstein Fellow for the Governance Studies,
+Race, Prosperity, and Inclusion Initiative at the Brookings
+Institution; Dr. Michael Kearns, professor and national center
+chair, the Department of Computer and Information Science at
+the University of Pennsylvania; Ms. Bari A. Williams, attorney
+and emerging tech AI and privacy adviser; and Mr. Rayid Ghani,
+the distinguished career professor in the machine learning
+department at Heinz College of Information Systems and Public
+Policy at Carnegie Mellon University.
+Witnesses are reminded that your oral testimony will be
+limited to 5 minutes. And without objection, your written
+statements will be made a part of the record.
+Dr. Thomas, you are now recognized for 5 minutes to give an
+oral presentation of your testimony.
+
+STATEMENT OF PHILIP S. THOMAS, ASSISTANT PROFESSOR AND CO-
+DIRECTOR OF THE AUTONOMOUS LEARNING LAB, COLLEGE OF INFORMATION
+AND COMPUTER SCIENCES, UNIVERSITY OF MASSACHUSETTS AMHERST
+
+Mr. Thomas. Thank you. Chairman Foster, Ranking Member
+Loudermilk, and members of the task force, thank you for the
+opportunity to testify today.
+I am Philip Thomas, an assistant professor at the
+University of Massachusetts Amherst.
+My goal as a machine learning researcher is to ensure that
+systems that use machine learning algorithms are safe and fair,
+properties that may be critical to the responsible use of AI in
+finance.
+Towards this goal, in a recent science paper, my co-authors
+and I proposed a new type of machine learning algorithm which
+we call a Seldonian algorithm. Seldonian algorithms make it
+easier for the people using AI to ensure that the systems they
+create are safe and fair. We have shown how Seldonian
+algorithms can avoid unfair behavior when applied to a variety
+of applications, including optimizing online tutorials to
+improve student performance, influencing criminal sentencing,
+and deciding which loan applications should be approved.
+While our work with loan application data may appear most
+relevant to this task force, that work was in a subfield of
+machine learning called contextual bandits. The added
+complexity of the contextual bandit setting would not benefit
+this discussion, and so I will instead focus on an example in a
+more common and straightforward setting called regression.
+In this example, we used entrance exam scores to predict
+what the GPAs of new university applicants would be if they
+were accepted. The GPA prediction problem resembles many
+problems in finance, for example, rating applications for a job
+or a loan. The fairness issues that I will discuss are the same
+across these applications.
+In the GPA prediction study, we found that three standard
+machine learning algorithms overpredicted the GPAs of male
+applicants on average and underpredicted the GPAs of female
+applicants on average, with a total bias of around 0.3 GPA
+points in favor of male applicants. The Seldonian algorithm
+successfully limited this bias to below 0.05 GPA points, with
+only a small reduction in predictive accuracy.
+The rapidly growing community of machine learning
+researchers studying issues related to fairness has produced
+many similar AI systems that can effectively preclude a variety
+of types of unfair behavior across a variety of applications.
+With the development of these fair algorithms, machine learning
+is reaching the point where it can be applied responsibly to
+financial applications, including influencing hiring and loan
+approval decisions.
+I will now discuss technical issues related to ensuring the
+fairness of algorithms which might inform future regulations
+aimed at ensuring the responsible use of AI in finance.
+First, there are many definitions of fairness. Consider our
+GPA prediction example. One definition of fairness requires the
+average predictions to be the same for each gender. Under this
+definition, a system that tends to predict a lower GPA if you
+are of a particular gender would be deemed unfair.
+Another definition requires the average error of
+predictions to be the same for each gender. Under this
+definition, a system that tends to overpredict the GPAs of one
+gender and underpredict for another would be deemed unfair.
+Although both of these might appear to be desirable
+requirements for a fair system, for this problem, it is not
+possible to satisfy both simultaneously. Any system, human or
+machine, that produces the same average prediction for each
+gender necessarily over-predicts more for one gender and vice
+versa. The machine learning community has generated more than
+20 possible definitions of fairness, many of which are known to
+be conflicting in this way.
+In any effort to regulate the use of machine learning to
+ensure fairness, a critical first step is to define precisely
+what fairness means. This may require recognizing that certain
+behaviors that appear to be unfair may necessarily be
+permissible in order to enable the enforcement of a conflicting
+and more appropriate notion of fairness.
+Although the task of selecting the appropriate definition
+of fairness should likely fall to regulators and social
+scientists, machine learning researchers can inform this
+decision by providing guidance with regard to which definitions
+are possible to enforce simultaneously, what unexpected
+behavior might result from a particular definition of fairness,
+and how much or how little different definitions of fairness
+might impact profitability.
+Regulations could also protect companies. Fintech companies
+that make every attempt to be fair using AI systems that
+satisfy a reasonable definition of fairness may still be
+accused of racist or sexist behavior for failing to enforce a
+conflicting definition of fairness. Regulation could protect
+these companies by providing an agreed-upon, appropriate, and
+satisfiable definition of what it means for their systems to be
+fair.
+Once a definition of fairness has been selected, machine
+learning researchers can work on developing algorithms that
+will enforce the chosen definition. For example, our latest
+Seldonian algorithms are already compatible with an extremely
+broad class of fairness definitions and might be immediately
+applicable.
+Still, there is no silver bullet algorithm for remedying
+bias and discrimination in AI. The creation of fair AI systems
+may require use-specific considerations across the entire AI
+pipeline, from the initial collection of data, through
+monitoring the final deployed system.
+Several other questions must be answered for regulations to
+be effective and fair. For example, will fairness requirements
+that appear reasonable for the short term have the long-term
+effect of reinforcing existing social inequalities? How should
+fairness requirements account for the fact that changing
+demographics can result in a system that was fair last month
+not being fair today? And when unfair behavior occurs, how can
+regulators determine whether this is due to the improper use of
+machine learning? Thank you again for the opportunity to
+testify today. I look forward to your questions.
+[The prepared statement of Dr. Thomas can be found on page
+52 of the appendix.]
+Chairman Foster. Thank you.
+Dr. Henry-Nickie, you are now recognized for 5 minutes to
+give an oral presentation of your testimony.
+
+STATEMENT OF MAKADA HENRY-NICKIE, DAVID M. RUBENSTEIN FELLOW,
+GOVERNANCE STUDIES, RACE, PROSPERITY, AND INCLUSION INITIATIVE,
+BROOKINGS INSTITUTION
+
+Ms. Henry-Nickie. Chairman Foster, Ranking Member
+Loudermilk, and distinguished members of the task force, thank
+you for the opportunity to testify today. I am Makada Henry-
+Nickie, a fellow at the Brookings Institution, where my
+research covers issues of consumer financial protection.
+I am pleased to share my perspective on both the
+opportunities and challenges of integrating AI into financial
+services. As this committee knows, market interest in AI is
+soaring. AI technologies have permanently reshaped the
+financial marketplace and altered consumer preferences and
+expectations of banks. I want to point out a few key trends
+that underscore this premise.
+First, layering AI onto the financial value chain is
+unlocking enormous opportunities for banks. Consider that J.P.
+Morgan, for example, just installed a contract software that
+takes mere seconds to review the same number of documents that
+previously required about 360,000 manpower hours to complete.
+Second, AI is creating new surface areas for banks to
+cross-sell products to customers, and this means more revenue.
+Finally, consumers are increasingly open to embracing AI in
+banking. According to Adobe Analytics, 44 percent of Gen Z and
+31 percent of millennials have interacted with a chat bot. And
+they prefer, overwhelmingly, to interact with a chat bot as
+opposed to a human representative. Taken together, these trends
+suggest that AI is undoubtedly shaping the future of banking.
+The story of AI in financial services is not all bad, and
+innovative fintechs have made salient contributions that make
+financial services more inclusive and more accessible for
+consumers. Micro savings apps, for example, have empowered
+millions of consumers to save more and to do so automatically.
+Digit has used machine learning to help its clients save
+over $2.5 billion; that is an average of $2,000 annually. In
+credit markets, a combination of machine learning and
+alternative data is slowly showing some early promise. When I
+say, ``alternative data,'' I am not referring to the format of
+your email address. I am talking about practical, alternative
+factors such as rental payment and utility payment histories,
+among others. A 2019 FINRA study showed that these variables
+can reliably predict a consumer's ability to repay.
+Furthermore, the results of CFPB's No Action Letter review
+also supports this idea of early promise. According to CFPB,
+Upstart, through its use of machine learning and alternative
+data, was able to increase loan approval by nearly 30 percent
+and lower APRs by as much as 17 percent. Crucially, the CFPB
+reported that the fintech's data showed no evidence of fair
+lending disparities.
+Meanwhile, a UC Berkeley study found that algorithmic
+lending substantially decreased pricing disparities and
+eliminated underwriting discrimination for Black and Hispanic
+borrowers.
+Both research and market evidence show that, despite the
+risks, algorithmic models have potential to provide benefits to
+consumers. However, it is important not to overstate this
+promise. We have all had a front row seat to the movie.
+Algorithms propagate bias. This is not an attempt to
+exaggerate. Numerous cases from various scenes support this
+claim, from Amazon's hiring algorithm shown to be biased
+against women, to Google's insulting association between
+African Americans, like myself, and gorillas.
+And the same Berkeley study I mentioned earlier found that
+algorithmic lenders systematically charged Black and Hispanic
+borrowers higher interest rates. According to the study,
+minorities paid 5.3 basis points more than their white peers.
+In the final analysis, machine learning was not
+sophisticated enough to break the systematic correlation
+between race and credit risk. In the end, these borrowers pay
+an estimated ongoing $765 million in excess interest payments,
+instead of saving or paying down student loan debt.
+Machine bias is not inevitable, nor is it final. This bias,
+though, is not benign. AI has enormous consequences for racial,
+gender, and sexual minorities. This should not be trivialized.
+Technical solutions alone, though, will not reduce algorithmic
+bias or ameliorate its effects.
+Congress should focus on strengthening the resiliency of
+the Federal consumer financial protection framework so that
+consumers are protected. Thank you for your time, and I look
+forward to your questions.
+[The prepared statement of Dr. Henry-Nickie can be found on
+page 43 of the appendix.]
+Chairman Foster. Thank you.
+Dr. Kearns, you are now recognized for 5 minutes to give an
+oral presentation of your testimony.
+
+STATEMENT OF MICHAEL KEARNS, PROFESSOR AND NATIONAL CENTER
+CHAIR, DEPARTMENT OF COMPUTER AND INFORMATION SCIENCE,
+UNIVERSITY OF PENNSYLVANIA
+
+Mr. Kearns. Thank you for the opportunity to testify today.
+My name is Michael Kearns, and I am a professor in the Computer
+and Information Science Department at the University of
+Pennsylvania. For more than 3 decades, my research has focused
+on machine learning and related topics. I have consulted
+extensively in the finance and technology sectors, including on
+legal and regulatory matters. I discussed the topics and these
+remarks at greater length in my recent book, ``The Ethical
+Algorithm: The Science of Socially Aware Algorithm Design.''
+The use of machine learning for algorithmic decision-making
+has become ubiquitous in the finance industry and beyond. It is
+applied in consequential decisions for individual consumers
+such as lending and credit scoring, in the optimization of
+electronic trading algorithms at large brokerages, and in
+making forecasts of directional movement of volatility in
+markets and individual assets.
+With major exchanges now being almost entirely electronic
+and with the speed and convenience of the consumer internet,
+the benefits of being able to leverage large-scale, fine-grain,
+historical data sets by machine learning have become apparent.
+The dangers and harms of machine learning have also
+recently alarmed both scientists and the general public. These
+include violations of fairness, such as racial or gender
+discrimination in lending or credit decisions, and privacy,
+such as leaks of sensitive personal information.
+It is important to realize that these harms are generally
+not the result of human malfeasance, such as racist or
+incompetent software developers. Rather, they are the
+unintended consequences of the very scientific principles
+behind machine learning.
+Machine learning proceeds by fitting a statistical model to
+a training data set. In a consumer lending application, such a
+data set might contain demographic and financial information
+derived from past loan applicants, along with the outcomes of
+granted loans.
+Machine learning is applied to find a model that can
+predict loan default probabilities and to make lending
+decisions accordingly. Because the usual goal or objective is
+exclusively the accuracy of the model, discriminatory behavior
+can be inadvertently introduced. For example, if the most
+accurate model overall has a significantly higher false
+rejection rate on Black applicants than on white applicants,
+the standard methodology of machine learning will, indeed,
+incorporate this bias.
+Minority groups often bear the brunt of such discrimination
+since, by definition, they are less represented in the training
+data. Note that such biases routinely occur even if the
+training data itself is collected in an unbiased fashion, which
+is rarely the case.
+Truly unbiased data collection requires a period of what is
+known as exploration in machine learning, which is rarely
+applied in practice because it involves, for instance, granting
+loans randomly, without regard for the properties of
+applicants.
+When the training data is already biased and the basic
+principles of machine learning can amplify such biases or
+introduce new ones, we should expect discriminatory behavior of
+various kinds to be the norm and not the exception.
+Fortunately, there is help on the horizon. There is now a
+large community of machine learning researchers who explicitly
+seek to modify the classical principles of machine learning in
+a way that avoids or reduces sources of discriminatory
+behavior. For instance, rather than simply finding the model
+that maximizes predictive accuracy, we could add the
+constraints that different--that the model must not have
+significantly different false rejection rates across different
+racial groups.
+This constraint can be seen as forcing a balance between
+accuracy and a particular definition of algorithmic fairness.
+The modified methodology generally requires us to specify what
+groups or attributes we wish to protect and what harms do we
+wish to protect them from. These choices will always be
+specific to the context and should be made by key stakeholders.
+There are some important caveats to this agenda. First of
+all, there are bad definitions of fairness that should be
+avoided. One example is forbidding the use of race in lending
+decisions in the hope that it will prevent racial
+discrimination. It doesn't, largely because there are so many
+other variables strongly correlated with race that machine
+learning can discover as proxies.
+Even worse, one can show simple examples where such
+restrictions will, in fact, harm the very group we sought to
+protect. Unfortunately, to the extent the consumer finance law
+incorporates fairness considerations, they are usually of this
+flawed form that restricts model inputs. It is usually far
+better to explicitly constrain the model's output behavior, as
+in the example of equalizing false rejection rates in lending.
+I note in closing, though all my remarks have focused on
+the potential for designing algorithms that are better-behaved,
+they also point the way to regulatory reform, since most
+notions of algorithmic fairness can be algorithmically audited.
+If we are concerned over false rejection rates, or disparities
+by race, we can systematically test models for such behaviors
+and measure the violations.
+I believe that the consideration of such algorithmic
+regulatory mechanisms is both timely and necessary, and I have
+elaborated on this in other recent writings. Thank you.
+[The prepared statement of Dr. Kearns can be found on page
+49 of the appendix.]
+Chairman Foster. Thank you.
+Ms. Williams, you are now recognized for 5 minutes to give
+an oral presentation of your testimony.
+
+STATEMENT OF BARI A. WILLIAMS, ATTORNEY AND EMERGING TECH AI &
+PRIVACY ADVISOR
+
+Ms. Williams. Chairman Foster, thank you. Members of the
+task force, thank you for allowing me to be here. My name is
+Bari A. Williams, and I am an attorney and start-up adviser
+based in Oakland, California. I have a B.A. from UC Berkeley,
+an MBA from St. Mary's College of California, an M.A. in
+African-American studies from UCLA, and a J.D. from UC Hastings
+College of the Law.
+Primarily, I work in technology transactions, and that also
+includes writing all of the terms of service, which are what I
+like to call the things that you scroll, scroll, scroll
+through, and then accept. I write all of the things that people
+typically tend not to read. I also focus on privacy and a
+specialization in AI, and my previous employer, All Turtles, is
+akin to an AI incubator, and they are concentrated not just on
+legal and policy, but also help with product production and
+inclusiveness.
+So, in my work in the tech sector, I have been exposed to
+many different use cases for AI. And the things that you tend
+to see for now, and a lot of the panelists have also referred
+to them--criminal justice, lending, understanding predictive
+behavior--are also responsible for all of the ads that you tend
+to see, to influence consumer behavior.
+So I would say that there are five main issues with AI in
+financial services, in particular. One, what data sets are
+being used? And to me, I distill that down to, who fact-checks
+the fact-checkers? What does it mean to use this particular
+data set, and why are you choosing to use it?
+Two, what hypotheses are set out to be proven by using this
+data? Meaning, is there a narrative that is already being
+written and you are looking for examples in which to prove it
+and to bake that into your code?
+Three, how inclusive is the team that is building and
+helping you test this product? I think that is one thing that
+has yet to be mentioned on the panel, is, also, how inclusive
+is the team that is actually creating this product? So who are
+you building the products with?
+Four, what conclusions are drawn from the pattern
+recognition in the data that the AI provides? That is, who are
+you building the products for? And then, who is harmed and who
+stands to benefit?
+And, five, how do we ensure bias neutrality, and are there
+even good reasons to ensure that there is bias neutrality
+because not all biases are bad?
+Data sets in financial services are used to determine your
+home ownership, your mortgage, and your savings and student
+loan rates, all of the things that the prior panelists also
+noted.
+I also cited the same study that Dr. Henry-Nickie did as
+well from UC Berkeley by noting that, yes, she is correct; in
+that 2017 study, it showed that 19 percent of Black borrowers
+and almost 14 percent of Latinx borrowers were turned down for
+a conventional loan, and additionally, the bias was not removed
+whether it was a face-to-face interaction or it was done using
+the algorithm. So, in fact, it just seems that the AI
+technology actually made the efficiency better, to deny people
+loans and to increase their interest rates.
+So there are two mechanisms in which you can drive for fair
+outcomes. Again, you can pick your favorite definition of
+``fair.'' I think you will see that there are many to choose
+from. One is to leverage statistical techniques to resample or
+reweigh a data sample to reduce the bias. I would give you a
+visual of, essentially, it is someone standing on a box.
+Imagine someone may be shorter, and you give them a box to
+stand on so that they are the same height as the person next to
+them. That is essentially reweighing the data.
+And the second technique is a fairness regulator, which is
+essentially a mathematical constraint to ensure fairness in the
+model to existing algorithms.
+So what are other emerging methods or ways that you can use
+AI for good? Some emerging methods--there is one in particular,
+that is seen with Zest AI, which is a tech company, and it has
+created a product called ZAML Fair, which reduces bias in
+credit assessment by ranking an algorithm's credit variables by
+how much they lead to biased outcomes. And then, they muffle
+the influence of those variables to produce a better model with
+less biased outcomes.
+So if more banks, or even consumer-facing retailers, credit
+reporting bureaus, used something like this, you may get a
+better outcome that shows better parity.
+What ways can existing laws and regulations help us? It is
+the same as I tell my kids, and what I tell my clients: A rule
+is only as good as its enforcement. So, if you act as if the
+rule doesn't exist, it might as well not exist.
+For example, if a lending model finds that older
+individuals have a higher default rate on their loans, and then
+they decide to reduce lending to those individuals based on
+their age, that can constitute a claim for housing
+discrimination. That is where you could apply the Fair Housing
+Act.
+Additionally, the U.S. Equal Credit Opportunity Act of
+1974, if you show greater disparate impact on the basis of any
+protected class, you could also use that as a lever as well.
+And I don't abide by the idea that, oh, well, the model did
+it. There are people who are actually creating the models, and
+so that means that there is regulation that could be used to
+actually ensure that the people creating the models are
+inclusive and diverse as well. Thank you.
+[The prepared statement of Ms. Williams can be found on
+page 55 of the appendix.]
+Chairman Foster. Thank you.
+And, Mr. Ghani, you are now recognized for 5 minutes to
+give an oral presentation of your testimony.
+
+STATEMENT OF RAYID GHANI, DISTINGUISHED CAREER PROFESSOR,
+MACHINE LEARNING DEPARTMENT AND THE HEINZ COLLEGE OF
+INFORMATION SYSTEMS AND PUBLIC POLICY, CARNEGIE MELLON
+UNIVERSITY
+
+Mr. Ghani. Thank you. Chairman Foster, members of the task
+force, thanks for giving me the opportunity, and for holding
+this hearing. My name is Rayid Ghani, and I am a professor in
+the machine learning department in the Heinz College of
+Information Systems and Public Policy at Carnegie Mellon
+University.
+I have worked in the private sector, in academia, and
+extensively with governments and nonprofits in the U.S. and
+globally on developing and using machine learning and AI
+systems for public policy problems across health, criminal
+justice, education, public safety, human services, and
+workforce development in a fair and equitable manner.
+AI has a lot of potential in helping tackle critical
+problems we face today, from improving the health and education
+of our children, to reducing recidivism, to improving police-
+community relations, to improving health and safety outcomes
+and conditions in workplaces and housing.
+AI systems can help improve outcomes for everyone and
+result in a better and more equitable society. At the same
+time, any AI system affecting people's lives should be
+explicitly built to increase equity and not just optimize for
+efficiency.
+An AI system designed to explicitly optimize for efficiency
+has the potential to leave more difficult or costly people to
+help behind, resulting in increased inequities. It is critical
+for government agencies and policymakers to ensure that AI
+systems are developed in a responsible, ethical, and
+collaborative manner with stakeholders that include, yes,
+developers who build these systems, and decision-makers who use
+these systems, but critically including the communities that
+are being impacted by them.
+Since today's hearing is entitled, ``Equitable
+Algorithms,'' I do want to mention that, contrary to a lot of
+thinking in this space today, simply developing AI algorithms
+that are equitable is not sufficient to achieve equitable
+outcomes. Rather, the goal should be to make entire systems and
+their outcomes equitable.
+Since algorithms are typically not--and shouldn't be--
+making autonomous decisions in critical situations, we want
+equity across the entire decision-making process, which
+includes the AI algorithm but also the decisions made by humans
+using inputs from those algorithms and the impact of those
+decisions.
+In some recent preliminary work we did with the Los Angeles
+City attorney's office, we found that we can mitigate the
+disparities that a potentially biased algorithm may create to
+potentially result in equitable criminal justice outcomes
+across racial groups.
+Because an AI system requires us to define exactly what we
+want it to optimize, and which mistakes we think are costlier,
+financially or socially, than others, and by exactly how much,
+it forces us to make some of these ethical and societal values
+explicit. For example, in a system recommending lending
+decisions, we may have to specify the differential costs of
+different areas. Flagging somebody as unlikely to pay back a
+loan and being wrong about it versus predicting someone will
+pay and not pay back a loan and being wrong about it, and
+specify those costs explicitly for--in the case of people who
+may be from different gender, race, income, and education
+backgrounds.
+While that may have happened implicitly in the past, and
+with high levels of variation across different decision-makers,
+loan officers in this case, or banks, with AI-assisted
+decision-making processes, we are forced to define them
+explicitly and, ideally, consistently.
+In my written testimony, I outline a series of steps to
+create AI systems that are likely to lead to equitable outcomes
+that range from coming up with the outcomes to building these
+systems to validating whether they achieve those outcomes, but
+it is important to note that these steps are not purely
+technical but involve understanding the existing social and
+decision-making processes, as well as require solutions that
+are collaborative in nature.
+I think it is critical and urgent for policymakers to act
+and provide guidelines and regulations for both the public and
+private sector organizations, using AI-assisted decision-making
+processes in order to ensure that these systems are built in a
+transparent and accountable manner and result in fair and
+equitable outcomes for society.
+As initial steps, we recommend, one, expanding the already
+existing regulatory frameworks in different policy areas to
+account for AI-assisted decision-making. A lot of these bodies
+already exist--SEC, FINRA, CFPB, FDA, FEC, you know, pick your
+favorite three-letter acronym. But these bodies typically
+regulate inputs that go into the process--race or gender may
+not be allowed--and sometimes the process, but rarely focus on
+the outcomes produced by these processes.
+We recommend expanding these regulatory bodies to update
+their regulations to ensure they apply to AI-assisted decision-
+making.
+We also recommend creating training programs, processes,
+and tools to support these regulatory agencies in their
+expanded responsibilities and roles. It is important to
+recognize that AI can have a massive positive social impact,
+but we need to make sure that we can put guidelines and
+regulations in place to maximize the chances of the positive
+impact, while protecting people who have been traditionally
+marginalized in society and may be affected negatively by these
+new AI systems. Thank you for this opportunity, and I look
+forward to your questions.
+[The prepared statement of Dr. Ghani can be found on page
+34 of the appendix.]
+Chairman Foster. Thank you.
+And I now recognize myself for 5 minutes for questions.
+Dr. Thomas, the Equal Credit Opportunity Act, also known as
+ECOA, prohibits discrimination in lending based on the standard
+factors: race or color, religion, national origin, sex, marital
+status, age, and the applicant's receipt of income from any
+public assistance program. Today, is it technically possible to
+program these explicit constraints? If Congress gives exact
+guidance as to what we think is fair, are there still remaining
+technical problems? I would be interested in--yes, proceed.
+Mr. Thomas. Yes. We could program those into algorithms.
+For example, the Seldonian algorithms we have created, for most
+definitions of fairness, we could encode them now. The
+remaining technical challenge is just to recognize that often
+fairness guarantees are only with high probability, not
+certainty. So it may not be possible to create an algorithm
+that guarantees with certainty it will be fair with respect to
+the chosen definition of fairness, but we can create ones that
+will be fair with high probability, yes.
+Chairman Foster. Any other comments on that general
+problem? Is it just a definitional question we are wrestling
+with, or are there technical issues that are--Dr. Kearns?
+Mr. Kearns. If I understood you correctly, as per my
+remarks, I think all of these definitions that try to get to
+fairness by restricting inputs to models are ill-formed. You
+should specify what behavior you want at the output. So, when
+you forbid the use of race, you forget the fact that
+unfortunately, in the United States, ZIP code is already a very
+good statistical proxy for race. So what you should just do is
+say, ``Don't have racial discrimination in the output behavior
+of this model,'' and let the model use any inputs it wants.
+Ms. Henry-Nickie. I would just add that in optimizing for
+one definition of fairness, sometimes we are actually creating
+a disparate treatment effect within the protected class group.
+One study showed that when they optimized for statistical
+parity, meaning the same outcome for both groups, no
+differences, they actually hurt qualified members of a
+protected class. And so, there is a very costly decision
+involved in constraining for one definition, and hurting people
+in the real world.
+Chairman Foster. Mr. Ghani?
+Mr. Ghani. To that point, you can always achieve some--
+whatever definition of fairness in terms of the outcomes you
+care about. The question is, at what cost? There are a lot of
+ways you can make fairly random decisions, and a lot of random
+decisions will be somewhat fair, but the cost will be, in terms
+of effectiveness of outcomes, you are not going to get to
+people who need the support, who need the help, who need the
+loans, who need the services.
+So, the question is not whether the algorithms can achieve
+fairness. Yes, they can. But is the cost that comes with it
+acceptable to society and to the values that we care about?
+Chairman Foster. Yes, Ms. Williams?
+Ms. Williams. I would also add that this goes back to the
+point that I made about a narrative looking for facts. We want
+to be careful that, to Dr. Kearns' point, I think solving for
+the outcome is actually probably most effective. The inputs are
+very important, yes, but also you are typically picking those
+inputs because there is a desired outcome that you want, and
+that is why you are choosing the data sets that you are
+choosing.
+There also needs to be an element of making sure that you
+are examining and auditing the human behavior that is
+responsible for the decision-making based off of that output as
+well. It isn't enough to simply look at just the model and the
+inputs, but it is looking at the output, choosing to solve for
+the desired output, and then looking at the human decision-
+making behind how that comes to be.
+Chairman Foster. And the issue with black box testing, that
+you can look at the details of the algorithms, is that an
+appropriate stance for us to take in regulating this? This is
+something that we run into in things like regulating high
+frequency trading, where they are very protective of the source
+code for their trading, and they say: Just look at the trading
+tapes, and look at our behavior, and don't ask us how we come
+to that behavior.
+Is that going to end up being sufficient here, or would the
+regulators have to look at the guts of the algorithm? Dr.
+Thomas?
+Mr. Thomas. That will depend on the chosen definition of
+fairness. If the definition of fairness is that you don't look
+at a feature like race, which is the kind that Professor Kearns
+is arguing against, if it was that kind of definition, you may
+need to look at the algorithm, because it could be looking at
+some other features that make it act as though it was looking
+at that protected attribute.
+But if you are looking at a definition of fairness, like
+the ones Professor Kearns is promoting, things like equalized
+odds or demographic parity, which are requiring false positive
+and false negative rates to be bounded, those you could test in
+the black box way, looking at the behavior of the system and
+then determine if it is being fair or not, without looking at
+the code for the algorithm.
+Chairman Foster. Yes, Dr. Kearns?
+Mr. Kearns. I think one could go a long way with black box
+testing. It is always better to be able to see source code. I
+think it is also important to remember that sometimes when we
+talk about algorithms or models, we are oversimplifying.
+A good example is advertising results on Google. Underneath
+advertising results on Google is, indeed, a machine learning
+model that tries to predict the likelihood that you would click
+on an ad, and that goes into the process of placing ads. But
+there is also an auction being held for people's eyeballs and
+impressions, and these two things interact.
+For instance, there have been studies showing that
+sometimes gender discrimination in the display of STEM
+advertising in Google is not due to the underlying machine
+learning models of Google but rather to the fact that there is
+a group of advertisers willing to outbid STEM advertisers for
+female impressions.
+Chairman Foster. I will now have to bring the gavel down on
+myself for exceeding my time, and recognize the distinguished
+ranking member, Mr. Loudermilk, for 5 minutes for questions.
+Mr. Loudermilk. Thank you, Mr. Chairman.
+And thank you all for your incredible testimony. Spending
+30 years in the information technology sector, I have learned
+one thing, which is, if you are going to take a scientific
+approach to anything, you can't use your own bias, but you have
+to suspect bias. Many times I have gone to dealing with
+cybersecurity issues, programming security on physical
+networks, and it doesn't work it the way I thought it was
+supposed to work.
+Several times, I went in to check myself, and found out
+that what I suspected was supposed to happen isn't what was
+happening. In other words, my own bias of, I program it for
+this outcome, but the machine was actually giving me the proper
+outcome.
+The only reason I say that is, if you are going to take a
+scientific approach, you have to check your own bias as well.
+So, when I ask some questions here, don't interpret what I am
+trying to say. I just have--we have to understand that we all
+have bias. And we also have to look in--are there occasions
+when the output isn't what we expected, but it is the right
+output? And the only reason I am going down that because I want
+to ask some questions just to try to help us get to, where are
+we seeing the bias?
+And I am not going into questioning--or making a statement
+that, yes, AI is perfect, and it is working the way it should
+be, that there is anything wrong with the testimonies. I think
+as a community, we have to come together and we realize that
+this is the future we are going to and we have to get things
+right. And so I just wanted to say that, that if I ask
+questions, don't take it that I am trying to question the
+validity of what you are telling me. I just need to dig a
+little deeper into some of this.
+Ms. Henry-Nickie, as we are all concerned about potential
+bias in algorithms, we know from a scientific approach that
+humans have much more potential for bias than machines, if
+properly utilized and programmed. And I think that is what we
+are getting.
+Ms. Williams said something in her testimony that just
+highlighted--I just kind of want to step through some things to
+see if we can really drive in to where the issue exists. In her
+testimony, she was talking about home mortgage disclosures, and
+it showed that--and I believe, if I am right, Ms. Williams,
+this was AI approving home mortgages, is that correct--and I
+think it was like only 81 percent of Blacks were approved, and
+76 percent of Hispanics were approved.
+So my question, Dr. Henry-Nickie, is, how do we know that
+those numbers weren't correct? In other words, was a 19 percent
+disapproval of Black borrowers and 24 percent of Latinos
+outside of what would normally we see if it wasn't through an
+algorithm?
+Ms. Henry-Nickie. It is difficult to answer that question
+without looking at the algorithms, but I will tell you that it
+is not fair to assess what a proper outcome should be. The
+context matters.
+Mr. Loudermilk. Right.
+Ms. Henry-Nickie. And so, if the market bears an average
+denial rate of 19 percent, then that is the market. And if all
+groups--Hispanics, African Americans, and white borrowers--are
+being denied at systematically similar rates, then that is an
+outcome that I don't think we can argue with. What is
+troublesome or concerning in that kind of example would be a
+model that is systematically denying minority borrowers, and
+having that be based on their race or predicted by their race.
+Mr. Loudermilk. Right.
+Ms. Henry-Nickie. So I think it is--and we have all said it
+on the panel--looking squarely for computational technical
+solutions is part of the answer but it is not the complete
+answer. We need a systematic approach to making sure that we
+can understand what is going on in these algorithmic
+applications and also from there to monitor effects and most
+importantly processes.
+Mr. Loudermilk. And so, when it comes to testing AI
+platforms, it is not just the algorithm. There is a whole lot
+of emphasis on the algorithm, which is a mathematical equation.
+That is one part of a four-part testing that we need to do. The
+appropriateness of the data, the quality of the data, the
+availability of the data--you also have cognitive input systems
+that have to be considered if it is using facial identification
+for something. Is that actually operating?
+The reason I am asking the questions is to say, are we
+focused on an algorithm when the problem may actually be in the
+data or the appropriateness of the data if there is--and we
+just will make the assumption for this argument--that the
+output of the AI system is wrong? But I also think we do have
+to have empirical data to prove that the output is wrong, and
+it is not in our own bias. And I am not suggesting that that is
+what it is, but from a scientific approach, we have to do that.
+In a forensic way, if we are going to find out where the
+problem is, we have to consider all of that.
+If we have a second round, I will have more questions.
+Thank you, Mr. Chairman.
+Chairman Foster. I anticipate that we will. The gentleman
+from Missouri, Mr. Cleaver, who is also the Chair of our
+Subcommittee on National Security, International Development
+and Monetary Policy, is recognized for 5 minutes.
+Mr. Cleaver. Thank you, Mr. Chairman, and thank you for
+holding this hearing. Dr. Thomas, what is AI? Can you, as
+quickly, as short a definition as you--
+Mr. Thomas. Unfortunately, it is a poor definition, but AI,
+I view as just a research field that contains a lot of
+different directions towards making machines more intelligent
+so that they can solve problems that we might associate with
+intelligent behavior.
+Mr. Cleaver. Machine intelligence?
+Mr. Thomas. Yes.
+Mr. Cleaver. Okay. So, if Netflix begins to have showings
+for certain viewers, customers, and they know what movies and
+shows that I would most likely enjoy, what determined that? How
+did they get that information? Is that AI?
+Mr. Thomas. Yes. Typically, that would be machine learning,
+which is a subfield of AI, that uses data collected from
+people, for example, to make decisions or predictions about
+what those people will like in the future.
+Mr. Cleaver. Okay. Thank you. For any of our witnesses, I
+was on the committee when we had the economic collapse in 2008,
+and witness after witness testified clearly, unambiguously,
+that there was great intentionality in the discrimination in
+mortgages with Black and Brown people. They admitted it. Can
+AI, Ms. Williams, eliminate that or confuse it even more?
+Ms. Williams. It has the potential to do both. I'm sorry; I
+am giving you a very lawyerly answer, right? It depends. It
+literally can do both. My concern--the ranking member made a
+comment in regard to his question around, how do we know that
+this isn't the right answer based on the data that is received?
+Well, the answer to that, I would say, which is also analogous
+to your question, is if you are using historical data, the
+historical data already is biased.
+So, if we are talking about something that is based on
+redlining or something that is based on income of women or
+income of Black people in particular, we know that we are
+historically underpaid, even if we have the same credentials
+and qualifications and experience.
+So, if you are using bad inputs, you are going to get bad
+outputs. It is very akin to what Congressman Foster said:
+Garbage in, garbage out. So it has the potential to solve for
+it if you are also being cognizant of the fact that not all
+biases are bad. There may be some ways to solve for it,
+particularly the human decision-making element at the end, of--
+when you get the output. But the inputs also need to be
+completely vetted and understood as well. So, again, if you are
+using something that is based off of old redlining data, that
+is already going to skew your results.
+Mr. Cleaver. And to any of you, one of the most dangerous
+things, I contend, having grown up in the deep South, is
+unconscious bias. There would be people who would, without any
+hesitation or reservation, declare that, I have designed this
+machine and the algorithms are completely unbiased. Is that
+even possible? Anybody? Yes, sir, Mr. Ghani?
+Mr. Ghani. No. I don't think anybody is trained or
+certified today to the level where they can guarantee that an
+algorithm is unbiased. And I think, again, the focus on the
+algorithm is misleading. I think it is important to remember
+the algorithm doesn't do anything by itself.
+Mr. Cleaver. Yes.
+Mr. Ghani. You tell it what to do. So, if you tell it to
+replicate the past, that is exactly what it will do. You can
+take bad data, but tell it, ``Don't replicate the past, make it
+fair, here is what I mean by fair,'' even if that doesn't work,
+and as my fellow panelists were saying, the decisions we make
+based on the algorithm's recommendation, we don't have to do
+exactly what the algorithm says. We can override in certain
+cases when the algorithm gives us the right explanation, which
+we need that, and override it and/or reinforce what it is doing
+based on what our societal outcomes are.
+So we need training for regulators to understand these
+nuances, because today we don't have that capacity inside
+agencies to understand this, implement it, and enforce these
+types of regulations that should exist regardless of AI. What
+we are talking about is not about AI. It is about societal
+values that should exist in every human decision-making
+process.
+We are just talking about it today because the scale and
+the risks might be higher, but it is the same conversation that
+should have been happening continuously.
+Mr. Cleaver. My time has run out, but we had someone before
+this committee once who declared that he had never seen any
+discrimination and didn't know anything about it--and he was
+60-years-old--but he said he knew some people who had. Thank
+you.
+Chairman Foster. Thank you.
+And the gentleman from Virginia, Mr. Riggleman, is
+recognized for 5 minutes.
+Mr. Riggleman. Thank you, Mr. Chairman.
+Thank you, everybody, for being here. I had a whole list of
+questions, but now that I have heard you all, I am just going
+to just ask some cool things.
+Dr. Thomas, I was really impressed by your thoughtful words
+about contextual bandits. When I did this, I had to worry about
+technical or assumed bandits because we actually tried to
+template human behavior for node linking or information sharing
+and how they actually put that data together, and we had two or
+three people. And, by the way, when we templated each other's
+behavior, it was completely different. It was fantastic. But
+that is the algorithm we tried to do.
+So, I have a question for you on these contextual bandits
+because, as soon as you said that, I thought, oh, goodness, I
+have never heard that term, specifically. We always just called
+them screw-ups.
+Is there a list of contextual bandits that might be
+overlooked or not seen as egregious, and is there a prioritized
+set of rule set errors that you and your team or others have
+identified that we can point to and go look at, because, for
+instance, we had our huge list of errors that we had in our
+algorithmic rule sets that we were building through machine
+learning, but is there any--have you identified this list, or
+is there a list that we can see as far as those contextual
+bandits you are talking about?
+Mr. Thomas. I think we may have a miscommunication on the
+term, ``contextual bandits.'' By contextual bandit, I mean the
+machine learning paradigm where you make a decision based on a
+feature vector and then get a reward in return for it, and you
+optimize.
+Is that the same usage of the phrase that you are using?
+Mr. Riggleman. A little different, nope. You are right,
+because when you said, ``contextual bandit,'' I'm thinking
+about a bandit where you had a faulty piece of data put into
+your rule set, and that faulty piece of data came from
+somebody's context and what that piece of data should do.
+So, let me reframe the question. Is there any way to
+identify or is there a playbook or a technical order on how to
+remove some of those contextual bandits that, say, we as a
+committee can see or we can refer to?
+Mr. Thomas. Unfortunately, I am not particularly familiar
+with the specific definition of contextual bandit that you are
+using, so I apologize. ``Bandits'' in our setting refers to
+kind of like slot machines being called a one-armed bandit.
+Mr. Riggleman. Oh, okay. I thought you were talking about
+pieces of data within it. I am sorry about that because I am
+using ``contextual bandits'' from now on. That is the greatest
+term I have heard in a long time.
+And then, Dr. Kearns, I was listening to what you were
+saying. Where have improvements been in removing bias been most
+noticeable when you are looking at building these rule sets?
+Where have you seen that we have done the most improvement
+right now, and, again, is there something that I can go see,
+because I know our issues that we had in the DOD? Where can I
+go see where the most improvements are in removing bias and a
+way forward for us as we do this?
+Mr. Kearns. Yes. I guess, in my opinion, there is quite a
+bit of science on algorithmic fairness, and we sort of broadly
+know how to make things better right now, but it is, in my
+view, early days in terms of actual adoption, and I think one
+of the problems with adoption is that, for instance, even
+though many of the large tech companies have small armies of
+Ph.D.'s who think specifically about fairness and privacy
+issues in machine learning, there have been relatively few
+actual deployments into kind of critical products at those
+companies, and I think that is because of the aforementioned
+costs that I and my fellow panelists have made, right?
+If you impose a fairness constraint on Google advertising
+or in lending, that will inevitably come at a cost to overall
+accuracy. And so, in lending, a reduction in overall accuracy
+is either going to be more defaults or fewer loans granted to
+creditworthy people that would have given revenue.
+I think the next important step is to sort of explain to
+companies, either by coercion or encouragement, that they need
+to think carefully about these tradeoffs, and that we need to
+start talking about making these tradeoffs quantitative and
+kind of acceptable to both the industry and to society.
+Mr. Riggleman. And I think, Dr. Henry-Nickie, when you were
+talking about this, now that we went to tradeoffs, do you feel
+that--can it go the other way? Can we have too many tradeoffs
+when it comes to bias? And can we insert things in there that
+might not be real based on a political decision? I think that
+is the thing that everybody here wants to keep out of this, is
+that where is that line between making sure--do we have an
+algorithm writing on an algorithm for fairness, which is what
+we try to do, to write an algorithm to crosscheck our
+algorithms, or do we have to be very careful about what we
+identify as bias or fairness when we are making these rule
+sets, and where is that tradeoff, as far as can we go too
+political where it doesn't become fair based on the fact that
+we are too worried about what fairness looks like?
+Ms. Henry-Nickie. I think it can become too political. When
+the CFPB tried to implement its BISG to make auto lending fair,
+it went extremely political and ended up screwing consumers.
+Mr. Riggleman. Yes.
+Ms. Henry-Nickie. And so, I think we have to step back
+collectively as regulators, on the scientific community,
+consumer advocates, technologists, and public policy scholars,
+and try to think about, how do we create collective gradations
+of fairness that we can all agree with? It is not a hard-and-
+fast issue, and, as Dr. Thomas said and Dr. Kearns, more
+fairness, but you hurt some groups in protected classes who we
+wanted better off anyway, before the algorithms were imposed.
+Mr. Riggleman. I thank all of you for your thoughtfulness.
+I'm sorry. I know my time is almost up, but a little bit of
+time? I think it is up, right?
+Chairman Foster. There is an unofficial 40 seconds of slot
+time. So--
+Mr. Riggleman. Thank you.
+Chairman Foster. --you now have 18 seconds.
+Mr. Riggleman. You are a gracious man. Thank you, sir.
+Mr. Kearns. To just make one brief comment to make the
+political realities clear here: Pick your favorite specific
+mathematical definition of fairness and consider two different
+groups that we might want to protect by gender and by race. It
+really might be the case that it is inevitable that, when you
+ask for more fairness by race, you must have less fairness by
+gender, and this is a mathematical truth that we need to get
+used to.
+Mr. Riggleman. Thank you for that clarification. And thank
+you for your thoughtful answers. I appreciate it. And I yield
+back.
+Chairman Foster. The gentleman from Illinois, Mr. Casten,
+is recognized for 5 minutes.
+Mr. Casten. Thank you, Mr. Foster. I am just fascinated by
+this panel, and I find myself thinking that there is--I have
+deep philosophical and ethical questions right now that are
+really best answered in the context of a 5-minute congressional
+hearing, as all of our philosophers have taught us.
+I do, though, think there are some seriously philosophical
+questions here, and so I would like you just to think as big
+picture as you can, and hopefully as briefly as you can.
+First, Dr. Kearns, I was intrigued by your comment to Mr.
+Foster that we shouldn't define bias on the basis of inputs. I
+am just interested: Do any of the panelists disagree with that
+as a proposition?
+Okay. So, then, Dr. Kearns, help me out with the second
+layer. Is it more useful to define the bias in terms of outputs
+or in terms of how the outputs are used? Because I can imagine
+an algorithm that predicts where that crime is likely to occur
+at point X. I can imagine using that for good to prevent the
+crime. I can imagine using that to trade against in advance of
+the crime and make money off of it.
+How would you define the point of regulation or internal
+control where we should define that bias?
+Mr. Kearns. That is a great question. But it is not an easy
+one.
+First of all, it can't possibly hurt to get the outputs
+right in the first place. Second, there are many situations in
+which the output is the decision. So, criminal sentencing is an
+example where, fortunately, still, the output of predictive
+models is given to human judges as an input to their decision-
+making process, but lots of things in lending and other parts
+of consumer finance are entirely automated now. So there is no
+human who is overseeing that the algorithm actually makes the
+lending decision. There, you need to get the outputs right
+because there is no second point of enforcement.
+In general, I think, as per comments that people have made
+here already, it is true that we shouldn't become too
+myopically focused on algorithms and models only because there
+is generally a pipeline, right? There is a process to collect
+data from before, early in the pipeline, and there might be
+many steps that involve human reasoning down the line as well.
+But, to the extent that we can get the outputs fair and
+correct, that is better for the downstream process than not.
+Mr. Casten. So then the point about these--hold on a
+second, because I have two more meaty questions, and, like I
+said, all of these are like Ph.D. theses questions.
+Ms. Williams, you said in your comments that not all biases
+are bad. Do you have any really easy definition of how we would
+define good versus bad bias if we are going to go in and
+regulate this?
+Ms. Williams. That is a good question. It is giving me a
+college throwback idea.
+I guess it would be, if you have certain outputs that show
+disparity impact among groups or, let's say, certain housing
+decisions over the course of, let's say, three generations, if
+you somehow put that into your inputs or if you use that, if
+you are a human decision-maker who receives an output, and you
+decide that is something that you are going to try to correct
+for or solve for, then perhaps that is an example of bias for
+good.
+Mr. Casten. Okay. So my last really meaty one--I am going
+to give you the really hard one, Dr. Henry-Nickie.
+Let us assume, stipulate that people will make decisions
+based on bias, they will make money off of the decisions based
+on bias, because they already have. We already know that is
+going to happen.
+From a regulatory perspective, what do you think is the
+appropriate thing to do after that has happened? Are they
+obligated to disclose? I know of cases where hedge funds have
+found that they were actually trading on horrible things in the
+world and the algorithm got out of control. Should they
+disclose that? Should they return the gains that they have had
+to that? Should they reveal the code?
+If you are the philosopher king or queen, what is the right
+way for us to respond to something, having agreed that it
+should never have happened?
+Ms. Henry-Nickie. Well, I think our current regulatory
+framework allows for that situation, and it allows us to
+revisit the issue, analyze, and understand who the population
+was that was hurt, what they look like, how much disgorgement
+we should go back and get in terms of redress for consumers. So
+I think it is completely appropriate to go back and ask--not
+ask, but right the harms for consumers who have been hurt.
+Mr. Casten. But doesn't that assume that they have already
+disclosed it? In my scenario, where my algorithm is predicting
+a crime and I figure out how to short the crime--
+Ms. Henry-Nickie. Disclosure does not absolve you of
+liability.
+Mr. Casten. But if you are not obligated to disclose, how
+are we ever going to find out as regulators that it happened?
+Ms. Henry-Nickie. I think that is a really good question.
+If you are not obligated to disclose, then we are in a Catch-
+22, and then how do we find and identify and detect, and how do
+we hold them accountable? I think it is important for the CFPB,
+the DOJ, the OCC, and the Federal Reserve to have their
+enforcement powers intact and strengthened to be able to hold
+bad actors, regardless of intent, accountable for their
+decisions.
+Mr. Casten. Well, I am out of time. I yield back.
+And I am sorry, Mr. Ghani. I know your hand was up. Feel
+free to submit comments. And, if any of you have thoughts on
+that, feel free to submit them. Thank you so much.
+Chairman Foster. I believe it is likely that, if we don't
+have votes called, we will have a second round of questions.
+The gentleman from North Carolina, Mr. Budd, is recognized
+for 5 minutes.
+Mr. Budd. Thank you, Mr. Chairman. This is a fascinating
+conversation. Professor Ghani, was there something that you
+were--I think your hand was raised earlier. I have other
+questions for you, but if you wanted to clarify?
+Mr. Ghani. Yes, I wanted to go back to the first Ph.D.
+thesis that was talked about: Is it enough to get the outputs
+right, or is it important how those outputs are going to be
+used? And I think that that is probably the most critical
+question that has been asked today, because it doesn't matter
+what your outputs are if you don't act on them appropriately,
+right?
+Here is an example. If you are going to take the example
+of, you are not going to get all the outputs right, period. AI
+will never be good enough to get everything perfectly right. It
+is going to make mistakes. What mistakes are more important to
+guard against really depends on how those outputs are going to
+be used.
+If we predict somebody might commit a crime and the
+intervention we have is going and arresting them, that is a
+punitive intervention. False positives are back, like
+disproportionate false positives; much, much, much worse than
+missing people.
+If we predict that somebody is going to commit a crime, but
+they have a mental health need, and we are going to send out a
+mental health outreach team to help them, give them the support
+services they need, then missing people disproportionately,
+false negatives, are much, much, much worse than false
+positives.
+And so the intervention is what really decides how we
+design these algorithms, and it is not the output; it is--we
+can have the same output. Different interventions will require
+different notions of what to optimize for and the impact of the
+bias in society. So, I want to make that distinction clear--
+Mr. Budd. Thank you.
+Mr. Ghani. --because it does matter quite a bit.
+Mr. Budd. Thank you.
+And, in terms of using this AI for giving people credit, I
+think we can agree that giving consumers access to credit can
+fundamentally change their lives, and this is one tool that we
+are using that can help them do so. It allows consumers to buy
+a home, a car, pay for college, or start a small business.
+Using alternative data such as education level, employment,
+status, rent, or utility payments has the potential to expand
+access to credit for all consumers, especially those on the
+fringes of the credit score range.
+A recent national online survey shows that 61 percent of
+consumers believe that incorporating access to their payment
+history and their credit files will ultimately improve their
+scores. The same survey also found that more than half of
+consumers felt empowered when able to add their payment history
+into the credit files, and they cited the ability to access
+more favorable credit terms as one of the biggest benefits of
+sharing their financial information.
+So can you further elaborate, Mr. Ghani, on how the use of
+alternative data expands access to credit for low- to moderate-
+income consumers who would otherwise be unable to access that
+same credit?
+Mr. Ghani. Yes. I would go back to what Dr. Kearns was
+saying, that it is really not about the inputs, right? The
+sandbox we need to create is to enter those things in and then
+measure the outputs and then look at disparities in the rates
+at which you are going to offer loans or credits to people that
+you wouldn't have before.
+So, imagine our societal goal is that the lending decisions
+we want to make should serve to reduce or eliminate disparities
+in home ownership rates across, let's say, Black and white
+individuals, or minorities and white individuals. If that is
+the societal goal we want to have, then these inputs may or may
+not help us achieve that, and what we want to be able to do is
+to test that out, have a framework for testing it, validating
+it, certifying that it is actually doing that, and then put
+this into place after we have done trials, just like other
+regulatory agencies do.
+Starting with, if we put in these inputs, would it help? We
+don't know, but I think putting the right outcomes in place
+that you want to achieve and then testing it is the right
+approach to take.
+Ms. Henry-Nickie. I would add to that.
+Mr. Budd. I want to add an open question here, and if you
+can comment on the same thing, but then answer the open
+question, and that is ways that we can be more encouraging to
+use tools like alternative data and AI to raise access to
+credit and lower the overall costs for consumers, if there are
+ways that we can encourage that here, so please?
+Ms. Henry-Nickie. I will take that question first.
+I think we have to be careful about experimenting with
+people's--consumers' financial lives. I think a healthy way to
+discover what our new products are out there might be through
+pilots, might be through continued active observation, and also
+vigilant oversight, as in the Upstart case.
+To your question before, how do rental payments help to
+expand access to credit on alternative data? For example, in
+some markets, rental payments are as high as a mortgage or even
+higher, and, if you, as a first-time home buyer about to enter
+into this process have only had a rental payment history that
+is consistent, stable, not late, then taking that feature,
+substituting it for what a mortgage payment and standing in for
+mortgage payment--excuse me--could then push you above the
+margin to have the model predict that you were a good credit
+risk.
+Mr. Budd. Thank you, and I yield back.
+Chairman Foster. Thank you.
+The gentleman from Indiana, Mr. Hollingsworth, is
+recognized for 5 minutes.
+Mr. Hollingsworth. Good afternoon. I appreciate everybody
+being here. Certainly, were my wife here, she would tell you
+that I am far outside my circle of competence. So, I am going
+to ask a lot of really stupid questions and let you all give me
+really intelligent answers to those stupid questions.
+Can you clarify--the word ``fairness'' has been thrown
+around a lot. Can you clarify what you mean by fairness, the
+five of you? Have at it. Dr. Kearns, Ms. Williams, Dr. Thomas,
+everybody, anybody?
+Ms. Williams. Okay. I will go first.
+Mr. Hollingsworth. Okay.
+Ms. Williams. For me, I look at fairness as ensuring that
+all groups have equal probability of being assigned favorable
+outcomes.
+Mr. Hollingsworth. All groups have equal probability of
+being assigned outcomes irrespective of their current
+situations, or all individuals similarly situated are assigned
+the same outcome--the same probability of outcomes?
+Ms. Williams. The latter.
+Mr. Hollingsworth. The latter. Okay.
+Dr. Kearns?
+Mr. Kearns. There are too many definitions of fairness, as
+we have already alluded to, but the vast majority of them begin
+with, the user has to identify what group or groups they wanted
+to protect and what would constitute harm to those groups. So,
+it is maybe a racial minority, and the harm is a false loan
+rejection, rejection for a loan that they would have repaid.
+Mr. Hollingsworth. You have clearly short-circuited to what
+I was getting at, which is, we have a lot of senses of fairness
+and a lot of senses of what we want done, but the requirement
+in AI and algorithms is that we make explicit that which is
+right now implicit, right, and you have to be very good at
+making that explicit because the algorithm itself is going to
+optimize for what you tell it to optimize for, right? And so,
+you are going to have to make very clear what you were trying
+to optimize for in order to get that outcome, and then, to your
+point, what side you were unwilling to live with, right? I am
+unwilling to live with the extra risk on this side or perhaps
+that side depending on what situation you are in.
+So, not only do you have to have a lot of awareness about
+exactly what you want to optimize for, but also a lot of
+awareness about, in the context, what you are really worried
+about and what you are concerned about, the false positives or
+the other side of it.
+Dr. Thomas?
+Mr. Thomas. I absolutely agree. I missed what the precise
+question--
+Mr. Hollingsworth. No. I saw you nodding your head and I
+didn't know if you had a comment to the previous question about
+fairness.
+Mr. Thomas. I am generally just in agreement that you are
+hitting on very good points, and--
+Mr. Hollingsworth. I shall take that back to my wife. Maybe
+my circle of competence is bigger than I thought it was.
+Mr. Thomas. You are hitting on the point that there are
+many different definitions of fairness. The question of which
+one is right and nailing it down is very important.
+Mr. Hollingsworth. Yes.
+Mr. Thomas. And something that I think you might be kind of
+dancing around is this idea that the negative outcomes that are
+consistent with different definitions of fairness can often all
+seem bad. There can be two different definitions of fairness,
+and, if we pick one, it means we are saying that the
+undesirable, unfair behavior of the other is necessarily okay.
+Mr. Hollingsworth. Yes. And I think Dr. Kearns talked a
+little bit about this earlier, and it is something that puzzles
+me a lot because I think, in some places, the tradeoff in
+fairness for one group may mean less fairness in the other. Did
+you say that, Dr. Kearns?
+Mr. Kearns. I did.
+Mr. Hollingsworth. Yes. And this is something that others
+have hit on as well, that we are going to have to grow
+comfortable saying to ourselves that we are going to trade
+fairness here for fairness there--and not just more fairness
+for perhaps less accuracy in the model itself, which is
+something we have had more comfort in. But trading fairness and
+risk to a certain group is something we have been really
+uncomfortable with because we want fairness for everybody in
+every dimension, which seems--I don't want to say impractical,
+but it seems challenging inside an AI algorithm in
+optimization.
+Mr. Kearns. I would say--
+Mr. Hollingsworth. Do you agree with this?
+Mr. Kearns. --that is, in fact, impractical. And let me
+just, while we are in the department of bad news, also point
+out that all of these definitions we are discussing are
+basically only aggregate definitions and only provide
+protections at the group level.
+Mr. Hollingsworth. Right.
+Mr. Kearns. So, for instance, you can be fair, let's say,
+by race in lending. And if you are a Black person who was
+falsely rejected for a loan, your consolation is supposed to be
+the knowledge that white people are also being falsely rejected
+for loans at the same rates. There is literature on individual
+notions of fairness, definitions of fairness that try to make
+promises to particular people that are basically impractical
+and feasible. It is sort of a theoretical curiosity, but no
+more.
+Mr. Hollingsworth. Yes. I appreciate that.
+Each of you have talked a little bit about the pipeline
+that AI algorithms aren't birthed in the ether, right, that
+they rely on data, A; and, B, individuals craft these. I wonder
+if you might talk a little bit about the biases that we are
+talking about, are they more likely to arise from the algorithm
+itself, or are they likely to arise from the coder or the
+drafter of said algorithm, or are they likely to arise from the
+data that is being input into them? Where should we look first
+if we are going to look through that pipeline? Ms. Williams?
+Ms. Williams. I would say look on the human level first,
+because a human is going to discern what is the narrative that
+they are actually solving for, and then therefore, what is the
+data that they are going to use, and they discern the quality
+of data that is used, and they then discern the training set
+that is created and how that is functional. I also want to be
+clear that I don't think that there are a bunch of mad coders
+sitting in a basement somewhere.
+Mr. Hollingsworth. Yes. The fair expectations of society.
+Ms. Williams. I don't think that is it. It is very--you
+don't know what you don't know.
+Mr. Hollingsworth. Yes. I agree.
+Ms. Williams. And I think, oftentimes, if people pick data
+that is available to them, they may not do a ton of due
+diligence to find additional data or data that may even offset
+some of the data that they already have. But I would say, start
+at the human level first, because that is where everything else
+sort of begins in terms of picking the data, the quality of
+data, and then actually doing the coding.
+Mr. Hollingsworth. Yes. Thank you.
+With that, I yield back, Mr. Chairman.
+Chairman Foster. Thank you.
+And now, I guess we have time for a quick second round of
+questions. Votes are at 3:30, and we have nerves of steel here,
+I'm learning, so we will give it a try here.
+So, I will recognize myself for 5 minutes.
+I would like to talk about the competitive situation that
+would happen when you have multiple companies, each running
+their own AI and, say, offering credit to groups of people.
+If you just tell them, ``Okay, maximize profits, that is a
+mathematically well-defined way to program your AI,'' and they
+would all do it identically, and the competition would work out
+in an understandable way.
+Now, if you impose a fairness constraint on these, first
+off, that will reduce the profitability of any firm that you
+impose the fairness constraint on, so they are not simply
+maximizing profits, and then, if a new competitor may come in
+and, say, and say, oh, there is a profitable opportunity to
+cherry pick customers that you have--that your fairness
+constraint has caused you to exclude, and is that a
+mathematically stable competition? Has that been thought about?
+Do you understand the problem I am talking about?
+Mr. Kearns. If I understand you correctly, there is
+literature in economics on whether, for instance, racial
+discrimination in hiring can actually be a formal equilibrium
+of the Nash variety.
+Chairman Foster. Maybe that is a good description.
+Mr. Kearns. Gary Becker was a very famous economist who did
+a lot of work in the 1960s and 1970s on exactly this topic, and
+it is complicated, but the top-level summary of his work is
+that the argument that you can't have discrimination in hiring
+at equilibrium because you wouldn't be competitive, because you
+are irrationally excluding some qualified sectors of the job
+market. He actually shows that, in fact, you can have
+discrimination even at equilibrium.
+Chairman Foster. So, one of the questions would be whether
+you are better off actually having multiple players here. So,
+if someone is erroneously excluded because of some quirk in
+some model, then it would be to the advantage of society
+overall to have multiple players, so that person could go to a
+second credit provider?
+Mr. Kearns. You are asking kind of the reverse of Becker's
+question, which is, if you don't have sort of regulatory
+conditions on antidiscrimination, for instance, might there be
+arbitrage opportunities for new entrants? I don't know that
+that question has specifically been considered, but it is a
+good question.
+Chairman Foster. Yes, Mr. Ghani?
+Mr. Ghani. I think one thing I would point out is the
+premise that, if you put those constraints there, the profits
+will go down; that is not a guarantee. We don't know that, and
+here is why, right? I think it was Dr. Kearns who was talking
+about how there are a lot of people who just--we don't know
+what happens in somebody who was never--the type of person was
+never given loans before. What happens when you give them a
+loan, right?
+So it could be that, when you start adding these fairness
+constraints, it turns out that you don't actually lose profits,
+and, in fact, you might increase profits. These are things
+called counterfactuals, where, because you have never given
+loans to people like this, you don't know what the outcomes
+are. You might have just--the human decision-making process
+that existed before was only giving loans to people they
+thought were going to pay back loans.
+Chairman Foster. That has to do with the exploratory phase
+of programming your neural--
+Mr. Ghani. That is correct.
+Chairman Foster. --to actually do random, crazy stuff
+because you may discover a pocket of consumers--
+Mr. Ghani. Hopefully better than random, crazy stuff, but
+some smarter version of that, yes.
+Chairman Foster. Yes. And so, this question of similarly
+situated people, that depends on the scope of the data that you
+are looking at, because two people can look similarly situated
+if you only look at their family and their personal history,
+and then, if you look at a wider set of things--I think this is
+what came up with Apple and Goldman where, if you just looked
+at one-half of a couple's credit information, you would give a
+different credit limit on a credit card, I think it was,
+whereas, if you look holistically at both halves of a couple,
+you get a different answer. And there is no obvious right
+answer to how wide you should spread your field of view here.
+Is that an unresolvable problem that you are going to need
+Congress to weigh in on? Yes?
+Mr. Ghani. I think this is exactly why these systems need
+people in the middle, but, also, these systems need
+collaborative processes upfront, including the people who are
+going to be impacted by them. If you start including those
+communities, they will tell you that there is actually really
+good work. There is a group in New Zealand who has been doing,
+how do we incorporate community input into designing these
+types of algorithms? What input attributes do we use that best
+represent the differences and similarities across these?
+So it is inherently--it is going to be hard to automate
+that today, but I think that is the process we need, which is
+to include the community that is being impacted and humans in
+the loop, in the system, coming up with some of these things,
+and collaborating with the machines.
+Chairman Foster. Well, okay. That sounds ambitious. I am
+just trying to think of assembling groups that are sufficiently
+knowledgeable about the nuts and bolts of this and to have--and
+where you are balancing the people who wind up winning and
+losing according to the tradeoffs you are going to be making.
+Mr. Ghani. The challenge is some of the--the amount of data
+you have on people is also a function of who they are. Some
+people are less reluctant or more reluctant to give data about
+themselves. They may have less of a history. Immigrants are
+coming in who don't have a background, and credit history, so
+missing information. It is not just that you have the data, you
+can just get it and compare those. You might not have that
+data, and that is also biased in the data collection process.
+Chairman Foster. Okay. I will gavel myself down and
+recognize the ranking member for 5 minutes.
+Mr. Loudermilk. Thank you, Mr. Chairman.
+Unfortunately, we only have a few more minutes. I think we
+could all be here all day discussing this.
+Something Ms. Williams and Dr. Kearns said earlier has
+really been resonating: Not all bias is bad. We agree. In fact,
+if we take kind of the model we have been talking about, loan
+applications, whether there is a mortgage or not, the whole
+purpose of the AI platform is to be biased, right? That is the
+actual purpose, is to be biased, but what is the bias that we
+want? We want those who are likely to pay a loan back, really
+is what we are getting at. So I think I see what you are
+saying. There is some bias that you want in there.
+What is the bias we want to eliminate, is really the
+question, and that goes to something Dr. Kearns said, well, if
+we reprogram it to make sure more of one racial group gets more
+approval, then you may see a gender impacted. And so, this is
+kind of a conundrum we are in until we figure out or define
+what bias do we want in a particular system, but, more
+importantly, what do we not want?
+When I look at it as what do we not want, if Mr. Budd and
+myself are identical--I know that we are identical in income
+because I know what he does for a living, and that the law
+doesn't allow him to take any other income, right? But if he is
+Hispanic, I am white, and the chairman is Black, and we all
+have the same income, we all have the same assets, we all have
+basically the same biographical data, do we all get the same
+result, whether it is approval or disapproval? That is really
+what I think we are trying to get to.
+It isn't that we weren't happy with the result that came
+out, but we have to go back and find out why. And that is what
+we are getting at.
+Mr. Ghani, if it exists, and since algorithms are my
+mathematical equation, really, I think part of the problem is,
+when you get into the machine learning and the algorithm begins
+to rewrite itself, how do we track it?
+We verify the data is good. I think most of the problems we
+have are probably in the data and the appropriateness of the
+data. Let me say not just in the raw data, but the
+appropriateness of the data.
+But if we do want to check the algorithms, is there a way
+of running what I would call in the network world an audit
+trail in the development of the algorithm, throughout the
+operation of the algorithm, and each phase of decision it is
+making, and the actual coding, and is there a way to go back
+and do a forensic audit trail on these algorithms?
+Mr. Ghani. Yes, absolutely, and I think that is the right
+approach, is you can audit the data, and that is great. But
+then you are going to--I think the starting point is you want
+to tell it what you want the system to achieve. Then, you want
+to turn those into technical requirements for the system to see
+what to tell it to do, and then you want to confirm that it did
+what you told it to do, and then you want to test it and see,
+does it continue to do what you--what it did yesterday, right?
+When you answer, what should we ask a company to disclose,
+it is not the algorithm. It is not the code. It is not the
+data. It is this entire audit trail, and that is what we need
+to look at to figure out where it is happening.
+Mr. Loudermilk. Well, that's an interesting aspect, and
+take it a step further. The difference between software and
+artificial intelligence is we expect software to give us the
+same result every time, right? That is not the case with
+artificial intelligence, correct, because artificial
+intelligence is always looking for other data, and it may give
+us a different outcome the next day based on something that
+changed the day before, and it may rewrite itself to learn new
+things.
+I think that is some of the challenge going forward is, if
+you tell the machine that is not the right answer, it is going
+to look for a different answer in the future. This is stuff we
+wrote science fiction about just 10 years ago, right? So, when
+we code the algorithms themselves, can we actually program in
+the artificial intelligence platform to do systematic reports
+throughout the process?
+Mr. Ghani. Absolutely.
+Mr. Loudermilk. Okay.
+Mr. Ghani. That should be standard. That should be part of
+our training programs for people who are building these
+systems. It should be part of training for auditors who are
+doing compliance. Absolutely, that is the right approach.
+Mr. Loudermilk. Okay. And the last part is probably more a
+statement than a question. In my opening statement, I talked
+about different analytical models. I think the one that
+concerns us the most is what I call the execution model. We
+have presentation of data. We have predictive analysis. We have
+prescriptive analysis that prescribes, okay, approve or don't
+approve. And we can do that, but, yet, there is a human element
+making the same decision.
+It is like the backup warning on my car that beeps and it
+says something is behind me. It doesn't stop the car. I still
+make the decision. But if you watch the Super Bowl, the Smart
+Park, right, it is actually making the decisions. In this case,
+it is the machine making the decision of go/no-go on the loan.
+It is executing on that, and I think, until we get this fixed,
+we may need to look at, is there an appeal process for that go/
+no-go that a human element can go in and work?
+So, thank you, Mr. Chairman. It sounds like our warning
+bell is going off, and my time has expired.
+Chairman Foster. Thank you.
+I would like to also thank our witnesses for their
+testimony today.
+Without objection, the following letters will be submitted
+for the record: the Student Borrower Protection Center; Cathy
+O'Neil of O'Neil Risk Consulting & Algorithmic Auditing; the
+BSA Software Alliance; The Upstart Network, Incorporated; and
+Zest AI.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+This hearing is now adjourned.
+[Whereupon, at 3:33 p.m., the hearing was adjourned.]
+
+A P P E N D I X
+
+February 12, 2020
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

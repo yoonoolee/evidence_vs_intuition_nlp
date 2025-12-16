@@ -1,0 +1,1835 @@
+- PRIVACY IN THE AGE OF BIOMETRICS
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+PRIVACY IN THE AGE OF BIOMETRICS
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON INVESTIGATIONS
+AND OVERSIGHT
+
+OF THE
+
+COMMITTEE ON SCIENCE, SPACE,
+AND TECHNOLOGY
+
+OF THE
+
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+SECOND SESSION
+__________
+
+JUNE 29, 2022
+__________
+
+Serial No. 117-63
+__________
+
+Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://science.house.gov
+
+__________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+47-841PDF                  WASHINGTON : 2023
+
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+HON. EDDIE BERNICE JOHNSON, Texas, Chairwoman
+ZOE LOFGREN, California              FRANK LUCAS, Oklahoma,
+SUZANNE BONAMICI, Oregon                 Ranking Member
+AMI BERA, California                 MO BROOKS, Alabama
+HALEY STEVENS, Michigan,             BILL POSEY, Florida
+Vice Chair                       RANDY WEBER, Texas
+MIKIE SHERRILL, New Jersey           BRIAN BABIN, Texas
+JAMAAL BOWMAN, New York              ANTHONY GONZALEZ, Ohio
+MELANIE A. STANSBURY, New Mexico     MICHAEL WALTZ, Florida
+BRAD SHERMAN, California             JAMES R. BAIRD, Indiana
+ED PERLMUTTER, Colorado              DANIEL WEBSTER, Florida
+JERRY McNERNEY, California           MIKE GARCIA, California
+PAUL TONKO, New York                 STEPHANIE I. BICE, Oklahoma
+BILL FOSTER, Illinois                YOUNG KIM, California
+DONALD NORCROSS, New Jersey          RANDY FEENSTRA, Iowa
+DON BEYER, Virginia                  JAKE LaTURNER, Kansas
+CHARLIE CRIST, Florida               CARLOS A. GIMENEZ, Florida
+SEAN CASTEN, Illinois                JAY OBERNOLTE, California
+CONOR LAMB, Pennsylvania             PETER MEIJER, Michigan
+DEBORAH ROSS, North Carolina         JAKE ELLZEY, TEXAS
+GWEN MOORE, Wisconsin                MIKE CAREY, OHIO
+DAN KILDEE, Michigan
+SUSAN WILD, Pennsylvania
+LIZZIE FLETCHER, Texas
+------
+
+Subcommittee on Investigations and Oversight
+
+HON. BILL FOSTER, Illinois, Chairman
+ED PERLMUTTER, Colorado              JAY OBERNOLTE, California,
+AMI BERA, California                   Ranking Member
+GWEN MOORE, Wisconsin                STEPHANIE I. BICE, Oklahoma
+SEAN CASTEN, Illinois                MIKE CAREY, OHIO
+
+C  O  N  T  E  N  T  S
+
+June 29, 2022
+
+Page
+
+Hearing Charter..................................................     2
+
+Opening Statements
+
+Statement by Representative Bill Foster, Chairman, Subcommittee
+on Investigations and Oversight, Committee on Science, Space,
+and Technology, U.S. House of Representatives..................     9
+Written Statement............................................    10
+
+Statement by Representative Jay Obernolte, Ranking Member,
+Subcommittee on Investigations and Oversight, Committee on
+Science, Space, and Technology, U.S. House of Representatives..    11
+Written Statement............................................    13
+
+Written statement by Representative Eddie Bernice Johnson,
+Chairwoman, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................    14
+
+Witnesses:
+
+Ms. Candice Wright, Director, Science, Technology Assessment, and
+Analytics, U.S. Government Accountability Office
+Oral Statement...............................................    15
+Written Statement............................................    18
+
+Dr. Charles H. Romine, Director, Information Technology
+Laboratory, National Institute of Standards and Technology
+Oral Statement...............................................    41
+Written Statement............................................    43
+
+Dr. Arun Ross, Professor, John and Eva Cillag Endowed Chair in
+Science and Engineering, Michigan State University; Site
+Director, Center for Identification Technology Research
+Oral Statement...............................................    50
+Written Statement............................................    52
+
+Discussion.......................................................    59
+
+PRIVACY IN THE AGE
+OF BIOMETRICS
+
+----------
+
+WEDNESDAY, JUNE 29, 2022
+
+House of Representatives,
+Subcommittee on Investigations and Oversight,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+
+The Subcommittee met, pursuant to notice, at 11 a.m., via
+WebEx, Hon. Bill Foster [Chairman of the Subcommittee]
+presiding.
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. All right, this hearing will now come to
+order. Without objection, the Chair is authorized to declare
+recess at any time. And before I deliver my opening remarks, I
+wanted to note that today the Committee is meeting virtually,
+and I wanted to announce a couple of reminders to the Members
+about the conduct of the hearing. First, Members should keep
+their video feed on as long as they are present at the hearing.
+Members are responsible for their own microphones. Please also
+keep your microphones muted, unless you're speaking. Finally,
+if Members have documents that they wish to submit for the
+record, please e-mail them to the Committee Clerk, whose e-mail
+address was circulated prior to the meeting.
+Well, the--good morning. Welcome to our Members and our
+panelists. Thank you for joining us for this hearing on
+securing privacy in the age of biometric technologies.
+Biometric technologies have made great strides in recent years,
+and offer a convenient upgrade to many security measures, from
+opening your smartphone with a fingerprint, to passing through
+Customs with a face match. Much of the discussion around
+biometrics has revolved around the serious deficiencies in the
+ability of facial recognition technology to accurately match,
+particularly non-White, female, and young faces. These
+discrepancies have been a legitimate obstacle to fair and
+equitable implementation, and in the last few years, much work
+has gone into closing these gaps, particularly at the National
+Institute of Standards and Technology (NIST), and in industry.
+Accuracy across demographic groups has improved dramatically.
+While facial recognition researchers and companies should
+continue to address remaining racial bias in their algorithms,
+we on the Science Committee should also explore the next
+frontier of problems that accompany the inexorable expansion of
+biometric technologies. The utility of biometric technologies
+are surely understood by everyone in this virtual room here. We
+are constantly opting in to lend our biometric information to
+make our lives that much easier, unlocking our phone with our
+masks or unmasked faces, accessing bank accounts with our
+voice, and perhaps you've even visited a grocery store that
+used facial recognition technology for easy checkout. And when
+you opt in to these uses, there is a baseline expectation that
+your information will be used as intended. Informed consent,
+and regulations on data storage and sharing, are important
+pieces of this puzzle. Illinois's Biometric Information Privacy
+Act, for example, is currently the most protective law on the
+books in the United States. The ACLU (American Civil Liberties
+Union), in fact, successfully settled with a facial recognition
+company, Clearview AI, for violating the rights of Illinois
+residents, and the company must now offer residents an opt-out
+mechanism.
+Today our focus will be on how technological solutions can
+secure our privacy, while allowing us to enjoy the benefits of
+biometric tools. Biometric privacy enhancing technologies (B-
+PETs) can, and should, be implemented along with biometric
+technologies. So-called B-PETs--these so-called B-PETs can be
+implemented at the point of capture, improving the precision of
+collection tools to ensure that they are not picking up
+features that are not necessary for use. They can insert, for
+example, obfuscations on the data collected, degrading the
+quality of the information, or introducing statistical noise so
+that the biometric data is less usable for unintended uses. A
+technique called template protection can ensure that one's
+system--one system's biometric information is encrypted such
+it--that it cannot be read by another system. For example,
+someone's image obtained from the security systems at a
+doctor's or psychiatrist's office, for example, cannot be
+linked to the workplace's--to the worker's workplace identity
+verification system.
+Federal agencies, including NIST, who's represented at this
+hearing today, as well as DHS's (Department of Homeland
+Security's) Science and Technology Directorate, are already
+working to develop and improve privacy protecting technologies
+for biometric technologies. The America COMPETES Act, which I'm
+helping to conference with, and--with the Senate, contains a
+number of provisions that will future-proof the government's
+definitions and standards for biometric identification systems
+and invest in privacy enhancing technologies. I look forward to
+hearing from our panel how we can further invest in these
+protections as biometric technologies become more and more
+prevalent in our daily lives.
+And the timing of our discussion today is notable. The
+Supreme Court has recently substantially weakened the
+Constitutional right to privacy in their recent decision
+overturning Roe v. Wade, and States attempting to criminalize
+access to medical care may try to use biometric data to prove
+where someone has been and what they did when they were there.
+And third parties may also try to access biometric information
+to collect the bounties now being offered by some States to
+enforce their new laws, and this makes protecting Americans'
+biometric data more important than ever.
+And finally, I just wanted to observe that some of our
+witnesses' testimony came a little bit late for this hearing,
+and I apologize to the other Members, and--of the Subcommittee
+that we didn't have the usual amount of time as we would
+normally like to have had to prepare.
+[The prepared statement of Chairman Foster follows:]
+
+Good morning, and welcome to our Members and our panelists.
+Thank you for joining us for this hearing on securing privacy
+in the age of biometric technologies. Biometric technologies
+have made great strides in recent years, and offer a convenient
+upgrade to many security measures, from opening your smart
+phone with a fingerprint to passing through Customs with a face
+match.
+Much of the discussion around biometrics has revolved
+around the serious deficiencies in the ability of facial
+recognition technology to accurately match non-white, female,
+and young faces. These discrepancies have been a legitimate
+obstacle to fair, equitable implementation. And in the past few
+years, much work has gone into closing these gaps, particularly
+at the National Institute of Standards and Technology. Accuracy
+across demographic groups has improved dramatically. While
+facial recognition researchers and companies should continue to
+address remaining racial bias in their algorithms, we on the
+Science Committee should explore the next frontier of problems
+that accompany the inevitable expansion of biometric
+technologies.
+The utility of biometric technologies are surely understood
+by everyone in this (virtual) room. We are constantly opting in
+to lend our biometric information to make our lives that much
+easier--unlocking our phone with our masked faces, accessing
+bank accounts with our voice, and perhaps you've even visited a
+grocery store that used facial recognition technology for easy
+check-out. And when you opt in to these uses, there is a
+baseline expectation that your information will be used as
+intended. Informed consent and regulations on data storage and
+sharing are important pieces of the puzzle. Illinois's
+Biometric Information Privacy Act, for example, is currently
+the most protective law on the books in the United States. The
+ACLU successfully settled with facial recognition company,
+Clearview AI, for violating the rights of Illinois residents,
+and the company must now offer residents an opt-out mechanism.
+Today our focus will be on how technological solutions can
+secure our privacy while allowing us to enjoy the benefits of
+biometric tools.
+Biometric privacy enhancing technologies can and should be
+implemented along with biometric technologies. So-called B-PETs
+can be implemented at the point of capture, improving the
+precision of collection tools to ensure they are not picking up
+features that are not necessary for use. They can insert
+obfuscations on the data collected, degrading the quality of
+the information or introducing statistical noise so the
+biometric data is unusable for unintended uses. A technique
+called template protection can ensure that one system's
+biometric information is encrypted such that it cannot be read
+by another system--for example, someone's image obtained from
+the security system at a doctor's office, for example, cannot
+be linked to their workplace's identity verification system.
+Federal agencies--including NIST, who is represented at
+this hearing today, as well as DHS's Science and Technology
+Directorate--are already working to develop and improve
+privacy-protective technologies for biometric technologies. The
+America COMPETES Act, which I am helping to conference with the
+Senate, contains a number of provisions that will future-proof
+the government's definitions and standards for biometric
+identification systems and invest in privacy enhancing
+technologies. I look forward to hearing from our panel about
+how we can further invest in these protections as biometric
+technologies become more and more prevalent in our daily lives.
+The timing of our discussion today is notable. In
+overturning Roe v. Wade, the Supreme Court has substantially
+weakened the Constitutional right to privacy. States attempting
+to criminalize access to medial care may try to use biometric
+data to prove where someone has been and what they did there.
+This makes protecting Americans' biometric data more important
+than ever.
+I now yield to Ranking Member Obernolte for his opening
+statement.
+
+Chairman Foster. And The Chair will now recognize Ranking
+Member of the Subcommittee on Investigations and Oversight, Mr.
+Obernolte, for an opening statement.
+Mr. Obernolte. Well, thank you very much, Chairman Foster.
+Good morning, everyone. I'm really excited about our hearing
+this morning. On the benefits and risks of biometric
+technologies, and exploring research opportunities in these
+technologies, I'm really hoping that this hearing turns into a
+productive discussion that helps us learn about ways to improve
+biometric technologies in the future, at the same time
+protecting peoples' privacy.
+I was reflecting this morning on the fact that biometric
+technology have really changed the way that we live our lives.
+Just this morning I used facial recognition to open my phone,
+used the fingerprint reader on my computer to open my MacBook.
+When I got in my car this morning to come to my district
+office, the car recognized my face to set the seat settings,
+and, as I was driving, used facial recognition to make sure
+that I was paying attention to the road, and that's just in the
+first couple of hours of today, so it's definitely changed our
+lives, and it's amazing to think that this was once the world
+of science fiction, and now we just take it completely for
+granted.
+Obviously biometrics bring a lot of benefits to our daily
+lives, and we want to make sure that we're able to continue to
+allow those benefits, while protecting the privacy of the
+people that rely on biometrics. So, for that reason, I am
+particularly glad that Dr. Romine, from the National Institute
+of Standards and Technologies, is with us here today to talk
+about the work that NIST is doing in this space.
+NIST has been working in research and development in
+biometrics for over 60 years. They have had an incredible role
+to play in developing standards for biometrics, and I'm hoping
+that, in the same way that they helped the FBI establish
+standards for fingerprint technologies in the 1960's, that
+they're going to be able to take a leadership role in
+establishing standards at the national and international level
+for biometrics today. These standards are going to be critical
+to enable the exchange of biometric data between agencies and
+their systems, as well as providing guidance for how those
+biometric systems are tested, and how performance is measured,
+and how assurances are made that data is shared securely, and
+that privacy is protected.
+That's important because, I mean, as we all know,
+biometrics are really no different than any other advanced
+technology in that they have beneficial uses, but also their
+misuse can harm individuals and harm our society, in this case
+by compromising the privacy of individuals, or the security of
+their information. So, as policymakers, we need to be acutely
+aware about not only the benefits that these biometrics have to
+our society, but also of the risks associated with the
+technology, especially, in my opinion, when it comes to the
+covert collection, and the issue of individual consent to have
+one's information stored and used.
+I think, as policymakers, we have to balance that awareness
+against the potential benefits that biometrics bring to
+society. You could easily imagine us taking a draconian
+approach to regulating biometrics that effectively prevents the
+development and use of biometrics, which would lose all of the
+benefits that we enjoy from biometrics. And I'm not just
+talking about unlocking our phones, or setting the seats on our
+cars. Biometric technologies really have extraordinarily
+helpful applications.
+To give you a couple of examples, in Ukraine, the Defense
+Ministry is using Clearview AI's facial recognition technology
+to recognize Russian assailants and identify dead combatants.
+Meredith's analytics tool Traffic Jam uses facial recognition
+and AI (artificial intelligence) to detect patterns in sex
+trafficking ads to help law enforcement identify victims of sex
+trafficking. If we were to take an overly heavy-handed approach
+to regulating biometrics, we would lose out on those lifesaving
+applications as well.
+And that's something I actually have some firsthand
+experience with. Before serving in Congress, I was a member of
+the California State Legislature, and I served on the Committee
+for Privacy and Consumer Protection in the early days of facial
+recognition, before the risks and the benefits of the
+technology were well understood. And I can tell you, we saw a
+lot of bills that were misguided proposals that could've
+effectively banned the use of facial recognition technology
+altogether. So it's clear that it's a lot easier for us to push
+for legislation to outlaw technology entirely than it is to
+conduct due diligence, and try to intelligently balance the
+benefits against the risks of technology.
+And that's actually why the work of NIST is so valuable
+here. A better understanding of the technology, and carefully
+developed safeguards and standards, will help us develop
+biometrics in a way that provides safety for people's privacy
+without stifling the innovation that's going to lead to future
+breakthroughs and benefits to society. So looking very much
+forward to learning about their work today, and to hearing from
+our witnesses. Thank you, Chairman Foster, for convening the
+hearing. I am very much looking forward to the discussion, and
+I yield back.
+[The prepared statement of Mr. Obernolte follows:]
+
+Good morning. Thank you, Chairman Foster, for convening
+this hearing. And thanks to our witnesses for appearing before
+us today.
+The purpose of this hearing is to discuss the benefits and
+risks of biometric technologies and to explore research
+opportunities in privacy-enhancing technologies for biometric
+applications. I hope today's hearing will be a productive
+discussion that will help us learn ways to improve biometric
+technologies for the future.
+Once confined to the world of science fiction, biometric
+technologies have become integrated into our daily lives. From
+unlocking an iPhone with a fingerprint or face scan, to asking
+Alexa or Siri what the weather is, to boarding an airplane,
+biometric technology is everywhere, and it is rare to go a day
+in 2022 without interacting with some form of biometric
+technology.
+The benefits are clear: when used well biometrics give us
+easier authentication, more secure logins, and personally
+customized interactions with technology.
+Given the prevalence of biometrics, I am particularly glad
+to have Dr. Charles Romaine from the National Institute of
+Standards and Technology (NIST) here with us today to tell us
+more about the important work NIST is doing in this space. NIST
+has been conducting biometrics research and development for
+over 60 years, and in the 1960s, NIST helped the Federal Bureau
+of Investigations (FBI) with work on fingerprint technologies
+to support law enforcement and forensics.
+Today, NIST conducts research projects as well as testing
+and evaluation of several biometric modalities including
+fingerprints, face, iris, voice, and DNA.
+Additionally, NIST is also engaged in biometric standards
+development at the national and international level. Standards
+and their guidance are important to enable the exchange of
+biometric data between agencies and their systems; provide
+guidance on how biometric systems are tested and performance is
+measured; define methods for assessing the quality of
+biometrics; and to ensure government systems work well
+together.
+NIST's role in researching biometrics technologies and
+establishing standards and guidance will not only drive
+advances in how we use biometrics, but also give us a better
+understanding of the potential security and privacy risks
+associated with them.
+Biometrics are no different than many advanced technologies
+in that their misuse can harm individuals--in this case by
+compromising their privacy or the security of their
+information. Biometrics are a tool, and like any tool, they can
+be used to benefit individuals, or to harm them.
+As policymakers, we need to be acutely aware of the risks
+associated with this technology, especially covert collection
+and the issue of individual consent to have one's information
+stored and used.
+However, we must also balance that awareness against the
+potential benefits that biometrics bring to society. Were we to
+adopt a draconian approach that effectively prevents the
+development and use of biometrics, we would lose these valuable
+benefits-and not just the airport and smartphone convenience I
+mentioned earlier.
+Biometric technologies have extraordinarily helpful
+applications. For example, Ukraine's defense ministry is using
+Clearview AI's facial recognition technology to recognize
+Russian assailants and identify dead combatants. Marinus
+Analytics' tool Traffic Jam uses facial recognition and AI to
+detect patterns in sex-trafficking ads to help law enforcement
+identify victims.
+If government takes an overly heavy-handed approach to
+regulating biometrics technologies, we'll lose out on life-
+saving applications like these.
+I have seen this approach firsthand. I was a Member of the
+California State Legislature during the early days of facial
+recognition, before its risks and benefits were well
+understood, and we considered a lot of misguided proposals that
+would have effectively banned the use of facial recognition
+technology. It is much easier to push for legislation to outlaw
+a technology entirely than it is to conduct due diligence and
+try to intelligently balance its benefits against its risks.
+That's why NIST's work is so valuable. Better understanding
+of the technology and carefully developed standards and
+guidelines will help us develop biometrics in a way that
+provides safeguards without stifling innovation.
+I'm looking forward to learning more about that work today.
+Thank you, Chairman Foster, for convening this hearing. And
+thanks again to our witnesses for appearing before us today. I
+look forward to our discussion.
+I yield back the balance of my time.
+
+Chairman Foster. Thank you. And I have to say, I'm very
+much envious of the car that you must be driving, so--with all
+those features, it must be--I would wager you probably aren't
+driving around in a 10-year-old Ford Focus.
+Mr. Obernolte. Well, you know, actually, that technology is
+coming to inexpensive cars as well. It's----
+Chairman Foster. Yes.
+Mr. Obernolte. It's amazing.
+Chairman Foster. That's right, yes. Anyway, if there are
+other Members who wish to submit additional opening statements,
+your statements will be added to the record at this point.
+[The prepared statement of Chairwoman Johnson follows:]
+
+Good morning to our panelists, and thank you to Chairman
+Foster for holding this hearing.
+Biometric technologies are in many of the devices we use
+every day. They allow us to open our phones with a facial image
+match or access sensitive areas with a fingerprint. The
+applications are vast and continue to expand with new
+technological breakthroughs and innovative ideas. There is
+still a lot of work to be done to address accuracy and bias in
+biometric technologies. But in recent years, the accuracy of
+these technologies--particularly facial recognition--has
+improved by leaps and bounds. And as biometric technologies
+become both more accurate and more pervasive society, we must
+ensure they do not violate our fundamental rights to privacy.
+It is our responsibility as policymakers to look after the
+privacy of American citizens--a public good which may not
+always be appropriately valued in the marketplace.
+This responsibility includes monitoring Federal agencies'
+approach to privacy in their own biometrics programs. The U.S.
+government can use technology solutions to maximize both
+security and privacy. We are pleased to have Ms. Wright from
+the Government Accountability Office with us today to share
+GAO's (Government Accountability Office's) findings about the
+prevalence of facial recognition technology within Federal
+agencies. GAO has conducted a volume of exemplary analysis on
+how well agencies are observing best practices and technical
+standards for privacy in general.
+And defining what is private in the digital age is complex.
+Here on the Science Committee, which I often call the committee
+of the future, we are poised to rise to the challenge. What
+does it mean if I upload an image for verification and change
+my mind? How long does a company get to keep my image? If I
+supply my voice to a video, should a third party be able to buy
+my voice print without my consent? It is important to
+acknowledge that the privacy implications from one biometric
+application to another can vary widely.
+This Committee is taking steps to dedicate more research
+attention to this issue. The America COMPETES Act, currently in
+conference with the Senate, includes the NIST for the Future
+Act, which passed through this Committee on a bipartisan basis.
+This critical legislation directs NIST to formalize a
+measurement research program and work on performance standards
+for biometric identification systems. It directs NIST to
+establish common definitions for these systems, including
+privacy and consent. It would also dedicate more resources to a
+central theme of today's hearing, privacy-enhancing
+technologies, or P-E-Ts. Our Committee has advanced another
+bipartisan bill, the Promoting Digital Privacy Technologies
+Act, that would dedicate more resources at the National Science
+Foundation for research on privacy enhancing technologies.
+PETs are critical to the ethical use of biometrics. I am
+proud of my colleagues on this Committee for their hard work on
+these bills. I hope today's discussion will help invigorate our
+resolve to get them over the finish line and signed into law.
+The technology opportunity around PETs is exciting. But the
+political moment for privacy is grave. Last week, the Supreme
+Court created a moment of reckoning for reproductive rights--
+for human rights--in America. Central to this fight is the
+right to make decisions about bodily autonomy and the right to
+privacy. We must ensure that the biometric data of U.S.
+citizens are not abused by bad actors or companies who intend
+to put profit over privacy.
+I yield back.
+
+Chairman Foster. And at this time, I'd like to introduce
+our witnesses.
+Our first witness is Ms. Candice Wright. Ms. Wright is the
+Director of--in GAO's Science, Technology, Assessment, and
+Analytics team. She oversees GAO's work on federally funded
+research, intellectual property protection and management, and
+Federal efforts to help commercialize innovative technologies,
+and enhance U.S. economic competitiveness. Since joining GAO in
+2004 Ms. Wright has led reviews on a wide variety of policy
+issues involving Federal contracting, risk to the defense
+supplier base, foreign military sales, and homeland security.
+After Ms. Wright is Dr. Charles Romaine. Dr.--Romine. Dr.
+Romine is a Director of Information Technology Laboratory, ITL.
+ITL is one of six research laboratories within the National
+Institute of Standards and Technology. Dr. Romine is--oversees
+a research program that cultivates trust and information
+technology and metrology by developing and disseminating
+standards, measurements, and testing for interoperability,
+security, usability, and reliability of information systems.
+Our final witness is Dr. Arun Ross. Dr. Ross is a Professor
+in the Department of Computer Science and Engineering at
+Michigan State University (MSU), East Lansing, and he also
+serves as MSU's Site Director of the NSF (National Science
+Foundation) Center for Identification Technology and Research.
+His experience is in biometrics, computer vision, and machine
+learning, and Dr. Ross has advocated for the responsible use of
+biometrics in multiple forums, including the NATO (North
+Atlantic Treaty Organization) Advanced Research Workshop on
+Identity and Security.
+And, as our witnesses should know, each of you will have
+five minutes for your spoken testimony. Your written testimony
+will be included in the record of the hearing. When you've
+completed your spoken testimony, we will begin with questions.
+Each Member will have five minutes to question the panel, and,
+if time permits, we may, in fact, have two rounds of questions
+for our panel. And so we will start with Ms. Wright. And,
+whoops, you'll have to unmute, I'm afraid.
+
+TESTIMONY OF MS. CANDICE WRIGHT, DIRECTOR,
+
+SCIENCE, TECHNOLOGY ASSESSMENT, AND ANALYTICS,
+
+U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+
+Ms. Wright. Thank you. Chairman Foster, Ranking Member
+Obernolte, and Members of the Subcommittee, thank you for the
+opportunity to discuss GAO's work on Federal agencies' use of
+biometric technologies, particular for facial recognition. The
+technology, which measures and analyzes physical and behavioral
+characteristics, is used to compare facial images from a photo
+or video for identification and verification. As the technology
+has continued to rapidly advance, its use has expanded in both
+the commercial and government sector. Today I will share
+highlights from our work on how agencies are using facial
+recognition, and Federal efforts to assess and mitigate privacy
+risks.
+Last year we reported on the results of our survey of the
+24 largest agencies, and their use of facial recognition
+technology. Eighteen agencies reported using the technology.
+The most common use was unlocking smartphones provided by
+agencies. There were other uses, that included domestic law
+enforcement, to generate leads for criminal investigations, as
+well as monitoring or controlling access to a building or
+facility to, for example, identify someone on a watchlist who
+was attempting to gain access. Such use can greatly reduce the
+burden on security personnel to memorize faces.
+Federal agencies may own their own systems, or access the
+systems of State and local governments, or commercial
+providers, to conduct searches of facial images. Agencies noted
+that some systems can include hundreds of millions, or even
+billions, of photos. Multiple agencies reported accessing
+systems owned by commercial vendors. For example, DHS reported
+using Clearview AI to identify victims and perpetrators in
+child exploitation cases.
+Agencies are investing in research and development to
+further their understanding and application of the technology.
+Some examples include DHS's Science and Technology Directorate,
+which sponsor technology challenges for industry to develop
+systems. One recent challenge was to reliably collect or match
+images of individuals wearing masks. In addition, NSF has
+awarded grants to research methods to prevent identifying an
+individual from facial images used in research.
+With its expanded use in the Federal Government, there are
+concerns about the accuracy of the technology, data security
+risks, the transparency and its usage, and the protection of
+privacy and civil liberties. In our survey of law enforcement
+agencies, some agencies did not have complete information on
+what non-federal systems are being used by their employees. In
+fact, during the course of our work, multiple agencies had to
+poll their employees, and discovered they were using non-
+federal systems, even though the agency initially told us
+otherwise.
+Using facial recognition systems without first assessing
+the privacy implications and applicable privacy requirements
+can put agencies at risk of running afoul of privacy related
+laws, regulations, and guidance. There are also risks that data
+sets with personal information could be compromised in a data
+breach, or be shared with unauthorized individuals. Unlike a
+password, which can be changed if breached, a breach involving
+data derived from a face may have more serious consequences, as
+the facial image is more permanent. We recommended that
+agencies improve their process to track the facial recognition
+systems used by their employees, and assess the risk of such--
+risks of such systems. Agencies are in varying stages of
+implementing our recommendations.
+In our work examining biometric privacy practices at TSA
+(Transportation Security Administration) and CBP (Customs and
+Border Protection), we found that TSA had incorporated privacy
+protections for its pilot program to test the use of a
+technology for traveler identity verification at airport
+security checkpoints. However, CBP's privacy notices to inform
+the public of facial recognition use in its biometric entry/
+exit program were not always current or complete. Further, CBP
+had not conducted audits of its commercial airline and airport
+partners to ensure compliance with CBP's own requirements on
+restrictions for retaining or using traveler photos. Fully
+implementing our recommendations will be an important step to
+protect travelers' information.
+In closing, facial recognition technology is not going
+away, and demand for it will likely continue to grow. As
+agencies continue to find utility in the technology to meet
+their mission, balancing the benefits of the technology with
+data security requirements and privacy protections will
+continue to be important. Chairman Foster, Ranking Member
+Obernolte, and Members of the Subcommittee, this concludes my
+remarks. I'll be happy to answer any questions you may have.
+[The prepared statement of Ms. Wright follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And next is Dr. Romine.
+
+TESTIMONY OF DR. CHARLES H. ROMINE, DIRECTOR,
+
+INFORMATION TECHNOLOGY LABORATORY,
+
+NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+
+Dr. Romine. Chairman Foster, Ranking Member Obernolte, and
+distinguished Members of the Subcommittee, I'm Charles Romine,
+Director of the Information Technology Laboratory at the
+Department of Commerce's National Institute of Standards and
+Technology, known as NIST. Thank you for the opportunity to
+testify today on behalf of NIST on our efforts to evaluate the
+privacy implications of biometrics technologies.
+NIST is home to five Nobel Prize winners, with programs
+focused on national priorities such as artificial intelligence,
+advanced manufacturing, the digital economy, precision
+metrology, quantum information science, biosciences, and
+cybersecurity. The mission of NIST is to promote U.S.
+innovation and industrial competitiveness by advancing
+measurement science, standards, and technology in ways that
+enhance economic security, and improve our quality of life.
+In the NIST Information Technology Laboratory, we work to
+cultivate trust in information technology and metrology. Trust
+in the digital economy is built upon key principles, like
+cybersecurity, privacy, interoperability, equity, and avoiding
+bias in the development and deployment of technology. NIST
+conducts fundamental and applied research, advances standards
+to understand and measure technology, and develops tools to
+evaluate such measurements. Technology standards and the
+foundational research that enables their development and use
+are critical to advancing trust in and promoting
+interoperability between digital products and services.
+Critically, they can provide increase assurance, thus enabling
+more secure, private, and rights-preserving technologies. With
+robust collaboration with stakeholders across government,
+industry, international bodies, and academia, NIST aims to
+cultivate trust and foster an environment that enables
+innovation on a global scale.
+Since its establishment nearly a decade ago, NIST's privacy
+engineering programs mission has been to support the
+development of trustworthy information systems by applying
+measurement science and system engineering principles to the
+creation of frameworks, risk models, guidance, tools, and
+standards that protect privacy and by extension civil
+liberties. The ability to conduct thorough privacy risk
+assessments is essential for organizations to select effective
+mitigation measures, including appropriate privacy enhancing
+technologies. Modeled after NIST's highly successful
+cybersecurity framework, the NIST privacy framework is another
+voluntary tool developed in collaboration with stakeholders
+through a public and transparent process. It is intended to
+support organizations' decisionmaking in product and service
+design or deployment to optimize beneficial uses of data, while
+minimizing adverse consequences for individuals' privacy, and
+for society as a whole.
+Since the 1980's, NIST has coordinated development of the
+ANSI (American National Standards Institute)/NIST/ITL standard
+data format for the interchange of fingerprint, facial, and
+other biometric information for interchange of biometric data
+in law enforcement applications, extending the modalities from
+fingerprints to include face, iris, voice, and DNA. The
+standard is used globally by law enforcement, homeland
+security, defense, intelligence agencies, and other identity
+management systems, and owners and developers, to ensure
+biometric information interchanges are interoperable, and
+maintain system integrity and deficiency. Since 2002, NIST has
+also supported development of international standards for data
+interchange in primarily civil applications, including ID
+cards, including e-passports.
+Different uses of biometrics, for example, as
+authenticators to protect access to sensitive data, or
+convenient entry solutions and fraud prevention, give rise to
+different degrees of privacy risk. Organizations need to have
+the means to be able to distinguish between the different
+degrees of privacy risk and implement appropriate mitigation
+measures. The NIST privacy framework provides the structure for
+organizations to consider which privacy protected outcomes are
+suitable to their use cases. The research on privacy enhancing
+technologies that NIST conducts, and the guidelines and
+standards that NIST publishes, helps organizations in
+implementing effective mitigations appropriately tailored to
+identified risks.
+Privacy plays a critical role in safeguarding fundamental
+values, such as human autonomy and dignity, as well as civil
+rights and civil liberties. NIST has prioritized measurement
+science research and the creation of frameworks, guidance,
+tools, and standards that protect privacy. In addition to
+maintaining the NIST privacy framework, NIST also includes
+privacy considerations in many of NIST's critical cybersecurity
+guidelines, as well as the draft AI risk management framework.
+Thank you for the opportunity to present on NIST activities
+on privacy enhancing technologies for biometric applications,
+and I look forward to your questions.
+[The prepared statement of Dr. Romine follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Thank you. And after Dr. Romine is Dr.
+Ross.
+
+TESTIMONY DR. ARUN ROSS, PROFESSOR,
+
+JOHN AND EVA CILLAG ENDOWED CHAIR
+
+IN SCIENCE AND ENGINEERING,
+
+MICHIGAN STATE UNIVERSITY; SITE DIRECTOR,
+
+CENTER FOR IDENTIFICATION TECHNOLOGY RESEARCH
+
+Dr. Ross. Respected Chairman Foster, Ranking Member
+Obernolte, and esteemed Members of the Subcommittee, I'm
+grateful for the invitation to testify today. I consider this
+to be a great privilege and honor to engage with the corridors
+of power that so graciously serve our Nation. Biometrics is a
+valuable technology that has broad applications in a number of
+different domains. However, it is necessary to ensure that the
+privacy of individuals is not unduly compromised when their
+biometric data are used in a certain application. The purpose
+of my testimony is to communicate some of the ways in which the
+privacy of the biometric data of individuals can be enhanced,
+thereby facilitating the responsible use of this powerful
+technology.
+Firstly, then, the benefits of biometrics. The need for
+reliably determining the identity of a person is critical in a
+vast number of applications, ranging from personal smartphones
+to border security, from self-driving vehicles to e-voting,
+tracking child vaccinations to preventing human trafficking,
+crime scene investigation to personalization of customer
+service. Biometrics is increasingly being used in several such
+applications. For instance, many smartphones employ automated
+face or fingerprint recognition for unlocking and payment
+authentication purposes. This increased use of biometric
+technology is being driven by significant improvement in
+recognition accuracy of these systems over the past decade.
+Indeed, the phenomenal rise of the paradigm of deep learning
+based on neural networks has fundamentally changed the
+landscape of face recognition and biometrics.
+But this brings me to my second point, the privacy concerns
+associated with the technology. For example, face images of an
+individual can be linked across different applications using
+biometric technology, thereby creating a comprehensive profile
+of that individual, or, in some cases, unintentionally
+divulging a person's identity where privacy was expected.
+Another example, rapid advances in the field of machine
+learning and AI have led to the development of so-called
+attribute classifiers that can automatically extract
+information pertaining to wage, sex, race, and health cues from
+images. This can potentially breach the privacy of individuals.
+One more example, a number of face data sets have been curated
+for research purposes by scraping publicly available face
+images from the Web. Legitimate concerns have been expressed
+about using these images for research purposes without user
+consent. In principle, therefore, an anonymous face image can
+be linked to one or more face images in a curated data set,
+thereby potentially revealing the identity of the anonymous
+face.
+Now to my final point. How can biometric technology be
+responsibly developed and deployed, while keeping privacy in
+mind? Firstly, by utilizing schemes such as homomorphic
+encryption, which not only ensure that the original biometric
+data is never revealed, but that all computations take place in
+the encrypted domain. Secondly, by engaging a paradigm called
+cancelable biometrics, where the biometric data of an
+individual is intentionally distorted using a mathematical
+function. The distorted data can still be successfully used for
+biometric recognition purposes, but within a certain
+application. This pre-empts the possibility of linking the
+biometric data of an individual across applications. Thirdly,
+by perturbing a face image in such a way that its biometric
+utility is retained, but the ability to extract additional
+attributes pertaining to age, sex, race, or health is obscured.
+Fourthly, by making it more difficult for face images to be
+scraped from public websites and social medial profiles.
+Fifthly, by deploying privacy preserving cameras where the
+acquired images are not interpretable by a human, and can only
+be used within a specific application. Such cameras, when used
+in public spaces, can ensure that the acquired images are not
+viable for previously unspecified purposes.
+In addition, I must note that academic researchers in
+biometrics are becoming increasingly aware of the privacy and
+ethical implications of the technology they're developing. This
+means that recognition accuracy is not the only metric being
+used to evaluate the overall performance of a biometric system.
+Rather, metrics related to security and privacy are also being
+increasingly considered. This shift in the research culture is
+remarkable, and bodes well for the future of the technology.
+Thank you, and I welcome any questions.
+[The prepared statement of Dr. Ross follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Foster. Well, thank you, and at this point we will
+begin our first round of questions, so the chair will recognize
+himself for five minutes.
+First, on the prospects for a secure and privacy-preserving
+digital ID, though we're all aware of some concerning aspects
+of biometric technologies, it's important to recognize that
+there are valuable uses for these technologies that could
+improve our lives and security. Now, privacy protections must
+evolve along with biometric capabilities so that we can reap
+the benefits safely. With our Improving Digital Identity Act of
+2021, I, and a bipartisan group of colleagues, have called upon
+Federal agencies to modernize and harmonize our Nation's
+digital identity infrastructure, in large part by leveraging
+the existing biometric data bases that individual States
+already have in place as part of their programs to support the
+REAL ID, but additionally using NIST standards to make sure
+that these identity tools are interoperable, and can be used
+for presenting that identity both online and offline in a
+privacy preserving way.
+So, first, Dr. Romine, how could biometric technologies
+increase our privacy by making our identities more secure
+against theft and fraud?
+Dr. Romine. Thank you, Mr. Chairman. I certainly appreciate
+the concern that you and the Ranking Member have on this issue,
+and I'm delighted to be here, excuse me, talking about this
+today. The guidelines that we have put in place for privacy
+enhancing technologies, broadly speaking, we have investments
+in our privacy engineering program related to understanding how
+we can develop new technologies that can enhance privacy
+protections in many different aspects of technologies, and
+that, coupled with the guidance that we are updating today on
+identity management, and appropriate protections for identity
+management technologies, I think there are going to be,
+certainly, opportunities to improve, as you point out, the
+protections of biometrics information across the board through
+some of these updated guidelines, and I look forward to
+discussing that with you and your staff further.
+Chairman Foster. Thank you. And--so, obviously, any broad
+implementation of biometric identification techniques would
+require commensurately broad implementation of privacy
+protective measures, so what--so the so-called B-PET methods,
+how could they be strengthened? Are they really ready for
+primetime? Things like homomorphic encryption, I've been told
+that there's still a privacy budget that you have to enforce,
+that you can't sit there and interrogate this--using
+homomorphic decryption, you can't just do it repeatedly
+without, at some point, revealing the underlying data base. So
+there must be limits to these, and have we pretty much
+understood and hit the limits of these, or are--is there a lot
+of work yet to be done to understand how effective it can be to
+exchange information between trusted entities without revealing
+everything?
+Dr. Romine. Well, thank you, sir. A very short time ago
+homomorphic encryption was a theoretical idea whose performance
+was so unbelievably slow that it was not practical. Since then,
+enormous strides have been made in improving the performance.
+But I will say that these privacy enhancing technologies, in--
+particularly using cryptography as a protection mechanism, have
+enormous potential, but there's still a lot more work to be
+done in enhancing those to make them significantly practical.
+And, as you point out, there are situations in which, even with
+an obscured data base through encryption that's queryable, if
+you provide enough queries, and have a machine learning backend
+to take a look at the responses, you can begin to infer some
+information. So we're still in the process of understanding the
+specific capabilities that encryption technologies, such as
+homomorphic encryption, can provide in support----
+Chairman Foster. Thank you. And, Dr. Ross, do you have any
+comments on this, and--you know, particularly the fascinating
+idea that you can cancel your fingerprints, in some sense? How
+does that work, and does it really work yet?
+Dr. Ross. Yes, thank you for your question, Chairman
+Foster. So cancelable biometrics has been proposed as one way
+to both preserve the security and privacy of the biometric
+data, but also the ability to cancel one's biometric template.
+The way it works is as follows. Let's say you have a
+fingerprint image. Now you subject it to some distortions using
+a mathematical function, and the distorted image is then used
+for matching purposes. In other words, if the particular image
+is compromised, then you would just change the mathematical
+function, and therefore you cancel the original template, if
+you will, and now you generate a new fingerprint template based
+on this revised mathematical function. And so, in principle,
+this can allow us to not store the person's original
+fingerprint, but only the distorted version, or the transformed
+version, of the fingerprint, and that's why--the cancelable
+property, which is really imparted by merely changing the
+transformation function.
+Now, to your question about evaluation----
+Chairman Foster. I'm afraid I don't want to abuse my time
+limit here, which has expired, but there--I believe we should
+be able to get a second round--so at this point I'll now
+recognize Congress's other AI programmer, our Ranking Member,
+Representative Obernolte, for five minutes.
+Mr. Obernolte. Thank you, Chairman Foster, and thanks to
+our witnesses. It's been a really interesting hearing, and I'm
+looking forward to the questions. You know, I've been
+reflecting on the fact that, when we talk about privacy, it
+really is a non-binary ethical problem, right? It's--you can't
+say that data is--you know, is completely private or data is
+not. You know, we're dealing with this strange kind of
+continuum, where we have to weigh the amount of privacy we're
+willing to give up against the potential benefit that we expect
+by giving up that privacy, and it's a complicated thing. So
+that's--I'd like to kind of organize my questions around that,
+because I think solving that problem is going to be key to
+establishing a regulatory framework of what's expected when we
+ask companies to protect privacy.
+So, Ms. Wright, I think I'll start with you with a
+question. I'm really, really happy to see the GAO participate
+in this hearing, and you know, I think that this is--this sends
+a powerful statement to those that we intend to regulate when
+we start with ourselves in government, because, I mean,
+obviously we interact with a lot of data from a lot of
+different users, and we ought to be experimenting on--really
+ourselves on solving this problem before expect others to solve
+it, so I found your testimony really compelling.
+I have to admit, I was very alarmed when I read that 13 out
+of the 14 agencies you survey did not have complete information
+about their own use of facial recognition technology, but then
+I tunneled a little more, and I realized that most of those
+were people using facial recognition technology to unlock their
+own smartphones, things like that. So it made me think about
+the fact that maybe there's a difference between privacy when
+it comes to, you know, our own data, I'm using my face to
+unlock my phone, and the privacy when we're using other
+peoples' data, especially when we have a large amount of data.
+So do you think that we need to--when we do these surveys in
+the future, that we need to make a distinguishment between
+those different kinds of uses?
+Ms. Wright. I certainly think that that's really important.
+With the cases where we found agencies didn't know what their
+own employees were using, it was actually the use of non-
+federal systems to conduct facial image searches, such as for
+law enforcement purposes, and so in those scenarios what was
+happening is perhaps the folks at headquarters didn't really
+have a good sense of what was happening in the regional and
+local offices, and that's where we think it's really important
+for agencies to have a good understanding of what are the
+systems that are being used, and for what purposes, and then to
+also make sure that, by accounting for that and inventorying
+that, they then have the necessary tools to ensure that they're
+balancing the potential privacy risks associated with using
+those systems.
+Mr. Obernolte. OK. I mean, just--isn't--all of these
+things, if we're--you're using, you know a commercial source
+for this kind of technology, it has to go through procurement,
+right? Would procurement maybe be a fruitful avenue to look at,
+in terms of informing this flow of information?
+Ms. Wright. Certainly. There's--there were a couple of
+different scenarios, one in which agencies might have been
+accessing State and local systems, or commercial systems,
+through a test or trial period, and then there also might be
+instances where they actually have an acquisition or
+procurements in place. We actually have some ongoing work right
+now that's looking at more--looking, again, at local--excuse
+me, at law enforcement's use, and the kinds of mechanisms that
+they're using in acquiring systems from commercial vendors, so
+I think that information is going to be really telling for us
+to understand what sorts of privacy requirements are being put
+in place when agencies are requiring services from these
+commercial vendors.
+Mr. Obernolte. Right. Yes, that makes sense. All right. Dr.
+Romine, I found it really interesting, in your written
+testimony, when you were talking about the privacy framework,
+and the fact that it's not a static thing, it's not binary,
+which is very much in keeping with the way that I look at it as
+well. So could you talk a little bit about how you would
+evaluate, you know, the fact that this has to be dynamic? I
+mean, for example, I think part of it has to be based on use,
+right? If you look--if you're using facial recognition for
+verification, that's a different use case than identification.
+So, I think users' expectations on privacy are going to be
+different. So how do you approach that kind of ethical
+conundrum?
+Dr. Romine. That's exactly right. I think you've hit it on
+the head, in the sense that the context of use is critical to
+understanding the level of risk associated with the privacy
+considerations. One of the things that our guidance is intended
+to do, and the privacy framework is intended to do, is give
+organizations the ability to establish privacy risk management
+principles as part of their overall risk management for the
+enterprise. You talk about reputational risk, and financial
+risk, and human factors risk--or human capital risk, and
+privacy risk hasn't been included, typically, in that, and so
+we're giving organizations the tools now to understand that,
+you know, data gathered for one purpose, when it's translated
+to a different purpose, in the case of biometrics, can have a
+completely different risk profile associated with it. So it
+isn't inherent in the data, it's the context in which that data
+are being--those data are being used. So our tools allow for a
+deeper understanding on the part of the organizations on that
+context issue.
+Mr. Obernolte. Sure. Well, I see I'm out of time. If we get
+another round here, I'm going to ask you about scope creep,
+because that's going to fit right into what we're talking about
+about framework. But thank you, Mr. Chair, I yield back.
+Chairman Foster. Thank you, and we will now recognize
+Representative Carey for five minutes. Mike? You're passing?
+OK. We will recognize Representative Bice for five minutes.
+Mrs. Bice. Thank you, Mr. Chairman, and Ranking Member
+Obernolte. I have a couple of questions that I just want to
+touch on. You know, this is a topic of conversation that has
+come up in Oklahoma a couple of times on the State side. Ms.
+Wright, you testified that most agencies accessing non-federal
+facial recognition technology don't track use or access related
+to privacy risks. As far as you are aware, is there any Federal
+law that requires agencies to track this information?
+Ms. Wright. So there's a broad privacy framework, I guess
+I'll say, where you have the Privacy Act, that does call for
+agencies to limit how--their collection, as well disclosure and
+use of personal information in a government system, and so a
+photo would be considered an example of a--of personal
+information. You also have the E-Government Act as well, which
+does include provisions for agencies to conduct privacy impact
+assessments when they're using systems, and, again, that's--to
+be able to use those privacy impact assessments to analyze how
+the information is collected, how it's stored, and shared, and
+managed in a Federal system. And then lastly I'll just note
+that, when we spoke with OMB, they had noted that agencies must
+ensure that privacy requirements apply to any systems that are
+being operated by contractors on behalf of Federal agencies.
+Mrs. Bice. And, actually, we haven't even talked about the
+contractor piece, which is sort of an interesting tag-along,
+but I want to circle back around to your comment about these
+assessments. Do you think that agencies are doing the
+assessments, and if so, what are--are those outcomes sort of
+published so that other agencies can understand maybe risks,
+or, you know, the breadth of what they're utilizing within the
+agencies?
+Ms. Wright. We've seen a mix of how agencies are
+approaching the privacy impact assessments. I think in the--in
+my statement earlier, one of the things I mentioned was, you
+know, when you don't even--when you have agencies who are using
+systems, and there are agencies--or, excuse me, employees who
+are using systems, and their agencies aren't even aware, then
+there's the likelihood that those privacy impact assessments,
+or any other privacy risks, have not been assessed, and we
+think that that's a really important thing for agencies to be
+keeping in mind as they are continuing to use facial
+recognition systems.
+Mrs. Bice. Do you think it would be helpful for Congress to
+look at requiring these assessments to be done maybe on a
+periodic basis for agencies that are utilizing these types of
+biometrics?
+Ms. Wright. So, again, the E-Government Act calls for
+agencies to do that, but the extent to which they're doing that
+really varies, and I--and so perhaps that's work that we
+could--you know, could talk about, you know, if there's
+oversight opportunities there to look at the extent to which
+they're using privacy impact assessments, especially in the
+realm of biometric.
+Mrs. Bice. Perfect. And what do you think some of the
+potential adverse consequences might be of agencies failing to
+track information, either themselves or through third party
+systems?
+Ms. Wright. So one--a couple of things come to mind, is--
+one, are they using systems that have reliable data, that have
+quality images that will then affect the sorts of matching
+results that will come back, and the extent to which those can
+be trusted. You know, you could see where there's a potential
+for a high mismatch error rate, which then might mean, in the
+law enforcement example, you know, where you might be chasing
+down a lead that isn't going to be fruitful, or you might be
+missing an opportunity to chase down a lead, so I think that
+that's one piece of it.
+The other piece too is, when we're thinking about this from
+a privacy perspective, is how are the images being collected,
+and how are they being used, and does the individual have any
+say? Did they provide any consent, for example, to their photo
+being captured, and then used in this way? So there are
+certainly a number of different risks associated. There's
+certainly the issue of data security. Are the systems that are
+being used secure? You know, we've had cybersecurity as a high
+risk area on the GAO high risk list for many, many years within
+the Federal Government, and so you can imagine, you know, this
+only opens up the door to the potential for even greater
+security breaches.
+Mrs. Bice. And I would say, sitting on the Cyber
+Subcommittee under House Armed Services, I think you're exactly
+right. We look--we talk about this from sort of a data privacy
+perspective, but we also need to recognize that there's
+certainly a huge potential for cybersecurity challenges when
+you're collecting these types of biometrics, and storing them
+either through a third party, which I think in some cases can
+be maybe more of an issue, but certainly, you know, if agencies
+are actually storing that information themselves. So--my time
+is almost expired, so, Mr. Chairman, I yield back.
+Chairman Foster. Thank you, and I believe we will have time
+for a second set of--second round of questions here. And so I
+will now recognize myself for five minutes.
+Ms. Wright, it is, I guess, abundantly clear that the U.S.
+taxpayer has suffered greatly from identity fraud, and
+everything from, you know, IRS (Internal Revenue Service)
+refund fraud to, you know, unemployment benefit fraud during
+COVID, you know, you name it. Has anyone, to your knowledge,
+inside GAO or elsewhere, just netted out the total loss to the
+Federal Government from identity fraud that might be, you know,
+prevented with using sort of state-of-the-art identity proofing
+mechanisms?
+Ms. Wright. It's certainly not something that came up in
+the course of the recent work that we've done, and I'm not
+aware, but certainly happy to take that back, and follow up
+with you on that.
+Chairman Foster. Yes. So I think you'll be asking you, for
+the record, sort of, you know, what the scope of such a survey
+would be, because there appear to be just little bits and
+pieces of documentation of the enormous losses that the
+taxpayer suffers from this. And so trying to get that balance
+right too, I think, could be an important outcome here.
+Ms. Wright. Certainly. Happy to do that.
+Chairman Foster. Yes. Secondly, one of the tough things
+that we're going to face as a government is sharing data with
+other governments. You know, if you talk about biometric data
+bases, or the difficulty of regulating crypto, where you'll--
+ultimately going to need to have, you know, uniquely
+identified, biometrically de-duped crypto driver's license, as
+it were, if you're really going to prevent it from being used
+for ransomware, and all this sort of thing, so that's going to
+involve setting up, you know, very much like, I guess, a
+passport system, something where you have to identify that
+someone is operating multiple identities in multiple
+jurisdictions.
+And, actually, you know, Dr. Ross, are you familiar with
+sort of the state-of-the-art, and what may be useful there? Are
+there investments that we can make toward more research that
+would allow you to, you know, ask very sensitive questions of
+big data bases that are owned by other States or other
+governments?
+Dr. Ross. Certainly, and I think one concept that can be
+harnessed, but which has to be further researched, is the
+notion of differential privacy, which would indicate that,
+within a certain jurisdiction, you're able to do certain
+identity assessments using biometrics, and you have specific
+use cases, specific purposes, in which identity can be matched,
+but in other cases the identity cannot be matched. And so, by
+defining the policies, one could then use these principles that
+we alluded to earlier, including homomorphic encryption, and
+including differential privacy, in order to ensure that that
+kind of functionality can be performed.
+However, I must note that research is still in its infancy
+in the context of biometrics, and certainly more investment is
+definitely needed in order to assess the suitably of--
+suitability of this in operational environments, and so further
+collaboration and investment is definitely needed to implement
+these techniques in operational environments.
+Chairman Foster. Thank you. Dr. Romine, are--when you're
+involved in international standard settings, which is part of
+NIST's mission, do you get the feeling that the United States
+is leading the way, or are there peers around the world that
+are as sophisticated technologically in biometrics, and in
+privacy preserving methods?
+Dr. Romine. In the work that we're doing in the
+international standards arena surrounding identity management,
+we certainly believe we are leading in that space. There are
+certainly other like-minded countries that are partners with us
+that value, you know, democratic ideals, and so on, and so we
+strive to work closely with them, and they do have very strong
+technical capability in these areas as well.
+Chairman Foster. Yes, I've been struck that in at least
+some European nations you have a right to know when any
+government official accesses your data, you know, at least
+outside a criminal investigation. And so are these things that
+can be cryptographically guaranteed, or is that really an
+unsolvable problem to--if you understand my question? You know,
+to--I dream of some technology that would allow you, with
+cryptographic certainty, to know that someone's touched your
+data.
+Dr. Romine. It's certainly theoretical possible--
+theoretically possible to use cryptography to address the
+concern there. I wouldn't call it foolproof, necessarily. The
+history of advancing technologies is colored with many
+different sort of advances, and risks, and advances, and risks,
+and the risks are addressed by new technologies, which creates
+additional risk. So the goal, for us, is just to ensure the
+trustworthiness of the underlying systems, and certainly
+cryptography can be an important ingredient there.
+Chairman Foster. Um-hum, yes. Dr. Ross, did you have any
+thoughts on the feasibility of that as a long term goal?
+Dr. Ross. Yes, and I think it's an excellent question,
+because one thing this entails is keeping a ledger of
+interactions between humans and the data that is being stored.
+For example, a blockchain principle has been used to keep track
+of certain transactions that have occurred, and these are
+immutable. So I believe that some of these principles can be
+leveraged into the field of biometrics, but I must maintain
+that more research is needed, more investment is needed, but
+certainly the technology is available, but then it has to be
+incorporated into the context of biometrics.
+Chairman Foster. Thank you. My time for this round is
+expired, and I'll now recognize Representative Obernolte for
+five minutes.
+Mr. Obernolte. Thank you, Dr. Foster. Dr. Romine, we were
+having that discussion about, you know, the continuum of
+privacy, and how that works ethically with our efforts to
+regulate it, and in your written testimony you talked about
+scope creep, you know, this idea that privacy could be violated
+when the scope of how biometric data is used is--differs from
+the expectation of the person who provided it. But, I mean,
+that's ethically complex too, right? Because sometimes there
+are societally beneficial uses that we put that to, and a good
+example is the one we've been talking about, with using
+Clearview AI to halt sex trafficking. And if you ask the
+people, you know, that are safe from sex trafficking, you know,
+they certainly didn't give permission for the use of their data
+in that context, but if it's--if you ask them if it's OK with
+them, they'd say yes, please, right? So, you know, how do you
+navigate that minefield?
+Dr. Romine. That's a terrific question. One of the things
+to keep in mind is that, you know, when you've acquired
+biometrics data, for whatever purpose, any organization that's
+acquired such data, these are now assets in their control, and
+sometimes the pressure to use those assets in ways that haven't
+been--that weren't originally intended is pretty enormous. The
+idea that, hey, we could do this, instead of thinking, should
+we do this, with those data, and so that's one of the reasons
+that we always have to stress the importance of context of use
+in these areas. And, you're absolutely right, in some cases a
+new context of use may be enormously beneficial, and perhaps
+not even controversial, and in other cases could be extremely
+potentially damaging.
+I want to say, by the way, this is the difference between
+cybersecurity and privacy, in the sense that a cybersecurity
+event does not have to take place for privacy harms to occur.
+Simply using, in this case, biometrics data in ways that were
+not intended, and perhaps violate the expectations of those who
+have provided those data, can create those privacy events.
+Mr. Obernolte. Sure. Yes, I completely agree. In fact, I
+want to ask a question about that to Dr. Ross. In your written
+testimony you were talking about privacy violations that can
+occur with using facial recognition to infer racial, sexual, or
+health characteristics that weren't intended by the person who
+provided the data, which I thought was really interesting, but,
+you know, how do you navigate that, in an ethical sense?
+Because when I post a picture of myself on Facebook, and one of
+my friends looks at that and says, boy, he really looks unwell,
+right? I can't then point my finger at them and say, hey,
+that's a privacy violation, you know, I didn't intend for you
+to infer anything about my health. They would just roll their
+eyes, right, because it's understood my picture is out there,
+and, you know, and those inferences can be made by anyone who
+sees it. So why do we make a distinction between that when--
+that use when a human does it and when a machine does it?
+Dr. Ross. Thank you. Again, an excellent question. So we're
+really distinguishing between human-based analytics versus
+machine-based analytics, and when you employ a machine to do
+this, then you can do this en masse. You can have billions of
+images, you can run the software over these billions of images,
+and then make some assessments in the aggregate without user
+consent. And so it is the ability to do this repeatedly over
+massive amounts of data, and then use that aggregate in order
+to say--perform additional activities that were not indicated
+to the user, that is where the problem lies. If the user were
+to give consent, saying that, yes, the--these images can be
+used for further analytics, then I believe that using the
+machine will be productive in some cases, but in other cases,
+as you pointed out, there might be a violation of privacy.
+I think it all boils down to user consent, and also the
+fact that you can do this en masse, and so how do we do this in
+a manner that the person is aware of on how their data is being
+used, and in a manner that does not unwittingly glean
+additional pieces of information that might violate their
+privacy.
+Mr. Obernolte. Right. Yes, I somewhat agree. You know, I
+think that, you know, the distinction is not the amount of data
+that's processed, but the inferences that can be made that
+might be unintuitive to the person providing the data. And
+quickly here, another question for you, Dr. Ross, before I run
+out of time, you talked a lot in your testimony about privacy
+by design, which I think is a really elegant concept, but
+consider me a skeptic, because, you know, for example, if
+you're using an algorithm that distorts images in a way that
+sex or ethnicity can't be read, right, we're going to run into
+exactly the same problem, aren't we, that we did with
+cryptography, where, you know, cryptographic algorithms that
+were developed 10 years ago don't work anymore because
+computers are so much more powerful. As recognition technology
+gets better, you know, aren't those algorithms not going to
+work anymore either?
+Dr. Ross. A great point, very insightful comment, and I
+think this is where more mathematics is needed, as we start
+developing biometric technology and deploying it. What we call
+as theoretical guarantees, understanding what the privacy
+leakages are, information leakage, and what is lacking here is
+privacy metrics, really. And privacy metrics, in some sense, is
+a moving target, because if technology cannot deduce some
+attribute from a face image today, it might be able to do it
+tomorrow. And so what is deemed to be private now, today, may
+no longer be deemed to be private tomorrow, and that is where
+the concern is.
+Mr. Obernolte. Uh-huh.
+Dr. Ross. And this is why, when the technology evolves, and
+these collaborations are established, it must be revisited.
+It's not static in time. It is dynamic in time, because, as
+technology advances, these policies must evolve, and also the
+metrics that are being used to evaluate must evolve. In short,
+I completely agree with your statements. Some of the problems
+in cryptography can potentially manifest itself in these other
+techniques, but it's not unsolvable.
+Mr. Obernolte. Right.
+Dr. Ross. I think, with adequate technology development,
+especially employing mathematical transformations, I believe
+that a solution can be found.
+Mr. Obernolte. Wow. It's a fascinating discussion. Thank
+you for that. I yield back, Mr. Chair.
+Chairman Foster. Thank you. And I think there may actually
+be time for an additional round, but we'll see how things go.
+We'll now recognize Representative Perlmutter for five minutes.
+Mr. Perlmutter. I was hoping that Mrs. Bice might go first,
+because I'm just catching up to all of you, and I'll never be
+able to catch up to Jay or Bill on this subject, but Stephanie
+I can at least talk to her about it at softball. So anyway, I
+want to thank the panel. There was a word you used, Dr. Ross,
+immutable, and then you got into this conversation with Mr.
+Obernolte about the fact that, you know, technology may make
+some of what we're trying to do today, in terms of privacy and
+cybersecurity, you know, outdated tomorrow. So I just--it
+reminded me of a great Oklahoman, Will Rogers. You know,
+there's--it was about certainty, but I'll use it with
+immutability. The only thing that's immutable are death and
+taxes.
+So I guess my question is--and I'm really just a science
+fiction person when it comes to this, and--you know, is
+thinking of Minority Report with Tom Cruise, and you may have
+all kind of addressed that. I mean, every place he goes, they
+know him already, and eventually he has to have his eye taken
+out because of this. And I'm--I went and I bought an iPad
+holder from a company called Weather Tech the other day. We
+were in there for something else, I saw it, it looked good, so
+I bought the thing. All of a sudden I am getting iPad holder
+ads like crazy, you know, and I didn't even look at--for it
+online. I just bought the darn thing. I mean--so that's--I just
+feel like I've got either Big Business looking over my
+shoulder, or Big Government looking over my shoulder.
+I'm making more of a statement than asking a question, but
+I guess--Ms. Wright, I'll start with you. I mean, is there
+anything--Dr. Romine was talking about, you know, privacy
+versus cybersecurity. What can we do in the Congress to assure
+ourselves a little more privacy?
+Ms. Wright. So I think a really key important factor is how
+do we hold--I'll start with Federal Government--how do we hold
+agencies accountable for the information that they're
+collecting, the purpose for which the information is being
+used, how it's being stored, shared, and destroyed? I think
+those are some really fundamental things to start with as we
+think about this issue of privacy. You know with--and then to
+really thank about what applications or use cases we think
+are--should be--excuse me, should be permitted or restricted,
+because I think then you'll start to get a handle on, you know,
+where the concerns are with respect to privacy. And, again, at
+the end of the day, this is all about tradeoffs. And while
+there might be some convenience factors, there might be some
+security benefits as well, you know, there's also the issue of
+privacy, and being able to protect your personal information,
+and I think that's where, you know, the tension lies.
+Mr. Perlmutter. Well, and there's a tension, too, between
+the kind of privacy we might want from State, or Federal, local
+governments versus the kind of privacy we may want from private
+enterprise. You know, I mean, the thing I ran into, I mean, it
+was a spontaneous purchase of this iPad holder, and all of a
+sudden I'm getting ads about it. You know, I mean, so there's--
+you've got two really sizable kind of entities out there that
+are looking over your shoulder, and I think we in the Congress
+need to, you know, think about both of those when we're
+thinking about--particularly about privacy, and about
+cybersecurity.
+So, gentlemen, you--anybody have a comment to my sort of
+general proposition here? I--it's not very much science-based,
+but it's personal-based.
+Dr. Ross. I would be happy to share some comments. So I
+think the issue that you're describing is actually very
+important, namely exchange of biometric data. Biometric data
+collected for one purpose can then be transmitted to another
+agency, to another entity, which might use it for a different
+purpose, and I think that is a legitimate concern. And one way
+in order to kind of prevent this, even before it happens, is by
+ensuring that when we store the biometric data in one entity,
+that it's suitably encrypted, suitably transformed, and when it
+is used in a different entity, or by a different entity, it is
+encrypted differently, or it is transformed differently. What
+happens here is then now these two sets of data cannot be
+linked, because they have been transformed differently, and I
+think that becomes very important.
+Now, on the flipside, it might actually prevent, say, one
+agency from communicating with another agency because the
+biometric data cannot be linked. And this is where use case
+specific policies must be instituted. There are certain
+situations when it is acceptable, and other situations, like
+the one that you described, it is not acceptable. And this is
+where technology co-developments must be augmented with
+legislative instruments to engage the data in a manner that is
+appropriate in different use cases.
+Mr. Perlmutter. All right. Thank you. My time has expired.
+Chairman Foster. Thank you. We'll now recognize
+Representative Bice for five minutes.
+Mrs. Bice. Thank you. And, for Representative Perlmutter,
+my friend and coach, I think part of that--I recognize the
+connections there, it is re-marketing. Your e-mail is likely
+tied to your credit card in some way, or you may have entered
+your e-mail address when you checked out, and your e-mail is
+tied to social media, and so then, when they realize that you
+purchased that, they started marketing to you all sorts of
+things. And that's been going on for quite some time, but it is
+a little, I think for a lot of folks, concerning because you
+begin to wonder how did they know, how did they get this
+information, and that is Big Data at its finest.
+I want to talk--here in Oklahoma this last session, we
+passed House Bill 2968, the Computer Data Privacy Act, and the
+bill allows for the option for personal rights to be returned
+to the individual, along with the option for cancellation of
+the information in a private company's data base. To me, this
+seems like it could be a solution for privately collected
+biometrics data, but this is to any of the witnesses here. What
+do you think are the most concerning acts--aspects of
+developing biometric technology?
+Dr. Ross. I would be happy to offer some comments, if you
+don't mind.
+Mrs. Bice. Sure.
+Dr. Ross. And, to both parts of your excellent question, I
+think one of the most obviously concerns about biometrics is
+the ability to link different data sets, and I think that
+clearly constitutes a problem in some cases. In the--in other
+cases, it is an advantage. And once again, as the technology
+improves, as the recognition accuracy numbers improve, this
+kind of linking can be done more--with more certainty, because
+the errors are decreasing. And I think this is where policies
+for regulating the use of the technology become important. In
+some use cases, it is absolutely essential to have the
+functionality. In some other cases, it may not be required.
+Secondly, in fact, in response to your first comment,
+again, an excellent comment, is when a user in a private
+enterprise offers their face image, or fingerprint image.
+It would be nice if they can say for what purposes it can
+be used. For example, if it's a face image, they might say,
+well, you can use this for biometric recognition, but it should
+not be used for assessing, say, age or health cues. And the
+moment they specify that, the data should be transformed in a
+manner that would facilitate the functionality prior to storing
+it in a data base. This gives some degree of control to the
+user, because the user is now able to specify what kind of
+information can be gleaned, and what kind of information should
+not be gleaned, and the technology is then being harnessed to
+impart this kind of functionality. And I think that is one
+important area in which more investments is needed. Many
+techniques have been proposed in the literature, but these have
+not been evaluated. The scalability of these things have to be
+assessed, and so that is a tremendous opportunity, if we were
+to invest in this front. But excellent questions, and thank you
+for hearing me.
+Mrs. Bice. Anyone else care to comment on that particular
+aspect?
+Dr. Romine. I'd be happy to weigh in. Some of the
+challenges involve the ability to, as my colleague said--Dr.
+Ross said, to glean certain kinds of information, and some of
+the potential societal harms or inequities that may occur as a
+result. I'll go back to the Ranking Member's question about his
+Facebook image, and having a friend of his see it and say, wow,
+you don't look very good. Imagine if, instead of his friend, it
+was an insurance company deciding, wow, you don't look very
+good, and taking steps, as a result of that assessment. Those
+are the kinds of societal harms that I think we need to be wary
+of.
+Mrs. Bice. Perfect. I think this is a really great point,
+that use of those biometrics is incredibly important, and we
+need to be able to develop systems and controls to be able to
+allow for, you know, individuals to have some sort of say in
+how their information is utilized. Thank you for your times,
+the witnesses today, and, Mr. Chairman, I yield back.
+Chairman Foster. Thank you. And I think we will now embark
+on actually a final round of questions, and then close the
+hearing. And so I'll now recognize myself for five minutes
+here.
+Dr. Ross, you seemed to be coming close to describing
+something that sort of resembled a licensing regime for
+collecting biometric data, that--let's say someone wanted to
+put, you know, a camera, facial recognition camera, in front of
+their nightclub, you know, to find people that had repeatedly
+shown up in the nightclub and caused violence. All right,
+sounds like a legitimate thing. But then, if they start
+transferring that information around, then there are a bunch of
+issues that come up.
+And so are there standards--this might also be a question
+for Dr. Romine. Are there standards that are being mooted for
+how you would license the collecting of the data, and also
+licensing the transferring the data, so that you'd actually
+ultimately--if you're holding biometric data on someone, you
+would have to also be able to demonstrate a chain of custody
+that showed that you had achieved this--you had obtained this
+only through a set of licensed distributors of data, with
+customer consent at each point. Are--have people gone that far,
+or any country gone in that direction?
+Dr. Ross. Thank you for your question, Chairman Foster.
+I'll address the first question, and I assume my distinguished
+colleague will address the second part. So the first part,
+there is research that is being conducted in which privacy is
+being moved closer to the censor than to the data, because once
+the data is acquired, it is available. Yes, you can encrypt it,
+you can transform it, but someone has access to the data. What
+if we move the privacy aspect to the camera itself in such a
+way that a camera is designed in a manner that it can only
+extract or acquire other specific aspects of the scene?
+And that becomes very important, because nowhere will the
+digital version of the full scene be available, and so
+perturbing the images, even prior to storing them at the censor
+level, might be one way in which the scenario that you
+described can be handled, because the data will no longer lend
+itself to be processed by a different organization or entity,
+because the data has already been perturbed at the time it was
+acquired by the camera. So that would be one technological
+solution, but, as I mentioned earlier, these things have to be
+evaluated, and so much more research, much more investment,
+much more evaluation, these are needed in order to substantiate
+these principles.
+Chairman Foster. Um-hum. And will this ultimately require,
+for some purposes, basically a government back door on this
+obfuscation? You know, for example, if you have cameras looking
+at elevators, just to make sure you're opening and closing the
+elevators as fast as possible, where you only really have to
+detect the presence of a human, and then all of a sudden you
+find that some massive crime has been committed, the government
+might want to go to a trusted court system and say, OK, bypass
+the obfuscation, I want to see that person's face who was in
+the elevator. Are these necessary things, or are these policy
+options that we're going to have to face?
+Dr. Ross. I think it'll be a good mix of technological
+innovation and policy. There are ways in which the same data
+can be stored in different formats, different transformations,
+so that it can be used for some purposes, and not for other
+purposes. So I think that technology can be applied in order to
+transform the data in different formats, but then individual
+formats should be guided by policy as to who can access it, and
+who should accesses--access it, and who cannot access it. So I
+think it would require a good coupling between the
+technological innovations that we are aware of, and some very
+nice policies to make it happen.
+Chairman Foster. Yes. Dr. Romine, do you have any comments
+about--when you engage with our--some of your foreign
+colleagues in this, you know, do they face a very different set
+of attitudes as in the United States?
+Dr. Romine. Well, certainly that's true. For example, as
+you know, the GDPR (General Data Protection Regulation) in
+Europe envisions a very different way of approaching
+protections for privacy than we currently have here in the
+United States. But that said, one of the reasons that the
+privacy framework that we've developed is regulation agnostic,
+and even technology agnostic, is that we want it to be
+adaptable, usable, around the globe, and to be able to provide
+assurance that, if you follow these guidelines, you have
+evidence to support you're complying with whatever regulatory
+regime you happen to be in at any given time.
+Chairman Foster. Thank you. I will now recognize
+Representative Obernolte for five minutes.
+Mr. Obernolte. Thank you, Chairman Foster. I'd like to
+continue our discussion about the--kind of the ethical
+philosophy around privacy. And a couple of interesting things
+have come up in this last round of questioning about--like how
+do we safeguard this privacy, you know, from a 30,000 foot view
+level? And, you know, I think there's some things that could
+work, and some things that probably won't work. I think, Dr.
+Ross, you were mentioning disclosure, which I've--I used to
+think that that was a great idea, and then I started looking at
+end user license agreements for software.
+You know, I mean, it's like--it's--there are pages and
+pages, people scroll through, they click agree at the end. No
+one ever reads that, so what good is it possibly going to do
+for us to add another paragraph that says here's how we're
+going to use your--the facial data that you give us? You know,
+it's--there was an episode of South Park a couple of years ago,
+when--it was a parody of one of the characters that--
+inadvertently given Apple the right to do medical
+experimentation on him, you know, and his friends were kidding
+him, what, you just clicked that and signed it without reading
+it? Who does that? And the answer is everybody does that,
+right? So I don't think disclosure is the answer. I think maybe
+control over who has access to the data--you know, if I give my
+data to Apple, you know, for use for a certain purpose, you
+know, the fact that Apple should not give that data to somebody
+else to use for a different purpose, I think that that's--you
+know, that's closer to the mark.
+But, I mean, I think ultimately we're not going to find a
+real regulatory solution to this problem without looking at the
+things we're trying to prevent. You know, it's what attorneys
+call the parade of horribles. And--so I want to ask about that,
+and, I guess, Dr. Romine, I'll ask you about this. So, like,
+we're entering in this era when anonymity is a lot less than it
+used to be, and that's going to be true regardless of whether--
+what approach we as a government take toward privacy. So can
+you walk us through, like, the worst things--if we fail to act,
+like, the worst things that could--can happen? Because I think
+those are the ones that we have to be trying to prevent.
+Dr. Romine. Fair enough. I will say figuring out what the
+worst things are might take me some time, but some of the
+things that I've already alluded to, this idea of organizations
+making decisions based on inferences from biometric data that
+disadvantage certain groups over others.
+Mr. Obernolte. OK, let me stop you there, though, because
+the--we've had that problem--I mean, there's ethics around AI
+algorithms in hiring right now that we're dealing with that
+issue, right? But I think--I mean, the solution to that is you
+focus on the fact that that behavior is already illegal. So, I
+mean--like, if I'm going to kill somebody, it's equally illegal
+for me to kill them with a knife or a gun. You know, the tool
+doesn't matter, the act is what matters. So why is that
+different with the--in the case of privacy?
+Dr. Romine. So I don't think it's so much different as it
+is--it's a consequence of the lack of privacy, or privacy
+compromise. So privacy in this case, or the compromise of
+privacy, a privacy event, would lead to that activity. There
+are other things that I could imagine--there are, you know,
+aggregate societal decisions that are made that may be
+predicated on aggregate data for--that violates privacy
+considerations, those kinds of things. You know, Policies may
+be instituted that are inimical to certain populations as a
+result of issues relating to privacy, so--or biometrics.
+So, you know, in all of these cases, what we've discerned
+is that this--there is no technological solution that's going
+to solve the privacy problem, and there is no purely--I think
+there is no purely policy solution that's going to solve the
+problem. It's an ongoing joint effort of providing appropriate
+technologies for improving privacy protections, and matching
+those with appropriate policy decisions that can--you know, can
+prevent some of these tragedies.
+Mr. Obernolte. Sure. I agree with you, but I definitely
+think that, in crafting policy, we need to be looking at the--
+asking ourselves the question what problem are we trying to
+solve? What are we trying to avoid? And, you know, merely
+focusing on anonymity I think is a fool's errand, because we
+have a lot less anonymity now than we used to, and we will.
+There's nothing we can do about that. I think there's a big
+difference between--when we talk about the parade of horribles,
+whether or not it's government using--violating people's
+privacy, or other entities, because government has a coercive
+power that other entities don't.
+And, you know, if you want parade of horribles, look at
+what China does with some of the personal data they have for
+people, right? So that's head of--that's the top of my list of
+parade of horribles. But I really don't--I don't think we're
+going to get there, you know, without--from a policy framework
+standpoint without thinking about the problem we're trying to
+solve holistically. Anyway, it's a fascinating discussion, and
+I'm sure we're going to continue having it over the next couple
+of years, but thank you very much, Chairman Foster, for having
+the hearing. I've really enjoyed it. I yield back.
+Chairman Foster. Thank you, and we'll now recognize our
+lawyer in residence for five minutes, Representative
+Perlmutter.
+Mr. Perlmutter. And I think Mr. Obernolte is really sort of
+focusing on the question of the day. I remember serving in the
+State Senate about 20 plus years ago, and we were just trying
+to have a--you know, an Internet within the Colorado
+legislature, and something came up, and we were talking about
+Social Security Numbers, and should we release them, and all
+that stuff, and--you know, for privacy purposes, and I said,
+well--I was sort of being cavalier, I said, there's no such
+thing as privacy. And, kind of your point, there's no such
+thing as anonymity, and it's only grown in--since--in the last
+30 years.
+So the question is--I think from a policy perspective--
+technologically, you know, we can address things, and as Ms.
+Wright said, you know, you give up some things to get some
+things. You can make it tougher for a cyber criminal, or for
+somebody to use your data, but you're giving up some
+efficiency, or some ease of use in the process. The Supreme
+Court, in several decisions, none of which I like, and the one
+I like the least is the reversal of Roe v. Wade, but they
+basically say that, under the United States Constitution, there
+is no such thing as a right to privacy. And I don't know--I
+mean, I want to feel secure that when I go buy something
+spontaneously, that that doesn't alert everybody under the sun
+to something, or when I walk by a--you know, a grocery store,
+or a gas station, or something, that all of a sudden that
+doesn't, you know, send off all sorts of--Perlmutter's in the
+neighborhood, let's sell him X, or let's get him.
+You know, I guess this is for everybody, including my two
+colleagues. I don't know--so I think Jay's question--what is it
+that we're trying to solve? What is--what do we want here? I
+mean, do we want to create a right to privacy now that the
+Supreme Court says there isn't such a thing? We certainly
+legislatively can say something like that. And then how far do
+we want to take it? I think those are the questions. And then,
+for the technologists, you know, help us put that into place,
+knowing that technology is going to evolve and change, and
+things that we thought were in place will be replaced.
+I don't know, that's just sort of Ed Perlmutter thinking,
+based on Jay Obernolte's line of questioning, so--I don't know,
+if anybody's got a thought--I think that, you know, it's the
+responsibility of the technologists, and you, Ms. Wright, as
+the director of the--you know, kind of the--this agency that
+thinks about this stuff to say, OK, from a technology
+standpoint, we can do some things if you guys give us some
+clear direction. And I think Bill's trying to do that on some
+of his digital legislation, and I think Jay has some stuff too.
+So, I don't know. Dr. Foster, I'm going to turn it back to you,
+and you can do with my two minutes whatever you wish.
+Chairman Foster. Well, all right. So that's an
+interesting--you know, this is a--or, here, I'll ask you a
+question. So much of this is going to have to do with our cell
+phones. So, Dr. Romine, is there good coordination and
+communication with the manufacturers of the cell phones? You
+know, there's incredible AI horsepower being built into the
+next generation of smartphones, but not all of it's inside the
+secure enclave, where you'll have some idea that it's trusted
+computing. And so are you having thoughtful interactions, or
+are--do you get the feeling that they're just trying to set up
+a walled garden that keeps everyone's privacy information under
+their control?
+Dr. Romine. So in this we work with a very large and broad
+cross-section of technology, including cell phone manufacturers
+and providers. An interesting--I--having further reflection on
+the--Ranking Member Obernolte's question about significant
+harms, you know, one of the significant harms I can imagine is
+either through cell phone tracking or face recognition, you
+know, cameras that are--street cameras and so on, someone
+trying to access, you know, safe and reliable medical services,
+whether it's psychiatric services or something else, suddenly,
+you know, that becomes a matter of public record. Someone has
+now sort of been outed because of biometrics information,
+because of privacy information, trying to obtain services. So
+this is another one of these very serious potential issues. But
+yes, we're working--in discussion with cell phone
+manufacturers, and other advanced technology firms all the
+time.
+Chairman Foster. All right. OK. Well, thank you, and--well,
+here--we could go on all afternoon on this. I just really--I
+suppose I have to close the hearing now, but, before we bring
+the hearing to a close, I want to thank our witnesses for
+testifying before the Committee. It is really valuable for us
+in Congress, as we struggle with all the policy issues here on
+biometrics and privacy, that we have access to real quality
+experts so we can understand the technological reality of the
+feasibility of things, and don't generate legislation based on
+wishful thinking, instead of technical reality.
+Now, the record here will remain open for 2 weeks for
+additional statements from the Members, for--and for any
+additional questions that the Committee may ask the witnesses.
+And the witnesses are now excused, and the hearing is now
+adjourned.
+[Whereupon, at 12:27 p.m., the Subcommittee was adjourned.]
+
+[all]

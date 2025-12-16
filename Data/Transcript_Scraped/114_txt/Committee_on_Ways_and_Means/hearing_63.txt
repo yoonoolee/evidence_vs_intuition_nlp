@@ -1,0 +1,1721 @@
+- MODERNIZING SOCIAL SECURITY'S INFORMATION TECHNOLOGY INFRASTRUCTURE
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+MODERNIZING SOCIAL SECURITY'S
+INFORMATION TECHNOLOGY INFRASTRUCTURE
+
+=======================================================================
+
+HEARING
+
+before the
+
+SUBCOMMITTEE ON SOCIAL SECURITY
+
+of the
+
+COMMITTEE ON WAYS AND MEANS
+U.S. HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+JULY 14, 2016
+
+__________
+
+Serial No. 114-SS06
+
+__________
+
+Printed for the use of the Committee on Ways and Means
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+22-296                  WASHINGTON : 2017
+____________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+Internet:bookstore.gpo.gov. Phone:toll free (866)512-1800;DC area (202)512-1800
+Fax:(202) 512-2104 Mail:Stop IDCC,Washington,DC 20402-001
+
+COMMITTEE ON WAYS AND MEANS
+
+KEVIN BRADY, Texas, Chairman
+
+SAM JOHNSON, Texas                   SANDER M. LEVIN, Michigan
+DEVIN NUNES, California              CHARLES B. RANGEL, New York
+PATRICK J. TIBERI, Ohio              JIM MCDERMOTT, Washington
+DAVID G. REICHERT, Washington        JOHN LEWIS, Georgia
+CHARLES W. BOUSTANY, JR., Louisiana  RICHARD E. NEAL, Massachusetts
+PETER J. ROSKAM, Illinois            XAVIER BECERRA, California
+TOM PRICE, Georgia                   LLOYD DOGGETT, Texas
+VERN BUCHANAN, Florida               MIKE THOMPSON, California
+ADRIAN SMITH, Nebraska               JOHN B. LARSON, Connecticut
+LYNN JENKINS, Kansas                 EARL BLUMENAUER, Oregon
+ERIK PAULSEN, Minnesota              RON KIND, Wisconsin
+KENNY MARCHANT, Texas                BILL PASCRELL, JR., New Jersey
+DIANE BLACK, Tennessee               JOSEPH CROWLEY, New York
+TOM REED, New York                   DANNY DAVIS, Illinois
+TODD YOUNG, Indiana                  LINDA SANCHEZ, California
+MIKE KELLY, Pennsylvania
+JIM RENACCI, Ohio
+PAT MEEHAN, Pennsylvania
+KRISTI NOEM, South Dakota
+GEORGE HOLDING, North Carolina
+JASON SMITH, Missouri
+ROBERT J. DOLD, Illinois
+TOM RICE, South Carolina
+
+David Stewart, Staff Director
+
+Nick Gwyn, Minority Chief of Staff
+
+______
+
+SUBCOMMITTEE ON SOCIAL SECURITY
+
+SAM JOHNSON, Texas, Chairman
+
+ROBERT J. DOLD, Illinois             XAVIER BECERRA, California
+VERN BUCHANAN, Florida               JOHN B. LARSON, Connecticut
+ADRIAN SMITH, Nebraska               EARL BLUMENAUER, Oregon
+MIKE KELLY, Pennsylvania             JIM MCDERMOTT, Washington
+JIM RENACCI, Ohio
+TOM RICE, South Carolina
+
+C O N T E N T S
+
+__________
+
+Page
+
+Advisory of July 14, 2016 announcing the hearing.................     2
+
+WITNESSES
+
+Kimberly A. Byrd, Deputy Assistant Inspector General for Audit,
+Financial Systems and Operations Audits, Office of the
+Inspector General, Social Security Administration..............    51
+William Hayes, Principal Engineer, Software Engineering
+Institute, Carnegie Mellon University..........................    76
+Robert Klopp, Deputy Commissioner of Systems, Chief Information
+Officer, Social Security Administration........................     6
+Valerie C. Melvin, Director, Information Management and
+Technology Resources Issues, Government Accountability Office..    60
+Richard E. Warsinskey, President, National Council of Social
+Security Management Associations...............................    42
+
+QUESTIONS FOR THE RECORD
+
+Questions from The Honorable Sam Johnson, Chairman, Subcommittee
+on Social Security, to Kimberly Byrd, Deputy Assistant
+Inspector General for Audit, Financial Systems and Operations
+Audits, Office of the Inspector General, Social Security
+Administration.................................................   105
+Questions from The Honorable Sam Johnson, Chairman, Subcommittee
+on Social Security, to William Hayes, Principal Engineer,
+Software Engineering Institute, Carnegie Mellon University.....   110
+Questions from The Honorable Sam Johnson, Chairman, Subcommittee
+on Social Security, to Robert Klopp, Deputy Commissioner of
+Systems, Chief Information Officer, Social Security
+Administration.................................................   114
+
+SUBMISSIONS FOR THE RECORD
+
+Cheryl Sullivan, BMC.............................................   119
+Claire Bailey, Director of Federal, State and Local Mainframe
+Solutions, Compuware...........................................   122
+
+MODERNIZING SOCIAL SECURITY'S
+
+INFORMATION TECHNOLOGY
+
+INFRASTRUCTURE
+
+----------
+
+THURSDAY, JULY 14, 2016
+
+U.S. House of Representatives,
+Committee on Ways and Means,
+Subcommittee on Social Security,
+Washington, DC.
+
+The Subcommittee met, pursuant to call, at 10:04 a.m., in
+Room B-318, Rayburn House Office Building, Hon. Sam Johnson
+[Chairman of the Subcommittee] presiding.
+
+[The advisory announcing the hearing follows:]
+
+ADVISORY
+
+FROM THE
+COMMITTEE
+ON WAYS
+AND
+MEANS
+
+SUBCOMMITTEE ON SOCIAL SECURITY
+
+CONTACT: (202) 225-3625
+FOR IMMEDIATE RELEASE
+Thursday, July 7, 2016
+No. SS-06
+
+Chairman Johnson Announces Hearing on
+
+Modernizing Social Security's
+
+Information Technology Infrastructure
+
+House Ways and Means Social Security Subcommittee Chairman Sam
+Johnson (R-TX), announced today that the Subcommittee will hold a
+hearing on ``Modernizing Social Security's Information Technology
+Infrastructure.'' The hearing will focus on the current state of the
+Social Security Administration's Information Technology (IT)
+infrastructure, the agency's IT modernization plan, and best practices
+for IT modernization, including oversight of Agile software
+development. The hearing will take place on Thursday, July 14, 2016, in
+Room B-318 of the Rayburn House Office Building, beginning at 10:00
+a.m.
+
+In view of the limited time to hear witnesses, oral testimony at
+this hearing will be from invited witnesses only. However, any
+individual or organization may submit a written statement for
+consideration by the Committee and for inclusion in the printed record
+of the hearing.
+
+DETAILS FOR SUBMISSION OF WRITTEN COMMENTS:
+
+Please Note: Any person(s) and/or organization(s) wishing to submit
+written comments for the hearing record must follow the appropriate
+link on the hearing page of the Committee website and complete the
+informational forms. From the Committee homepage, http://
+waysandmeans.house.gov, select ``Hearings.'' Select the hearing for
+which you would like to make a submission, and click on the link
+entitled, ``Click here to provide a submission for the record.'' Once
+you have followed the online instructions, submit all requested
+information. ATTACH your submission as a Word document, in compliance
+with the formatting requirements listed below, by the close of business
+on Thursday, July 28, 2016. For questions, or if you encounter
+technical problems, please call (202) 225-3625.
+
+FORMATTING REQUIREMENTS:
+
+The Committee relies on electronic submissions for printing the
+official hearing record. As always, submissions will be included in the
+record according to the discretion of the Committee. The Committee will
+not alter the content of your submission, but we reserve the right to
+format it according to our guidelines. Any submission provided to the
+Committee by a witness, any materials submitted for the printed record,
+and any written comments in response to a request for written comments
+must conform to the guidelines listed below. Any submission not in
+compliance with these guidelines will not be printed, but will be
+maintained in the Committee files for review and use by the Committee.
+
+1. All submissions and supplementary materials must be submitted in
+a single document via email, provided in Word format and must not
+exceed a total of 10 pages. Witnesses and submitters are advised that
+the Committee relies on electronic submissions for printing the
+official hearing record.
+
+2. All submissions must include a list of all clients, persons and/
+or organizations on whose behalf the witness appears. The name,
+company, address, telephone, and fax numbers of each witness must be
+included in the body of the email. Please exclude any personal
+identifiable information in the attached submission.
+
+3. Failure to follow the formatting requirements may result in the
+exclusion of a submission. All submissions for the record are final.
+
+The Committee seeks to make its facilities accessible to persons
+with disabilities. If you are in need of special accommodations, please
+call 202-225-1721 or 202-226-3411 TDD/TTY in advance of the event (four
+business days notice is requested). Questions with regard to special
+accommodation needs in general (including availability of Committee
+materials in alternative formats) may be directed to the Committee as
+noted above.
+
+Note: All Committee advisories and news releases are available
+online at:
+http://www.waysandmeans.house.gov/.
+
+Chairman JOHNSON. Well, good morning and welcome to today's
+hearing on modernizing Social Security's information technology
+infrastructure. From seniors receiving Social Security benefits
+to young parents whose infants need Social Security numbers,
+Social Security's IT infrastructure touches on the lives of
+nearly every American. Hundreds of computer programs, thousands
+of servers, and millions of lines of computer code make up
+Social Security's IT. But even though it is so important,
+Social Security's IT hasn't kept up with the advances in
+technology.
+Today, when smartphones are common, Social Security still
+relies on computer code so outdated they don't even teach it in
+classrooms--unless you all teach some of it. So Social Security
+has to spend time and resources training workers in ancient
+computer languages, like COBOL, or rehire retirees to update
+its programs, because they are the only ones who know how.
+Social Security has new hardware, new computers and new
+data centers, but their software is out of date and hasn't been
+updated in years. Looking at a computer in a Social Security
+field office, you might think you have been transported back to
+the 1980s. Social Security still has many green screen
+programs. For those of you who may not remember, an example of
+a green screen is on the TVs. I can't tell you the last time I
+saw one of those.
+And, as we will hear today, this old technology makes it
+difficult to keep younger workers, who grew up using lots of
+technology. And, worse, there is a true cost to the old
+technology, because it takes Social Security employees longer
+than it should to do a simple task. That is time that can't be
+spent helping another claimant, processing earnings information
+on disability insurance beneficiaries or answering the phone.
+We will hear today that Social Security's employees lose 20
+minutes each day due to technology problems. With an agency as
+large as Social Security, this adds up quickly. And this wasted
+time costs Social Security nearly $200 million each year.
+For years, I have been sounding the alarm on the state of
+Social Security's outdated and aging IT. And the good news is
+Social Security has finally recognized it has a problem. In
+this year's President's budget, Social Security admitted the
+patchwork approach isn't working, and it is time to overhaul
+the entire system.
+Today, we will learn how Social Security plans to take on
+this massive program. It won't be easy, but Social Security has
+to get it right and the American people expect nothing less.
+But we will also hear today that Social Security's track record
+isn't always good when it comes to IT. Social Security has been
+trying for years to develop the Disability Case Processing
+System, DCPS, a single piece of software that will be used by
+State employees when deciding disability cases. The experience
+with DCPS has been rough for taxpayers and doesn't inspire all
+that much confidence.
+While it seems the project might be getting on track, you
+can't just ignore 300 million in taxpayer dollars spent on a
+failed approach before Social Security decided to just start
+over. Yet Social Security had no problem asking for $300
+million to redo its entire IT system without sharing a plan for
+how it was going to do it, the same amount that they spent on
+DCPS with nothing to show for it.
+The American people have the right to be skeptical. Trust
+is something that is earned, and it is earned by plans that can
+be followed, staying within a budget, and getting the job done
+on time, if not early. Make no mistake, Social Security must
+modernize its IT infrastructure, but they have to do it
+responsibly. This cannot be some runaway project with costs
+spiraling out of control or, a few years from now, starting
+over from scratch after spending hundreds of millions of
+dollars. Social Security has to get it right the first time.
+Thank you all for being here. I will now recognize Mr.
+Becerra for his opening statement.
+Mr. BECERRA. Mr. Chairman, thank you very much and thanks
+to the witnesses for being here.
+The Social Security Administration has an indispensable
+job, ensuring that all Americans get their earned Social
+Security benefits on time and in the correct amount. No agency
+serves more Americans with more critical services and
+activities than the Social Security Administration. One in four
+American families receives income from Social Security.
+Last year, SSA, the Social Security Administration, ensured
+that more than 60 million Americans were paid their earned
+Social Security benefits, that they completed more than 8
+million new applications, benefit applications, that they
+served more than 40 million in-person visitors and received
+over 66 million calls to over 1,200 field offices nationwide.
+SSA's IT was state of the art when it was developed. And
+SSA has over its history repeatedly harnessed technology to
+improve efficiency, productivity and customer service. But that
+was then. SSA had state-of-the-art systems in the 1970s, but
+today those legacy systems are increasingly obsolete. They are
+expensive to maintain, prone to breakdown, and difficult to
+reprogram.
+Modernizing SSA's IT infrastructure has been a challenge,
+as budgetary constraints have limited the agency's ability to
+invest beyond maintaining its current systems and implementing
+small upgrades to its existing infrastructure. Since 2010, the
+Social Security Administration's basic operating budget has
+been cut by 10 percent after adjusting for inflation. At the
+same time, the number of beneficiaries has continued to
+steadily increase, rising by 7 million people since 2010. These
+cuts have squeezed all aspects of the agency's operations,
+including its capacity to keep its IT up to date.
+I am glad that SSA is making a thoughtful assessment of its
+current IT infrastructure and determining what it will need to
+bring it up to date, but none of this can happen without
+resources. Without an additional investment from Congress
+dedicated to building a modern, agile, and cost-efficient
+infrastructure, SSA's systems will become even more slow,
+expensive to maintain, and at risk of catastrophic failure.
+I am glad one of our witnesses, Rick Warsinskey, is here
+today to tell us real-world effects of the agency's aging IT
+systems. Rick represents the managers of more than 1,200 Social
+Security field offices and teleservice centers. His workers
+report that they lose about 20 minutes a day to computer
+problems. It can take 10 minutes to restart a computer and get
+back online, sometimes while the beneficiary is standing there
+waiting.
+But despite these clear problems, just yesterday, the House
+Appropriations Committee approved a bill that cuts the agency's
+fiscal year 2017 operating budget below what it received this
+year in 2016. It cuts it by over $263 million, which means that
+it is a cut of about $1.2 billion for the agency that it
+needs--more that it needs to be able to do its work on time.
+Mr. Chairman, we all have work to do. SSA has important
+work to do. Congress has work to do to help them out as well. I
+hope that we recognize it as a chance for us to help the Social
+Security Administration do what it must for the tens of
+millions of people who rely on the agency and not only rely on
+it, but pay, pay taxes into Social Security, to make sure that
+they get the service and the work out of the agency that is
+necessary for these folks, these tens of millions of Americans
+who work very hard for this country, to get the benefits that
+they earned.
+And so it is time for us to work together with the Social
+Security Administration to make sure that they have the
+resources and the talent to provide all Americans who paid into
+the system the services that they deserve, the type of
+treatment they expect. And so when they call on that 1-800
+number or if they go visit an office, they will be treated with
+respect, they will be treated with dignity, because they will
+know that their government, our country is working for them.
+And so I am very glad that our witnesses are here with us
+today, I look forward to their testimony, and look forward, Mr.
+Chairman, to working with you and all our colleagues here in
+this Committee to make sure that we can get this done on behalf
+of the American people.
+With that, I will yield back the balance of my time.
+Chairman JOHNSON. Thank you, Mr. Becerra.
+You know, I have never been in a Social Security office
+that they haven't been friendly, kind, courteous and very
+efficient.
+As is customary, any Member is welcome to submit a
+statement to the hearing record.
+Before we move on to our testimony today, I want to remind
+our witnesses to please limit your oral statements to 5
+minutes.
+However, without objection, all of the written testimony
+will be made part of the hearing record.
+We have five witnesses today. Seated at the table are
+Robert Klopp, Deputy Commissioner of Systems, Chief Information
+Officer, Social Security Administration; Richard Warsinskey,
+President, National Council of Social Security Management
+Associations; Kim-
+berly Byrd, Deputy Assistant Inspector General
+for Audit, Financial Systems and Operations Audits, Office of
+the Inspector General, Social Security Administration; Valerie
+Melvin, Director, Information Management and Technology
+Resources Issues, Government Accountability Office; and William
+Hayes, Principal Engineer, Software Engineering Institute,
+Carnegie Mellon University.
+So, welcome, to all of you, thank you for being here.
+And, Mr. Klopp, please proceed.
+
+STATEMENT OF ROBERT KLOPP, DEPUTY COMMISSIONER OF SYSTEMS,
+CHIEF INFORMATION OFFICER, SOCIAL SECURITY ADMINISTRATION
+
+Mr. KLOPP. Thank you, Chairman Johnson, Ranking Member
+Becerra, and Members of the Subcommittee.
+As I was introduced, I am Rob Klopp. I am the CIO and
+Deputy Commissioner of Systems at the Social Security
+Administration.
+I want to provide testimony to you directly from the plan
+that we put together and presented to you guys. It is a plan
+that I would like to put into the record right now, because I
+think it is really what we are going to try to do going
+forward. So if you could get the plans out that we provided to
+you and open to page 5, I am going to skip very quickly through
+what I think are the key parts of this plan. Page 5 basically
+describes the outcomes that we believe will be the result of IT
+modernization at Social Security.
+You know, it is important to think about IT modernization
+as really about technical outcomes. It is about modernizing
+technology and stuff like that. There are some really important
+outcomes from a modernization effort. We think that we can move
+to cloud computing and substantially reduce the cost to
+compute, the cost for storage and the ongoing cost of operating
+the agency.
+We think that there are some technical techniques that we
+can use, called service-oriented architectures, that will allow
+us to build software in a way that makes it easier to extend
+new policies and ideas. For example, some of the changes that
+came out of the balanced budget amendment, which Congress
+passed, we think we can more easily and more cost-effectively
+implement them.
+We think that we can build shared services so that what we
+do can be shared with other agencies of the government and also
+that we can share what some of those other agencies are doing
+if we have modern technology at the core.
+Finally, if we build analytics into the things that we
+build at a fundamental level, we will be able to be more data-
+driven in our decisionmaking. We will also be much more
+responsive to the data-driven requests that come from you.
+There are critical technology outcomes that come from IT
+modernization. Probably most important to you is going to be
+cost reduction. But, if we go about modernizing IT
+infrastructure, it is really important that we not miss the
+opportunity to also modernize the business processes: The
+fundamental way that we engage with the citizens.
+Modernizing business processes probably adds a little bit
+of cost and expense to just modernizing the foundational IT,
+but I think we have to do that going forward. So, on page 5,
+you will also see that we believe if we modernize IT and we
+take advantage of this effort to actually change the way we do
+business that we have the ability to potentially reduce
+overpayments, that we have the ability to improve the automatic
+programmatic quality assurance systems we have in place that
+improve the quality of the services we deliver, that, as was
+already noted, we can improve the productivity of the employees
+to the benefit of the citizens, you know, by reducing wait
+times and stuff like that. We believe that, very importantly,
+we can do more self-service applications so that citizens can
+engage with us more directly and not have to come to field
+offices in the first place.
+We have giant processing centers in Social Security and, to
+a large extent, the processing centers are in place today to
+handle all of the things that our legacy software doesn't
+handle. So every edge case, every outlier that pops up in the
+system, ends up going to these processing centers and is
+handled manually. We believe that with IT modernization, we can
+eliminate some of that manual processing completely.
+And, finally, we think we can apply technology in order to
+actually help us with some of the decisions that we have to
+make, and that will allow us to be more effective at things
+like adjudications.
+So, importantly, there are outcomes that come out of IT
+modernization, some of which are technical, but, to a large
+extent, the more important ones have to do with business
+outcomes. And it is important that we don't miss the business
+outcomes because we title this IT modernization, which might
+otherwise imply just technology.
+If you skip to the next page on the scope of what we want
+to achieve, you can see that we are going to go after the heart
+of the systems that are in the Social Security Administration.
+The scope includes a complete rewrite of title II systems;
+of title XVI systems; of our notices application, which is how
+we currently communicate with the citizens of the country;
+enumerations is our application that we actually use to create
+Social Security cards; and earnings, which is how we keep track
+of the money that people have contributed to help determine how
+much their benefits might be. We think that we can modernize
+these five applications as the scope of modernization and
+fundamentally change the way we engage with citizens.
+Importantly, we also want to modernize and reduce some of the
+costs of our back office. So, in our plan is an attempt to
+actually take our email infrastructure and move it out of our
+in-house data centers into the cloud for further cost
+reductions.
+Page 7, I think, is what is most important and probably the
+newest part of this plan, and that is that we built a roadmap
+that basically addresses how we think we are going to go about
+modernizing these five applications. You know, it would
+probably take more than I can get through in 5 minutes to talk
+about this stuff, but I want you to know that the work we put
+into coming up with these estimates, you know, when we walked
+out of the room, people looked at me and said, this is probably
+the best that we have ever done as an agency in trying to
+estimate in advance what the GAO would call a rough order of
+magnitude, which is all that is expected at this stage. So we
+think that these estimates are extremely accurate, and we feel
+really, really confident that we can actually do what is on
+this chart.
+Slide 8 basically talks about our approach, which is
+about----
+Chairman JOHNSON. Can you tie it down? Your time has
+expired already.
+Mr. KLOPP. Okay.
+Chairman JOHNSON. Go ahead.
+Mr. KLOPP. Oh, I'm sorry. So I just want to say we are
+going to approach this with Agile methods, and I think you know
+something about that. Agile methods are really the key to being
+able to do this in a completely different way than how we
+addressed DCPS before, and that is why we think we will have
+different results.
+And then, finally, I just want to say that Agile creates
+some interesting challenges in the way you implement oversight,
+and we believe that in this plan we have provided mechanisms to
+allow that oversight to happen, even though the plan will be
+agile. The mechanisms will help you guys keep on top of us to
+make sure this is not another DCPS experience. I will just wrap
+up by saying: We think we are going to approach this
+fundamentally differently than the DCPS experience. We think we
+are proving through some other things that we are doing that we
+can effect these approaches and that, you know, we deserve your
+confidence because of these things we have done in the last
+year to prove this, that we can actually move forward and make
+this happen.
+[The submission of Mr. Klopp follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+[The prepared statement of Mr. Klopp follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman JOHNSON. Thank you for your testimony.
+Ms. Byrd.
+Okay.
+Mr. Warsinskey, would you like to testify, please? You are
+recognized.
+
+STATEMENT OF RICHARD E. WARSINSKEY, PRESIDENT, NATIONAL COUNCIL
+OF SOCIAL SECURITY MANAGEMENT ASSOCIATIONS
+
+Mr. WARSINSKEY. Chairman Johnson, Ranking Member Becerra
+and Members of the Subcommittee, my name is Rick Warsinskey,
+President of the National Council of Social Security Management
+Associations. Our organization represents field office and
+teleservice center management nationwide. I appreciate the
+opportunity to testify today.
+My testimony will focus on why modernizing SSA's IT
+infrastructure is essential from the perspective of over 60,000
+employees and, even more importantly, to the customers we
+serve. Ask any SSA employee what their number one concern is,
+and most will tell you it is the frustration they face getting
+their job done due to our slow system. Daily, we wait as our
+computers crawl from one system's window to another. Around
+noon Eastern time, our system reaches peak usage, as almost all
+offices are open to serve the public. Users watch the spinning
+wheel as programs and screens attempt to load. Valuable time is
+lost which should be used to assist customers or address
+backlogs. Based on our recent survey, we believe this costs the
+agency upwards of $200 million per year in lost productivity.
+We can demonstrate the degradation of SSA's systems by
+analyzing data speed tests. We surveyed our offices and found
+that these tests measured a median download speed of 2.87
+Megabits per second and an upload speed of .25 Megabits per
+second. This speed is slower than what we measured last year.
+In comparison, Internet providers typically provide over 20
+times this speed in your home. This degradation in data speed
+supports overwhelming feedback that our system is slowing down.
+Our customer service and productivity are not only dependent on
+reliable systems access but also on efficient programs. SSA
+programs are becoming more complex, and experiencing more
+malfunctions. Our computers regularly become nonresponsive,
+applications inaccessible, requiring a system reboot. It can
+take up to 10 minutes to restart a computer to get back online.
+We strongly support resources for modernizing SSA's code
+and rewriting its programs. SSA's systems require new
+architecture. We understand modernizing SSA's computer systems
+will require resources and time. However, failure to address
+these critical concerns will delay the inevitable and costs
+will only increase. In the meantime, severe disruptions of
+service will intensify as the system further degrades. Our
+agency touches every American. We maintain billions of records,
+paying about $1 trillion a year. Payments must be made
+accurately to ensure tax dollars are not wasted.
+The current inefficient, outdated system cannot keep pace
+with the services SSA must deliver each day, costing us
+millions of dollars. We acknowledge there are budget challenges
+to addressing SSA's IT infrastructure needs, especially
+considering SSA's increasing workloads, which include a record
+high hearings backlog of over 1.1 million cases waiting for a
+decision. These cases represent vulnerable citizens facing the
+possibility of homelessness and severe health deterioration,
+often without the means to pay for care. SSA's program service
+centers have a near record high pending backlog of over 2.8
+million cases, with an average age of 4 months. These centers
+are responsible for workloads that usually require manual
+processing due to limitations in SSA's software.
+The American public deserves an SSA with adequate resources
+to support the agency and its systems. We recognize budget
+dollars are limited. However, we strongly believe dedicated and
+sustained resources for the modernization of SSA's IT
+infrastructure are necessary to ensure the agency can run
+efficiently, saving tax dollars. The longer we delay addressing
+these issues, the more severe disruptions will occur, risking
+major systems outages.
+Thank you again for this opportunity to testify. I would
+welcome any questions you have.
+[The prepared statement of Mr. Warsinskey follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman JOHNSON. Thank you, sir.
+You know we built two brand new computer centers not too
+long ago. That was supposed to solve all your problems.
+Thank you. Ms. Byrd, you are recognized.
+
+STATEMENT OF KIMBERLY A. BYRD, DEPUTY ASSISTANT INSPECTOR
+GENERAL FOR AUDIT, FINANCIAL SYSTEMS
+AND OPERATIONS AUDITS, OFFICE OF THE INSPECTOR GENERAL, SOCIAL
+SECURITY ADMINISTRATION
+
+Ms. BYRD. Good morning, Chairman Johnson, Ranking Member
+Becerra, and Members of the Subcommittee. Thank you for the
+invitation to testify today. SSA administers programs that
+result in payments of $2.5 billion per day, and holds sensitive
+data for more than 300 million people. Given SSA's increasing
+service and data storage responsibilities, the agency must
+modernize its IT infrastructure. It is a significant challenge
+to upgrade the IT systems that an organization as vast as SSA
+needs to conduct business. However, the agency must make IT
+modernization a top priority.
+The need for long-term IT planning has been a concern at
+SSA for many years. As far back as 1982, SSA announced
+aggressive plans to restructure and upgrade its systems. At the
+time, the agency told Congress that, without major IT
+improvement, SSA could suffer a disruption of services which
+are critical for millions of Americans.
+Despite upgrading several systems, SSA has yet to tackle
+some of its major IT projects, such as replacing its legacy
+programming code and databases. Specifically, SSA continues to
+rely on decades-old applications to process core workloads,
+such as retirement and disability claims. Many of the agency's
+applications run on COBOL, a programming code first developed
+more than 55 years ago. Further, SSA's workforce, while
+proficient and experienced, is aging. Thus, institutional
+knowledge of older technologies is diminishing due to
+retirement. Modernization is critical, because SSA's next
+generation of employees will expect to work with current,
+mainstream technologies.
+In its Information Resources Management Strategic Plan, SSA
+outlines general multi-year efforts to modernize data so it
+exists in forms that are widely used today; rewrites business
+applications with modern coding so those applications can
+interact with SSA's online and mobile service; and moves
+servers to environments like the cloud, that could increase
+efficiency. All of these efforts are worthwhile. But going
+forward, SSA should describe specifically how and when it will
+bring these ideas to fruition.
+Long-term strategic planning is critical to any significant
+IT project. For example, the Disability Case Processing System,
+or DCPS, is one of SSA's largest active IT investments. SSA
+began planning this project in 2008. During development, DCPS
+has incurred cost overruns and schedule delays. After
+development resulted in limited functionality and user
+concerns, SSA reset the project last year and changed its
+approach. The agency moved DCPS to an Agile environment, which
+is expected to deliver software updates incrementally. Agile
+practices are relatively new to SSA. Implementing them on a
+project as complex as DCPS could introduce additional risks.
+At the end of fiscal year 2015, SSA reported it had spent
+more than $350 million on DCPS. Going forward, the project
+requires diligent oversight and continued user involvement.
+Also, any IT modernization plan should address SSA system
+security. In our most recent FISMA report, we identified a
+number of weaknesses that may limit SSA's ability to adequately
+protect its systems. The risk and severity of these weaknesses
+met OMB's definition of a significant deficiency in internal
+controls, a conclusion that we have reached in prior FISMA
+reports. SSA needs to address these weaknesses to protect its
+information systems, just as the agency works to ensure the
+integrity of its benefit programs.
+To conclude, SSA needs a detailed IT plan that clearly
+outlines how it will modernize its databases, applications, and
+infrastructure, so agency employees can work effectively and
+SSA customers can receive timely, accurate services. Of course,
+we will continue to monitor these issues closely and work with
+SSA and the Subcommittee.
+Thank you again for the invitation to testify, and I am
+very happy to answer any questions.
+[The prepared statement of Ms. Byrd follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman JOHNSON. Thank you, ma'am.
+Ms. Melvin, welcome. Please proceed.
+
+STATEMENT OF VALERIE C. MELVIN, DIRECTOR, INFORMATION
+MANAGEMENT AND TECHNOLOGY RESOURCES ISSUES, GOVERNMENT
+ACCOUNTABILITY OFFICE
+
+Ms. MELVIN. Good morning, Chairman Johnson, Ranking Member
+Becerra, and Members of the Subcommittee.
+Thank you for inviting me to testify on modernizing SSA's
+information technology. As you know, the agency relies heavily
+on IT resources to accomplish its mission, and as has been
+emphasized, SSA's IT environment is aging, with the agency
+reporting that some of its systems are more than 30 years old.
+Over the years, SSA has undertaken various projects aimed
+at updating and improving its systems and infrastructure and,
+as noted today, it recently announced a new plan to pursue an
+agencywide modernization initiative. Our prior reports on SSA's
+IT identify numerous challenges that impeded the agency's
+ability to effectively manage and modernize its IT, and at your
+request today, my testimony summarizes results from those
+reports. Further, in anticipation of the new modernization
+initiative, the testimony highlights selected practices that we
+have identified as essential to effectively planning for and
+managing modernization efforts.
+Overall, our prior work identified weaknesses in SSA's
+systems, development practices, IT governance, requirements
+management and strategic planning, among other areas. For
+example, we previously noted that the agency had proceeded with
+implementing an earlier disability system without consistently
+applying established procedures to guide the systems
+development and without conducting adequate testing to evaluate
+the performance of all system components collectively.
+Additionally, the agency's IT modernization approach had not
+included an updated IT strategic plan to guide its efforts.
+Weaknesses such as these hindered SSA's ability to successfully
+deliver the new capabilities.
+We made numerous recommendations to address the weaknesses
+we identified, and the agency agreed with some, but not all of
+them. Overall, the agency has continued to be challenged in its
+efforts and currently faces increasing costs to operate and
+maintain its at-risk legacy systems.
+Our work has shown that successfully acquiring and
+modernizing IT depends on Federal agencies, including SSA,
+having effective management and oversight processes in place.
+Otherwise, investments frequently fail, incur cost overruns and
+schedule slippages, or contribute little to the missions-
+related outcomes.
+With this in mind, we have identified a set of essential
+and complementary management disciplines that provide a sound
+foundation to support IT modernization efforts. These include,
+among others, strategic planning to define what an organization
+seeks to accomplish and how it will achieve the desired
+results, IT investment management that includes an investment
+board and effective investment oversight, systems development
+and acquisition practices that include defining the
+requirements, managing project risks, and reliably estimating
+costs, and leadership for driving change, providing oversight
+and ensuring accountability for results.
+Given the longstanding challenges with its IT management
+and modernizations, it is important for SSA to have in place a
+clearly established, rigorous and disciplined approach for its
+latest efforts to modernize its IT. The management disciplines
+noted provide a sound foundation for doing so. Otherwise,
+challenges like those that SSA experienced in its past
+initiatives could continue to be an impediment to the agency
+achieving the more modernized IT environment necessary to
+support its service delivery mission.
+This concludes my oral statement, and I would be pleased to
+respond to your questions.
+[The prepared statement of Ms. Melvin follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman JOHNSON. Thank you, ma'am.
+Mr. Hayes, welcome. You may proceed.
+
+STATEMENT OF WILLIAM HAYES, PRINCIPAL ENGINEER, SOFTWARE
+ENGINEERING INSTITUTE, CARNEGIE MELLON UNIVERSITY
+
+Mr. HAYES. Chairman Johnson, Ranking Member Becerra,
+Members of the Subcommittee, thank you for the opportunity to
+address you today.
+My name is Will Hayes and I am a member of a research team
+at the Software Engineering Institute, a federally funded
+research and development center operated by Carnegie Mellon
+University. For over 7 years, we have been working with major
+software-intensive programs across the government, where a
+great deal of experience is accumulating about Agile. My
+testimony today will focus not on the Social Security
+Administration but on what we at the Software Engineering
+Institute have learned about Agile development in government
+settings. Our research encompasses both successes and failures
+in applying Agile approaches. In our work as a federally funded
+research and development center, it is our goal to help others
+benefit from this experience base.
+It bears mentioning at the outset, Agile cannot solve all
+your IT transformation problems. As you may know, Agile
+software development is typified by small, cross-functional
+teams working in short iterations to deliver software
+capabilities incrementally. Our research in large programs
+indicates that there are several factors that are essential to
+successful application of Agile development at scale: Effective
+communication between leadership and developers; alignment on
+strategy across teams and roles; and a workforce experienced in
+the disciplined application of software engineering methods,
+such as architectural analysis, cyber security practices, and
+building sustainable systems, among other things.
+Make no mistake, to consistently deliver working software
+on a short timeframe and to do this over the course of months
+or years requires a tremendous amount of discipline and ongoing
+planning. For those charged with oversight responsibilities, we
+must recognize that Agile at scale is different from
+traditional approaches, and this process requires a different
+approach to oversight.
+Agile methodologies place a premium on consistent use of
+short iterations, with stable staffing dedicated to a single
+stream of technical work. This new cadence offers more
+oversight opportunity but with different measures of success.
+For example, short-term deviations in cost and schedule are
+much less likely to occur under such a regime. Leading
+indicators of performance that rely strictly on cost and
+schedule information will not serve us the way they have in the
+past. We will need to understand performance in terms of
+delivered value rather than resources consumed.
+In Agile, there is a strong emphasis on uncovering user
+needs for the system through collaborative interaction. Given
+this focus, we have the opportunity to assess the quality of
+the software products based on how well they support the
+mission of the user base. This focus on quality in terms of
+user value is seen by many to be superior to an exclusive focus
+on software defects and technical data. Agile moves the focus
+away from reliance on detailed and comprehensive specifications
+as the primary way of assessing the technical challenge to be
+solved. Incremental development allows teams to hone their
+understanding of real user needs as the system is implemented
+in waves.
+Agile development emphasizes full-resolution visibility
+into near-term work and a less detailed focus on the work to be
+done later. This approach to managing the inevitable change in
+what we demand of our IT systems when implemented with strong
+leadership and a well-considered roadmap has helped government
+programs to deliver systems that are better suited to their
+intended use.
+There are a number of potential challenges to using Agile
+approaches in government settings that still remain. First, it
+is not yet clear how we will build the capacity for government
+personnel to interact more frequently with developers. Our
+Federal workforce must continue to accomplish more each year
+with limited ability to add resources.
+Second, government personnel overseeing software systems
+must be able to consider broad-reaching impacts of their
+technical strategy over the long term. A focus on short-term
+technical goals to the exclusion of a sense of building for the
+future can be a destructive force. This can inappropriately
+constrain the budgetary decisions we must make.
+Last, we must continue to battle the recurring software
+challenges that have been pervasive for decades. This includes
+managing technical debt and making timely modernization
+investments. We have a very long tradition of deferred
+maintenance to overcome. Just as we might worry about the
+condition of roads and bridges in our country, we need to be
+mindful of the work we defer in our software systems.
+In conclusion, I would like to suggest two broad focus
+areas for government on these matters: First, we need to start
+asking different questions about software systems in which we
+invest. We need to focus on what the software system enables
+and how the work supported by the system is improved by the
+capabilities we deploy. Second, a focused workforce development
+effort is needed to develop the skills necessary to utilize
+these new methodologies.
+It is an honor to participate in this process, and I will
+be happy to answer any questions you have. Thank you.
+[The prepared statement of Mr. Hayes follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman JOHNSON. Thank you, sir.
+It seems like we should have gone over all those things
+when we built the new centers, right?
+Mr. Klopp, the President's budget requested $300 million to
+modernize Social Security, and after asking for months for a
+plan, this week, Social Security finally provided something to
+the Congress. Given that Social Security already wasted $300
+million on the Disability Case Processing System before
+starting over--money taxpayers can't get back--I want to ask
+you, are you confident that the proposed $300 million will
+cover the entire modernization project, as the budget claims?
+Mr. KLOPP. First, I guess I would just get out of the way
+the fact that the DCPS stuff and the $300 million that was
+spent before was spent before I got here, all right.
+What I did was, about 9 months ago, started the agency on a
+path to build the plan which is now in front of you, and as you
+can imagine, building a plan as comprehensive as a plan to
+modernize all of the IT infrastructure, 9 months is not a bad
+effort. The plan has been in continuous improvement. And, you
+know, frankly, we have briefed your staff continuously over the
+course of that 9 months, so there is really very little in the
+plan that was new and a surprise. What was new was the roadmap
+and cost model that we built in the plan, and so I am hoping
+that later on we will have some questions that will let me go
+into that in more detail. What I will tell you is that the cost
+model also has been built up iteratively over the course of the
+last 9 months.
+We believe, at this stage, that the model we have put
+together and the commitments that are implied by the roadmap
+that is in the plan are extremely high quality. We worked very
+hard to create what GSA would call a rough order of magnitude
+estimate that is extremely high fidelity. So we think we can do
+what is in the plan. We believe the effort that we put into
+building up those cost models is a level of effort that is not
+usually seen in the government in building a rough order of
+magnitude, and I stand behind it.
+Chairman JOHNSON. Well, are you protecting taxpayer
+dollars, is what the question is, and are you going to stay on
+budget?
+Mr. KLOPP. You know, I think we are going to stay on
+budget. I think, you know, one of the things that Mr. Hayes
+said that I think is really important to keep in mind is that,
+in this new Agile world, what we focus on is trying to deliver
+value every time we go through an iteration, an Agile
+iteration. And so we think that the Agile process is going to
+allow you to look at the things that we have in the backlog,
+the amount of money that we are spending as a run rate and, at
+a very regular interval, be able to determine whether or not we
+are adding the value with these increments that we claim we are
+adding.
+I think that Agile is less about defining an end point in
+advance and driving to that end point and then declaring that
+we have hit something on time and on budget. So we are going to
+use Agile. We are going to expect you to watch over us like a
+hawk. And we think that we will be able to consistently deliver
+value through this entire plan.
+Chairman JOHNSON. Let me ask you a little different
+question. You know, you are a political appointee and that
+means, in January, are you going to leave Social Security?
+Mr. KLOPP. We will see, alright? I don't have a long-term
+contract, alright?
+Chairman JOHNSON. What are you doing to make sure that this
+project stays on track once you leave?
+Mr. KLOPP. We think we have detailed plans that we are
+going to put in place, but right now, we are at the stage where
+the detailed plans are highly dependent on the $300 million
+request we have for additional funding. If we don't get the
+$300 million, I think that the plan really completely unravels.
+We are undergoing some pretty severe budget cuts, and it is
+going to impact IT I think more than anywhere else. So I don't
+see much opportunity for us to take on IT modernization without
+the additional funding.
+Chairman JOHNSON. Thank you.
+Ms. Byrd and Ms. Melvin, you have seen the impact of
+turnover in Social Security, what else should be done to make
+sure that taxpayer dollars are not wasted? Either one of you.
+Ms. BYRD. I will go first. From the OIG perspective, what
+we really want is a long-term plan. We can't have an annual
+plan that then goes away. As I mentioned in my oral testimony,
+SSA has gone back 25 years in saying that this must happen, and
+we are now here again today discussing this modernization
+effort.
+So what we would like to see is a very detailed plan going
+forward that is sustained beyond 1 year, beyond one
+Administration.
+Chairman JOHNSON. Well, you know, when we built those two
+processing buildings, they told us that was the end of the
+problem, and it hasn't seemed to happen. I am out of time. I am
+going to recognize Mr. Becerra.
+Thank you for your comments.
+Mr. BECERRA. Mr. Chairman, thank you for this hearing, and
+I hope we are able to follow it up with more, because I think
+it has become very clear that we need to do something, but we
+have to make sure that whatever that something is, it is going
+to work.
+May I suggest, Mr. Chairman--we were just chatting a second
+ago--that we try to bring together the Inspector General's
+Office and the GAO's Office, who are watchdogs, sit them down
+with
+Mr. Klopp and his folks, and that we, the Members of Congress,
+those of us who sit on this Committee of jurisdiction, we get
+to sit with you all to hear what is going on, because if you
+are going to ask for the money, I think we want to have a sense
+that it is going to work.
+And, as Ms. Byrd just said, this is a long-term project.
+And as Mr. Klopp just said, you are going to need the money.
+You can't do a long-term project without knowing you have a
+stable source of funding to help it happen. And I think what
+you are probably going to hear from this dais is that people
+want to know if you are going to get the money, there will be a
+product that works at the end.
+And I don't think we have much more time to wait or waste,
+right, because my understanding is it is getting worse every
+day. You are running out of broadband. Your folks are taking
+longer and longer to access information, and you are getting
+more and more people coming through the doors of Social
+Security offices. And so I think it becomes really important
+for us to work on--it is almost like diving out of the plane
+together. We all have to trust that we will all know how to
+pull each other's parachute string at the right time, and we
+can't afford--failure is not an option if we are all hanging
+together.
+I think it is also going to be important, as Mr. Hayes has
+testified, to have someone from the outside, especially those
+who are doing this and have done it well, to instruct us,
+because sometimes we get in our shells and don't recognize all
+the best technologies that are out there or some of the
+failures and we will have someone that can inform us.
+Ms. Byrd and Ms. Melvin, do you think your offices would be
+willing, if the Chairman and Members on this Committee were
+interested, to sit down, not necessarily having to do a hearing
+but just to sit down, to have a working group, that your
+offices would be willing to participate in that?
+Ms. BYRD. Absolutely.
+Ms. MELVIN. Yes, definitely, we would.
+Mr. BECERRA. Mr. Klopp, I don't know if you can speak for
+everyone at Social Security, but would you be interested in
+participating in something like that? Would your folks at SSA
+sign off on allowing you to have additional meetings with
+Members of Congress who are interested in following up with you
+on this?
+Mr. KLOPP. Absolutely. I think we have already tried to
+engage with your staff much more effectively than maybe has
+been going on in the past.
+Mr. BECERRA. Mr. Warsinskey, do you think that would be
+something that the folks who actually have to do this on the
+ground that you represent would be supportive of?
+Mr. WARSINSKEY. Very much so. I think that is the key, with
+everyone getting together and being on the same page and going
+in the same direction.
+Mr. BECERRA. And, Mr. Hayes, I am assuming that you think
+it is better to look from the inside versus from the outside at
+how this is happening, because all of us, whether we are in the
+Federal Government or not, are going to deal with Social
+Security at some point in our lives.
+Mr. HAYES. Yes, sir.
+Mr. BECERRA. So, Mr. Chairman, I would really urge us to
+see if we can sit down, whatever all of you think is a good
+group, to just try to follow this up, because I think the
+Chairman's admonition is absolutely correct: We can't afford to
+have someone come up here and say, you need the resources,
+whether it is to have those new buildings in which we are going
+to house a lot of the IT capabilities, move forward, then all
+of a sudden find that it is just not cutting it.
+And I hope that what we will do is we will get a clear
+sense of the path on the budget numbers that you really need,
+because, well, as you just saw, yesterday the Appropriations
+Committee actually cut SSA's budget and, as I think, Mr. Klopp,
+you mentioned, it would be impossible to move forward on any IT
+improvement if your budget is cut. And so I think people are
+going to demand some real precise numbers to feel comfortable
+about allocating the resources for this without taking it from
+another very important aspect of Social Security
+Administration's work. The last thing we want to do is take it
+from Peter to give it to Paul.
+Is there something, Mr. Warsinskey, that we should know
+that the folks, the frontline folks would like Members of
+Congress to know, in terms of how we could do this and do it
+right?
+Mr. WARSINSKEY. I think, as I was saying in my testimony,
+our biggest concern right now is that, as we interview the
+public, every member that walks in, they are waiting longer.
+Our interviews are taking longer. Every part of our work is
+just--there is a frustration building, because, especially in
+the middle of the day where you are just waiting for things to
+move. The Social Security employees are really under the gun to
+move, to use every second they can. They need to use every
+second. It is very frustrating when they can't use the time
+they have to do something.
+Mr. BECERRA. I appreciate that.
+Mr. Chairman, thank you for holding this hearing.
+Thank you to all the witnesses for their testimony.
+Chairman JOHNSON. Thank you, sir.
+Mr. Smith, you are recognized.
+Mr. SMITH. Thank you, Mr. Chairman.
+And thank you to our witnesses.
+Mr. Klopp, how far along would you say you are in this
+plan? I mean, there was the assertion made previously that some
+of the documentation and so forth is brand new. How far along
+would you say you are?
+Mr. KLOPP. I have been at SSA for about 18 months, and it
+is so apparent the minute you get there that IT modernization
+is almost an existential problem. About 37 percent of our staff
+will be eligible to retire in the next 5 years. So IT
+modernization is something we jumped on right away.
+What we have done in the last 18 months is to start the
+cultural change to get our heads wrapped around Agile. As Mr.
+Hayes points out, the workforce, cultural change like that is
+critically important. But we also started working on the
+technology.
+So we are now at a point where we are rolling out our first
+production applications in the cloud. We are building
+applications using very modern software languages like Node.js,
+and we are using Agile in an agile way. I think we are doing
+well at that. So a lot of the 18 months has been preparation to
+be in a position where we could actually execute on the plan.
+The plan itself has really probably grown up I am going to say
+in the last 8 months, and that basically started when we asked
+ourselves, what would we do if we were going to completely
+rewrite systems and engage customers in a completely different
+way? So we started a project that we call Customer Connect.
+And, really, the major upgrade that I mentioned, the
+roadmap and costing, was only--we could only really do that,
+without just making really big ridiculous swags, in the last
+few weeks as the Customer Connect team developed for us
+descriptions of the business processes that drive the whole
+agency.
+So the answer I think is we have a toehold. We have a
+beachhead. The workforce has learned enough to be able to move
+forward on this thing. And, really, we are just waiting for the
+funding.
+Mr. SMITH. So would you say the funding is the largest
+obstacle?
+Mr. KLOPP. It is. We have to have the funding.
+Mr. SMITH. So, once you get the funding, do you see any
+other obstacles changing or evolving along the way?
+Mr. KLOPP. You know, it is never going to be perfect,
+right? But, we think that we can do this. The other thing I
+think that is important is we have turned DCPS around. We have
+turned it around by using all these Agile modern methods. And
+it is really DCPS and our ability to develop code in DCPS that
+has become the yardstick that allows us to come up with these
+estimates.
+We believe, now knowing the kind of velocity that we can
+get out of programmers in a modern environment and being able
+to relate the business problems we are solving in DCPS to the
+business problems that we have to solve if we modernize title
+II, that we can get this rough order of magnitude and say,
+yeah, it looks like about the same thing.
+So I actually don't believe that there are technical
+obstacles; I just think we have to get on with it.
+Mr. SMITH. You know, in the Federal Government, as it
+relates to dollars being spent and so forth, there are
+oftentimes a lot of boxes that need to be checked. Oftentimes,
+those don't have anything to do with quality or efficiency.
+Do you feel that you have the flexibility, that there is
+enough flexibility in the system or, you know, in the
+surroundings, that there is enough flexibility to get the job
+done?
+Mr. KLOPP. That is really a very interesting question. I
+think you can actually see a little bit of tension at the table
+here between the Agile side of the world, which is really sort
+of about get on with it, manage things in an iterative way,
+work very hard to make sure you are adding value with each
+iteration, as opposed to, you know, the counterview, which is,
+we have to have detailed plans that lay everything out several
+years in advance and how we have to work to these detailed
+plans.
+Agile is about agility. It is not about prescriptive plans.
+And so what we have done is engage the IG and OMB and start
+trying to find a way to work in this agile way to provide all
+the value that Agile provides and still provide the kind of
+management oversight on top of this thing to make sure that we
+are delivering value as we go.
+But in the same way that it requires me to retrain my
+programming staff in how to deal with Agile and to deal with
+some of the cultural concepts that Mr. Hayes suggested, I think
+that also some of those cultural changes are going to have to
+impact the way we provide oversight on these things, and it is
+going to impact folks like GAO and, you know, the Inspector
+General's Office.
+Mr. SMITH. All right.
+Thank you, Mr. Chairman. I yield back.
+Chairman JOHNSON. Thank you.
+Mr. Kelly, you are recognized.
+Mr. KELLY. Thank you, Chairman.
+And thank everybody for being here.
+Mr. Hayes, I am from right above Pittsburgh, so I know the
+wonderful work that you have done. I am from the private
+sector, and just as a lead into it, not only you but all of us
+are going to find out in January if we are still here. So it
+doesn't really--we are all in temporary service.
+Coming from the private sector, though--and this is
+something I have watched now for the 5 years I have been here--
+we are always trying to find out who to blame for things not
+working right. But in the private sector, in the business I
+have been in my whole life, I would have the folks that I work
+with come to me and say: ``Hey, there is a new machine we have
+to get''--I am an automobile dealer--``we need to get this new
+paint room.'' And I would say: ``How much does it cost?''
+And they would say: ``$250,000.''
+And I would say: ``Well, how are we going to pay for it?''
+They would say, ``Well, there is a great loan program, or
+you can lease it.''
+I said, ``No, no, how are we going to make the payments?''
+Because if we don't have enough business to cover it, it
+doesn't make sense. So I would never buy anything--if it didn't
+kill more than it ate, it couldn't come in the store.
+The problem that you face is huge, because without more
+people participating--I am talking about now the labor rate
+participation. I am not talking about unemployment, because
+people looking for jobs and not finding a job are the only ones
+considered unemployed. The people that don't have any hope and
+aren't even looking for a job aren't considered in the market
+anymore.
+But the real elephant in the room is not the program that
+you are trying to put forward. The real elephant in the room is
+the fact that we don't have enough revenue to continue to build
+a business model that would make sense in the private sector.
+Nobody in the private sector would sit there and say: ``You
+know what? This is a new program I am going to institute. Let's
+go ahead with it.'' Because the next question is, who's going
+to pay for it? My understanding--and this is from signing
+payroll twice a month--6.2 percent from the person that is out
+there working, 6.2 percent matched by the people who pay him or
+her, 12.4 percent out of every paycheck up to about $118,000.
+If we don't get more people back to work, if we don't have
+a dynamic and robust economy, all of this talk that we are
+having is just that. It is just talk. You have my--I think you
+have around 65,000 people working in Social Security right now.
+You need a lot of money to update. You need a lot of money to
+continue to grow. In our business, if we stop spending, we are
+going to die. We have to constantly move, all the time, move
+up, move up, ratchet up. What you are doing is making more
+people more effective, more efficient through technology. That
+is the way you fix it. The question is, how do you pay for it?
+I think too often we worry here about the political
+ramifications of, who are we going to blame? Who are we going
+to blame for us not being able to get there? First of all,
+Social Security is a business. We have to have more money
+coming in than going out. It is just that simple. These are not
+hard things to figure out. Then the question becomes, if we are
+going to have this constant conflict all the time and it is
+always a tit for tat and telling us who is responsible for it
+not failing, the reason it is not working is because we don't
+have an economy that is functioning right now. You can't do a
+darn thing about that. We can through policy. We can look at
+things and say, why aren't we growing? Why aren't we fulfilling
+our full potential? The answer in most cases is the private
+sector can't continue under the heavy burden of taxation and
+regulation and then being held responsible for not providing
+enough revenue to run the business. See, I look at it just that
+simple. And all the things you are trying to do are wonderful.
+But if we can't afford to pay for them, they never get done. So
+I think I would rather be looking at--I want to sit down and
+talk with you. I want to hear from you how you could fix this,
+what you have to do to update, what you have to do to
+modernize. As you look at the growing number of people on
+Social Security, we have to make sure that we fulfill that
+promise to people, but we also have to make sure the model
+isn't a flawed model that is not sustainable.
+Too many programs right now are unsustainable. They were
+unsustainable from their very concept. From the time they went
+into effect, they couldn't be held on that long. We knew we
+couldn't do it. But you know what, if we could just get through
+the next election, then we would work on it again.
+So I appreciate everything you are doing. I mean this
+sincerely. If anybody gives you a hard time--listen, you are
+working for the same people we work for, that is hard-working,
+American taxpayers. And they expect the flat level best from us
+every single day we come to work. So I don't want to blame you
+for anything. I want to work with you. I want to finally do it.
+But you know what? What you need to demand from us is not just
+more money to operate but a stronger economy that can fund it,
+because I know where the money comes from. Every single penny
+comes from a hard-working, American taxpayer. It is in their
+paycheck. It is matched by their employer, but it only matters
+if they are working. It only matters if their wages are rising.
+All of the rest of this, we are just chasing ourselves around
+about the real problem.
+The real problem in this country right now is an economy
+that is not growing. With the assets that we have and the
+opportunities that we have facing us right now, if we really
+want to make America great again, then we have to have policies
+that allow America to be great again, that don't hold us down.
+You need more money to operate, and we need to come up with
+policies that will allow the people who fund this wonderful
+government--and that is a private sector--allow them to grow,
+allow them to succeed, allow them to be profitable, allow them
+to be a bigger participant when it comes to revenue. And you
+only do that through working toward a mutual end that is
+beneficial for everybody.
+I have no questions for you because you are all on the
+right track. The question is, who is going to pay for it? And
+the answer is the labor force. We have more people working.
+That is where it comes from. It is not a mystery. The money
+does not come from the government. It comes from working people
+who pay taxes. We collect it, and then we redistribute it.
+Chairman, thank you for having this.
+Mr. Becerra, I agree with you. Listen, if we can't fix
+this, shame on us. The big thing we have to fix first is our
+tax system and regulation system because the people who provide
+all the revenue are the people that we whip every day. We whip
+them every day, and we hold them responsible for not paying
+their fair share, and then we make it impossible for them to
+win. That just doesn't make sense to me, not from the world I
+come from.
+Thank you, Mr. Chairman. I yield back.
+Chairman JOHNSON. Thank you.
+Mr. Renacci, you are recognized.
+Mr. RENACCI. Thank you, Mr. Chairman.
+I want to thank you for holding this hearing to further
+understand the Social Security Administration's IT
+infrastructure. I also want to thank the panel for their
+testimony, especially Mr. Warsinskey, who I have had the
+opportunity to meet with in the past and discuss many of these
+issues that have been brought up today. Thank you for your
+service. Thank you for traveling here from Cleveland and for
+everything you do for northeast Ohio.
+I take great pride in the work that my office has done in
+Congress in helping northeast Ohioans access earned Social
+Security benefits. Oftentimes, I hear from constituents about
+the struggles they are having with the Social Security
+Administration and how long it takes for issues to be resolved.
+One example, Denise from Akron, Ohio, worked with my office for
+more than 6 months, had her claim resolved after spending 6
+months on her own working with the Social Security
+Administration on her case.
+It is clear that the IT infrastructure must be dramatically
+improved in order for the Social Security Administration to
+meet the needs of the American people. I was a businessowner as
+well for three decades before I came here. In your testimony,
+Mr. Warsinskey, you shared results from an SSA employee survey
+that showed how frustrated Social Security Administration
+employees are with the current system. It is clear the aging IT
+structure has not only reduced productivity but negatively
+impacted the services constituents receive.
+You know, it is interesting. Ultimately, frontline
+employees have to bear that burden. I saw the green screen,
+which I probably haven't seen since I was in college. And then
+you talked about COBOL, which I had to chuckle at. I remember
+COBOL. I remember dropping the cards on the floor and having to
+pick all the cards back up and having to reshuffle them to make
+the program work. So I hope the COBOL you are talking about
+isn't the same one I was working on back in college, or we
+really have some problems with Social Security. But I can tell
+you that has to be a problem in retaining high-quality
+employees.
+Mr. Warsinskey, can you tell me how that--tell me some of
+the instances? Are you having problems? Especially younger
+employees, what do they say when they see these screens in
+COBOL and things they have never probably even heard of?
+Mr. WARSINSKEY. It is interesting when we interview people
+that are starting out that we tell them that you only maybe
+know one-millionth of what you are going to learn, because you
+don't go to college to learn what you get trained in Social
+Security. We have a completely unique system that only we do.
+And when they start working, they say, ``This is so
+convoluted.'' It is very hard for them to really comprehend.
+They spend a couple years really just trying to understand all
+the screens because it is so inefficient and it takes so much
+time. It is frustrating. And I think we lose staff, and it does
+affect our morale, many of the new staff members coming in
+because they learned under a different system just in the way
+they train. We have issues with just doing online training now
+because we don't have the bandwidth, and we have to often
+download things overnight. But the kind of modern way we do
+training and go about our business is just not there. We are
+working in a very old system, and I think our staffs would
+relish seeing this kind of plan that hopefully will provide a
+great deal of hope for our agency and for our public in the
+next few years.
+Mr. RENACCI. I would agree. You mentioned something about
+the speeds declining, oftentimes outages throughout the workday
+that slow processes down. Do you have any measure of the amount
+of productivity hours that are lost due to all of that?
+Mr. WARSINSKEY. Well, in our surveys, we found that, on
+average, we are losing about 20 minutes per employee per day of
+productivity. Now that is throughout the day and that is
+everyone in the field offices. But I talk to people from all
+over the country, whether they work in a field office or in our
+headquarters or in the hearings offices or the payment centers,
+they all have the same frustration with the loss of time
+because their computers are slowing down, and they are just
+waiting. So that adds up. I mean, all that time costs money.
+And then you build all this infrastructure, as I say, with the
+buildings and everything else you pay for. All of that is
+supporting the staff. And it is not an efficient use of our tax
+dollars. And, you know, we could do a lot more with less if we
+could improve this.
+Mr. RENACCI. I think your last line was the most important
+one, and that is the one that I was getting at in the business
+world which I was in, and you heard Mr. Kelly. You know,
+infrastructure is important. And sometimes if you have the
+right infrastructure, you--I hate to say this--you gain
+productivity. You don't need many personnel. But one thing I
+have learned today and I keep hearing--and I think most of the
+Members here on the panel are agreeing--that your
+infrastructure needs to be changed. But what we need to do is
+make sure that we spend it properly, because it is taxpayer
+money, and that we come up with a plan that works for the long
+term, not the short term.
+And I would be willing to work in this group that Mr.
+Becerra talked about to come up together with a plan, working
+together, to say: Here is how much we are going to spend. Here
+is why we need it, which I have had to do all my life in the
+business world. They would come and say: I need to spend X
+amount of dollars on infrastructure.
+I said: Okay. Explain it to me. Tell me how long it is
+going to last. Tell me the--these are the kinds of things that
+would be important because we are spending taxpayer dollars,
+but there is definitely a need.
+So I thank all of you for your testimony.
+I yield back.
+Chairman JOHNSON. Mr. Rice, you are recognized.
+Mr. RICE. Thank you, Mr. Chairman.
+I want to start out with you, Mr. Hayes. Why is it so hard?
+I mean, I know there are a lot of records, but it is not like
+we are using this computer system to design a rocket ship or
+something. We are just keeping records, right? This is a
+database, right?
+Mr. HAYES. The demands on how the data are used do evolve
+rather rapidly, and the ability to try to keep up with the
+operational use of the software systems can be very
+challenging.
+Mr. RICE. What you are saying is to replace it and keep the
+old one running at the same time is what makes it hard? Is that
+what you are saying? I mean, this is a database program.
+Mr. HAYES. Database structures have evolved. The technology
+that allows us to quickly access data, especially as the volume
+of data grows, the new technologies don't tend to work on old
+platforms, because those old platforms didn't have in mind----
+Mr. RICE. But you can convert it.
+Mr. HAYES. Yes, you can.
+Mr. RICE. I don't understand why this is so difficult. Is
+it that the people running it are incompetent and cannot get it
+done? Is that the problem?
+Mr. HAYES. Certainly not. It has been my experience, most
+people who have jobs like these do this out of a sense of
+loyalty to the mission they serve. So they are working as hard
+as they are able to in the structure they are working. This is
+for many men and women in uniform that defend our country as
+well as those working in the offices you have heard described
+today.
+Mr. RICE. Well, certainly, we want to make sure the men and
+women in uniform are well taken care of and that the American
+public is, but we hear this threat that if we don't do
+something about this thing and get it modernized, then we can
+have disruptions in service, and it affects a lot of our GDP,
+what Social Security deals with every month.
+What I am frustrated with is sitting here reading these
+reports, in particular yours, Ms. Byrd, about the fact that we
+have spent $300 million here and $280 million here, and we are
+still using COBOL, for God's sake.
+Mr.--I don't know how you say your name. Warsinskey or----
+Mr. WARSINSKEY. Warsinskey.
+Mr. RICE. How long have you been at Social Security?
+Mr. WARSINSKEY. A little over 40 years.
+Mr. RICE. Four years?
+Mr. WARSINSKEY. Forty years. I have seen a lot of change.
+Mr. RICE. You are still using COBOL? You haven't seen that
+much change. You are still using COBOL, for God's sake.
+Mr. WARSINSKEY. When I first started, we just had teletype
+machines, and we didn't even have dumb terminals.
+Mr. RICE. Maybe we should go back to abacuses. I mean, I
+guess maybe there is some advantage to using COBOL, because
+probably the hackers out today, they probably don't know how to
+hack into it because they have never seen such antiquated
+stuff.
+What is your position there?
+Mr. WARSINSKEY. What is my position?
+Mr. RICE. Yes.
+Mr. WARSINSKEY. I am the District Manager in downtown
+Cleveland. And I am also--that is my regular job. I am also
+President of the Social Security Management Association, but my
+regular job is I manage every day. I work with my staff. I
+hire----
+Mr. RICE. Okay. So you are not over IT?
+Ms. Melvin, you are, right?
+What is your position, Ms. Melvin?
+Ms. MELVIN. I would point to some underlying management
+problems.
+Mr. RICE. What is your position, Ms. Melvin?
+Ms. MELVIN. I would point to some underlying management
+problems. We have noted over time----
+Mr. RICE. What is your job, Ms. Melvin?
+Ms. MELVIN. What is my job?
+Mr. RICE. Yes.
+Ms. MELVIN. I am the Director for Information Technology
+within----
+Mr. RICE. So you are over IT?
+Ms. MELVIN. Yes, I do look at IT issues. We audit them.
+Mr. BECERRA. Do you look at IT issues within GAO?
+Ms. MELVIN. Yes, within GAO. I am not with SSA.
+Mr. RICE. Okay. So you don't control this, but you do, sir.
+How long have you been with Social Security?
+Mr. KLOPP. Eighteen months.
+Mr. RICE. Are you not embarrassed about using COBOL? I
+mean, good grief.
+Mr. KLOPP. I am not embarrassed. I take it as a challenge,
+and it is my job to try to fix it, which is why I'm here.
+Mr. RICE. Why is it so hard? It is not like we are asking
+for these incredibly advanced systems. This is a database
+system.
+Mr. KLOPP. I think, first off, it is more than a database.
+We make decisions about who gets disability from the data. We
+make decisions about who gets SSI. There is a lot of complexity
+in there. It is much more than just a database system.
+Mr. RICE. Now, the COBOL system, that is the primary
+database, right? And that is the central function, right? COBOL
+is the foundation on which this whole database is built, right?
+Mr. KLOPP. COBOL is the business logic. The database itself
+is actually called DB2. COBOL is where we put the business
+logic. DB2 is where we put the data.
+Mr. RICE. We have heard about these problems modernizing
+computer systems, not just from all of you but from the IRS and
+I think other governmental entities as well. Why is it so much
+harder in government to modernize than it is in the private
+sector? Why is that so much more difficult?
+Mr. KLOPP. I think that there are two answers to that. One
+is--it is very interesting. There are some commercial
+industries, in particular the insurance industry, which is a
+close analogy to SSA anyway, that basically is not modernizing.
+They are sticking with COBOL, and they insist they are going to
+stick with COBOL. I find that to be a very odd stance. But
+there are several large insurance companies that are not
+modernizing. They are going to try to stick with what they
+have.
+I think that the issue comes back to funding. And I think
+you guys are spot on when you talk about, how do you fund this?
+How do you get return on investment? How do we demonstrate that
+there is a return on investment? I think what you are hearing
+from everybody today is that we know there is return on
+investment. The question is, where do we come up with the
+investment?
+Mr. RICE. Okay. I just have--Ms. Byrd, you noted that we
+just spent $300 million on this DCPS with very little in
+return. Please tell me that the people who oversaw that are not
+going to oversee this, please tell me that those people are
+not--no longer with Social Security, please.
+Ms. BYRD. Mr. Klopp is new, and he has a new team
+supervising DCPS. And they have, in resetting the program, they
+created a single owner, which was one of the recommendations.
+So the original folks are not really involved.
+Mr. RICE. But they are still there.
+Ms. BYRD. They are still there. I don't really know. I
+can't speak to every single person.
+Mr. RICE. Do we hold people accountable for $300 million
+failures? I am just curious.
+Ms. BYRD. In the IG world, we certainly report that and are
+very concerned about that. As far as what SSA management does,
+I can't speak to that.
+Mr. RICE. I yield.
+Thank you, Mr. Chairman.
+Chairman JOHNSON. Thank you.
+Mr. Dold, you are recognized.
+Mr. DOLD. Thank you, Mr. Chairman.
+I appreciate it and apologize for being late but certainly
+appreciate you taking your time. I would like to follow up on
+some similar questions, because I think this is the thing that
+has people scratching their heads asking, ``What in the
+world?''
+Mr. Klopp, you have been with the Social Security
+Administration for 18 months. Where were you before that?
+Mr. KLOPP. I am sort of a Silicon Valley guy. I bounced
+around in some of the start-up and technology companies all
+over.
+Mr. DOLD. Perfect. So let's put your private sector hat on
+and let's consider this a board meeting. We understand how
+important Social Security is. It is absolutely vital. And the
+fact that we are looking at a database here that is basically
+out of date. We are still working on COBOL. And if we sat
+around a board of director's meeting here and you spent $300
+million to be where we are today, what do you think a board
+would do based on the results that have been produced thus far?
+Mr. KLOPP. In regard to the previous project where $300
+million was spent and we didn't get much out of it, I believe
+the board would be very unhappy, and there would be some heads
+that would roll.
+Mr. DOLD. I find it also interesting that, as of just a
+week before this hearing, we hadn't received more than about
+three slides on what the plan of attack is going forward for
+this. And so I am just wondering in terms of the detailed plan
+going forward--and I recognize you have a monumental task in
+front of you. So please hear me: We want to be wildly
+successful. I just want to make sure that we are giving you the
+tools to be successful, because we can't be back here going
+through another hearing like this after wasting taxpayer
+dollars to come up with something that is not going to be
+functional.
+Tell me about the plan. Is it adequate?
+Mr. KLOPP. Sir, I believe that it is adequate. I mean,
+there is a lot behind the plan. The fact is the plan is 20
+pages. I think as I mentioned earlier, we have briefed your
+staff multiple times, so as the plan evolved, they have been
+briefed on it as it evolved. There is not very much in the plan
+that we had not briefed your staff on. As it evolved, with the
+exception of the financial models--and by the way, I probably
+owe them a briefing to walk through in detail exactly how we
+came up with those financials and to help them share the
+confidence that I share that the financials we put together are
+actually accurate and supportable. I think we are there, I do
+believe it.
+Mr. DOLD. Well, that is certainly good news. So, in your
+estimation, how long is it going to take to implement so that
+we can actually have an updated system over at the Social
+Security Administration?
+Mr. KLOPP. Using these Agile methods, what we believe is
+that, in each of the five areas that I talked about--title II
+and title XVI, et cetera--we are going to be able to work to
+deploy some parts of the system in production in pretty short
+order once we get funded and get started, where the definition
+of short order is it should not exceed a year. I will tell you
+the users have something to say about when we have built enough
+stuff to be sufficient to actually roll in production. So this
+part of--Agile is I can't say exactly when I roll the first bit
+in production. But our experience with the restart of DCPS is
+that we should be able to roll significant functionality,
+modern functionality, into production in the agency within a
+year of starting.
+Mr. DOLD. The team that was responsible before that is
+apparently still over at the Social Security Administration
+that didn't produce the system and the team that you are
+assembling, do you have the team that you need, or is it still
+some of the folks that didn't get the job done the last time
+that you are relying upon?
+Mr. KLOPP. It's interesting, the last time we did this, for
+reasons that are historical and go so far back before my time I
+actually don't even--I haven't heard the stories, right,
+because it goes back to 2008. The decisions in 2008 were made
+that this system would not be built by SSA's systems
+department. This was built completely by contractors, and it
+was managed more directly by the business than by systems. That
+doesn't say that we weren't, you know--we knew what was going
+on, and we provided a little bit of financial oversight and
+stuff like that. So I wouldn't sit here and say that we had no
+skin in the game, but we were not the primary drivers in that
+system. So what we are now doing is driving this new plan
+through SSA's systems organization. It is fundamentally
+different people.
+Mr. DOLD. Okay. I'm delighted to hear that.
+Ms. Byrd and Ms. Melvin, just turning to you for a second.
+Both your organizations have conducted some pretty extensive
+oversight in the area of the IT modernization. How important is
+it in your estimation for the SSA to have a detailed plan in
+place? Is the plan that has been provided sufficient, in your
+estimation?
+Ms. BYRD. We only received the plan 2 days ago. Mr. Klopp
+was very kind to brief my staff for a couple of hours last
+evening. I can't really opine on the adequacy of the plan. We
+will be happy to take a deeper dive and get with you at a later
+date.
+As far as the importance of this, the OIG has gone back
+many, many years recommending that these changes be made, that
+the 60 million lines of COBOL be modernized. So we clearly
+believe that we are at a critical point. Technology changes
+every single day, so we can't wait for--we have people
+retiring. We have a new generation coming in, so it is
+imperative in our opinion.
+Ms. MELVIN. From my perspective, also, we only recently saw
+the plan, so I can only speak preliminarily. Based on what I am
+seeing, I would certainly have questions about the content and
+what exists behind the slides that we have all spoken to today.
+When I speak in particular about the cost estimation, I think
+there are some important questions to be asked there relative
+to what information and analysis is underlying the cost figure
+that is included in the plan.
+The GAO cost estimation guide identifies a number of
+characteristics of what we call comprehensive, well-documented,
+accurate and credible cost estimations. So, from our
+perspective, it would be extremely important to know more about
+what exactly supports the figures that are being presented in
+this plan, how they are justified, and what analysis is there
+to support that.
+Mr. DOLD. Thank you. My time has expired. But let me just
+close by saying we need you to get this right, and we want you
+to be successful. The country is counting upon it.
+I yield back.
+Chairman JOHNSON. Thank you.
+And listen, I appreciate all of you testifying today. Keep
+up the good work. It seems like it is a never-ending problem to
+fix this. You know, we built two new facilities with four
+systems, and it seems like we should have gotten it fixed then,
+but we didn't. So I just want to thank all of you for your
+testimony and thank the Member that is left.
+Mr. BECERRA. Mr. Chairman, may I add something before you
+close?
+Chairman JOHNSON. Yes.
+Mr. BECERRA. I think we are beginning to recognize how
+important it is to try to be with them as we try to stay on top
+of them. Those two centers that were built, my understanding is
+they were hardware. They gave you more infrastructure capacity,
+but your issues are more software and the interconnectivity and
+all the issues that come with making use of the better hardware
+you have. And COBOL and all that, that is software. What we
+have to do is make sure that they now complement what you have
+now in your hardware with up-to-speed, up-to-date software. It
+can be pretty tricky and complex. I think that is where it is
+going to be really important that you have eyes from outside of
+this system watching you as well.
+Mr. Chairman, I think this is clearly one of those areas if
+we just sort of stay on top of it ourselves, we will have a
+greater comfort level about where to go with this proposal they
+have put forward.
+Chairman JOHNSON. Social Security's aging and outdated IT
+is a real problem. So I think it is time to fix the systems,
+and I appreciate you all taking the effort to get it done.
+Social Security has to get it right the first time, because
+we can't keep throwing money at it. The American people deserve
+no less. I thank each and every one of you for being here and
+for helping resolve this problem. Thank you so much.
+With that, the Subcommittee stands adjourned.
+[Whereupon, at 11:27 a.m., the Subcommittee was adjourned.]
+[Questions for the Record follow:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+[Submissions for the Record follow:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

@@ -1,0 +1,1645 @@
+- CRITICAL INFRASTRUCTURE CYBERSECURITY: ASSESSMENTS OF SMART GRID SECURITY
+
+[House Hearing, 112 Congress]
+[From the U.S. Government Publishing Office]
+
+CRITICAL INFRASTRUCTURE CYBERSECURITY: ASSESSMENTS OF SMART GRID
+
+SECURITY
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+
+OF THE
+
+COMMITTEE ON ENERGY AND COMMERCE
+
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED TWELFTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+FEBRUARY 28, 2012
+
+__________
+
+Serial No. 112-120
+
+Printed for the use of the Committee on Energy and Commerce
+
+energycommerce.house.gov
+
+U.S. GOVERNMENT PRINTING OFFICE
+76-641                    WASHINGTON : 2013
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC
+area (202) 512-1800 Fax: (202) 512-2104  Mail: Stop IDCC, Washington, DC
+20402-0001
+
+COMMITTEE ON ENERGY AND COMMERCE
+
+FRED UPTON, Michigan
+Chairman
+
+JOE BARTON, Texas                    HENRY A. WAXMAN, California
+Chairman Emeritus                    Ranking Member
+CLIFF STEARNS, Florida               JOHN D. DINGELL, Michigan
+ED WHITFIELD, Kentucky                 Chairman Emeritus
+JOHN SHIMKUS, Illinois               EDWARD J. MARKEY, Massachusetts
+JOSEPH R. PITTS, Pennsylvania        EDOLPHUS TOWNS, New York
+MARY BONO MACK, California           FRANK PALLONE, Jr., New Jersey
+GREG WALDEN, Oregon                  BOBBY L. RUSH, Illinois
+LEE TERRY, Nebraska                  ANNA G. ESHOO, California
+MIKE ROGERS, Michigan                ELIOT L. ENGEL, New York
+SUE WILKINS MYRICK, North Carolina   GENE GREEN, Texas
+Vice Chairman                      DIANA DeGETTE, Colorado
+JOHN SULLIVAN, Oklahoma              LOIS CAPPS, California
+TIM MURPHY, Pennsylvania             MICHAEL F. DOYLE, Pennsylvania
+MICHAEL C. BURGESS, Texas            JANICE D. SCHAKOWSKY, Illinois
+MARSHA BLACKBURN, Tennessee          CHARLES A. GONZALEZ, Texas
+BRIAN P. BILBRAY, California         JAY INSLEE, Washington
+CHARLES F. BASS, New Hampshire       TAMMY BALDWIN, Wisconsin
+PHIL GINGREY, Georgia                MIKE ROSS, Arkansas
+STEVE SCALISE, Louisiana             JIM MATHESON, Utah
+ROBERT E. LATTA, Ohio                G.K. BUTTERFIELD, North Carolina
+CATHY McMORRIS RODGERS, Washington   JOHN BARROW, Georgia
+GREGG HARPER, Mississippi            DORIS O. MATSUI, California
+LEONARD LANCE, New Jersey            DONNA M. CHRISTENSEN, Virgin
+BILL CASSIDY, Louisiana              Islands
+BRETT GUTHRIE, Kentucky              KATHY CASTOR, Florida
+PETE OLSON, Texas
+DAVID B. McKINLEY, West Virginia
+CORY GARDNER, Colorado
+MIKE POMPEO, Kansas
+ADAM KINZINGER, Illinois
+H. MORGAN GRIFFITH, Virginia
+
+7_____
+
+Subcommittee on Oversight and Investigations
+
+CLIFF STEARNS, Florida
+Chairman
+LEE TERRY, Nebraska                  DIANA DeGETTE, Colorado
+SUE WILKINS MYRICK, North Carolina     Ranking Member
+JOHN SULLIVAN, Oklahoma              JANICE D. SCHAKOWSKY, Illinois
+TIM MURPHY, Pennsylvania             MIKE ROSS, Arkansas
+MICHAEL C. BURGESS, Texas            KATHY CASTOR, Florida
+MARSHA BLACKBURN, Tennessee          EDWARD J. MARKEY, Massachusetts
+BRIAN P. BILBRAY, California         GENE GREEN, Texas
+PHIL GINGREY, Georgia                DONNA M. CHRISTENSEN, Virgin
+STEVE SCALISE, Louisiana                 Islands
+CORY GARDNER, Colorado               JOHN D. DINGELL, Michigan
+H. MORGAN GRIFFITH, Virginia         HENRY A. WAXMAN, California (ex
+JOE BARTON, Texas                        officio)
+FRED UPTON, Michigan (ex officio)
+
+(ii)
+
+C O N T E N T S
+
+----------
+Page
+Hon. Cliff Stearns, a Representative in Congress from the State
+of Florida, opening statement..................................     1
+Prepared statement...........................................     4
+Hon. Diana DeGette, a Representative in Congress from the State
+of Colorado, opening statement.................................     6
+Hon. Lee Terry, a Representative in Congress from the State of
+Nebraska, opening statement....................................     7
+Hon. Michael C. Burgess, a Representative in Congress from the
+State of Texas, opening statement..............................     8
+Hon. Marsha Blackburn, a Representative in Congress from the
+State of Tennessee, opening statement..........................     8
+Hon. Phil Gingrey, a Representative in Congress from the State of
+Georgia, opening statement.....................................     9
+Hon. Henry A. Waxman, a Representative in Congress from the State
+of California, opening statement...............................     9
+
+Witnesses
+
+Gregory C. Wilshusen, Director, Information Security Issues,
+Government Accountability Office...............................    11
+Prepared statement...........................................    13
+David C. Trimble, Director, Natural Resources and Environment,
+Government Accountability Office \1\...........................
+Prepared statement...........................................    13
+Richard J. Campbell, Specialist, Energy Policy, Congressional
+Research Service...............................................    31
+Prepared statement...........................................    33
+
+----------
+\1\ Mr. Trimble did not offer oral remarks for the record. Mr.
+Trimble and Mr. Wilshusen submitted a joint statement.
+
+CRITICAL INFRASTRUCTURE CYBERSECU-
+RITY: ASSESSMENTS OF SMART GRID SECURITY
+
+----------
+
+TUESDAY, FEBRUARY 28, 2012
+
+House of Representatives,
+Subcommittee on Oversight and Investigations,
+Committee on Energy and Commerce,
+Washington, DC.
+The subcommittee met, pursuant to call, at 10:19 a.m., in
+room 2322 of the Rayburn House Office Building, Hon. Cliff
+Stearns (chairman of the subcommittee) presiding.
+Members present: Representatives Stearns, Terry, Myrick,
+Burgess, Blackburn, Gingrey, DeGette, and Waxman (ex officio).
+Staff present: Carl Anderson, Counsel, Oversight and
+Investigations; Todd Harrison, Chief Counsel, Oversight and
+Investigations; Katie Novaria, Legislative Clerk; Andrew
+Powaleny, Deputy Press Secretary; Alvin Banks, Democratic
+Investigator; Brian Cohen, Democratic Investigations Staff
+Director and Senior Policy Advisor; and Kiren Gopal, Democratic
+Counsel.
+
+OPENING STATEMENT OF HON. CLIFF STEARNS, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF FLORIDA
+
+Mr. Stearns. Good morning, everybody. I call the
+subcommittee's second hearing on cybersecurity and critical
+infrastructure protection to order.
+My colleagues, America's infrastructure systems have become
+more automated and more reliant on information systems and
+computer networks to operate. While our systems are more
+efficient, they also open the door to cyber threats and cyber-
+attacks. Today, the subcommittee focuses on that part of the
+critical infrastructure known as smart grid, which refers to
+the information technology systems increasingly incorporated
+into the Nation's electricity networks.
+Smart grid technologies are designed to lower operation
+costs, reduce maintenance costs, and expand the flexibility of
+operational control relative to the current grid system. Their
+operational efficiency and improved asset use is driven by
+advanced communication and information technologies.
+I believe that we must update our electric grid with better
+technology integration, which is why I spearheaded the effort
+to secure funding for Energy Smart Florida, the largest smart
+grid demonstration project in the country. This initiative will
+invest hundreds of millions of dollars in smart grid technology
+and renewable energy in Florida and throughout the entire
+county. Energy Smart Florida will revolutionize how people use
+energy in their homes and enable them to make smarter choices
+about energy consumption and better control their carbon
+emissions. In addition, the widespread deployment of smart
+meters will provide Floridians with more reliable electrical
+service through an intelligent network that will be able to
+detect potential problems and automatically reconfigure the
+grid to minimize or eliminate outages.
+But ask any expert in the national security field and see
+what keeps them up at night. They would probably tell you, as
+they tell me, that it is the increased possibility of a
+devastating cyber-attack. This threat is real and is why it is
+virtually important--vitally important for us to do what we can
+to protect our critical infrastructure from these threats. We
+have seen in the past decade what impact both man-made and
+natural disasters have on our Nation's utility systems. Imagine
+the impact of a cyber-attack to the electrical grid. How many
+days could hospitals operate with onsite electric generation?
+How would metro rail systems operate, if at all? How would we
+recharge our smart phones or access the internet? The goal of
+the smart grid is to improve efficiency, reliability and
+interoperability. An equal goal, however, must be to improve
+upon the security controls and to minimize the impact from a
+man-made or natural disaster to ensure reliability and avoid
+such possibilities.
+Now, a recent report completed by the Pike Research company
+estimated that utilities' initiatives to secure their
+infrastructure will drive increasing investments to involve
+cybersecurity systems and total roughly $14 billion from now
+through the year 2018. While the Department of Energy has
+emphasized investment in technologies such as smart meters,
+among other technologies, we want to ensure that where there is
+investment, there is not a cybersecurity gap. We want to
+emphasize that there is also investment in securing control
+system segments including transmission upgrades, substation
+automation, and distribution automation systems.
+Protecting critical infrastructure is a complicated issue.
+We are talking about facilities and frameworks owned by private
+companies, and by Federal, State, and local governments. They
+are interconnected. Electricity powers water systems that cool
+nuclear reactors, for example. They are vulnerable to threats
+from a number of different sources, including nation-states,
+criminals, and hackers.
+The issues surrounding critical infrastructure protection
+and security are complex. To help analyze these complexities, I
+am pleased to be joined by our panel of experts in the field.
+Today, we will hear testimony from two witnesses at GAO: Mr.
+Gregory Wilshusen, Director of Information Security Systems,
+and Mr. David Trimble, Director of Natural Resources and the
+Environment. I look forward to their testimony, and getting a
+better understanding of their extensive work examining
+cybersecurity implications of the smart grid. I also would like
+to welcome Mr. Richard Campbell, of the Congressional Research
+Service, who has examined this very subject and we look forward
+to his contributions today.
+My colleagues, as I mentioned previously, this is the
+subcommittee's second hearing in this Congress on critical
+infrastructure protection and cybersecurity. The purpose of
+this hearing, in particular, is to get an overview of smart
+grid cybersecurity, and how it is working and what can be done
+better. It is my intention to call the Department of Energy and
+possibly other stakeholders to a future hearing for further
+consideration of smart grid security.
+I have enjoyed working with the Ranking Member, Ms. DeGette
+and the Minority in these matters and look forward to working
+with them on overseeing cybersecurity issues again. So I look
+forward to this hearing, the perspectives of our expert
+witnesses about the safety of this vital part of critical
+infrastructure, and whether we are taking the right steps to
+protect them from cybersecurity risks and threats.
+[The prepared statement of Mr. Stearns follows:]
+
+[GRAPHIC] [TIFF OMITTED] 76641.001
+
+[GRAPHIC] [TIFF OMITTED] 76641.002
+
+Mr. Stearns. And with that, I recognize the ranking member,
+Ms. DeGette.
+
+OPENING STATEMENT OF HON. DIANA DEGETTE, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF COLORADO
+
+Ms. DeGette. Thank you very much, Mr. Chairman, for holding
+this hearing on smart grid cybersecurity.
+Last year in July, representatives of the Department of
+Homeland Security came before this subcommittee to discuss
+their efforts to protect and deploy Federal resources and to
+coordinate with the private sector to prevent and respond to
+cyber attacks. This hearing, as you mentioned, is an important
+follow-up to that hearing.
+Protecting our critical infrastructure from cyber attacks
+is, of course, of vital importance. As our electric grid
+evolves, we become more and more dependent on so-called smart
+technologies to control, connect, and maintain this
+interconnected system. This is a good thing. It will make the
+grid more efficient and more reliable. For example, consumers
+will soon be able to track the price of electricity minute by
+minute and adjust electricity use accordingly, waiting, for
+example, until prices are right to do the laundry or start the
+dishwasher.
+However, these investments also expose us to new threats.
+These new technologies can be easy prey for hackers or
+terrorists who seek to bring down unprotected networks. As the
+smart grid becomes more interoperable, these attacks could have
+debilitating effects nationwide, as you mentioned, Mr.
+Chairman. In 2007, DHS ran a test known as Aurora, which
+showcases just how dangerous grid vulnerabilities can be. They
+used a dial-up modem to rewrite computer code and remotely
+detonate an industry-controlled system generator. That is why I
+am pleased we are having this hearing today. We as a Congress
+must do everything in our power to ensure that the grid remains
+safe and secure.
+The testimony we hear today will help us understand our
+successes and identify flaws in the current approach so that we
+can understand what else can be done to protect the smart grid.
+This hearing will also help us understand if Congress needs to
+provide more resources or more legislative authority for key
+cybersecurity agencies.
+The administration has made cybersecurity a priority,
+launching a comprehensive national cybersecurity initiative to
+protect the digital infrastructure. The President's 2013 budget
+includes $769 million to support the National Cybersecurity
+Division within the Department of Homeland Security. These
+funds are targeted at improving monitoring on Federal networks
+to respond to cyber threats, and supporting cyber attack
+responses for critical infrastructure owners and operators, and
+for State and local authorities.
+I commend this targeted focus on cybersecurity, but I am
+hoping that today our witnesses will help us learn more about
+any gaps in security that may still exist.
+Mr. Chairman, as I said, I appreciate that you are holding
+this hearing, and I am encouraged that you have announced that
+we are going to keep looking into other areas where we can work
+together in a bipartisan fashion. For example, we will hear
+from witnesses today the issue of cybersecurity goes well
+beyond the protection of the critical infrastructure. Consumers
+entrust important personal information on their banks--to their
+banks, their internet service providers, their credit card
+companies, and the retailers from whom they purchase items from
+online. These companies should ensure that they are protecting
+this information and Congress needs to be doing its oversight
+job to make sure that this is the case.
+Every day we hear stories about e-mail accounts being
+hacked, credit card information being hijacked, and Social
+Security numbers or other important personal information being
+stolen by cyber criminals. It has even happened to some of us
+who sit on this panel. The loss of this information can be
+costly and personally damaging. In September of last year, the
+internet security company, Symantec, issued the Norton Cyber
+Crime Report and calculated that cyber crimes cost companies
+and consumers $114 billion annually. That same report found
+that more than 2/3 of adults online had been victims of a cyber
+crime.
+As our use of internet services becomes more and more
+integrated, using the same internet services for e-mail, social
+networking, photo sharing, bill paying, and browsing and
+search, we have to be more vigilant in ensuring the protection
+of our personal information. Sites like Google, Yahoo, and
+Facebook will be targets for hackers, and if successful, these
+cyber attacks will have a major impact on the American public.
+For that reason, Mr. Chairman, in addition to investigating
+how the government can improve critical infrastructure
+cybersecurity, I think this subcommittee should also look
+closely at what the private sector is doing to prevent cyber
+attacks and keep consumers' personal information safe.
+I look forward to working with you on all of these issues,
+Mr. Chairman, and with that, I will yield back.
+Mr. Stearns. Thank the gentlelady and recognize the
+gentleman from Nebraska, Mr. Terry, for 2 minutes.
+
+OPENING STATEMENT OF HON. LEE TERRY, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF NEBRASKA
+
+Mr. Terry. Thank you, Mr. Chairman, for holding this
+important hearing. Of course, one of the cornerstone
+responsibilities of this Committee is finding--determining
+reliability of our electricity delivery system. In today's
+world, that means when we are protecting the grid, it means we
+have to look into the cyber attacks.
+Let me just give you one quick story from University of
+Nebraska at Omaha, PKI Institute of Information Assurance. They
+set up as a class project in their master's program an electric
+company fake Web site, and then tracked who would attack it.
+Within about 48 hours, there was probably about 50 hack
+attempts, most of them coming from a certain region in China,
+but all over the world. This just shows how vulnerable we are.
+Now as we move to more of a smart grid, that also means
+that we have more vulnerabilities, whether it is from EMPs or
+from cyber attacks. So looking at how we can strengthen our
+ability to defend from these attacks is just part of our core
+effort here.
+So at this time, I would like to yield the rest of my time
+to----
+Mr. Stearns. The gentleman yields back the balance of his
+time?
+Mr. Terry. Yes.
+Mr. Stearns. And so we have extra time here, and we
+recognize Dr. Burgess for a minute and a half to 2 minutes.
+
+OPENING STATEMENT OF HON. MICHAEL C. BURGESS, A REPRESENTATIVE
+IN CONGRESS FROM THE STATE OF TEXAS
+
+Mr. Burgess. Thank you, Mr. Chairman for the recognition. I
+want to thank our witnesses for being here today, because this
+is an issue of extreme importance. We are facing threats from
+around the world, and certainly, all of us want to remain
+vigilant.
+From hearings that we have had in previous Congresses in
+this subcommittee, and from talking to people who are charged
+with protecting our country, defending our country in an
+increasingly adverse cyber environment, we are well aware that
+every day from around the world, as Mr. Terry mentioned, are
+trying to break into our vital modes of infrastructure and
+technology, and not the least of that being the electric grid.
+We are also concerned about cost and that is why I am so
+grateful that some of the testimony today has focused on the
+effectiveness and the effectiveness of even the metrics that we
+use in order to assess how we are doing, and I think that is of
+critical importance, both as a consumer and certainly, it is
+clear that the utility companies themselves will be interested
+in knowing what the effectiveness of the measures that we are
+asking them to implement--they have to be interested in the
+effectiveness of those measures.
+We want these to be informed decisions. We do not want them
+to be emotional or political decisions, but we want them to be
+based on the best possible information, so that is why I am
+grateful, Mr. Chairman, that you called this hearing. I am
+grateful for our witnesses to be here, and I will yield back to
+the chairman.
+Mr. Stearns. Gentleman yields back and we recognize the
+gentlelady from Tennessee, Ms. Blackburn----
+Mrs. Blackburn. Thank you so much----
+Mr. Stearns [continuing]. For a minute and a half.
+
+OPENING STATEMENT OF HON. MARSHA BLACKBURN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF TENNESSEE
+
+Mrs. Blackburn. Thank you. I appreciate that. I do want to
+welcome our witnesses.
+We all know and we realize how very--how debilitating these
+attacks would be. Some of the reports that I have read indicate
+that we could see blackouts for 9 to 18 months in areas if we
+were hit with a cyber attack, and certainly last year as we
+have looked at the series of attacks known as Night Dragon and
+how the hackers broke into and stole proprietary information
+worth millions of dollars, we see how this has a direct impact
+on not only U.S. but European energy companies.
+I think that one of the things that concerns me is looking
+at what we have found out with the increase from '06 to '10 a
+650 percent increase in the number of attacks and the
+incidences that have been tracked. So we welcome you and we
+look forward to hearing what you have to say, and some of the
+accelerated planning issues that are in front of us.
+Thank you very much. Yield back.
+Mr. Stearns. Gentlelady yields back and I recognize the
+gentleman from Georgia, Mr. Gingrey, for 1 minute.
+
+OPENING STATEMENT OF HON. PHIL GINGREY, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF GEORGIA
+
+Mr. Gingrey. Mr. Chairman, I thank you for giving me a
+minute of time. I was looking for an e-mail on my iPhone, but I
+don't know how to use the iPhone so I couldn't pull up the e-
+mail. But basically I received an e-mail on my iPhone just a
+couple of days ago, purportedly from literally my best friend,
+who happens to be of European descent, and it was this typical
+e-mail, ``I am contacting you with tears in my eyes. We went on
+vacation in Spain, we got mugged at the--we can't get home,
+could you please e-mail us or wire us 1,600 Euros? God bless
+you and thank you for your help.'' I mean, that kind of thing
+is amazing. It is the first time I have ever received one of
+those, but that is small potatoes, of course, compared to what
+we are talking about here, but it just is a small example of
+the seriousness of cyber attack on the smart grid, so I am
+really looking forward to hearing from the witnesses and
+learning more about this----
+Ms. DeGette. Will the gentleman yield? Maybe your iPhone
+doesn't work because you opened that e-mail from your friend
+and now they have destroyed all your network.
+Mr. Gingrey. I have been attacked.
+Ms. DeGette. Yes.
+Mr. Gingrey. Thank you, Ms. DeGette.
+Ms. DeGette. You are welcome.
+Mr. Stearns. All right, our side is complete. With that,
+recognize the Ranking Member of the Full Committee, the
+gentleman from California for 5 minutes.
+
+OPENING STATEMENT OF HON. HENRY A. WAXMAN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF CALIFORNIA
+
+Mr. Waxman. Thank you, Mr. Chairman. I appreciate your
+holding this hearing, and I want to say, this is exactly the
+type of oversight this subcommittee should be conducting,
+ensuring that our government uses its resources wisely, and
+that the private sector is taking appropriate steps to
+guarantee the safety and security of our Nation's critical
+infrastructure.
+Today's hearing will give us an opportunity to learn about
+the key challenges to ensuring the security of this Nation's
+electric grid. As the grid becomes more technologically
+advanced, it becomes more exposed to hackers, terrorists, and
+foreign enemies. As the grid becomes more interoperable, the
+potential effect of a cybersecurity breach becomes more
+widespread.
+The smart grid offers tremendous potential benefits.
+Modernizing the grid will make electricity cheaper, more
+efficient, more reliable, but at the same time, we must take
+appropriate action to protect the electric grid and to improve
+services and access for citizens across the Nation.
+In 2007, Congress and then-President Bush approved the
+Energy Independence and Security Act of 2007. This legislation
+authorized the Smart Grid Investment Grant Program and the
+smart grid Demonstration Program. The 2009 Recovery Act amended
+these programs and provided funding to ensure their
+implementation.
+The first program, the Smart Grid Demonstration Program,
+funded 32 projects to verify the viability of smart grid
+technology and quantify the costs and benefits of these
+improvements. The second program, the Smart Grid Investment
+Grant Program, awarded grants for smart grid technology
+updates. These grants have allowed the installation of smart
+meters in millions of homes, implementation of automatic peak
+pricing, response for commercial and industrial customers, and
+the development of comprehensive demand response programs.
+These programs provided 99 grants to recipients in 42 States,
+the District of Columbia, and Guam. In total, the Energy
+Department invested $3.4 billion in grants, which was matched
+by $4.6 billion in private investments, for a total public
+private investment of over $8 billion.
+Today will give us an opportunity to evaluate what is
+working and what can be improved in these programs. The
+Department of Energy's Inspector General recently issued a
+report on the Smart Grid Grant Program and identified some
+reimbursement issues and concerns about approval of some
+cybersecurity plans. Today's hearing will allow us to explore
+those issues.
+Beyond oversight, we must also do our part in protecting
+the electrical grid. Both GAO and the DOE Inspector General
+have acknowledged that Federal Energy Regulatory Commission has
+only limited authority to ensure the grid is truly secure. In
+fact, the Inspector General found that FERC does not have the
+authority to develop its own standards or mandatory alerts,
+even when new threats are identified. This gap in authority
+creates serious potential risks.
+Last May, the Subcommittee on Energy and Power held a
+hearing to discuss the bipartisan Grid Reliability and
+Infrastructure Defense Act, a bill that would give FERC
+additional authority to protect the electric grid from
+potentially dangerous vulnerabilities. Today's hearing will
+again demonstrate why we need to act on this legislation
+without further delay. We must continue to invest in making our
+electric grid the best in the world. That includes investing in
+standards and technologies so that the electric grid is secure
+in the face of unexpected terror attacks or hacking attempts.
+This hearing is an important step in identifying what can be
+done to ensure that the electric grid is protected.
+I have focused my opening statement on the electric grid,
+but I hope this hearing produces some ways for members to learn
+how to use their iPhones, and to be able to realize that when
+they get e-mails asking for money, they had better think twice
+about it. I nearly fell for that one myself. A good friend was
+evidently not able to afford to leave Paris. Things could be
+worse, but they wanted something worse, they wanted my money.
+This shows that our security of our technology is very
+important objective, and I think it is worthwhile for our
+hearing to do it.
+I am sure, since I have 19 second left, I want to comment
+that I am sure by the end of this hearing, whatever we find we
+don't like, the Republicans will blame on President Obama. Such
+is life. But I think this is a good hearing and I compliment
+the chairman for holding it. I will yield back my second.
+Mr. Stearns. The gentleman yields back his second, and I
+point out that sometimes we hear on your side everything is
+blamed on Bush, so----
+Mr. Waxman. Too late for that.
+Mr. Stearns. All right. Let me direct my comments to our
+witnesses this morning. As you know, the testimony that you are
+about to give is subject to Title 18 Section 1001 of the United
+States Code. When holding an investigative hearing, this
+Committee has a practice of taking testimony under oath. Do you
+have any objection to testifying under oath?
+The Chair then advises you that under the rules of the
+House and the rules of this Committee, you are entitled to be
+advised by counsel. Do you desire to be advised by counsel
+during your testimony today? If not, would you please rise and
+raise your right hand?
+[Witnesses sworn.]
+Mr. Stearns. You may now give your 5-minute summary of your
+written statement, and Mr. Wilshusen, you are first.
+
+TESTIMONY OF GREGORY C. WILSHUSEN, DIRECTOR, INFORMATION
+SECURITY ISSUES, GOVERNMENT ACCOUNTABILITY OFFICE, ACCOMPANIED
+BY DAVID C. TRIMBLE, DIRECTOR, NATURAL RESOURCES AND
+ENVIRONMENT, GOVERNMENT ACCOUNTABILITY OFFICE; AND RICHARD J.
+CAMPBELL, SPECIALIST, ENERGY POLICY, CONGRESSIONAL RESEARCH
+SERVICE
+
+TESTIMONY OF GREGORY C. WILSHUSEN
+
+Mr. Wilshusen. Thank you, Mr. Chairman.
+Chairman Stearns, Ranking Member DeGette, and members of
+the subcommittee, thank you for the opportunity to testify
+today at today's hearing on cybersecurity for the smart grid. I
+am joined today by David Trimble, who is the Director for GAO's
+Natural Resources and Environment team. In addition, Mr.
+Chairman, if I may, I would like to recognize John Logoson,
+Mike Gilmore, and especially Lee McCracken for their efforts--
+--
+Mr. Stearns. Ask them to raise their hand. We are not
+sure----
+Mr. Wilshusen. For their efforts in developing our written
+statement that we submitted today.
+As you know, the electric power industry is increasingly
+incorporating information technology systems and networks into
+its existing infrastructure as it modernizes the electricity
+grid. In 2007, the Energy Independence and Security Act
+established that it is Federal policy to support this
+modernization. Known as a smart grid, these nationwide efforts
+are aimed at improving the reliability and efficiency of the
+grid, and facilitating the use of alternative energy sources.
+Smart grid technologies include smart meters that enable two
+way communications between utilities and customers, smart
+components that provide system operators with detailed data on
+the conditions of transmission and distribution systems, and
+advanced methods for controlling equipment. The use of these
+systems may have a number of benefits, such as fewer and
+shorter outages of electrical service, lower electricity rates,
+and an improved ability to respond to attacks on the electric
+grid.
+However, the increased reliance on IT systems and networks
+also exposes the grid to cybersecurity vulnerabilities. For
+nearly a decade, GAO has identified the protection of systems
+supporting our Nation's critical infrastructures as--which
+include the electric grid--as a government-wide high risk area.
+Mr. Chairman, the threats to these systems supporting these
+infrastructures are evolving and growing. They include both
+unintentional and intentional threats, and may come in the form
+of equipment failure, as well as targeted and untargeted
+attacks from our adversaries.
+The interconnectivity between information systems, the
+internet, and other infrastructures can amplify the impact of
+these threats, potentially affecting the operations of critical
+infrastructures, the security of sensitive information, and the
+flow of commerce.
+In January 2011, GAO reported on a number of key challenges
+to securing smart grid systems and networks. For example, the
+Federal Energy Regulatory Commission, or FERC, which has
+responsibility for adopting cybersecurity and other standards
+it deems necessary to ensure grid functionality and
+interoperability, had not developed a coordinated approach with
+other regulators to monitor industry compliance with voluntary
+standards. In addition, we reported other challenges affecting
+industry efforts to secure the smart grid. Specifically, the
+electricity industry had not consistently built security
+features under certain smart grid devices, established an
+effective mechanism for our sharing cybersecurity information,
+and created a set of metrics for evaluating the effectiveness
+of cybersecurity controls.
+GAO made several recommendations to FERC aimed at
+addressing these challenges, and the Commission agreed with our
+recommendations.
+To summarize, Mr. Chairman, the electricity industry is in
+the midst of a major transformation as a result of smart grid
+initiatives. While these initiatives hold the promise of
+significant benefits, including a more resilient electric grid,
+lower energy costs, and the ability to tap alternative sources
+of power, the prevalence of cyber threats aimed at the Nation's
+critical infrastructure and the cyber vulnerabilities arising
+from the use of new technologies highlight the importance of
+securing smart grid systems. In particular, it will be
+important for Federal regulators and other stakeholders to work
+closely with the private sector to address key cybersecurity
+challenges posted by the transition--posed by the transition to
+smart grid technology. While no system can be made 100 percent
+secure, proven security strategies could help reduce risks to a
+manageable and acceptable level.
+Chairman Stearns, Ranking Member DeGette, and other members
+of the subcommittee, this completes my statement, and David and
+I would be happy to answer your questions.
+[The prepared statement of Mr. Wilshusen and Mr. Trimble
+follows:]
+[GRAPHIC] [TIFF OMITTED] 76641.003
+
+[GRAPHIC] [TIFF OMITTED] 76641.004
+
+[GRAPHIC] [TIFF OMITTED] 76641.005
+
+[GRAPHIC] [TIFF OMITTED] 76641.006
+
+[GRAPHIC] [TIFF OMITTED] 76641.007
+
+[GRAPHIC] [TIFF OMITTED] 76641.008
+
+[GRAPHIC] [TIFF OMITTED] 76641.009
+
+[GRAPHIC] [TIFF OMITTED] 76641.010
+
+[GRAPHIC] [TIFF OMITTED] 76641.011
+
+[GRAPHIC] [TIFF OMITTED] 76641.012
+
+[GRAPHIC] [TIFF OMITTED] 76641.013
+
+[GRAPHIC] [TIFF OMITTED] 76641.014
+
+[GRAPHIC] [TIFF OMITTED] 76641.015
+
+[GRAPHIC] [TIFF OMITTED] 76641.016
+
+[GRAPHIC] [TIFF OMITTED] 76641.017
+
+[GRAPHIC] [TIFF OMITTED] 76641.018
+
+[GRAPHIC] [TIFF OMITTED] 76641.019
+
+[GRAPHIC] [TIFF OMITTED] 76641.020
+
+Mr. Stearns. All right, and I understand, Mr. Campbell,
+your opening statement is welcome.
+
+TESTIMONY OF RICHARD J. CAMPBELL
+
+Mr. Campbell. Good morning, Chairman, Ranking Member, and
+members of the subcommittee, my name is Richard Campbell. I am
+a Specialist in Energy Policy for the Congressional Research
+Service. On behalf of CRS, I would like to thank the Committee
+for inviting me to testify here today. I would like to request
+that my written testimony be entered into the record.
+Mr. Stearns. By unanimous consent, so ordered.
+Mr. Campbell. My testimony will provide background on the
+development of the smart grid, the Department of Energy's
+vision for the smart grid, and plans for the cybersecurity of
+the smart grid. I should note that CRS does not advocate policy
+or take a position on specific legislation.
+The electrical grid in the United States comprises all of
+the power plants generating electricity, together with the
+transmission and distribution systems which bring power to end-
+use customers. The grid also connects the many public and
+private electricity companies and power companies throughout
+the United States. The modernization of the grid to accommodate
+today's power flows, serve reliability needs, and meet future
+projected uses is leading to the incorporation of the
+electronic intelligence capabilities for power control and
+operations monitoring. The smart grid is the name given to this
+evolving intelligent electricity network. While these
+intelligent components may enhance the efficiency of grid
+operations, they also potentially increase the susceptibility
+of the grid to cyber, that is, computer-generated, attack,
+since they are built around microprocessor devices controlled
+by software programming. The potential for a major disruption
+or widespread damage to the Nation's power system from a large-
+scale cyber attack has increased focus on the cyber security of
+the smart grid.
+The Department of Energy summarized its view of the
+potential of the smart grid by the year 2030 as a fully
+automated power delivery network that monitors and controls
+every customer and node, ensuring a two-way flow of electricity
+and information between the power plant and the appliance, and
+all points in between.
+Federal funding has been provided to help develop concepts
+and technologies for the smart grid. The American Recovery and
+Reinvestment Act of 2009 provided $4.5 billion in funding to
+the DOE for projects to modernize the grid. DOE's Smart Grid
+Investment Grant program received $3.5 billion of these funds
+with the expressed purpose of stimulating the rapid deployment
+of advanced digital technologies needed to modernize the grid.
+The SGIG is a cost-shared program, meaning recipients of
+grants were to provide as much as 50 percent of a project's
+total costs.
+According to a recent report from the DOE's Office of
+Inspector General, all the available grant funds from the SGIG
+program have been awarded to 99 recipients, with awards ranging
+in value from $397,000 to $200 million. An approach to
+cybersecurity was required as part of the SGIG application
+process. Recipients of awards were required to submit a
+detailed plan addressing specific cybersecurity elements and
+concerns. The DOEIG report observed that DOE approved these
+cybersecurity plans even though weaknesses in the plans were
+identified and not fully addressed. The DOE responded to the
+report saying that it will require award recipients to update
+their cybersecurity plans later this year.
+The DOE funded the development of the recently released
+Roadmap to Achieve Energy Delivery Systems Cybersecurity. This
+Roadmap provides a plan to improve the cybersecurity of the
+electricity, oil, and natural gas sectors.
+The Roadmap recognizes the changing landscape of
+cybersecurity, and the continuing need to seek out and address
+cybersecurity gaps, and includes an implementation strategy for
+cybersecurity built on milestones to be achieved by the year
+2020.
+The DOE has recently begun to update its vision for the
+smart grid, focusing on three key attributes it sees as
+desirable for the smart grid of the future: a seamless, cost-
+effective electricity system; a system capable of accommodating
+all generation choices; a system which enables customer choice.
+According to this updated vision, the smart grid will still
+see regional diversity in power choices, while allowing for the
+development of a national framework. According to DOE, a
+reliable, secure, and resilient grid will be the key to
+achieving this vision.
+In conclusion, it is the very features which can add
+seamless integration and utility to the smart grid that also
+add cyber vulnerabilities to electricity networks. Some assert
+that the smart grid and cybersecurity systems will have to
+develop along parallel but interconnected paths if the electric
+grid of the future is to develop in a manner that can enhance,
+and not impair, future economic development.
+Congress could provide funding for research and development
+of systems to bridge gaps in cybersecurity and build the smart
+grid. Federal funding could also be used to bring government
+and industry together in forums to address the needs and
+directions of these developing systems.
+Congress may also provide for a regulatory framework which
+could achieve a basic level of cybersecurity. But due to the
+constantly changing nature of cyber threats, it is unlikely
+that effective cybersecurity of the grid will be achieved by
+regulation alone. Some assert that electric utilities must be
+focused on cybersecurity as keenly as they are on their current
+obligation to serve or to provide shareholder value.
+Thank you for the invitation to appear today. I will be
+pleased to address any questions you may have.
+[The prepared statement of Mr. Campbell follows:]
+[GRAPHIC] [TIFF OMITTED] 76641.021
+
+[GRAPHIC] [TIFF OMITTED] 76641.022
+
+[GRAPHIC] [TIFF OMITTED] 76641.023
+
+[GRAPHIC] [TIFF OMITTED] 76641.024
+
+[GRAPHIC] [TIFF OMITTED] 76641.025
+
+[GRAPHIC] [TIFF OMITTED] 76641.026
+
+[GRAPHIC] [TIFF OMITTED] 76641.027
+
+[GRAPHIC] [TIFF OMITTED] 76641.028
+
+Mr. Stearns. Thank you, Mr. Campbell. I will start with my
+questions.
+Let us see if we get something that is current here. A 2011
+bulletin by the Department of Homeland Security titled
+``Insider Threats to Utilities'' stated that ``based on the
+reliable reporting of previous incidents, we have a high
+confidence in our judgment that insiders and their actions pose
+a significant threat to the infrastructure and information
+systems of the United States facilities,'' vis-`-vis the grid.
+Mr. Wilshusen, are you aware of any specific power outage or
+threat to the electric grid that has transpired in such a way
+that is talked about in this Homeland Security report from
+2011?
+Mr. Wilshusen. You mean specifically from an insider
+threat?
+Mr. Stearns. Yes.
+Mr. Wilshusen. I can't say I know of a specific incident
+where that occurred; however, certainly insider threats are
+very important and a threat that our agencies and entities need
+to consider, because insiders typically have advanced knowledge
+and even access to the systems and the types of systems that
+contain information that they could have the ability then to
+perpetrate, if they have malicious intent to cause disruptions
+and damage. And it is not just those with malicious intent, but
+also insiders who may be careless or who may be untrained that
+conduct activities that also impair or harm their systems and
+networks. But clearly, that is a key threat.
+Mr. Stearns. Are you aware of any outsiders soliciting
+people in the smart grid viable areas? Are you aware of any
+outsiders that are trying to do this?
+Mr. Wilshusen. In terms of corrupting----
+Mr. Stearns. Yes.
+Mr. Wilshusen [continuing]. And using insider threats? I
+can't say I know of specific examples of where that occurs--
+that occurred.
+Mr. Stearns. Can you describe the controls and checks in
+place at utilities to prevent these kinds of attacks?
+Mr. Wilshusen. Well, clearly one of the key controls that
+utilities and, indeed, agencies should do is background checks
+on their employees and those----
+Mr. Stearns. Are they doing the background checks, in your
+opinion, adequately?
+Mr. Wilshusen. We haven't examined the--how the securities
+are----
+Mr. Stearns. So there has been no examination of how those
+background checks have been done and how they have been
+corroborated, or the credibility of those checks?
+Mr. Wilshusen. No, we have not assessed that as part of our
+review.
+Mr. Stearns. Do you think that should be done?
+Mr. Wilshusen. Well certainly it should be monitored and
+checked, because I do believe that individuals that have
+sensitive positions and hold--and have sensitive access to
+systems should have some level of background investigation
+performed. And there are other controls, too, that should be in
+place to help restrict and limit insiders, either careless or
+untrained insiders, as well as malicious from performing these
+types of acts, and that includes by limiting their access to
+only that level needed for them to perform their jobs, as
+opposed to giving them broader access to systems.
+Mr. Stearns. The MacAfee Corporation did a report in early
+2011, another current report, in which they surveyed about 200
+executives from critical electricity infrastructure across the
+United--across the world, in fact. That found that 85 percent
+had experienced network infiltrations, and 80 percent had faced
+a large scale denial of service attack. Do you think that
+number is correct? That is quite large, 80 percent of both
+network infiltrations and 80 percent faced a large scale denial
+of service attack. Do you think those figures are accurate?
+Mr. Wilshusen. I have no basis to form whether they are
+accurate or not, but I will say as it relates to Federal
+Government agencies----
+Mr. Stearns. Is that typical?
+Mr. Wilshusen. In terms of those that have reported
+security incidents, yes, most Federal agencies have done that
+and as the Congresswoman mentioned earlier, the number of
+reported security incidents within the Federal Government has
+risen by 650 percent from 2006 through 2010.
+Now, what one disparity or inconsistency with that comment
+that you made, the statistics in that MacAfee report is that
+within the Federal Government, there was only about 1 percent
+or so of the reported security incidents were considered to be
+denial of service attacks, which would be those that would
+disrupt the----
+Mr. Stearns. So I assume you reviewed the MacAfee report
+yourself?
+Mr. Wilshusen. No, I have not.
+Mr. Stearns. How do these people get into cause these
+infiltrations? I mean, do you have any idea how it actually
+happens?
+Mr. Wilshusen. Well, there are a number of different attack
+patterns----
+Mr. Stearns. Just give me two quick, the most prevalent.
+Mr. Wilshusen. Well, one would be, for example, if they put
+malicious software on a thumb drive and then an employee of
+that corporation----
+Mr. Stearns. Puts that thumb drive into the computer?
+Mr. Wilshusen. Pardon?
+Mr. Stearns. He puts that thumb drive in the software?
+Mr. Wilshusen. Puts the thumb drive into the computer and
+then downloads the malicious software onto the computer. That
+is one way.
+Mr. Stearns. To the hard disk, yes.
+Mr. Wilshusen. Another way would be if the attacker would
+set up a malicious Web site and which would also then entice
+employees of the service center to--or wherever--to go to that
+Web site and download what appears to be an innocuous or an
+attractive program, when in fact, that too contains malicious
+code that could then allow----
+Mr. Stearns. Could the facility put software in place to
+prevent both of those from occurring?
+Mr. Wilshusen. They can, and disable certain functions--
+physical ports on the laptop or on the desktop to prevent that
+from happening. And indeed, the Department of Defense had such
+an attack on their networks based upon a thumb drive that led
+them to disable the thumb drives on the vast majority of
+their----
+Mr. Stearns. Last question. Has the Department of Homeland
+Security or the Department of Energy issued any guidance to the
+electricity sector on best practices that we just talked about
+in these two cases?
+Mr. Wilshusen. Well, as part of the Energy Independence and
+Security Act, NIST, the National Institute of Standards and
+Technology, had responsibilities for developing security
+guidelines in connection with input from a number of different
+organizations that were then to be provided to FERC at
+Department of Energy to either approve if there is a consensus
+on those, and some of those controls would help to prevent such
+attacks, or could.
+Ms. DeGette. Thank you. Mr. Wilshusen, were those controls,
+in fact, promulgated by FERC?
+Mr. Wilshusen. No.
+Ms. DeGette. Why not?
+Mr. Wilshusen. It determined that there wasn't a consensus
+on those--development of those standards and cybersecurity
+guidelines, and under the Act, there--in the process are
+required to develop a consensus for----
+Ms. DeGette. So now what? Are they developing standards?
+Mr. Wilshusen. My understanding is that NIST is working to
+gain such a consensus.
+Ms. DeGette. OK. I want to talk with you a minute more
+about FERC, because what I am wondering is if they need extra
+authorities to protect the electric grid from these potentially
+dangerous vulnerabilities.
+Can you just give us a quick example of the types of
+security flaws that might leave the grid vulnerable to hackers?
+Mr. Wilshusen. One would be if they do not appropriately
+assess the risk to those various different components of the
+smart grid and implement the appropriate security controls over
+that. For example, if the access controls are not appropriately
+applied to different components of the grid, that could
+potentially allow a path into----
+Ms. DeGette. And of course, the development of this smart
+grid increases this risk because it is more and more
+computerized, correct?
+Mr. Wilshusen. Yes, the increased use of IT systems and
+networks provide additional paths and access points for
+potential attackers to gain access to it. In addition, the
+increasing interconnectivity of these systems and networks also
+allow potential attackers broader range and access to other
+devices.
+Ms. DeGette. And yet at the same time that there is broader
+vulnerability, the increased interconnection and the smart--
+development of the smart grid, it is a really valuable part of
+our system because it gives us--number one, it gives us more
+efficiency so consumers can get better prices, and number two,
+it allows us to use some of these renewable technologies that
+the chairman was talking about in his opening statement,
+correct?
+Mr. Wilshusen. Yes.
+Ms. DeGette. And so here is my question. The GAO and others
+have said that there could be gaps in the FERC's regulatory
+authority to deal with development of these standards to
+respond to new vulnerabilities. Can you talk about that for a
+minute?
+Mr. Wilshusen. Well in our recent report that we issued
+back in January of 2011, we identified that FERC did not have
+appropriate authorities, that their authorities were pretty
+much--since they didn't have the appropriate authorities, their
+authorities were limited to basically adopting and approving
+standards that were developed by others for the smart grid, and
+then primarily just at the bulk power level and bulk power
+supply level, not necessarily at the distribution level where
+certain smart grid investments and devices are being
+implemented. And we made the recommendation to NERC that they
+need to really work with these other parties and stakeholders
+to include the State public utility commissions that do have
+such authorities and responsibilities to monitor the
+implementation of any standards that it adopts.
+Ms. DeGette. So----
+Mr. Wilshusen. And it had not done that.
+Ms. DeGette. So do they have the authority to do that, or
+does Congress need to give them more authority to coordinate
+with those other operators?
+Mr. Wilshusen. Well, they have the authority to coordinate
+with the other operators----
+Ms. DeGette. OK.
+Mr. Wilshusen [continuing]. And utility commissions at the
+State level----
+Ms. DeGette. OK.
+Mr. Wilshusen [continuing]. But they don't have the
+authority to mandate particular cybersecurity standards.
+Ms. DeGette. Do you think they need that authority?
+Mr. Wilshusen. We do not make that recommendation or really
+go there. We just actually made the recommendation to FERC that
+it determined whether, you know, what gaps overlaps exist, so--
+--
+Ms. DeGette. Yes, so if FERC determined that, they could
+come to us----
+Mr. Wilshusen. Right.
+Ms. DeGette [continuing]. And ask for that authority.
+Mr. Wilshusen. That is correct.
+Ms. DeGette. Now, there are some--do you know how many of
+these local and State authorities there are that FERC would
+need to be coordinating with?
+Mr. Trimble. Well, you are--FERC is----
+Ms. DeGette. Mr. Trimble?
+Mr. Trimble. Yes, sorry.
+Ms. DeGette. That is OK.
+Mr. Trimble. FERC is--has jurisdiction over the bulk power
+system, but once it gets into the distribution system at the
+State level or at the local level, it falls to the State
+utilities. So the----
+Ms. DeGette. There are thousands of them, right?
+Mr. Trimble. Right, so you are talking about 50 States plus
+those that aren't under State control or under minimal State
+control.
+Ms. DeGette. Right, and then there is other agencies like
+Homeland Security, Energy and National Security Agency that
+also have oversight responsibilities over the critical
+electrical infrastructure, correct?
+Mr. Trimble. Um-hum.
+Ms. DeGette. So all of those individual utilities would
+have to work together to really address this, right?
+Mr. Trimble. That is correct.
+Ms. DeGette. OK. Now, one last question, Mr. Chairman. I
+have got a lot more questions in this line, but maybe I will
+have an opportunity to ask then, but the Energy Independence
+and Security Act of 2007 directed the National Institute of
+Standards and Technologies to develop those standards, but
+those standards haven't been adopted for the reasons Mr.
+Wilshusen just explained, right?
+Mr. Trimble. Right.
+Mr. Wilshusen. That is correct.
+Ms. DeGette. And do we have any sense when they are going
+to be adopted, now that it has gone back to the agency?
+Mr. Trimble. We have not seen a timeline.
+Ms. DeGette. OK, thank you.
+Mr. Stearns. The gentlelady from Tennessee is recognized
+for 5 minutes.
+Mrs. Blackburn. I thank you all and appreciate so much the
+time that you are giving us today, and continuing to work with
+us through this issue.
+I have found it so interesting, as we have worked through
+these hearings, how our constituents are paying attention to
+this, and how they come back to us, those constituents that are
+working in informatics or in energy delivery systems, and they
+have different things they want to add to the discussion that
+we are having.
+One question I do have on the smart meters that are out
+there. Is there a way that someone's proprietary information is
+being tracked or pulled or hacked into--what are the
+protections that are on these meters? Can you give me just a
+little bit of information on that, because some of our
+constituents--and Ms. DeGette talked about this when she said
+people can watch and find out when the electricity is going to
+cost them less and then do chores at that time, but our
+customers are saying now wait a minute. Is this--while it is
+giving me information, is this going to be giving--what are the
+protections, the privacy protections that are going to exist to
+the consumer about protecting that virtual presence and
+knowledge of themselves?
+Mr. Wilshusen. Right, that is certainly an area of concern
+insofar as that those meters need to have the appropriate
+cybersecurity, information security controls built into them.
+We convened a panel of cybersecurity experts as part of our
+review that we issued a report back in January of 2011, and
+they identified that there are control deficiencies in some of
+those meters, to include not having the appropriate login
+capabilities, which would help and--or the forensics
+capabilities to determine how and whether an attack had
+occurred.
+Mrs. Blackburn. OK, then let me ask you this. With those
+meters, would it be easy just to--is it very easy just to hack
+into them? Should people consider there to be so much
+transparency in these that they are not protecting their usage?
+Help me with that.
+Mr. Wilshusen. Well, I would just say that it really
+depends upon the facts and circumstances of each individual
+type of meter----
+Mrs. Blackburn. OK.
+Mr. Wilshusen [continuing]. And the security
+vulnerabilities or strengths relative to the individual meters.
+Mrs. Blackburn. OK. Mr. Wilshusen, I want to ask you, May
+'08 you made some comments about TVA's corporate network
+contains security weaknesses that could lead to disruption of
+their control systems, and of course, for those of us in the
+Tennessee Valley and TVA as the main power generator, we are
+very concerned about that. You had 19 specific recommendations
+that you had for the TVA at that point in time. In your follow
+ons, has TVA implemented these? Have they been responsive to
+putting these controls in place? How are we doing with
+tightening that system up?
+Mr. Wilshusen. Yes, TVA has been responsive in implementing
+not only the 19 recommendations that were made in the public
+report, but also we made a number of other recommendations in a
+limited distribution report----
+Mrs. Blackburn. Exactly, yes.
+Mr. Wilshusen [continuing]. That dealt more with the
+technical controls over their networks and their industrial
+control system networks. TVA has been responsive, has
+implemented most, if not all, of our recommendations and we
+have closed them out.
+Mrs. Blackburn. Thank you. With that, I will yield back.
+Mr. Stearns. Gentlelady yields back. Ms. Myrick is
+recognized for 5 minutes.
+Mrs. Myrick. Thank you, and really, this is for any of you,
+but it concerns giving the cybersecurity threats and the
+weaknesses that were identified in the GAO report and in the
+Inspector General for the Department of Energy's report. It
+seems to be that cybersecurity is not a real high priority with
+some companies today, and given the wealth of information that
+is out there about the threats that exist--I am also on Intel
+and we deal with this all the time. And it just seems apparent
+to me that we--that companies really aren't taking this as
+seriously as they should. Not just companies, of course,
+dealing with the electric grid, but other companies as well
+when it comes to how they fit into the big picture in the
+country.
+Is it because they don't feel that there is any incentive
+for them to do it in any way? I am at a little of a loss, I
+guess, because some of them just seem to be kind of blase about
+it, even though they are so vulnerable. It is unreal and then
+it affects the rest of us from a national security standpoint.
+Mr. Trimble. I would answer in two ways. One, from our
+expert panel that we convened one of the concerns that they had
+was confusion and uncertainty over who is in charge in terms
+of----
+Mrs. Myrick. OK.
+Mr. Trimble [continuing]. Where the guidance was given, the
+complexity of the regulatory oversight. From--if you are
+putting yourself in the producer of the utilities perspective,
+they are faced with--so the standards haven't been adopted,
+even though--even when they are adopted, they are voluntary,
+and then if you are a producer under State control, you don't
+have anything from the States. To recover those costs, to make
+those investment decisions, those costs have to be recoverable.
+There is no necessary guarantee that you will recover those
+costs if you make those investments in this uncertainty.
+So again, this goes back to our recommendation as to when
+you adopt, you need to closely monitor to what extent these
+standards are being followed and to what extent they are
+effective, and make changes quickly. So it really, you know,
+sort of asking the system something it hasn't done necessarily
+in the past, which is act quickly and sort of more nimbly than
+it has. But I think part of the answer is really I would just
+put yourself in the shoes of the utility when faced with making
+those decisions and trying to balance the cost and benefits and
+risks that you are looking at.
+Mr. Wilshusen. And I want to add to that. Also in some
+instances these utilities may or may not be fully aware of some
+of the threats and risks that are there, particularly certain
+incidents. In many cases, some of the most actionable and alert
+information may not necessarily be able to be shared with the
+utilities because it is classified.
+Mrs. Myrick. Right.
+Mr. Wilshusen. And so the information sharing equation is
+also a factor in terms of the agency--or the utilities
+receiving timely and actionable information.
+We issued a report a year ago or 2 years ago that dealt
+with the expectations and the delivery of those expectations
+between the public-private partnership model that is currently
+in use, and many--this is not only just the electricity
+industry, but also across other critical infrastructure
+sectors, in that most of the respondents on the private sector
+side indicated that--in fact, 98 percent of them said that
+receiving timely, actionable, alert and threat information was
+very important to them, but only 27 percent of them responded
+and said that their Federal partners were greatly or moderately
+providing that information to them.
+Mrs. Myrick. So it is not a resistance or lack of
+understanding on the part of the companies from your
+perspective and what you are seeing, it is really that they--
+that this aspect of who is in charge and who they report to and
+how they get the information and what information they get is
+really the problem?
+Mr. Wilshusen. It is a contributing factor.
+Mrs. Myrick. OK. Anybody else wish to comment?
+Then I yield back, Mr. Chairman. Thank you.
+Mr. Stearns. Gentlelady yields back. The gentleman from
+Georgia, Mr. Gingrey, is recognized for 5 minutes.
+Mr. Gingrey. Thank you, Mr. Chairman, and I am going to
+address my first question to all three of you, and I think I
+will start with Mr. Campbell.
+Each of you mentioned in the January 2012 report issued by
+the Department of Energy's Inspector General that 36 of the 99
+grant recipients did not have the sufficient security plans in
+place to provide further risk determent, despite the fact that
+the Federal Government has spent, I think you said $3.5 billion
+in taxpayer money for this Smart Grid Investment Grant Program.
+Now while I am disappointed that for scheduling purposes it
+prevented the DOE Inspector General from being here today, I
+would like to ask each of you your thoughts on these three
+questions, and I will start with Mr. Campbell. What are the
+potential implications of these insufficient security controls?
+Mr. Campbell. Well basically smart grid devices are being
+developed that may not have full cybersecurity mechanisms built
+in. So if these devices do actually make it to market, there
+could be problems with cybersecurity of the devices going
+forward.
+Mr. Gingrey. Mr. Trimble?
+Mr. Trimble. Yes, I will--what I would add to that, and I
+will defer to my colleague on the cyber aspect of this, that
+one of the downsides if you end up with devices that don't meet
+the standards or aren't sufficiently protected and then the
+utility has to pull those out, you have created a problem in
+terms of who is going to pay for that mistake, because they
+will go to the public utility to recover those costs, the
+public is not going to want to pay for the mistake, and so you
+will have a very contentious situation.
+Mr. Wilshusen. Yes, I would agree with both Mr. Trimble and
+Mr. Campbell in that it could create opportunities where key
+controls are not being implemented into these devices or not
+being implemented in whatever the initiative and grant
+initiative had was developing. One thing that was noted by the
+IG is that these were approved even though the Department had
+requested that the plans be updated, which they were, but not
+in all instances were those key controls addressed and the
+Department has to approve that.
+According to the IG report, if I read that correctly--
+again, I defer to the DOEIG on that--is that there was
+apparently an emphasis on the part of the Department to make
+sure that these grants were approved and gotten out.
+Mr. Gingrey. We--as the chairman said in his opening
+remarks, we had hoped to have the IG from DOE here today, and
+hopefully we will schedule another hearing and hear from him.
+But going back to Mr. Campbell, throughout the life of the
+grant, is it feasible that these problems that exist could
+still be corrected?
+Mr. Campbell. The DOE's office has responded that it will
+require the applicant grantees to update their cybersecurity
+plans, I believe it is by April of this year.
+Mr. Gingrey. All right, Mr. Trimble and Mr. W., you all
+have some comments on that as well?
+Mr. Wilshusen. Yes. I would just also add that in the
+report, the IG indicated that the Department was also going to
+be, as part of their annual review process of these grant
+initiatives, were to review the recipient's implementation of
+those cybersecurity controls in their plans.
+Mr. Gingrey. And then the last part of this question, and I
+see I am probably only going to get one question in in the
+allotted 5 minutes, but with this report in mind, the DOE
+Inspector General report, do you know of any instances in which
+the smart grid for which the grant program was supposed to
+bolster has been compromised from a security standpoint? Mr.
+Campbell, any specifics there?
+Mr. Campbell. I am not aware of any specifics.
+Mr. Gingrey. Mr. Trimble?
+Mr. Trimble. No, sir.
+Mr. Wilshusen. No, sir.
+Mr. Gingrey. OK. I do have a little bit of time left. Let
+me go--let us see, back to--well that is all right. I will just
+save that if there is a second round.
+Mr. Chairman, I yield back the balance of my time.
+Mr. Stearns. All right, gentleman yields back. We will do a
+second round and I will start.
+Mr. Wilshusen, in your testimony you stated that Department
+of Energy Inspector General found that under the Smart Grid
+Investment Grant Program, recipients were not always complete
+or lacked sufficient detail in security controls in their
+submissions to Department of Energy. Is that correct?
+Mr. Wilshusen. Yes, sir.
+Mr. Stearns. Is that a big deal?
+Mr. Wilshusen. Yes, it can be.
+Mr. Stearns. And why, specifically?
+Mr. Wilshusen. Well, if those----
+Mr. Stearns. Why is it a big deal?
+Mr. Wilshusen. Well, if it is----
+Mr. Stearns. I think it is a big deal, but I just want you
+to confirm it.
+Mr. Wilshusen. If those plans are incomplete and do not
+identify key controls that should be implemented on as part of
+these smart grid initiatives, that could lead to vulnerable
+devices and therefore, may subject those devices to increased
+risk of being compromised.
+Mr. Stearns. So you have a smart meter device being
+purchased with government grant money that lacks the proper
+security features and if the guarantees don't have specific or
+detailed security plans when installing them into the
+customer's homes, isn't that it?
+Mr. Wilshusen. That could be a possibility.
+Mr. Stearns. Mr. Trimble, is it conceivable that during the
+life of the grant period, that these security plans are not
+complete, are not implemented properly, unless made a condition
+of the grantee to receive the funding? Should we do that?
+Mr. Trimble. I believe that should have been a requirement
+or----
+Mr. Stearns. Do you have your mic on?
+Mr. Trimble. I believe that is what the IG indicated, but
+that was not our work so I can't speak authoritatively.
+Mr. Stearns. Do you know of any specific examples that I
+could hear from you, or Mr. Wilshusen?
+Mr. Wilshusen. Well in the IG report, they identified three
+of the five security plans that it reviewed. These were the
+plans that had already been initially identified by the
+Department as having deficient or shortcomings in the security
+programs, and then updated by the recipient or the grantee
+recipients, and they identified that three of the five still
+had the shortcomings and did not contain complete information.
+And some of that information dealt, as I recall, with the
+auditing and some of the technical security controls associated
+with those initiatives. But as far as more detailed
+information, I did not review or have access to the work papers
+supporting the report by the IG.
+Mr. Stearns. Is this all primarily in the smart meter
+technology? Is that where all this concern is?
+Mr. Wilshusen. With the IG's report, I don't think it was
+specific to that. I don't recall if it was specifically
+mentioned.
+Mr. Stearns. Isn't that where most of the investment is?
+Mr. Wilshusen. That also I don't know.
+Mr. Stearns. Yes, Mr. Trimble?
+Mr. Trimble. I believe it was in a broader range. I thought
+the bulk of the money was into other systems like phase
+measurement units and things like that, but again, we haven't
+done work in that area.
+Mr. Stearns. Mr. Campbell, how many, in your opinion, smart
+grid cyber incidents have there been?
+Mr. Campbell. I am not familiar with the total number, but
+from I have heard in discussion there has been quite a few
+cybersecurity incidents.
+Mr. Stearns. Under 10, under 100?
+Mr. Campbell. Probably more than that.
+Mr. Stearns. Under 1,000?
+Mr. Campbell. I couldn't say with any specific.
+Mr. Stearns. So you have no knowledge of how many specific
+system cyber attacks there have been, incidents, then?
+Mr. Campbell. No, sir.
+Mr. Wilshusen. Mr. Chairman----
+Mr. Stearns. Yes, sure.
+Mr. Wilshusen [continuing]. If I might add, I am not even
+sure if there is a monitoring process or reporting mechanism in
+place for that information to be reported and collected.
+Mr. Stearns. Mr. Campbell, do you think that waiting 3
+years for the grant recipients to implement vigorous
+cybersecurity plans could lead to cybersecurity gaps and
+subsequent compromises in the system integrity?
+Mr. Campbell. It is my opinion----
+Mr. Stearns. If you might pull the mic just a little
+closer.
+Mr. Campbell. It is my opinion that during the 3-year
+period for development, there should be adequate time for the
+DOE to take a look at the requirements in regard to
+cybersecurity, but we should also note that cyber threats are
+continuing to change, so any regulations that you may put in
+place may not be adequate when the final product rolls out.
+Mr. Stearns. OK. My last question, Mr. Wilshusen, are there
+different cybersecurity challenges that are vulnerabilities for
+government-run utility services, such as the Bonneville Power
+Administration versus privately-run utility services?
+Mr. Wilshusen. We haven't looked at the specific security
+controls at private utilities. We have looked at them at TVA,
+and identified a number of security vulnerabilities----
+Mr. Stearns. At TVA?
+Mr. Wilshusen. At TVA, yes, as this was the report that was
+referred to earlier. But my understanding is, it is probably
+likely that what we found at TVA will probably be--could be
+found at other public utilities as well, you know, of a similar
+type of electrical power generation and some transmission.
+Mr. Stearns. Mr. Trimble, anyone else, do you have any
+comments in reference to the private versus government-run
+utilities?
+Mr. Trimble. No, I would defer to Greg on that.
+Mr. Stearns. Mr. Campbell, any suggestions?
+Mr. Campbell. No, that seems to be a reasonable response.
+Private utilities seem to have many of the same systems that
+public utilities have.
+Mr. Wilshusen. And one--if I may just add more broadly,
+when we looked at other sectors, for example, we looked at
+communications network operated by private sector
+organizations, we found vulnerabilities in their networks that
+were similar to the vulnerabilities that we find in the
+networks of Federal agencies. Now while that is not exactly
+electricity industry, but I would be fairly confident to say
+that vulnerabilities identified in government systems are going
+to probably be found in private sector systems in some respects
+because the Federal Government security standards and
+guidelines typically are as robust, if not more robust, than
+private sector guidelines in many cases.
+Mr. Stearns. Thank you. My concluding comment is if it hits
+one sector, it hit government utility versus private utility,
+it is probably the same kind of statistic.
+Mr. Wilshusen. I would agree with that comment, which is
+all the more reason why there should be an effective and robust
+information sharing capability between the public and private
+sectors.
+Mr. Stearns. With that, my time is expired.
+Ms. DeGette. Thank you. Thank you, Mr. Chairman.
+I want to follow up on the chairman's question about
+reporting, because I think I shared his concern. Mr. Campbell
+and Mr. Wilshusen, both of you--all three of you said we don't
+have any kind of specific knowledge as to how many cyber
+attacks there have been. And Mr. Wilshusen, you said that we
+don't really have a systematic approach to reporting. Would it
+be possible to develop that kind of systematic approach, and if
+we did, how would it look, who would be in charge of it, et
+cetera?
+Mr. Wilshusen. Well, we haven't done the work to come up
+and just say definitively, but there are some reporting
+mechanisms in place now. For example, the Department of
+Homeland Security and the U.S. Cert Federal agencies are
+required to report their security incidents that occur at their
+sites to U.S. Cert, and then U.S. Cert collects that
+information and makes reports on it, summarizes it, identified
+trends, and also then provides alerts to other Federal
+agencies.
+Private sector organizations can also report through to the
+U.S. Cert, although in terms of having something formal and
+required, that is--presently does not exist.
+Mr. DeGette. Well, so there is a structure that perhaps you
+could do it, there is just no requirement to do it, is that
+what you are saying?
+Mr. Wilshusen. It may be a model that could be considered
+if one was to develop such a reporting structure.
+Ms. DeGette. Do you think it would be important to have
+some sense of incidences of cyber attacks?
+Mr. Wilshusen. Oh, I certainly do, yes.
+Ms. DeGette. What do you think, Mr. Campbell?
+Mr. Trimble. What I would--I am sorry, what I would just
+jump in on this point is when we convened our expert panel, one
+of the challenges and problems that the experts identified was
+the lack of information sharing among the utilities and the
+generators and the government on precisely these issues, the
+cyber attacks, successful or not.
+Ms. DeGette. So did--so now we have identified--and Mr.
+Campbell, would you agree there is a problem?
+Mr. Campbell. Yes, but I would also think confidentiality
+of reporting would be a key factor in any system that is
+developed.
+Ms. DeGette. Right, so who would develop that system? I
+mean, we are super good at identifying problems, but now how do
+we move towards a solution? Anyone?
+Mr. Wilshusen. Well, within the Federal Government, you
+know, DHS has the overriding responsibility as the focal point
+for protecting critical infrastructures. Each of the 18
+critical sectors--infrastructure sectors have sector-specific
+agencies that monitor it for that particular----
+Ms. DeGette. Yes, I understand all this, so you would say
+it would probably be DHS to develop this?
+Mr. Wilshusen. They have a model in place where Federal
+agencies are required to. It would be a likely place to start.
+Ms. DeGette. OK, thank you.
+Mr. Campbell, I want to follow up on the point about
+privacy that you just raised, because I don't know if the three
+of you saw the story in ``The Washington Post'' today where
+what it talked about was the National Security Agency is
+pushing to expand its role in protecting private sector
+computer networks from cyber attacks. The White House has been
+concerned about privacy concerns, and then the story said ``The
+most contentious issue was a legislative proposal last year
+that would have required hundreds of companies that provide
+such critical services as electricity generation to allow their
+internet traffic to be continuously scanned using computer
+threat data provided by the spy agency. Companies would have
+been expected to turn over evidence of potential cyber attacks
+by the government.'' So this really is an issue about how you
+balance security versus privacy. We have been debating this
+pretty much since September 11, 2001.
+And so maybe, Mr. Campbell, you can talk to me if you have
+some perspective on the tradeoff of cybersecurity versus
+privacy.
+Mr. Campbell. Well, I would say that cybersecurity versus
+privacy is a key issue. Other than that, I would say that we--
+CRS is looking at the issue and we would be happy to talk to
+you about it at a later time.
+Ms. DeGette. And you released--CRS released a report on
+privacy and cybersecurity concerns earlier this month, did it
+not?
+Mr. Campbell. Yes.
+Ms. DeGette. And so let me ask you, what information can
+smart meters collect about the people in the households who
+have them? I mean, what is the security issue?
+Mr. Campbell. Well, smart meters collect information on the
+use of electricity, and so the idea is that smart meters
+conceivably could develop a profile of the use of electricity
+within the home. Now if the information is accumulated at a
+high enough level, then individual use of information could be
+lost, but that is an issue that is under development and I
+think in various States there are various rules concerning
+smart meter----
+Ms. DeGette. And that information, it could determine the
+behavioral patterns of the residents in the home, correct?
+Mr. Campbell. Correct.
+Ms. DeGette. So like burglar could figure out--could use a
+smart meter to figure if a family was on vacation or not,
+right?
+Mr. Campbell. If they were sophisticated enough to access
+the information.
+Ms. DeGette. Or a marketer could even use information about
+what appliances a consumer might be using to target that
+consumer, right?
+Mr. Campbell. Possibly.
+Ms. DeGette. So that--I mean, we wouldn't naturally think
+that there would be security issues relating to these meters,
+but that is something we need to consider and balance out,
+right?
+Mr. Campbell. Correct.
+Ms. DeGette. Thank you, Mr. Chairman.
+Mr. Stearns. Gentleman from Georgia is recognized for 5
+minutes.
+Mr. Gingrey. Thank you, Mr. Chairman.
+You know, as I sit here and think about this program and
+the $3.5 billion worth of grant money going towards these
+companies, grantees, 99 of them to help develop the smart grid,
+I also think about the $19 billion that was in the stimulus
+money for fully developing health information technology, you
+know, the Offices of National Coordinator and his salary and
+all the employees there to make sure that people, companies
+small and large that got grants from that $19 billion pot to
+help develop health information technology that is fully
+coordinated, it just makes me concerned that these grantees
+under this program to develop the smart grid are not following
+the guidelines that they should follow and in the final
+analysis 3 years from now we will have wasted a lot of money.
+I want to ask you specifically, you mentioned--and maybe
+some of my colleagues had asked a question about NIST's
+involvement, the National Institute of Standards and
+Technology, the 850-3 program as compared, let us say, to the
+North American Electric Reliability Corporation's critical
+infrastructure protection standards. Now how do those two
+compare and are they overlapping? Are they similar? Is one
+better than the other? What standards should we require of
+these grantees as they develop these programs with taxpayer
+money? Mr. Campbell?
+Mr. Campbell. My knowledge that the NERC reliability
+critical infrastructure standards are just applied to those on
+the bulk electric system, so when we are talking about the
+Smart Grid Investment Grant Program, that is looking at
+developing products, so I think what we are talking about is
+two different types of requirements.
+Mr. Gingrey. Mr. Trimble and Mr. Wilshusen?
+Mr. Wilshusen. I will field that one. Also there is--we
+actually compared the NERC's eight cyber--critical
+infrastructure protections cybersecurity reliability standards
+to the controls that are identified and NIST Special
+Publication 850-3, and we found that of the 198 controls in
+850-3 that the NIST or the NERC standards had about 151 of
+those. One of the issues that the IG reported on in its report,
+also in addition to what Mr. Campbell said, is that those
+standards apply only to the bulk electricity supply, but there
+further only apply to those assets that the entities within
+that sector have designated as a critical asset. And so if the
+entity has not identified any critical assets, then those
+standards would not necessarily apply.
+And the IG report also indicated that back in 2009, the
+former chief information security officer of NERC did a survey
+and identified that about, I think it was 36 percent of the
+power generators, or those entities with power generation and
+about 67 percent of those responsible for transmitting bulk
+power had identified only--at least one critical asset. So that
+left a fair number of--or at least a fair percentage of
+entities that produce power or transmit it that did not
+identify any critical assets.
+Mr. Gingrey. Mr. Trimble?
+Mr. Trimble. I would just--my expertise is not cyber, so I
+will--so to simplify that, the issue as I sort of have come to
+understand it is the NERC CIP standards apply to--for critical
+infrastructure protection but it is limited because it is just
+bulk power and it is just those that the industry have
+identified as being critical assets. But industry self-
+identification has not been exactly--has been identified as
+comprehensively as it could be.
+The NIST standards that we are talking about for cyber
+pursuant to ISA are voluntary, primarily focused on
+interoperability and cyber threats. The limitation there is
+that FERC's sort of bailiwick is, again, bulk power so it
+doesn't get into anything beyond sort of interstate
+transmission, if you will. If you are getting into the State
+level, those guidelines, those standards, even though
+voluntary, don't kick in. If you get down to the city level,
+like New York, they don't kick in. So you have got this
+patchwork where there is a whole bunch of places with no
+standards that kick in.
+Mr. Gingrey. My time is expired, but I just want to say
+that, you know, it is pretty much green eyeshades sort of
+stuff, but hugely important, and of course, you are bringing
+important information to us, the members of the subcommittee,
+and I think this is very beneficial. I deeply appreciate you
+being here today, and thank you for your testimony.
+Mr. Chairman, I yield back.
+Mr. Stearns. Thank the gentleman and we are getting ready
+to conclude the hearing, and I, as chairman, have the
+opportunity to give a closing remark. I would say it has been
+brought up here and also I remember in our July hearing.
+Department of Homeland Security fields all this information
+dealing with cybersecurity and then gives it to U.S. Cert
+agency, and they offer the documentation, as I understand it,
+to the private industry, so it sort of filters down that way.
+Is that correct?
+Mr. Wilshusen. I believe it is, yes.
+Mr. Stearns. Well, my concern is, just like the 9/11
+Commission said, there was not full communication between all
+the government agencies as well as private industries on what--
+to alert them of possible information it could have thwarted
+and stopped the 9/11 attack. I see it is clear here today in
+the conversation that there is not really full adequate
+communication between the private sector and the government
+sector dealing with utilities with cybersecurities, and I think
+this is a warning that we should all take into effect or we
+might be sitting here at a later date with something that is
+very serious.
+I want to thank the witnesses for their time and effort,
+and the subcommittee is adjourned.
+[Whereupon, at 11:37 a.m., the subcommittee was adjourned.]
+
+

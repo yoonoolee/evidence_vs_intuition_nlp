@@ -1,0 +1,2216 @@
+- U.S. DEPARTMENT OF EDUCATION: INFORMATION SECURITY REVIEW
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+U.S. DEPARTMENT OF EDUCATION: INFORMATION SECURITY REVIEW
+
+=======================================================================
+
+HEARING
+
+BEFORE THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+NOVEMBER 17, 2015
+
+__________
+
+Serial No. 114-84
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+22-383 PDF                     WASHINGTON : 2017
+-----------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing
+Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800;
+DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC,
+Washington, DC 20402-0001
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK MULVANEY, South Carolina        BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Jennifer Hemingway, Staff Director
+David Rapallo, Minority Staff Director
+Katie Bailey, Government Operations Subcommittee Staff Director
+Michael Flynn, Counsel
+Sharon Casey Deputy Chief Clerk
+
+C O N T E N T S
+
+----------
+Page
+Hearing held on November 17, 2015................................     1
+
+WITNESSES
+
+Mr. Greg Wilshusen, Director, Information Security Issues, U.S.
+Government Accountability Office
+Oral Statement...............................................     7
+Written Statement............................................     9
+Mr. Kathleen S. Tighe, Inspector General, U.S. Department of
+Education
+Oral Statement...............................................    33
+Written Statement............................................    35
+Mr. Danny A. Harris, Chief Information Officer, U.S. Department
+of Education
+Oral Statement...............................................    46
+Written Statement............................................    48
+
+APPENDIX
+
+Rep. Connolly Opening Statement..................................    84
+Department of Education FITARA Implementation Scorecard..........    86
+FY2015 Cybersecurity Sprint Results..............................    87
+
+U.S. DEPARTMENT OF EDUCATION: INFORMATION SECURITY REVIEW
+
+----------
+
+Tuesday, November 17, 2015
+
+House of Representatives,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The committee met, pursuant to call, at 10:01 a.m., in Room
+2154, Rayburn House Office Building, Hon. Jason Chaffetz
+[chairman of the committee] presiding.
+Present: Representatives Chaffetz, Mica, Jordan, Walberg,
+Amash, Gosar, Gowdy, Massie, Meadows, Mulvaney, Buck, Walker,
+Blum, Hice, Carter, Grothman, Hurd, Palmer, Maloney, Clay,
+Connolly, Kelly, DeSaulnier, and Lujan Grisham.
+Chairman Chaffetz. The Committee on Oversight and
+Government Reform will come to order. Without objection, the
+chair is authorized to declare a recess at any time.
+We appreciate you joining us for our review of the United
+States Department of Education: The Information Security
+Review.
+And at this time I would like to yield to the gentleman
+from Texas, Mr. Hurd.
+Mr. Hurd. Thank you, Chairman Chaffetz.
+Today's hearing is an opportunity, an opportunity to start
+managing the cybersecurity vulnerabilities and risks that this
+nation faces every day.
+I said it during the July hearing this committee held on
+the data breach of the Office of Personnel Management. It is an
+undeniable fact that America is under constant attack. I am not
+talking today about bombs dropping or missiles launching, but
+the constant stream of cyber weapons aimed at our data.
+The good news for this hearing, we are not talking about a
+data breach today. But, Dr. Harris, I want my message to be
+heard loud and clear. You do not want to be before this
+committee explaining to the American people how you left a PII
+of the sons and daughters of millions of Americans vulnerable
+to hackers.
+And it is important to realize that this is not a problem
+without solutions. The GAO and the inspector general have made
+recommendations, not to mention the standards, policies, and
+programs of OMB, DHS, and NIST. What I am trying to tell you is
+that this is not an issue of technology. This is an issue of
+management and leadership.
+Dr. Harris, you are on the spot today but don't think you
+are being singled out. I have put and we have put Federal CIOs
+and agency heads on notice time and again. Whether it be on
+FITARA implementation, data privacy, encryption, or compliance
+with Federal information security policies and practices, this
+committee will be watching. We are talking to the inspectors
+general and reading their recommendations. Federal CIOs and
+agency heads need to be implementing the recommendations of the
+IGs and GAO or be able to explain to me and this committee why
+they didn't.
+Thank you, Mr. Chairman. I yield back.
+Chairman Chaffetz. I thank the gentleman. And I want to
+just kind of--let's stick to the facts here and go through some
+key numbers and metrics because the liability, the
+vulnerability is enormous.
+Roughly 17 years ago the liability to the taxpayers in this
+category--we are talking about the Department of Education.
+Outstanding student loans 17 years ago was roughly $150
+billion. Today, taxpayers are liable for roughly $1.18
+trillion, making the Department of Education essentially the
+size of Citibank.
+Most people don't realize how large and enormous of a
+financial institution the Department of Education is. There are
+roughly 40 million borrowers utilizing the Department of
+Education as essentially their bank and financial institution.
+This is an organization, the Department of Education, that
+spends some $683 million--spent $683 million this year on
+information technology.
+[Slide.]
+Chairman Chaffetz. But as we put up this slide, doing a
+self-assessment, if we can do the FITARA self-assessment, this
+is also an organization based on their self-assessment gets an
+overall ``F'' grade as it relates to IT. So we can look at data
+center consolidation, IT portfolio review savings, incremental
+development, and risk assessment transparency, earning it an
+``F''.
+Chairman Chaffetz. You can take down that slide now.
+This is a system that we are not necessarily--all the
+systems are utilizing encryption. This is a department where
+the OMB cyber sprint exercise--if you would put up the second
+slide.
+[Slide.]
+Chairman Chaffetz. OMB has engaged in the cyber sprint. It
+is one of, I believe, only four agencies in all of Federal
+Government where they scored a negative 14 percent, negative 14
+percent. You can put down that slide. We can provide that
+information. It is very hard to read in that group.
+Chairman Chaffetz. But one of four institutions where it
+actually scored negative on assessment of, say, dual
+authentication. In fact, the inspector general went in and
+looked at the Department of Education's IT operations, and the
+report finds ``the department-wide information systems continue
+to be vulnerable to security threats.'' The inspector general
+made 16 findings, 6 of which are repeat findings. The inspector
+general made a total of 26 recommendations, 10 of which are
+repeat recommendations.
+So how big is the vulnerability? We talked about it in
+terms of dollars. Americans need to know that the Department of
+Education holds roughly 139 million Social Security numbers in
+the Central Processing System. But let's also remember that 139
+million Social Security numbers isn't necessarily all of them
+because it does not include all the systems. That is just the
+Central Processing System. It does not include information for
+parents who submitted information but whose children did not
+get aid. If your child applies for aid, you are going to have
+perhaps your mother's information, perhaps your father's
+information in there as well. That is also in the system and
+potentially very vulnerable.
+The Central Processing System processes Federal aid
+applications at roughly 22 million of them per year. We have
+been talking a lot about the vulnerability of the Office of
+Personnel Management, OPM, understanding the vulnerability
+where we believe it is 22 million. The vulnerability at the
+Department of Education, we are talking about a trillion
+dollars but we are also talking about over 130 million
+Americans.
+The Department has 184 information systems, 184. This is
+just the Department of Education. One hundred and twenty are
+run by contractors, 29 are valued by OMB as high assets. But
+one of the concerns that we have here is that the inspector
+general also looked at what's called the COD, the Common
+Origination and Disbursement system. It is deemed as a major
+system. It is what is actually the system used to disburse
+Federal student aid to students and borrowers. This year alone
+there was roughly $109 billion in direct loans and $31 billion
+in Pells disbursed through the COD.
+One of the fundamental problems that we have had here is
+access to that information and allowing the inspector general
+to be able to go in and peak at the system, test and verify it.
+But this is also a problem.
+Another key system is the National Student Loan database,
+which houses significant borrower information. It is called the
+NSLDS, the National Student Loan database, has 97,000 accounts.
+This is the people that have access to student loans. These are
+the schools, the contractors. That is a lot of people being
+able to tap in and have access to this system.
+But it is our understanding that only 5,000 of the 97,000
+have actually undergone a background check, which again begs
+the question about allowing access to information that could be
+potentially vulnerable. It begs a lot of questions about
+safety, security, and integrity of this system.
+We are also going to hear--and we have a hearing today on
+the Department of Education, but we also have hearings tomorrow
+on the Department of Education. And part of what we are going
+to hear tomorrow is that Department of Education was
+potentially responsible for roughly $4 billion in improper
+payments, $4 billion.
+So we go home, we talk to our constituents about roads,
+bridges, infrastructure, about getting more money in the
+classroom. Utah has the lowest, lowest in the Nation. We are
+not proud of it, lowest spending per pupil in the Nation, and
+yet the Department of Education sends out $4 billion in
+improper payments. You know what a difference that would make
+in my classroom where we have got way too many kids in the
+classroom?
+I am just telling you, it has become a monster, an absolute
+monster. We don't know who is in there. We don't know what they
+are doing. We know there are improper payments. And the
+inspector general, the person we trust the most to go in there
+and take a look at it can't even have access because there are
+so many contractors who say no, we are not going to let you
+look in there; no, you can't see it. And that is a problem.
+That is a problem that has got to change.
+Chairman Chaffetz. So I have gone well past my time. There
+is lots to talk about over the next 2 days. This is going to be
+a good, healthy hearing. I appreciate members' participation.
+There are a lot of competing hearings. You are going to see
+members coming and going as the second day back, 10:00 a.m.,
+there are a lot of hearings going on. But this should be a good
+hearing.
+And I now recognize the ranking member, Mr. Connolly, for
+his opening statement.
+Mr. Connolly. Thank you, Mr. Chairman. And thank you to our
+panelists for being with us today.
+I appreciate the opportunity to examine the information
+technology and security programs and practices within the
+Department of Education and the Federal Student Aid program.
+This department might not seem like an obvious target of
+cyber-related threats, but it is responsible for managing and
+securing student loan portfolios of more than $1 trillion, as
+you indicated, Mr. Chairman, along with the personal
+information of more than 50 million students between Federal
+loan borrowers, Pell Grant recipients, and other assistance
+programs. And as you indicated, Mr. Chairman, that may be the
+tip of the iceberg when one looks at over 130 million Social
+Security numbers available to the Department.
+In the wake of two massive data breaches disclosed by the
+Office of Personnel Management earlier this year, which
+collectively put at risk the personal information of more than
+28 million current and former Federal employees and their
+families, including Members of Congress like myself, every
+Federal agency ought to be reassessing its own information
+security protocols and reinforcing efforts to detect and deter
+cyber attacks and other threats.
+Perhaps this should be the first of a recurring set of
+hearings to gauge successes and shortfalls across agencies when
+it comes to protecting the vast amount of sensitive information
+held by the Federal Government. I know Mr. Hurd and Mr. Meadows
+and yourself, Mr. Chairman, intend to do that certainly with
+the implementation of FITARA, but maybe we need to do it with
+cybersecurity as well.
+I think we would find most agencies in a similar situation
+to this department, which has made some progress in fortifying
+its information security defenses in recent years but continues
+to struggle with recurring vulnerabilities.
+In its latest report in the Department's efforts to
+implement the Federal Information Security Modernization Act,
+FISMA, the inspector general identified 16 findings with 26
+recommendations, one-third of which are repeat recommendations,
+Dr. Harris. Last year's audit found that the Department did not
+perform adequate remediation of weaknesses identified in
+previous OIG audit reports. That is very troubling in light of
+the OPM breach.
+While it appears the Department has beefed up its
+remediation efforts, there is still obviously much work to be
+done, and I am confident that unfortunately this is not the
+only department with these kinds of problems.
+This year's audit flagged weaknesses across four key areas:
+continuous monitoring, configuration management, instant
+response and reporting, and remote access management. For
+example, the IG found user accounts from inside Federal
+employees and outside Federal contractors with excessive or
+unnecessary permissions and unauthorized access to data. In
+fact, one of the Department's IT service contractors could not
+verify to the IG's satisfaction that its other non-Federal
+customers did not have unauthorized access to the Department's
+data through a shared service, very troubling.
+Even more troubling, the OIG said it was able not only to
+gain access to the Department's network through a simulated
+attack, but also it was able to launch other attacks on systems
+connected to the Department while going completely undetected.
+Another critical finding in the IG's report that applies to
+the Department of Education, as well as other Federal agencies,
+is that existing information security protocols, if implemented
+and implemented consistently throughout the organization, could
+and should be effective. That is the good news.
+Nowhere is this more important than in cybersecurity and
+privacy training for new employees. To be successful here, we
+must bring about a wholesale cultural revolution so that
+Federal agencies and the workforce understand the critical
+importance of cyber safety, including basic elements of what
+may be called cyber hygiene.
+Along those same lines, we must hold agencies accountable
+for implementation of the bipartisan FITARA legislation on
+which we recently held a hearing and issued a preliminary
+scorecard for agency progress. The chairman has already noted
+that scorecard for this department. One of the key reforms of
+that legislation, which I was pleased to co-write with the
+former chairman of this committee, is enhancing CIO authorities
+to increase transparency and improve risk management to address
+all of these issues.
+Unfortunately, the Department of Education received an
+``F'' rating on this preliminary assessment based in large part
+on its self-reporting of few IT investments, delivering
+functionality, and their ability to produce savings. That is a
+snapshot in time, and we are hoping that it is a work in
+progress and that the next snapshot will show that progress. I
+look forward to hearing from Mr. Harris about the steps he is
+taking to address both FISMA and FITARA challenges.
+The severity of recent data breaches in both public and
+private sectors in recent years underscores the urgency for
+Federal agencies and Congress to get serious about investing in
+IT solutions that better secure our data and taking actions
+that will be clear deterrents for would-be hackers. This is a
+challenge that has confounded both Democratic and Republican
+administrations.
+The number of IT security incidents reported by Federal
+agencies increased by 1,121 percent from the reporting period
+in the last several years. Unfortunately, these attacks on our
+private industries and government simply reflect the new normal
+of the 21st century where nation states represent advanced and
+persistent threats against one another, constantly seeking to
+gain unauthorized access to sensitive and classified
+information on each other's people, intellectual property, and
+sensitive security information. The likes of North Korea,
+China, Russia, and Iran are increasingly testing the waters and
+becoming emboldened by the lack of reprisal or effective
+deterrents.
+The House earlier this year did pass two bills on a
+bipartisan basis to encourage voluntary sharing of information
+between the public and private sectors, but information-sharing
+is not enough. We need to get serious about strengthening our
+cyber workforce both within the Federal Government and among
+our private sector partners. We also need to devise more
+effective data breach notification policies so that victims are
+aware of the fact they may have been compromised.
+As my colleagues know, it has now been almost 4 months
+since the breach on background records was announced, and
+notifications are still being made.
+So, Mr. Chairman, I appreciate this opportunity to look at
+what the Department of Education is doing right and what it can
+improve upon with respect to securing data, but obviously, this
+can't be the only hearing. Successfully detecting, defending,
+and deterring cyber threats will take a concerted effort across
+all agencies and among our private partners. And I thank you,
+Mr. Chairman, because this hearing clearly sends a signal this
+committee will take that charge seriously.
+I yield back.
+Chairman Chaffetz. I thank the gentleman.
+We will hold the record open for 5 legislative days for any
+members who would like to submit a written statement.
+And it is now my pleasure to recognize our witnesses. We
+are pleased to welcome Mr. Greg Wilshusen, who currently serves
+as the director of Information Security Issues at the
+Government Accountability Office where he leads cybersecurity-
+and privacy-related studies and audits of the Federal
+Government and critical infrastructure.
+We also are joined by Ms. Kathleen Tighe, who serves as the
+inspector general of the United States Department of Education.
+Ms. Tighe also chairs the Council of Inspectors General on
+Integrity and Efficiency, and in 2011 was appointed by
+President Obama to the Recovery, Accountability, and
+Transparency Board and the Government Accountability and
+Transparency Board.
+And we also are joined by Dr. Danny Harris, who currently
+serves as the chief information officer at the United States
+Department of Education. Prior to his tenure as CIO, Dr. Harris
+served as the chief financial officer at the Department of
+Education where he started his career as a computer analyst.
+We welcome you all.
+Pursuant to committee rules, witnesses are to be sworn
+before they testify, so if you will please rise and raise your
+right hand.
+[Witnesses sworn.]
+Chairman Chaffetz. Thank you. Please be seated, and let the
+record reflect that the witnesses all answered in the
+affirmative.
+We would like some time to be set aside for some robust
+discussion, so we would appreciate it if you would limit your
+testimony to 5 minutes. And obviously your entire written
+statement will be made part of the record.
+We will start with Mr. Wilshusen, and he is now recognized
+for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF GREG WILSHUSEN
+
+Mr. Wilshusen. Chairman Chaffetz, Ranking Member Connolly,
+and members of the committee, thank you for the opportunity to
+testify at today's hearing on information security at the
+Department of Education.
+As requested, my statement will address information
+security of Federal agencies, including Education.
+Before I begin, if I may, I would like to recognize several
+members of my team who were instrumental in developing my
+statement and performing the work underpinning it. Larry
+Crosland, Assistant Director; and Rosanna Guerrero led this
+body of work. Lee McCracken and Christopher Businsky also made
+significant contributions.
+Mr. Chairman, for 18 years GAO has designated Federal
+information security to be a government-wide high-risk area. In
+February we expanded this area to include protecting the
+privacy of personally identifiable information. Recent security
+incidents such as the OPM data breaches underscore the
+vulnerability of Federal systems and highlight the evolving and
+sophisticated nature of the cyber threats that confront Federal
+security personnel on a daily basis.
+Over the last several years, Federal agencies have reported
+a sharp increase in the number of information security
+incidents, which have risen from about 5,500 in fiscal year
+2006 to over 67,000 in fiscal year 2014, an increase of
+approximately 1,100 percent. Similarly, the number of incidents
+involving personally identifiable information has more than
+doubled since fiscal year 2009 to over 27,000 in fiscal year
+2014.
+Given the risks posed by cyber threats and the increasing
+number of incidents, it is crucial that Federal agencies take
+appropriate steps to secure their systems and information.
+However, we and agency inspectors general have continued to
+identify significant deficiencies in controls protecting
+Federal information systems. For example, 19 of the 24 agencies
+covered by the Chief Financial Officers Act reported a
+significant deficiency or material weakness in information
+security for financial reporting purposes in fiscal year 2014.
+For its part, the Department of Education reported a
+significant deficiency which is less severe than a material
+weakness but important enough to merit attention by those
+charged with governance.
+As we previously reported for fiscal year 2014, nearly each
+of the 24 agencies, including Education, reported weaknesses in
+most of the five general control categories that we track. Like
+21 other agencies, Education had weaknesses reported in
+controls that are intended to prevent, limit, and detect
+unauthorized or inappropriate access to computer networks and
+sensitive information.
+Similar to most agencies, Education also had weaknesses
+reported in its configuration management of its computing
+system, continuity of operation controls, and management of its
+information security program. On the plus side, unlike 15 other
+agencies, Education did not have weaknesses reported in its
+controls to segregate incompatible duties to--among different
+individuals.
+For deficiencies in security controls and the efforts
+required to mitigate them, inspectors general at 23 of the 24
+agencies, including Education, declared information security as
+a major management challenge for their agency in fiscal year
+2014.
+Over the past 6 years, GAO has made about 2,000
+recommendations aimed at improving their information security
+programs and controls. To date, agencies have implemented about
+58 percent of them.
+Recent actions initiated by the Federal chief information
+officer such as the 30-day Cybersecurity Sprint and issuance of
+a Cybersecurity Strategy and Implementation Plan indicate a new
+level of attention by OMB to the security of Federal networks,
+systems, and data at civilian agencies. Effective and timely
+implementation of this strategy and the rest of GAO's
+recommendations, as well as those made by agency IGs, will
+bolster agencies' ability to protect their information systems
+and information.
+Mr. Chairman, Ranking Member Connolly, members of the
+committee, this concludes my opening statement. I'd be happy to
+answer your questions.
+[Prepared statement of Mr. Wilshusen follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you.
+Ms. Tighe, you are now recognized for 5 minutes.
+
+STATEMENT OF KATHLEEN S. TIGHE
+
+Ms. Tighe. Good morning. Thank you, everyone, for inviting
+me here today to discuss the work of the U.S. Department of
+Education Office of Inspector General involving information
+security and technology security.
+The explosion of IT has revolutionized the way the world
+does business, and the Department is no exception. Virtually
+every department program relies heavily on information systems.
+Evaluating whether those information systems are secure is a
+top priority for my office.
+As noted, the Department reports 184 information systems in
+its inventory, more than 120 of which are operated by
+contractors or subcontractors, some of which contain sensitive
+financial information and PII pertaining to millions of
+students, their parents, and others. These systems are accessed
+by thousands of authorized individuals, including department
+employees, contractor employees, and other third parties such
+as college financial aid administrators.
+Protecting its complex IT infrastructure from constantly
+changing cyber threats is an enormous responsibility and
+challenge for the Department and its Office of Federal Student
+Aid. We examine the Department and FSA's information security
+controls every year through our FISMA audit and in the annual
+audits of the Department and FSA's financial statements. We
+also have conducted other IT security-related work.
+As detailed in our written testimony, our work has
+identified deficiencies that impact the security of information
+within the Department and contractor systems. For example,
+since 2009, including this year, audits of the Department and
+FSA's financial statements found persistent IT control
+deficiencies in key financial systems, including personnel
+security, access controls, and others.
+Since 2011, our FISMA audits have identified weaknesses in
+security control areas, including a number of repeat findings.
+Although our 2015 FISMA audit found that the Department has
+made progress and has taken steps to address repeat findings,
+our work determined that more is needed.
+This year's FISMA audit had two new features. First, the
+OIGs were required to evaluate the effectiveness of their
+agency's security program in the 10 designated FISMA areas for
+the first time, effectiveness meaning the extent to which
+security controls are implemented correctly, operate as
+intended, and produce the desired outcome.
+Second, the Council of the Inspectors General on Integrity
+and Efficiency in coordination with OMB and others rolled out
+the first phase of its new FISMA evaluation metrics called the
+maturity model, which summarizes the status of information
+security programs and their maturity on a five-level scale with
+five being the best. The first phase encompasses the FISMA
+security area of continuous monitoring management.
+Our 2015 FISMA audit found the Department was at level 1
+for continuous monitoring management and was not generally
+effective in three additional areas: configuration management,
+incident response and reporting, and remote access management.
+Notably, our penetration testing this year revealed a key
+weakness regarding the Department's ability to detect
+unauthorized activity inside its computer networks. We
+determined that three areas were in fact generally effective--
+risk management, security training, and contingency planning--
+although some improvements were needed.
+Finally, we found that two areas--plans of actions and
+milestones and identity access management--would be effective
+if implemented properly, although controls over access to FSA's
+mainframe environment need improvement.
+Although we did not make a separate conclusion on the
+effectiveness of the Department's program to oversee contractor
+systems, our review found an issue involving an FSA
+subcontractor who restricted OIG access to information, which
+left my office unable to complete a comprehensive vulnerability
+assessment to determine whether the subcontractor's other
+customers improperly accessed department data. This is
+particularly problematic because, based on the information the
+subcontractor did provide to us, we found accounts with
+excessive permissions and unauthorized access.
+The results of our FISMA and other work show that the
+Department and FSA must work harder to address existing
+weaknesses so they can be in a better position to identify and
+stop increasingly sophisticated attacks on critical IT
+infrastructures. My office is committed to helping them do so.
+Thank you very much. I'm happy to answer questions.
+[Prepared statement of Ms. Tighe follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you.
+Dr. Harris, you are now recognized for 5 minutes.
+
+STATEMENT OF DANNY A. HARRIS
+
+Mr. Harris. Thank you, Mr. Chairman.
+Chairman Chaffetz, Representative Connolly, and members of
+the committee, thank you for the opportunity to appear before
+you today.
+As the chief information officer for the Department of
+Education, I am committed to ensuring we have an effective
+cybersecurity program in place that includes strong controls
+and continuously monitors--we continuously monitor and evaluate
+our posture for opportunities to minimize risk and exposure as
+we work to improve our current systems and processes.
+While ED has made significant progress over the last
+several years in strengthening the overall cybersecurity
+program, we are not satisfied and we have solid plans to
+continue to increase the security of ED's systems. Before I
+dive into the specifics of our evolution, I wanted to provide
+brief organizational context that will assist our discussion
+today.
+ED is organized under one department-level CIO, a role that
+I have served in since 2008. The department-level CIO manages
+all core IT functions, including but not limited to IT
+operations, cybersecurity, enterprise architecture, and IT
+investment management.
+The Federal Student Aid, a performance-based organization,
+also appoints a separate CIO, which reports to FSA's chief
+operating officer. While the department-level CIO is ultimately
+accountable for the IT portfolio, FSA maintains independent
+operational responsibility for its IT portfolio. The FSA
+enterprise includes major mission systems that support student
+facing and public services. A few examples include the commonly
+known Free Application for Federal Student Aid, or FAFSA, and
+StudentAid.gov.
+During my more than 7 years as the Department's CIO, I've
+worked closely with leadership in FSA to ensure that IT
+management integrates with the Department's IT systems. Since
+fiscal year 2011 when the Department was noncompliant with all
+10 areas of FISMA, steady and consistent progress has been
+made.
+For example, the Department established a continuing
+monitoring program to assess the security state of information
+systems in the Department's two distinct environments, one
+called EDUCATE, which handles all of our infrastructure
+services, and the other, FSA's Virtual Data Center.
+OCIO and FSA adopted and implemented automated scanning and
+detection tools to collect, analyze, and report on security-
+related risks, issues, and threats to the Department's systems.
+Other improvements include implementation of a network access
+control, or NAC, which provides device-level authentication and
+data loss prevention, or DLP, capabilities. This allows for
+control of data flowing in and out of our environment.
+Additionally, the OCIO moved from managed service provider
+to an in-house security operations center, or what we call a
+SOC, which allows for real-time threat detection and tracking.
+As a result, it has gained better situational awareness of its
+network environment and is able to respond more rapidly to
+network events.
+In July 2015 a two-factor authentication solution for
+accessing email remotely from personally owned computers and
+mobile devices replaced the previous user-name-and-password
+authentication method. The new method meets strong
+authentication mandates defined by OMB. We have reduced our
+FISMA noncompliance from 10 metric areas to 5 and have solid
+plans of resolving the remaining deficiencies.
+Most recently, the Department actively worked to address
+the focus areas of a cyber sprint by completing the review of
+identification of our high-value assets, completing the
+indicators of compromised network scan, mitigating critical
+vulnerabilities, and reviewing and appropriately restricting
+privileged user access. OCIO and FSA developed implementation
+plans to increase the issuance of personal identity
+verification or PIV cards to meet requirements of strong
+authentication. The OCIO completed its implementation this
+September, and FSA's completion is scheduled for this December.
+OIG's objective for the 2015 FISMA audit changed from a
+compliance-based auditing approach to a focus on general
+effectiveness of the Department's IT security program and
+practices. OIG found that while the Department has made
+progress in strengthening its information security program with
+5 of the 10 reporting metrics noted as generally
+effectiveness--effective, weaknesses were still noted in four
+of the five reporting metrics. Specifically, the IG determined
+it was not generally effective in the areas of continuous
+monitoring, configuration management, incident response and
+reporting, and remote access.
+In response, we are actively engaged in implementing
+solutions to address these areas. For example, to meet the
+requirements of OMB for implementing continuous monitoring by
+fiscal year 2007, the Department has developed an information
+security continuous monitoring implementation plan and is
+actively engaged with DHS to obtain continuous monitoring
+solutions as part of the task order 2 of the CDM program.
+Configuration management activities for fiscal year 2016
+include continuing the implementation of our NAC solution, to
+restrict access for users and devices, strengthen the
+Department's patch and vulnerability management program and
+prioritize and update policies and procedures to meet Federal
+configuration management requirements. For incident response
+and reporting, the Department is utilizing additional
+capabilities to identify and block attacks, for example, adding
+web application firewalls.
+And finally, to address weaknesses noted in remote access,
+the Department continues to consolidate and standardize the
+remote access solutions currently in use. This will allow for
+increased consistency in the implementation of controls across
+the remaining solutions. FSA continues their implementation of
+two-factor authentication requirements to include two-factor
+enablement on their remote connections.
+Thank you again for the opportunity to testify today and
+provide you with specifics of our plans. I will be pleased to
+answer any questions you may have.
+[Prepared statement of Mr. Harris follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Chairman Chaffetz. Thank you. I appreciate that.
+I will now recognize the gentleman from Michigan, Mr.
+Walberg, for 5 minutes.
+Mr. Walberg. Thank you, Mr. Chairman. Thanks to the panel
+for being here.
+Mr. Harris, I appreciate your testimony and the information
+you have given. As has been mentioned, DMCS supports back-end
+loan collection work for borrowers. As CIO rated DMCS as higher
+risk on the Federal IT Dashboard since at least September 12,
+2013, due to contracting problems so severe, a cure notice was
+even issued. What do you consider when rating the risk of
+investments on the dashboard? Review that for us.
+Mr. Harris. Thank you for the question. Thank you for the
+question.
+There are a number of factors that I specifically look at
+as the CIO to rate an investment. A lot of it has to do with
+the project management of that investment. In other words, are
+you meeting deadlines on deliverables? A lot of it has to do
+simply with the size of the investment. More times than not, an
+investment can be managed properly, but given the size of it,
+we still consider it high-risk. In a lot of instances we look
+at the kinds of data that that system actually maintains. And
+so not in all instances will you see an investment that is
+doing well that still won't be perceived as a high risk.
+Mr. Walberg. Based on that, can you then explain why the
+risk rating went from yellow to dark red in May of 2014, a
+rating that changed shortly after the House Education and
+Workforce Committee held a hearing on the problems with DMCS,
+and why has the rating stayed red through May 2015?
+Mr. Harris. Representative Walberg, I don't have that
+information in my head right now, but that's certainly
+information I'd love to provide you.
+Mr. Walberg. It would be great if you could. Any time frame
+that you could get that to us?
+Mr. Harris. Certainly within the week, sir.
+Mr. Walberg. Okay. I appreciate that.
+On June 30, 2015, DMCS was re-categorized as low risk. Is
+your testimony today here under oath that these contracting
+issues are fully addressed?
+Mr. Harris. Again, Representative Walberg, I'd have to look
+at the details of that, and I will get that to you within the
+week as well.
+Mr. Walberg. Okay. Pretty significant details. We would
+appreciate that information.
+Inspector General Tighe, are you confident that all the
+problems are fixed and contracting with DMCS is okay based on
+your work?
+Ms. Tighe. Based on our work, no, I can't say with
+confidence that everything in DMCS2 is fixed. I mean the
+contractor Maximus, who is currently operating DMCS2, had a
+number of problems it needed to fix when it--the contract began
+a year or so ago. I don't think we can say at this point. We
+have not audited specifically what Maximus has achieved, but I
+would find it hard to believe that all the fixes are completed.
+Mr. Walberg. Have you looked at some of the objectives and
+parameters that they are using, and is there any confidence
+that flows from that?
+Ms. Tighe. We have not audited the dashboard specifically
+and what goes into it and whether the analysis related to
+DMCS2, as put on the dashboard, is correct or not. We've done a
+number of reports related to DMCS2 dating back a few years. As
+you probably know, it was a material weakness in the financial
+statement a few years ago. It's gradually--they've tackled the
+problems and are able to make DMCS2 functional, at least with
+workarounds, but I--manual workarounds, but I think the new
+contractor is supposed to be working on making it fully
+functional.
+Mr. Walberg. Okay. Thank you. Mr. Chairman, I yield back.
+Chairman Chaffetz. I thank the gentleman. I now recognize
+the gentleman from Virginia, Mr. Connolly, for 5 minutes.
+Mr. Connolly. I thank the chair.
+Dr. Harris, I have got to say to you it is not confidence-
+building that you were asked questions by Mr. Walberg involving
+reports that, you know, going from yellow to red now in a high-
+risk category, and your answer is I have got to get back to
+you, seemingly unaware of these reports. Is that your
+testimony? You were not aware of these reports? This is news to
+you?
+Mr. Harris. No, Representative Connolly. It's not news to
+me. There are--there's a large number of investments that I
+review. I want to make sure that I provide you accurate
+information.
+Mr. Connolly. Well, it just seems to me if we are going to
+have a hearing on this subject and you are the CIO, why not be
+better prepared frankly coming before this committee to be able
+to answer questions that certainly you could have, should have
+anticipated.
+So in that same pleasant vein, can you address the fact
+that you got the lowest grade possible in the FITARA scorecard?
+Understanding it is a work in progress and the intent here is
+not to put a scarlet letter on one's back, but you really got
+failing grades in all but one category, and that was a ``D''. I
+wouldn't have gotten into graduate school with that kind of
+scorecard. Please address it.
+Mr. Harris. Absolutely, sir. I respectfully disagree with
+the rating. First of all, I am not aware of the source of that
+information, but what I can tell you, sir, is that we have a
+solid plan in place, implementation plan in place for FITARA by
+this December, and, quite frankly, in multiple meetings with
+OMB they made it very clear to us that our plan was very solid.
+In fact, many of the requirements of FITARA have already been
+satisfied by the Department for many, many years. With the
+exception of FSA, currently all IT operations come through the
+CIO, specifically spending, for example.
+And so I do disagree, respectfully disagree with that
+report, and I don't know--I haven't found the source of that
+information yet. But I think we're very solid on FITARA.
+Mr. Connolly. Well, I go back to my opening statement. It
+is not a confidence-building measure to have the CIO saying he
+disagrees with the findings, and you think you are solid with
+FITARA when you got an ``F''. What do you think you should have
+gotten? The highest grade was a ``B'' and only two agencies got
+that.
+Mr. Harris. I actually think we should have gotten a ``C'',
+sir, if I can give you an example of what I mean.
+Mr. Connolly. Sure.
+Mr. Harris. So take the first measure, for example, when
+you look at data center consolidation. The Department
+currently, to be real honest with you, we don't own any data
+centers but our contractors do. But that's beside the point. We
+still report. We have three data centers, three data centers.
+And in fact, we will be reducing that to two in fiscal year
+2016.
+And so it startles me that I see an ``F'' in data centers
+when we actually are probably the smallest in the Federal
+space. And given the amount of data processing we do, I think
+that's astounding.
+Mr. Connolly. I will work with you on that because that
+happens to be one of my bugaboos. And the Federal Government,
+as you know, in our last hearing to my surprise we discovered
+2,000 more data centers. So the fact that we have a Federal
+agency testifying they only have three is music to our ears and
+I will be glad to work with you, Dr. Harris, as I know this
+committee will, in trying to clarify that ----
+Mr. Harris. Thank you.
+Mr. Connolly.--if that is the case. But let me just say
+this. I exhort you to do what you can not only in clarifying
+that grade, but more importantly, the spirit of this is
+improvement because the object here is to make sure that we
+don't have the kind of data breach we had at OPM at the
+Department of Education. And you have a sacred trust in
+protecting the data of 50 million Americans or more in your
+care, and, you know, you want to be making the headline that
+actually your data breach is twice that of, you know, some
+other agency. And, I mean, that is not your only goal. We want
+to see you be more efficient. We want you to see IT as a
+resource and a transformative process.
+Why are there, Dr. Harris, repeat recommendations coming
+out of OIG that haven't been acted on by your office or by the
+Secretary?
+Mr. Harris. I concur with the IG, as well as the committee,
+that repeat findings are always troublesome. There are two
+reasons why we continue to have some repeat findings.
+The first reason is the resolution to some of the findings
+are quite complex, and they require multiple years to actually
+resolve. An example, our implementation of our NAC and DLP for
+the talent that we have, we've spent multiple years
+implementing NAC and DLP. And in fact, we will finish our
+implementation this year. But it has taken multiple years to
+implement those very complex systems. And with the full
+implementation this fiscal year, we will actually resolve 90
+percent of the repeat findings.
+Mr. Connolly. And, Ms. Tighe, you would corroborate that?
+Ms. Tighe. We would corroborate that ----
+Mr. Connolly. I can't hear you.
+Ms. Tighe. Yes, it has been--we have observed that the NAC
+solution has taken a long time to fully implement, and it does
+impact some of our repeat findings.
+Mr. Connolly. But you agree with Dr. Harris's statement
+that by I think you said the end of the year about 90 percent
+of that will be addressed?
+Ms. Tighe. I don't know if I can agree with that. I mean we
+haven't audited that conclusion specifically. We'll find out
+when we go in next year's FISMA audit.
+Mr. Connolly. Okay. Thank you. My time is up.
+Chairman Chaffetz. Will the gentleman yield?
+Mr. Connolly. Gladly.
+Chairman Chaffetz. I want to help clarify this database
+center issue. You have, best I can tell, 184 information
+systems, correct?
+Mr. Harris. That's correct, sir.
+Chairman Chaffetz. And you have 120 contractors that house
+that information, correct?
+Mr. Harris. That is correct, sir.
+Chairman Chaffetz. So how many data centers do you have?
+Mr. Harris. We have three data centers that the Department
+of Education maintains. We have--Federal Student Aid has ----
+Chairman Chaffetz. How many data centers are there housing
+this information that you are responsible for?
+Mr. Harris. I don't know, Mr. Chairman.
+Chairman Chaffetz. Well, there you go. There is the
+problem. The answer is not three. You are at least 123, and you
+don't know? Is a contractor not a database to you?
+Mr. Harris. I'm sorry. Ask the question again, sir.
+Chairman Chaffetz. If a contractor is housing the
+information, is that not a database?
+Mr. Harris. We do not count that as a data center, sir.
+Chairman Chaffetz. Why not?
+Mr. Harris. Based on OMB's guidance on how we count data
+centers, we don't count that. It--we get that as a service and
+so we don't count it as a data center.
+Chairman Chaffetz. So you just contract that out; you leave
+it alone? The inspector general can't look at it. You don't
+even consider one of your databases?
+Mr. Harris. We don't, sir.
+Mr. Connolly. So ----
+Chairman Chaffetz. There is the problem, Mr. Connolly.
+Mr. Connolly.--Mr. Chairman, could I just ----
+Chairman Chaffetz. Sure. Go ahead.
+Mr. Connolly. So your philosophy is that a data is
+compromised through a contractor, that is their problem, not
+your problem?
+Mr. Harris. That is not correct.
+Mr. Connolly. Well, you can't have it both ways. Either you
+take responsibility for a data center irrespective of where it
+is located or you don't. It is under your charge. That is the
+point I think the chairman is making.
+Chairman Chaffetz. You are paying for it. We are paying for
+it. Taxpayers are paying for it.
+Mr. Connolly. I mean, fair enough, you don't count it. This
+isn't a bureaucratic, you know, checklist process. What we are
+concerned about it efficiency, reliability, and security, and
+if you have got hundreds or thousands of data centers under the
+care of contractors, okay, OMB may not count that as
+technically a Department of Education data center, but it is
+still in your charge. And our concern here isn't to consolidate
+for the sake of consolidation so we feel better. It is because
+we believe it is inefficient to have a multiplicity of data
+centers. In fact, we know it is. And we need cooperation from
+every agency, irrespective of where they are located.
+I yield back, Mr. Chairman.
+Chairman Chaffetz. And as a concluding point, I hope we
+could jointly ask that the GAO look at this issue of data
+centers at the Department of Education.
+Mr. Wilshusen. I would happy to work with your staff to do
+that.
+Chairman Chaffetz. Thank you.
+I now recognize the gentleman from North Carolina, Mr.
+Meadows, for 5 minutes.
+Mr. Meadows. Thank you, Mr. Chairman. And I thank the
+ranking member for his insightful questions as it relates to
+these data centers. I have worked with him in a very close way,
+in a bipartisan way, and so I find it just very interesting
+that your testimony here this morning would be that you have
+three data centers when the GAO would not agree with that. So
+you are disagreeing with the GAO on their definition, is that
+correct?
+Mr. Harris. If GAO is suggesting that we have more--the
+Department has more than three data centers, yes, sir, I am
+disagreeing.
+Mr. Meadows. All right. So here is my concern, Dr. Harris.
+You know, the headline should read Department of Education Gets
+an ``F''. Now, that is not good when we are talking about
+education, but what is even more troubling is the definition of
+a data center has been made very clear to me, and I am not a
+CIO. GAO has been very clear on what they view a data center to
+be, and under your definition, under your definition, everybody
+could get rid of every single data center by subcontracting out
+the service. Do you follow the logic there?
+Mr. Harris. I do, sir.
+Mr. Meadows. So are you suggesting that you will go to zero
+and get an ``A'' on that dashboard just by subcontracting all
+your data centers out to someone else?
+Mr. Harris. No, sir, I do not.
+Mr. Meadows. Okay. Well, then explain the disconnect to me.
+Why is your testimony three if indeed you are subcontracting
+out those services?
+Mr. Harris. So when OMB does a data call and they give us
+guidance for how we report ----
+Mr. Meadows. I am talking about GAO ----
+Mr. Harris. I'm sorry.
+Mr. Meadows.--all right, the dashboard. They are going to
+be the ones that help define this with FITARA and everything
+else, and we're going to have you back in here on a hearing. So
+with their definition, how do you think you can consolidate
+some of those data centers that are subcontracted right now? So
+do you have 120 subcontracted data centers?
+Mr. Harris. Sir, the only way to consolidate those is to
+actually consolidate contracts.
+Mr. Meadows. Exactly. Thank you, Dr. Harris. And so are you
+going to consolidate contracts?
+Mr. Harris. We're certainly willing to take a look at that.
+Mr. Meadows. Okay. Would I suggest that you do that,
+because if not, you are going to continue to get an ``F'' when
+it comes to data consolidation. The risk is spread across 120
+subcontractors. Would you agree with that?
+Mr. Harris. Yes, sir.
+Mr. Meadows. Okay. And, Ms. Tighe, were you able to
+infiltrate their system? I noticed the notes from the fiscal
+year 2015 indicated that you were able to penetrate the EDUCATE
+system. Were you able to do that?
+Ms. Tighe. Yes. During our penetration testing for our--the
+FISMA audit this year, we were able to gain access--full access
+to the EDUCATE system, which is the general support system that
+houses a number of the Department's systems, undetected by
+either the contractor for EDUCATE--Dell--or the CIO's office.
+Mr. Meadows. So you are saying Dr. Harris didn't know that
+you were there?
+Ms. Tighe. Correct.
+Mr. Meadows. So, Dr. Harris, how do you explain--I mean are
+you willing to stake your reputation and your job on the fact
+that the system is secure?
+Mr. Harris. I am today, sir, with full ----
+Mr. Meadows. So if there is a breach from this point
+forward, you are willing to resign?
+Mr. Harris. No, sir, I did not say that.
+Mr. Meadows. Okay. Well, I said your reputation and your
+job.
+Mr. Harris. I certainly will stake my reputation, given
+where we are today. Our full implementation of NAC and DLP, for
+example ----
+Mr. Meadows. So how confident on a scale of 1 to 10 with 10
+being the highest are you that we will not have some kind of a
+breach? Ms. Tighe was able to get in. I have got hackers I
+could probably hire to get in there today. Wouldn't you agree
+with that?
+Mr. Harris. As of today, sir, I would rank it a 7.
+Mr. Meadows. A 7?
+Mr. Harris. Yes.
+Mr. Meadows. So when ----
+Mr. Harris. We're making great progress but I would rank it
+a 7.
+Mr. Meadows. Okay. Now, is this a 7 on the same scale that
+you just gave yourself a ``C'' where FITARA gave you--the
+dashboard gave you an ``F''?
+Mr. Harris. That is correct, sir.
+Mr. Meadows. All right. So this is the grading according to
+Dr. Harris?
+Mr. Harris. I just believe we've made a tremendous amount
+of progress ----
+Mr. Meadows. Okay. So what do we tell the 125 million
+people that have their personal identification numbers
+potentially at risk when you say that it was a 7, you have
+staked your reputation on it, and yet we have a breach like we
+had at OPM? Are you confident that we are not going to have
+that?
+Mr. Harris. I have strong confidence, sir, and may I tell
+you why? Even prior to the cyber sprint where two-factor
+authentication required level of assurance 4, long before that,
+we had two-factor authentication at LOA 3, not as strong as 4
+but ----
+Mr. Meadows. But on two-factor authentication, you went
+down--it has already been testified you went down. You went the
+opposite way on our 30-day testing period on, you know, the
+two-person authentication. So you may have had it but you
+weren't using it.
+Mr. Harris. Might I explain?
+Mr. Meadows. Sure.
+Mr. Harris. Interestingly enough, two things happened
+during the cyber sprint. The definition of privileged users
+changed, and the LOA, the level of assurance, changed. Take a
+look at the privileged users. The definition went from a
+technical, hardcore access to technical information to anyone
+who had access to PII. As a result of that, we voluntarily
+changed our number to significantly increase the number of
+privileged users that we were reporting, which dropped our
+percentage.
+Mr. Meadows. All right. I appreciate the chair's
+indulgence. Thank you for your answer. I will yield back.
+Chairman Chaffetz. I thank the gentleman.
+I will now recognize the gentlewoman from New York, Mrs.
+Maloney, 5 minutes.
+Mrs. Maloney. Mr. Chairman, thank you.
+There have been a number of significant data breaches over
+the past year that have jeopardized the personal and financial
+information of millions of Americans. Anthem, Premera Blue
+Cross, the Office of Personnel Management, and most recently,
+Experian all suffered breaches in which hackers were able to
+steal the personal information of millions of individuals.
+Mr. Harris, we are not here today talking about that kind
+of massive data breach that has actually happened at the
+Department of Education, correct?
+Mr. Harris. That is correct.
+Mrs. Maloney. Okay. The Department of Education systems do
+contain large volumes of sensitive information, however,
+including personnel records, financial information on students
+and borrowers that would be attractive to cyber thieves.
+Therefore, it is an important part of our oversight to ensure
+that these systems are adequately protected.
+Ms. Tighe, according to the 2015 audit your office issued
+last Friday, ``the Department and FSA made progress in
+strengthening its information security systems.'' What are the
+areas where you have seen the Department make the most
+progress?
+Ms. Tighe. Some of the areas include--they've done a good
+job on password controls for system users. They've done a
+better job--a much better job of--once incidents are found, of
+reporting them up through US-CERT and addressing those issues.
+And another area, because we noted in our fiscal year 2014
+report, our last year's FISMA report, that there were problems
+in CIO's office with the fact that they would say they've
+implemented corrective action, but we would go in the next year
+and continue to find the same problem even though they said
+that they did it. They've now implemented a much better process
+for dealing with corrective action, and so we've been very
+pleased to see them actually resolve some issues.
+Mrs. Maloney. Okay. And in your 2015 audit you did identify
+several weaknesses in the Department's information security
+system. With respect to those weaknesses, your report states,
+``we found that the Department was not generally effective in
+four security areas: continuous monitoring, configuration
+management, incident response and reporting, and remote access
+management.''
+Mr. Harris, as the Department's CIO, do you agree with the
+IG's assessment that the Department needs improvement in the
+four security areas I just read?
+Mr. Harris. Yes, Representative Maloney, I do concur.
+Mrs. Maloney. Okay. Are there any areas in which you
+disagree with the IG's assessment about the Department's
+weaknesses in IT security, and if so, what are they?
+Mr. Harris. No, Representative Maloney, I do not.
+Mrs. Maloney. You do not. Okay. In addition to reporting on
+weaknesses the IG found in the Department's IT security, the
+report makes 26 recommendations for improving the effectiveness
+of the information security programs. Mr. Harris, do you have a
+timeline for implementing the IG's recommendations?
+Mr. Harris. Our plan is to resolve all of those
+recommendations in fiscal year 2016.
+Mrs. Maloney. And when will you have all the
+recommendations implemented, all of them by the end of 2016?
+Mr. Harris. That is correct.
+Mrs. Maloney. Okay. Do you have all the tools you need to
+make the improvements the IG recommended?
+Mr. Harris. It is a very, very aggressive plan and
+strategy, but that is surely our intent. If we have to move
+resources from one place to another, it is certainly our intent
+to do so.
+Mrs. Maloney. Well, I want to thank you. Given the large
+amounts of sensitive and confidential information the
+Department retains, it is imperative that it move as quickly as
+possible to correct the weaknesses the IG has reported in her
+report.
+Okay. Thank you.
+Chairman Chaffetz. I thank the gentleman.
+I will now recognize the gentleman from North Carolina, Mr.
+Walker, for 5 minutes.
+Mr. Walker. Thank you, Mr. Chairman.
+The inspector general found that the Department's remote
+access management program was not generally effective because
+it did not enforce its network timeout requirement or, more
+significantly, use the two-factor authentication for two of its
+network connections.
+The failure of the Department to enforce the two-factor
+authentication requirement for remote access users opens it up
+to the same style of cyber attacks that were used against OPM.
+Ms. Tighe, let me start with you if I could please. Can you
+elaborate on how the Department's failure to enforce timeout
+requirements in the two-factor process for this remote access
+opens up the Department of Education to the same attacks
+potentially that we saw used against the OPM?
+Ms. Tighe. Well, yes. The problem that we identified this
+year, we had gone out and asked for the inventory--and this was
+to the Federal Student Aid organization--what your inventory of
+remote access devices. They identified four. We did penetration
+testing, found two more that they didn't even know about, and
+those two did not have two-factor authentication.
+So they have now, we understand--have put two-factor
+authentication on those two additional remote access points,
+but we still have, I believe a couple of outstanding
+recommendations related to remote access. And if you do not
+have proper controls obviously on remote access, then you do
+open up the Department to attacks from the outside.
+Mr. Walker. Sure. And I am sure you guys are taking the
+precaution, you are looking at these two adjustments,
+modifications, or things that we can include to prevent maybe
+some more of the cyber attacks. Is that fair to say?
+Ms. Tighe. Yes.
+Mr. Walker. Okay. Dr. Harris, what is the Department of
+Education--what are your actions and doing to solve this
+problem? Are you guys doing anything specific to making sure--
+you know, if I remember correctly, the OPM Director Archuleta
+ended up having to resign because the breach was so intensive.
+We don't want the same kind of thing here in the Department of
+Education. Can you tell me what actions, steps you guys are
+taking?
+Mr. Harris. Absolutely, Representative Walker.
+So for the two incidents you just mentioned, I concur with
+the IG. We have since resolved both of those. The incident not
+passing the buck, I don't have operational responsibility for,
+but at the end of the day I am accountable and responsible for.
+And so we have made sure that we continue to harden our two-
+factor authentication.
+And what's really critical is we are looking at least
+privileged. It's not just a matter of managing your privileged
+users but making sure they have the minimum privileges that
+they need. So we're doing both of those.
+Mr. Walker. Would you mind dialing it down just a little
+bit more specific? When you say you are doing both of those, is
+there a specific date of implementation? Or how exactly are you
+doing these things to make sure that it is safer?
+Mr. Harris. Yes. On the education side we've already
+completed 100 percent two-factor authentication, LOA 4, the
+strongest. And on the FSA side of the house, the--their
+completion date is December of this year.
+Mr. Walker. Okay. Thank you for your answers.
+With that, Mr. Chairman, I yield back the balance of my
+time.
+Chairman Chaffetz. I thank the gentleman.
+I will now recognize the gentleman from Georgia, Mr. Hice,
+for 5 minutes.
+Mr. Hice. Thank you, Mr. Chairman. And thank each of you
+for being here and testifying.
+I would like to begin, Ms. Tighe, with you. According to
+the 2015 audit, as has already been brought up a couple of
+times here this morning, there were six repeat findings and 10
+repeat recommendations. That, of course, I think, raises a red
+flag for a lot of people as to why these things are not being
+addressed. So from your perspective, what is the issue? Is it
+an inability--are they unable to take care of these issues, or
+is it a matter more of an unwillingness to do so?
+Ms. Tighe. Well, I think there's a lot going on here.
+There's no one particular reason. I mean some is, as Dr. Harris
+testified, the fact that sometimes solutions are--can't happen
+short term. They are sometimes long term. Sometimes we raise
+issues on particular systems, and they may achieve a solution
+to that particular problem, but what they don't then do is say,
+hey, maybe we have the same problem on other systems. So we go
+back in the next year because we kind of rotate through our
+work looking at different systems because we can't look at 184
+every year, right, so--and sometimes we get to the next year
+and we see the same problem we identified on this system on
+another system, which is what, you know, gets frustrating for
+us.
+Mr. Hice. So you would put the blame on this systems rather
+than ----
+Ms. Tighe. Well ----
+Mr. Hice.--an inability or an unwillingness to address the
+----
+Ms. Tighe. Well, I think there needs to be a couple of
+things. I think attention needs to be paid to our
+recommendations and priority given to them. I think sometimes
+long-term solutions can seem to happen--be longer than maybe
+they need to be. And also I think that when we make a
+recommendation pertaining to one system, it would be good to
+step back and think--for the Department to step back and think,
+hey, is this same problem happening on other systems.
+Mr. Hice. Okay. Thank you.
+Dr. Harris, it appears to me that we're utilizing outdated
+technology, and I think you have acknowledged that as well. In
+fact, it appears from what I've read there's 962 operating
+systems that are no longer supported by vendors. That's
+inexcusable. The vulnerabilities can't even be spoken of. I
+mean we can't even fathom the kind of vulnerabilities when
+you're utilizing technology that's not even supported any
+longer, and yet you said you feel you'd give yourself a 7 out
+of 10 that we're currently--how in the world can you give
+yourself a 7 out of 10 when we're using technology that's not
+even supported?
+Mr. Harris. Representative Hice, I would concur with you
+that it is kind of ridiculous that we're using this old
+technology. The 7 that I give us is the remediation that we
+have in place and the tools we have to actually protect those
+outdated systems while we work hard to catch up. So on the one
+hand you're absolutely right. There are vulnerabilities on that
+side, but the remediation is on the side of the tools that we
+have in place as we modernize.
+Mr. Hice. Why is the Department using that old technology?
+Mr. Harris. A lot of it has ----
+Mr. Hice. Why doesn't it catch up with the times?
+Mr. Harris. Sorry, sir. A lot of it has to do with the
+system owners and the applications--application owner's ability
+to keep up with the operating system. In some cases, you have
+to make a decision do you shut down a mission-critical
+application that provides services to the public, or do you
+mitigate the risk? And more times than not we mitigate the risk
+while we're trying to modernize.
+Mr. Hice. All right. So how long is it going to take to
+modernize?
+Mr. Harris. I don't have an answer to that, sir, across the
+entire platform, but I can tell you that we are working hard to
+do that modernization.
+Mr. Hice. All right. So we are going to continue to have
+vulnerabilities for an indefinite period of time?
+Mr. Harris. I think we will, sir. And I think what we have
+to do is work hard to make sure that we have tools in place
+that mitigates that risk.
+Mr. Hice. Okay. ``Work hard'' sounds fine, Dr. Harris, but
+what does that mean? When can we expect the system to be
+secure? We have tens of millions of people whose lives and
+personal information is at a potential high risk as it relates
+to vulnerability, and your answer is we are going to work hard.
+When is the vulnerability going to be removed?
+Mr. Harris. And, Representative Hice, I would say that we
+are reasonably secure now. I'm not suggesting that we're not
+secure, but we do need to strengthen. That's very important.
+I'm not going to suggest that we don't have a tremendous amount
+of work to do. But I want--don't want the general public to
+think that we are not secure.
+Mr. Hice. There again, ``reasonably'' is not a very secure
+answer. We have got a lot of people whose lives and personal
+information is potentially hanging in the balance. And this is
+an issue, Mr. Chairman, that hits every district in this
+country. And my time is expired but I thank the chairman for
+this and I yield back.
+Chairman Chaffetz. I thank the gentleman. I will now
+recognize the gentlewoman from Illinois, Ms. Kelly, for 5
+minutes.
+Ms. Kelly. Thank you, Mr. Chairman.
+Ms. Tighe, your office identified key weaknesses in the
+ability of the Department and its contractor Dell to detect and
+prevent unauthorized access. Can you tell us what your testers
+were able to do during the vulnerability assessment testing of
+some of the Department's IT environments?
+Ms. Tighe. Yes. We were able to--during the penetration
+testing, we were able to gain access--or full access to the
+complete EDUCATE environment. And EDUCATE, you have to
+understand, is a--sort of a general support system that houses
+a number of the Department's systems. So we were able to
+completely access that and went undetected by either the
+Department's contractor or the Department.
+Ms. Kelly. Thank you. The FISMA audit report explains that
+the Department's defenses did not detect or terminate the
+unauthorized access and remained on the network for hours. What
+kind of risks are the Department's systems exposed to by these
+weaknesses in detection and prevention of unauthorized access?
+Ms. Tighe. Well, I think the risks would certainly be
+access to the Department's data. We could have really done
+anything in there. So the fact that we were able to gain access
+means that outsiders who have bad intentions are able also to
+come back through the same way we did and gain access. And that
+really puts the Department systems and data and employees and
+everybody who deals with--is involved in our system is at risk.
+Ms. Kelly. All right. Mr. Wilshusen, do you know whether
+this kind of undetected, unauthorized access is characteristic
+of some of the major data breaches that have occurred in the
+public and private sectors?
+Mr. Wilshusen. Yes, I think it is actually. Indeed, just
+for example like with the OPM breach, that occurred for a
+number of months before it was actually detected. And so I
+think that's often one of the hallmarks of these very
+successful attacks is that they do go undetected. They exploit
+known vulnerabilities and systems and then go undetected.
+Ms. Kelly. The OIG recommended that the Department ensures
+its intrusion detection and prevention system and technical
+security architecture are property configured to restrict and
+eliminate unauthorized access. Mr. Harris, the Department
+concurs with this recommendation, correct?
+Mr. Harris. Yes, we do.
+Ms. Kelly. What is the status of the Department's plan,
+corrective actions, and when do you expect them to be
+completed?
+Mr. Harris. So I'm pleased to announce that, with the
+implementation of our--a NAC system, it allows us to do three
+things. It allows us to look at all--look and touch all of our
+assets, it allows us to see the configuration on those assets,
+and it allows us to manage the vulnerability on those assets.
+Fiscal year 2016 we plan for a full implementation. It is in
+place now and we can monitor. The full implementation will
+allow us to actually block anonymous behavior.
+Ms. Kelly. Is this fiscal year 2016 January or March?
+Around when in fiscal year 2016?
+Mr. Harris. The third quarter is what we're looking at.
+Ms. Kelly. Okay. Thank you. Ms. Tighe, you said in your
+testimony that the Department was effecting in ensuring proper
+incident response and reporting once incidents were reported.
+Can you describe what steps the Department has taken to ensure
+it effectively responds to incidents?
+Ms. Tighe. Yes, they have--and I would defer to Dr. Harris
+on this if he has more to add--but I know that they have a SOC,
+a security operation center, up and running, and that's given
+them capabilities they never had before in terms of incident
+reporting and response.
+Ms. Kelly. Dr. Harris, did you want to add anything?
+Mr. Harris. Yes, I would. We have an incident response
+process that follows both OMB and NIST guidelines, and we also
+have a very strong and well-documented PIRT process, basically
+a privacy incidence response team that goes into action when we
+have breaches.
+Ms. Kelly. Okay. And you discussed in your testimony the
+role of the Department of Homeland Security has in helping the
+Department identify risks. Can you expand upon that? How do
+those programs help supplement your efforts?
+Mr. Harris. Sure. I talk about it in very--I'm very
+enthusiastic about the progress the Department has made over
+the last 3 years. A lot of it has to do with the shared
+services that DHS provides to us, specifically with CDM task
+order 2 where we will expand our sensors, we will also lower
+the cost of licensing, and more than anything else, we will
+have access to dashboards that actually allow us in real time
+to look at vulnerabilities. That's what we're missing right
+now.
+Ms. Kelly. Okay. Well, thank you, and I look forward to
+seeing further progress from all agencies in detecting and
+responding to incidents. Thank you, and I yield back.
+Chairman Chaffetz. I thank the gentlewoman.
+I will now recognize the chairman of the Subcommittee on IT
+for our Oversight and Government Reform Committee, the
+gentleman from Texas, Mr. Hurd.
+Mr. Hurd. Thank you, Mr. Chairman.
+I want to start off with a simple question, and this is to
+you, Ms. Tighe. When you conduct your penetration testing or
+technical vulnerability assessment, who decides when that
+happens? Can the Department come and say, listen, this is a
+tool we would like to use? Can you do this? Or is this
+something that you do independently?
+Ms. Tighe. We do it independently.
+Mr. Hurd. And is that the same across most agencies?
+Ms. Tighe. I think that's the same with most IGs who do
+penetration testing. I'm not sure everybody does.
+Mr. Hurd. And how often do you plan on doing penetration
+testing?
+Ms. Tighe. We do it every year as part of our FISMA audit.
+Mr. Hurd. Okay. Because that is an industry best practice,
+and it is a good thing that this is going on. The information
+you glean is important for Dr. Harris and his team.
+Dr. Harris, the remaining of my questions are for you. And
+I am going to read your statements. And I usually like to dig
+into the weeds at these hearings, but there is a lot of big-
+rock strategic issues that have come out here today. In your
+testimony you say ``the department-level CIO''--that is you--
+``manages all core IT functions, including but not limited to
+IT operations, cybersecurity, enterprise architecture, and IT
+investment management.'' You further add that ``the Office of
+Federal Student Aid (FSA) appoints a separate CIO.''
+Now, you are saying that you are responsible for all IT
+department activities but you don't have control over all the
+activities within the Department of Education. Would that be a
+true statement?
+Mr. Harris. That is correct, Representative Hurd.
+Mr. Hurd. Does that make sense?
+Mr. Harris. I believe that FITARA will strengthen my
+ability and authority to actually provide more guidance and
+oversight, and if you want to use the word control over
+operations. Right now, that is a challenge.
+Mr. Hurd. So there are two people missing here today to be
+frank. Number one is the agency head, right? And I know Arne
+Duncan has announced his retirement and John King will be
+taking over as acting duties and I think through the rest of
+this administration because ultimately, the buck stops there.
+But we are also missing the CIO of FSA participating in this
+conversation because it doesn't make any sense.
+And we go back to the issue of data centers. Department of
+Education is ultimately responsible for all the data centers
+that hold information for these kids that are applying for
+Federal aid. So saying that we have three is being
+disingenuous, right? And my question is, you know, when we have
+these issues, who is remediating these vulnerabilities,
+especially when it comes to FSA? Are you responsible for it? Is
+the CIO of FSA responsible for it? Who is ultimately supposed
+to be held accountable for these issues?
+And you talk about NAC's implementation. Is this going to
+include all the subcontractors or is this just Department of
+Education employees that have that on their badge, not
+necessarily all the subcontractors that work for you?
+Mr. Harris. Currently, it's just the Department of
+Education, the latter.
+Mr. Hurd. Does that make sense?
+Mr. Harris. No, sir, it does not.
+Mr. Hurd. So IG reports show that since 2011 there was no
+mechanism to restrict the use of unauthorized devices on the
+network. Having the ability to find devices on your network,
+does it really take 4 years to figure that out?
+Mr. Harris. With the talent we had, sir, it took us that
+long ----
+Mr. Hurd. So you are saying ----
+Mr. Harris.--and in the last 3 years we've made a
+tremendous amount of progress.
+Mr. Hurd. Well, that is not very encouraging. I am hoping
+we have increased the talent in order to do that because, Ms.
+Tighe, would you have any opinions on how long it would take to
+implement one of these systems?
+Ms. Tighe. Well, I would hope it would be done sooner but
+----
+Mr. Hurd. Well, I know ----
+Ms. Tighe.--I--you know, but I would point out that this
+year's report also highlighted this again as an issue. So to
+the extent that ----
+Mr. Hurd. Great. So, Mr. Harris, how many users do you have
+in the Department of Education?
+Mr. Harris. Approximately 6,000, sir.
+Mr. Hurd. Okay. And does that include subcontractors?
+Mr. Harris. That is correct, sir.
+Mr. Hurd. So 6,000, just 6,000?
+Mr. Harris. Yes, sir.
+Mr. Hurd. Six thousand is not a lot. All right. And I would
+hope you would share with your CIOs and agency heads--
+generally, when I ask questions at these hearings, I know the
+answer because I used to do this for a living, right? And to
+implement controls on 6,000 users should not take 4 years. I
+literally thought you were going to say 60,000 or 600,000
+users, right? This is completely unacceptable. So who are some
+of the vendors--so there are 120 contractors? Is that right,
+Chairman? Or do you know the answer? How many other
+subcontractors do you have?
+Mr. Harris. Now, the 6,000 includes just the individuals
+using the Department's data centers. It does not include the
+users or the subcontracts outside of the VDC and the ----
+Mr. Hurd. So why are these subcontractors not under your
+purview in your responsibility, in your operational control?
+Mr. Harris. Well, because, for the most part, FSA has
+contractual arrangements with them. They don't operate their
+data centers.
+Mr. Hurd. So why does FSA not--so does Arne Duncan have
+control over FSA? Does Arne Duncan tell FSA do this and FSA
+does that?
+Mr. Harris. I can't answer that, sir. I'd like to get back
+to you ----
+Mr. Hurd. So the CIO of FSA, can you tell that person what
+to do?
+Mr. Harris. I cannot, sir. That person reports to the COO
+of FSA. I provide ----
+Mr. Hurd. And who does ----
+Mr. Harris.--direction and guidance.
+Mr. Hurd. And do you know who the COO of FSA reports to?
+Mr. Harris. Yes, the Secretary.
+Mr. Hurd. Interesting. I don't even know where to continue.
+I see my time has expired. But this is the kind of issue that
+the American people are completely frustrated with. You know,
+this is not a bureaucratic exercise, as my friend from Virginia
+pointed out. And saying that Department of Education has a
+certain level--but you are responsible for all these others,
+and if you don't have the authority or the power to do that,
+then you know what, we are here to give you that authority
+because we want to hold you accountable. But we want to make
+sure you have all the tools at your disposal to do these
+things. But it is unacceptable to say 6,000 people. I could
+probably do that over the weekend. This is completely
+unacceptable. And I look forward to the hearing tomorrow.
+I am sorry, Mr. Chairman, for going over my time. I yield
+back.
+Chairman Chaffetz. Thank you. I now recognize myself. To
+the gentleman from Texas, I would say that I believe we have
+just in the National Student Loan database 97,000 accounts,
+97,000, a little higher than the 6,000. I think you have struck
+the heart of what is the problem because--one of the problems.
+Under the E-Government Act of 2002 and certainly under
+FITARA, you are supposed to not only have the responsibility
+but the authority, and I think the gentleman is right.
+Secretary Duncan needs to answer this.
+And my question, how often do you meet with Secretary
+Duncan?
+Mr. Harris. On a monthly basis, sir, and ----
+Chairman Chaffetz. So ----
+Mr. Harris.--I meet with the deputy secretary weekly.
+Chairman Chaffetz. So to the gentleman from Texas, I would
+suggest here they are managing more than $1 trillion in assets,
+liability for the United States. It is basically the size of
+Citibank, and the CIO meets with the Secretary maybe 12 times a
+year, right, once a month?
+Mr. Harris. That is correct, sir.
+Chairman Chaffetz. I mean that is absolutely stunning. And
+looking at the vulnerability of almost half of the population
+of the United States of America has their personal information
+sitting in this database, which is not secure by any standard,
+any scorecard. It is not secure. A trillion dollars, half of
+all America, and the Secretary of Education, once a month. How
+long do you meet with him for when you have it? When is the
+last meeting you had with him?
+Mr. Harris. About 3 weeks ago, sir.
+Chairman Chaffetz. How long did you meet with him?
+Mr. Harris. For an hour-and-a-half.
+Chairman Chaffetz. Yes. Is it a budget problem? What is
+your budget? How much money do you have?
+Mr. Harris. We spend approximately $550 million a year, and
+about $32 million of that is for IT security.
+Chairman Chaffetz. How much is for IT security?
+Mr. Harris. Thirty-two million.
+Chairman Chaffetz. But ----
+Mr. Harris. However, there's a large percentage of embedded
+costs for our contractors that would significantly increase
+that number ----
+Chairman Chaffetz. And we will have to work this out with
+you. My understanding is you spend $683 million on IT at the
+Department of Education, but do you need more money or do you
+have enough money?
+Mr. Harris. Certainly, we could always use more.
+Chairman Chaffetz. Everybody always says that.
+Mr. Harris. Sir ----
+Chairman Chaffetz. Everybody always says that, okay?
+Mr. Harris. Certainly.
+Chairman Chaffetz. So ----
+Mr. Harris. But I would say, sir, that ----
+Mr. Connolly. For God's sake ----
+Mr. Harris.--cybersecurity talent ----
+Mr. Connolly.--say yes, Dr. Harris.
+Mr. Harris. I would say that my biggest challenge is
+cybersecurity talent even more than money. If you told me to
+take a choice between the first or the second, I would say you
+can give me all the money in the world but if the Federal space
+can't obtain and retain the cyber talent, we are in big
+trouble.
+Chairman Chaffetz. No, I absolutely agree with you, and it
+is something I think this committee needs to look at is the pay
+authority to perhaps even pay the IT specialists more in such a
+critical vulnerable situation and the ability in the
+marketplace to actually attract and retain people. I would
+agree with you.
+Does the Department implement the Department of Homeland
+Security Continuous Diagnostic and Mitigation system, and do
+you have the EINSTEIN intrusion detection program thoroughly
+and completely integrated into all of your IT systems?
+Mr. Harris. We do, sir. In fact, the Department of
+Education was one of the first to implement EINSTEIN 1,
+EINSTEIN 2. We're now working with DHS to implement EINSTEIN 3.
+And, yes, we do participate in CDM task order 2 specifically.
+Chairman Chaffetz. Does that include the contractors and
+subcontractors or ----
+Mr. Harris. It includes those that run our data center. But
+it doesn't include some of the partners that FSA has.
+Chairman Chaffetz. Okay. So who doesn't it include?
+Mr. Harris. It doesn't include, again, some of the 100 ----
+Chairman Chaffetz. So if you have 120 contractors ----
+Mr. Harris. It doesn't include some of them. I would have
+to get you specific information on, okay, if each one is ----
+Chairman Chaffetz. If you can follow up with us ----
+Mr. Harris. Absolutely, sir.
+Chairman Chaffetz.--and the IG and GAO, that would be
+great.
+Mr. Harris, have you had an intrusion?
+Mr. Harris. I'm sorry, sir. Say that again.
+Chairman Chaffetz. Have you had an intrusion? Have you had
+a data breach?
+Mr. Harris. We have had both incidents and data breaches.
+Specifically, in 2015 we had 91 breaches and we had 200--about
+250 incidents. We have not in the history of the Department--to
+my knowledge we have not had a major incident. And so all of
+them fall into the minor category.
+And if I might give you an example of one?
+Chairman Chaffetz. What was the most significant one?
+Mr. Harris. I would say, sir, that the most significant one
+was in 2012 when, in the FAFSA system for a matter of minutes
+as a result of a--an application glitch, users were able to see
+other users' PII. And again, it was several minutes, but that's
+pretty critical.
+Chairman Chaffetz. Did you report that to the inspector
+general?
+Mr. Harris. I'm sure we did, sir.
+Chairman Chaffetz. In the past year are you aware of any
+foreign, national, state, or other adversary penetrating the
+network? Did any of those data breaches and incidents happen in
+the last year?
+Mr. Harris. Not in the last year, sir, though we constantly
+are threatened by them, but no breaches to my knowledge.
+Chairman Chaffetz. Not in the last year?
+Mr. Harris. That is correct, sir.
+Chairman Chaffetz. How many onsite IT security reviews has
+the Department conducted to date of the contractors that you
+engage with?
+Mr. Harris. Our reviews of our contractor are actually
+constant. We have a security operations center, and we have an
+IV&V contractor that are working daily to review everything
+that our contractor is doing.
+Chairman Chaffetz. Ms. Tighe, what is your view of that?
+Ms. Tighe. I'm aware ----
+Chairman Chaffetz. Sorry, your microphone.
+Ms. Tighe. I'm aware that the Department is taking those
+actions. Some parts--I would also point out that some parts of
+the Department and systems the Department deals with have--and
+it's external business partners like the Title IV services do
+get IT general controls reviews every year because they feed
+into the financial statement audits. So we do have some level
+of assurance outside of the Department that some--that there is
+some IT reviews being done of the Department systems.
+Chairman Chaffetz. All right. Last questions before I
+recognize Mr. Palmer here, departmental policy requires that
+all employees and contractors who have access to Privacy Act
+data have a minimum of a 5c public trust background check, but
+it is also my understanding that roughly less than 5,000 of the
+people who have access have actually had such a background
+check, which leaves us in the math roughly 85,000 individuals
+who have had no background check have access to personal
+information in your databases. Would you disagree with any of
+those numbers? And what are you doing about it?
+Mr. Harris. I would not disagree with that information,
+sir.
+Chairman Chaffetz. So if it is departmental policy to have
+background checks for people who have--remember, we are talking
+about mostly--these are student loans, right? We are talking
+about students and kids here. So when you are talking about
+access to private information and it is departmental policy to
+have a background check, and yet 85,000 of them don't have
+background check, what are you doing to solve that?
+Mr. Harris. Sir, I don't believe that includes the
+individuals who have access to their own information. So the
+85,000 you mention aren't system operators who are actually
+looking at PII. For example, if we have a student looking at
+their own information, they do not need a 5c clearance.
+Chairman Chaffetz. Well, no, that number is in the tens of
+millions of people if not hundreds of millions of people. If
+they are looking at their own information, I am not counting
+that. I am talking about people who have access into the system
+to go look and fish around. And, Ms. Tighe, can you provide
+more information about that?
+Ms. Tighe. Well, I believe that there are--with access to
+the National Student Loan database, just taking that database,
+that there are--our numbers that there are about 97,000
+accounts. This is not--these are non-student accounts. Fifty-
+five thousands of those, we should all realize, are at
+institutions of higher education because all the financial aid
+officers in every college and university or other school that
+receives Title IV funding has to access our databases. And I
+think that is the biggest area where you're not seeing the
+background investigations unless that particular college or
+university requires it themselves. But there are other people
+who access who have accounts. They're the Title IV servicers,
+the debt collection entities. There's 22 of those and other
+assorted people who touch our systems.
+Chairman Chaffetz. And we know how integrity-failed the
+debt collection services people are, so, you know, no need for
+a background check there. That is departmental policy. I need
+you to get back to us as to what you are doing to rectify that.
+It is, I think, a huge vulnerability because these are people
+that are authorized. They have the authentication to get in
+there, look around, see the personal identifiable information
+and yet have not had the required background check.
+Mr. Harris. I will do that, Mr. Chairman.
+Chairman Chaffetz. Thank you. I have gone well past my
+time.
+I will recognize the gentleman from Alabama, Mr. Palmer,
+for 5 minutes.
+Mr. Palmer. Thank you, Mr. Chairman.
+I want to follow up on the question the chairman raised,
+Dr. Harris, about EINSTEIN. During the IG penetration testing
+of EDUCATE, why didn't you detect they were on your servers?
+Mr. Harris. Currently, as I indicated, we have implemented
+NAC. The full implementation, however, is not complete, and we
+plan to complete that this fiscal year.
+Mr. Palmer. So you are saying ----
+Mr. Harris. And I do believe we will be able to see that
+activity then.
+Mr. Palmer. Now, I am asking why you didn't detect it when
+they were on your servers at the time they were doing the
+penetration testing.
+Mr. Harris. We didn't have the tools completely configured.
+Mr. Palmer. Okay. What tools are you missing?
+Mr. Harris. We're not missing any. We just don't have them
+completely configured. For example, NAC has been implemented
+but there's a lot of configure work--configuration work that
+needs to be done for full implementation.
+Mr. Palmer. So you have the tools but you are not able to
+apply them?
+Mr. Harris. We haven't finished the--we haven't completed
+the configuration of it ----
+Mr. Palmer. How ----
+Mr. Harris.--but we plan to do that this fiscal year.
+Mr. Palmer. You should have it done by the end of this
+fiscal year or the calendar year?
+Mr. Harris. By the fiscal year, sir.
+Mr. Palmer. So they will be complete by September 30 of
+'16?
+Mr. Harris. Sir, I'm hoping to complete them by the end of
+the third quarter, not September 30.
+Mr. Palmer. Okay. So that would be ----
+Mr. Harris. And we're aggressively working to actually do
+it sooner than that.
+Mr. Palmer. All right. They will be finished by the end of
+June?
+Mr. Harris. That is correct.
+Mr. Palmer. Okay. Thank you. Dr. Harris, according to the
+Federal IT Dashboard, DOED central processing system carries
+out data matching with at least five different agencies and
+interfaces with DOED's Participation Management, Common
+Origination system, and Virtual Data Center. What is the nature
+of this understanding between agencies?
+Mr. Harris. Beyond the sharing of data, that really is the
+totality of that understanding. We share sensitive data. We
+share important data with which to do better data processing on
+both sides.
+Mr. Palmer. Well, CPS is not PIV-enabled, and if it were to
+be breached, an adversary would have access to sensitive
+personally identifiable information and data that multiple
+agencies rely on. Can you tell me what security measures are in
+place to protect the CPS system?
+Mr. Harris. I apologize, sir. I don't have operational
+oversight of that system and have limited knowledge, but I can
+certainly get you more information on that.
+Mr. Palmer. Who has that information?
+Mr. Harris. The Federal Student Aid CIO.
+Mr. Palmer. Okay. One last question, do you allow employees
+to use your server to access their personal email?
+Mr. Harris. Currently, we do, sir.
+Mr. Palmer. Is that not of concern to you on that ----
+Mr. Harris. It--I'm sorry, sir.
+Mr. Palmer. Well, we have had other hearings on this when
+we were dealing with the breach at OPM, and it turns out that
+the immigration, ICE, had sent out a memo to their employees
+that they could no longer use the Federal server because they
+had multiple breaches, and it turns out that there was a union
+grievance filed and they weren't able to deny their employees
+access to their server. And it appears that that is where one
+of the breaches occurred. I just wonder, as the chairman points
+out, the enormous number of records that could be accessed, if
+you are taking any measures to prevent that.
+Mr. Harris. It's an interesting question, Representative
+Palmer, and it's one that does concern me. We actually met with
+OMB and DHS to talk about the risk level of allowing that kind
+of access. I think the CIO counsel is going to spend more time
+talking about it, but it is something that concerns me. And
+you're right, it is a threat factor.
+Mr. Palmer. Thank you, Mr. Chairman. I yield the balance of
+my time.
+Chairman Chaffetz. I thank the gentleman. I will now
+recognize Mr. Clay of Missouri for 5 minutes.
+Mr. Clay. Thank you, Mr. Chairman.
+And, Mr. Wilshusen, the high-risk report GAO released
+earlier this year noted challenges that both the Federal and
+private sector face when it comes to securing personally
+identifiable information. In particular, the 2015 high-risk
+report pointed to the data breaches at Home Depot and Target as
+examples of high-profile breaches in the commercial sector. So
+is it fair to say when it comes to the subject of
+cybersecurity, GAO has paid attention to what has been
+occurring in the private sector?
+Mr. Wilshusen. Yes, it is insofar as these types of
+incidents occur and demonstrate that it isn't strictly--or
+cybersecurity and these intrusions is not strictly a government
+phenomenon.
+Mr. Clay. Now, I understand that when GAO conducted its
+most recent FISMA report on Federal agencies, it wasn't tasked
+with evaluating the private sector. I would like to ask you
+some questions about challenges facing the private sector based
+on your prior work. Are the weaknesses in cybersecurity you are
+aware of in the private sector consistent with what GAO found
+with respect to Federal agencies?
+Mr. Wilshusen. Our review of information security controls
+at private sector organizations is somewhat limited primarily
+to the work that we do in evaluating the security controls of
+our contractors that support the Federal Government. And what
+we have found is that those contractors also have security
+vulnerabilities that are consistent with those that we find on
+agency-operated systems.
+Mr. Clay. So do you think the Federal Government is ahead
+of the private sector when it comes to cybersecurity?
+Mr. Wilshusen. I don't know if I could say that. One thing
+that I could say is that at least the Federal Government, and
+particularly in respect to the types of information security
+policies and guidance that are promulgated by the National
+Institute of Standards and Technology is among the best and are
+sometimes used by private sector organizations.
+Mr. Clay. Okay.
+Mr. Wilshusen. So we do a pretty good job in identifying
+policies and procedures. Where we're challenged is implementing
+them in our information systems controls environments over time
+throughout the entire enterprise.
+Mr. Clay. Ms. Tighe, would you have anything to add?
+Ms. Tighe. No. I would agree that NIST provides very
+significant and complete guidelines for IT--in the area of IT
+security. The challenge is getting them implemented.
+Mr. Clay. Thank you. And, Dr. Harris, anything additional?
+Mr. Harris. I would absolutely concur. In fact, as we work
+with some of our private sector partners, we see that they
+don't use standards as stringent as those that NIST provides.
+Mr. Clay. Thank you all. Thank all of you for your
+responses. May I yield the balance of my time to the ranking
+member?
+Mr. Connolly. I thank my colleague. By the way, I will
+throw you a lifeline, Dr. Harris. We have talked a lot of about
+FSA, but it was Congress acting on the recommendations of a
+previous administration that actually made FSA a PBO, a
+performance-based organization, and even referred to it as--FSA
+is generally siloed from the rest of the Department of
+Education, although its chief operating officer reports to the
+Secretary of Education, as Dr. Harris testified.
+So it is Congress in legislation that we passed in 1997 on
+a bipartisan basis, our former colleagues Howard ``Buck''
+McKeon and Dan Kildee who actually authored H.R. 2536 that did
+that. So we now need, because of the passage of FITARA, frankly
+to square those two. And I think the current Congress would
+favor the FITARA approach and maybe look a little askance at
+siloing anything in light of technology progressing and the
+threat we are facing.
+If the chair would just indulge me one question and then I
+am done ----
+Chairman Chaffetz. Sure. Yes.
+Mr. Connolly.--if Mr. Mulvaney would--okay. In listening to
+this hearing, I am not sure we are reassured. We dispute the
+``F'' we get in FITARA. We are not fully aware of these other
+rankings that move us to high risk or yellow to red. Systems
+weren't quite in place when the penetration exercise, according
+to Ms. Tighe, ``we could have gone anywhere'' in that exercise,
+very alarming. We only have three data centers but we don't
+know how many our contractors have and we are not really
+entirely responsible for that even though they are in
+possession of data that could be compromised.
+Certainly, take the point, Dr. Harris, that we need to bulk
+up on the talent pool as much as we do resources, but we need
+both. We need both. There is no question about it.
+But at the end of the day, Dr. Harris testified with
+respect to the question of vulnerability, ``we are reasonably
+secure now. I don't want anyone to think otherwise.'' I have
+got to challenge that and I want you, Ms. Tighe, and you, Mr.
+Wilshusen, to respond to that. My question is should Americans
+be concerned that the kind of breach that occurred at OPM
+frankly could occur with respect to at least 50 million
+Americans whose data is in the hands of the Department of
+Education? I am not leaving this hearing feeling that we are
+reasonably secure now. Professionally, is that your judgment?
+Do you share Dr. Harris's confidence that we are reasonably
+secure now?
+Ms. Tighe. I am still concerned about the potential for
+breaches in the Department. I think that the issues we pointed
+to in our current FISMA report, particularly under the areas of
+configuration management and under incident detection are very
+significant, and they really point to the potential for
+significant vulnerabilities. There was also the issue on the
+mainframe in Georgia operated by a subcontractor that we were
+not even able to properly evaluate. And we found privileged
+users with permissions not appropriate. That stuff worries me,
+and I don't feel, you know, as rosy about the picture as Dr.
+Harris. With all that said, I know the Department is working on
+these things.
+Mr. Wilshusen. I would defer to Ms. Tighe in her assessment
+but also just comment on the types of weaknesses that she and
+her team identified at Education as being those types of
+vulnerabilities that can be exploited and can be used to gain
+access and even, you know, potentially hide an intruder's
+presence on a network.
+Mr. Connolly. I thank the chair and I thank Mr. Mulvaney
+for his courtesy.
+Chairman Chaffetz. I will now recognize the gentleman from
+South Carolina, Mr. Mulvaney.
+Mr. Mulvaney. I thank both the gentleman. And I have just
+got a couple of mopping-up questions here at the end so in no
+particular order.
+Mr. Harris, you mentioned a couple different times talent,
+which is something we don't hear much in here. Ordinarily,
+people come in and complain they don't have enough money. I
+have not heard that one before. Let me ask you this. Do you not
+have access--my understanding was that in other areas of the
+Federal Government we have some really, really good people
+working on IT. Do you not have access to their expertise and
+their subcontractors and their experiences?
+Mr. Harris. Thank you so much for the question,
+Representative Mulvaney.
+I'm so glad you raised it because you do have talent across
+the Federal space, in, fact one of the things I am hoping that
+this body will help with is actually centralizing some of that
+talent so a small agency like the Department of Education can
+get more help. But what the Federal--what the private space is
+paying we simply can't match that, and in a lot of instances,
+folks don't see the Department of Education as an exciting
+cyber space to go to. So we're very challenged when we compete
+with other Federal agencies, as well as the private space. So
+we are really hurting from that perspective.
+Mr. Mulvaney. And that is sort of what worries me is that
+because you are not exciting, people actually might be
+attracted to you in terms of being a target.
+Ms. Tighe, I come back to something you said earlier
+about--and I am going to butcher the numbers--97-odd-thousand
+users, and you made an excellent point, which is that there is
+someone in the registrar's office at G.W. who has access to
+this system. Let me ask you this. If I am sitting there and I
+am at G.W. and I am the, you know, little part-time student who
+comes in to work on the FAFSA stuff, what do I need in order to
+get Mr. Chaffetz's student loan information?
+Ms. Tighe. Well, you need his--most financial aid
+administrators--well, you probably need him to either have gone
+to G.W. University ----
+Mr. Mulvaney. Okay.
+Ms. Tighe.--or put that as one of his schools on his
+application. So ----
+Mr. Mulvaney. Okay ----
+Ms. Tighe.--they have a more limited purview than they ----
+Mr. Mulvaney. All right. So if I am sitting there ----
+Ms. Tighe.--have access to.
+Mr. Mulvaney.--and I am the person at G.W. who is--and I
+hate to pick on G.W. but I went to Georgetown ----
+Ms. Tighe. Or his Social.
+Mr. Mulvaney. Yes. I went to Georgetown so I love to pick
+on G.W.
+Ms. Tighe. Yes.
+Mr. Mulvaney. You are telling me I can only gain access to
+people who have actually either gone to G.W. or checked that on
+one of their FAFSA forms?
+Ms. Tighe. Yes, unless they, for whatever reason, would
+have their Social Security number.
+Mr. Mulvaney. And that was my next question ----
+Ms. Tighe. Yes.
+Mr. Mulvaney.--which is if I have Mr. Chaffetz's Social
+Security number and he is in the system, I can get him, can't
+I?
+Ms. Tighe. That's my understanding.
+Mr. Mulvaney. So that means that if I am able to acquire
+that Social Security number from any other source and I have
+access to your system at tens of thousands of terminals, I can
+get just about anything?
+Ms. Tighe. That's correct.
+Mr. Mulvaney. Now, let me drill down on that a little bit.
+What is ``just about anything'' because when I--I got a little
+notice from I think it was Target--my wife did--saying that
+they had been hacked. I get all that. That is right. That
+doesn't bother me too much. I think we use the same credit card
+there and I don't use anything else at Target. If you hack into
+Mr. Chaffetz's records at the Department of Education, what
+type of information can you get on him?
+Ms. Tighe. Well, you can--obviously, you can get the
+financial information reported in the application for Federal
+Student Aid and ----
+Mr. Mulvaney. Does that include his parents' income?
+Ms. Tighe. Yes, it does.
+Mr. Mulvaney. Does it include any bank account information?
+We didn't have these forms when I was in school ----
+Ms. Tighe. Do we--is it ----
+Mr. Mulvaney.--so I am not really sure ----
+Ms. Tighe.--bank account information? Yes. I think--believe
+there is banking information.
+Mr. Mulvaney. What about stocks and bond account
+information?
+Ms. Tighe. I wouldn't think that would be available.
+Mr. Mulvaney. Okay. All right. What else can you get just
+out of curiosity?
+Ms. Tighe. Let me get back to you on a full accounting ----
+Mr. Mulvaney. Okay.
+Ms. Tighe.--of what the--is available.
+Mr. Mulvaney. And I hope I am making my point, which is
+that when Target got hacked ----
+Ms. Tighe. Yes.
+Mr. Mulvaney.--I didn't lose a lot of concern over it. If
+someone had my bank account records, that might--including, I
+guess, account numbers because I guess you all at some point
+verify that information or can ----
+Ms. Tighe. Well, there is information related to the
+students'--for disbursements as student aid, you know, moving
+money into the students' bank accounts.
+Mr. Mulvaney. Sure. Okay. And I am sorry; I lost track of
+where I was going after that. So I would be happy to yield to
+the chair whatever 40 seconds I have left. But I thank you all
+for your information and looking forward to going forward.
+Chairman Chaffetz. If the gentleman will yield, there are
+lifetime loan limits, right? So talk to the scope of time here
+that we are talking about.
+Ms. Tighe. My understanding is in the National Student Loan
+database is that once you get money, your information is kept
+in there for--like I don't think there's a deadline or cutoff
+for when that information gets moved because there are
+statutory limits on the amount of student aid one can take so
+they have to keep track of it over a lifetime. So they--it's--
+the information is retained for a very long time.
+Chairman Chaffetz. And how many people in that database?
+Ms. Tighe. There are, I think, currently about 85--at least
+somewhere over 75 million student accounts or student account
+information.
+Chairman Chaffetz. And in addition to that, there are other
+individuals, right? So how many individuals are we ultimately
+talking about?
+Ms. Tighe. Well, Student Loan database--the National
+Student Loan database will have just students who get financial
+aid. There are other systems the Department has like the CPS
+system where you will have the parent information also.
+Chairman Chaffetz. So how many Americans? What is the grand
+total of number of Social Security numbers--we had ----
+Ms. Tighe. Well, the 130--we--by our count from the OIG's
+estimation of looking at the Department's databases we have
+over 139 million unique Social Security numbers. And that's
+just in the student loan application and the PIN registry
+systems.
+Chairman Chaffetz. Does the gentleman yield back?
+Mr. Mulvaney. Yes, sir.
+Chairman Chaffetz. In wrap-up here, I want to address
+something just to clarify. You have a responsibility, Ms.
+Tighe, as the inspector general to be able to go in and look at
+the contractors and the subcontractors, but you have had
+difficulty gaining access to some of those systems,
+specifically the COD or the Common Origination and Disbursement
+system. Have you been able to look at that system?
+Ms. Tighe. No, we were not able to. We included the
+mainframes of the Department as part of our testing this year.
+Two of those mainframes are at the Virtual--the VDC, the
+Virtual Data Center. One of them is in Columbus, Georgia, and
+operated by a company called TSYS under a subcontract with the
+Federal Student Aid organization. We entered into an agreement
+with them that outlined everything we needed. We gave them a
+timetable.
+They did not by any stretch of the imagination meet that
+timetable, and in the end, they were not able to provide us
+very critical information for us to do a full vulnerability
+testing. They limited our information in the end to the
+education environment. The problem is that mainframe in Georgia
+is a shared environment with their private customers.
+And I understand their reluctance, but the fact remains is,
+given the problems we found with what--just what they were able
+to provide us, seeing privileged users that had excessive
+permissions and the like, I worry about what other users we
+were not able to see have access to in our data.
+Chairman Chaffetz. Well, we want to be supportive of the
+inspector general community and the good people at TSYS. Is
+that their name? They are about to get a nasty-gram from the
+United States Congress, and we will use every power we have to
+yank them up here and make sure that you get the access to that
+information so ----
+Ms. Tighe. I appreciate it.
+Chairman Chaffetz.--the folks down there can look forward
+to that. We are going to make sure you have the access you
+need.
+Mr. Harris, last bit of questions. Talk to me about how
+dilapidated, outdated some of the operating systems software
+that you are having to deal with. Do you use a COBOL, for
+instance?
+Mr. Harris. No, sir, we do not use COBOL.
+Chairman Chaffetz. Do ----
+Mr. Harris. On the FSA side I'm not sure if they still have
+any COBOL-based systems, but I can get that information for
+you.
+Chairman Chaffetz. But all the other systems, you are not
+aware of any ----
+Mr. Harris. Do not use COBOL, sir, no.
+Chairman Chaffetz. Do you use DOS or what ----
+Mr. Harris. No, sir. We're primarily a Windows-based. We
+use a lot of Linux, Unix. However, it's not just the operating
+system; it's the version.
+Chairman Chaffetz. Sure.
+Mr. Harris. When you get past N minus 1 and the vendor is
+no longer patching it, you have a problem.
+Chairman Chaffetz. So how old--what Windows operating
+systems are you using? And it is probably a whole gambit,
+right?
+Mr. Harris. It's a gambit.
+Chairman Chaffetz. How old is the worst? I mean if you were
+to walk around say, oh, my goodness ----
+Mr. Harris. It's--probably the worst would probably be five
+versions old.
+Chairman Chaffetz. So like what is that, Windows 95, 97?
+Mr. Harris. Probably 97.
+Chairman Chaffetz. Ninety-seven still? And they are not
+even servicing that at Microsoft anymore?
+Mr. Harris. That is correct. That is correct.
+Chairman Chaffetz. So there are no security patches being
+updated? The ----
+Mr. Harris. Not for those, sir, but to be fair, many of the
+systems using those operating systems do not have sensitive
+data. I don't want to suggest that there is student information
+sitting on systems that use Windows 97 but ----
+Chairman Chaffetz. Understood, but ----
+Mr. Harris.--these are OSs.
+Chairman Chaffetz. But you feel for the employee, who is
+their good, patriotic, hardworking ----
+Mr. Harris. Sure.
+Chairman Chaffetz.--employee who is going into work trying
+to negotiate a Windows 97 operating system as opposed to
+something a little bit more up-to-date.
+Listen, this has been very productive. I appreciate all the
+work that not only the three of you individually do but that
+your organizations do. We have got a lot of good people who try
+to do the right thing, they work hard, and I want to carry back
+that, you know, how much we care and appreciate them and what
+they do from the GAO to the inspector general to the Department
+of Education.
+That is the beauty--and I say this often in this committee.
+The beauty of the United States of America is that the Congress
+does ask hard questions. That is what we are supposed to be
+doing. That is what makes us unique in this country is we hold
+people accountable, we ask hard questions, and we have the good
+dialogue back and forth.
+So I appreciate the attitude and approach, Mr. Harris, that
+you have had here, but we do ultimately want to not only be the
+Oversight Committee but the Government Reform Committee. To the
+extent we can help you with these issues, we want to do that.
+Mr. Connolly. And, Mr. Chairman ----
+Chairman Chaffetz. Happy to yield.
+Mr. Connolly.--we do have--thank you, Mr. Chairman. We do
+have a legislative item that sooner or later we are going to
+have to review, and that is this apparent conflict between what
+FITARA is trying to get at, which is to enhance Dr. Harris's
+authority and responsibility, and the older legislation from
+1997 that may have been appropriate when Windows 97 was still
+operating, but we also need to upgrade our own legislative
+mandate because Dr. Harris is handicapped by statute. And we
+may have to address that ----
+Chairman Chaffetz. And that is where I think the E-
+Government Act of 2002 is actually what we should be looking
+at, but I look forward to working with you because ----
+Mr. Connolly. Yes.
+Chairman Chaffetz.--you should have not only the
+responsibility but the authority, and there should be no
+discrepancy there. And we will work with you on that.
+Again, appreciate the participation of all the members. The
+committee stands adjourned.
+[Whereupon, at 11:51 a.m., the committee was adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+[all]

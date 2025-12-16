@@ -1,0 +1,2487 @@
+- BIG DATA: PRIVACY RISKS AND NEEDED REFORM IN THE PUBLIC AND PRIVATE SECTORS
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+BIG DATA: PRIVACY RISKS AND NEEDED REFORM IN THE PUBLIC AND PRIVATE
+SECTORS
+
+=======================================================================
+
+HEARING
+
+before the
+
+COMMITTEE ON HOUSE
+ADMINISTRATION
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED SEVENTEENTH CONGRESS
+
+SECOND SESSION
+
+__________
+
+FEBRUARY 16, 2022
+
+__________
+
+Printed for the use of the Committee on House Administration
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available on the Internet:
+http://www.govinfo.gov/committee/house-administration
+
+______
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+49-431               WASHINGTON : 2022
+
+COMMITTEE ON HOUSE ADMINISTRATION
+
+ZOE LOFGREN, California, Chairperson
+JAMIE RASKIN, Maryland               RODNEY DAVIS, Illinois,
+G. K. BUTTERFIELD, North Carolina      Ranking Member
+PETE AGUILAR, California             BARRY LOUDERMILK, Georgia
+MARY GAY SCANLON, Pennsylvania       BRYAN STEIL, Wisconsin
+TERESA LEGER FERNANDEZ, New Mexico
+
+C O N T E N T S
+
+----------
+
+FEBRUARY 16, 2022
+
+Page
+Big Data: Privacy Risks and Needed Reforms in the Public and
+Private Sectors................................................     1
+
+OPENING STATEMENTS
+
+Hon. Zoe Lofgren, Chairperson....................................     1
+Prepared statement of Chairperson Lofgren......................     4
+Hon. Rodney Davis, Ranking Member................................     6
+Prepared statement of Mr. Davis................................     8
+
+WITNESSES
+
+Hon. Hugh N. Halpern, Director, Government Publishing Office.....    10
+Prepared statement of Hon. Halpern.............................    13
+Shoshana Zuboff, Charles Edward Wilson Professor Emerita, Harvard
+Business School................................................    33
+Prepared statement of Prof. Zuboff.............................    35
+Caitriona Fitzgerald, Deputy Director, Electronic Privacy
+Information Center.............................................    53
+Prepared statement of Ms. Fitzgerald...........................    55
+Marshall Erwin, Chief Security Officer, Mozilla Corporation......    74
+Prepared statement of Mr. Erwin................................    76
+Daniel Castro, Vice President, Information Technology and
+Innovation Foundation..........................................    82
+Prepared statement of Mr. Castro...............................    84
+
+QUESTIONS FOR THE RECORD
+
+Hon. Hugh N. Halpern, Director, Government Publishing Office,
+responses......................................................   110
+Caitriona Fitzgerald, Deputy Director, Electronic Privacy
+Information Center, responses..................................   114
+Marshall Erwin, Chief Security Officer, Mozilla Corporation,
+responses......................................................   119
+Daniel Castro, Vice President, Information Technology and
+Innovation Foundation, responses...............................   121
+
+SUBMISSIONS FOR THE RECORD
+
+February 25, 2022, National Association of Assistant United
+States Attorneys, submission...................................   126
+June 22, 2021, Ranking Member Davis letter to Chairperson
+Lofgren, submission............................................   128
+February 15, 2022, CATO letter to Chairperson Lofgren and Ranking
+Member Davis, submission.......................................   130
+United States District Court for the District of Columbia, United
+States v. Michael A. Sussmann, submission......................   137
+Singman, Brooke, Fox News, Clinton campaign paid to `infiltrate'
+Trump Tower, White House servers to link Trump to Russia,
+Durham finds, submission.......................................   150
+
+BIG DATA: PRIVACY RISKS AND NEEDED REFORMS IN THE PUBLIC AND PRIVATE
+SECTORS
+
+WEDNESDAY, FEBRUARY 16, 2022
+
+House of Representatives,
+Committee on House Administration,
+Washington, DC.
+The Committee met, pursuant to call, at 2:03 p.m., via
+Webex, Hon. Zoe Lofgren [Chairperson of the Committee]
+presiding.
+Present: Representatives Lofgren, Raskin, Aguilar, Scanlon,
+Leger Fernandez, Davis, Loudermilk, and Steil.
+Staff Present: Sean Jones, Legislative Clerk; Jamie Fleet,
+Staff Director; Eddie Flaherty, Chief Clerk; Khalil Abboud,
+Deputy Staff Director; Tim Monahan, Republican Staff Director;
+Caleb Hays, Republican General Counsel and Deputy Staff
+Director; Nick Crocker, Republican Deputy Staff Director;
+Gineen Bresso, Republican Special Counsel.
+The Chairperson. So the Committee on House Administration
+will come to order.
+I note that a quorum is present. As we begin, I would note
+that we are holding this hearing in compliance with the
+regulations for Remote Committee Proceedings pursuant to House
+Resolution 8.
+Generally, we ask Committee Members and witnesses to keep
+their microphones muted when not speaking to limit background
+noise, and all of us will need to unmute ourselves when seeking
+recognition or when recognized to speak. Witnesses will also
+need to unmute themselves when recognized for their testimony
+or when answering a question.
+Members and witnesses, the rules require that we keep our
+cameras on at all times. Even if you need to step away for a
+moment, please do not leave the meeting or turn your camera
+off. I would also like to remind Members that the regulations
+governing remote proceedings require that Members cannot
+participate in more than one committee proceeding at the same
+time.
+At this time, I ask unanimous consent that all Members have
+five legislative days in which to revise and extend their
+remarks and have any written statements be made part of the
+record.
+And, hearing no objections, that is ordered.
+I also ask unanimous consent that the chair be authorized
+to declare a recess of the Committee at any point.
+And, without objection, that is also so ordered.
+We are here today to confront one of the central challenges
+of our digital age. As nearly every facet of our society and
+economy has moved online, ever greater amounts of digital data
+are collected about each of us, spanning everything from who we
+are, to what we like, to who we are--who we communicate with,
+to what we do, often in minute detail.
+While this mass data collection has some productive and
+valuable applications, it comes with profound risks that we are
+only beginning to truly understand, let alone to regulate
+effectively.
+Privacy, as it is conventionally understood, means control
+over one's own personal information and the freedom to decide
+what to share, with whom, and how. We are all familiar with the
+classic privacy harms, whether it is government surveillance,
+identity theft and other economic crimes, or the social and
+economic harm that can befall us when some intimate details of
+our life become public against our will.
+All these risks are still very much at play today with the
+rise of the internet and data-centric business models of many
+online firms. However, in some ways, privacy has become a
+catchall term for a larger and even more profound set of
+potential risks, some of which are truly novel or at least
+fundamentally different in the digital age.
+What does it mean for our basic autonomy as individuals
+when both the government and private companies can amass large
+profiles about each of us and use them to predict and even
+potentially manipulate our behavior? What does it mean for our
+economy when some of the most popular online products and
+services revolve around opaque data collection and
+personalization? And what does it mean for our democracy when
+these data practices shape the public discourse and the flow of
+news and information? And what does it mean that, as
+individuals and internet users, we have little or no meaningful
+ability or visibility into how any of this really works, let
+alone genuine control over it?
+The American public has long been deeply concerned about
+these questions. For example, in 2020, the Pew Research Center
+found that half of Americans had limited specific online
+activities out of privacy fears. The same year, another poll
+found that 88 percent are frustrated that they don't have more
+control over their personal information online.
+I will note that these fears kind of cross many divisions
+in our society: economic, racial, geographic, and partisan. For
+all these reasons, the time for a comprehensive Federal policy
+framework is long overdue. There have been many proposals and
+lots of talk, but little or no action or clear progress.
+I will note that Representatives Anna Eshoo and I have
+introduced the Online Privacy Act in several Congresses,
+including this one. This legislation sets forth the most
+thorough and aggressive set of privacy rights among the major
+proposals with the clearest restrictions on a wide variety of
+abusive and troubling data practices, and the strongest
+mechanisms to enforce the law and make digital privacy rights
+more than just an abstraction.
+The Online Privacy Act also contains a set of privacy
+obligations on Legislative Branch agencies that this Committee
+oversees, requiring the Government Publishing Office, the
+Library of Congress, the Smithsonian, and the Chief
+Administrative Officer of the House to each identify concrete
+privacy risks in their operations and to take appropriate
+remedial steps.
+Many of the risks and policy questions around data cut
+across both public and private sectors. We can take lessons
+from both in determining the best ways to address them. I am
+hopeful that today's hearing will not only advance this
+conversation, but also reinvigorate congressional attention on
+digital privacy toward the ultimate enactment of major reforms.
+With that, I am now pleased to recognize our Ranking
+Member, Congressman Rodney Davis, for any comments that he
+would like to make.
+Welcome, Rodney.
+[The statement of The Chairperson follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Davis. Well, thank you, Madam Chairperson.
+And thanks to our witnesses for joining us for today's
+hearing. It is a hearing on a rare topic for this Committee,
+but no doubt an important one: online data privacy. Yet policy
+discussions on creating nationwide privacy standards and a
+framework for enforcement need to take place in the primary
+committees of jurisdiction: Energy and Commerce and the
+Judiciary. It is clear to me that this discussion should be led
+by those primary committees and jurisdiction, and we should let
+them work out the underlying policy details before we consider
+application to the Legislative Branch.
+304 bills have been referred to this Committee by the
+House, yet we are devoting our time today to this topic. It is
+rare we are even meeting on potential legislation this
+Congress. We have had exactly one other hearing on the policy
+underlying a bill and exactly zero markups.
+Further, this Committee has not held comprehensive standard
+oversight hearings with our entities in nearly three years. For
+us not even to discuss FEC or EAC oversight hearings in an
+election year is shocking to me.
+Eight months ago, I sent a letter to the Chairperson asking
+for this Committee to fulfill its duty and conduct oversight
+hearings with each of our Legislative Branch entities. Eight
+months later, I still have not received a response from the
+Chairperson, and the Committee continues to shirk its duties.
+I look forward to this Committee having more oversight
+hearings soon to address the concerns that fall more directly
+within this Committee's jurisdiction.
+Regarding the topic at issue today, the call for a workable
+national framework, increased transparency, and overall
+accountability in the technology industry, is all but universal
+at this point. Data privacy is at the forefront because it
+affects everyone. We all see the need. As a parent of three
+young adults, I believe this issue deserves not only Congress'
+attention, but it also demands it.
+All anyone has to do is watch the news to see how data
+privacy affects everyone. Last week, filings by Special Counsel
+John Durham alleged that, in 2016, Democratic operatives,
+perhaps including Marc Elias, who multiple members of this
+Committee are familiar with, in his attempts to--in his
+attempts to challenge the legitimacy of elections, sought to
+exploit their access to non-public and/or proprietary internet
+data to create a narrative tying President Trump to Russia, in
+the words of one outlet, to infiltrate Trump Tower and White
+House servers to link Trump to Russia. Talk about an election
+subversion. Unbelievable.
+So, a responsible and workable nationwide solution for data
+privacy that can protect Americans' privacy and also curb bad
+political actors from attempting to subvert our political
+discourse is necessary. I know that our Chairperson has a
+special interest in this topic, and I imagine that her desire
+to raise the profile of her legislation is why we are here
+today. So, let's discuss it.
+I spoke with my good friend, Energy and Commerce Ranking
+Member Cathy McMorris Rodgers, since her committee would be
+primary, and she offered me a lot of good thoughts, things I
+assume she would say if this hearing were before her committee,
+where it belongs first.
+First, we share more personal information online now than
+ever before. As the internet has grown, so has the opportunity
+for our personal information to be used by people or businesses
+that we never intended.
+Second, privacy does not end at State lines. This is a
+nationwide Commerce Clause issue that requires a congressional
+response. Americans cannot rely on conflicting State laws to
+keep their information safe. A patchwork solution is not viable
+for a concern that affects all of us. The only way to provide
+transparency in how Americans' information is collected, used,
+and shared is with a uniform approach.
+We must also ensure that any congressional response is
+forward thinking and comprehensive while still being workable
+for compliance. Solutions that do not account for burdens
+placed on small businesses and innovators, such as the GDPR in
+the EU or the CCPA in California, are doomed to fail.
+Finally, those who misuse personal information must be held
+accountable. There have been proposals that call for the
+creation of a new Federal agency to enforce its provisions. The
+Federal Trade Commission already has jurisdiction over these
+matters, as well as a longstanding relationship with the
+States' AGs. Creating a new agency to do the FTC's job is
+bureaucratic waste at the highest level.
+Americans' call for a comprehensive solution to Big Data
+privacy issues is loud and clear, and they deserve an answer,
+an answer that is built with bipartisan buy-in, transparency,
+and accountability.
+Even though this Committee isn't where we should be hosting
+this portion of this discussion, I am looking forward to
+today's panels, and I yield back.
+[The statement of Mr. Davis follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. The gentleman yields back.
+I just would note for the record that the Committee's
+jurisdiction is generally determined by House Rules
+specifically, House Rule X--and this Committee has been, along
+with other committees, assigned jurisdiction.
+I want to thank the Ranking Member for his comments.
+I would also like to recognize our first witness, who is
+someone who has led the U.S. Government Publishing Office with
+great distinction of late.
+He is the 28th person to lead the GPO since it opened its
+doors in 1861 and has served in this role in 2019. Hugh
+Nathaniel Halpern was selected this month--the GPO was selected
+as one of the best employers in the country, ranking first on
+Forbes' list of midsize agencies in government services.
+I really do think, Hugh, that it is a reflection on your
+leadership as well as your fine staff at the GPO.
+As you know--this is not your first time to be a witness--
+your entire written statement will be made part of the record,
+and we would ask that you summarize your testimony in about
+five minutes.
+So, Mr. Halpern, you are now recognized for five minutes.
+
+STATEMENT OF HUGH HALPERN, DIRECTOR, GOVERNMENT PUBLISHING
+OFFICE, WASHINGTON, D.C.
+
+Mr. Halpern. Thank you so much and thank you for
+acknowledging the achievement of making that Forbes list. I
+will take some credit if it is assigned, but it really belongs
+to the men and women here at GPO. So, thank you so much for
+having me today, both to the Chairperson and to the Ranking
+Member, and all the Members of the Committee.
+I appreciate the opportunity to testify about GPO's
+approach to handling personally identifiable information,
+commonly known as PII. On behalf of GPO's more than 1,500
+craftspeople and professionals, know that we take our
+responsibility seriously to protect PII every day.
+GPO operates as a hybrid. It is a government agency that
+operates as a business, complete with customers, products, and
+profit and loss. Thus, we face many of the same kinds of
+problems facing private-sector firms when it comes to the
+handling of PII.
+GPO is entrusted with PII belonging to our teammates,
+customers, and, by nature of our business, the general public.
+Robust protection of PII is critical to building trust with our
+customers and stakeholders. Without that trust, we can never
+achieve our vision of an America informed.
+GPO operates a Privacy Program overseen by our privacy
+officer in our information technology business unit. This
+program establishes a framework for the protection of PII
+itself, regardless of how it is stored, as well as the
+protection of related information systems.
+The program has several fundamental principles. First,
+access to PII is limited to only those agency teammates and
+contractors with a specific need.
+Second, each business unit has someone who is responsible
+for the privacy function and answers to that business unit's
+leadership.
+Third, any GPO teammate or contractor that suspects a
+breach in PII security is obligated to report the problem as
+soon as possible.
+Fourth, violations will be addressed by appropriate
+corrective action, including termination for our teammates,
+debarment for contractors, and criminal prosecution if
+appropriate.
+While my written testimony goes into more detail as to how
+this program works, today I would like to talk about three
+separate examples of privacy issues at GPO and how we deal with
+them.
+First, GPO and its print procurement contractors produce
+materials that require the use of PII. For instance, GPO's
+Security and Intelligent Documents Unit manufactures and
+personalizes trusted traveler smart cards, such as the global
+entry card used to at border crossings for identification and
+for expedited processing.
+By the very nature of these products, GPO must handle vast
+amounts of highly sensitive PII within our systems. GPO works
+closely with its customers to maintain a series of firewalls
+that ensure that GPO only receives encrypted PII that is only
+decrypted when it is needed to produce and distribute those
+cards. When GPO finishes production of the product, that PII is
+scrubbed from our systems. You can't leak information you don't
+have.
+Second, there are vast amounts of PII included in some of
+our regular publications, such as the Congressional Record and
+Federal Register. The good news, particularly with the Federal
+Register, is that most of that PII is contained in historic
+volumes, and very little is being published currently. Where it
+is, we have both automated and manual systems to redact that
+information from our digital collections when we find it.
+The bigger challenge is with historic information,
+particularly as we work to digitize older collections. For
+instance, at one time, it was common for the Department of
+Defense to include military officers' Social Security numbers
+on promotion lists later printed in the Congressional Record.
+As we digitize volumes that contained that information, we
+scan for it and redact that PII in preparation before posting
+it on Govinfo.gov, our ISO-certified, trusted digital
+repository. And, while we alert our partners when we find PII
+in tangible collections that we don't possess ourselves, we do
+not have the resources to visit every collection across the
+country and manually redact that information.
+The third and final category are instances where the
+information is not quite PII but is information that people
+don't want easily accessible on the internet. This comes up
+most often with our collection of U.S. court opinions on
+Govinfo.gov, and that is the repository's single largest
+collection of data. It is understandable that some parties of
+Federal court cases may not want that information to be easily
+accessible, and they often come to GPO asking us to remove that
+opinion from our collection.
+However, it is important to remember that GPO is only
+making that data accessible, and it is not our data. Our
+Library Services Division refers individuals to petition the
+owner of the data, the Administrative Office of the U.S.
+Courts, to have the opinion sealed and removed from our systems
+if the judge determines that public disclosure is problematic.
+I hope that this overview of our operations was helpful in
+your exploration of this critical issue. I look forward to
+answering any questions you may have and assisting the
+Committee with its inquiry.
+Thank you so much.
+[The statement of Mr. Halpern follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you so much, Director Halpern. It is
+great to hear this testimony.
+Now is the time when Members can ask questions, and we will
+turn first to the Ranking Member, Mr. Davis, for five minutes
+of his questions.
+Mr. Davis. You would think I would know how to work the
+mute button right now, Madam Chairperson. I apologize for the
+delay.
+Hugh, great to see you, man.
+Mr. Halpern. You, too.
+Mr. Davis. I looked. The last time you were called to
+testify before this Committee was on March 30--March 3rd of
+2020----
+Mr. Halpern. Yes.
+Mr. Davis [continuing]. Nearly two full years ago. It is
+nice to finally have you back, but I wish it was to get a
+comprehensive update on GPO's operations and the initiatives
+you have launched and successes you have had as well as the
+agency's health post pandemic.
+Unfortunately, we are here to talk about a much narrower
+topic, but one that GPO clearly excels at, and that is
+protecting the PII, the personally identifiable information you
+spoke about, and its work to print passports, create global
+entry cards, and other sensitive projects.
+In your testimony, you shared the impressive work GPO has
+undertaken to follow the recommendations laid out by the
+National Institute of Standards and Technology and their guide
+to protecting the confidentiality of PII.
+Do you currently believe that you, as the Director of GPO,
+have all the necessary authority to continue a high level of
+excellence in protecting PII?
+Mr. Halpern. Thanks so much for the question.
+The short answer is, at the moment, I think we do. We have
+got the authority we need to work with our customers, to design
+systems that protect the PII that they give us, and in our
+relationship with our own vendors, whether that is a contractor
+that we hire on behalf of the executive branch for work that
+they are doing for the IRS or other government agencies. That--
+we are able to construct systems that protect that level of
+PII.
+Now, one of the things that we must remain vigilant about
+is the PII of our own teammates. And frankly, if there was a
+large body of PII that the agency maintains, that is it. It is
+our payroll information. It is our time and attendance
+information. It is our personnel files.
+We work both with folks here in the building and with our
+vendors over at the Department of Agriculture, who handle our
+payroll and other systems, to make sure that that information
+is protected. We are doing our level best to protect the nearly
+1,600 people who work here at GPO from running into any
+problems, as well as the information of anybody who is working
+with GPO or working with our customers.
+Mr. Davis. Great. How often is GPO's privacy program
+reassessed or updated to remain at this high level of
+effectiveness?
+Mr. Halpern. So, it is constantly undergoing assessment.
+Our--the directive that governs our privacy program is supposed
+to be reviewed, I believe, every three years. We are constantly
+going through our policies, our procedures, and our actual
+practices to make sure that we are doing our level best. And
+that is both on the digital side, where we have an extremely
+competent team on our information technology team, but also
+just with our safety and security team.
+Now, I get an update three, four times a year as our safety
+and security team walks the building to make sure that things
+are shipshape. I can tell you they have flagged folks who have
+inadvertently left PII sitting on their desk, not having it
+stored properly. So, it is a good reminder to all of us that we
+need to be proactive in protecting this information, whether it
+is digitally or tangibly here in the real world.
+Mr. Davis. I couldn't agree more.
+One last question. What has GPO learned from the OPM breach
+that happened several years ago?
+Mr. Halpern. I think it is very similar to the lessons that
+a lot of government agencies are learning. We have got to
+secure our systems, and we spend a lot of resources. We have a
+dedicated appropriation for that purpose. And it requires a lot
+of vigilance on our part.
+And, you know, knock on wood, thank God, certainly during
+my tenure here, we have not had anything that even indicated
+that folks were close to a breach of those kinds of systems,
+and it is something we dedicate a lot of resources to every
+single day.
+And, you know, the one thing that the OPM breach, I think,
+taught all of us is you can't rest on your laurels. Security
+needs to be everybody's job every single day.
+Mr. Davis. Well, thanks, Hugh.
+Thank you, Madam Chairperson. I yield back.
+The Chairperson. Thank you.
+I now recognize Mr. Raskin for his questions for five
+minutes.
+Mr. Raskin. Thank you, Madam Chairperson, and thanks for
+calling this important hearing.
+Ms. Fitzgerald, discrete bits of personal information can
+seem relatively harmless or trivial, but, when they are all
+combined together with other data, they can have a far more
+sweeping impact and create special dangers.
+What lessons does this point contain for privacy
+regulation? What are the biggest risks that Congress should be
+considering in terms of the large-scale aggregation of data?
+The Chairperson. I would note that Ms. Fitzgerald is on our
+second panel, so----
+Mr. Raskin. Oh, I am sorry. I thought I saw her there.
+Forgive me. Then I will come, then, to Mr. Halpern.
+So, what are the greatest privacy risks that GPO faces in
+its operations? What are the specific harms in this area that
+you are most focused on right now?
+Mr. Halpern. Well, as I was saying, I think the largest
+single trove that we maintain over a long--over a longer period
+is our employees' own data. And that is something that we are
+focused very, very closely on protecting.
+Most of the other places where we have PII and we need to
+focus on that, we have developed systems to make sure that we
+are holding onto that PII for the minimum amount of time
+possible.
+So, for instance, in the example I used with the global
+entry card, we literally have a contractor sitting on the other
+side of the wall from our smart card manufacturing facility who
+will send the encrypted data that we will need to produce those
+cards into the smart card room, we will utilize that
+information to produce those cards, and then scrub that from
+our systems, send it back to the customer once we are done with
+it, so that we are not holding on to any more data than we
+need.
+Our biggest problem in terms of other folks' data is
+historical data. And, as we fulfill, I think, the greater
+public good of working backwards and trying to digitize old
+records, we are going to find more PII because, frankly, twenty
+or thirty years ago, folks were a lot less conscious about what
+they were putting in a congressional hearing or the
+Congressional Record or the Federal Register. Because those
+were all tangible documents, it was a lot harder for somebody
+to get that information and then to do something with it,
+because the internet just wasn't developed as it is now.
+We have got a program in place to scan for PII in those
+older documents. And, as we digitize them, we are working to
+redact that from our digital collections.
+Mr. Raskin. Thank you for that. I know that GPO routinely
+publishes documents and information that originate elsewhere in
+the Federal Government, so you are not the original custodian
+and source of all the information you publish. And so how does
+this affect your privacy policies and practices?
+Mr. Halpern. We are often the middle person in this
+transaction. The good example is the one I gave in my testimony
+about U.S. courts--court opinions. As you can well imagine,
+there are a lot of opinions that folks may not be happy are out
+there in the world or easily searchable. And, while as a
+general matter, that serves a greater public good, there is
+that problem with, you know, maybe having an opinion where
+there is information in there that somebody is uncomfortable
+with having out in the public.
+So, what we have done is we have a number of different
+places. If you go to gpo.gov/privacy, it talks about our entire
+privacy program, including who you need to talk to over at the
+Administrative Office of the U.S. Courts to deal with a court
+document that may have issues.
+Similarly, just a few years ago, we revamped our Ask GPO
+system, which is now powered by a modern contact management
+system. And there, we have also got links so that, if folks
+find an opinion or something like that that raises an issue,
+they can ask about it, we can root that to the proper person
+and make sure they get the information to talk to the
+Administrative Office of the U.S. Courts to get that particular
+record sealed if that is appropriate.
+In terms of----
+Mr. Raskin. Thank you so much.
+I yield back, Madam Chairperson.
+Mr. Halpern. Thanks.
+The Chairperson. Thanks so much, and I will recognize the
+gentleman from Georgia now for his questions for five minutes,
+Mr. Loudermilk.
+Mr. Loudermilk. Well, thank you, Madam Chairperson.
+And, Hugh, it is good to see you again.
+Mr. Halpern. Likewise.
+Mr. Loudermilk. I appreciate all the work that you are
+doing over at GPO. And you said something a few minutes ago
+that was music to my ears, and I have been saying this ever
+since I have been in Congress. It is a lesson I learned working
+in intelligence on the IT side when I was in the Air Force. One
+of the primary principles that was just engraved into our every
+policy we have is you don't have to secure what you don't have.
+If you don't need it, then discard it.
+We had procedures built around that to analyze data,
+whether we needed it or not. You had to justify keeping it. And
+then it was destroyed.
+The problem we have--I have been saying this ever since I
+have been in Congress, and especially on Financial Services
+Committee, as we are dealing with these same issues--is there
+is many in Congress and in the Federal Government that aren't
+applying that principle, and so much legislation is being
+passed that is getting the Federal Government to grab more data
+or forcing businesses to acquire more data of individuals, and
+somebody is keeping that and storing it as data that does not
+need to be kept.
+I appreciate hearing you say that because there is very few
+government officials or, quite frankly, people in Congress that
+you ever hear say that: If you don't need it then don't keep
+it.
+So, has GPO experienced any data breaches or identified
+attempted attacks in recent years?
+Mr. Halpern. So yes, on the attack side. No on the breach
+side. The good news is my IT security folks were doing their
+job, and to the best of our knowledge, we have not had a
+breach, certainly during my tenure or even in the years leading
+up to it.
+Shortly after I became the Director of GPO--I still
+remember it--I was at an event on Saturday night at my
+synagogue when I suddenly learned that somebody that we believe
+affiliated with the Iranians had defaced the front of one of
+our sites. The good news is that is all the farther they got.
+We were able to restore that site. We are in the process--we
+are in the process of moving that over to a more secure
+infrastructure.
+And, the good news is that my team has a really good
+process in place to make sure that our systems are secure. As
+updates come out, they are tested thoroughly before we do those
+upgrades. So we don't necessarily have--we don't necessarily
+have the exposures you might have from unknown vulnerabilities.
+So we really work hard to try and get that right.
+Mr. Loudermilk. Well, it sounds like you are doing a good
+job at that, because, if you would have answered my question
+then, ``Well, we haven't had any data breaches and no attempted
+attacks,'' I would have said, ``Then you are not doing your
+job,'' because I guarantee you, you are being attacked. And, if
+you don't know it, then there is something wrong.
+Also, the updates, they are crucial. That is what caused
+the Equifax data breach, was simply a failure in the IT
+department to not do a firmware update that was needed to be
+done.
+So, I am comfortable with the answers you have given. And
+that is why we haven't seen any data breaches. In the thirty
+years I spent in IT and data security, I could tell you the
+question isn't if you are going to be hacked; it is when. It is
+going to happen at some point, and it is a race to stay just
+ahead of the bad guy.
+I use the analogy of when I used to hunt in Alaska, and we
+would go bear hunting. Somebody inevitably would put on a pair
+of tennis shoes and say: What that is for? So, well, if we see
+a grizzly, I want to have my tennis shoes on.
+They say: Well, you can't outrun a grizzly.
+They would say: No, I just have to outrun you.
+All right? So, it is the same thing, is you have got to
+stay ahead of the bad guy and stay one step above someone else
+because, if they can't get into you, they will go on to
+somebody else.
+So, it sounds like I have already heard the answer to this
+question, but do you have all the tools you need to keep
+carrying out this level of privacy and security, or is there
+additional things that we can do in Congress to help?
+Mr. Halpern. At the moment, I think we are in pretty good
+shape. The things are--we have the flexibility. We have the
+tools that we need. Obviously, it is always a question of
+resources, but, as we start automating processes here at GPO,
+we are really focused on figuring out how we make our dollars
+go farther. And that has really been one of the hallmarks of
+GPO all through history.
+So, we are putting that emphasis on security and trying to
+do it with tools we have got. And, where we don't have tools,
+we make the investments we need. That is--you know, to some
+extent, that is one of our advantages. Only about twelve
+percent of our total revenue comes from appropriations. The
+rest is what we charge our customers.
+So, the State Department expects us to keep their passports
+fully secure, and we spend a lot of money doing that. But the
+State Department reimburses us for those investments. And the
+same with our other customers. We are pretty comfortable with
+where we are, but we are always happy to talk about things and
+figure out how we can do better.
+Mr. Loudermilk. Well, this is an ever-changing environment,
+and it is a job that is never done, because once you think that
+you are secure and you are not staying on top of it, the bad
+guys are going to beat us. Thank you for all you are doing.
+Madam Chairperson, I yield back.
+The Chairperson. The gentleman yields back.
+Mr. Aguilar is recognized for five minutes.
+Mr. Aguilar. Thank you, Madam Chairperson.
+And thanks, Director Halpern, for the update and the
+information. A lot to review here, and I appreciate your
+commitment to safeguarding that PII.
+What I was kind of interested in is--and you talked about
+some of the digital versus the historical documents that you
+are in charge to protect. Your testimony kind of speaks to that
+and said that 97 percent of the Federal documents now are born
+digital.
+So, what distinctions does GPO make between the digital
+versus paper documents in terms of privacy risks and how they
+can be addressed by your team and by the contractors, and how
+has that transition been to the Digital Age and the privacy
+risks that are associated with that on your operational side?
+Mr. Halpern. Thanks so much, sir, for that.
+The short answer is that, for new documents that we
+produce, we have an airtight system for trying to scan those
+documents as we are producing them, looking for PII. As I
+mentioned, with the Federal Register, they are under the OPM
+policies regarding PII, so there is not a lot that is coming
+in.
+We do need to check the Congressional Record, and we work
+very hard to redact any PII that might appear there. But I
+think even Congress is being more circumspect about that stuff
+going forward.
+Our biggest problem is stuff that exists in the tangible
+form, so a printed paper that was printed historically twenty
+or thirty years ago, or even a lot longer. And what we are
+running into are two issues there. One is, as we are trying to
+digitize that information. We are taking committee hearings
+from the 1970s or the 1980s and trying to digitize those and
+put them on Govinfo.gov.
+There, both our contractor and our library team are looking
+at those documents. Where they see and where they catch PII, we
+are redacting that from the digital copies that go online.
+When it comes to those paper documents, we simply don't
+have the capacity to literally travel the world to find every
+copy of the Congressional Record from the late 1800s forward,
+check those volumes for PII, and redact them. So we are, in
+some respects, reliant on our partners, the Federal depository
+libraries and our other libraries across the world, where a lot
+of this information goes.
+But, that said, as I mentioned before, I think, because
+that information is comparatively hard to access--you need to
+go to a physical place, and you need to open a physical volume
+to find that--because it is harder to access, that is a little
+bit lower of a threat than what is going out in the digital
+domain.
+It is not a zero threat, but--and, where we find PII, we
+try to try and redact it. We just don't have the resources in
+terms of people, money, and all those kinds of things to do a
+full scrub for every place where one of these paper documents
+might exist in the world.
+Mr. Aguilar. Understood. And how do you kind of keep--what
+is the digital, you know, kind of hygiene? How do you stay
+ahead of the evolving threats and the digital privacy landscape
+piece of it? Is it through the OPM guidance? Is it through, you
+know, contractors, or how do you kind of stay ahead of the
+risks that are in front of you?
+Mr. Halpern. So, one of the great things about being a
+legislative branch agency is we can take the best practices all
+across the government. We are not necessarily confined by what
+OPM provides.
+I know that our IT security team both works with the other
+CISOs here in the Legislative Branch as well as broader across
+the government. As we do work for our other Federal customers,
+we are obviously talking to them, figuring out what their
+requirements are, and how we can meet those. So, there is a lot
+of variety of avenues for us to be exposed to the sort of
+changing landscape and what folks' requirements are, and we are
+always going to make sure that our systems are designed in such
+a way as to protect the security of those documents.
+Whether it is producing smart cards, whether it is the U.S.
+passport, one of the reasons that they come to GPO is because
+we can produce those documents securely in government
+facilities with the highest quality you are going to find any
+place in the world and do it at a reasonable price and in a
+reasonable timeframe.
+So----
+Mr. Aguilar. Thanks.
+Mr. Halpern [continuing]. We think we have got some
+advantages there.
+Mr. Aguilar. Thank you so much. Appreciate it.
+I yield back, Madam Chairperson.
+The Chairperson. Thank you. Mr. Steil is now recognized for
+five minutes.
+Mr. Steil. Thank you very much, Madam Chairperson.
+Mr. Halpern, appreciate you being here today.
+Long day on Zoom staring at screens for all of us, and I
+think we are all looking forward to getting back in person
+before too long. But I appreciate you being here, and I think
+maybe in a future Committee hearing, we will get an opportunity
+to talk to some of your Legislative Branch colleagues, what is
+just a critical issue.
+I can't tell you how often I hear from folks across
+Wisconsin about the importance of data privacy. They are
+thinking about it. They are thinking about being hacked. There
+is really a timely Politico article that came out just a little
+bit ago talking about our reporters being hacked through apps.
+It is nonstop that this is something that we are talking about,
+and I think important that we are talking about it here.
+The proposed piece of legislation that would mandate GPO
+action in the data privacy space, the Online Privacy Act of
+2021 that we are talking about, were you consulted in the
+drafting of the legislation, specifically Section 5?
+Mr. Halpern. We were not consulted on the front end,
+although we did have subsequent discussions with the Committee.
+From our reading, it is a flexible standard in the proposed
+legislation, and it is something that we think we can meet with
+the program that we are running today, and it will give us an
+opportunity to take a look at and make sure that there is--if
+there are any places where we need to tighten things up, we
+definitely can do that.
+Mr. Steil. Understood. Appreciate your commentary on that.
+That is helpful.
+Under national data privacy laws, there is really--it is
+really kind of a balance in ways to minimize compliance costs
+for small businesses while still providing appropriate levels
+of protection to individuals. Can you kind of comment on how
+you try to strike that balance?
+Mr. Halpern. So, for most of our interactions with small
+businesses, that is through our print procurement program. And
+the requirements there are largely driven by our customers.
+Now, that said, there are any number of small and medium
+size businesses that can participate in our print production or
+print procurement program. To give you an idea, I was just up
+in Pennsylvania--I think it was a few months ago--and we
+visited with one of our contractors that does a lot of work
+with GPO. And we use that contractor specifically because they
+have a great system for keeping track of information and
+keeping track of documents with sensitive information in it and
+give us a great paper trail. They do a fantastic job of
+handling those types of jobs for us and doing it in a way where
+we are confident that that information is safe and secure.
+I think there are some other companies across the country
+that can do that work for us. There aren't a ton, to be a
+hundred percent honest with you. And, when we have run into
+problems where, say, one contractor has experienced labor
+shortages, which isn't something that is uncommon these days,
+there aren't a lot of other places to go. But some of the small
+and medium size businesses that we work with have gotten really
+good at having internal systems that can protect that
+information. And, frankly, sometimes they do a better job of it
+than some of our larger contractors.
+Mr. Steil. Great. I appreciate that feedback, Mr. Halpern.
+Madam Chairperson, I will yield back.
+The Chairperson. The gentleman yields back.
+Ms. Scanlon is recognized for five minutes.
+Ms. Scanlon. Thank you, Madam Chairperson.
+Mr. Halpern, what remedial measures do the GPO have in
+place if one of its publications contains nonpublic personal
+information about a private individual, especially if it is
+sensitive or otherwise potentially harmful in nature?
+Mr. Halpern. Absolutely. As I mentioned, we have both
+automated and manual systems to redact information that is
+found in our digital collection.
+So, for instance, let's just say for the sake of argument
+something slipped through tonight's edition of the
+Congressional Record. There was something that had some PII in
+it and all our checks failed. The good news is, when that is
+brought to our attention, our team can go in, change the record
+in Govinfo.gov, our trusted digital repository, and redact that
+information out of the digital record.
+We can't really fix the printed copies, but the volume of
+those copies for something, say, like the Congressional Record
+is much smaller than it was even a decade and a half ago.
+So, to give you an idea, in the 1990s, the daily
+circulation of the Congressional Record was north of 20,000
+copies a day. Today, we are only producing about 1,500 copies a
+day. So, it is a much smaller universe in the printed world,
+and we have tools in place to fix any problems that might occur
+on the back end through our digital systems.
+Ms. Scanlon. I mean, when you were talking about the court
+systems, that kind of caught my attention, because that is
+where I spent my pre-congressional career, and certainly judges
+will talk about a lot of facts as they are ruling on a case.
+So, you know, would an affected individual have the right or
+the ability to get personally identifiable information deleted,
+redacted, or otherwise remediated?
+Mr. Halpern. So, the way that works right now, it is not
+our process; it is the court's process. So, they can petition
+the Administrative Office of the U.S. Courts, and it is up to
+the judge to decide whether or not to seal those particular
+records or parts of a record.
+And, depending on that decision, we will either pull the
+record out of Govinfo.gov, or put in a redacted version
+depending on what the constraints are of the judge's order.
+As I mentioned in my testimony, this is sort of that gray
+area. It doesn't necessarily fall into the category of the
+standard PII, people's Social Security numbers, their other key
+identifiers. But it may describe facts that somebody is
+uncomfortable with. And, in those kinds of cases, we are not
+going to be the best folks to make a decision as to whether
+that needs to stay in the public domain or it needs to be
+removed. The judge who was involved in that case or another
+judge really needs to be the person who makes that decision.
+And, depending on what that decision is, we will act
+accordingly.
+Ms. Scanlon. Well, if it was something within your domain,
+is there currently a right of an individual to be able to get
+personally identifiable information redacted? If, for example,
+a Social Security number or a--I don't know--a credit card
+number or something somehow had slipped through, is there a
+right to have it removed?
+Mr. Halpern. I can get back to you on what the statutory
+background is on that. I can tell you, for GPO's policies and
+directives, if we come across that information and can redact
+it from our--primarily from our digital collection, we are
+going to do so. And, if somebody brings that to our attention,
+it may not be the person whose information that is. It could be
+a third party.
+But, if we become aware of that and we--you know, we agree
+that that is PII, we will make the effort to redact that from
+the digital side.
+Ms. Scanlon. Okay. Thank you.
+Madam Chairperson, I yield back.
+The Chairperson. Thank you.
+I now recognize the gentlelady from New Mexico for five
+minutes.
+Ms. Leger Fernandez. Thank you so very much, Chairperson
+Lofgren. And thank you for holding this hearing, because I can
+tell you that this issue comes up a lot as I talk to my
+constituents. They are concerned, and we are concerned with
+regards to the manner in which our data is protected.
+Director Halpern, I truly appreciated your comments about
+how protection of our personal data held by the government is
+linked to people's trust in our government, and I think you
+would agree that this link will only grow stronger as more of
+our lives move into the digital space.
+I also appreciated your comments about how GPO and other
+Federal agencies are discussing best practices with each other.
+Do you believe that--can you elaborate a bit more on what we
+are doing here at the Legislative Branch that we might
+strengthen based on the information you are hearing and sharing
+with the other Federal agencies so that we can make sure that
+we have those protections against the cyber-attacks, as well as
+protecting individuals' personal information as you described
+it?
+Mr. Halpern. Sure. I will do my best.
+Then--it happens on a number of different axes is probably
+the best way to think of it. As I mentioned before, our
+computer information security folks have a lot of back and
+forth, and there is a lot of discussion about what are those
+best practices, how do we secure our systems?
+And, frankly, particularly with GPO and the Congress, there
+is a lot of interchange that occurs on a daily basis. You are
+sending us information. We are sending it back to you. And we
+are working with the Library to make things available via
+Congress.gov.
+So, there is a lot of discussion about those particular
+flows, and, frankly, what our CISOs are experiencing day to
+day: Where are these attacks coming from? How do you secure
+against them? And what are the appropriate countermeasures?
+The other area that we are working on is our obligation as
+an employer. So, I just got the update this morning. Right now,
+we are at 1,547 people working directly for GPO, plus, you
+know, a few hundred contractors. We have an obligation to
+secure that information--payroll information, health
+information, all sorts of things.
+The Chief Administrative Officer of the House has a similar
+obligation. So our officials are talking all the time about how
+we--how we maintain our systems both from the cyber standpoint
+and from the more mundane operational standpoint.
+And as I mentioned before, my safety and security team
+literally walk our building. We have a million square feet
+under roof, and we walk every inch of that building. And one of
+the things that they look for is, is there PII not being stored
+properly?
+That is a little bit harder to do in the congressional
+space. You know, I spent thirty years working in the House, so
+it is a little bit different there. But, some of those same
+practices, whether it is the Chief Administrative Officer or
+the Secretary of the Senate or House Sergeant at Arms, all of
+us are talking all the time to try and figure out what is the
+best way forward? And there is a lot of information sharing
+that goes on.
+Ms. Leger Fernandez. Thank you so much. And I take it that
+you have no control over, you know, the fact that--and I think
+we will hear testimony that every search is saved and mined,
+right? So, as individuals might be searching within the
+Congressional Record for information, that--tell me, do we--do
+you have any way of protecting any of those searches, or is
+that something that is left to the individual with regards to
+his or her computer use and privacy settings?
+Mr. Halpern. So, it is a great question, and I will get you
+a more detailed answer as to the information we retain and
+don't retain.
+The short answer is, is we try to retain the minimum amount
+of information we possibly can about searches in Govinfo.gov or
+any of our other systems.
+So, for instance, in the case of Govinfo.gov, we use the
+smallest, most mundane kinds of cookies we possibly can. We
+don't track people across the internet. And, frankly, unlike
+Congress.gov, we don't have logins, we don't persistently save
+those searches for folks.
+That said----
+Ms.  Leger Fernandez. I see my time has expired. I do thank
+you and your organization for respecting, as is proper, the
+privacy of the users in the documents and in the searches.
+I yield back, Madam Chairperson.
+The  Chairperson. Thank you.
+Just a couple of further questions.
+First, Director Halpern, I just want to commend you and
+your staff for your proactive work protecting privacy. It is
+admirable. And in your statement, you said you can't, if you
+don't save the material, it can't be abused.
+And that is the principle of the Online Privacy Act, to
+really prevent the unnecessary retention of information,
+because if you don't have it, you can't data mine it, you can't
+abuse it.
+And that is what you are doing in your agency and something
+that I think we want to look at. Because if you are using a
+search engine to search something in the Congressional Record,
+the search engine retains it, even though you don't.
+And so, government--you are doing the right thing, but
+people's searches or inquiries can still be abused and
+manipulated.
+Just two quick questions.
+First, really you are doing everything with NIST and OMB
+guidance and your directives. You are doing that because you
+want to do the right thing. But it is not--your policies are
+not required by law at this time, are they?
+Mr.  Halpern. No. The short answer is, it is one of the
+blessings and curses of being in the Legislative Branch.
+I actually, am a big Article I guy, so I like the
+flexibility that this gives us to survey the landscape and pick
+the policies that meet our values.
+Our values are we are going to protect our customer. We are
+going to be transparent with folks. And we are going to do
+everything we do, whether it is with our folks here in the
+building or our customers, in a respectful way. And part of
+being respectful is protecting that data.
+The good news is, while there may not be pure statutory
+requirements that say you have to do this, one, we believe that
+our oversight committees expect us to do this, and it is the
+right thing to expect. And two, our customers expect us to do
+it.
+And both of those are driving imperatives for us here at
+GPO, and it helps us get into the position where it is easier
+for us to do the right thing that we were planning to do
+anyway.
+The  Chairperson. All right.
+Just one final question. In your written testimony, you
+mention that GPO distinguishes between high impact and low
+impact personally identifiable information. I am interested in
+how or whether you reevaluate the level of risk for different
+types of PII that may change over time.
+And as you classify that, do you consider the potential
+impact when information is aggregated by third parties in
+combination with other personally identifiable information, for
+example, using machine learning or other data processing
+techniques that are outside of your agency?
+Mr.  Halpern.  We are always trying to learn. And there are
+a lot of very clever folks across the country who are coming up
+with new ways to use that sort of ubiquitous data that is out
+there. But we do draw a distinction between certain kinds of
+PIIs.
+So, for instance, those unique identifiers, your Social
+Security number, the card numbers, or passport numbers that the
+Department of State or Department of Homeland Security use,
+those are key pieces of information that have the potential to
+unlock so much else, including biometrics and a whole slew of
+other things. We are going to work much harder to protect that
+information.
+Lower impact data are things like addresses, photos, names,
+and that stuff is really kind of ubiquitous. So, for instance,
+when you do a special order and you are congratulating the
+coach of your high school football team, you are going to call
+that person by that name, and that is PII. But we are not going
+to redact that from the Congressional Record, because that,
+one, isn't a huge security risk, and two, if we did, it totally
+eviscerates the point of that special order.
+The  Chairperson. Exactly.
+I want to thank you, Director Halpern, for your great
+testimony today. And as you know from your years here on the
+Hill, we do keep the record open if we have additional
+questions. So, if that occurs, we will send them right on to
+you and I know you will get back to us.
+I just want to thank you for being here with us today. It
+has been very informative. And please let your team know how
+much we think of them and how proud we are of them.
+Mr. Halpern. Thank you very much, ma'am. I really
+appreciate it.
+The Chairperson. Thank you.
+We will now go to our second panel of witnesses and let me
+briefly introduce them.
+First, we have Shoshana Zuboff, who is the Charles Edward
+Wilson Professor Emerita at Harvard Business School.
+Professor Zuboff is an internationally recognized expert
+and the author of several major works on digital privacy
+issues, such as ``In the Age of the Smart Machine: The Future
+of Work and Power'' and ``The Support Economy: Why Corporations
+Are Failing Individuals and the Next Episode of Capitalism.''
+Her most recent book, ``The Age of Surveillance Capitalism:
+The Fight for a Human Future at the New Frontier of Power,''
+investigates the new surveillance economy, which is driven by
+consumer data.
+Our next witness is Caitriona Fitzgerald, who is the Deputy
+Director at the Electronic Privacy Information Center, or EPIC.
+She leads EPIC's policy work, working to advance strong
+privacy, open government, and algorithmic fairness and
+accountability laws. She recently authored, ``Grading on a
+Curve: Privacy Legislation in the 116th Congress,'' which sets
+out the key elements of modern privacy law, including the
+creation of a U.S. data protection agency.
+The next witness is Marshall Erwin, who is the Chief
+Security Officer of Mozilla, where he focuses on data security,
+privacy, and surveillance.
+He has previously worked as a counterterrorism and
+cybersecurity analyst and has served as the counterterrorism
+and intelligence adviser to Senator Susan Collins on the Senate
+Homeland Security and Government Affairs Committee and was the
+intelligence specialist at the Congressional Research Service.
+And finally, we have Daniel Castro, Vice President of the
+Information Technology and Innovation Foundation, or ITIF, and
+the Director of the Center for Data Innovation, an ITIF-
+affiliated research institute focusing on the intersection of
+data technology and public policy.
+I will remind the witnesses that your entire written
+statements--which, by the way, are excellent--will be included
+and made part of our permanent record, and that that record
+will remain open for at least five days for additional material
+to be submitted.
+We ask that you summarize your testimony in five minutes so
+that the Members of the Committee will have time to pose
+questions to you.
+So, first, Professor Zuboff, we would love to hear from you
+for five minutes.
+
+STATEMENTS OF MS. SHOSHANA ZUBOFF, CHARLES EDWARD WILSON
+PROFESSOR EMERITA, HARVARD BUSINESS SCHOOL; MS. CAITRIONA
+FITZGERALD, DEPUTY DIRECTOR, ELECTRONIC PRIVACY INFORMATION
+CENTER; MR. MARSHALL ERWIN, CHIEF SECURITY OFFICER, MOZILLA
+CORPORATION; AND MR. DANIEL CASTRO, VICE PRESIDENT, INFORMATION
+TECHNOLOGY AND INNOVATION FOUNDATION
+
+STATEMENT OF SHOSHANA ZUBOFF
+
+Ms. Zuboff. Chairperson Lofgren, Ranking Member Davis, and
+Members of the Committee, thank you so much for this
+opportunity to discuss the challenges of privacy, privacy law,
+in a world without privacy.
+I have spent the last 43 years of my life studying the rise
+of the digital as an economic force that is driving our
+transformation into an information civilization. Over these
+last two decades, I have observed as the fledgling internet
+companies morphed into a sweeping surveillance-based economic
+order founded on the premise that privacy must fall, empowered
+by economic operations that I have called surveillance
+capitalism.
+Surveillance capitalism maintains core elements of
+traditional capitalism--private property, commodification,
+market exchange, growth, and profit--but these cannot be
+realized without the technologies and social relations of
+surveillance.
+Hidden methods of observation secretly extract human
+experience, until recently considered private, and translate it
+into behavioral data. These methods operate outside of human
+awareness, engineered to do so, robbing actors of the right to
+know and with it the right to combat.
+Ill-gotten human data are then immediately claimed as
+corporate property, private property, available for
+aggregation, computation, prediction, targeting, modification,
+and sales.
+The theory of surveillance capitalism challenges this
+property claim and redefines it as theft. Surveillance
+capitalism was invented at Google during the financial
+emergency of the dot-com bust. It migrated to Facebook, became
+the default model of the tech sector, and is now reordering
+diverse industries, from insurance, retail, banking, and
+finance, to agriculture, automobiles, education, healthcare,
+and much, much more.
+As one tech executive recently described it to me, all
+software design assumes that all data should be collected, and
+most of this occurs without the user's knowledge.
+All roads to economic and social participation now lead
+through surveillance capitalism's institutional terrain, a
+condition that has only intensified during these two years of
+global plague.
+The abdication of these spaces to surveillance capitalism
+has become the meta crisis of every republic because it
+obstructs solution to all the other crises for which we require
+information integrity and the sanctity of communications.
+The world's liberal democracies now confront a tragedy of
+the ``un-commons'' as mission critical information in
+communication spaces, that most people have assumed to be
+public, are now owned, operated, and mediated by private
+commercial interests for profit maximization, while almost
+entirely unconstrained by public law. No democracy can survive
+these conditions.
+The deficit I describe here reflects a larger pattern. The
+United States and the world's liberal democracies have thus far
+failed to construct a coherent political vision of a digital
+century that advances democratic values, principles, and
+government, while the Chinese, for example, in contrast, have
+focused on designing and deploying digital technologies in ways
+that advance their system of authoritarian rule.
+This failure left a void where democracy should be, leaving
+our citizens now to march naked into the third decade of
+surveillance capitalism without the rights, laws, and
+institutions necessary for a democratic digital future.
+Instead, we have stumbled into an accidental dystopia, a
+future that we did not and would not choose. In my view, we
+must not and cannot allow this to be our legacy.
+Survey evidence, some of which has already been referred to
+here, now shows that Americans are moving ahead of their
+lawmakers in a massive rupture of faith with these companies.
+We see extraordinary majorities calling for action to curb
+the unaccountable social power of these firms, a realization
+that the emperor of surveillance capitalism not only has no
+clothes, but is dangerous, and a clear sense that human rights,
+the durability of society, and democracy itself are on the
+line. What was undiscussable has become discussable. What was
+settled is now being questioned.
+To end, we are still in the very early days of our
+information civilization. This third decade is a crucial
+opportunity to build the foundations for a democratic digital
+century. Democracy may be under siege, but it is, however
+paradoxically, the kind of siege that only democracy can end.
+Thank you so much for your attention.
+[The statement of Ms. Zuboff follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much, Professor.
+Let me call now on Ms. Fitzgerald for her testimony for
+five minutes.
+
+STATEMENT OF CAITRIONA FITZGERALD
+
+Ms. Fitzgerald. Thank you, Chairperson Lofgren, Ranking
+Member Davis, and Members of the Committee. Thank you for
+holding this important hearing and the opportunity to testify
+today.
+I am Caitriona Fitzgerald, Deputy Director at the
+Electronic Privacy Information Center, or EPIC.
+EPIC is an independent, nonprofit research organization in
+Washington, D.C., established in 1994 to protect privacy,
+freedom of expression, and democratic values in the Information
+Age. For over 25 years, EPIC has been a leading advocate for
+privacy in both the public and private sectors.
+The United States faces a data privacy crisis. Large and
+powerful technology companies invade our private lives, spy on
+our families, and gather the most intimate details about us for
+profit. These companies have more economic and political power
+than many countries and States.
+Through a vast, opaque system of databases and algorithms
+we are profiled and sorted into winners and losers based on
+data about our health, finances, location, race, and other
+personal information.
+Private companies are not the only problem. Government
+agencies have also dramatically increased the collection and
+use of personal data, often purchased, or obtained from those
+same private companies, while failing to address the
+significant risks to privacy and cybersecurity.
+The impact of this uncontrolled data collection and use by
+both private companies and the government is especially harmful
+for marginalized communities, fostering systemic inequities.
+These industries and systems have gone unregulated for more
+than two decades, and this is where it has left us. The system
+is broken. Technology companies have too much power and
+individuals have too little.
+To restore the balance, we need comprehensive baseline
+privacy protections for every person in the United States,
+changes to the business models that have led to today's
+commercial surveillance systems, and limits on government
+access to personal data. Most crucially, we need strong
+enforcement of privacy protections.
+In my written statement I go into detail about the crisis
+we face and the elements of a strong privacy law, but I want to
+focus here on the importance of enforcement.
+Without strong enforcement, many businesses will simply
+ignore privacy laws and accept the small risk of an enforcement
+action as a cost of business, as we have seen with privacy laws
+enacted in Europe and in several States.
+Strong enforcement must include a private right of action.
+This is not new. Congress included private rights of action in
+the Cable Communications Privacy Act, the Video Privacy
+Protection Act, FCRA, TCPA, and the Driver's Privacy Protection
+Act. The statutory damages set in those privacy laws are not
+large in individual cases, but they really provide powerful
+incentives for companies to comply with privacy laws.
+Strong enforcement also requires Congress to establish an
+independent data protection agency, or a DPA. The United States
+is one of the few democracies in the world that does not have a
+data protection agency. U.S. companies are leaders in
+technology, and the U.S. Government should be a leader in
+technology policy.
+When you think about the omnipresence of technology in our
+lives and our economy, it seems obvious that we should have
+Federal agencies dedicated to overseeing and regulating it.
+A data protection agency could promote innovation and
+competition while protecting privacy by setting rules that help
+level the playing field for smaller technology companies who
+currently struggle to compete with tech giants.
+A DPA could also be a central authority within the Federal
+Government on privacy issues. We saw a glaring example of
+agency failure to properly consider privacy risks of data
+collection just this month. The IRS sparked outrage after a
+report surfaced that it had contracted with third-party vendor
+ID.me to require taxpayers to submit to facial recognition to
+access tax records online.
+Thankfully, following pressure from advocates and Members
+of Congress, the IRS backtracked, but this contract should have
+never been signed in the first place. A DPA could ensure that
+privacy is carefully considered when agencies are weighing
+contracts like this.
+There is broad support for this idea. A recent Data for
+Progress poll showed that 78 percent of Americans across the
+political spectrum support establishing a data protection
+agency.
+The good news is that Congress, and indeed this Committee,
+has a strong bill before it that would restore privacy online
+for Americans.
+The Online Privacy Act, filed by Chairperson Lofgren and
+Representative Eshoo, is a comprehensive framework that would
+place strict limits on the collection and use of personal data,
+extend civil rights protections online, and establish strong
+enforcement mechanisms via a private right of action and the
+creation of a U.S. data privacy agency.
+EPIC recommends swift action on the Online Privacy Act.
+There is widespread bipartisan agreement that we need a Federal
+privacy law. It is time for Congress to act.
+Thank you for the opportunity to testify today.
+[The statement of Ms. Fitzgerald follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much, Ms. Fitzgerald.
+We will turn now to you, Mr. Erwin, for your testimony for
+five minutes.
+
+STATEMENT OF MARSHALL ERWIN
+
+Mr. Erwin. Thank you, Chairperson Lofgren, Ranking Member
+Davis, and Members of the Committee. Thank you for offering me
+the opportunity to testify today.
+My name is Marshall Erwin. I am the Chief Security Officer
+at Mozilla.
+Mozilla is a nonprofit organization and open-source
+community. Our products, including the Firefox browser, are
+used by hundreds of millions of people around the world.
+Mozilla is constantly investing in security and privacy and
+advancing movements to build a healthier internet.
+Now, in our view, privacy online is a mess today. Consumers
+are constantly under attack. They are stuck in a vicious cycle
+in which their data is collected without their knowledge or
+understanding, then shared to build profiles about them. That
+data is then used to target and manipulate them in ways that
+can be actively harmful.
+Today I am going to talk about what Mozilla is doing to
+address this problem and then what we think Congress needs to
+do.
+In the Firefox browser there have been two focus areas for
+us.
+The first is that we have been driving major initiatives,
+such as the standardization of TLS 1.3 or founding Let's
+Encrypt, a free nonprofit certificate authority. This has
+resulted in an increase in encrypted web traffic up to almost
+85 or 95 percent from below fifty percent a few years ago.
+What this is doing is protecting your browsing activity and
+your information from attackers in the middle of a network who
+would otherwise collect that information to use it to build a
+profile about you.
+The second big area of focus for us has been on eliminating
+what we call cross-site tracking. These are parties following
+you around from the website to website that you visit, again
+collecting your information about your browsing activity and
+then building that profile about you.
+In 2019, we turned on what we called Enhanced Tracking
+Protection in the browser, turned that on by default because we
+believe the onus shouldn't be on consumers to protect
+themselves from opaque risks they can't see or understand.
+So that is just a little bit of what we have been doing to
+try to address this problem. I want to talk a little bit about
+what we think Congress needs to do, first focusing on baseline
+Federal privacy legislation, and then talk a little bit about
+transparency into online harms.
+First, in our view, technical privacy protections from
+companies and baseline regulations are complementary and
+necessary. Neither alone are sufficient. The internet was not
+designed with privacy and security in mind, which is why
+technical solutions like the ones that we offer are necessary
+to create a less permissive environment overall.
+At the same time, we can't solve every privacy problem with
+a technical fix. There is an essential role for regulation here
+as well.
+To give you just one example, we know that dark patterns
+are pervasive across the software and applications that people
+use. Unfortunately, there is little that a browser can do when
+a person visits a website directly and then is deceived into
+handing over their information without proper consent or
+understanding.
+And this is where law plus a robust enforcement regime must
+step in. That is why provisions like the one in the Online
+Privacy Act, which would prohibit dark patterns, are so
+critical.
+More generally, Mozilla supports privacy and data
+protection laws around the world, including in the United
+States. The U.S. must enact baseline privacy protections to
+ensure that the public and private actors treat consumers
+fairly. We need clear rules of the road for entities using
+personal data, strong privacy rights for people who are
+interacting with those entities, and effective authorities,
+agencies with the authority to take enforcement action.
+Second, it is important to complement Federal privacy
+legislation with solutions that provide direct transparency and
+accountability into online harms.
+Many of the harms that we see today are a direct result of
+the pervasive data collection happening. We know from recent
+whistleblower disclosures things like recommendation systems
+and targeting systems can have pernicious effects if abused.
+These systems are really powered by people's data. It is
+easier to discriminate against people, manipulate people, or
+deceive people if you know more about them. Therefore privacy
+and some of these online harms are really inherently linked.
+The problem is that this harm is mostly hidden from the
+public and from regulators. That is why we have called for
+things like an establishment of a safe harbor to protect
+researchers doing investigations into the activities of major
+online platforms.
+This would protect research into the public interest and
+help us better understand the harm happening on these
+platforms. There is a real public benefit that can be had here
+by such a safe harbor.
+Similarly, we have advocated for more robust disclosure
+regimes governing online ads. We have been leading the push for
+full ad disclosure in the European Union. We are encouraged by
+recent proposals in Congress that would require disclosure of
+ads for public benefit and understanding.
+These approaches would provide transparency into the opaque
+world of online advertising. It is necessary, and we think it
+could be done without creating privacy risks.
+In conclusion, at Mozilla we seek to advance privacy
+technology and to ensure that privacy considerations are at the
+forefront of policymakers' minds in considering how to protect
+consumers and grow the economy.
+We appreciate the Committee's focus on these issues and
+look forward to the discussion.
+[The statement of Mr. Erwin follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you, Mr. Erwin.
+And now we turn to our last but certainly not our least
+witness, Mr. Castro, for your testimony for five minutes.
+
+STATEMENT OF DANIEL CASTRO
+
+Mr. Castro. Thank you. Chairperson Lofgren, Ranking Member
+Davis, and Members of the Committee, I appreciate the
+invitation to speak with you today.
+U.S. data privacy is at a crossroads. Many consumers are
+justifiably frustrated by the frequency with which they learn
+about new data breaches and the seeming lack of accountability
+for those who misuse their personal information.
+At the same time, many firms are overwhelmed by a tsunami
+of new data-protection obligations and growing restrictions on
+how they can use personal information for legitimate business
+purposes. All are often confused by the multitude of ever-
+changing laws and regulations.
+Three States, California, Virginia, and Colorado have
+passed comprehensive data privacy legislation, and many other
+States are considering it. Over the past three years, 34 State
+legislatures have introduced a total of 72 bills and more are
+coming.
+These new State privacy laws can impose significant costs
+on businesses, both direct compliance costs and decreases in
+productivity, and undermine their ability to responsibly use
+data to innovate and deliver value to consumers.
+Moreover, these laws create high costs, not just for in-
+State businesses, but also for out-of-State businesses that can
+find themselves subject to multiple and duplicative laws. For
+example, California's recently enacted privacy law will likely
+cost $78 billion annually, with California's economy bearing
+$46 billion and the rest of the U.S. economy bearing the other
+$32 billion.
+In the absence of Federal data privacy legislation, the
+growing patchwork of State privacy laws could impose out-of-
+State costs between $98 billion and $112 billion annually. Over
+a ten-year period, the costs would exceed $1 trillion. The
+burden on small businesses would be substantial, with U.S.
+small businesses bearing $20 billion to $23 billion annually.
+The United States needs a new Federal data privacy law, but
+it should not back away from the light-touch approach it has
+historically taken to regulating the digital economy. Instead,
+it should focus on the following goals.
+First, data privacy legislation should establish basic
+consumer date rights. For example, Congress should give
+individuals the right to know how organizations collect and use
+their personal data or when their information has been part of
+a data breach.
+Congress should also give consumers the right to access,
+port, delete, and rectify their sensitive data in certain
+contexts. For example, consumers should have a right to obtain
+a copy of their health or financial data and move it to a
+competing service.
+Second, lawmakers should establish uniform privacy rules
+for the entire Nation by preempting State and local privacy
+laws. Consumers should have the same protections regardless of
+where they live, and companies should not be faced with 50
+different sets of laws and regulations.
+A patchwork of State laws, with varying definitions and
+standards, creates a complex regulatory minefield for
+businesses to navigate, especially if potential violations risk
+costly litigation.
+Third, Congress should ensure there is robust and reliable
+enforcement of Federal privacy law. Congress should not create
+a private right of action, and instead rely on Federal and
+State regulators to hold organizations accountable.
+Illinois, which has a private right of action for its
+biometrics law, has seen hundreds of lawsuits in the past two
+years even when there has been no consumer harm.
+And, to avoid unnecessary litigation, businesses should
+have a reasonable period to address a violation without penalty
+in cases with no demonstrable consumer harm, such as a sixty-
+day notice-and-cure period.
+Fourth, Congress should set a goal of repealing and
+replacing potentially duplicative or contradictory Federal
+privacy laws. The U.S. Code right now is littered with privacy
+statutes, from major sections on health and financial data to
+narrow ones on video rental histories, and each one has its own
+set of definitions and rules to comply with.
+Finally, Federal data privacy legislation should minimize
+the impact on innovation. To that end, Congress should not
+include data-minimization, purpose-specification, or privacy-
+by-design requirements because these provisions can reduce
+access to data, limit data sharing, and constrain its use,
+thereby limiting beneficial innovation.
+Congress has the benefit of hindsight to avoid some of the
+problems found in other data privacy laws, particularly
+Europe's GDPR, or General Data Protection Regulation. The GDPR
+has imposed massive compliance costs on businesses, not only in
+the EU, but around the world. For example, Fortune 500
+companies have spent nearly $8 billion to comply with the GDPR.
+Unfortunately, the GDPR has not delivered on many of its
+goals. For example, the EU's own surveys show that the law has
+had virtually no impact on consumer trust in the internet. A
+majority of companies also report that some of the most
+expensive requirements, like appointing a data protection
+officer, serve no valuable business function.
+Policymakers should also be aware of the unintended
+consequences of poorly crafted legislation, such as not
+considering the implications of a law on emerging technologies
+like artificial intelligence and blockchain.
+Finally, Congress should note that the primary purpose of
+the GDPR was to harmonize data protection laws across EU member
+states. Ironically, as States pursue their own laws, they are
+creating the exact type of fragmentation in the U.S. that the
+EU created the GDPR to solve.
+So, therefore, it is essential for Congress to act swiftly
+to pass comprehensive privacy legislation that preempts State
+laws, streamlines regulation, establishes basic consumer data
+rights, and minimizes the impact on innovation.
+Again, thank you for the opportunity to be here today. I
+look forward to any questions.
+[The statement of Mr. Castro follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+The Chairperson. Thank you very much, Mr. Castro, and to
+all our witnesses.
+We will go now to Members of the Committee who may have
+questions, and I will turn first now to our Ranking Member, Mr.
+Davis.
+Mr. Davis. Thank you, Madam Chairperson.
+And thanks again to our witnesses. Enjoyed your testimony.
+Mr. Castro, let me start with you.
+There have been proposals introduced in Congress that if
+implemented would create a private right of action for
+individuals and a collective right of action for certain
+nonprofits to sue on behalf of individuals. Is this the best
+approach to ensure protection and accountability for a Federal
+data privacy framework?
+Mr. Castro. No, I don't think it is. Right now, we have a
+very effective regulator in the FTC and we have State attorney
+generals that can obviously also take up that slack.
+What we have seen in States that have implemented these
+private rights of action, like with the Biometrics Information
+Privacy Act, once a court ruled that you could bring lawsuits
+under this for cases where there is no actual harm to
+consumers, we saw a flood of lawsuits. And these lawsuits are
+being driven by class action lawsuits where they are just going
+after the attorney fees, and this has led to very significant
+fines without any real payoff for consumers.
+So, in the past year we have seen over $100 million in
+settlements for companies like Facebook, ADP, Walmart, Six
+Flags, Wendy's, TikTok, and the list goes on. And these aren't
+instances, again, where we have seen any consumer harm. It was
+pure technical violations.
+That is not an effective use of dollars that could be going
+back into investing in technology and processes that would
+protect consumers' privacy, make it more secure, and protect
+them from harm.
+So, a private right of action, to me, is just taking money
+out that could be used on actual protections for consumers.
+Mr. Davis. Well, thank you, Mr. Castro.
+Hey, I am sure you have read the media reports about
+Special Counsel John Durham's allegations that Democrat
+political attorneys perhaps, Marc Elias specifically,
+infiltrated servers at The Trump Organization and at the White
+House.
+Would nationwide data privacy legislation have protected
+President Trump from these data espionage attempts?
+Mr. Castro. Well, it depends. Certainly, privacy
+legislation would restrict what companies might be able to keep
+on hand and what they might share.
+But at the end of day, what you really want to see if you
+want better security is better transparency, so consumers know
+what they are getting. In this case, The Trump Organization,
+the Trump campaign, would know what kind of security and
+privacy controls they are getting when they purchase a service,
+and they will know how their data could be shared.
+And so, getting more transparency is really what we should
+be looking for in the future.
+Mr. Davis. Well, I agree, transparency matters. But so do
+penalties for bad actors if these allegations are borne out.
+Do you know if the FTC would have any enforcement penalties
+if these allegations were borne out?
+Mr. Castro. The FTC can impose penalties on companies for
+violations. Particularly the way this works right now is most
+companies have statements in their privacy policies, their
+terms of service, that say, we respect your privacy, and we are
+going to secure your data. And when they do not do that, that
+is a misrepresentation, and the FTC can and has gone after
+companies for that.
+We can certainly consider giving the FTC more authority.
+Certainly, if we are increasing their budget, I think we should
+be saying exactly what we want them to be doing with that
+additional money. I think that is the best way to go forward.
+What we don't want to do, I think, is give the FTC too much
+latitude, though, to start doing its own rulemaking that goes
+outside of congressional intent, because it becomes very risky,
+that the FTC might decide that they want to start deciding how
+companies should design their websites or how they should be
+designing their mobile apps, all under the name of maybe
+ensuring consumers aren't being manipulated. But on the other
+hand, the FTC is not made up of engineers and user experience
+designers.
+Mr. Davis. Very good points. But this agency does exist to
+address concerns already.
+The Online Privacy Act of 2021, a bill referred secondarily
+to this Committee, calls for the creation of a new Federal
+agency called the Digital Privacy Agency.
+Not only is this a clear example of Congress shifting its
+legislative authority to the executive branch, but it also
+seems like an extreme waste of resources given the existing
+structure already established in the Federal Trade Commission
+and with the States' attorneys general.
+Mr. Castro, do you believe that a new Federal agency is
+necessary to accomplish the goal of data privacy?
+Mr. Castro. I think the FTC has the authority it needs and
+the reputation and experience to do this job. I don't think we
+need a new agency to solve that problem.
+I would also mention that when we think about protecting
+consumer privacy, this overlaps with fraud and security, and
+that is something the FTC is also focused on or should be
+focused on. And I think if we split up that mission, we weaken
+protection for consumers.
+Mr. Davis. Well, Mr. Castro, thanks for joining us, and to
+all the witnesses.
+I yield back the balance of my time, Madam Chairperson.
+The Chairperson. Thank you.
+Mr. Raskin, you are now recognized five minutes.
+Mr. Raskin. Thank you, Madam Chairperson.
+Ms. Fitzgerald, I was eager to ask you the question about
+the aggregation of data, about how the aggregation and
+processing of data in large quantities can pose risks that
+might not be apparent when we are just talking about a single
+piece of discrete information. I am wondering what can be done
+about that.
+Ms. Fitzgerald. Thank you, Representative Raskin.
+I think the lesson we can take from all these data points
+being combined about us is, one, it shows how important it is
+to have a comprehensive privacy law that covers personal data
+generally rather than the sectoral laws--HIPPA, FCRA, COPPA,
+FERPA, the acronyms go on and on--that leave huge gaps in
+protection for personal data not covered by those laws.
+And these flows of personal data also show why notice and
+consent doesn't work. The breadth of the commercial
+surveillance industry is just impossible for the vast majority
+of internet users to fully grasp. A user may consent to have
+the website they are visiting use their data, but does that
+mean they are consenting to that data being passed on to
+hundreds of data brokers they have never heard of?
+We saw an example of this last summer when a Catholic
+priest was outed by a news outlet who obtained supposedly
+anonymized location data from the dating app Grindr. I know
+that following that revelation you and Rep. Porter sent a
+letter to the FTC and FCC, signed by a few members of this
+Committee, asking them to conduct a rulemaking to strengthen
+privacy protections for location data. And that is something
+that could also be integrated into privacy legislation.
+Mr. Raskin. Thank you much.
+Ms. Zuboff, I have read your book about surveillance
+capitalism. I know it is hard to synthesize an entire book, but
+who is Big Brother today? Is Big Brother the state as we have
+traditionally conceived it, or is Big Brother corporate--the
+corporate sector, or is it some combination thereof?
+Ms. Zuboff. Well, thank you so much, Representative Raskin.
+I am flattered and thrilled to hear that you have read my book.
+So, thank you for that as well.
+As you know, because you have read the book, I develop a
+concept that I call Big Other. So Big Brother was a notion of a
+totalitarian state, which had a very specific ideology and
+wanted people to believe certain things and talk in certain
+ways and act in certain ways.
+We have surveillance capitalism, not a totalitarian state.
+Surveillance capitalism really doesn't care what you think. It
+doesn't care what you believe. It doesn't care how you act.
+What it does care about is that you think and believe and
+act in ways that it can capture the data to do the aggregation
+that you are asking about, because with that aggregation is the
+possibility of computation, applying artificial intelligence,
+coming up with predictive algorithms, targeting methodologies.
+With those targeting methodologies, various functions are
+achieved, including increasing engagement, which is a euphemism
+for increasing the footprint for greater data extraction.
+And also, as we increase engagement, using our knowledge
+from this deep computation, AI, using our knowledge about you
+for things like subliminal cues, psychological microtargeting,
+engineered social comparison dynamics, so we really, really
+know a lot about you.
+And that way we can use messaging and different--not only
+the content of messaging, but the forms of messaging, to
+actually begin to modify your behavior, and to do that in a way
+that is consistent with the commercial objectives of the
+company and its business customers.
+So, at the end of the day, this Big Other is a--sorry. I
+will just wrap it up with the notion that this Big Other is
+ubiquitous, is pervasive, it is not totalitarian, but it is
+full-on control, and full-on opacity, full-on power.
+Mr. Raskin. We haven't yet enacted a comprehensive Federal
+privacy statute to address the rise of the Big Other. But a lot
+of States and some other countries have attempted to do so.
+I wonder if you can just tell us what you think have been
+the best lessons and the best efforts at a comprehensive
+privacy framework to protect us individually, but also to
+protect the people's possession of interest and ownership of
+their own characteristics and their own behavior.
+Ms. Zuboff. Well, the gold standard right now, and we
+couldn't have said this a few weeks ago, but the Digital
+Services Act and the Digital Markets Act in the EU. These are
+not the total solution. We have very specific things to
+accomplish ahead of us.
+As far as setting a new standard, defining a new frontier
+for the kinds of rights--when I use the word ``users'', I try
+to do it with air quotes, because users is all of us. Users is
+kind of the synonym for humanity at this point.
+And these pieces of legislation, they are ambitious, they
+are comprehensive, they have the buy-in of the European
+Parliament now and the member states. A few details left to be
+worked out in the spring.
+But these set a new standard for rights of users, the
+enforcement powers of a government to really for the first time
+put democratic governance back in control of our information
+and communication spaces, to work with the private sector,
+rather than have the private sector as what it has been for the
+past two decades, a completely autonomous force, essentially
+unimpeded by relevant law.
+And all the social harms that we have been describing this
+afternoon are the result of that situation.
+The Chairperson. Thank you so much. And the gentleman's
+time has expired.
+We will turn now to the gentleman from Georgia, Mr.
+Loudermilk for five minutes.
+Mr. Loudermilk. Well, thank you, Madam Chairperson.
+And it is a very interesting topic that we are talking
+about, I have been dealing with for quite some time.
+Mr. Castro, one of the issues that I have seen from a
+financial services perspective, and I assume it is going to be
+the same here, is the multitude of data privacy standards and
+laws we have across the country in the different States.
+You mentioned in your testimony that there were 34 State
+legislatures that introduced bills in the space from 2018 to
+2021. I want to get your thoughts on the importance of having a
+uniform Federal standard for data privacy that would go across
+the board.
+Mr. Castro. Yes. I really appreciate that question. Thank
+you so much, Representative Loudermilk.
+For I think so many companies, especially the smaller
+companies, when you think about data privacy, we are often--I
+think the first thing people think about are Facebook and
+Google.
+But these laws impact everyone. They impact the local
+florist, the barber shop, the grocery stores. And complying
+with those laws can be very expensive and very difficult,
+because even though at the end of the day most of these laws
+are basically saying the same thing, they say it all a little
+differently.
+And actually, complying with those laws so that you are not
+held in violation, so that, especially if there is a private
+right of action, so that you are not sued for making technical
+violation if you have not, for example, put a certain term up
+on your privacy policy on your website, you might be in
+violation of California's law.
+All these obligations add costs for businesses. And these
+businesses, instead of hiring another engineer or giving a
+raise to their workers, they must go out and hire a privacy
+lawyer. A lot of the privacy lawyers really like privacy laws
+because it is good business for them.
+And the issue here is we don't need more laws, we need one
+good law. I am glad to see we are having this conversation,
+because I think we can get to that one good law. Hopefully we
+can get there sooner rather than later, because the more we
+wait the higher those costs get.
+Mr. Loudermilk. So, what kind of effect does this have on
+American competitiveness in the international marketplace?
+Mr. Castro. It is very significant right now. When we think
+about--a lot of U.S. companies are doing a very good job with
+protecting privacy better than, for example, companies in
+China. But because the U.S. does not have a Federal law and we
+have taken a sectoral approach and other countries have not
+taken that sectoral approach, a lot of countries will say the
+U.S. doesn't care about privacy.
+I don't think that is true. I don't think that is true in
+terms of when I hear the FTC defending the work that they are
+doing. I think they are doing very respectable work. I think
+the State attorney generals are doing great work. I think some
+of the State laws can even be effective.
+And so, I don't think it is fair to say the U.S. isn't
+doing good work on privacy. But we don't have a national
+privacy law. And so, so often that fact is used to say a U.S.
+company should not get a particular contract.
+We are seeing that used right now. That is hurting
+transatlantic data flows in part because European lawmakers are
+saying the U.S. isn't doing enough to protect consumer privacy.
+So, I think one of the best ways we can promote U.S.
+competitiveness, again not just from the tech sector but across
+the board, is to create this Federal law so that we can show
+the U.S. is taking this seriously.
+Mr. Loudermilk. I think everybody on this Committee is
+committed to and I think most individuals recognize the
+importance of protecting personal data and an individual's
+privacy. Definitely, I do as well, and I know you do.
+But with that being said, you mentioned in your testimony a
+concern that I share as well, which is the compliance cost to
+small businesses due to State privacy laws.
+Is there a State that you can point to that has
+successfully executed a data privacy law that balances those
+concerns?
+Mr. Castro. I think Virginia is probably the closest we
+have gotten so far. They are trying to strike the right
+balance.
+Again, the biggest problem is that when you see these State
+laws, the State legislatures are not thinking about the costs
+that would be borne by States outside their borders.
+And so, again and again, as we see each new State go down
+this path, they are putting up laws that force companies to go
+rehire lawyers, to ask them to reevaluate their privacy
+policies, make technical changes to their systems, all the same
+compliance, again, without any discernible improvement in
+actual consumer privacy.
+And so, if the goal is consumer privacy, let's address this
+top down rather than have fifty different rules for how to do
+it and have so much more consumer confusion about what is going
+on and who is protecting your data.
+Mr. Loudermilk. All right. I agree wholly.
+I see my time is quickly running out. So, thank you for
+that.
+And, Madam Chairperson, I yield back.
+The Chairperson. The gentleman yields back.
+Mr. Aguilar is recognized for five minutes.
+Mr. Aguilar. Thank you, Madam Chairperson.
+Mr. Erwin, I wanted to talk with you a little bit about the
+lessons that Mozilla has learned from its own experience in
+building privacy-protective tools. That may be relevant to us
+here in the public sector and for government agencies that we
+have oversight over to consider how they are going to handle
+personal information and to minimize risk for their own
+operations.
+What are your thoughts on what you have learned and what is
+applicable to the public space?
+Mr. Erwin. Yes. So, I think there are two important ways
+that we approach this question.
+The first is to think about, like, our core privacy
+practices and the data that we are going to collect from our
+consumers and how we are going to be really transparent and
+provide them with control of that.
+We really work hard to sort of follow these what typically
+is referred to as data-minimization practices where we are
+really only collecting what we need to run our business and
+optimize and build a great product for our users.
+And that is a practice that, frankly, isn't followed very
+expansively across our industry with the underlying problems
+that I think that we see and really think needs to be fixed.
+And then once we have that data, we will work to protect it
+aggressively, which is I think basic applicability of this idea
+of data minimization, and plus sort of a strong set of security
+controls on the back end is one that really needs to apply both
+to the public and the private sector.
+We also work hard to build kind of what I mentioned
+earlier, these privacy features into the browser that protect
+our users from web encryption, blocking, tracking in the
+browser.
+The interesting thing that--experience we have there is,
+like, that can be a little bit disruptive for the industry in a
+way that, like, right now we have a permissive internet, many
+parties that depend on that permissiveness to build their data
+practices and build their business.
+That is fundamentally actually a problem. And so, some
+amount of disruption is healthy. We don't always get a positive
+response when we roll out privacy features. I think that is a
+positive signal that we are going in the right direction. But
+it certainly creates a little bit of headwind for us when we
+try to roll out privacy features.
+Mr. Aguilar. Understood. Sometimes being at the forefront
+means that you take on a lot of folks with differing viewpoints
+as well.
+Ms. Fitzgerald, what are some of the best ways that we can
+limit the risks and harms of the aggregations of personal
+information over time from multiple different sources that we
+know exist?
+Ms. Fitzgerald. Thank you, Representative Aguilar.
+I think this process of data minimization that has been
+talked about a few times, especially in the first panel, I was
+thinking if private companies treated our data like the GPO
+did, we would be in much better shape. The point was made, if
+you don't have it, you don't have to protect it.
+So, the obligation should be on the companies to minimize
+the amount of data they are collecting, delete it when they
+don't need it anymore. That protects users from having their
+information passed on and it protects them in the case of a
+data breach.
+Mr. Aguilar. Thanks. I appreciate that.
+Mr. Erwin, back again, what are some of the privacy risks
+and harms that we have that may not have a primarily
+technological solution? I guess what I am trying to ask is
+issues that instead require changes to business practices or
+laws. We are trying to balance the regulatory side here, and I
+wanted your thoughts on how we balance those pieces.
+Mr. Erwin. Yes. So, we bump up against this problem all the
+time in our work in the browser where, for example, the
+challenges that we can solve, a user visits a website, for
+example, and there is a hidden third party on that website that
+the user doesn't know about and is collecting data about them.
+That is a third-party relationship. We can do something
+about that in the browser, because typically there is, like, a
+network request, to get a little bit technical, that calls out
+to that third party. So we can actually just block that.
+So that is typically the role of, like, the browser, or the
+operating system can jump in and say, we are going to prevent
+these third parties from sort of tracking your behavior.
+What we can't do as much of is when the user has a direct,
+first-party, what we refer to as a first-party relationship
+with a website or business. And that comes down to a question
+of business practices, not technical problems. And there is
+little we can do to sort of adjudicate the relationship between
+a user who has decided to engage directly with a first-party
+business, but that business isn't upstanding, and the user
+might not know about it.
+And that is where I think law and regulation really needs
+to step in where the technical fixes ultimately aren't going to
+get us what we need.
+Mr. Aguilar. I appreciate that. Thanks so much.
+I yield back.
+The Chairperson. The gentleman yields back.
+Mr. Steil is recognized for five minutes.
+Mr. Steil. Thank you very much, Madam Chairperson.
+I want to pick up where my colleague Mr. Aguilar left off a
+little bit. But I want to shift over to you if I can, Ms.
+Fitzgerald, on the topic.
+I was reading some of your testimony, and you referenced
+that the biometric and genetic data is especially sensitive, it
+deserves stricter regulation. Is that correct?
+Ms. Fitzgerald. Yes, absolutely.
+Mr. Steil. And you raised some concerns about how
+healthcare data is used. Is that correct?
+Ms. Fitzgerald. Yes. Health data is particularly sensitive.
+Mr. Steil. And so, I think a lot of people think that HIPPA
+is protecting their healthcare data, as it extends to big tech
+or health apps, but that is not correct. Would you agree?
+Ms. Fitzgerald. Right. HIPPA only applies to the
+relationship with your doctor and with your health insurance
+company and with certain health exchanges, it doesn't cover
+health data that is in apps.
+Mr. Steil. Yes, I think that is a really interesting
+distinction that I think a lot of Americans might find
+interesting, and building on what was previously being
+discussed with Mr. Erwin on these kind of third-party apps,
+third-party relationships that exist on certain websites and
+the impact that this could have.
+And so Congress recently passed the 21st Century Cures Act
+to protect patient data, in particular to require patient data
+to move from the doctor's office to healthcare apps of the
+patient's choosing. There are a lot of reasons that is a good
+thing. There are some things that we want to make sure we get
+right.
+Because you want to be able to make sure patients can
+control their data. But I also want to ensure that they don't
+lose control of their data by sending it in a third party that
+they might not be aware of would find interest in their
+healthcare data, their biometric data, or others.
+Do you think the risk is bigger in some of these apps that
+might send--that individuals, that the risk might be greater if
+they are sending information to some of these types of apps
+kind of under the rules and regulations of the 21st Century
+Cures Act?
+Ms. Fitzgerald. The reason biometric data is so sensitive
+is because we can't change it. We can't change our face print,
+we can't change our fingerprints.
+Mr. Steil. So, let's shift off for a second. I totally
+agree. I think that is a great topic.
+Let's shift and talk about medical data. Does that give you
+unique concern?
+Ms. Fitzgerald. Yes, sure, because of the ways it can be
+used against us. You think about the insurance companies using
+it to determine our rates or even an employer possibly not
+wanting to hire someone with a health condition if they are
+going to be paying their health insurance premiums.
+Mr. Steil. I appreciate your commentary. I think it is an
+area that we need to just really keep an eye on. I think there
+is a lot of real positive things. We want to make sure
+innovation is here in the United States. We want patients to
+control their data.
+But at the same time, we want to make sure that patients
+are protected, and where there might be a third-party player
+involved where the patient might not fully appreciate the risk
+that they are engaging in, in sharing their data. I just think
+it is something that we really should spend time and think
+about.
+Let me shift gears if I can. Thank you very much, Ms.
+Fitzgerald.
+Let me shift gears to you, Mr. Castro.
+There is a lot of laws that govern privacy for different
+types of institutions. The Gramm-Leach-Bliley Act Federal law
+required financial companies to explain their information-
+sharing practices to their customers and to safeguard some of
+their data.
+And before creating new laws, I think there is a real
+opportunity for Congress to look at how current privacy laws
+are working and how they interact with each other so that we
+are not duplicative of regulations.
+And so, could you shine some light, since the passage of
+GDPR in the EU, what have we seen in that sweeping legislation?
+Has it stifled innovation? Has it grown innovation? What big
+takeaway should we take from that, from the EU's work?
+Mr. Castro. In many areas it certainly has stifled
+innovation. When you look at the cost of compliance, when you
+look at the impact it has had on startups in the European tech
+economy, there are many areas where just the data points again
+and again show that European businesses are suffering.
+The one area----
+Mr. Steil. So let me, Mr. Castro, only because we have got
+limited time, if we shift gears slightly and we say let's jump
+over to California.
+California Consumer Privacy Act, what lessons can we take
+away from the State of California if we were to take that and
+run that out nationally.
+Mr. Castro. One of the biggest problems with California is
+we have seen hundreds of lawsuits related to enforcement. That
+has been a problem.
+One of the biggest positives of it is the idea of a thirty-
+day cure, which I think could be extended nationally, where the
+goal is not to penalize companies for mistakes, but to get them
+to take corrective action. That has been----
+Mr. Steil. Thank you very much. Only cognizant of time. I
+appreciate everybody's time here.
+I think what is really important is we have got a lot of
+laws already on the books, State laws, we can look at the EU,
+we can look at what financial services committees are doing, we
+can look at the 21st Century Cures Act. I think it is critical
+that we are looking at all of these legislations, learning
+lessons from them, so we can help consumers protect their data,
+but also maintain innovation here in the United States of
+America.
+I appreciate you holding today's hearing, Madam Chairperson
+and I will yield back.
+The Chairperson. The gentleman yields back.
+Ms. Scanlon is recognized for five minutes.
+Ms. Scanlon. Thank you, Madam Chairperson.
+I guess I would like to pull on this thread a little bit
+more since we certainly do hear quite a bit about this on the
+company side and the agency side: How do they navigate all
+these different laws that are being promulgated between States,
+but also between countries, because, as we are aware, the
+internet does not have national boundaries in the same way?
+So, Ms. Fitzgerald, could you talk about that? What are the
+most important privacy rights that you have seen that have been
+proposed that you think Congress should work on adopting?
+Ms. Fitzgerald. Well, the most important thing, I think,
+when you are thinking about privacy legislation is we can't
+just be telling people what companies are collecting about
+them. That is not enough. We need to put obligations on the
+companies that are collecting data to limit that collection,
+limit what they are doing with it after they collect it and
+have them delete it when they are done using it.
+Ms. Scanlon. Okay. In terms--do you have any suggestions
+about which are the best models for us to look at, whether
+there is State models, or the EU has been mentioned?
+Ms. Fitzgerald. Sure. So, I think State models, you know,
+California has the strongest right now in the United States.
+The CCPA in California is the strongest model we have seen.
+But, that still is even limited, only allows users to opt out
+of the sale of their personal data. It doesn't as much put
+obligations on companies to minimize the data they are
+collecting.
+The Online Privacy Act by Chairperson Lofgren is a great
+model. That includes data minimization. It also includes
+provisions protecting against discriminatory uses of data. That
+is really important.
+You also want to make sure you are requiring algorithmic
+fairness and accountability. We don't want to make the same
+mistakes with AI that we have made with data collection. This
+is the next wave of technology. Let's get ahead of it, set the
+rules now, encourage companies to innovate around privacy and
+autonomy.
+Ms. Scanlon. Okay. I mean, one of the typical--I don't
+know--tools that people talk about with the privacy laws is the
+notion of consent. I gather that you are a little bit skeptical
+about the usefulness of consent as a focus of privacy
+protections.
+Can you talk about that a little bit?
+Ms. Fitzgerald. Yes. Absolutely. There is just no way for
+an individual to understand kind of the web that their data
+gets passed through if they are consenting. You know, if you
+are just hitting that consent button to make the banner go away
+on a website----
+Ms. Scanlon. Yes.
+Ms. Fitzgerald [continuing]. You don't realize that what
+you are saying is: Sure, take my personal data and do whatever
+you please with it. There are no rules.
+Ms. Scanlon. Right. Well, and certainly we have seen that
+proliferate recently with--to get access to almost anything,
+you either decide to click, or you decide not to----
+Ms. Fitzgerald. Exactly.
+Ms. Scanlon [continuing]. Protect it.
+So, with respect to discriminatory data uses, how do we
+address that? What are your top-line recommendations there?
+Ms. Fitzgerald. Well, groups such as Color of Change,
+Lawyers' Committee for Civil Rights, Leadership Conference have
+great proposals on what we need to do to make sure that civil
+rights are protected online, you know, making sure that--I
+don't know--public accommodations are protected; you know, that
+extends to online spaces.
+You need to make sure that the algorithms that companies
+are using are not being used in ways that deprive people of
+life opportunities like, you know, ads for housing and ads for
+jobs, that those are data--our personal data isn't being used
+to show those in discriminatory ways.
+Ms. Scanlon. That is interesting.
+Okay. Thank you, Madam Chairperson. I yield back.
+The Chairperson. The gentlelady yields back.
+The gentlelady from New Mexico is now recognized for five
+minutes.
+Ms. Leger Fernandez. Thank you so much, Madam Chairperson.
+As we have heard today, our personal data is extremely
+valuable. You know, we take a question, a quiz on Facebook,
+look up directions. The companies collect our information. They
+then sell our information, often without our consent, to a
+third party. And then they use our information--our
+information--for a range of activities, from showing an ad for
+clothing, to sometimes more dangerous, like targeting
+disinformation to manipulate our behaviors or beliefs.
+And it is all invisible to the true owners of the data. Me,
+my neighbors, our fellow Americans, I want to focus a bit on
+how data privacy or the lack thereof impacts our elections and
+our democracy. The Elections Subcommittee of this Committee
+recently held a roundtable in Miami on the creation and
+dissemination of disinformation about our elections and the
+pandemic, and this disinformation targets Spanish-speaking
+communities.
+We learned how the disinformation is then exported to other
+States, including New Mexico, and then amplified based on this
+data harvesting that we have heard about today and read in this
+testimony.
+Ms. Fitzgerald, you noted that actors can weaponize our
+data to undermine our election integrity and democratic
+institutions. In practice, what does this weaponization look
+like?
+Ms. Fitzgerald. Sure. Thank you, Representative Leger
+Fernandez.
+You know, just as advertising companies use profiles about
+us to manipulate us into purchases, you know, so too can they
+manipulate our views by filtering the content we see. So, the
+ways they can do that are--you know, The Markup did a great
+investigation right after January 6th showing the two different
+Facebooks that Republicans and Democrats were seeing. And it is
+just a stark view of kind of the different information that
+both sides are seeing and how that shapes your views.
+Even if someone doesn't click through to an article, just
+seeing that headline, having it in the back of their head as
+they are voting, it is--these companies are able to kind of
+manipulate our political views by determining what we see.
+Ms. Leger Fernandez. Professor Zuboff, I really appreciated
+your poignant written remarks about how democracy is
+simultaneously the only legitimate authority capable of helping
+the surveillance capitalism but also a prime target. So, I
+appreciate that and would welcome you expanding on that, but
+the question I want to get to first is Mr. Castro suggested
+that a private right of action is unnecessary and that we
+should focus solely on transparency.
+Do you agree, and, if not, why?
+The Chairperson. You need to unmute, Professor Zuboff.
+Ms. Zuboff. Sorry.
+I don't agree with that. I think the private right of
+action is very important. When we pass a law, whether it is the
+California law or any other law, that is only the beginning.
+What must happen is these laws are tested, and they evolve, and
+they develop. As a society, we learn what they can mean, what
+they can mean for us, and how they are going to protect us in
+society.
+So, what the private right of action does is it creates the
+opportunity not only for individuals, but for groups of people,
+for collectives to really bring issues into the judicial
+system, to have those issues explored, and to create
+precedence.
+And this is--you know, this is what is called the life of a
+law, how the law evolves and how we can move forward into this
+century, not just with statutes that are frozen in time, but
+with laws that are evolving according to what Justice Brandeis
+once called the eternal youth----
+Ms. Leger Fernandez. Right.
+Ms. Zuboff [continuing]. Of the law, because we have these
+kinds of international processes. So this really is----
+Ms. Leger Fernandez. Yes, and I wanted to completely agree.
+Our civil rights laws would have had no effect if we hadn't had
+the right of private action.
+I did want to ask you, though, to elaborate in the few
+seconds left with regards to what you believe is most important
+to protect our democracy in an Online Privacy Act?
+Ms. Zuboff. Well, the first thing is you notice so much of
+our discussion has been we minimize data or how is the data
+used and things like that. Once we start a discussion talking
+about data, we have already lost primary ground.
+The key thing is now that we are all targets for massive
+scale secret data collection, much of which should not be
+collected in the first place. The decision should lie--the
+decision rights should lie with the individual: Do I want to
+share this information about the cancer that runs in my family,
+and do I want to share that with a research operation or a
+federation of researchers that are going to make progress on
+this disease and help the world? Maybe so.
+But do I want Google or Facebook or any other company to
+just be inferring information about my cancer from my searching
+and my browsing? Absolutely not.
+So we need to reestablish decision rights, as Justice
+Douglas offered in 1967, the idea that every individual should
+have the freedom to select what about their experience is
+shared and what remains private. These decision rights are the
+cause of which privacy is the effect.
+We need to establish now finally in law juridical rights
+that give us the choice of what is shared and what remains
+private. Then we have got a whole new ball game where all kinds
+of innovations like Mozilla and all of the Mozillas that are
+waiting to come on stream, not just obviously in search and
+browse, but in all kinds of businesses, in every sector.
+Ms.  Leger Fernandez. Thank you.
+Ms.  Zuboff. We are all waiting to get in the game.
+Ms.  Leger Fernandez. Thank you. I know we have overgone
+our time limit.
+Thank you, Madam Chairperson----
+Ms.  Zuboff. Thank you.
+Ms.  Leger Fernandez  [continuing]. And I yield back.
+The  Chairperson. The gentlelady yields back.
+I just have a few final questions.
+First, thanks to all of the witnesses for really very
+excellent, interesting, and enlightening testimony.
+I wonder, Mr. Erwin, in your testimony, you refer to dark
+patterns as one of several privacy abuses that demand
+regulation, that technology alone couldn't adequately address
+them.
+Can you explain in further detail for the Committee and for
+those watching this hearing what dark patterns are, what are
+some of the most troubling examples of dark patterns, and what
+is the best legal approach to reining them in?
+Mr.  Erwin. Yes. A dark pattern is a sort of broad umbrella
+term used to refer to what is typically sort of user
+experiences that can deceive a user into opting into data
+collection or consenting to data collection without being
+explicit about what is really happening under the hood. And
+that can be--a dark pattern could be sort of text that is
+intended to deceive the user, or it might be sort of if you
+have got to click through five things to opt out of the data
+collection. All of those, I think, are typically--are sometimes
+referred to as dark patterns.
+We see those everywhere across the web. And, as I
+mentioned, that is the type of area where the browser can't
+really do much when the user is actively engaging with the
+first party. It is an area where I think we really do need to
+see some regulatory engagement.
+Obviously, like, we don't want a regulator designing a user
+experience in the browser. Sort of our user experience team
+doesn't want me designing the experience in the browser, so we
+definitely don't want a regulator doing that. But actually,
+acting to say here is what the standard should be, and here is
+what looks like a deceptive practice, and here is what is a
+sound practice; that is where I think we really do need to see
+a regulatory voice.
+The  Chairperson. Standards instead of design?
+Mr.  Erwin. Yes.
+The  Chairperson. You know, we have talked a lot about the
+rights of individuals for privacy and, you know, some of the
+disinformation, digital addiction, harmful impacts on children
+on certain internet platforms. But I think whether there should
+be a private right of action.
+I think the core issue really, as Mr. Halpern said, if you
+don't have the data, you can't use it to manipulate. And I
+think--it is my view that the victims of manipulation, whether
+it is for political, societal, cultural, or commercial
+purposes, it is not just the individuals being manipulated but
+the public at large.
+If you are manipulating for a commercial purpose, you are a
+Big Tech company and you have got all this data, you know, you
+are at an unfair advantage to smaller companies that have not
+acquired all that data. If you are manipulating for a cultural
+or societal purpose to move society in one direction or
+another, the public is also a victim of that. Individuals have
+been removed from their agency and have been -- and are less
+free because a private corporation is manipulating them through
+their own data.
+So, let me ask you, Ms. Fitzgerald, isn't really the crux
+of this to restrain the collection and retention of data?
+Ms.  Fitzgerald. Yes, absolutely. It is not enough to--for
+users to just know what companies are collecting about us. It
+has to be restrained. The obligations have to be on the data
+collectors to limit what they are collecting.
+The  Chairperson. I just want to mention briefly--and maybe
+any of the witnesses can talk. Ms. Fitzgerald, you may have
+studied this in your nonprofit. You know, I am a fan of the
+FTC, but I have been advised by many who served there that the
+sheer number of individuals who are really technologically
+savvy is fairly minimal compared to the actual army of digital,
+you know, engineers, software-savvy people in these large
+companies, and that, frankly, they are no match for the
+gigantic companies with the computer and digital expertise that
+those companies have, which is why we are looking at how do we
+better arm a regulatory agency to actually be successful in
+facing off with these gigantic corporations?
+Is that capacity of the FTC off base, Ms. Fitzgerald, in
+your view?
+Ms. Fitzgerald. Absolutely. I mean, look, we are encouraged
+by recent actions at the FTC on privacy, but the FTC has
+limited resources and an incredibly broad mandate that covers
+everything from antitrust to horse racing safety, tractor
+parts, and laundry tags. The task of data protection is best
+done by a specialized, independent regulator. When you think
+about the outsized presence of technology in our lives and our
+economy, I just think this is something where, twemty years
+down the line, no one will question why we have a data
+protection agency just as now we don't question why we have an
+FAA or an EPA.
+The  Chairperson. Let me just ask a question of you, Mr.
+Erwin. In your written testimony, you state, quote, ``it is
+important that competition concerns not be a pretext to prevent
+better privacy for everyone.''
+Can you explain that tension and how Congress might strive
+to strike the right balance on that?
+Mr.  Erwin.  Yes. I mean, this is something we see often.
+Again, like the basic challenge we have here right now is the
+internet was designed in a very permissive way, and that allows
+for a large diversity of parties to collect data.
+In some cases, those are the largest parties, but also the
+smaller ones. And closing down some of these privacy gaps
+necessarily means denying data to both the big parties and the
+small ones. And sometimes we will hear this argument that we
+shouldn't close the privacy gap because that will have certain
+competition implications.
+We really sort of reject that stream of thinking, the basic
+idea being that, like, we should leave the internet being more
+permissive in order to protect some set of business models.
+You know, what we want to see is an overall but more
+protective platform that has an even playing field that all big
+and small companies can compete on. That is the approach that
+we, I think, are in favor of. We are going to push back
+aggressively on any suggestion that we should leave privacy
+holes in the browser or in your operating systems in order to
+protect some certain business model that might be competing
+against Big Tech.
+The  Chairperson.  Right. I will just close with this.
+I live in California. The California law has not really
+stopped the kind of collection that I think its authors
+intended.
+I will say, however, that, despite some decrying the
+regulation, the formation of businesses in the tech sector is
+at an all-time high. Business is good. Actually, job creation
+in Silicon Valley is carrying the entire State. So, it has not
+had these horrible impacts in the tech sector.
+I am mindful that, if we constrain the collection and
+retention of data by internet companies, especially in the
+internet space, it will require a change in their business
+models. I think that is necessary because, right now, the
+propensity and the capacity to manipulate every person in
+America is unacceptably high.
+So, I am wondering, Professor Zuboff, you talked about, in
+your New York Times essay recently, about how democracies are
+confronting the tragedy of the uncommons and how we need to get
+back to protect our society, for lack of a refined thing.
+Can you expand what is the most important thing to
+accomplish that goal in your judgment?
+Ms.  Zuboff. Well, you know, the digital century opened
+with great promise. It was supposed to be the democratization
+of knowledge. I am not ready to let that dream die.
+The problem is we have gone on this kind of accidental
+path. In my written testimony, I gave a lot of background as to
+how that happened. A certain market ideology, certain national
+security concerns, the accidents of financial emergency in
+Silicon Valley, and how surveillance capitalism was invented in
+order to get tiny little Google in the year 2000, you know,
+over the hurdle when its investors threatened to pull out in
+the dot-com bust--a bunch of accidents, and that is why I call
+where we are an accidental utopia.
+But what we really have is an opportunity for the digital
+century to be a century where data is being used to further the
+needs of society, to solve our core, most important problems.
+And data collection is being used in ways that are aligned with
+what we consider in the digital century to be necessary
+fundamental rights.
+This is work that we have not yet undertaken. We have got
+to figure it out. It would be like having lived through the
+20th century without ever having tackled workers' rights or
+consumers' rights and the laws to oversee those rights and the
+institutions to oversee all of that. We created all that in the
+20th century.
+We are in a new century, new material conditions, new kind
+of capitalism. We have got to do that fundamental creative work
+all over again. And that, finally brings us to a point where
+right now, there is this very in-depth census of how artificial
+intelligence is developing around the world, the ecosystem of
+artificial intelligence, and what it shows very plainly is that
+the five Big Tech companies own almost all of the artificial
+intelligence scientists, the science, the data, the machinery,
+the computers, everything pertaining to artificial intelligence
+is concentrated in a small handful of companies.
+All of that knowledge and capability and material is going
+to work to solve the commercial problems of these companies and
+their business customers--surveillance capitalism. It is not
+being used for society.
+So, the public is being--not only is agency being
+subtracted from individual life, but the benefits of the
+digital are being sequestered from the life of our publics, our
+societies, our democracies. We have the opportunity to get that
+back and get us back on track to a digital century that
+actually fulfills its promise of knowledge, democratization,
+and really solving the problems that face us. That is what it
+is all about.
+The Chairperson. Thank you so much, Professor.
+And thanks to all of our witnesses.
+As I mentioned, the record of this Committee will be held
+open for at least five days. The Committee may have additional
+questions for you, and, if so, we will send them to you and
+humbly request that you answer them. I think that we have
+advanced our knowledge of this situation substantially today,
+and it is due to the very helpful and thoughtful testimony
+provided by these excellent witnesses.
+At this point, our hearing will be adjourned, and we will
+see the Members of the Committee tomorrow for our oversight
+hearing of the Capitol Police.
+So, with that, without objection, this hearing is adjourned
+with thanks.
+[Whereupon, at 4:22 p.m., the Committee was adjourned.]
+
+=======================================================================
+
+QUESTIONS FOR THE RECORD
+
+=======================================================================
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+=======================================================================
+
+SUBMISSIONS FOR THE RECORD
+
+=======================================================================
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

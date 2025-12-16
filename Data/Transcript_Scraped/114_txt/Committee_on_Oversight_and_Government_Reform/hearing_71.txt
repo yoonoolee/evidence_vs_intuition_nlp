@@ -1,0 +1,1876 @@
+- PREPARING FOR THE 2020 CENSUS: WILL THE TECHNOLOGY BE READY?
+
+[House Hearing, 114 Congress]
+[From the U.S. Government Publishing Office]
+
+PREPARING FOR THE 2020 CENSUS: WILL THE TECHNOLOGY BE READY?
+
+=======================================================================
+
+JOINT HEARING
+
+BEFORE THE
+
+SUBCOMMITTEE ON
+GOVERNMENT OPERATIONS
+
+AND THE
+
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+
+OF THE
+
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+
+ONE HUNDRED FOURTEENTH CONGRESS
+
+FIRST SESSION
+
+__________
+
+NOVEMBER 3, 2015
+
+__________
+
+Serial No. 114-82
+
+__________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Available via the World Wide Web: http://www.fdsys.gov
+http://www.house.gov/reform
+
+_________
+
+U.S. GOVERNMENT PUBLISHING OFFICE
+
+22-362 PDF                 WASHINGTON : 2017
+____________________________________________________________________
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+Internet:bookstore.gpo.gov. Phone:toll free (866)512-1800;DC area (202)512-1800
+Fax:(202) 512-2104 Mail:Stop IDCC,Washington,DC 20402-001
+
+COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+JASON CHAFFETZ, Utah, Chairman
+JOHN L. MICA, Florida                ELIJAH E. CUMMINGS, Maryland,
+MICHAEL R. TURNER, Ohio                  Ranking Minority Member
+JOHN J. DUNCAN, Jr., Tennessee       CAROLYN B. MALONEY, New York
+JIM JORDAN, Ohio                     ELEANOR HOLMES NORTON, District of
+TIM WALBERG, Michigan                    Columbia
+JUSTIN AMASH, Michigan               WM. LACY CLAY, Missouri
+PAUL A. GOSAR, Arizona               STEPHEN F. LYNCH, Massachusetts
+SCOTT DesJARLAIS, Tennessee          JIM COOPER, Tennessee
+TREY GOWDY, South Carolina           GERALD E. CONNOLLY, Virginia
+BLAKE FARENTHOLD, Texas              MATT CARTWRIGHT, Pennsylvania
+CYNTHIA M. LUMMIS, Wyoming           TAMMY DUCKWORTH, Illinois
+THOMAS MASSIE, Kentucky              ROBIN L. KELLY, Illinois
+MARK MEADOWS, North Carolina         BRENDA L. LAWRENCE, Michigan
+RON DeSANTIS, Florida                TED LIEU, California
+MICK MULVANEY, South Carolina        BONNIE WATSON COLEMAN, New Jersey
+KEN BUCK, Colorado                   STACEY E. PLASKETT, Virgin Islands
+MARK WALKER, North Carolina          MARK DeSAULNIER, California
+ROD BLUM, Iowa                       BRENDAN F. BOYLE, Pennsylvania
+JODY B. HICE, Georgia                PETER WELCH, Vermont
+STEVE RUSSELL, Oklahoma              MICHELLE LUJAN GRISHAM, New Mexico
+EARL L. ``BUDDY'' CARTER, Georgia
+GLENN GROTHMAN, Wisconsin
+WILL HURD, Texas
+GARY J. PALMER, Alabama
+
+Sean McLaughlin, Staff Director
+David Rapallo, Minority Staff Director
+Jeff Post, Government Operations Subcommittee Deputy Staff Director
+Sharon Casey, Deputy Chief Clerk
+Subcommittee on Government Operations
+
+MARK MEADOWS, North Carolina, Chairman
+JIM JORDAN, Ohio                     GERALD E. CONNOLLY, Virginia,
+TIM WALBERG, Michigan, Vice Chair        Ranking Minority Member
+TREY GOWDY, South Carolina           CAROLYN B. MALONEY, New York
+THOMAS MASSIE, Kentucky              ELEANOR HOLMES NORTON, District of
+MICK MULVANEY, South Carolina            Columbia
+KEN BUCK, Colorado                   WM. LACY CLAY, Missouri
+EARL L. ``BUDDY'' CARTER, Georgia    STACEY E. PLASKETT, Virgin Islands
+GLENN GROTHMAN, Wisconsin            STEPHEN F. LYNCH, Massachusetts
+------
+
+Subcommittee on Information Technology
+
+WILL HURD, Texas, Chairman
+BLAKE FARENTHOLD, Texas, Vice Chair  ROBIN L. KELLY, Illinois, Ranking
+MARK WALKER, North Carolina              Member
+ROD BLUM, Iowa                       GERALD E. CONNOLLY, Virginia
+PAUL A. GOSAR, Arizona               TAMMY DUCKWORTH, Illinois
+TED LIEU, California
+C O N T E N T S
+
+----------
+Page
+Hearing held on November 3, 2015.................................     1
+
+WITNESSES
+
+The Hon. John H. Thompson, Director, U.S. Census Bureau
+Oral Statement...............................................     6
+Written Statement............................................     9
+Mr. Steven I. Cooper, Chief Information Officer, U.S. Department
+of Commerce
+Oral Statement...............................................    14
+Written Statement............................................    16
+Mr. Robert Goldenkoff, Director, Strategic Issues, U.S.
+Government Accountability Office
+Oral Statement...............................................    23
+Written Statement............................................    25
+Ms. Carol R. Cha, Director, Information Technology Acquisition
+Management Issues, U.S. Government Accountability Office
+Oral Statement...............................................    39
+Written Statement............................................    41
+
+APPENDIX
+
+Rep. Plaskett Statement for Record...............................    78
+RESPONSE Director Thompson, Census, Questions for the Record.....    79
+RESPONSE Mr. Cooper, CIO, DOC, Questions for the Record..........   100
+RESPONSE Mr. Goldenkoff, GAO, Questions for the Record...........   108
+RESPONSE Ms. Cha, GAO, Questions for the Record..................   113
+
+PREPARING FOR THE 2020 CENSUS: WILL THE TECHNOLOGY BE READY?
+
+----------
+
+Wednesday, November 3, 2015
+
+House of Representatives,
+Subcommittee on Government Operations, joint with
+the Subcommittee on Information Technology,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittees met, pursuant to call, at 2:36 p.m., in
+Room 2154, Rayburn House Office Building, Hon. Mark Meadows
+[chairman of the Subcommittee on Government Operations]
+presiding.
+Present from Subcommittee on Government Operations:
+Representatives Meadows, Walberg, Carter, Grothman, Connolly,
+Maloney, and Clay.
+Present from Subcommittee on Information Technology:
+Representatives Hurd, Walker, Blum, Kelly, and Duckworth.
+Mr. Meadows. The Subcommittee on Government Operations and
+the Subcommittee on Information Technology will come to order.
+And without objection, the chair is authorized to declare a
+recess at any time. Thank you so much for being here. My
+apologies for being a little late coming from votes.
+We're here today to talk about a very important topic, but
+one that does not get much attention in the years that don't
+end in zero. And so as we talk about the Census, actually last
+month the Bureau released its operational plan for the 2020
+Census. The purpose of this plan was to ensure that the Bureau
+has all the necessary systems and procedures in place to
+effectively complete its core mission.
+As our witnesses' testimony will indicate, the plan for
+2020 is probably the most ambitious Census plan in our Nation's
+history. Quite simply, the Bureau is attempting to rewrite how
+the Census is conducted from the ground up, making it easier
+for people to respond and better value to the American taxpayer
+certainly as we look at that.
+These are laudable and necessary goals, particularly in
+light of the Bureau's track record. The 2010 Census cost some
+$12.3 billion or more than $100 per household. This is
+substantially more than the $8 billion or the about $70 per
+household cost of the 2000 year Census. In fact, we have to go
+all the way back to the 1970 Census to find a Census where the
+cost did not rise dramatically compared to its predecessor.
+To correct this unsustainable trend, the Census Bureau is
+attempting to greatly increase its ability to leverage
+technology to utilize preexisting data in a completely new way.
+Assuming the current design hold, this will be the first Census
+where Americans will be able to respond through the Internet.
+It will be the first where Nonresponse Followup enumerators
+will be able to collect data electronically and have the case
+list updated in real time and organize their route based on
+travel efficiency with directions. What a novel idea.
+It will be the first time that the Bureau will use both
+Federal, State, and local addresses updates for the past decade
+to avoid the added expense of a nationwide, in-field address
+canvass. It will also be the first time that the Bureau will
+use the Federal administrative records like tax returns and
+Medicare information to identify vacant housing units and to
+encourage self-response. This plan involves sending paper reply
+forms only to the older individuals that are in areas with poor
+Internet connectivity.
+If the Bureau can deliver on its plan, it's believed that
+the 2020 Census could cost less per household than the 2010
+Census and almost the same on an absolute level. However,
+``if'' is the key word in that last sentence, and in
+preparation for the 2010 Census, the Bureau spent some $600
+million attempting to build a proprietary handheld device for
+the enumerators to electronically report the field data.
+Despite this massive investment of hard-working American
+taxpayer dollars, poor program management led the Bureau to
+abandon that project in its entirety in 2008, forcing them to
+go back to paper response forms for the 2010 Census.
+The Bureau tells us that it has learned valuable lessons
+from that failed effort. The initiatives it is hoping to
+implement for the 2020 Census are several times the size and
+complexity of the program that failed in 2008 and it is why we
+are here today. Although I know that there are still some
+questions about how exactly the Bureau will use the
+administrative records, I feel confident in saying that all of
+the members on both the subcommittees are broadly supportive of
+what the Bureau is trying to accomplish.
+With that in mind, my goal today is to learn more about the
+Bureau's ongoing initiatives, but also make sure realistic time
+lines, deadlines, operational controls are in place to avoid
+the failures of the past. Given the current budget environment,
+we cannot afford another incident like happened in 2008.
+But in closing, I would like to thank all of our witnesses.
+And some of you I've met before. And I'm encouraged to have you
+with us for your time today and I look forward to working with
+you as the clock ticks towards a Census date of April 1, 2020.
+The chair now recognizes my good friend, the ranking member
+of the Subcommittee on Government Operations, Mr. Connolly, for
+his opening statement.
+Mr. Connolly. Thank you, Mr. Chairman. And thanks for this
+joint hearing, which is well-timed given the recent release of
+the 2020 operational plan for the Census.
+At the midpoint of this decade it's instructive to look at
+lessons learned from the last Census and the preparations
+underway for the next. The data derived from the Census
+provides a treasure trove of information both to the public and
+private sectors.
+For the government, Census data provides the foundation for
+our representative system of governance. From Congress down to
+local school boards, Census data is used to prudently and
+fairly allocate Federal, State, and local dollars to the
+communities we represent. For businesses, this information
+informs employment and capital investment decisions, critical
+for the private sector.
+The Census is one of the few government functions expressly
+mandated by the Constitution. By the way, so is the Postal
+Service. And the advent of technology holds the promise of
+making this once-in-a-decade enumeration less arduous and
+hopefully less costly.
+Success will be largely dependent on the management and
+deployment of technology. The Bureau's botched attempt to
+deploy mobile handheld devices for the 2010 Census actually
+increased costs--increased costs--by $3 billion. The 2010
+Census was 56 percent more costly than its predecessor in 2000.
+Today the Bureau is proposing to expand its use of
+technology, including new handheld devices, with the stated
+goal of lowering its latest estimated cost by nearly one-third.
+That is a noble goal. One of the new initiatives the Bureau
+believes will produce great efficiencies and savings is the
+commonsense step of cross-referencing data from other Federal
+and non-Federal sources, such as the IRS, the U.S. Postal
+Service, and others. A county-level test earlier this year
+showed using such records reduced the follow-up workload at
+homes known to be vacant by nearly 12 percent.
+In addition, the Bureau intends to expand use of modern
+technology. I hope we hear today what lessons from the 2010
+experience with handheld devices are being applied to this new
+effort.
+I'm also pleased to finally welcome the Census to the 21st
+century by offering an online response option. In today's high-
+tech mobile society, people simply expect to be able to conduct
+business online and in many cases in the palm of their hand
+with a smart device.
+I'm encouraged by Mr. Cooper's prepared remarks in which he
+indicates the Bureau is on track to meet its goals. As the
+Commerce Department's CIO, he is accountable for overseeing the
+Census Enterprise Data Collection and Processing initiative,
+which will integrate and standardize systems and data sharing
+across the Bureau.
+I want to congratulate him on his efforts to implement the
+FITARA act--better known as Connolly-Issa, Issa-Connolly--which
+is guiding IT investments with enhanced risk assessments and
+performance metrics. Commerce has been a leader among Federal
+agencies for embracing the new IT management model, and I would
+welcome his insight on how it has helped--or not--improve
+preparations for the Census.
+I also look forward to hearing responses from Mr. Cooper
+and Mr. Thompson, Director of the Census Bureau, to concerns
+raised by the GAO that the Bureau is not moving quickly enough
+to achieve certain milestones. For example, GAO has cited gaps
+in staffing and the deferral of key IT decisions, such as the
+scope of the IT infrastructure that will be necessary,
+cybersecurity protocols, and a procurement strategy for the
+handheld devices. These are important issues that must be
+resolved soon as the window of time in which the Bureau has to
+complete this transformation before end-to-end testing of the
+system is scheduled to begin in 2018.
+As Mr. Cooper notes, however, the Bureau has delivered its
+operational plan 3 years earlier than it did in 2010. And,
+hopefully, that allows us time to identify and address gaps or
+shortfalls well in advance of the deadline.
+Finally, Mr. Chairman, let me address the elephant in the
+room, which is the urgency for Congress adequately to fund the
+Census. Providing robust oversight of its operations and these
+IT investments is a laudable and necessary goal for us, but it
+is for naught if the Bureau does not have the resources it
+needs with which to execute its constitutional duty in what has
+now become a monumental task given the size of our population
+and the complexity of our country.
+The initial budget proposal offered by my friends for
+fiscal year 2016 would have reduced funding for the Census
+Bureau by $374 million, almost one-third compared to the
+President's request. I'm hopeful that last week's bipartisan
+budget agreement will allow us to restore those necessary
+investments. We cannot afford to shortchange an activity so
+fundamental to our democracy and the sustained well-being of
+our communities.
+I look forward to hearing from the panel. Thank you, Mr.
+Chairman.
+Mr. Meadows. Thank you, Mr. Connolly.
+The chair recognizes the chairman of the Information
+Technology Subcommittee, the gentleman from Texas, Mr. Hurd.
+Mr. Hurd. Thank you, Chairman. I would like to thank the
+distinguished gentlemen from North Carolina and Virginia for
+holding this important hearing today.
+Every 10 years the United States Census Bureau administers
+a very important survey of the American public. It's vital for
+many reasons. We will use the gathered information to ensure
+the proper distribution of government funds and the
+proportionate number of representatives in government. But in
+order to make sure the information collected is as accurate as
+possible, the Census Bureau must deploy the best possible
+tactics and plans to collect the data.
+I want to give credit where credit is due. The Census
+Bureau is attempting to go to great lengths to drive down their
+costs and the results will be significant. This is atypical of
+the culture in Washington where agencies always seem to be
+asking for more tax dollars without producing the results that
+warrant them. The Census Bureau has accomplished this by
+utilizing existing information and new technology, something
+that other Federal agencies could learn from.
+But like many Federal agencies, the Census Bureau has
+serious IT challenges that must be addressed and corrected now.
+First, while the Bureau has made some significant progress in
+fully staffing its IT department, a number of key leadership
+positions remain vacant. These positions need to be filled
+immediately, and I'm looking forward to this hearing today on
+how the agency plans to address this.
+Second, the Census Bureau hasn't addressed all the GAO
+recommendations on improving its IT systems. We saw what
+happens when agencies ignore IG reports with the massive data
+breach at OPM. This is a trend that I continually see as
+chairman of the Subcommittee on Information Technology, Federal
+agencies ignoring IG and GAO recommendations. It is vital that
+the Census Bureau take action to address all of the remaining
+recommendations as soon as possible.
+Finally, I agree wholeheartedly with the GAO and our
+witness, Ms. Cha, that the Bureau must begin now to make
+critical IT decisions. Their deferral of decisions in IT so far
+has, in my view, increased the overall risk around the 2020
+Census. I look forward to hearing from all our witnesses today
+on specific ways we can successfully utilize technology to
+complete an accurate and cost-effective Census in 2020. I yield
+back.
+Mr. Meadows. I thank the gentleman.
+The chair now recognizes Ms. Kelly, the ranking member of
+the Subcommittee on Information Technology, for her opening
+statement.
+Ms. Kelly. Thank you, Mr. Chair.
+Good afternoon. Mr. Chairman, thank you for holding this
+important hearing. I would also like to extend my thanks to the
+witnesses here today.
+The purpose of this oversight hearing is to determine if
+the Census Bureau's plans for 2020 Census is sufficient to
+ensure complete and accurate counts of the Nation's population.
+Getting an accurate count is important. Numerous key decisions
+are based on data collected from the decennial Census. Census
+data is integral in determining the equitable distribution of
+Federal funds, enforcing civil and voting rights legislation,
+and determining congressional proportionment, among other
+things.
+With advances in technology, we have tools available to
+help administer the Census more efficiently and accurately. For
+instance, in October 2014, the Bureau began an enterprise-wide
+IT initiative called the Census Enterprise Data Collection and
+Processing Program, which is intended to, ``deliver a system-
+of-systems to serve all of the Bureau's survey, data
+collection, and processing functions--rather than continuing to
+build and maintain unique survey-specific systems with
+redundant capabilities.''
+CEDCaP will help reengineer fieldwork by implementing an
+operational control system to track and manage field
+assignments. This will help census takers decide, using real-
+time data, which houses to visit on a daily basis.
+CEDCaP will also be responsible for the development of a
+Web-based survey application in order to maximize Internet
+self-response. The 2020 Census will be the first Census with
+the option of responding online. The Bureau will rely heavily
+on Internet responses as part of its cost-saving initiatives.
+The Bureau also decided to use mobile devices for field
+data collection purposes. The Bureau estimates it will save
+nearly $400 million through the increased use of technology,
+which is certainly to be commended.
+While technology can help increase efficiency, which yields
+significant sayings, I am also concerned about the safety of
+the public's personal information. As you may know, the Bureau
+experienced a data breach in July. While no sensitive
+information was stolen, this incident underscores the
+importance of having controls in place to protect sensitive
+information.
+I applaud the Bureau for responding swiftly to the breach
+and recognizing the need for continued monitoring of their
+systems. It is our job to ensure that these agencies have the
+resources they need to keep our private information safe from
+hackers.
+Additionally, I share GAO's concern that a number of
+important IT decisions have yet to be made for the 2020 Census.
+GAO recommends that key IT decisions be made quickly or we'll
+find ourselves in the situation we saw in 2010, where a costly
+IT project went awry, causing turmoil for the entire Census
+operation.
+I look forward to hearing from the Bureau regarding its
+ability to meet critical milestones as they finalize plans for
+2020, and I look forward to a productive discussion on this
+vital issue.
+I yield back the balance of my time, and thank you.
+Mr. Meadows. Thank you, Ms. Kelly.
+I will hold the record open for 5 legislative days for any
+member who would like to submit a written statement.
+Mr. Meadows. We will now recognize our panel of witnesses.
+I'm pleased to welcome the Honorable John Thompson, the
+Director of the U.S. Census Bureau; Mr. Steven Cooper, Chief
+Information Officer at the U.S. Department of Commerce; Mr.
+Robert Goldenkoff, Director of Strategic Issues at the U.S.
+Government Accountability Office; and Ms. Carol Cha, Director
+of Information Technology Acquisitions Management Issues at the
+U.S. Government Accountability Office.
+Welcome to you all.
+Pursuant to committee rules, all witnesses will be sworn in
+before they testify. So if you would please rise and raise your
+right hand.
+Do you solemnly swear or affirm that the testimony you're
+about to give will be the truth, the whole truth, and nothing
+but the truth? Thank you. Please be seated.
+Let the record reflect that the witnesses answered in the
+affirmative.
+And in order to allow time for discussion, we would
+appreciate if you would limit your oral testimony to 5 minutes.
+However, your entire written statement will be made part of the
+record.
+Mr. Thompson, who I would also say looks an awful lot like
+Robert De Niro, you are recognized for 5 minutes.
+
+WITNESS STATEMENTS
+
+STATEMENT OF JOHN H. THOMPSON
+
+Mr. Thompson. Thank you, Chairman Meadows.
+Chairman Meadows, Chairman Hurd, Ranking Members Connolly
+and Kelly, thank you for the opportunity to testify this
+afternoon. I'm also pleased to be testifying with Mr. Steve
+Cooper, the Chief Information Officer of the Department of
+Commerce, with whom we work very closely.
+I am honored to serve as the Director of the Census Bureau
+which has the tremendous responsibility of administering an
+accurate Census that fairly represents everyone in America. We
+have reached a major milestone in our preparations for the 2020
+Census. Just last month, we released an operational plan that
+allows us to change the way we have conducted the decennial
+Census for over 46 years and save $5.2 billion.
+For each Census since 1970, the paper-based process has
+been the standard, and it has been increasingly challenged by
+the growing diversity and complexity of our Nation. We do not
+believe that a paper-and-pencil approach to the Census is
+sustainable for the 2020 or future Censuses. The Census Bureau
+has concentrated on four innovation areas that have the
+potential to improve Census operations and save taxpayers
+money. I will briefly describe each of these innovation areas.
+First, we're building a more accurate address list, and for
+2020, we have reengineered the process to incorporate a 100
+percent in-office canvassing that will be supplemented with up
+to a 25 percent in-field operation. We have already started
+this effort, and we expect to realize $900 million in cost
+savings from this strategy.
+Second, we want to make it easier for people to respond,
+and our strategy incorporates not only the Internet as the
+primary response option, but also an integrated communication
+and partnership strategy and tailored contact strategies. We
+will mail an invitation to all housing units encouraging
+Internet response.
+For 28 percent of the addresses, however, in areas with low
+Internet connectivity, we will be including a paper
+questionnaire in the first mailing package. We will also
+incorporate a Census Questionnaire Assistance program with both
+telephone and Web-chat response options. We believe that by
+opening up the process and making it easy, we will encourage
+participation with respondents who have typically not
+responded. These efforts offer the potential of approximately
+$400 million in savings.
+Third, using existing information already provided to the
+government, we can reduce door-to-door visits in what we call
+the Nonresponse Followup operation. To reduce this workload, we
+are proposing to use administrative records for enumeration in
+two ways. We are planning to use administrative records to
+remove vacant addresses before sending census takers into the
+field, and we are also planning to use administrative records
+to enumerate occupied housing units after we have knocked on
+each door at least once. Using administrative records in this
+way will result in savings of $1.4 billion.
+Fourth, we are automating our field operations to save an
+estimated $2.5 billion. We will now use mobile technology to
+achieve significant efficiencies in the 2020 Census. I should
+note that we have successfully developed an innovative
+prototype system. We are now able to provide optimized
+assignments to our interviewers, including daily route
+assignments, the best time of day to attempt contact. We are
+also able to provide the supervisors of these enumerators real-
+time updates and alerts regarding the progress of the workers
+they oversee.
+Supporting these efforts is our enterprise approach to
+survey and Census data collection and processing through shared
+services, which we call CEDCaP. In the past, duplicative
+systems were created and used for every survey and Census. We
+will now move to a small suite of shared, reusable systems.
+Based on my experience in overseeing the 2000 Census and in the
+private sector, I am confident we are on course and we have a
+schedule for all major decisions.
+Finally, we are committed to protecting the privacy and
+confidentiality of individual information. The Census Bureau
+has implemented a robust, comprehensive, and layered
+cybersecurity program that is constantly evaluated by experts.
+The last 5 years have provided the groundwork for the 21st
+century Census. And now, looking forward, we must turn our
+attention to counting every person in America. But still a
+significant risk we face is receiving adequate funding. If
+adequate funding is not received in fiscal year 2016, we will
+prioritize activities to ensure that the 2018 end-to-end test
+will take place on time. We are committed to ensuring an
+accurate Census that fairly represents all people in America.
+If we have to defer activities to later years, the cost of the
+Census will increase.
+I am confident the Census Bureau can achieve these
+objectives given congressional support, and I look forward to
+discussing the 2020 Census operational plan and other aspects
+of our planning with you today. Thank you.
+[Prepared statement of Mr. Thompson follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Meadows. Thank you so much.
+Mr. Cooper.
+
+STATEMENT OF STEVEN I. COOPER
+
+Mr. Cooper. Chairman Meadows, Chairman Hurd, Ranking
+Members Connolly and Kelly, thank you for the opportunity to
+testify this afternoon. I am Steve Cooper, Chief Information
+Officer for the Department of Commerce. It is my pleasure to
+appear before the subcommittees and update you on our work as
+we prepare for a successful 2020 Census.
+The Census Bureau is working to ensure the necessary
+information technology, or IT, is in place to support the 2020
+Census. The Census Bureau faces an increasing set of
+challenges, including declining survey participation rates,
+increased survey costs per household, funding constraints, and
+cybersecurity threats. These challenges all create risk for the
+2020 Census and the Census Bureau has developed a multifaceted
+strategy that will address these challenges, will transform the
+business model, and modernize 2020 Census operations.
+The 2020 Census requires an IT architecture and
+infrastructure that is agile, flexible, scalable, and able to
+accommodate innovations and advances being introduced through
+IT. As the focus of the 2020 Census shifts from planning to
+execution, our collective attention must include IT readiness.
+The Census Bureau has made significant progress in process
+improvements, IT governance, and closing the skill gaps to
+ensure it is ready for the 2020 Census.
+One of the major enterprise initiatives supporting the 2020
+Census is the Census Enterprise Data Collection and Processing
+initiative, what we call CEDCaP. The CEDCaP initiative aims to
+create an integrated and standardized suite of systems that
+will provide shared data collection and processing solutions
+across all Census Bureau operations. As the Census Bureau
+proceeds, it is working to ensure that it strikes the right
+balance between commercial off-the-shelf solutions and custom-
+developed solutions.
+In terms of mobile solutions, the Census Bureau is
+exploring a mix of Device as a Service and Bring Your Own
+Device for the 2016 Census Test. The test results will inform
+subsequent decisions on which mobile devices are leveraged in
+support of the 2020 Census. In either mobile scenario defined,
+Census data will be protected at rest and in motion.
+The Census Bureau is also exploring cloud computing
+technology. Various tests are underway to explore processing
+and storing data in some combination of various cloud
+infrastructures. For the 2016 Census Test, the Census Bureau
+will deploy the Internet response option in a secure, FedRAMP-
+certified, commercially provided private cloud.
+The Census Bureauis further exploring how to best employ
+features like auto-scaling to meet performance demands of the
+2020 Census, particularly for systems such as the Internet
+self-response option that must scale to meet the short-term
+anticipated demand of millions of users.
+In support of this work, the Census Bureau has awarded an
+initial cloud computing services contract. This contract will
+also allow the Census Bureau to gain essential skills and
+knowledge to be applied during all phases of delivering the
+2020 Census.
+Obviously, securing confidential data is a major concern
+for the Census Bureau. The Census Bureau uses an enterprise
+layered defense strategy to protect its data and systems. For
+example, the Census Bureau relies on the Department of Homeland
+Security-managed Einstein program to protect external Internet
+traffic, and the Census Bureau's internal network is segmented
+to isolate the systems that are Internet accessible.
+The Census Bureau has also worked closely with NIST to
+implement a risk management framework for all of its systems.
+Each system also undergoes continuous monitoring to maintain
+its authorization. This monitoring consists of both automated
+and manual assessments.
+Finally, the Census Bureau continues to work with my office
+in their implementation of the Department of Homeland
+Security's Continuous Diagnostics and Mitigation program and
+our continuing ongoing cyber sprint effort.
+Based on my observations to date, the Census Bureau is well
+positioned to take advantage of early planning, testing, and
+operational designs. The 2020 Census program is also poised to
+leverage enterprise initiatives to realize significant
+efficiencies. However, to adequately implement these strategies
+and meet the challenges will require the best efforts of the
+Census Bureau and continued congressional support.
+I am deeply grateful for this opportunity to testify before
+this committee and share these observations, and I'm pleased to
+answer any questions you may have. Thank you.
+[Prepared statement of Mr. Cooper follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Meadows. Thank you, Mr. Cooper.
+Mr. Goldenkoff.
+
+STATEMENT OF ROBERT GOLDENKOFF
+
+Mr. Goldenkoff. Chairmen Meadows and Hurd, Ranking Members
+Connolly and Kelly, and members of the Government Operations
+and IT Subcommittees, thank you for the opportunity to be here
+today to discuss the progress the Census Bureau is making in
+controlling the cost of the 2020 enumeration.
+The Bureau's goal is to conduct the Census at a lower cost
+per household than the 2010 Census, adjusted for inflation,
+while maintaining accuracy. This would mean less than around
+$94 per household. It's an extremely difficult task as the
+population is growing steadily larger, more diverse,
+increasingly difficult to find, and less willing to participate
+in the head count. Moreover, the Census is conducted on a tight
+schedule with little room, if any, for slippage.
+The Bureau plans to hold down costs in part by expanding
+its use of data that has already been collected by other
+government agencies in the course of administering their
+programs. Known as administrative records, such information can
+help improve accuracy and reduce the need for labor-intensive
+field operations, especially during one of the most expensive
+of all Census activities, Nonresponse Followup. The Bureau has
+used administrative records in previous decennials, but not to
+the same extent as that planned for 2020.
+In my remarks today, which are based on a report we issued
+last month, I will describe the opportunities and challenges
+the Bureau faces in using administrative records and the steps
+it needs to take going forward to help ensure they produce the
+desired results.
+The Bureau estimates it can save up to $1.4 billion
+compared to traditional census-taking methods by using
+administrative records for three purposes during Nonresponse
+Followup. They include identifying and removing vacant and
+nonexisting housing units from the follow-up workload before
+Census workers start knocking on doors. Second, enumerating non
+responding occupied housing units if the information meets a
+certain quality threshold. And third, predicting the best times
+to visit a household.
+Using administrative records for these activities can
+greatly improve productivity. For example, in a test conducted
+in Arizona's Maricopa County earlier this year, the Bureau
+reduced the follow-up workload by 11 percent by removing vacant
+and nonexistent households.
+The Bureau is also exploring nine additional applications
+of administrative records that may help reduce cost or improve
+quality still further. The Bureau currently has access to data
+held by the U.S. Postal Service, IRS, and Selective Service
+System, among other agencies. It's also considering other data
+sets, such as the National Directory of New Hires. The Bureau
+believes the NDNH and other records could improve its ability
+to find historically hard-to-count populations, such as certain
+minority groups and young children. However, the Bureau still
+needs to secure statutory access to the NDNH.
+The Bureau's planned use of administrative records is
+commendable, but much work remains. For example, in our October
+report we recommended that the Bureau set deadlines to decide
+which, if any, of the nine additional uses of administrative
+records still under consideration will be used in 2020. This
+will help ensure the Bureau has sufficient time to review the
+data sets, determine their fitness for use, and fully test
+them.
+Final decisions are needed by the end of fiscal year 2017
+in order to be included in the Bureau's full end-to-end test in
+2018. However, these deadlines do not appear in schedule
+documents.
+The Bureau must also continue to address challenges to
+using administrative records, such as protecting confidential
+information and ensuring congressional and public acceptance of
+the Bureau's plan to share personal data across government
+agencies. Fully implementing our prior recommendations to
+strengthen the security of its information systems and
+developing a congressional outreach strategy could help address
+these challenges.
+In summary, the bureau has made noteworthy progress in
+expanding its use of administrative records. Going forward,
+though, perhaps one of the biggest risks the Bureau faces is
+the ticking clock. Any delays could have serious implications
+for downstream activities. As a result, continued congressional
+attention will be needed to help ensure that the Bureau, one,
+stays on schedule; two, sets deadlines for key go/no-go
+decisions on additional uses of administrative data; and three,
+fully implements our prior recommendations.
+This concludes my remarks, I'll be happy to answer any
+questions that you may have.
+[Prepared statement of Mr. Goldenkoff follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Meadows. Thank you.
+Ms. Cha.
+
+STATEMENT OF CAROL R. CHA
+
+Ms. Cha. Chairmen Meadows and Hurd, Ranking Members
+Connolly and Kelly, and members of the subcommittees, I would
+like to thank you for inviting me to testify today. It's your
+continued oversight in hearings like these that are vital to
+ensuring that the 2020 Census is effectively managed.
+The Bureau will rely on an enterprise-wide IT initiative
+called CEDCAP to deliver the systems and infrastructure needed
+to carry out its redesigned operations. For example, CEDCAP is
+planning to deliver an online survey instrument and a cloud
+computing solution to support an Internet response option. For
+field reengineering, the program is planning to implement a new
+system to track and manage fieldwork, as well as test the use
+of mobile devices for field data collection.
+Based on our work to date, I'd like to highlight two key
+challenges regarding the Bureau's plans for 2020. First, the
+deferral of key IT decisions in the face of time constraints.
+By August of 2017, the Bureau intends to begin preparations for
+end-to-end testing to validate that CEDCaP systems are ready to
+go live on Census Day. This gives the Bureau less than 2 years
+to develop and integrate planned systems.
+While the Bureau has made many key decisions about its
+redesigned Census as described in its October plan, there are
+critical IT decisions that have not yet been made, including
+whether the Bureau will build or buy the needed systems.
+This lack of prioritization of IT decisions has been a
+continuing trend, which we have reported on over the past few
+years. Most recently, in February we reported that the Bureau
+had not determined how key research questions would be
+answered, such as the expected rate of respondents using the
+Internet survey or the IT infrastructure needed to support this
+option. As such, we made recommendations to improve the
+Bureau's ability to answer these questions in time to make
+those decisions in October. However, this has not happened yet.
+Furthermore, the Bureau does not intend to make these
+decisions and other key ones until 2016 through 2018. Among
+other things, the build-or-buy decisions won't be made until
+next June at the earliest. Based on the current sequencing of
+planned decisions, the Bureau will have about a year to develop
+and then integrate these systems and then have them ready for
+end-to-end testing. Further, the mobile device strategy for
+fieldwork is not expected until 2 months after the start of
+this testing.
+Unless the Bureau makes these key decisions soon, it will
+likely run out of time to put CEDCaP systems in place. And I
+can refer you to the screen shot above, which shows examples of
+deferred 2020 decisions overlaid on top of the Census schedule.
+[Slide.]
+Ms. Cha. And, again, if you look from left to right, the
+first one, the build-or-buy decisions, June 2016 at the
+earliest, and then we come up on Census end-to-end testing,
+which preparations begin in August of 2017. So, again, there's
+very limited time to integrate and implement these systems in
+time for those tests.
+The second challenge is the Bureau's current IT posture. To
+its credit, important progress has been made to strengthen and
+institutionalize selected IT management areas, such as
+governance and requirements management. However, critical IT
+leadership gaps exist. Most notably, the Bureau is without a
+permanent chief information officer. Other key vacancies
+include the chief of the Office Information Security and chief
+cloud architect. The Bureau is aggressively working to close
+these gaps. But if they do remain open, its ability to
+effectively deliver CEDCaP will be hampered.
+In addition, the Bureau still has work remaining to fully
+address our recommendations to improve information security. In
+January 2013, we made 115 recommendations to address control
+deficiencies, such as access control to protect its systems
+from intrusion. As of today, the Bureau has fully addressed 66
+of them. The remaining open recommendations, of those, 30
+require additional actions by the Bureau and the other 19 are
+under review. Continued focus on completing this effort must be
+a high priority to ensure that sensitive information collected
+during the Census is adequately secure.
+In summary, with the deferral of key IT decisions, the
+Bureau is running out of time to implement the systems needed
+to support the redesign and achieve its projected $5.2 billion
+in cost savings. Moving forward, swift actions to fully
+implement our open recommendations must be taken. Doing so will
+improve the Bureau's ability to deliver on its IT plan and
+realize savings.
+That concludes my statement. I look forward to addressing
+your questions.
+[Prepared statement of Ms. Cha follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+Mr. Meadows. Thank you so much.
+The chair recognizes the chairman of the Subcommittee on
+Information Technology, Mr. Hurd, for 5 minutes for a series of
+questions.
+Mr. Hurd. Thank you, Chairman.
+And thank you all for your testimony today.
+And, Ms. Cha, I want to thank you for your written
+statement. It was very good in helping to explain some of the
+unique challenges that we're having to provide oversight on.
+My first question, I guess, is first to you, Director
+Thompson. We've talked about the lack of a permanent CIO. We
+talked about the lack of a chief of the business integration,
+which is managing the CEDCaP program. What are the plans to
+fill those spots? What are the challenges that you're facing in
+getting people there? And who is filling that role as a
+temporary basis?
+Mr. Thompson. Thank you, Congressman.
+So the job announcement for the CIO is out and available
+now. CIO Cooper and I have been widely circulating it so that
+we can be sure that we get a good number of applicants. Harry
+Lee, sitting behind me, has done an excellent job in the
+interim. He's the deputy CIO. And he's been doing a great job
+filling the vacancy in the absence, and we've made a number of
+accomplishments in the IT area.
+Mr. Hurd. How long have these spots been open?
+Mr. Thompson. It became open in July.
+Mr. Hurd. Okay. And we have applicants putting information
+in or submitting resumes or whatever the process is?
+Mr. Thompson. So I don't know that I can talk about the
+applicants at this point in the process.
+Mr. Hurd. Mr. Cooper, did you have something to add?
+Mr. Cooper. Yes. With the position open, it will remain
+open for 30 days. Our human resources group will do the initial
+processing of those applicants and those who are well qualified
+will be passed to the appropriate review panel. We'll then make
+that ultimate decision about selecting a CIO.
+Mr. Hurd. Because my concern is----
+Mr. Cooper. So we have not yet seen any of the responses. I
+don't have any information on that.
+Mr. Hurd. Thank you. My concern is with the lack of an
+identified leader in managing this process, if CEDCaP is going
+to be the process, and we have less than 2 years, we need to
+make sure that that person is in place.
+My next set of questions is there was 115 recommendations,
+as Ms. Cha pointed out in her written and verbal testimony. We
+have information that 19 of those 115 have been addressed and
+work has started on 66, or 66 of those have been addressed. Can
+you give me an update?
+Mr. Thompson. Certainly. So last April, when we received--
+well, last April we responded to all 115 recommendations that
+the GAO made, and we've been working with the GAO since that
+point. To date, we believe that they have closed 65 of them. We
+believe that they referred 19 back to us. And based on our
+discussions, we're still waiting to hear from them on about 30
+more. So that's the current status from our records.
+Mr. Hurd. Ms. Cha, do you have any insights or comments on
+that?
+Ms. Cha. Sure. So as of today, 66 have been closed out. But
+I believe Director Thompson has those numbers transposed. There
+are 19 that are currently under review and there are 30
+remaining recommendations that still require additional actions
+by the Bureau.
+Mr. Hurd. What's the biggest priority one of those 30 that
+require action?
+Ms. Cha. Sure. So in terms of the open recommendations,
+they relate to the identification and authentication types of
+controls. So that would be like password controls, unsecured
+system accounts and access, as well as configuration
+management. So that would be like----
+Mr. Hurd. All the things that have led to a number of
+breaches not only in the private sector, but in the Federal
+Government.
+Ms. Cha. That's correct.
+Mr. Hurd. And I'm going to address this to you, Mr. Cooper,
+since this falls in your bailiwick. What's being done to
+address that, on the authentication and the patch management
+programs?
+Mr. Cooper. Okay. We've taken a couple steps proactively
+following the recent OMB 30-day cyber----
+Mr. Hurd. Let me rephrase the question. When is this going
+to be completed?
+Mr. Cooper. I wish I could give you an exact date. We have
+initiated a whole series of activities that are targeted for
+completion by 31 December of this fiscal year--I'm sorry, this
+calendar year. That does include the open actions from the GAO
+report.
+We've also taken an additional step, and that is that we've
+created internal cross-bureau teams of our cyber experts, and
+we are bringing those to bear to assist all of our bureaus but,
+in this case the Census Bureau, in helping close these actions.
+So in addition to the Census Bureau's cyber experts, we've
+brought additional expertise from within the Department. We
+believe that that will help us both meet our target deadline
+and bring additional skills and expertise objectively to bear
+on these open items.
+Mr. Hurd. Thank you.
+And my last question to you, Director Thompson, and I'm
+running out of time, I've run out of time, if you realize
+savings from using new technology or a different process, are
+you able to use that savings within the calendar or the fiscal
+year on other projects?
+Mr. Thompson. Congressman----
+Mr. Hurd. And that's not a trick question.
+Mr. Thompson. No, no, I know----
+Mr. Hurd. Because I'm trying to figure out, if you're doing
+things, you're realizing savings, I want you to be able to use
+those savings to go back in to do your work.
+Mr. Thompson. So we are not going to be asking for anything
+more than the money we need to do the Census, and we believe
+that we are going to avoid $5.2 billion in costs. In saying
+that, we also plan to make sure that we have the right
+resources in the right areas to make sure we count everyone as
+well.
+Mr. Hurd. Mr. Chairman, I apologize, I yield back the time
+that I do not have.
+Mr. Meadows. No, I thank the gentleman for his insightful
+questions.
+The chair recognizes the gentleman from the 11th District
+of Virginia, Mr. Connolly.
+Mr. Connolly. Thank you, Mr. Chairman. And I want to point
+out I think three of our witnesses are Virginians and all three
+confirmed under oath that they voted.
+Now, Mr. Thompson, where are you from.
+Mr. Thompson. I'm from Old Town Alexandria.
+Mr. Connolly. All right. So you're a Virginian. All right.
+All four. Bless them. Wonderful people doing wonderful work,
+let's just be honest.
+Anyway, thank you, Mr. Chairman.
+First of all, I want to say to all of you on the panel,
+you've got four people up here who actually care about the
+mission and are focused on it and not allowing a lot of
+extraneous issues to get in our way of trying to be supportive
+in a rational way.
+And I would just note that, because I really appreciate my
+friends, Ms. Kelly and Mr. Meadows and Mr. Hurd, for really
+being in a collaborative spirit, and we're collaborating on
+especially a lot of other IT issues too. I just want to say
+that because it doesn't happen as often as we'd like up here
+and it hardly ever gets recognized when it does. And so I hope
+we can take this as a magic moment and try to work together
+with the executive branch on the Census.
+Yeah, that's right.
+Director Thompson, help us understand, how much money do
+you believe the Census requires to undertake its mission this
+next time? We're trying to follow the numbers.
+Mr. Thompson. So we estimate that we're going to, for the
+full cycle cost of the Census' interoperational plan, we're
+going to require $12.3 billion.
+Mr. Connolly. $12.3. And is that what you requested in the
+budget?
+Mr. Thompson. Well, we request the budget on a yearly
+basis.
+Mr. Connolly. I know.
+Mr. Thompson. We are moving towards that with our request
+for fiscal year 2016.
+Mr. Connolly. And what do you project right now the
+shortfall between the request--I think I cited $375 million,
+but that's probably just for 1 year--what is the shortfall
+between what you need and so far what has been appropriated or
+what you project to be appropriated?
+Mr. Thompson. Congressman, I think you hit the number on
+the head when you mentioned the shortfall that we initially saw
+for fiscal year 2016. However, we haven't seen the final
+appropriation----
+Mr. Connolly. We haven't either.
+Mr. Thompson. --for fiscal year 2016.
+Mr. Connolly. We haven't either.
+Are you able to disaggregate for the purposes of funding
+the Census what you think you would get appropriated pursuant
+to the new budget agreement we passed last week? We increased
+domestic discretionary investments by roughly $25 billion for
+this next fiscal year in that budget agreement, 25 for defense,
+25 for domestic. Any idea how much of your projected shortfall,
+in an ideal world, I know it's hard because we haven't
+appropriated it yet, but any sense of whether that would help
+the funding shortfall?
+Mr. Thompson. Congressman, the only numbers I'm familiar
+with are the President's budget and the actions that have taken
+place.
+Mr. Connolly. Okay. Well, I think it's going to be really
+important to follow that and have better answers. I can't ask
+you to have a better answer yet. We don't either. But if the
+four of us are going to be helpful and supportive----
+Mr. Thompson. Right. But we are preparing to work with the
+Congress to explain exactly how we'll spend every dollar that
+we get----
+Mr. Connolly. There was a method to my madness in telling
+you you've got four people here who actually want to get
+something done and be productive. And part of that is the
+budget. But we got to know--we've all got to be on the same
+page in terms of those projected numbers.
+Mr. Cooper, thank you for your leadership as CIO. Would
+that we could replicate you in lots of other Federal agencies.
+Help us have confidence. In 2010, we had a handheld device
+meltdown. We're doubling down on those devices for this next
+go-round. What makes us confident that we're, in fact, going to
+make it work and save money, as opposed to another meltdown,
+only double?
+Mr. Cooper. Okay. The first observation would be that in
+2010--and I was not part of the Department in 2010, so the
+information I'm sharing is information I've gained since coming
+onboard. If I don't get something exactly right or if you need
+more detail, I'm more than happy to come back up, set up
+briefings, fill in the details. But based upon what I've
+investigated and what I've kind of been involved and learned,
+the first important difference, the technology that was used or
+attempted to be used in 2010 was very specific, specialized,
+proprietary technology.
+Now, compare and contrast that. In 2020, we're using
+commercially available solutions. They're off the shelf.
+They've been proven in industry. We're talking about
+smartphones, old devices. I think probably every one of us in
+this room carry some type of phone, smartphone type of device.
+We may carry a tablet, that type of thing. So a huge
+difference. This is not unproven, single-use, proprietary
+technology.
+What also comes with that? Industry itself, all of the
+carriers, major telecom carriers, as well as the device
+providers, have invested significant amounts of expertise,
+research and development dollars into helping secure those
+devices.
+So, again, this is not something where the Census Bureau by
+itself takes the lead responsibility along with its industry
+partners. That's a huge, important, significant difference in
+my ability to say to you with confidence we're not repeating a
+similar type of scenario. We're using proven technology, well
+understood, well proven in the marketplace. We are then,
+additionally, applying our own NIST-driven security protocols,
+risk framework, cybersecurity framework, GAO recommendations,
+IG recommendations all come into play, so that we have a
+significantly higher degree of confidence in being able to use
+those platforms in field operations.
+Mr. Connolly. Thank you very much.
+Thank you, Mr. Chairman.
+Mr. Meadows. The chair recognizes the gentleman from Iowa,
+Mr. Blum, for 5 minutes of questioning.
+Mr. Blum. Thank you, Chairman Meadows.
+Thank you to the panel today for sharing your insights with
+us.
+They say that genius is the ability to reduce the
+complicated to the simple. And it would be great to have a
+little genius in the Federal Government. So toward that end,
+Mr. Cooper, do we have a database of all the addresses in the
+United States of America.
+Mr. Cooper. My understanding is the closest we have to that
+in the Census Bureau is the Master Address File. I believe that
+in addition to that there are supplemental databases, also
+administrative records that the Director has talked about in
+some of the earlier GAO testimony. Therefore, I'm going to say,
+but I'm going to ask for help from my fellow panelists, I don't
+believe that there's a single master file of every housing unit
+in the United States.
+But is that in the Master Address File?
+Mr. Blum. Would the Postal Service have that?
+Mr. Thompson. Can I respond?
+Mr. Blum. Absolutely.
+Mr. Thompson. We maintain a master address list that we try
+to make as accurate as possible, that contains every address in
+the United States, both mailable addresses and those that
+aren't mailable. And we are in the process now of continuously
+updating it. So we work with the States and localities that
+want to participate and take their lists and put into it. Twice
+a year at least we get a feed from the post office and they
+give us updates to their delivery sequence file. So we try to
+maintain this address list and make it as accurate as possible
+so that when we take the Census we have every housing unit in
+there.
+Mr. Blum. Safe to say we have 99 percent of the addresses
+in the country in the Postal System's database? Ninety-eight
+percent? High percentage?
+Mr. Thompson. So we actually believe that we have an
+address list that is a little more complete than the post
+office's list because we actually go into structures that don't
+receive mail and list the addresses. And part of what we're
+going to do before the next Census in about 25 percent of the
+country is actually go knock on doors, ask if there are hidden
+addresses, to make sure that we get every address in the
+country where someone can reside, whether or not they get mail
+at that address.
+Mr. Blum. And your job is to count the number of people
+living at each address, correct, simply put?
+Mr. Thompson. Yes.
+Mr. Blum. I just want to make sure. Maybe I'll ask Mr.
+Cooper this. Do you think we're unnecessarily complicating
+this? I come from the high-tech industry, the private sector. I
+know how this can go.
+Mr. Cooper. My direct answer would be no, sir, I don't
+believe that we are overly complicating it. But here is what's
+going on. We're moving from pencil-and-paper processing to
+leveraging technology in a more fully automated way. So the
+transition is complicated, complex, and we need to manage that
+extremely well and extremely rigorously and thoroughly. But I
+do not believe that we are making it more complicated than it
+needs to be.
+Mr. Blum. Mr. Cooper, I think it's called CEDCaP?
+Mr. Cooper. Yes, sir.
+Mr. Blum. I read there was a mention of the last Census, I
+believe we had over 100 duplicative systems? To me, that's, A,
+amazing, and, B, a recipe for disaster. How are we changing
+that this Census?
+Mr. Cooper. CEDCaP, I admit, Congressman, I don't know the
+exact numbers. So I accept the numbers that you're saying on
+what did exist and the number of duplicative systems.
+Here's the really good news. CEDCaP, in fact, is being
+architected, engineered, and it is well on the way to replace
+all of those, at least as many as are appropriate to the 2020
+decennial and the concomitant operations, to replace that with
+a single architected, well understood, not complicated
+environment ecosystem, if you will, that will serve all data
+collection and all operational processing of that data in the
+conduct of the 2020 decennial.
+Mr. Blum. The last thing, my time is running short, as I
+was reading, it seems to me the largest savings is in the
+Nonresponse Followup organization, $2.5 billion in savings,
+which would be fantastic. The wording in there said that we've
+developed or are developing a prototype system that
+incorporates commercial off-the-shelf technology, which I think
+is great, rather than developing it custom. Can you talk to me
+about that?
+Mr. Cooper. As much as I have been fully briefed and I
+understand what I've been told, which are two different things,
+the fact that we are using commercial off-the-shelf solutions
+is certainly something that I, in my CIO role, are fully
+supportive of. Based on your reflection on your background, I
+fully concur with you.
+By using commercially proven off-the-shelf software, same
+thing that I testified just briefly about, the mobile devices,
+mobile technology, that type of thing, those same benefits
+apply, okay? We have proven technology. We've got a lot of
+additional expertise that has been brought to bear. It usually
+incorporates architected security features that we then can
+take advantage of. They're well known, well proven across the
+industry.
+Wherever we can, and it's in the operational plan that was
+recently shared with Congress and released publicly, we are
+leveraging commercial off-the-shelf software and solutions.
+Mr. Blum. Excellent.
+And I'll yield back the time I do not have, Chairman
+Meadows.
+Mr. Meadows. I thank the gentleman.
+The chair recognizes the gentlewoman from Illinois, Ms.
+Kelly, for 5 minutes.
+Ms. Kelly. Thank you, Mr. Chair.
+The CEDCaP program is intended to help the cost-saving
+efforts for 2020. Mr. Cooper, your written testimony for today
+notes that CEDCaP, ``aims to create an integrated and
+standardized system-of-systems that will offer shared data
+collection and processing across all Census Bureau
+operations,'' and you seem very positive about the program.
+Ms. Cha, what steps should the Bureau take to ensure that
+CEDCaP systems are ready for planned end-to-end testing.
+Ms. Cha. Sure. So with CEDCaP, the system-of-systems
+approach, there are 12 projects underneath it. And what we find
+across the Federal Government with these troubled or failed IT
+projects, the common thread behind all of these is that they're
+simply too large in scope. And so, obviously, with FITARA and
+the best practices that GAO endorses, going incremental is the
+right approach. You want to chunk out these large scope efforts
+into these smaller pieces that are more manageable in nature.
+So in looking at the scope of CEDCaP itself, it's simply
+too large given the time remaining. And the concern that we
+have from GAO's perspective is we're getting to a point where
+time is going to drive the technology that can be delivered for
+2020, as opposed to business requirements. So the absolute
+first thing that the Bureau should be doing is to make these
+key IT decisions as soon as possible.
+Ms. Kelly. And what would be the effect if the Bureau does
+not have that CEDCaP systems in place before end-to-end testing
+begins?
+Ms. Cha. Right. Well, the end-to-end testing is absolutely
+critical ensuring that--in terms of an effect, you know, most
+recently the most high profile effect that we have seen is
+healthcare.gov, where they gave short shrift to that end-to-end
+testing. And so if the schedules keep compressing and move to
+the right, then we very could well could have another
+healthcare.gov on our hands.
+Ms. Kelly. Mr. Thompson, do you disagree with that?
+Mr. Cooper. First, overall, we absolutely concur with our
+GAO colleagues. We are doing some very specific things,
+including applying learning from healthcare.gov. I would agree
+with Ms. Cha that a significant failure was the lack of
+comprehensive end-to-end testing.
+We are doing, I think, exactly the right type of approach
+and it does accommodate the recommendations coming from GAO.
+First, one way to think about how we are going at CEDCaP is
+it's a building block approach. I mean, playfully think Legos.
+We're creating modules and we are thoroughly both planning the
+integration, rigorous architecture around each of those
+modules. Those modules or building blocks are then being
+brought together. But we know where the integration of these
+building blocks occurs, we have both unit testing and system
+testing for each of these building blocks, and they are being
+tested again.
+So we have full-time. I admit we have to stay on schedule.
+If we slip schedule, that's a risk. And I can share what we're
+doing to prevent that and to accommodate it if it should occur.
+But most important, we've built into our plan a very aggressive
+and rigorous iterative approach, agile approach, so that we're
+not building out the entire solution before we test anything.
+We're testing as we go. The likelihood that we will miss any
+fatal error becomes significantly reduced by this approach.
+Then, when we kind of add and test, add and test, add and
+test--and when I say add, it's additional functionality,
+additional capability--what we end up with is significantly
+reduced risk as we move toward our end-to-end testing.
+Ms. Kelly. Okay. Mr. Thompson, any other comments?
+Mr. Thompson. No, I agree with Mr. Cooper. We enjoy the
+relationship we have with the Department of Commerce and the
+governance process that we have in place.
+I would say one thing, that I was fortunate enough to have
+been the career person in charge of the 2000 Census. And we
+successfully delivered a number of very, very complicated IT
+systems that were state of the art at the time.
+When I went to NORC in Chicago we also put in place some
+very, very sophisticated IT systems. So I have a lot of
+experience in working with creating IT systems that work. And
+that's one of the reasons I came back to the Bureau, because I
+saw an opportunity to realize technology to save the government
+a significant amount of money and improve accuracy.
+Ms. Kelly. According to the operational plans, the Bureau
+will begin preparations for end-to-end testing of all systems
+and operations August 17. Is that accurate? 2017.
+Mr. Thompson. That's accurate. We refer to it as the 2018
+test because the Census Day is April 1, 2018, but we have to
+start in preparations in 2017.
+Ms. Kelly. Okay. I yield back also the time I don't have.
+Mr. Meadows. I thank you.
+Mr. Cooper, let me follow up on you indicated that one of
+your concerns was that it was a proprietary technology, the
+handheld technology of our previous fiasco, I guess is how I
+would characterize it, and that somehow because we now have
+smartphones that that's going to fix the problem.
+We had smartphones in 2008, at least we did in North
+Carolina. I assume you did here in Virginia. So if that's the
+case, it's not really a hardware problem, it's something a lot
+more significant than that.
+Mr. Cooper. I would agree with you. What I meant by a
+proprietary solution was is that we were building an integrated
+hardware platform that was----
+Mr. Meadows. Who was building it?
+Mr. Cooper. Census Bureau and----
+Mr. Thompson. Harris.
+Mr. Cooper. Harris Corporation was the prime contractor on
+that integrated solution.
+Mr. Meadows. So when it failed, who pointed the finger at
+whom?
+Mr. Cooper. I would have to defer to my colleagues. I was
+not present in the Department of Commerce at the time and I
+don't know the answer.
+Mr. Meadows. If I see somebody smiling behind you maybe you
+can ask him.
+Oh, you've got that Director Thompson.
+Mr. Thompson. So I actually was involved in the issue. I
+was called by Secretary Gutierrez to be on the special panel
+that give him recommendations, so I did look at it. And it
+seemed like that there was a lot going on on both sides in
+terms of defining and agreeing on what the specifications
+should have been. But the big problem was they were trying to
+invent a software--a hardware technology that just didn't
+exist.
+Mr. Meadows. But aren't we trying to do--we're trying to
+develop an app now for an iPhone? I don't want to say iPhone.
+Android. Whatever it is. I mean, I can see that the endorsement
+comes. Is that what we're trying to do, is develop an app?
+Mr. Cooper. Yeah, the difference----
+Mr. Meadows. Because here's my concern. We're talking about
+all this testing that's going on. How do we test something that
+we haven't even decided what the design is all about. I mean, I
+don't buy that, that we're testing.
+Mr. Cooper. That's fair. In this case what we are already
+operationally field testing is the following: We are using a
+well-proven--my remarks--a well-proven platform. Think of
+this----
+Mr. Meadows. So we're using the smartphone.
+Mr. Cooper. All right. We have developed, it's already
+developed, we have a developed application----
+Mr. Meadows. You've got an app.
+Mr. Cooper. Yes, sir.
+Mr. Meadows. So I could download the app on my phone today.
+Mr. Cooper. Yes, sir. Yes, sir.
+So the field testing, most recently in Scottsdale, Arizona,
+and it's planned now for several additional broader locations,
+the application rides on a proven platform rather than that
+integrated, single hardware integrated with proprietary
+software that we did in 2010. A very different approach,
+architected very different.
+It allows us to do a couple very important things. First of
+all, with a proven technology platform, what we are really
+focused on is, as best we are able to, industry plus best
+practice, industry best practice, our best practices, secure
+the platform itself. More importantly, the application is about
+collecting the data. We now have the ability to separately go
+after securing the application, access to the application----
+Mr. Meadows. And I get all that. Let me cut to the chase.
+Mr. Cooper. Please.
+Mr. Meadows. Here is my concern. Looking at your time frame
+and how it's already moved to the right, and looking at when we
+will be testing it and when you will go out with your RFP for
+whether you build it or somebody else builds it, we're running
+out of time. And if we're sitting there worried about how a
+handheld device is collecting the very simplest of data, and I
+come from where Google headquarters, all your data is stored in
+my district, and so if that's what we are working on at this
+point, you know, that's like saying we're working on the
+steering mechanism for a car, believing that the car is going
+to work okay. It may steer okay, but it may not run.
+And so that may be a crude analogy, but we have to be a lot
+more end to end in terms of what we're trying to do. And my
+concern is from a technology standpoint, we are nowhere near
+close, other than conceptual. And I see some heads shaking no,
+so they're saying that that's inaccurate.
+So go ahead, I'll give you this chance to--I'm sorry, I
+keep reading body language behind you. But go ahead.
+Mr. Cooper. We don't have the advantage of seeing behind,
+but I can see it in the reflection of my glasses.
+Mr. Meadows. You must not be a parent. We have eyes in the
+back of our heads.
+Mr. Thompson. I'm a parent, but my youngest kid is 30 years
+old.
+Mr. Meadows. Go ahead.
+Mr. Thompson. So we have already built a prototype system
+and tested it in the field and we are----
+Mr. Meadows. For the data collection?
+Mr. Thompson. For the data collection and for the control.
+And we built that system using basically existing technology
+and existing software from vendors. We only put our parameters
+into it. We didn't invent new software.
+The big decision we have to make is do we scale up this
+prototype to do the whole Census or do we buy a solution to
+scale it up. But we already have defined requirements for what
+we need, that's the beauty of this prototype. So we have the
+requirements for what the device has to do, and we have engaged
+the Carnegie Mellon Software Engineering Institute to help us
+make the right build-or-buy decision and put that----
+Mr. Meadows. But, Director, how is that different than what
+we had in 2008? Because we had a defined technology. It was
+proprietary given that, so maybe it was not proven. But how is
+it different than that?
+Mr. Thompson. So in 2008 they didn't have the
+specifications.
+Mr. Meadows. So we designed something with not knowing?
+You've got to be kidding.
+Mr. Thompson. They were still trying to design the
+specifications.
+Mr. Meadows. Okay. All right.
+Ms. Cha, let me come to you. What am I missing here in
+terms of do you have concerns?
+Ms. Cha. We do have concerns. And, Chairman Meadows, to be
+clear, the systems that they're talking about at this time are
+the applications. These are prototype systems. And, again, in
+terms of scaling it to the production needs for 2020, we do
+have concerns that given the available time remaining, that
+hardening those prototypes so that they meet 2020, that's not
+an assumption--I think that's a dangerous assumption to make,
+that these prototype systems will be in place.
+But I think for the key lesson learned from 2010, coming
+out of that, it's that the Bureau underestimated the technical
+complexity associated with those handhelds. And so even though
+they are not developing new devices, that lesson is still
+important in looking at the total magnitude of what they are
+intending to do with the operational control system to manage
+the field work with the Internet response option, with the
+devices that ultimately will be deployed.
+When you look at this collectively in the remaining time, I
+think it's fair for the Bureau to again make decisions now,
+take steps to reduce scope, take things off of the table so
+that they are positioned for success.
+Mr. Meadows. I'm out of time. Let me just share this. We
+want you to succeed. But the other thing that Mr. Connolly and
+I and Mr. Hurd and Ms. Kelly, we don't want egg on our face.
+And there is no way I'm going to allow this to continue to
+progress without certainty.
+Mr. Cooper, one of the problems I see is the lack of
+specificity in terms of deadlines and what is to be
+accomplished by those deadlines. So I'd ask that you work with
+the committee on providing that.
+And ultimately you're going to have four people, as Mr.
+Connolly said, willing to go and fight for appropriations and
+get you the tools, but lack of planning and lack of strategic
+implementation is something that we don't want to find 6
+months, 12 months from now where we are spending a lot of money
+going the other way.
+I'm going to recognize the gentleman from Missouri, Mr.
+Clay, for 5 minutes.
+Mr. Clay. Thank you, Mr. Chairman. And hopefully I can take
+some liberties with the time just to share with you and the
+rest of the committee that for the 2010 Census I was sitting in
+your chair, I chaired the Oversight Committee. And when we ran
+into the issue with the handheld, it cost the taxpayers quite a
+bit. It doubled the cost of the 2010 Census compared to the
+2000 Census. And it was a mistake that should have been
+avoided, but wasn't. And so hopefully we have learned from that
+mistake.
+And according to GAO, fundamental weaknesses in key IT
+management practices contributed to the Bureau not being able
+to successfully deploy custom-developed handheld enumeration
+devices for Nonresponse Followup, which increased the cost of
+the Census by up to $3 billion.
+GAO has reported that the Bureau faces a number of
+challenges with, ``developing and deploying the information
+technology systems and infrastructure it plans to rely on to
+conduct the significantly redesigned 2020 Census.''
+Ms. Cha, is that correct?
+Ms. Cha. That's correct.
+Mr. Clay. Mr. Cooper, what is your response to that
+assessment?
+Mr. Cooper. I think, as we have stated, first, we agree
+with the GAO recommendations. We are working diligently to
+respond to all of those recommendations. We've shared some of
+the numbers and the status with you. We'll continue, you have
+my commitment, we'll continue to keep all of you informed of
+this status as we move forward.
+I heard Chairman Meadows loud and clear over addressing the
+concern over lack of decision deadlines; same point made by
+GAO. I hear it. I will certainly personally take the commitment
+to address it, working with my Census Bureau colleagues.
+I think that's the quick summary of the approach, and I'm
+more than happy to come back, dive into detail, and add any
+additional information that would be helpful.
+Mr. Clay. All right, okay.
+Now, let me address the next one to Mr. Cooper. And let me
+preface this by saying this is 2015, and if I'm correct, this
+is the time to ramp up, to get ready for the 2020 Census. And,
+Mr. Thompson, I heard you loud and clear that this is not the
+time for Congress to be playing tricks and using smoke and
+mirrors with the Census Bureau's budget because this is ramp-up
+time, this is time for you to be prepared to eventually get to
+2020 and conduct the Census successfully and to eliminate the
+undercounts and the overcounts.
+But, Mr. Thompson, in April 2014, GAO reported that the
+Bureau had not prioritized key IT research and testing needed
+for its design decisions. How do you respond to that?
+Mr. Thompson. So what we have done is we have been working
+very diligently to do research and testing. We started in 2013
+when the Bureau--that's before I got there, the Bureau had some
+budget cuts, and they reprioritized their whole, entire
+research program. And importantly, they established the key
+milestone, which was for the beginning of fiscal year 2016,
+this past September, that they would release an operational
+plan that did two things. It laid out as many key decisions as
+could be made and, importantly, laid out a process for making
+the remaining decisions.
+And we have at the Bureau done that. We released an
+operational plan. It lays out a schedule. It lays out a
+schedule for making our key decisions, leading up to an
+integrated end-to-end task in 2018--well, Census Day is 2018,
+it starts in 2017.
+Mr. Clay. Sure.
+Mr. Chairman, may I talk to Mr. Goldenkoff, because he and
+I were involved in the 2010 Census.
+Do you see anything we need to be watching out for going
+from this time line forward that are similar to what we
+experienced in the 2010 Census?
+Mr. Goldenkoff. Yes. I think that both the Census Bureau,
+the Department of Commerce, and both subcommittees need to be
+extremely sensitive to the early warning signs. And I think
+that some of those early warning sides were not heeded back in
+the lead-up to the 2010 Census. For example, GAO had pointed
+out a number of issues with the handheld device beginning, I
+believe, in 2006. There were yellow flags being raised all over
+the place. And there was just a tendency, I think, for the
+Census Bureau to perhaps discount some of those concerns.
+I think the environment is much better now, the Census
+Bureau is much more responsive to recommendations from us, to
+your oversight, from the IG's office, but we just need to be
+sensitive to those early warning signs. Delays, you know,
+concerns about the lack of time, they're starting to crop up.
+So funding issues, need to make sure that the Census Bureau has
+reliable funding throughout the course of the decade. It is not
+only the actual amount of the money that they get, obviously
+that's important, but uncertainty is also an issue too.
+So those are some things that right now, while there's
+still time, we all need to be sensitive to.
+Mr. Clay. Thank you.
+Thank you, Mr. Chairman.
+Mr. Meadows. I thank the gentleman for his insightful
+questions.
+And the chair recognizes Mr. Grothman, the gentleman from
+Wisconsin.
+Mr. Grothman. Thank you. I have a couple of questions here.
+Over time I think, you know, insofar as a garden variety
+legislator who calls about the Census, it's about some of the
+questions that are asked. Not about the Census every 10 years,
+but, I don't know what you call them, these more broad
+questionnaires that get sent out, correct? What do they call
+them, the broader----
+Mr. Thompson. Are you referring to the American Community
+Survey?
+Mr. Grothman. Yeah. How long do you retain the information
+on those surveys?
+Mr. Thompson. Since they are part of the decennial Census,
+we retain a permanent record of them. And 72 years after
+they're collected then they can be made available to the
+American public.
+Mr. Grothman. You mean, you're even going to make those
+available sometime, even 72 years?
+Mr. Thompson. In 72 years, yes, sir.
+Mr. Grothman. What are we doing to make sure? I mean, some
+of those things when I get questions they wonder why is it any
+of the government's business. And while it hasn't necessarily
+been your organization, certainly other government
+organizations have not been able to protect their data. Maybe
+that's an impossible thing to do, but I am just saying you've
+got to realize that when you fill out a government form there's
+a possibility that someday the whole country will know what's
+on it.
+Are you doing anything--I'll put it this way. On those
+community surveys, is there any reason why that stuff has to be
+held more than 3 or 4 years?
+Mr. Thompson. Yes, sir, it's part of our national records
+program. And so as being part of the decennial Census we're
+mandated to make those records available to the public for a
+number of important reasons, so people can look at--can do
+ancestor research, so people can understand how their ancestors
+were working.
+Mr. Grothman. I understand it's kind of cool that I can
+look up and find my, whatever, great-grandfather was living
+wherever in 1880. But beyond that, there's stuff here that
+people don't want to have let out. So I'll ask you again, why--
+given that I would assume sooner or later you're going have a
+breach of your database, every other government agency seems
+to--is there any reason why you personally feel that if I fill
+out a form some information of which may be considered somewhat
+personal or at least they don't want everybody to know, any
+philosophical reason why that stuff has to be kept around?
+Mr. Thompson. As I said, we at the Census Bureau believe
+it's very important that we maintain a record of the Census and
+make that available in 72 years.
+Now, the Census Bureau takes security and privacy of our
+information very, very seriously, and we could go into great
+lengths about how we go about protecting the PII of our
+respondents and how we have a number of layers between that and
+any way to get to it. And so that's job one. Plus, we have some
+really severe penalties in place if there is willful disclosure
+of any kind of information.
+Mr. Grothman. Well, I'm sure that the IRS takes their
+responsibility seriously and whatever our equivalent of human
+resources is takes their responsibility seriously. And I
+realize we want to keep the bare bones minimum of the Census
+available out there. Like I said, we should maybe always know
+that Glenn Grothman in 2020 is living in Glenbeulah, Wisconsin.
+But why are we keeping all this more personal stuff? What is
+the sense of keeping that available for either some hacker to
+get ahold of it or even some busybody to look at it in 70
+years?
+Mr. Thompson. Congressman, we are actually mandated by
+law--and don't ask me the specific cite, I'll be happy to get
+it to you--to maintain those records as part of the decennial
+Census.
+Mr. Grothman. Okay. But you don't have an opinion on it
+personally?
+Mr. Thompson. My opinion is to do the Census as the
+Congress shall direct. So that's basically my opinion.
+Mr. Grothman. Okay. I'll give you one more question here,
+which is kind of the parting question. We still don't know
+whether you're going to use the NDNH or the kids link sources.
+When are you going to decide whether you're going to use those
+or not, or what is going to determine whether or not you're
+going to use them, have access to them?
+Mr. Thompson. So we're going to make our final decision on
+the exact administrative records we'll use, which will be in
+2018, and that would include whatever we've been able to put
+together, and that's what we're going to go forward with. We're
+not going to change after that point.
+Mr. Grothman. Thank you.
+Mr. Meadows. I thank the gentleman.
+The chair recognizes the gentlewoman from New York, Mrs.
+Maloney, for 5 minutes.
+Mrs. Maloney. I thank the gentlemen and ranking member for
+calling this important hearing and all of the participants
+today. The Census is mandated in the United States
+Constitution. It's a requirement illustrated right in the
+Constitution. And historians constantly refer to it, documents
+refer to in it ways that help us understand our history and
+understand our country. And I'm glad that we're focusing on it,
+because if we don't have good data, if we don't have a good
+Census, then we don't have good policy.
+I would also say the Census is relied on more and more by
+businesses and others to understand our country, where we are,
+where we're going, what our needs are. And I would say the
+allocation of Federal funds is dependent on Census data, as is
+oftentimes public policy in general, and it's incredibly
+important.
+But that said, I want to really associate myself with the
+comments of the prior speaker on the importance of keeping it
+confidential, that this is a critical trust that this be kept
+confidential until 70 years later. And I do want to cite that
+there happens to be a Broadway play playing right now in New
+York on a violation of the Census data during World War II,
+where the Census data was used to round up Japanese Americans
+and place them in detention camps. It's probably the worst
+chapter of the Census in the history of our country, that our
+sacred data that we pledge will be confidential was violated.
+So that was a bad, bad, bad era.
+But I do want to go back to cybersecurity and that we have
+to take the cybersecurity seriously. And I want to say that in
+light of a recent cyber incident at the Bureau, I want to
+better understand the data controls currently in place. I don't
+believe that the Census would ever give up data in this day and
+time, you know, willingly. I don't believe that at all. I think
+it's totally confidential. But I am concerned about a cyber
+incident.
+And I'd like to ask Mr. Thompson, the Director, on July 24
+you issued a statement confirming that the Bureau, and I am
+quoting from you, ``experienced an attack to gain access to the
+Federal Audit Clearinghouse.'' And can you first explain to us
+what is the Federal Audit Clearinghouse? And your statement
+went on to say, ``While our IT forensics investigation
+continues, I want to assure you that at this time every
+indication is that the breach was limited to the this database
+and that it did not include personally identifiable information
+provided by people responding to our Census and surveys.''
+So your comment please on that.
+Mr. Thompson. Thank you. So that is a database--what we
+call a Web-facing database that we maintain that sits between
+our firewall and the outside. And so that database was
+maintained for people to put certain types of information in
+which is nonsensitive information and that's the database that,
+unfortunately, got breached. We've taken steps since then,
+which Mr. Cooper could explain better than I can because he's
+more of an IT person, to rectify that problem.
+But importantly, we also have safeguards that will not let
+anything past our firewall which will get to the personally
+identified information at the Census Bureau, and that was not
+breached in that circumstance.
+Mrs. Maloney. Okay. Can you share with us the results from
+the forensic investigation, Mr. Cooper?
+Mr. Cooper. Yes, ma'am, I can.
+Mrs. Maloney. And what steps have you taken to prevent a
+similar cyber incident in the future?
+Mr. Cooper. Okay. First what our forensic analysis has
+shown to date is that gives us the time line of the attack and
+the source addresses from which the attack was launched, both--
+--
+Mrs. Maloney. Where do you think it came from? Where do you
+think the attack came from?
+Mr. Cooper. In this environment, could I maybe follow up
+and get with you all in a different physical environment to
+discuss that with you please?
+Mrs. Maloney. Okay. Thank you.
+Mr. Cooper. If you'd allow me to do that.
+Now, we've also worked very, very closely with our
+colleagues at the FBI and with the Department of Homeland
+Security, so that that becomes part of the intelligence
+community environment, that helps us at the Census Bureau, it
+helps our colleagues across the Federal Government. So there's
+the first part that I can answer in this setting today.
+Second part. We have indeed installed new security
+measures, and let me give you a quick summary of those.
+First of all, we have--we're in the process of implementing
+Web application scanning capability that we did not have
+broadly in place at the time of that breach. We've also
+included funding in our fiscal year 2016 budget to bring the
+cybersecurity company we used in fiscal year 2015, ``we'' in
+this case being the Census Bureau, back to do another scan.
+And I have instituted as the CIO regular scanning. We have
+reached out to some other Federal departments to assist us with
+what's called blue team assessments, blue team attacks, which
+are friendly attacks against our environment to help identify
+threats and vulnerabilities that we may not have uncovered
+ourselves.
+We're also actively engaged with our colleagues at the
+Department of Homeland Security. We have fully implemented all
+available Einstein precautions to enhance and strengthen our
+cyber scanning capability to identify threats and critical
+vulnerabilities. We're working very closely with the
+Department, Department of Homeland Security, to implement as
+part of what's known as phase two of the Continuing Diagnostics
+and Mitigation program of DHS. We are now working and we will
+be deploying additional CDM capability, more scanning and
+software tools, sensors, in our networks.
+All of this strengthens our environment and enhances our
+capability from the time of the breach even till now, and will
+continue to do that going forward.
+Mrs. Maloney. Well, my time has expired, but possibly you
+could get back to us in writing the controls the Census Bureau
+has in place to protect this collected data.
+Mrs. Maloney. I think it's very important. And people want
+to know that their data is protected, as the gentleman
+mentioned earlier.
+I thank you and I yield back.
+Mr. Meadows. I thank the gentlewoman.
+Just for planning purposes, we're going to have a very
+brief second round of questions, and by very brief only a few
+members, I think, are going to participate in that.
+So the chair will recognize the chairman of the
+subcommittee, Mr. Hurd, for a series of questions.
+Mr. Hurd. Gene Dadaro is going to get mad at me for asking
+this question, but, Ms. Cha, I hear there is a position
+available at the Bureau, the Census Bureau, for chief of
+business integration. Would you be interested in taking a
+sabbatical to take that position? I think you would be well-
+positioned for that.
+But, Mr. Cooper, Mr. Thompson, if I understand this
+correctly, you're basically crowdsourcing people to answer
+some--you know, to get better information, have them get that
+information into you. We didn't even get to ask many questions.
+Not knowing how many people you expect to respond to that,
+that's going to drive your technology decisions and the
+infrastructure. Two years out, that's difficult.
+But let me understand this bring your own device or buying
+a new device. Are we talking about having--buying actual
+smartphones that have the app already on there with the
+security systems established or are we talking about a new
+designed device that's not a smartphone but it's used
+specifically for you all? I'm confused.
+Mr. Cooper. Okay. In this case it would be the former of
+your two scenarios.
+Mr. Hurd. Okay. So it's a smartphone that everyone is going
+to use. And when are you going to make the decision----
+Mr. Cooper. That would be option one, and that would be a
+government-furnished device. Options two would be bring your
+own device and we will then load the----
+Mr. Hurd. And when are you making this decision on which?
+Mr. Cooper. September 2016.
+Mr. Hurd. September--how many months is that?
+Mr. Cooper. It's about not quite a year from now.
+Mr. Hurd. Why 12 months, why that long to make a simple
+decision that's going to base--that's going to drive your
+entire plan?
+Mr. Cooper. That allows us to complete the planned and
+already in motion, in process set of field operation tests so
+that we can make both an economic-based determination as well
+as a security-based determination and include privacy and
+functionality.
+Mr. Hurd. I recognize the privacy and security concerns of
+having people bringing their own device and uploading that
+information onto some system or server that touches all of your
+databases. But this is not a new technology, right? Everybody
+on this platform have probably block walked at some point in
+time and this is just block walking on steroids.
+And I represent a very rural part of Texas that doesn't
+have cell phone service and we would still be able to do that.
+So the necessity to have a year of testing a technology and a
+process that is used pretty significantly is shocking to me.
+And that's something that I'd love to continue to talk about
+another time.
+I have two final questions, a separate issue. It is my
+understanding that missionaries and other individuals
+temporarily overseas with a clear intent to return would not be
+included in the Census. Is this correct?
+Mr. Thompson. Congressman, we are in the process right now
+of determining the residence rules that we will use for the
+2020 Census. Recently we sent out the rules that we use for
+where to count people, who to count in 2010 for public comment.
+We received a number of comments, and we are now in the process
+of responding to those comments, and we will then issue our
+plan for 2020. In the last Census, if someone was permanently
+away from the United States we did not count them in the United
+States.
+Mr. Hurd. Okay. We would welcome your documentation in
+writing on this process, it is important to a number of
+members.
+Mr. Hurd. And also, in the 112th Congress, Senator Hatch
+and Representative Bishop introduced companion bills requiring
+that all citizens of the United States temporarily living
+abroad at the time of the Census be counted and attributed to
+the State they had most recently lived in. This legislation
+also provided for the use of administrative records to assist
+in the count. Can you describe any concerns you have with this
+legislation? And we would love to see that in writing if you
+all haven't done the analysis of that.
+Mr. Thompson. At this point I'd have to respond to you in
+writing.
+Mr. Hurd. Thank you very much.
+I yield back, Chairman. Thank you.
+Mr. Meadows. I thank the gentleman.
+The chair recognizes the ranking member, Mr. Connolly, for
+a series of questions.
+Mr. Connolly. Thank you.
+Mr. Cooper, these are, I hope, brief answers to brief
+questions. Following up on Mrs. Maloney's questioning, you
+mentioned Einstein. Part of the problem with the breach at OPM
+was Einstein 3, I believe, was not yet fully implemented. Are
+we at Einstein 3 for the Census?
+Mr. Cooper. We are where our telecom providers have already
+put the Einstein 3 capabilities in place.
+Mr. Connolly. Good.
+Mr. Cooper. There is one telecom provider that is not quite
+at Einstein 3.
+Mr. Connolly. Okay. Good to know.
+Mr. Cooper. The answer is yes.
+Mr. Connolly. Secondly, in response to, I think, Mr. Blum's
+questioning, I think you acknowledged that there could be
+roughly 100 different systems--I guess at Census or Commerce?
+Mr. Cooper. That would be Census.
+Mr. Connolly. Census. Presumably some of these are legacy
+systems.
+Mr. Cooper. Absolutely, yes. I don't know the quantitative
+breakout. I can follow up and----
+Mr. Connolly. Some of those systems do not lend themselves
+as a result to encryption. Is that correct?
+Mr. Cooper. That is correct, in some cases.
+Mr. Connolly. So that makes them more vulnerable, not less
+vulnerable to hacking.
+Mr. Cooper. It's my understanding--and I'm going to defer,
+I'm going to ask over my shoulder to kind of make sure I don't
+misstate this--it is my understanding that while we do have
+legacy systems involved somewhere in that 112, it's my
+understanding that we don't have a situation where a legacy
+system that's directly involved in supporting Census operations
+leading to the 2020 decennial is not able to be encrypted.
+Is that a valid statement?
+Okay. Yes. So that would not be a situation we would run
+into in support of the 2020 Census.
+Mr. Connolly. Okay. Thank you.
+I think that's it for now, thank you very much.
+Mr. Meadows. Well, I want to close by thanking each of the
+witnesses here. I guess the most important thing, I was talking
+to the ranking member, what we would like to do is not in a
+hearing setting, but necessarily in a briefing setting is set
+some regular updates of which actually all four of you would be
+welcome for those regular updates. I think over the next 12
+months I see that as a critical window. And as much as we want
+to talk about 2020, I think the next 12 to 18 months is our go-
+or-no-go timeframe. And so in doing that, to have quarterly
+briefings as to where we're making progress and where we're
+not.
+Is everybody okay with doing that?
+I see--let the record show everybody nodded in the
+affirmative.
+And, Director Thompson, Mr. Cooper, thank you, thank your
+staff for the work. I mean, sometimes it is only thought about
+when we get the results or when we have someone knocking at our
+door. There is obviously years of planning that go ahead of
+that time to make sure that it's done seamlessly. And we're
+going to count on 2020 being done seamlessly. And so I would do
+that.
+I would also be remiss in saying that many of the
+recommendations that the GAO are making are raising concerns.
+If they're not happy, I'm probably not going to be happy. And
+so I just want to stress that, that it is critical that we work
+hand in glove together, because failure is not an option.
+And with that, thank each you for your testimony here
+today.
+If there is no further business, without objection, the
+subcommittee stands adjourned.
+[Whereupon, at 4:16 p.m., the subcommittees were
+adjourned.]
+
+APPENDIX
+
+----------
+
+Material Submitted for the Hearing Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
