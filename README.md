@@ -1,8 +1,9 @@
-# Evidence versus Intuition Rhetoric in U.S. House of Representatives
+# Evidence/Intuition Rhetoric in Congressional Speech vs Constituent Education Levels
 
 A BERT-based analysis examining how constituent education levels affect House Representatives' use of evidence-based versus intuition-based language in congressional hearings (Congress 112-118).
 
 **Authors:** Avery Lee, Patrick Ruan, Sanjali Roy
+
 **Institution:** University of California, Berkeley
 
 For full research details, see the [paper](A%20Bert-based%20Analysis%20of%20Evidence%20versus%20Intuition%20Rhetoric%20in%20U.S.%20House%20of%20Representatives%20and%20Constituent%20Education%20Levels.pdf).
