@@ -7,7 +7,7 @@ A BERT-based analysis examining how constituent education levels affect House Re
 
 For full research details, see the [paper](A%20Bert-based%20Analysis%20of%20Evidence%20versus%20Intuition%20Rhetoric%20in%20U.S.%20House%20of%20Representatives%20and%20Constituent%20Education%20Levels.pdf).
 
-The main analysis script is in `Modeling/Evidence_and_Intuition_vs_Education.ipynb`.
+The main analysis script is [here](Modeling/Evidence_and_Intuition_vs_Education.ipynb).
 
 ## Repository Structure
 
